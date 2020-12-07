@@ -9,3 +9,4 @@ Architecture Weekly - links and resources
 - [Joel Spolsky - Don't Let Architecture Astronauts Scare You](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you)
 - [Gergerly Oros - What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/)
 - [Dominik Jeske - Pull Requests](https://dominikjeske.github.io/pull-requests)
+- [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
