@@ -7,6 +7,7 @@ Architecture Weekly - links and resources
 - [Miia Niemelä - Lessons learned from combining SQS and Lambda in a data project](https://data.solita.fi/lessons-learned-from-combining-sqs-and-lambda-in-a-data-project/)
 - [Adam Warski - Evaluating persistent, replicated message queues (2020 edition)](https://softwaremill.com/mqperf/)
 - [Gergerly Oros - Operating a Large, Distributed System in a Reliable Way: Practices I Learned](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/)
+- [Jimmy Bogard - Building End-to-End Diagnostics: ActivitySource and OpenTelemetry 1.0](https://jimmybogard.com/building-end-to-end-diagnostics-activitysource-and-open)
 
 ### Architecture
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
