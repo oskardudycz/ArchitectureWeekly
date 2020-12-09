@@ -3,9 +3,10 @@ Architecture Weekly - links and resources
 
 ## 13th December 2020
 
-### Messaging
+### Distributed systems
 - [Miia Niemelä - Lessons learned from combining SQS and Lambda in a data project](https://data.solita.fi/lessons-learned-from-combining-sqs-and-lambda-in-a-data-project/)
 - [Adam Warski - Evaluating persistent, replicated message queues (2020 edition)](https://softwaremill.com/mqperf/)
+- [Gergerly Oros - Operating a Large, Distributed System in a Reliable Way: Practices I Learned](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/)
 
 ### Architecture
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
