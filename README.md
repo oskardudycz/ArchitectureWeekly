@@ -8,6 +8,7 @@ Architecture Weekly - links and resources
 - [Adam Warski - Evaluating persistent, replicated message queues (2020 edition)](https://softwaremill.com/mqperf/)
 - [Gergerly Oros - Operating a Large, Distributed System in a Reliable Way: Practices I Learned](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/)
 - [Jimmy Bogard - Building End-to-End Diagnostics: ActivitySource and OpenTelemetry 1.0](https://jimmybogard.com/building-end-to-end-diagnostics-activitysource-and-open)
+- [Kevin Sookocheff - Dissecting SQS FIFO Queues — Does Ordered and Exactly Once Messaging Really Exist?](https://sookocheff.com/post/messaging/dissecting-sqs-fifo-queues/)
 
 ### Architecture
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
