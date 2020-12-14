@@ -42,6 +42,9 @@ Feel free to add your links by sending PR. There are two rules:
 
 ## Next week
 
+### Trivia
+- [Anna Novikova - What If Programming Languages Were Game of Thrones Characters](https://intersog.co.il/blog/what-if-programming-languages-were-game-of-thrones-characters/)
+
 ## Support
 
 💖 If this repository helped you - I'd be more than happy if you **join** the group of **my official supporters** at:
