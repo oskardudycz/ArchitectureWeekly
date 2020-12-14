@@ -42,6 +42,9 @@ Feel free to add your links by sending PR. There are two rules:
 
 ## Next week
 
+### Coding Life
+- [Adam Storm - Why Senior Engineers Hate Coding Interviews](https://medium.com/swlh/why-senior-engineers-hate-coding-interviews-d583d2855757)
+
 ### Trivia
 - [Anna Novikova - What If Programming Languages Were Game of Thrones Characters](https://intersog.co.il/blog/what-if-programming-languages-were-game-of-thrones-characters/)
 
