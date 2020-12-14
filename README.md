@@ -45,6 +45,10 @@ Feel free to add your links by sending PR. There are two rules:
 ### Coding Life
 - [Adam Storm - Why Senior Engineers Hate Coding Interviews](https://medium.com/swlh/why-senior-engineers-hate-coding-interviews-d583d2855757)
 
+### Security 
+
+- [Microsoft - John Lambert - Important steps for customers to protect themselves from recent nation-state cyberattacks](https://blogs.microsoft.com/on-the-issues/2020/12/13/customers-protect-nation-state-cyberattacks/)
+
 ### Trivia
 - [Anna Novikova - What If Programming Languages Were Game of Thrones Characters](https://intersog.co.il/blog/what-if-programming-languages-were-game-of-thrones-characters/)
 
