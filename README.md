@@ -2,7 +2,7 @@
 
 # Architecture Weekly
 
-Hi my name is [Oskar Dudycz](https://github.com/oskardudycz), I created this repository to share weekly set of links that I found valuable and inspiring. I hope that you'll like it!
+Hi! My name is [Oskar Dudycz](https://github.com/oskardudycz). I created this repository to share a weekly set of links that I found valuable and inspiring. I hope that you'll like it!
 
 ## Contributing
 
