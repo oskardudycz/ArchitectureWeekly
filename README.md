@@ -6,7 +6,9 @@ Hi my name is [Oskar Dudycz](https://github.com/oskardudycz), I created this rep
 
 ## Contributing
 
-Feel free to add your links by sending PR. There are two rules - it has to be interesting, we should not be the link to our posts - this repository is not for advertising ourselves but shares the knowledge.
+Feel free to add your links by sending PR. There are two rules:
+- it has to be interesting, 
+- we should not be adding links to our posts - this repository is not for advertising ourselves but sharing the knowledge.
 
 ## 14th December 2020
 
