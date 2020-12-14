@@ -1,7 +1,14 @@
-# Architecture Weekly
-Architecture Weekly - links and resources 
+![Twitter Follow](https://img.shields.io/twitter/follow/oskar_at_net?style=social) [![Github Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/oskardudycz/)](https://github.com/sponsors/oskardudycz/)
 
-## 13th December 2020
+# Architecture Weekly
+
+Hi my name is [Oskar Dudycz](https://github.com/oskardudycz), I created this repository to share weekly set of links that I found valuable and inspiring. I hope that you'll like it!
+
+## Contributing
+
+Feel free to add your links by sending PR. There are two rules - it has to be interesting, we should not be the link to our posts - this repository is not for advertising ourselves but shares the knowledge.
+
+## 14th December 2020
 
 ### Distributed systems
 - [Miia Niemelä - Lessons learned from combining SQS and Lambda in a data project](https://data.solita.fi/lessons-learned-from-combining-sqs-and-lambda-in-a-data-project/)
@@ -28,3 +35,13 @@ Architecture Weekly - links and resources
 ### Security 
 
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
+
+-------
+
+## Support
+
+💖 If this repository helped you - I'd be more than happy if you **join** the group of **my official supporters** at:
+
+👉 [Github Sponsors](https://github.com/sponsors/oskardudycz) 
+
+**Architecture Weekly** is Copyright &copy; 2020 [Oskar Dudycz](http://oskar-dudycz.pl) and other contributors under the [MIT license](LICENSE).
