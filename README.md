@@ -38,6 +38,8 @@ Feel free to add your links by sending PR. There are two rules - it has to be in
 
 -------
 
+## Next week
+
 ## Support
 
 💖 If this repository helped you - I'd be more than happy if you **join** the group of **my official supporters** at:
