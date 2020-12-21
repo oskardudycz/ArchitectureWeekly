@@ -1,5 +1,17 @@
 # All links
 
+- [All links](#all-links)
+  - [Distributed systems](#distributed-systems)
+  - [Architecture](#architecture)
+  - [DevOps](#devops)
+  - [Frontend](#frontend)
+  - [.NET](#net)
+  - [Coding Life](#coding-life)
+  - [Industry](#industry)
+  - [Tools](#tools)
+  - [Security](#security)
+  - [Trivia](#trivia)
+
 ## Distributed systems
 - [TechCrunch - AWS introduces new Chaos Engineering as a Service offering](https://techcrunch.com/2020/12/15/aws-introduces-new-chaos-engineering-as-a-service-offering)
 - [AWS - Using AWS Lambda for streaming analytics](https://aws.amazon.com/blogs/compute/using-aws-lambda-for-streaming-analytics/)
