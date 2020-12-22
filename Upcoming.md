@@ -7,3 +7,6 @@
 
 ### Mobile
 - [Gergerly Orosz - 33 Engineering Challenges of Building Mobile Apps at Scale eBook & Other Learnings](https://gumroad.com/l/IuuuN)
+
+### Trivia
+- [The InfoQ eMag: 2020 Year In Review](https://www.infoq.com/minibooks/2020-year-review/)
