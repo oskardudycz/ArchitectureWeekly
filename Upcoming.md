@@ -4,6 +4,7 @@
 
 ### Architecture
 - [Md Kamaruzzaman - Microservice Architecture and its 10 Most Important Design Patterns](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
+- [Ben Nandel - Why I've Been Merging Microservices Back Into The Monolith At InVision ](https://www.bennadel.com/blog/3944-why-ive-been-merging-microservices-back-into-the-monolith-at-invision.htm)
 
 ### DevOps
 - [Mikey Campbell - Docker rolls out initial support for Apple Silicon Macs](https://appleinsider.com/articles/20/12/11/docker-rolls-out-initial-support-for-apple-silicon-macs)
