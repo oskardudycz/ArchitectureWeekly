@@ -16,5 +16,9 @@
 ### Mobile
 - [Gergerly Orosz - 33 Engineering Challenges of Building Mobile Apps at Scale eBook & Other Learnings](https://gumroad.com/l/IuuuN)
 
+### Industry
+- [Wired - Nice Try, Facebook. iOS Changes Aren’t Bad for Small Businesses](https://www.wired.com/story/sorry-facebook-ios-changes-not-bad-for-small-businesses/)
+
 ### Trivia
 - [The InfoQ eMag: 2020 Year In Review](https://www.infoq.com/minibooks/2020-year-review/)
+- [Bert Hubert - Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
