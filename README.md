@@ -14,6 +14,65 @@ There are two rules:
 - it has to be interesting, 
 - we should not be adding links to our posts - this repository is not for advertising ourselves but sharing the knowledge.
 
+## Support
+
+💖 If this repository helped you - I'd be more than happy if you **join** the group of **my official supporters** at [Github Sponsors](https://github.com/sponsors/oskardudycz) 
+
+-------
+
+## [28th December 2020](per-week/2020-12-28.md)
+
+### Architecture
+- [Md Kamaruzzaman - Microservice Architecture and its 10 Most Important Design Patterns](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
+- [Ben Nandel - Why I've Been Merging Microservices Back Into The Monolith At InVision ](https://www.bennadel.com/blog/3944-why-ive-been-merging-microservices-back-into-the-monolith-at-invision.htm)
+- [Mike Hadlow - Decoupling, Architecture and Teams](http://mikehadlow.blogspot.com/2018/11/decoupling-architecture-and-teams.html)
+- [Uwe Friedrichsen - The microservices fallacy - Part 5](https://www.ufried.com/blog/microservices_fallacy_5_design/)
+- [Tyron Offerman, Christoph Johann Stettina, Aske Plaat - Business capabilities: A systematic literature review and a research agenda](https://www.researchgate.net/publication/323000484_Business_capabilities_A_systematic_literature_review_and_a_research_agenda)
+- [Savvas Kleanthous - The impossibility of exactly-once delivery](https://blog.bulloak.io/post/20200917-the-impossibility-of-exactly-once/)
+
+## Distributed systems
+- [Twitter - Babatunde Fashola - Kafka as a storage system](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/kafka-as-a-storage-system.html)
+- [Cloudflare - A Byzantine failure in the real world](https://blog.cloudflare.com/a-byzantine-failure-in-the-real-world/)
+- [Heidi Howard, Ittai Abraham - Raft does not Guarantee Liveness in the face of Network Faults](https://decentralizedthoughts.github.io/2020-12-12-raft-liveness-full-omission/)
+- [The Burning Monk - "Even simple serverless applications have complex architecture diagrams", so what?](https://medium.com/theburningmonk-com/even-simple-serverless-applications-have-complex-architecture-diagrams-so-what-8dc618fd4df6)
+- [Charity Majors - Logs vs Structured Events](https://charity.wtf/2019/02/05/logs-vs-structured-events/amp/)
+- [Martin Fowler - Segmented Log](https://martinfowler.com/articles/patterns-of-distributed-systems/log-segmentation.html)
+
+### DevOps
+- [Mikey Campbell - Docker rolls out initial support for Apple Silicon Macs](https://appleinsider.com/articles/20/12/11/docker-rolls-out-initial-support-for-apple-silicon-macs)
+- [GitLab - How we upgraded PostgreSQL at GitLab.com](https://about.gitlab.com/blog/2020/09/11/gitlab-pg-upgrade/)
+
+### Frontend
+- [React - Introducing Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
+
+### Mobile
+- [Gergerly Orosz - 33 Engineering Challenges of Building Mobile Apps at Scale eBook & Other Learnings](https://gumroad.com/l/IuuuN)
+
+### Testing
+- [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
+
+### API
+- [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
+
+### .NET
+- [Jamie Dixon - Looking at SARS-CoV-2 Genome with F#](https://jamessdixon.com/2020/12/26/looking-at-sars-cov-2-genome-with-f/)
+- [Filip Wojnarowski - Beautiful and compact Web APIs with C# 9, .NET 5.0 and ASP.NET Core](https://www.strathweb.com/2020/10/beautiful-and-compact-web-apis-with-c-9-net-5-0-and-asp-net-core/)
+- [Matt Eland - How Programming Languages Change How You Think](https://killalldefects.com/2020/12/27/how-programming-languages-change-how-you-think/)
+
+## Coding Life
+- [Marcin Hoppe - Securing Your GitHub Project](https://marcinhoppe.com/securing-your-github-project/)
+- [Scott Hanselman's 2021 Ultimate Developer and Power Users Tool List for Windows](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
+
+### Industry
+- [Logic Magazine - Don’t Be Evil: Fred Turner on Utopias, Frontiers, and Brogrammers](https://logicmag.io/justice/fred-turner-dont-be-evil/)
+- [Wired - Nice Try, Facebook. iOS Changes Aren’t Bad for Small Businesses](https://www.wired.com/story/sorry-facebook-ios-changes-not-bad-for-small-businesses/)
+
+### Trivia
+- [The InfoQ eMag: 2020 Year In Review](https://www.infoq.com/minibooks/2020-year-review/)
+- [Bert Hubert - Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
+- [Nvidia - Cooking up a Storm: GPU-Powered Smart Oven Is a Miracle Machine](https://blogs.nvidia.com/blog/2015/06/09/gpu-powered-june-oven/)
+- [Brian Roemmele - What is the oldest continuously operating electronic computer, and where is it?](https://www.quora.com/What-is-the-oldest-continuously-operating-electronic-computer-and-where-is-it/answer/Brian-Roemmele)
+
 -------
 
 ## [21st December 2020](per-week/2020-12-21.md)
@@ -90,11 +149,5 @@ There are two rules:
 ### Security 
 
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
-
-## Support
-
-💖 If this repository helped you - I'd be more than happy if you **join** the group of **my official supporters** at:
-
-👉 [Github Sponsors](https://github.com/sponsors/oskardudycz) 
 
 **Architecture Weekly** is Copyright &copy; 2020 [Oskar Dudycz](http://oskar-dudycz.pl) and other contributors under the [MIT license](LICENSE).
