@@ -2,6 +2,9 @@
 
 ## 4th January 2021
 
+### Distributed systems
+- [Karine Altisen, Stéphane Devismes, Swan Dubois, Franck Petit - Introduction to Distributed Self-Stabilizing Algorithms](https://ieeexplore.ieee.org/document/8693060)
+
 ### DevOps
 - [Gaspare Vitta - Speed up Docker build time with cache warming](https://dev.to/gasparev/speed-up-docker-build-time-with-cache-warming-29on)
 
