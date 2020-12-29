@@ -7,3 +7,6 @@
 
 ### .NET 
 - [Steve "Ardalis" Smith - Double Dispatch in C# and DDD](https://ardalis.com/double-dispatch-in-c-and-ddd)
+
+### Hardware
+- [Erik Engheim - Why Is Apple’s M1 Chip So Fast?](https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2)
