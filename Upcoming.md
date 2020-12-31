@@ -1,6 +1,8 @@
 # Upcoming Links
 
 ## 4th January 2021
+### Security
+- [Microsoft 365 Defender Research Team, Microsoft Threat Intelligence Center (MSTIC)](https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
 
 ### Distributed systems
 - [Karine Altisen, Stéphane Devismes, Swan Dubois, Franck Petit - Introduction to Distributed Self-Stabilizing Algorithms](https://ieeexplore.ieee.org/document/8693060)
