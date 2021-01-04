@@ -11,8 +11,8 @@
   - [.NET](#net)
   - [Coding Life](#coding-life)
   - [Industry](#industry)
-    - [Hardware](#hardware)
-    - [Low level](#low-level)
+  - [Hardware](#hardware)
+  - [Low level](#low-level)
   - [Tools](#tools)
   - [Security](#security)
   - [Trivia](#trivia)
@@ -110,11 +110,11 @@
 - [Wired - Nice Try, Facebook. iOS Changes Aren’t Bad for Small Businesses](https://www.wired.com/story/sorry-facebook-ios-changes-not-bad-for-small-businesses/)
 - [The Verge - Casey Newton - How Microsoft crushed Slack](https://www.theverge.com/22150313/how-microsoft-crushed-slack-salesforce-acquisition)
 
-### Hardware
+## Hardware
 - [Erik Engheim - Why Is Apple’s M1 Chip So Fast?](https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2)
 - [Alex Ellis - Five years of Raspberry Pi Clusters](https://alexellisuk.medium.com/five-years-of-raspberry-pi-clusters-77e56e547875)
 
-### Low level
+## Low level
 - [Cindy Sridharan - Seamless file descriptor transfer between processes with pidfd and pidfd_getfd](https://copyconstruct.medium.com/seamless-file-descriptor-transfer-between-processes-with-pidfd-and-pidfd-getfd-816afcd19ed4)
 
 ## Tools 
