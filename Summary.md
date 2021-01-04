@@ -11,11 +11,17 @@
   - [.NET](#net)
   - [Coding Life](#coding-life)
   - [Industry](#industry)
+    - [Hardware](#hardware)
+    - [Low level](#low-level)
   - [Tools](#tools)
   - [Security](#security)
   - [Trivia](#trivia)
 
 ## Architecture
+- [CoRecursive Podcast - Data and Scale with Pat Helland](https://corecursive.com/028-data-and-scale-with-pat-helland/)
+- [Mailerlite - Improving MailerLite: What happened during our new infrastructure implementation](https://www.mailerlite.com/blog/improving-mailerlite-what-happened-during-our-new-infrastructure-implementation)
+- [Nikolay Ashanin - The Path to Becoming a Software Architect](https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a)
+- [Sébastien Andreo - Architecture documentation series](https://dev.to/sebastienandreo/architecture-documentation-series-100i)
 - [Md Kamaruzzaman - Microservice Architecture and its 10 Most Important Design Patterns](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
 - [Ben Nandel - Why I've Been Merging Microservices Back Into The Monolith At InVision ](https://www.bennadel.com/blog/3944-why-ive-been-merging-microservices-back-into-the-monolith-at-invision.htm)
 - [Mike Hadlow - Decoupling, Architecture and Teams](http://mikehadlow.blogspot.com/2018/11/decoupling-architecture-and-teams.html)
@@ -25,6 +31,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed systems
+- [Karine Altisen, Stéphane Devismes, Swan Dubois, Franck Petit - Introduction to Distributed Self-Stabilizing Algorithms](https://ieeexplore.ieee.org/document/8693060)
 - [Twitter - Babatunde Fashola - Kafka as a storage system](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/kafka-as-a-storage-system.html)
 - [Cloudflare - A Byzantine failure in the real world](https://blog.cloudflare.com/a-byzantine-failure-in-the-real-world/)
 - [Heidi Howard, Ittai Abraham - Raft does not Guarantee Liveness in the face of Network Faults](https://decentralizedthoughts.github.io/2020-12-12-raft-liveness-full-omission/)
@@ -44,12 +51,15 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Gaspare Vitta - Speed up Docker build time with cache warming](https://dev.to/gasparev/speed-up-docker-build-time-with-cache-warming-29on)
+- [Steven Rescigno - Getting Started With WebAssembly, Docker, and Alpine](https://medium.com/better-programming/getting-started-with-wasm-webassembly-docker-alpine-b8652f82ce5e)
 - [Mikey Campbell - Docker rolls out initial support for Apple Silicon Macs](https://appleinsider.com/articles/20/12/11/docker-rolls-out-initial-support-for-apple-silicon-macs)
 - [GitLab - How we upgraded PostgreSQL at GitLab.com](https://about.gitlab.com/blog/2020/09/11/gitlab-pg-upgrade/)
 - [Alex Ellis - containerd development with multipass](https://blog.alexellis.io/containerd-development-multipass)
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Arnaud - Github Codespaces for React Native](https://eveningkid.medium.com/github-codespaces-for-react-native-61d450db8fc0)
 - [React - Introducing Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
 - [Wojciech Krzysztofik - How to Use Google Lighthouse for Better Web Performance](https://www.wearecogworks.com/blog/how-to-use-google-lighthouse-for-better-web-performance/)
 - [David Ramel - TypeScript Surges in GitHub Octoverse 2020 Report](https://visualstudiomagazine.com/articles/2020/12/03/octoverse-2020.aspx)
@@ -64,6 +74,10 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## .NET
+- [Steve "Ardalis" Smith - Double Dispatch in C# and DDD](https://ardalis.com/double-dispatch-in-c-and-ddd)
+- [Dotnetos - RAM Anatomy Poster](https://goodies.dotnetos.org/files/dotnetos-poster-ram.pdf)
+- [Tore Nestenius - .NET 5 Source Generators - MediatR - CQRS - OMG!](https://www.edument.se/en/blog/post/net-5-source-generators-mediatr-cqrs)
+- [Dave Brock - Blast Off with Blazor: Integrate Cosmos DB with Blazor WebAssembly](https://daveabrock.com/2020/12/13/blast-off-blazor-cosmos)
 - [Jamie Dixon - Looking at SARS-CoV-2 Genome with F#](https://jamessdixon.com/2020/12/26/looking-at-sars-cov-2-genome-with-f/)
 - [Filip Wojnarowski - Beautiful and compact Web APIs with C# 9, .NET 5.0 and ASP.NET Core](https://www.strathweb.com/2020/10/beautiful-and-compact-web-apis-with-c-9-net-5-0-and-asp-net-core/)
 - [Matt Eland - How Programming Languages Change How You Think](https://killalldefects.com/2020/12/27/how-programming-languages-change-how-you-think/)
@@ -75,6 +89,12 @@
 - [Microsoft - Layomi](https://devblogs.microsoft.com/dotnet/whats-next-for-system-text-json/)
 
 ## Coding Life
+- [Aaron Stannard - How to Play Software as a Team Sport](https://aaronstannard.com/software-team-sport/)
+- [Nate Graham - How KDE can transcend the cycle of Geeks, Mops, and Sociopaths](https://pointieststick.com/2020/12/29/how-kde-can-transcend-the-cycle-of-geeks-mops-and-sociopaths/)
+- [Jonathan Edwards - The Great Software Stagnation](https://alarmingdevelopment.org/?p=1475)
+- [John Cutler - The Beautiful Mess 2020](https://johnpcutler.github.io/tbm2020/)
+- [Werner Vogels - The Back-to-Basics Readings of 2012](https://www.allthingsdistributed.com/2012/12/paper-readings-2012.html)
+- [Sonja Blignaut - Creating Messy Coherence](https://sonjablignaut.medium.com/creating-messy-coherence-c0ae404e2627)
 - [Marcin Hoppe - Securing Your GitHub Project](https://marcinhoppe.com/securing-your-github-project/)
 - [Scott Hanselman's 2021 Ultimate Developer and Power Users Tool List for Windows](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
 - [Adam Storm - Why Senior Engineers Hate Coding Interviews](https://medium.com/swlh/why-senior-engineers-hate-coding-interviews-d583d2855757)
@@ -90,14 +110,25 @@
 - [Wired - Nice Try, Facebook. iOS Changes Aren’t Bad for Small Businesses](https://www.wired.com/story/sorry-facebook-ios-changes-not-bad-for-small-businesses/)
 - [The Verge - Casey Newton - How Microsoft crushed Slack](https://www.theverge.com/22150313/how-microsoft-crushed-slack-salesforce-acquisition)
 
+### Hardware
+- [Erik Engheim - Why Is Apple’s M1 Chip So Fast?](https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2)
+- [Alex Ellis - Five years of Raspberry Pi Clusters](https://alexellisuk.medium.com/five-years-of-raspberry-pi-clusters-77e56e547875)
+
+### Low level
+- [Cindy Sridharan - Seamless file descriptor transfer between processes with pidfd and pidfd_getfd](https://copyconstruct.medium.com/seamless-file-descriptor-transfer-between-processes-with-pidfd-and-pidfd-getfd-816afcd19ed4)
+
 ## Tools 
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Microsoft 365 Defender Research Team - Analyzing Solorigate, the compromised DLL file that started a sophisticated cyberattack, and how Microsoft Defender helps protect customers](https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
 - [Microsoft - John Lambert - Important steps for customers to protect themselves from recent nation-state cyberattacks](https://blogs.microsoft.com/on-the-issues/2020/12/13/customers-protect-nation-state-cyberattacks/)
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [Brian Pennie - Are You Mindful or Mindless? A Neuroscientist’s Perspective](https://medium.com/personal-growth/are-you-mindful-or-mindless-a-neuroscientists-perspective-bba176aea0d8)
+- [BBC - Brexit deal mentions Netscape browser and Mozilla Mail](https://www.bbc.com/news/technology-55475433)
+- [Sam Brinson - How to Learn Absolutely Anything Online](https://forge.medium.com/upgrade-your-mind-online-9301e5a911f4)
 - [The InfoQ eMag: 2020 Year In Review](https://www.infoq.com/minibooks/2020-year-review/)
 - [Bert Hubert - Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
 - [Nvidia - Cooking up a Storm: GPU-Powered Smart Oven Is a Miracle Machine](https://blogs.nvidia.com/blog/2015/06/09/gpu-powered-june-oven/)

@@ -20,6 +20,55 @@ There are two rules:
 
 -------
 
+## 4th January 2021
+
+### Architecture
+- [CoRecursive Podcast - Data and Scale with Pat Helland](https://corecursive.com/028-data-and-scale-with-pat-helland/)
+- [Mailerlite - Improving MailerLite: What happened during our new infrastructure implementation](https://www.mailerlite.com/blog/improving-mailerlite-what-happened-during-our-new-infrastructure-implementation)
+- [Nikolay Ashanin - The Path to Becoming a Software Architect](https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a)
+- [Sébastien Andreo - Architecture documentation series](https://dev.to/sebastienandreo/architecture-documentation-series-100i)
+
+### Distributed systems
+- [Karine Altisen, Stéphane Devismes, Swan Dubois, Franck Petit - Introduction to Distributed Self-Stabilizing Algorithms](https://ieeexplore.ieee.org/document/8693060)
+
+### DevOps
+- [Gaspare Vitta - Speed up Docker build time with cache warming](https://dev.to/gasparev/speed-up-docker-build-time-with-cache-warming-29on)
+- [Steven Rescigno - Getting Started With WebAssembly, Docker, and Alpine](https://medium.com/better-programming/getting-started-with-wasm-webassembly-docker-alpine-b8652f82ce5e)
+
+### Frontend
+- [Arnaud - Github Codespaces for React Native](https://eveningkid.medium.com/github-codespaces-for-react-native-61d450db8fc0)
+
+### .NET 
+- [Steve "Ardalis" Smith - Double Dispatch in C# and DDD](https://ardalis.com/double-dispatch-in-c-and-ddd)
+- [Dotnetos - RAM Anatomy Poster](https://goodies.dotnetos.org/files/dotnetos-poster-ram.pdf)
+- [Tore Nestenius - .NET 5 Source Generators - MediatR - CQRS - OMG!](https://www.edument.se/en/blog/post/net-5-source-generators-mediatr-cqrs)
+- [Dave Brock - Blast Off with Blazor: Integrate Cosmos DB with Blazor WebAssembly](https://daveabrock.com/2020/12/13/blast-off-blazor-cosmos)
+
+### Coding Life
+- [Aaron Stannard - How to Play Software as a Team Sport](https://aaronstannard.com/software-team-sport/)
+- [Nate Graham - How KDE can transcend the cycle of Geeks, Mops, and Sociopaths](https://pointieststick.com/2020/12/29/how-kde-can-transcend-the-cycle-of-geeks-mops-and-sociopaths/)
+- [Jonathan Edwards - The Great Software Stagnation](https://alarmingdevelopment.org/?p=1475)
+- [John Cutler - The Beautiful Mess 2020](https://johnpcutler.github.io/tbm2020/)
+- [Werner Vogels - The Back-to-Basics Readings of 2012](https://www.allthingsdistributed.com/2012/12/paper-readings-2012.html)
+- [Sonja Blignaut - Creating Messy Coherence](https://sonjablignaut.medium.com/creating-messy-coherence-c0ae404e2627)
+
+### Hardware
+- [Erik Engheim - Why Is Apple’s M1 Chip So Fast?](https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2)
+- [Alex Ellis - Five years of Raspberry Pi Clusters](https://alexellisuk.medium.com/five-years-of-raspberry-pi-clusters-77e56e547875)
+
+### Low level
+- [Cindy Sridharan - Seamless file descriptor transfer between processes with pidfd and pidfd_getfd](https://copyconstruct.medium.com/seamless-file-descriptor-transfer-between-processes-with-pidfd-and-pidfd-getfd-816afcd19ed4)
+
+### Security
+- [Microsoft 365 Defender Research Team - Analyzing Solorigate, the compromised DLL file that started a sophisticated cyberattack, and how Microsoft Defender helps protect customers](https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
+
+### Trivia
+- [Brian Pennie - Are You Mindful or Mindless? A Neuroscientist’s Perspective](https://medium.com/personal-growth/are-you-mindful-or-mindless-a-neuroscientists-perspective-bba176aea0d8)
+- [BBC - Brexit deal mentions Netscape browser and Mozilla Mail](https://www.bbc.com/news/technology-55475433)
+- [Sam Brinson - How to Learn Absolutely Anything Online](https://forge.medium.com/upgrade-your-mind-online-9301e5a911f4)
+
+-------
+
 ## [28th December 2020](per-week/2020-12-28.md)
 
 ### Architecture
