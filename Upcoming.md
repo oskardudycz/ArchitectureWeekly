@@ -9,6 +9,9 @@
 - [Phil Sturgeon - Automated Style Guides for REST, GraphQL and gRPC](https://apisyouwonthate.com/blog/automated-style-guides-for-rest-graphql-and-grpc)
 - [Phil Sturgeon - Automating API Style Guides: Spectral AMA with Phil Sturgeon](https://www.youtube.com/watch?v=kjlwjQEQm7A)
 
+### Databases
+- [DB-Engines - PostgreSQL is the DBMS of the Year 2020](https://db-engines.com/en/blog_post/85)
+
 ### Azure
 - [Marius Sandbu - Deep dive Azure Monitor and Log Analytics](https://msandbu.org/deep-dive-azure-monitor-and-log-analytics/)
 
@@ -17,3 +20,4 @@
 
 ### Industry
 - [Github - Nat Friedman - Advancing developer freedom: GitHub is fully available in Iran](https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran/)
+- [MacRomors - Mandatory WhatsApp Privacy Policy Update Allows User Data to be Shared With Facebook](https://www.macrumors.com/2021/01/06/whatsapp-privacy-policy-data-sharing-facebook/)
