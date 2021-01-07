@@ -26,3 +26,6 @@
 - [ZDNet - Nissan source code leaked online after Git repo misconfiguration](https://www.zdnet.com/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/)
 - [The New York Times - Widely Used Software Company May Be Entry Point for Huge U.S. Hacking](https://www.nytimes.com/2021/01/06/us/politics/russia-cyber-hack.html)
 - [Jet Brains - Statement on the story from The New York Times regarding JetBrains and SolarWinds](https://blog.jetbrains.com/blog/2021/01/06/statement-on-the-story-from-the-new-york-times-regarding-jetbrains-and-solarwinds/)
+
+### Trivia
+- [Simon Holdorf - 10 Extraordinary GitHub Repos for All Developers](https://dev.to/simonholdorf/10-extraordinary-github-repos-for-all-developers-2ag8)
