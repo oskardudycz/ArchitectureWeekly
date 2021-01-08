@@ -2,6 +2,11 @@
 
 ## 10th January 2021
 
+### Distributed Systems
+- [Leo Gorodinski - Scaling Event-Sourcing at Jet](https://medium.com/@eulerfx/scaling-event-sourcing-at-jet-9c873cac33b8)
+- [Kenny Bastani - Change Data Analysis with Debezium and Apache Pinot](https://medium.com/apache-pinot-developer-blog/change-data-analysis-with-debezium-and-apache-pinot-b4093dc178a7)
+- [David Hettler - https://davidhettler.net/blog/avro-kafka-schema-registry/](https://davidhettler.net/blog/avro-kafka-schema-registry/)
+
 ### DevOps
 - [Damian Naprawa - Dockerfile Best Practices](https://github.com/dnaprawa/dockerfile-best-practices)
 - [Andrew Lock - Auto-assigning issues using a GitHub Action](https://andrewlock.net/auto-assigning-issues-using-a-github-action/)
@@ -27,6 +32,7 @@
 ### Industry
 - [Github - Nat Friedman - Advancing developer freedom: GitHub is fully available in Iran](https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran/)
 - [MacRomors - Mandatory WhatsApp Privacy Policy Update Allows User Data to be Shared With Facebook](https://www.macrumors.com/2021/01/06/whatsapp-privacy-policy-data-sharing-facebook/)
+- [James Turner - Open source has a funding problem](https://stackoverflow.blog/2021/01/07/open-source-has-a-funding-problem/)
 
 ### Security
 - [ZDNet - Nissan source code leaked online after Git repo misconfiguration](https://www.zdnet.com/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/)
