@@ -6,6 +6,7 @@
 - [Leo Gorodinski - Scaling Event-Sourcing at Jet](https://medium.com/@eulerfx/scaling-event-sourcing-at-jet-9c873cac33b8)
 - [Kenny Bastani - Change Data Analysis with Debezium and Apache Pinot](https://medium.com/apache-pinot-developer-blog/change-data-analysis-with-debezium-and-apache-pinot-b4093dc178a7)
 - [David Hettler - https://davidhettler.net/blog/avro-kafka-schema-registry/](https://davidhettler.net/blog/avro-kafka-schema-registry/)
+- [Eran Stiller - RabbitMQ vs. Kafka: Head-To-Head](https://medium.com/better-programming/rabbitmq-vs-kafka-1779b5b70c41)
 
 ### DevOps
 - [Damian Naprawa - Dockerfile Best Practices](https://github.com/dnaprawa/dockerfile-best-practices)
