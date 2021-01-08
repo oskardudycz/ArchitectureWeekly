@@ -12,6 +12,7 @@
 
 ### Databases
 - [DB-Engines - PostgreSQL is the DBMS of the Year 2020](https://db-engines.com/en/blog_post/85)
+- [Chris Hanks - Turning PostgreSQL into a queue serving 10,000 jobs per second](https://gist.github.com/chanks/7585810)
 
 ### Azure
 - [Marius Sandbu - Deep dive Azure Monitor and Log Analytics](https://msandbu.org/deep-dive-azure-monitor-and-log-analytics/)
