@@ -27,6 +27,9 @@
 - [Marius Sandbu - Deep dive Azure Monitor and Log Analytics](https://msandbu.org/deep-dive-azure-monitor-and-log-analytics/)
 - [Yves Goeleven - CDN Hosting](https://www.goeleven.com/blog/cdn-hosting/)
 
+### Functional Programming
+- [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
+
 ### .NET
 - [Daniel Krzyczkowski - Cars Island ASP .NET Core API secured by Azure AD B2C](https://daniel-krzyczkowski.github.io/Cars-Island-ASP-NET-Core-API-Secured-By-Azure-AD-B2C/)
 
