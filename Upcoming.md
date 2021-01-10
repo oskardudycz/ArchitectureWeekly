@@ -3,6 +3,7 @@
 ## 10th January 2021
 
 ### Distributed Systems
+- [Gregor Hohpe - Your Coffee Shop Doesn’tUse Two-Phase Commit](https://www.enterpriseintegrationpatterns.com/docs/IEEE_Software_Design_2PC.pdf)
 - [Leo Gorodinski - Scaling Event-Sourcing at Jet](https://medium.com/@eulerfx/scaling-event-sourcing-at-jet-9c873cac33b8)
 - [Kenny Bastani - Change Data Analysis with Debezium and Apache Pinot](https://medium.com/apache-pinot-developer-blog/change-data-analysis-with-debezium-and-apache-pinot-b4093dc178a7)
 - [David Hettler - https://davidhettler.net/blog/avro-kafka-schema-registry/](https://davidhettler.net/blog/avro-kafka-schema-registry/)
