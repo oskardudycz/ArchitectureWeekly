@@ -8,6 +8,9 @@
   - [Mobile](#mobile)
   - [Testing](#testing)
   - [API](#api)
+    - [Databases](#databases)
+    - [Azure](#azure)
+    - [Functional Programming](#functional-programming)
   - [.NET](#net)
   - [Coding Life](#coding-life)
   - [Industry](#industry)
@@ -31,6 +34,16 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed systems
+- [Gregor Hohpe - Your Coffee Shop Doesn’tUse Two-Phase Commit](https://www.enterpriseintegrationpatterns.com/docs/IEEE_Software_Design_2PC.pdf)
+- [Leo Gorodinski - Scaling Event-Sourcing at Jet](https://medium.com/@eulerfx/scaling-event-sourcing-at-jet-9c873cac33b8)
+- [Kenny Bastani - Change Data Analysis with Debezium and Apache Pinot](https://medium.com/apache-pinot-developer-blog/change-data-analysis-with-debezium-and-apache-pinot-b4093dc178a7)
+- [David Hettler - https://davidhettler.net/blog/avro-kafka-schema-registry/](https://davidhettler.net/blog/avro-kafka-schema-registry/)
+- [Eran Stiller - RabbitMQ vs. Kafka](https://medium.com/better-programming/rabbitmq-vs-kafka-1ef22a041793)
+- [Eran Stiller - RabbitMQ vs. Kafka: Head-To-Head](https://medium.com/better-programming/rabbitmq-vs-kafka-1779b5b70c41)
+- [Erez Rabih - RabbitMQ Retries — The Full Story](https://engineering.nanit.com/rabbitmq-retries-the-full-story-ca4cc6c5b493)
+- [Lovisa Johansson - When to use RabbitMQ or Apache Kafka](https://www.cloudamqp.com/blog/2019-12-12-when-to-use-rabbitmq-or-apache-kafka.html)
+- [Denis Rystsov - Awesome distributed transactions](https://github.com/rystsov/awesome-distributed-transactions)
+- [Penghui Li, Xiaolong Ran - Announcing MQTT-on-Pulsar: Bringing Native MQTT Protocol Support to Apache Pulsar](https://streamnative.io/en/blog/tech/2020-09-28-announcing-mqtt-on-pulsar)
 - [Karine Altisen, Stéphane Devismes, Swan Dubois, Franck Petit - Introduction to Distributed Self-Stabilizing Algorithms](https://ieeexplore.ieee.org/document/8693060)
 - [Twitter - Babatunde Fashola - Kafka as a storage system](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/kafka-as-a-storage-system.html)
 - [Cloudflare - A Byzantine failure in the real world](https://blog.cloudflare.com/a-byzantine-failure-in-the-real-world/)
@@ -51,6 +64,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Damian Naprawa - Dockerfile Best Practices](https://github.com/dnaprawa/dockerfile-best-practices)
+- [Andrew Lock - Auto-assigning issues using a GitHub Action](https://andrewlock.net/auto-assigning-issues-using-a-github-action/)
+- [Sean Killeen - Adding Spell Checking to my Blog’s Build Process with GitHub Actions and cSpell ](https://seankilleen.com/2021/01/adding-spell-checking-to-my-blogs-build-process-with-github-actions-and-cspell/)
 - [Gaspare Vitta - Speed up Docker build time with cache warming](https://dev.to/gasparev/speed-up-docker-build-time-with-cache-warming-29on)
 - [Steven Rescigno - Getting Started With WebAssembly, Docker, and Alpine](https://medium.com/better-programming/getting-started-with-wasm-webassembly-docker-alpine-b8652f82ce5e)
 - [Mikey Campbell - Docker rolls out initial support for Apple Silicon Macs](https://appleinsider.com/articles/20/12/11/docker-rolls-out-initial-support-for-apple-silicon-macs)
@@ -59,6 +75,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Ingvar Stepanyan - Debugging WebAssembly with modern tools](https://www.youtube.com/watch?v=VBMHswhun-s)
 - [Arnaud - Github Codespaces for React Native](https://eveningkid.medium.com/github-codespaces-for-react-native-61d450db8fc0)
 - [React - Introducing Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
 - [Wojciech Krzysztofik - How to Use Google Lighthouse for Better Web Performance](https://www.wearecogworks.com/blog/how-to-use-google-lighthouse-for-better-web-performance/)
@@ -71,9 +88,26 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [Phil Sturgeon - Automated Style Guides for REST, GraphQL and gRPC](https://apisyouwonthate.com/blog/automated-style-guides-for-rest-graphql-and-grpc)
+- [Phil Sturgeon - Automating API Style Guides: Spectral AMA with Phil Sturgeon](https://www.youtube.com/watch?v=kjlwjQEQm7A)
+
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
+### Databases
+- [DB-Engines - PostgreSQL is the DBMS of the Year 2020](https://db-engines.com/en/blog_post/85)
+- [Chris Hanks - Turning PostgreSQL into a queue serving 10,000 jobs per second](https://gist.github.com/chanks/7585810)
+- [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
+
+### Azure
+- [Marius Sandbu - Deep dive Azure Monitor and Log Analytics](https://msandbu.org/deep-dive-azure-monitor-and-log-analytics/)
+- [Yves Goeleven - CDN Hosting](https://www.goeleven.com/blog/cdn-hosting/)
+- [InfoWorld - Simon Bisson - Jumping into Azure Arc Data Services](https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.amp.html)
+
+### Functional Programming
+- [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
+
 ## .NET
+- [Daniel Krzyczkowski - Cars Island ASP .NET Core API secured by Azure AD B2C](https://daniel-krzyczkowski.github.io/Cars-Island-ASP-NET-Core-API-Secured-By-Azure-AD-B2C/)
 - [Steve "Ardalis" Smith - Double Dispatch in C# and DDD](https://ardalis.com/double-dispatch-in-c-and-ddd)
 - [Dotnetos - RAM Anatomy Poster](https://goodies.dotnetos.org/files/dotnetos-poster-ram.pdf)
 - [Tore Nestenius - .NET 5 Source Generators - MediatR - CQRS - OMG!](https://www.edument.se/en/blog/post/net-5-source-generators-mediatr-cqrs)
@@ -89,6 +123,10 @@
 - [Microsoft - Layomi](https://devblogs.microsoft.com/dotnet/whats-next-for-system-text-json/)
 
 ## Coding Life
+- [Joel Goldberg - What I've Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
+- [Changelog Podcast with Simon Eskildsen - Estimating systems with napkin math](https://changelog.com/podcast/412)
+- [Michael Feathers - Toward a Galvanizing Definition of Technical Debt](https://michaelfeathers.silvrback.com/toward-a-galvanizing-definition-of-technical-debt)
+- [Paul Dyson - Service Driven Design, Pain Driven Development](https://pauldys0n.medium.com/service-driven-design-pain-driven-development-97f20b58340c)
 - [Aaron Stannard - How to Play Software as a Team Sport](https://aaronstannard.com/software-team-sport/)
 - [Nate Graham - How KDE can transcend the cycle of Geeks, Mops, and Sociopaths](https://pointieststick.com/2020/12/29/how-kde-can-transcend-the-cycle-of-geeks-mops-and-sociopaths/)
 - [Jonathan Edwards - The Great Software Stagnation](https://alarmingdevelopment.org/?p=1475)
@@ -106,6 +144,11 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Industry
+- [Github - Nat Friedman - Advancing developer freedom: GitHub is fully available in Iran](https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran/)
+- [MacRomors - Mandatory WhatsApp Privacy Policy Update Allows User Data to be Shared With Facebook](https://www.macrumors.com/2021/01/06/whatsapp-privacy-policy-data-sharing-facebook/)
+- [James Turner - Open source has a funding problem](https://stackoverflow.blog/2021/01/07/open-source-has-a-funding-problem/)
+- [BuzzFeed.News - John Paczkowski, Ryan Mac - Amazon Is Booting Parler Off Of Its Web Hosting Service](https://www.buzzfeednews.com/amphtml/johnpaczkowski/amazon-parler-aws)
+- [Pluralsight - Tech in 2021 Report](https://www.pluralsight.com/content/dam/pluralsight2/pdf/tech-in-2021.pdf)
 - [Logic Magazine - Don’t Be Evil: Fred Turner on Utopias, Frontiers, and Brogrammers](https://logicmag.io/justice/fred-turner-dont-be-evil/)
 - [Wired - Nice Try, Facebook. iOS Changes Aren’t Bad for Small Businesses](https://www.wired.com/story/sorry-facebook-ios-changes-not-bad-for-small-businesses/)
 - [The Verge - Casey Newton - How Microsoft crushed Slack](https://www.theverge.com/22150313/how-microsoft-crushed-slack-salesforce-acquisition)
@@ -121,11 +164,15 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [ZDNet - Nissan source code leaked online after Git repo misconfiguration](https://www.zdnet.com/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/)
+- [The New York Times - Widely Used Software Company May Be Entry Point for Huge U.S. Hacking](https://www.nytimes.com/2021/01/06/us/politics/russia-cyber-hack.html)
+- [Jet Brains - Statement on the story from The New York Times regarding JetBrains and SolarWinds](https://blog.jetbrains.com/blog/2021/01/06/statement-on-the-story-from-the-new-york-times-regarding-jetbrains-and-solarwinds/)
 - [Microsoft 365 Defender Research Team - Analyzing Solorigate, the compromised DLL file that started a sophisticated cyberattack, and how Microsoft Defender helps protect customers](https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
 - [Microsoft - John Lambert - Important steps for customers to protect themselves from recent nation-state cyberattacks](https://blogs.microsoft.com/on-the-issues/2020/12/13/customers-protect-nation-state-cyberattacks/)
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [Simon Holdorf - 10 Extraordinary GitHub Repos for All Developers](https://dev.to/simonholdorf/10-extraordinary-github-repos-for-all-developers-2ag8)
 - [Brian Pennie - Are You Mindful or Mindless? A Neuroscientist’s Perspective](https://medium.com/personal-growth/are-you-mindful-or-mindless-a-neuroscientists-perspective-bba176aea0d8)
 - [BBC - Brexit deal mentions Netscape browser and Mozilla Mail](https://www.bbc.com/news/technology-55475433)
 - [Sam Brinson - How to Learn Absolutely Anything Online](https://forge.medium.com/upgrade-your-mind-online-9301e5a911f4)
