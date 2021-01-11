@@ -11,6 +11,7 @@
 - [Eran Stiller - RabbitMQ vs. Kafka: Head-To-Head](https://medium.com/better-programming/rabbitmq-vs-kafka-1779b5b70c41)
 - [Erez Rabih - RabbitMQ Retries — The Full Story](https://engineering.nanit.com/rabbitmq-retries-the-full-story-ca4cc6c5b493)
 - [Lovisa Johansson - When to use RabbitMQ or Apache Kafka](https://www.cloudamqp.com/blog/2019-12-12-when-to-use-rabbitmq-or-apache-kafka.html)
+- [Denis Rystsov - Awesome distributed transactions](https://github.com/rystsov/awesome-distributed-transactions)
 
 ### DevOps
 - [Damian Naprawa - Dockerfile Best Practices](https://github.com/dnaprawa/dockerfile-best-practices)
