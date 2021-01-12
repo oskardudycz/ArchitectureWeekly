@@ -3,6 +3,7 @@
 ## 18th January 2021
 
 ### Distributed Systems
+- [Diego Ongaro and John Ousterhout - In Search of an Understandable Consensus Algorithm(Extended Version)](https://raft.github.io/raft.pdf)
 - [InfoQ - Renato Losio - AWS Introduces Amazon Managed Service for Grafana and Amazon Managed Service for Prometheus](https://www.infoq.com/news/2021/01/aws-grafana-prometheus/)
 - [Jack Vanlightly - RabbitMQ vs Kafka Series Introduction](https://jack-vanlightly.com/blog/2017/12/3/rabbitmq-vs-kafka-series-introduction)
 - [Jack Vanlightly - quorum-queues-making-rabbitmq-more-competitive](https://jack-vanlightly.com/blog/2018/11/20/quorum-queues-making-rabbitmq-more-competitive)
