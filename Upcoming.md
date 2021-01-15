@@ -11,6 +11,10 @@
 - [Jack Vanlightly - RabbitMQ vs Kafka Series Introduction](https://jack-vanlightly.com/blog/2017/12/3/rabbitmq-vs-kafka-series-introduction)
 - [Jack Vanlightly - Quorum Queues - Making RabbitMQ More Competitive in Reliable Messaging](https://jack-vanlightly.com/blog/2018/11/20/quorum-queues-making-rabbitmq-more-competitive)
 
+### Frontend
+
+- [15th Anniversary of JQuery release](https://www.webdesignmuseum.org/web-design-history/jquery-2006)
+
 ### Testing
 - [Charity Majors - I test in prod](https://increment.com/testing/i-test-in-production/)
 
@@ -18,12 +22,14 @@
 - [Attila Szegedi - Makings of a Modern ACID Compliant Distributed Database](https://www.youtube.com/watch?v=pn8mCeX3LDE)
 
 ### .NET
+- [Jeremy D. Miller - What would it take for you to adopt Marten?](https://jeremydmiller.com/2021/01/11/what-would-it-take-for-you-to-adopt-marten/)
 - [Daniel Krzyczkowski - Cars Island ASP .NET Core API - integration with Azure Cosmos DB](https://daniel-krzyczkowski.github.io/Cars-Island-ASP-NET-Core-API-Integration-With-Azure-Cosmos-DB/)
 - [MSDocs - Introduction to the High Performance package](https://docs.microsoft.com/en-us/windows/communitytoolkit/high-performance/introduction)
-- [Jeremy D. Miller - What would it take for you to adopt Marten?](https://jeremydmiller.com/2021/01/11/what-would-it-take-for-you-to-adopt-marten/)
+- [Christopher Gill - Happy 10th Birthday, NuGet!](https://devblogs.microsoft.com/nuget/happy-10th-birthday-nuget/)
 
 ### Security
 - [CrowdStrike - SUNSPOT: An Implant in the Build](https://www.crowdstrike.com/blog/sunspot-malware-technical-analysis/)
 
 ### Trivia
 - [Robin Moffatt - How to win [or at least not suck] at the conference abstract submission game](https://rmoff.net/2020/01/16/how-to-win-or-at-least-not-suck-at-the-conference-abstract-submission-game/)
+- [McKinsey - Organizing for the future: Nine keys to becoming a future-ready company](https://www.mckinsey.com/business-functions/organization/our-insights/organizing-for-the-future-nine-keys-to-becoming-a-future-ready-company#)
