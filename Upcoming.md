@@ -26,7 +26,7 @@
 - [Daniel Krzyczkowski - Cars Island ASP .NET Core API - integration with Azure Cosmos DB](https://daniel-krzyczkowski.github.io/Cars-Island-ASP-NET-Core-API-Integration-With-Azure-Cosmos-DB/)
 - [MSDocs - Introduction to the High Performance package](https://docs.microsoft.com/en-us/windows/communitytoolkit/high-performance/introduction)
 - [Christopher Gill - Happy 10th Birthday, NuGet!](https://devblogs.microsoft.com/nuget/happy-10th-birthday-nuget/)
-
+- [Duende IdentityServer v5 Release!](https://blog.duendesoftware.com/posts/20210114_v5_release/)
 ### Coding Life
 - [Goiko Adzic - The Play, the points, and the biggest lie in software](https://gojko.net/2021/01/11/the-play-the-points-the-lie.html)
 
