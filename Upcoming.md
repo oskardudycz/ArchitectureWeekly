@@ -27,6 +27,9 @@
 - [MSDocs - Introduction to the High Performance package](https://docs.microsoft.com/en-us/windows/communitytoolkit/high-performance/introduction)
 - [Christopher Gill - Happy 10th Birthday, NuGet!](https://devblogs.microsoft.com/nuget/happy-10th-birthday-nuget/)
 
+### Coding Life
+- [Goiko Adzic - The Play, the points, and the biggest lie in software](https://gojko.net/2021/01/11/the-play-the-points-the-lie.html)
+
 ### Security
 - [CrowdStrike - SUNSPOT: An Implant in the Build](https://www.crowdstrike.com/blog/sunspot-malware-technical-analysis/)
 
