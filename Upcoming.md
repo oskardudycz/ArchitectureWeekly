@@ -33,6 +33,9 @@
 ### Security
 - [CrowdStrike - SUNSPOT: An Implant in the Build](https://www.crowdstrike.com/blog/sunspot-malware-technical-analysis/)
 
+### Industry
+[Bloomberg - Inside Cyberpunk 2077's Disastrous Rollout](https://www.bloomberg.com/amp/news/articles/2021-01-16/cyberpunk-2077-what-caused-the-video-game-s-disastrous-rollout)
+
 ### Trivia
 - [Robin Moffatt - How to win [or at least not suck] at the conference abstract submission game](https://rmoff.net/2020/01/16/how-to-win-or-at-least-not-suck-at-the-conference-abstract-submission-game/)
 - [McKinsey - Organizing for the future: Nine keys to becoming a future-ready company](https://www.mckinsey.com/business-functions/organization/our-insights/organizing-for-the-future-nine-keys-to-becoming-a-future-ready-company#)
