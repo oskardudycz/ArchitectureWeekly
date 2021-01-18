@@ -21,6 +21,7 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Vladimir Khorikov - Always-Valid Domain Model](https://enterprisecraftsmanship.com/posts/always-valid-domain-model/)
 - [CoRecursive Podcast - Data and Scale with Pat Helland](https://corecursive.com/028-data-and-scale-with-pat-helland/)
 - [Mailerlite - Improving MailerLite: What happened during our new infrastructure implementation](https://www.mailerlite.com/blog/improving-mailerlite-what-happened-during-our-new-infrastructure-implementation)
 - [Nikolay Ashanin - The Path to Becoming a Software Architect](https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a)
@@ -34,6 +35,10 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed systems
+- [Diego Ongaro and John Ousterhout - In Search of an Understandable Consensus Algorithm(Extended Version)](https://raft.github.io/raft.pdf)
+- [InfoQ - Renato Losio - AWS Introduces Amazon Managed Service for Grafana and Amazon Managed Service for Prometheus](https://www.infoq.com/news/2021/01/aws-grafana-prometheus/)
+- [Jack Vanlightly - RabbitMQ vs Kafka Series Introduction](https://jack-vanlightly.com/blog/2017/12/3/rabbitmq-vs-kafka-series-introduction)
+- [Jack Vanlightly - Quorum Queues - Making RabbitMQ More Competitive in Reliable Messaging](https://jack-vanlightly.com/blog/2018/11/20/quorum-queues-making-rabbitmq-more-competitive)
 - [Gregor Hohpe - Your Coffee Shop Doesn’tUse Two-Phase Commit](https://www.enterpriseintegrationpatterns.com/docs/IEEE_Software_Design_2PC.pdf)
 - [Leo Gorodinski - Scaling Event-Sourcing at Jet](https://medium.com/@eulerfx/scaling-event-sourcing-at-jet-9c873cac33b8)
 - [Kenny Bastani - Change Data Analysis with Debezium and Apache Pinot](https://medium.com/apache-pinot-developer-blog/change-data-analysis-with-debezium-and-apache-pinot-b4093dc178a7)
@@ -75,6 +80,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [15th Anniversary of JQuery release](https://www.webdesignmuseum.org/web-design-history/jquery-2006)
 - [Ingvar Stepanyan - Debugging WebAssembly with modern tools](https://www.youtube.com/watch?v=VBMHswhun-s)
 - [Arnaud - Github Codespaces for React Native](https://eveningkid.medium.com/github-codespaces-for-react-native-61d450db8fc0)
 - [React - Introducing Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
@@ -85,6 +91,7 @@
 - [Gergerly Orosz - 33 Engineering Challenges of Building Mobile Apps at Scale eBook & Other Learnings](https://gumroad.com/l/IuuuN)
 
 ## Testing
+- [Charity Majors - I test in prod](https://increment.com/testing/i-test-in-production/)
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
@@ -94,6 +101,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ### Databases
+- [Attila Szegedi - Makings of a Modern ACID Compliant Distributed Database](https://www.youtube.com/watch?v=pn8mCeX3LDE)
 - [DB-Engines - PostgreSQL is the DBMS of the Year 2020](https://db-engines.com/en/blog_post/85)
 - [Chris Hanks - Turning PostgreSQL into a queue serving 10,000 jobs per second](https://gist.github.com/chanks/7585810)
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
@@ -107,6 +115,12 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jeremy D. Miller - What would it take for you to adopt Marten?](https://jeremydmiller.com/2021/01/11/what-would-it-take-for-you-to-adopt-marten/)
+- [Daniel Krzyczkowski - Cars Island ASP .NET Core API - integration with Azure Cosmos DB](https://daniel-krzyczkowski.github.io/Cars-Island-ASP-NET-Core-API-Integration-With-Azure-Cosmos-DB/)
+- [MSDocs - Introduction to the High Performance package](https://docs.microsoft.com/en-us/windows/communitytoolkit/high-performance/introduction)
+- [Christopher Gill - Happy 10th Birthday, NuGet!](https://devblogs.microsoft.com/nuget/happy-10th-birthday-nuget/)
+- [Duende IdentityServer v5 Release!](https://blog.duendesoftware.com/posts/20210114_v5_release/)
+- [Wojciech Suwała - Better Unit Tests With Custom Builders, Asserts And A Sprinkle of DDD](https://altkomsoftware.pl/blog/better-unit-tests-with-custom-builders-asserts-and-a-sprinkle-of-ddd)
 - [Daniel Krzyczkowski - Cars Island ASP .NET Core API secured by Azure AD B2C](https://daniel-krzyczkowski.github.io/Cars-Island-ASP-NET-Core-API-Secured-By-Azure-AD-B2C/)
 - [Steve "Ardalis" Smith - Double Dispatch in C# and DDD](https://ardalis.com/double-dispatch-in-c-and-ddd)
 - [Dotnetos - RAM Anatomy Poster](https://goodies.dotnetos.org/files/dotnetos-poster-ram.pdf)
@@ -123,6 +137,7 @@
 - [Microsoft - Layomi](https://devblogs.microsoft.com/dotnet/whats-next-for-system-text-json/)
 
 ## Coding Life
+- [Gojko Adzic - The Play, the points, and the biggest lie in software](https://gojko.net/2021/01/11/the-play-the-points-the-lie.html)
 - [Joel Goldberg - What I've Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
 - [Changelog Podcast with Simon Eskildsen - Estimating systems with napkin math](https://changelog.com/podcast/412)
 - [Michael Feathers - Toward a Galvanizing Definition of Technical Debt](https://michaelfeathers.silvrback.com/toward-a-galvanizing-definition-of-technical-debt)
@@ -144,6 +159,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Industry
+- [Bloomberg - Inside Cyberpunk 2077's Disastrous Rollout](https://www.bloomberg.com/amp/news/articles/2021-01-16/cyberpunk-2077-what-caused-the-video-game-s-disastrous-rollout)
 - [Github - Nat Friedman - Advancing developer freedom: GitHub is fully available in Iran](https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran/)
 - [MacRomors - Mandatory WhatsApp Privacy Policy Update Allows User Data to be Shared With Facebook](https://www.macrumors.com/2021/01/06/whatsapp-privacy-policy-data-sharing-facebook/)
 - [James Turner - Open source has a funding problem](https://stackoverflow.blog/2021/01/07/open-source-has-a-funding-problem/)
@@ -164,6 +180,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [CrowdStrike - SUNSPOT: An Implant in the Build](https://www.crowdstrike.com/blog/sunspot-malware-technical-analysis/)
 - [ZDNet - Nissan source code leaked online after Git repo misconfiguration](https://www.zdnet.com/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/)
 - [The New York Times - Widely Used Software Company May Be Entry Point for Huge U.S. Hacking](https://www.nytimes.com/2021/01/06/us/politics/russia-cyber-hack.html)
 - [Jet Brains - Statement on the story from The New York Times regarding JetBrains and SolarWinds](https://blog.jetbrains.com/blog/2021/01/06/statement-on-the-story-from-the-new-york-times-regarding-jetbrains-and-solarwinds/)
@@ -172,6 +189,9 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [Robin Moffatt - How to win [or at least not suck] at the conference abstract submission game](https://rmoff.net/2020/01/16/how-to-win-or-at-least-not-suck-at-the-conference-abstract-submission-game/)
+- [McKinsey - Organizing for the future: Nine keys to becoming a future-ready company](https://www.mckinsey.com/business-functions/organization/our-insights/organizing-for-the-future-nine-keys-to-becoming-a-future-ready-company#)
+- [NY Times - Lost Passwords Lock Millionaires Out of Their Bitcoin Fortunes](https://www.nytimes.com/2021/01/12/technology/bitcoin-passwords-wallets-fortunes.html)
 - [Simon Holdorf - 10 Extraordinary GitHub Repos for All Developers](https://dev.to/simonholdorf/10-extraordinary-github-repos-for-all-developers-2ag8)
 - [Brian Pennie - Are You Mindful or Mindless? A Neuroscientist’s Perspective](https://medium.com/personal-growth/are-you-mindful-or-mindless-a-neuroscientists-perspective-bba176aea0d8)
 - [BBC - Brexit deal mentions Netscape browser and Mozilla Mail](https://www.bbc.com/news/technology-55475433)
