@@ -12,7 +12,6 @@
 - [Jack Vanlightly - Quorum Queues - Making RabbitMQ More Competitive in Reliable Messaging](https://jack-vanlightly.com/blog/2018/11/20/quorum-queues-making-rabbitmq-more-competitive)
 
 ### Frontend
-
 - [15th Anniversary of JQuery release](https://www.webdesignmuseum.org/web-design-history/jquery-2006)
 
 ### Testing
@@ -27,6 +26,8 @@
 - [MSDocs - Introduction to the High Performance package](https://docs.microsoft.com/en-us/windows/communitytoolkit/high-performance/introduction)
 - [Christopher Gill - Happy 10th Birthday, NuGet!](https://devblogs.microsoft.com/nuget/happy-10th-birthday-nuget/)
 - [Duende IdentityServer v5 Release!](https://blog.duendesoftware.com/posts/20210114_v5_release/)
+- [](https://altkomsoftware.pl/blog/better-unit-tests-with-custom-builders-asserts-and-a-sprinkle-of-ddd)
+
 ### Coding Life
 - [Goiko Adzic - The Play, the points, and the biggest lie in software](https://gojko.net/2021/01/11/the-play-the-points-the-lie.html)
 
