@@ -15,7 +15,7 @@
 - [Facebook Research - Virtual Consensus in Delos](https://research.fb.com/publications/virtual-consensus-in-delos/)
 
 ### Databases
-- [CockroachDB - How Amazon Aurora Works](https://www.youtube.com/watch?app=desktop&v=I4uOEoUYPC8)
+- [CockroachDB - How Amazon Aurora Works](https://www.youtube.com/watch?v=I4uOEoUYPC8)
 
 ### .NET
 - [Adam Ralph - Evolution of a toolchain by Adam Ralph](https://www.youtube.com/watch?v=FRvYr6eXiFk&t=13690s)
