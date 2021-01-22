@@ -12,6 +12,7 @@
 - [Slack - Final Slack Root Cause Analysis (RCA) Report - 2020-01-14](https://devopsish.com/pdf/Slack-Incident-Jan-04-2021-RCA-Final.pdf)
 - [Google Cloud Blog - Mete Atamel](https://cloud.google.com/blog/topics/developers-practitioners/eventarc-unified-eventing-experience-google-cloud)
 - [Heidi Howard - Distributed Consensus: Making Impossible Possible](https://www.youtube.com/watch?v=gYkueS5sKqo)
+- [Facebook Research - Virtual Consensus in Delos](https://research.fb.com/publications/virtual-consensus-in-delos/)
 
 ### .NET
 - [Adam Ralph - Evolution of a toolchain by Adam Ralph](https://www.youtube.com/watch?v=FRvYr6eXiFk&t=13690s)
