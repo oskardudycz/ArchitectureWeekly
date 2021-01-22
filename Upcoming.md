@@ -29,3 +29,4 @@
 ### Trivia
 - [CNBC - UK hospitals are using blockchain to track the temperature of coronavirus vaccines](https://www.cnbc.com/2021/01/19/uk-hospitals-use-blockchain-to-track-coronavirus-vaccine-temperature.html)
 - [Dave's Garage - Secret History of Windows Task Manager - Part 1 - Origins](https://www.youtube.com/watch?v=f8VBOiPV-_M)
+- [BBC News - How Covid turbocharged the QR revolution](https://www.bbc.com/news/business-55579480)
