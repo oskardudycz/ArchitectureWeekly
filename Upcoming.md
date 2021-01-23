@@ -19,6 +19,7 @@
 
 ### .NET
 - [Adam Ralph - Evolution of a toolchain by Adam Ralph](https://www.youtube.com/watch?v=FRvYr6eXiFk&t=13690s)
+- [Konrad Kokosa - .NET GC Internals mini-series](https://tooslowexception.com/net-gc-internals-mini-series/)
 
 ### Java
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
