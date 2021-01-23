@@ -31,3 +31,21 @@
 - [CNBC - UK hospitals are using blockchain to track the temperature of coronavirus vaccines](https://www.cnbc.com/2021/01/19/uk-hospitals-use-blockchain-to-track-coronavirus-vaccine-temperature.html)
 - [Dave's Garage - Secret History of Windows Task Manager - Part 1 - Origins](https://www.youtube.com/watch?v=f8VBOiPV-_M)
 - [BBC News - How Covid turbocharged the QR revolution](https://www.bbc.com/news/business-55579480)
+
+### OpenTelemetry in .NET
+
+- [OpenTelemetry official site](https://opentelemetry.io/)
+- [Building End-to-End Diagnostics and Tracing](https://jimmybogard.com/building-end-to-end-diagnostics-and-tracing-a-primer/)
+- [A Lap Around ActivitySource and ActivityListener in .NET 5](https://jimmybogard.com/activitysource-and-listener-in-net-5/)
+- [Increasing Trace Cardinality with Activity Tags and Baggage](https://jimmybogard.com/increasing-trace-cardinality-with-tags-and-baggage/)
+- [OpenTelemetry specification](https://github.com/open-telemetry/opentelemetry-specification/blob/master/specification/overview.md)
+- [OpenTelemetry .NET SDK progress](https://medium.com/opentelemetry/opentelemetry-net-sdk-progress-3a63dcdc6cb0)
+  - [Use new Activity to Replace OT Span](https://github.com/open-telemetry/opentelemetry-dotnet/pull/660)
+- [OpenTelemetry .NET](https://github.com/open-telemetry/opentelemetry-dotnet)
+  - [Comparing OpenTelemetry Trace API and .NET Activity API](https://github.com/open-telemetry/opentelemetry-dotnet/issues/947)
+- [Improvements in .NET Core 3.0 for troubleshooting and monitoring distributed apps](https://devblogs.microsoft.com/aspnet/improvements-in-net-core-3-0-for-troubleshooting-and-monitoring-distributed-apps/)
+- [ASP.NET Core Apps Observability](https://devblogs.microsoft.com/aspnet/observability-asp-net-core-apps/)
+- [Deep Dive into Open Telemetry for .NET](https://rehansaeed.com/deep-dive-into-open-telemetry-for-net/)
+- [OpenTelemetry: Future-Proofing Your Instrumentation](https://blog.newrelic.com/product-news/what-is-opentelemetry/)
+- [Improve Activity API usability and OpenTelemetry integration](https://github.com/dotnet/designs/blob/main/accepted/2020/diagnostics/activity-improvements.md)
+
