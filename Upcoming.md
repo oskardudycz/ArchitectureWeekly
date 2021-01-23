@@ -21,19 +21,7 @@
 - [Adam Ralph - Evolution of a toolchain by Adam Ralph](https://www.youtube.com/watch?v=FRvYr6eXiFk&t=13690s)
 - [Konrad Kokosa - .NET GC Internals mini-series](https://tooslowexception.com/net-gc-internals-mini-series/)
 
-### Java
-- [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
-
-### Industry
-- [TechCrunch - WhatsApp founder, Brian Acton, says Facebook used him to get its acquisition past EU regulators](https://techcrunch.com/2018/09/26/whatsapp-founder-brian-acton-says-facebook-used-him-to-get-its-acquisition-past-eu-regulators/)
-
-### Trivia
-- [CNBC - UK hospitals are using blockchain to track the temperature of coronavirus vaccines](https://www.cnbc.com/2021/01/19/uk-hospitals-use-blockchain-to-track-coronavirus-vaccine-temperature.html)
-- [Dave's Garage - Secret History of Windows Task Manager - Part 1 - Origins](https://www.youtube.com/watch?v=f8VBOiPV-_M)
-- [BBC News - How Covid turbocharged the QR revolution](https://www.bbc.com/news/business-55579480)
-
-### OpenTelemetry in .NET
-
+#### OpenTelemetry in .NET
 - [OpenTelemetry official site](https://opentelemetry.io/)
 - [Building End-to-End Diagnostics and Tracing](https://jimmybogard.com/building-end-to-end-diagnostics-and-tracing-a-primer/)
 - [A Lap Around ActivitySource and ActivityListener in .NET 5](https://jimmybogard.com/activitysource-and-listener-in-net-5/)
@@ -48,4 +36,16 @@
 - [Deep Dive into Open Telemetry for .NET](https://rehansaeed.com/deep-dive-into-open-telemetry-for-net/)
 - [OpenTelemetry: Future-Proofing Your Instrumentation](https://blog.newrelic.com/product-news/what-is-opentelemetry/)
 - [Improve Activity API usability and OpenTelemetry integration](https://github.com/dotnet/designs/blob/main/accepted/2020/diagnostics/activity-improvements.md)
+
+
+### Java
+- [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
+
+### Industry
+- [TechCrunch - WhatsApp founder, Brian Acton, says Facebook used him to get its acquisition past EU regulators](https://techcrunch.com/2018/09/26/whatsapp-founder-brian-acton-says-facebook-used-him-to-get-its-acquisition-past-eu-regulators/)
+
+### Trivia
+- [CNBC - UK hospitals are using blockchain to track the temperature of coronavirus vaccines](https://www.cnbc.com/2021/01/19/uk-hospitals-use-blockchain-to-track-coronavirus-vaccine-temperature.html)
+- [Dave's Garage - Secret History of Windows Task Manager - Part 1 - Origins](https://www.youtube.com/watch?v=f8VBOiPV-_M)
+- [BBC News - How Covid turbocharged the QR revolution](https://www.bbc.com/news/business-55579480)
 
