@@ -8,13 +8,13 @@
   - [Mobile](#mobile)
   - [Testing](#testing)
   - [API](#api)
-    - [Databases](#databases)
-    - [Azure](#azure)
-    - [Functional Programming](#functional-programming)
+  - [Databases](#databases)
+  - [Azure](#azure)
+  - [Functional Programming](#functional-programming)
   - [.NET](#net)
-      - [OpenTelemetry in .NET](#opentelemetry-in-net)
+    - [OpenTelemetry in .NET](#opentelemetry-in-net)
   - [Coding Life](#coding-life)
-    - [Java](#java)
+  - [Java](#java)
   - [Industry](#industry)
       - [ElasticSearch Licence change](#elasticsearch-licence-change)
   - [Hardware](#hardware)
@@ -111,19 +111,19 @@
 
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
-### Databases
+## Databases
 - [CockroachDB - How Amazon Aurora Works](https://www.youtube.com/watch?v=I4uOEoUYPC8)
 - [Attila Szegedi - Makings of a Modern ACID Compliant Distributed Database](https://www.youtube.com/watch?v=pn8mCeX3LDE)
 - [DB-Engines - PostgreSQL is the DBMS of the Year 2020](https://db-engines.com/en/blog_post/85)
 - [Chris Hanks - Turning PostgreSQL into a queue serving 10,000 jobs per second](https://gist.github.com/chanks/7585810)
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
-### Azure
+## Azure
 - [Marius Sandbu - Deep dive Azure Monitor and Log Analytics](https://msandbu.org/deep-dive-azure-monitor-and-log-analytics/)
 - [Yves Goeleven - CDN Hosting](https://www.goeleven.com/blog/cdn-hosting/)
 - [InfoWorld - Simon Bisson - Jumping into Azure Arc Data Services](https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.amp.html)
 
-### Functional Programming
+## Functional Programming
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
@@ -150,7 +150,7 @@
 - [Jimmy Bogard - Increasing Trace Cardinality with Activity Tags and Baggage](https://jimmybogard.com/increasing-trace-cardinality-with-tags-and-baggage/amp/)
 - [Microsoft - Layomi](https://devblogs.microsoft.com/dotnet/whats-next-for-system-text-json/)
 
-#### OpenTelemetry in .NET
+### OpenTelemetry in .NET
 - [OpenTelemetry official site](https://opentelemetry.io/)
 - [Building End-to-End Diagnostics and Tracing](https://jimmybogard.com/building-end-to-end-diagnostics-and-tracing-a-primer/)
 - [A Lap Around ActivitySource and ActivityListener in .NET 5](https://jimmybogard.com/activitysource-and-listener-in-net-5/)
@@ -189,7 +189,7 @@
 - [Dominik Jeske - Pull Requests](https://dominikjeske.github.io/pull-requests)
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
-### Java
+## Java
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
 ## Industry
