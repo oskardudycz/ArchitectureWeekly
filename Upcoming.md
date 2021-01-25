@@ -13,9 +13,19 @@
 - [Google Cloud Blog - Mete Atamel](https://cloud.google.com/blog/topics/developers-practitioners/eventarc-unified-eventing-experience-google-cloud)
 - [Heidi Howard - Distributed Consensus: Making Impossible Possible](https://www.youtube.com/watch?v=gYkueS5sKqo)
 - [Facebook Research - Virtual Consensus in Delos](https://research.fb.com/publications/virtual-consensus-in-delos/)
+- [Saba Khalilnaji and Ashwin Kachhara - Eliminating Task Processing Outages by Replacing RabbitMQ with Apache Kafka Without Downtime](https://doordash.engineering/2020/09/03/eliminating-task-processing-outages-with-kafka/)
+- [M.J. Fisher, N.A. Lynch, M.S. Paterson - Impossibility of Distributed Consensus with One Faulty Process](https://raw.githubusercontent.com/chungchi300/reading-book/master/library/distributed%20system/Impossibility%20of%20Distributed%20Consensus%20with%20One%20Faulty%20Process%20(FLP%20Impossibility).pdf)
+- [Martin Kleppmann - How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- [Szymon Pobiega, Tomasz Masternak - Side Effects](https://exactly-once.github.io/posts/side-effects/)
 
 ### Databases
 - [CockroachDB - How Amazon Aurora Works](https://www.youtube.com/watch?v=I4uOEoUYPC8)
+
+### Devops
+- [Cezary Piątek - Github Actions for Visual Studio Extension developers](https://cezarypiatek.github.io/post/develop-vsextension-with-github-actions/)
+
+### Frontend 
+- [Netlify - Building an Event Registration Page with Composition API and Serverless Functions](https://www.netlify.com/blog/2021/01/12/building-an-event-registration-page-with-composition-api-and-serverless-functions/)
 
 ### .NET
 - [Adam Ralph - Evolution of a toolchain by Adam Ralph](https://www.youtube.com/watch?v=FRvYr6eXiFk&t=13690s)
@@ -37,14 +47,30 @@
 - [OpenTelemetry: Future-Proofing Your Instrumentation](https://blog.newrelic.com/product-news/what-is-opentelemetry/)
 - [Improve Activity API usability and OpenTelemetry integration](https://github.com/dotnet/designs/blob/main/accepted/2020/diagnostics/activity-improvements.md)
 
-
 ### Java
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
+
+### Low Level
+- [InfoQ - Rust Hyper HTTP Library Will Contribute to Make Curl Safer](https://www.infoq.com/news/2020/10/memory-safe-curl-rust/)
+
+### Coding Life
+- [Ryan Singer - Shape Up](https://basecamp.com/shapeup/webbook)
 
 ### Industry
 - [TechCrunch - WhatsApp founder, Brian Acton, says Facebook used him to get its acquisition past EU regulators](https://techcrunch.com/2018/09/26/whatsapp-founder-brian-acton-says-facebook-used-him-to-get-its-acquisition-past-eu-regulators/)
 
+#### ElasticSearch Licence change
+- [Elastic - Amazon: NOT OK - why we had to change Elastic licensing](https://www.elastic.co/blog/why-license-change-AWS)
+- [AWS - Stepping up for a truly open source Elasticsearch](https://aws.amazon.com/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/)
+- [Drew DeVault - Elasticsearch does not belong to Elastic](https://drewdevault.com/2021/01/19/Elasticsearch-does-not-belong-to-Elastic.html)
+- [Logz.io - Truly Doubling Down on Open Source](https://logz.io/blog/open-source-elasticsearch-doubling-down)
+- [Grafana - Everything You Need to Know About the OSS Licensing War, Part 3.](https://grafana.com/blog/2019/04/18/everything-you-need-to-know-about-the-oss-licensing-war-part-3)
+- [Protocol - Does MongoDB regret offending the open-source community? Not one bit.](https://www.protocol.com/enterprise/mongodb-open-source-database)
+- [Corey Quinn - How to Compete with AWS](https://www.lastweekinaws.com/blog/how-to-compete-with-aws/)
+
 ### Trivia
+- [Jacobs Technion-Cornell Institute -  VoterFraud2020 - a multi-modal Twitter dataset with and retweets that includes key phrases and hashtags related to voter fraud claims between October 23rd and December 16th](https://voterfraud2020.io/)
+- [Coding Horror - Mort, Elvis, Einstein, and You](https://blog.codinghorror.com/mort-elvis-einstein-and-you/)
 - [CNBC - UK hospitals are using blockchain to track the temperature of coronavirus vaccines](https://www.cnbc.com/2021/01/19/uk-hospitals-use-blockchain-to-track-coronavirus-vaccine-temperature.html)
 - [Dave's Garage - Secret History of Windows Task Manager - Part 1 - Origins](https://www.youtube.com/watch?v=f8VBOiPV-_M)
 - [BBC News - How Covid turbocharged the QR revolution](https://www.bbc.com/news/business-55579480)
