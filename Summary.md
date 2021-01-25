@@ -12,8 +12,11 @@
     - [Azure](#azure)
     - [Functional Programming](#functional-programming)
   - [.NET](#net)
+      - [OpenTelemetry in .NET](#opentelemetry-in-net)
   - [Coding Life](#coding-life)
+    - [Java](#java)
   - [Industry](#industry)
+      - [ElasticSearch Licence change](#elasticsearch-licence-change)
   - [Hardware](#hardware)
   - [Low level](#low-level)
   - [Tools](#tools)
@@ -21,6 +24,9 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Hugo Rocha - The Perils of Event-Driven: Eventual Consistency](https://medium.com/swlh/handling-eventual-consistency-11324324aec4)
+- [Savvas Kleanthous - Event immutability and dealing with change](https://www.eventstore.com/blog/event-immutability-and-dealing-with-change)
+- [Steven Van Beelen - Intro to Event-Driven Microservices using DDD, CQRS & Event sourcing](https://www.youtube.com/watch?v=F0g5B4F9MMs)
 - [Vladimir Khorikov - Always-Valid Domain Model](https://enterprisecraftsmanship.com/posts/always-valid-domain-model/)
 - [CoRecursive Podcast - Data and Scale with Pat Helland](https://corecursive.com/028-data-and-scale-with-pat-helland/)
 - [Mailerlite - Improving MailerLite: What happened during our new infrastructure implementation](https://www.mailerlite.com/blog/improving-mailerlite-what-happened-during-our-new-infrastructure-implementation)
@@ -35,6 +41,9 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed systems
+- [Hugo Rocha - The Perils of Event-Driven: Eventual Consistency](https://medium.com/swlh/handling-eventual-consistency-11324324aec4)
+- [Savvas Kleanthous - Event immutability and dealing with change](https://www.eventstore.com/blog/event-immutability-and-dealing-with-change)
+- [Steven Van Beelen - Intro to Event-Driven Microservices using DDD, CQRS & Event sourcing](https://www.youtube.com/watch?v=F0g5B4F9MMs)
 - [Diego Ongaro and John Ousterhout - In Search of an Understandable Consensus Algorithm(Extended Version)](https://raft.github.io/raft.pdf)
 - [InfoQ - Renato Losio - AWS Introduces Amazon Managed Service for Grafana and Amazon Managed Service for Prometheus](https://www.infoq.com/news/2021/01/aws-grafana-prometheus/)
 - [Jack Vanlightly - RabbitMQ vs Kafka Series Introduction](https://jack-vanlightly.com/blog/2017/12/3/rabbitmq-vs-kafka-series-introduction)
@@ -69,6 +78,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Cezary Piątek - Github Actions for Visual Studio Extension developers](https://cezarypiatek.github.io/post/develop-vsextension-with-github-actions/)
 - [Damian Naprawa - Dockerfile Best Practices](https://github.com/dnaprawa/dockerfile-best-practices)
 - [Andrew Lock - Auto-assigning issues using a GitHub Action](https://andrewlock.net/auto-assigning-issues-using-a-github-action/)
 - [Sean Killeen - Adding Spell Checking to my Blog’s Build Process with GitHub Actions and cSpell ](https://seankilleen.com/2021/01/adding-spell-checking-to-my-blogs-build-process-with-github-actions-and-cspell/)
@@ -80,6 +90,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Netlify - Building an Event Registration Page with Composition API and Serverless Functions](https://www.netlify.com/blog/2021/01/12/building-an-event-registration-page-with-composition-api-and-serverless-functions/)
 - [15th Anniversary of JQuery release](https://www.webdesignmuseum.org/web-design-history/jquery-2006)
 - [Ingvar Stepanyan - Debugging WebAssembly with modern tools](https://www.youtube.com/watch?v=VBMHswhun-s)
 - [Arnaud - Github Codespaces for React Native](https://eveningkid.medium.com/github-codespaces-for-react-native-61d450db8fc0)
@@ -101,6 +112,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ### Databases
+- [CockroachDB - How Amazon Aurora Works](https://www.youtube.com/watch?v=I4uOEoUYPC8)
 - [Attila Szegedi - Makings of a Modern ACID Compliant Distributed Database](https://www.youtube.com/watch?v=pn8mCeX3LDE)
 - [DB-Engines - PostgreSQL is the DBMS of the Year 2020](https://db-engines.com/en/blog_post/85)
 - [Chris Hanks - Turning PostgreSQL into a queue serving 10,000 jobs per second](https://gist.github.com/chanks/7585810)
@@ -115,6 +127,8 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Adam Ralph - Evolution of a toolchain by Adam Ralph](https://www.youtube.com/watch?v=FRvYr6eXiFk&t=13690s)
+- [Konrad Kokosa - .NET GC Internals mini-series](https://tooslowexception.com/net-gc-internals-mini-series/)
 - [Jeremy D. Miller - What would it take for you to adopt Marten?](https://jeremydmiller.com/2021/01/11/what-would-it-take-for-you-to-adopt-marten/)
 - [Daniel Krzyczkowski - Cars Island ASP .NET Core API - integration with Azure Cosmos DB](https://daniel-krzyczkowski.github.io/Cars-Island-ASP-NET-Core-API-Integration-With-Azure-Cosmos-DB/)
 - [MSDocs - Introduction to the High Performance package](https://docs.microsoft.com/en-us/windows/communitytoolkit/high-performance/introduction)
@@ -136,7 +150,24 @@
 - [Jimmy Bogard - Increasing Trace Cardinality with Activity Tags and Baggage](https://jimmybogard.com/increasing-trace-cardinality-with-tags-and-baggage/amp/)
 - [Microsoft - Layomi](https://devblogs.microsoft.com/dotnet/whats-next-for-system-text-json/)
 
+#### OpenTelemetry in .NET
+- [OpenTelemetry official site](https://opentelemetry.io/)
+- [Building End-to-End Diagnostics and Tracing](https://jimmybogard.com/building-end-to-end-diagnostics-and-tracing-a-primer/)
+- [A Lap Around ActivitySource and ActivityListener in .NET 5](https://jimmybogard.com/activitysource-and-listener-in-net-5/)
+- [Increasing Trace Cardinality with Activity Tags and Baggage](https://jimmybogard.com/increasing-trace-cardinality-with-tags-and-baggage/)
+- [OpenTelemetry specification](https://github.com/open-telemetry/opentelemetry-specification/blob/master/specification/overview.md)
+- [OpenTelemetry .NET SDK progress](https://medium.com/opentelemetry/opentelemetry-net-sdk-progress-3a63dcdc6cb0)
+  - [Use new Activity to Replace OT Span](https://github.com/open-telemetry/opentelemetry-dotnet/pull/660)
+- [OpenTelemetry .NET](https://github.com/open-telemetry/opentelemetry-dotnet)
+  - [Comparing OpenTelemetry Trace API and .NET Activity API](https://github.com/open-telemetry/opentelemetry-dotnet/issues/947)
+- [Improvements in .NET Core 3.0 for troubleshooting and monitoring distributed apps](https://devblogs.microsoft.com/aspnet/improvements-in-net-core-3-0-for-troubleshooting-and-monitoring-distributed-apps/)
+- [ASP.NET Core Apps Observability](https://devblogs.microsoft.com/aspnet/observability-asp-net-core-apps/)
+- [Deep Dive into Open Telemetry for .NET](https://rehansaeed.com/deep-dive-into-open-telemetry-for-net/)
+- [OpenTelemetry: Future-Proofing Your Instrumentation](https://blog.newrelic.com/product-news/what-is-opentelemetry/)
+- [Improve Activity API usability and OpenTelemetry integration](https://github.com/dotnet/designs/blob/main/accepted/2020/diagnostics/activity-improvements.md)
+
 ## Coding Life
+- [Ryan Singer - Shape Up](https://basecamp.com/shapeup/webbook)
 - [Gojko Adzic - The Play, the points, and the biggest lie in software](https://gojko.net/2021/01/11/the-play-the-points-the-lie.html)
 - [Joel Goldberg - What I've Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
 - [Changelog Podcast with Simon Eskildsen - Estimating systems with napkin math](https://changelog.com/podcast/412)
@@ -158,7 +189,11 @@
 - [Dominik Jeske - Pull Requests](https://dominikjeske.github.io/pull-requests)
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
+### Java
+- [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
+
 ## Industry
+- [TechCrunch - WhatsApp founder, Brian Acton, says Facebook used him to get its acquisition past EU regulators](https://techcrunch.com/2018/09/26/whatsapp-founder-brian-acton-says-facebook-used-him-to-get-its-acquisition-past-eu-regulators/)
 - [Bloomberg - Inside Cyberpunk 2077's Disastrous Rollout](https://www.bloomberg.com/amp/news/articles/2021-01-16/cyberpunk-2077-what-caused-the-video-game-s-disastrous-rollout)
 - [Github - Nat Friedman - Advancing developer freedom: GitHub is fully available in Iran](https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran/)
 - [MacRomors - Mandatory WhatsApp Privacy Policy Update Allows User Data to be Shared With Facebook](https://www.macrumors.com/2021/01/06/whatsapp-privacy-policy-data-sharing-facebook/)
@@ -169,11 +204,21 @@
 - [Wired - Nice Try, Facebook. iOS Changes Aren’t Bad for Small Businesses](https://www.wired.com/story/sorry-facebook-ios-changes-not-bad-for-small-businesses/)
 - [The Verge - Casey Newton - How Microsoft crushed Slack](https://www.theverge.com/22150313/how-microsoft-crushed-slack-salesforce-acquisition)
 
+#### ElasticSearch Licence change
+- [Elastic - Amazon: NOT OK - why we had to change Elastic licensing](https://www.elastic.co/blog/why-license-change-AWS)
+- [AWS - Stepping up for a truly open source Elasticsearch](https://aws.amazon.com/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/)
+- [Drew DeVault - Elasticsearch does not belong to Elastic](https://drewdevault.com/2021/01/19/Elasticsearch-does-not-belong-to-Elastic.html)
+- [Logz.io - Truly Doubling Down on Open Source](https://logz.io/blog/open-source-elasticsearch-doubling-down)
+- [Grafana - Everything You Need to Know About the OSS Licensing War, Part 3.](https://grafana.com/blog/2019/04/18/everything-you-need-to-know-about-the-oss-licensing-war-part-3)
+- [Protocol - Does MongoDB regret offending the open-source community? Not one bit.](https://www.protocol.com/enterprise/mongodb-open-source-database)
+- [Corey Quinn - How to Compete with AWS](https://www.lastweekinaws.com/blog/how-to-compete-with-aws/)
+
 ## Hardware
 - [Erik Engheim - Why Is Apple’s M1 Chip So Fast?](https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2)
 - [Alex Ellis - Five years of Raspberry Pi Clusters](https://alexellisuk.medium.com/five-years-of-raspberry-pi-clusters-77e56e547875)
 
 ## Low level
+- [InfoQ - Rust Hyper HTTP Library Will Contribute to Make Curl Safer](https://www.infoq.com/news/2020/10/memory-safe-curl-rust/)
 - [Cindy Sridharan - Seamless file descriptor transfer between processes with pidfd and pidfd_getfd](https://copyconstruct.medium.com/seamless-file-descriptor-transfer-between-processes-with-pidfd-and-pidfd-getfd-816afcd19ed4)
 
 ## Tools 
@@ -189,6 +234,11 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [Jacobs Technion-Cornell Institute -  VoterFraud2020 - a multi-modal Twitter dataset with and retweets that includes key phrases and hashtags related to voter fraud claims between October 23rd and December 16th](https://voterfraud2020.io/)
+- [Coding Horror - Mort, Elvis, Einstein, and You](https://blog.codinghorror.com/mort-elvis-einstein-and-you/)
+- [CNBC - UK hospitals are using blockchain to track the temperature of coronavirus vaccines](https://www.cnbc.com/2021/01/19/uk-hospitals-use-blockchain-to-track-coronavirus-vaccine-temperature.html)
+- [Dave's Garage - Secret History of Windows Task Manager - Part 1 - Origins](https://www.youtube.com/watch?v=f8VBOiPV-_M)
+- [BBC News - How Covid turbocharged the QR revolution](https://www.bbc.com/news/business-55579480)
 - [Robin Moffatt - How to win [or at least not suck] at the conference abstract submission game](https://rmoff.net/2020/01/16/how-to-win-or-at-least-not-suck-at-the-conference-abstract-submission-game/)
 - [McKinsey - Organizing for the future: Nine keys to becoming a future-ready company](https://www.mckinsey.com/business-functions/organization/our-insights/organizing-for-the-future-nine-keys-to-becoming-a-future-ready-company#)
 - [NY Times - Lost Passwords Lock Millionaires Out of Their Bitcoin Fortunes](https://www.nytimes.com/2021/01/12/technology/bitcoin-passwords-wallets-fortunes.html)
