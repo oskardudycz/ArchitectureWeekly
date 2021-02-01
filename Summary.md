@@ -15,6 +15,8 @@
     - [OpenTelemetry in .NET](#opentelemetry-in-net)
   - [Coding Life](#coding-life)
   - [Java](#java)
+  - [Ruby](#ruby)
+  - [Haskell](#haskell)
   - [Industry](#industry)
       - [ElasticSearch Licence change](#elasticsearch-licence-change)
   - [Hardware](#hardware)
@@ -24,6 +26,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Pat Helland - Don't Get Stuck in the "Con" Game](https://pathelland.substack.com/p/dont-get-stuck-in-the-con-game)
+- [Theo Haerder, Andreas Reuter - Principles of Transaction-Oriented Database Recovery](http://web.stanford.edu/class/cs340v/papers/recovery.pdf)
+- [Andrey Akinshin - Statistical approaches for performance analysis](https://aakinshin.net/posts/statistics-for-performance/)
+- [Nathan Fritz - One Web Architect's Core Beliefs](https://dev.to/fritzy/one-web-architect-s-core-beliefs-335f)
+- [Roman Sachse - Do-It-Yourself: Event-Sourcing](https://www.youtube.com/watch?v=VSS_Q0Rf50E)
+- [Code Opinion - Aggregate (Root) Design: Separate Behavior & Data for Persistence](https://www.youtube.com/watch?v=GtWVGJp061A)
 - [Hugo Rocha - The Perils of Event-Driven: Eventual Consistency](https://medium.com/swlh/handling-eventual-consistency-11324324aec4)
 - [Savvas Kleanthous - Event immutability and dealing with change](https://www.eventstore.com/blog/event-immutability-and-dealing-with-change)
 - [Steven Van Beelen - Intro to Event-Driven Microservices using DDD, CQRS & Event sourcing](https://www.youtube.com/watch?v=F0g5B4F9MMs)
@@ -41,6 +49,11 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed systems
+- [OpenAI - Scaling Kubernetes to 7,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-7500-nodes/)
+- [Daniele Polencic - A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
+- [AxonIQ - Bert Laverman - High Availability with AxonServer and Axon Framework](https://axoniq.io/blog-overview/high-availability#0)
+- [Timothy Prickett Morgan - After Three Decades, You Can Finally Have A Distributed SQL Database](https://www.nextplatform.com/2021/01/25/after-three-decades-you-can-finally-have-a-distributed-sql-database/amp/)
+- [Elastic - Play: Modernizing telecommunications with the Elastic Stack](https://www.elastic.co/blog/play-modernizing-telecommunications-elastic-stack-observability)
 - [Hugo Rocha - The Perils of Event-Driven: Eventual Consistency](https://medium.com/swlh/handling-eventual-consistency-11324324aec4)
 - [Savvas Kleanthous - Event immutability and dealing with change](https://www.eventstore.com/blog/event-immutability-and-dealing-with-change)
 - [Steven Van Beelen - Intro to Event-Driven Microservices using DDD, CQRS & Event sourcing](https://www.youtube.com/watch?v=F0g5B4F9MMs)
@@ -90,6 +103,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Web.Dev - Robert Nyman - Introducing Open Web Docs](https://web.dev/open-web-docs)
 - [Netlify - Building an Event Registration Page with Composition API and Serverless Functions](https://www.netlify.com/blog/2021/01/12/building-an-event-registration-page-with-composition-api-and-serverless-functions/)
 - [15th Anniversary of JQuery release](https://www.webdesignmuseum.org/web-design-history/jquery-2006)
 - [Ingvar Stepanyan - Debugging WebAssembly with modern tools](https://www.youtube.com/watch?v=VBMHswhun-s)
@@ -127,6 +141,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Mark Vincze - Troubleshooting high memory usage with ASP.NET Core on Kubernetes](https://blog.markvincze.com/troubleshooting-high-memory-usage-with-asp-net-core-on-kubernetes)
+- [On .NET Live - Distributed applications with ZeroMQ](https://www.youtube.com/watch?v=jIT8r2r5kV8)
+- [Andrew Lock - Prerendering a Blazor WebAssembly app to static files, without an ASP.NET Core host app](https://andrewlock.net/prerending-a-blazor-webassembly-app-without-an-asp-net-core-host-app/)
+- [Jason Roberts - Using C# Source Generators with Microsoft Feature Management Feature Flags](http://dontcodetired.com/blog/post/Using-C-Source-Generators-with-Microsoft-Feature-Management-Feature-Flags)
+- [Piotr Szkudlarski - Dump Stack To CSharp Code](https://github.com/Szpi/DumpStackToCSharpCode)
 - [Adam Ralph - Evolution of a toolchain by Adam Ralph](https://www.youtube.com/watch?v=FRvYr6eXiFk&t=13690s)
 - [Konrad Kokosa - .NET GC Internals mini-series](https://tooslowexception.com/net-gc-internals-mini-series/)
 - [Jeremy D. Miller - What would it take for you to adopt Marten?](https://jeremydmiller.com/2021/01/11/what-would-it-take-for-you-to-adopt-marten/)
@@ -151,15 +170,16 @@
 - [Microsoft - Layomi](https://devblogs.microsoft.com/dotnet/whats-next-for-system-text-json/)
 
 ### OpenTelemetry in .NET
+- [Jonathan Channon - Tracing IO in .NET Core](https://www.softwarepark.cc/blog/2021/1/29/tracing-io-in-net-core)
 - [OpenTelemetry official site](https://opentelemetry.io/)
 - [Building End-to-End Diagnostics and Tracing](https://jimmybogard.com/building-end-to-end-diagnostics-and-tracing-a-primer/)
 - [A Lap Around ActivitySource and ActivityListener in .NET 5](https://jimmybogard.com/activitysource-and-listener-in-net-5/)
 - [Increasing Trace Cardinality with Activity Tags and Baggage](https://jimmybogard.com/increasing-trace-cardinality-with-tags-and-baggage/)
 - [OpenTelemetry specification](https://github.com/open-telemetry/opentelemetry-specification/blob/master/specification/overview.md)
 - [OpenTelemetry .NET SDK progress](https://medium.com/opentelemetry/opentelemetry-net-sdk-progress-3a63dcdc6cb0)
-  - [Use new Activity to Replace OT Span](https://github.com/open-telemetry/opentelemetry-dotnet/pull/660)
+- [Use new Activity to Replace OT Span](https://github.com/open-telemetry/opentelemetry-dotnet/pull/660)
 - [OpenTelemetry .NET](https://github.com/open-telemetry/opentelemetry-dotnet)
-  - [Comparing OpenTelemetry Trace API and .NET Activity API](https://github.com/open-telemetry/opentelemetry-dotnet/issues/947)
+- [Comparing OpenTelemetry Trace API and .NET Activity API](https://github.com/open-telemetry/opentelemetry-dotnet/issues/947)
 - [Improvements in .NET Core 3.0 for troubleshooting and monitoring distributed apps](https://devblogs.microsoft.com/aspnet/improvements-in-net-core-3-0-for-troubleshooting-and-monitoring-distributed-apps/)
 - [ASP.NET Core Apps Observability](https://devblogs.microsoft.com/aspnet/observability-asp-net-core-apps/)
 - [Deep Dive into Open Telemetry for .NET](https://rehansaeed.com/deep-dive-into-open-telemetry-for-net/)
@@ -167,6 +187,8 @@
 - [Improve Activity API usability and OpenTelemetry integration](https://github.com/dotnet/designs/blob/main/accepted/2020/diagnostics/activity-improvements.md)
 
 ## Coding Life
+- [Szymon Kulec - Practices for your one-man-army projects](https://blog.scooletz.com/2021/01/25/practices-for-your-one-man-army-projects)
+- [Donald E. Knuth, Len Shustek  - Let's Not Dumb Down the History of Computer Science](https://cacm.acm.org/magazines/2021/2/250078-lets-not-dumb-down-the-history-of-computer-science/fulltext)
 - [Ryan Singer - Shape Up](https://basecamp.com/shapeup/webbook)
 - [Gojko Adzic - The Play, the points, and the biggest lie in software](https://gojko.net/2021/01/11/the-play-the-points-the-lie.html)
 - [Joel Goldberg - What I've Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
@@ -192,7 +214,16 @@
 ## Java
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
+## Ruby
+- [Remote Ruby - Hotwire, Rails NEXT, and the DHH Stack with David Heinemeier Hansson](https://remoteruby.transistor.fm/115)
+
+## Haskell
+- [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
+
 ## Industry
+- [RedHat - Joe Brockmeier - What is an open source upstream?](https://www.redhat.com/en/blog/what-open-source-upstream)
+- [Corey Quinn - AWS Compensation Explained](https://www.lastweekinaws.com/blog/aws-compensation-explained/)
+- [Paul Stovell - Highly-measurable upside vs. immeasurable downside](https://paulstovell.com/highly-measurable-upside-vs-immesurable-downside/)
 - [TechCrunch - WhatsApp founder, Brian Acton, says Facebook used him to get its acquisition past EU regulators](https://techcrunch.com/2018/09/26/whatsapp-founder-brian-acton-says-facebook-used-him-to-get-its-acquisition-past-eu-regulators/)
 - [Bloomberg - Inside Cyberpunk 2077's Disastrous Rollout](https://www.bloomberg.com/amp/news/articles/2021-01-16/cyberpunk-2077-what-caused-the-video-game-s-disastrous-rollout)
 - [Github - Nat Friedman - Advancing developer freedom: GitHub is fully available in Iran](https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran/)
@@ -234,6 +265,9 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [Andy Gordon, Simon Peyton Jones - LAMBDA: The ultimate Excel worksheet function](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/)
+- [Shanna Loga - "Learned Optimism" Can Get You Through Tough Times](https://humanparts.medium.com/how-to-use-learned-optimism-to-jumpstart-your-emotional-immune-system-f1c2ab246142)
+- [Ruby and Rails  - Who Said That One Violent Psychopath Quote?](http://ruby.zigzo.com/2014/08/01/who-said-that-one-violent-psychopath-quote/)
 - [Jacobs Technion-Cornell Institute -  VoterFraud2020 - a multi-modal Twitter dataset with and retweets that includes key phrases and hashtags related to voter fraud claims between October 23rd and December 16th](https://voterfraud2020.io/)
 - [Coding Horror - Mort, Elvis, Einstein, and You](https://blog.codinghorror.com/mort-elvis-einstein-and-you/)
 - [CNBC - UK hospitals are using blockchain to track the temperature of coronavirus vaccines](https://www.cnbc.com/2021/01/19/uk-hospitals-use-blockchain-to-track-coronavirus-vaccine-temperature.html)
