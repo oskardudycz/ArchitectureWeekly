@@ -9,6 +9,7 @@
   - [Testing](#testing)
   - [API](#api)
   - [Databases](#databases)
+  - [AI](#ai)
   - [Azure](#azure)
   - [Functional Programming](#functional-programming)
   - [.NET](#net)
@@ -17,6 +18,7 @@
   - [Java](#java)
   - [Ruby](#ruby)
   - [Haskell](#haskell)
+  - [Rust](#rust)
   - [Industry](#industry)
       - [ElasticSearch Licence change](#elasticsearch-licence-change)
   - [Hardware](#hardware)
@@ -26,12 +28,17 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Greg Young - Why Event Sourced Systems Fail](https://www.youtube.com/watch?v=FKFu78ZEIi8)
+- [Greg Young - The art of destroying software](https://vimeo.com/108441214)
+- [Gunnar Morling - Towards Continuous Performance Regression Testing](https://www.morling.dev/blog/towards-continuous-performance-regression-testing)
+- [Chris Kiehl - Software development topics I've changed my mind on after 6 years in the industry](https://chriskiehl.com/article/thoughts-after-6-years)
+- [Derek Comartin - Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
 - [Pat Helland - Don't Get Stuck in the "Con" Game](https://pathelland.substack.com/p/dont-get-stuck-in-the-con-game)
 - [Theo Haerder, Andreas Reuter - Principles of Transaction-Oriented Database Recovery](http://web.stanford.edu/class/cs340v/papers/recovery.pdf)
 - [Andrey Akinshin - Statistical approaches for performance analysis](https://aakinshin.net/posts/statistics-for-performance/)
 - [Nathan Fritz - One Web Architect's Core Beliefs](https://dev.to/fritzy/one-web-architect-s-core-beliefs-335f)
 - [Roman Sachse - Do-It-Yourself: Event-Sourcing](https://www.youtube.com/watch?v=VSS_Q0Rf50E)
-- [Code Opinion - Aggregate (Root) Design: Separate Behavior & Data for Persistence](https://www.youtube.com/watch?v=GtWVGJp061A)
+- [Derek Comartin - Aggregate (Root) Design: Separate Behavior & Data for Persistence](https://www.youtube.com/watch?v=GtWVGJp061A)
 - [Hugo Rocha - The Perils of Event-Driven: Eventual Consistency](https://medium.com/swlh/handling-eventual-consistency-11324324aec4)
 - [Savvas Kleanthous - Event immutability and dealing with change](https://www.eventstore.com/blog/event-immutability-and-dealing-with-change)
 - [Steven Van Beelen - Intro to Event-Driven Microservices using DDD, CQRS & Event sourcing](https://www.youtube.com/watch?v=F0g5B4F9MMs)
@@ -49,6 +56,9 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed systems
+- [Konstantin Lepeshenkov - Message Queueing vs.Event Stream Processing in Azure](https://scale-tone.github.io/2021/02/01/message-queueing-vs-stream-processing-in-azure)
+- [Andres Moreno - How to build a Serverless API in AWS without using a single lambda](https://dev.to/anmoreno/how-to-build-a-serverless-api-in-aws-without-using-a-single-lambda-4l0p)
+- [AWS Compute Blog - Simple Two-way Messaging using the Amazon SQS Temporary Queue Client](https://aws.amazon.com/blogs/compute/simple-two-way-messaging-using-the-amazon-sqs-temporary-queue-client/)
 - [OpenAI - Scaling Kubernetes to 7,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-7500-nodes/)
 - [Daniele Polencic - A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
 - [AxonIQ - Bert Laverman - High Availability with AxonServer and Axon Framework](https://axoniq.io/blog-overview/high-availability#0)
@@ -103,6 +113,8 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Denys Dovhan - What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
+- [V8 - Improving DataView performance in V8](https://v8.dev/blog/dataview)
 - [Web.Dev - Robert Nyman - Introducing Open Web Docs](https://web.dev/open-web-docs)
 - [Netlify - Building an Event Registration Page with Composition API and Serverless Functions](https://www.netlify.com/blog/2021/01/12/building-an-event-registration-page-with-composition-api-and-serverless-functions/)
 - [15th Anniversary of JQuery release](https://www.webdesignmuseum.org/web-design-history/jquery-2006)
@@ -120,17 +132,25 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [Apollo Blog - Max Stoiber - Securing Your GraphQL API from Malicious Queries](https://www.apollographql.com/blog/securing-your-graphql-api-from-malicious-queries-16130a324a6b/)
 - [Phil Sturgeon - Automated Style Guides for REST, GraphQL and gRPC](https://apisyouwonthate.com/blog/automated-style-guides-for-rest-graphql-and-grpc)
 - [Phil Sturgeon - Automating API Style Guides: Spectral AMA with Phil Sturgeon](https://www.youtube.com/watch?v=kjlwjQEQm7A)
 
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Allegro.tech - Michał Knasiecki - Impact of data model on MongoDB database size](https://blog.allegro.tech/2021/01/impact-of-the-data-model-on-the-MongoDB-database-size.html)
+- [Dave Remy - Turning the database inside out with Event Store](https://www.eventstore.com/blog/turning-the-database-inside-out)
+- [Martin Kleppmann - Turning the database inside-out with Apache Samza](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
+- [Azure for Industry Podcast - Alan Chhabra - High-performance, flexible, and scalable databases with mongoDB](https://azure.microsoft.com/en-us/industries/podcast/high-performance-flexible-and-scalable-databases-with-mongodb-with-alan-chhabra/)
 - [CockroachDB - How Amazon Aurora Works](https://www.youtube.com/watch?v=I4uOEoUYPC8)
 - [Attila Szegedi - Makings of a Modern ACID Compliant Distributed Database](https://www.youtube.com/watch?v=pn8mCeX3LDE)
 - [DB-Engines - PostgreSQL is the DBMS of the Year 2020](https://db-engines.com/en/blog_post/85)
 - [Chris Hanks - Turning PostgreSQL into a queue serving 10,000 jobs per second](https://gist.github.com/chanks/7585810)
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
+
+## AI
+- [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## Azure
 - [Marius Sandbu - Deep dive Azure Monitor and Log Analytics](https://msandbu.org/deep-dive-azure-monitor-and-log-analytics/)
@@ -141,6 +161,12 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Ben Adams - ThreadPool Blocking Mitigation (PR to dotnet/runtime)](https://medium.com/young-coder/net-has-a-third-party-software-problem-45d24cdc30c9)
+- [Szymon Kulec - My mental model of Span, Memory and ReadOnlySequence in .NET](https://blog.scooletz.com/2021/02/03/spans-memory-mental-model)
+- [Matthew MacDonald - .NET Has a Third-Party Software Problem](https://medium.com/young-coder/net-has-a-third-party-software-problem-45d24cdc30c9)
+- [David Fowler - Block thread until any of tasks succeeded](https://gist.github.com/davidfowl/c72f0973919e0e18708a5c345a2a4778)
+- [Steve Gordon - Creating a ReadOnlySequence from Array Data](https://www.stevejgordon.co.uk/creating-a-readonlysequence-from-array-data-in-dotnet)
+- [PostSharp - PostSharp's Great Reset: Announcing Project "Caravela", a Roslyn-based aspect framework](https://blog.postsharp.net/post/announcing-caravela-preview.html)
 - [Mark Vincze - Troubleshooting high memory usage with ASP.NET Core on Kubernetes](https://blog.markvincze.com/troubleshooting-high-memory-usage-with-asp-net-core-on-kubernetes)
 - [On .NET Live - Distributed applications with ZeroMQ](https://www.youtube.com/watch?v=jIT8r2r5kV8)
 - [Andrew Lock - Prerendering a Blazor WebAssembly app to static files, without an ASP.NET Core host app](https://andrewlock.net/prerending-a-blazor-webassembly-app-without-an-asp-net-core-host-app/)
@@ -187,6 +213,7 @@
 - [Improve Activity API usability and OpenTelemetry integration](https://github.com/dotnet/designs/blob/main/accepted/2020/diagnostics/activity-improvements.md)
 
 ## Coding Life
+- [Joel Spolsky - In Defense of Not-Invented-Here Syndrome](https://www.joelonsoftware.com/2001/10/14/in-defense-of-not-invented-here-syndrome/)
 - [Szymon Kulec - Practices for your one-man-army projects](https://blog.scooletz.com/2021/01/25/practices-for-your-one-man-army-projects)
 - [Donald E. Knuth, Len Shustek  - Let's Not Dumb Down the History of Computer Science](https://cacm.acm.org/magazines/2021/2/250078-lets-not-dumb-down-the-history-of-computer-science/fulltext)
 - [Ryan Singer - Shape Up](https://basecamp.com/shapeup/webbook)
@@ -220,7 +247,14 @@
 ## Haskell
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
+## Rust
+- [Robert Krahn - Is Rust a Functional Programming Language?](https://robert.kra.hn/posts/2021-02-03_is-rust-fp/)
+- [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
+
 ## Industry
+- [Business Insider - Jeff Bezos will step down as Amazon's CEO later this year and be replaced by AWS CEO Andy Jassy](https://www.businessinsider.com/jeff-bezos-to-step-down-as-amazon-ceo-2021-2?IR=T)
+- [Martin Kleppmann - Decentralised content moderation](https://martin.kleppmann.com/2021/01/13/decentralised-content-moderation.html)
+- [Bilgin Ibryam - The After Open Source Era Has Started](https://monetize.substack.com/p/open-source-eras)
 - [RedHat - Joe Brockmeier - What is an open source upstream?](https://www.redhat.com/en/blog/what-open-source-upstream)
 - [Corey Quinn - AWS Compensation Explained](https://www.lastweekinaws.com/blog/aws-compensation-explained/)
 - [Paul Stovell - Highly-measurable upside vs. immeasurable downside](https://paulstovell.com/highly-measurable-upside-vs-immesurable-downside/)
@@ -265,6 +299,7 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [The Cockroach Hour: Building Developer Communities](https://www.youtube.com/watch?v=GtEHYkX-imU)
 - [Andy Gordon, Simon Peyton Jones - LAMBDA: The ultimate Excel worksheet function](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/)
 - [Shanna Loga - "Learned Optimism" Can Get You Through Tough Times](https://humanparts.medium.com/how-to-use-learned-optimism-to-jumpstart-your-emotional-immune-system-f1c2ab246142)
 - [Ruby and Rails  - Who Said That One Violent Psychopath Quote?](http://ruby.zigzo.com/2014/08/01/who-said-that-one-violent-psychopath-quote/)
