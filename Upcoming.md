@@ -1,3 +1,52 @@
 # Upcoming Links
 
 ## 22nd February 2021
+
+### Architecture
+- [Coding Over Cocktails Podcast - The Fundamentals of Software Architecture and Microservices with Mark Richards](https://dzone.com/articles/the-fundamentals-of-software-architecture-and-micr)
+- [Software Engineering Radio Podcast - Michael Perry on Immutable Architecture](https://www.se-radio.net/2021/02/episode-447-michael-perry-on-immutable-architecture/)
+- [DataDog Blog - Introducing Glommio, a Thread-per-Core Crate for Rust & Linux](https://www.datadoghq.com/blog/engineering/introducing-glommio)
+- [Alberto Brandolini - Which Process for Domain-Driven Design?](https://blog.avanscoperta.it/2020/08/03/which-process-for-domain-driven-design/)
+- [Marco Bürckel - Some thoughts on using CQRS without Event Sourcing](https://medium.com/@mbue/some-thoughts-on-using-cqrs-without-event-sourcing-938b878166a2)
+- [Kacey Bui - Introduction to Event-Driven Architecture](https://medium.com/microservicegeeks/introduction-to-event-driven-architecture-e94ef442d824)
+
+### Distributed Systems
+- [Gremlin - 2021 state of Chaos Engineering](https://www.gremlin.com/state-of-chaos-engineering/2021/)
+- [AWS re:Invent 2020 - How Disney+ deploys globally with Amazon ECS](https://www.youtube.com/watch?v=qgxxtmNijlg)
+
+### Databases
+- [Connor Stack - Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
+- [T. Kraska, A. Beutel, Ed H. Chi, J. Dean, N. Polyzotis - The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208)
+- [Henning Funke, Jens Teubner - Like Water and Oil: With a Proper Emulsifier, QueryCompilation and Data Parallelism Will Mix Well](http://www.vldb.org/pvldb/vol13/p2849-funke.pdf)
+
+### DevOps
+- [Storage Unpacked Podcast - Storage & Kubernetes with Nigel Poulton](https://storageunpacked.com/2021/02/192-storage-kubernetes-poulton)
+
+### API
+- [Postman Youtube - From zero to Async API](https://www.youtube.com/watch?v=g2pqCIhXQ3k)
+
+### .NET
+- [David Fowler - .NET coding patterns](https://github.com/davidfowl/DotNetCodingPatterns)
+- [Microsoft - Dapr for .NET Developers](https://raw.githubusercontent.com/dotnet-architecture/eBooks/master/current/dapr-for-net-developers/Dapr-for-NET-Developers.pdf)
+- [Matt Connew - CoreWCF 0.1.0 GA Release](https://corewcf.github.io/blog/2021/02/19/corewcf-ga-release)
+- [.NET Blog - Richard Lander - Announcing .NET 6 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1)
+
+### Java
+- [InfoQ - Netflix Open Sources Their Domain Graph Service Framework: GraphQL for Spring Boot](https://www.infoq.com/news/2021/02/netflix-graphql-spring-boot/)
+
+### Coding Life
+- [Kent Beck - The Product Development Triathlon](https://medium.com/@kentbeck_7670/the-product-development-triathlon-6464e2763c46)
+- [Sebastian Gębski - Generation of illiterate developers](https://no-kill-switch.ghost.io/generation-of-illiterate-developers/)
+- [Tomek Onyszko - The most important skill you can learn with no cost?](https://www.onyszko.com/the-most-important-skill-you-can-learn/)
+
+### Security
+- [Teo Selenius - Web Application Security Checklist](https://www.appsecmonkey.com/blog/web-application-security-checklist/)
+- [XSSFox - Build Pipeline Security](https://sprocketfox.io/xssfox/2021/01/18/pipeline/)
+- [Google Security Blog - Mitigating Memory Safety Issues in Open Source Software ](https://security.googleblog.com/2021/02/mitigating-memory-safety-issues-in-open.html)
+
+### Industry
+- [Wired - Can Australia Force Google and Facebook to Pay for News?](https://www.wired.com/story/can-australia-force-google-facebook-pay-news)
+
+### Trivia
+- [GitHub Blog - How we illustrate at GitHub](https://github.blog/2021-02-04-how-we-illustrate-at-github)
+- [The New York Times - This Cloud Computing Billing Expert Is Very Funny. Seriously.](https://www.nytimes.com/2021/02/17/technology/corey-quinn-amazon-aws.html)
