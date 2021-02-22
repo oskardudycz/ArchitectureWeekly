@@ -28,6 +28,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Coding Over Cocktails Podcast - The Fundamentals of Software Architecture and Microservices with Mark Richards](https://dzone.com/articles/the-fundamentals-of-software-architecture-and-micr)
+- [Software Engineering Radio Podcast - Michael Perry on Immutable Architecture](https://www.se-radio.net/2021/02/episode-447-michael-perry-on-immutable-architecture/)
+- [DataDog Blog - Introducing Glommio, a Thread-per-Core Crate for Rust & Linux](https://www.datadoghq.com/blog/engineering/introducing-glommio)
+- [Alberto Brandolini - Which Process for Domain-Driven Design?](https://blog.avanscoperta.it/2020/08/03/which-process-for-domain-driven-design/)
+- [Marco Bürckel - Some thoughts on using CQRS without Event Sourcing](https://medium.com/@mbue/some-thoughts-on-using-cqrs-without-event-sourcing-938b878166a2)
+- [Kacey Bui - Introduction to Event-Driven Architecture](https://medium.com/microservicegeeks/introduction-to-event-driven-architecture-e94ef442d824)
 - [Holly Cummins - Cloud Native is about Culture, Not Containers](https://www.infoq.com/presentations/cloud-native-culture/)
 - [Daniel H. Kim - Systems Archetypes 1](https://thesystemsthinker.com/wp-content/uploads/2016/03/Systems-Archetypes-I-TRSA01_pk.pdf)
 - [Sam Newman - Migrating Monoliths to Microservices With Decomposition and Incremental Changes](https://www.infoq.com/articles/migrating-monoliths-to-microservices-with-decomposition/)
@@ -65,6 +71,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed systems
+- [Gremlin - 2021 state of Chaos Engineering](https://www.gremlin.com/state-of-chaos-engineering/2021/)
+- [AWS re:Invent 2020 - How Disney+ deploys globally with Amazon ECS](https://www.youtube.com/watch?v=qgxxtmNijlg)
 - [Nick Craver - How Stack Overflow Caches Apps for a Multi-Tenant Architecture](https://stackoverflow.blog/2019/08/06/how-stack-overflow-caches-apps-for-a-multi-tenant-architecture/)
 - [Konstantin Lepeshenkov - Message Queueing vs.Event Stream Processing in Azure](https://scale-tone.github.io/2021/02/01/message-queueing-vs-stream-processing-in-azure)
 - [Andres Moreno - How to build a Serverless API in AWS without using a single lambda](https://dev.to/anmoreno/how-to-build-a-serverless-api-in-aws-without-using-a-single-lambda-4l0p)
@@ -111,6 +119,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Storage Unpacked Podcast - Storage & Kubernetes with Nigel Poulton](https://storageunpacked.com/2021/02/192-storage-kubernetes-poulton)
 - [Cezary Piątek - Github Actions for Visual Studio Extension developers](https://cezarypiatek.github.io/post/develop-vsextension-with-github-actions/)
 - [Damian Naprawa - Dockerfile Best Practices](https://github.com/dnaprawa/dockerfile-best-practices)
 - [Andrew Lock - Auto-assigning issues using a GitHub Action](https://andrewlock.net/auto-assigning-issues-using-a-github-action/)
@@ -143,6 +152,7 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [Postman Youtube - From zero to Async API](https://www.youtube.com/watch?v=g2pqCIhXQ3k)
 - [Asbjørn Ulsberg - What's Your Problem?](https://www.youtube.com/watch?v=ZWIUn5BHDBc)
 - [API Evangelist - What Is API First?](http://apievangelist.com/2020/03/09/what-is-api-first/)
 - [Apollo Blog - Max Stoiber - Securing Your GraphQL API from Malicious Queries](https://www.apollographql.com/blog/securing-your-graphql-api-from-malicious-queries-16130a324a6b/)
@@ -152,6 +162,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Connor Stack - Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
+- [T. Kraska, A. Beutel, Ed H. Chi, J. Dean, N. Polyzotis - The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208)
+- [Henning Funke, Jens Teubner - Like Water and Oil: With a Proper Emulsifier, QueryCompilation and Data Parallelism Will Mix Well](http://www.vldb.org/pvldb/vol13/p2849-funke.pdf)
 - [DynamoDB Office Hours - Rick Houlihan - Modeling a Flight reservation service](https://m.twitch.tv/videos/908617166)
 - [Jacek Dąbrowski - How we handle billion-scale graph data (and you can too)](https://www.linkedin.com/pulse/how-we-handle-billion-scale-graph-data-you-can-too-jacek-d%C4%85browski/)
 - [Allegro.tech - Michał Knasiecki - Impact of data model on MongoDB database size](https://blog.allegro.tech/2021/01/impact-of-the-data-model-on-the-MongoDB-database-size.html)
@@ -176,6 +189,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [David Fowler - .NET coding patterns](https://github.com/davidfowl/DotNetCodingPatterns)
+- [.NET Runtime - Developers can have access to more options when configuring async awaitables](https://github.com/dotnet/runtime/issues/47525)
+- [Microsoft - Dapr for .NET Developers](https://raw.githubusercontent.com/dotnet-architecture/eBooks/master/current/dapr-for-net-developers/Dapr-for-NET-Developers.pdf)
+- [Matt Connew - CoreWCF 0.1.0 GA Release](https://corewcf.github.io/blog/2021/02/19/corewcf-ga-release)
+- [.NET Blog - Richard Lander - Announcing .NET 6 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1)
 - [Jeremy D. Miller - Event Sourcing with Marten V4: Aggregated Projections](https://jeremydmiller.com/2021/02/09/event-sourcing-with-marten-v4-aggregated-projections/)
 - [Bartosz Adamczewski - Loop Optimizations in C# (and various other compilers)](https://leveluppp.ghost.io/loop-optimizations-in-various-compilers)
 - [Brady Gaster - Creating Discoverable HTTP APIs with ASP.NET Core 5 Web API](https://devblogs.microsoft.com/aspnet/creating-discoverable-http-apis-with-asp-net-core-5-web-api)
@@ -232,6 +250,9 @@
 - [Improve Activity API usability and OpenTelemetry integration](https://github.com/dotnet/designs/blob/main/accepted/2020/diagnostics/activity-improvements.md)
 
 ## Coding Life
+- [Kent Beck - The Product Development Triathlon](https://medium.com/@kentbeck_7670/the-product-development-triathlon-6464e2763c46)
+- [Sebastian Gębski - Generation of illiterate developers](https://no-kill-switch.ghost.io/generation-of-illiterate-developers/)
+- [Tomek Onyszko - The most important skill you can learn with no cost?](https://www.onyszko.com/the-most-important-skill-you-can-learn/)
 - [Steve Gordon - Dream Big: Three Months in at Elastic](https://www.stevejgordon.co.uk/dream-big-three-months-in-at-elastic)
 - [Joel Spolsky - In Defense of Not-Invented-Here Syndrome](https://www.joelonsoftware.com/2001/10/14/in-defense-of-not-invented-here-syndrome/)
 - [Szymon Kulec - Practices for your one-man-army projects](https://blog.scooletz.com/2021/01/25/practices-for-your-one-man-army-projects)
@@ -259,6 +280,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Java
+- [InfoQ - Netflix Open Sources Their Domain Graph Service Framework: GraphQL for Spring Boot](https://www.infoq.com/news/2021/02/netflix-graphql-spring-boot/)
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
 ## Ruby
@@ -272,6 +294,7 @@
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
 
 ## Industry
+- [Wired - Can Australia Force Google and Facebook to Pay for News?](https://www.wired.com/story/can-australia-force-google-facebook-pay-news)
 - [Business Insider - Jeff Bezos will step down as Amazon's CEO later this year and be replaced by AWS CEO Andy Jassy](https://www.businessinsider.com/jeff-bezos-to-step-down-as-amazon-ceo-2021-2?IR=T)
 - [Martin Kleppmann - Decentralised content moderation](https://martin.kleppmann.com/2021/01/13/decentralised-content-moderation.html)
 - [Bilgin Ibryam - The After Open Source Era Has Started](https://monetize.substack.com/p/open-source-eras)
@@ -311,6 +334,10 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Teo Selenius - Web Application Security Checklist](https://www.appsecmonkey.com/blog/web-application-security-checklist/)
+- [XSSFox - Build Pipeline Security](https://sprocketfox.io/xssfox/2021/01/18/pipeline/)
+- [Chris Dzombak - Securing my personal SSH infrastructure with Yubikeys](https://www.dzombak.com/blog/2021/02/Securing-my-personal-SSH-infrastructure-with-Yubikeys.html)
+- [Google Security Blog - Mitigating Memory Safety Issues in Open Source Software ](https://security.googleblog.com/2021/02/mitigating-memory-safety-issues-in-open.html)
 - [GitHub Blog - Access control for GitHub Pages](https://github.blog/changelog/2021-01-21-access-control-for-github-pages/)
 - [The Verge - Cyberpunk 2077 studio falls victim to ransomware attack, data leak threatened](https://www.theverge.com/2021/2/9/22274035/cd-projekt-hack-source-code-cyberpunk-2077-witcher-3-encrypt-data-ransom)
 - [Alex Birsan - Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
@@ -323,6 +350,8 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [GitHub Blog - How we illustrate at GitHub](https://github.blog/2021-02-04-how-we-illustrate-at-github)
+- [The New York Times - This Cloud Computing Billing Expert Is Very Funny. Seriously.](https://www.nytimes.com/2021/02/17/technology/corey-quinn-amazon-aws.html)
 - [San Francisco Chronicle - Annie Vainshtein - Jerry Lawson revolutionized video gaming from his Silicon Valley garage. Then the world forgot him](https://www.sfchronicle.com/culture/article/Jerry-Lawson-revolutionized-video-gaming-from-his-15726001.php)
 - [The Cockroach Hour: Building Developer Communities](https://www.youtube.com/watch?v=GtEHYkX-imU)
 - [Andy Gordon, Simon Peyton Jones - LAMBDA: The ultimate Excel worksheet function](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/)
