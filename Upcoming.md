@@ -42,6 +42,7 @@
 ### Security
 - [Teo Selenius - Web Application Security Checklist](https://www.appsecmonkey.com/blog/web-application-security-checklist/)
 - [XSSFox - Build Pipeline Security](https://sprocketfox.io/xssfox/2021/01/18/pipeline/)
+- [Chris Dzombak - Securing my personal SSH infrastructure with Yubikeys](https://www.dzombak.com/blog/2021/02/Securing-my-personal-SSH-infrastructure-with-Yubikeys.html)
 - [Google Security Blog - Mitigating Memory Safety Issues in Open Source Software ](https://security.googleblog.com/2021/02/mitigating-memory-safety-issues-in-open.html)
 
 ### Industry
