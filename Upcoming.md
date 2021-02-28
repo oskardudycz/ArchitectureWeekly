@@ -1,3 +1,55 @@
 # Upcoming Links
 
 ## 1st March 2021
+
+### Architecture
+- [Ruth Malan and Dana Bredemeyer - Less is More with Minimalist Architecture](https://www.bredemeyer.com/pdf_files/MinimalistArchitecture.PDF)
+- [The Open Group - Open Agile Architecture](https://pubs.opengroup.org/architecture/o-aa-standard)
+- [Ö. Uludag, M. Kleehaus, X. Xu, F. Matthes - nvestigating the Role of Architects in Scaling Agile Frameworks](https://pubs.opengroup.org/architecture/o-aa-standard)
+- [Rinat Abdullin - DDD - Evolving Business Processes a la Lokad](https://abdullin.com/post/ddd-evolving-business-processes-a-la-lokad/)
+- [Joseph Choe - Event Sourcing, Part 1: User Registration](https://josephchoe.com/event-sourcing-part-1)
+- [Bartosz Adamczewski — Data-oriented design for business applications](https://www.youtube.com/watch?v=D7rKRnICZUY)
+- [Michiel Rook - Event sourcing and the GDPR: a follow-up](https://www.michielrook.nl/2017/11/event-sourcing-gdpr-follow-up/)
+- [Vaughn Vernon - Effective Aggregate DesignPart I: Modeling a Single Aggregate](https://www.dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_1.pdf)
+
+### Distributed Systems
+- [Google Cloud - Introducing GKE Autopilot: a revolution in managed Kubernetes](https://cloud.google.com/blog/products/containers-kubernetes/introducing-gke-autopilot)
+- [Chris Riccomini - How to paint a bike shed: Kafka topic naming conventions](https://cnr.sh/essays/how-paint-bike-shed-kafka-topic-naming-conventions)
+- [Cristian Posoiu - Lightweight, multi-node, multiple local Kubernetes clusters on your Linux machine](https://medium.com/@cristi.posoiu/lightweight-multi-node-multiple-local-kubernetes-clusters-on-your-linux-machine-3f6b37b12718)
+
+### API
+- [StackOverflow - John Au-Yeung - Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
+
+### Databases
+- [Peter Zaitzev - Percona - Hybrid Cloud Open Source DBaaS with Kubernetes](http://mirroronet.pl/pub/mirrors/video.fosdem.org/2021/D.containers/containers_k8s_dbaas.webm)
+
+### Frontend
+- [Matt E. Patterson - The Future of Web Software Is HTML-over-WebSockets](https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/)
+- [James Beswick - Building server-side rendering for React in AWS Lambda](https://aws.amazon.com/blogs/compute/building-server-side-rendering-for-react-in-aws-lambda/)
+
+### Functional Programming
+- [Bartosz Milewski - Functorio - having fun with functional programming](https://www.youtube.com/watch?v=A46KQtriYuM)
+
+### .NET
+- [Daniel Lemire - Parsing floating-point numbers really fast in C#](https://lemire.me/blog/2021/02/22/parsing-floating-point-numbers-really-fast-in-c)
+- [Isaac Abraham - Custom Equality and Comparison in F#](https://www.compositional-it.com/news-blog/custom-equality-and-comparison-in-f/)
+- [FASTER - A fast concurrent persistent key-value store and log, in C# and C++](https://microsoft.github.io/FASTER/)
+- [Khalid Abuhakmeh - .NET OSS Docs With MarkdownSnippets](https://khalidabuhakmeh.com/dotnet-oss-docs-with-markdownsnippets)
+
+### Rust
+- [Jesse Howarth - Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
+
+### AI
+- [Mohamed Trabelsi - Neural Ranking Models for Document Retrieval](https://deepai.org/publication/neural-ranking-models-for-document-retrieval)
+
+### Hardware
+- [Dan McCreary - Intel's Incredible PIUMA Graph Analytics Hardware](https://dmccreary.medium.com/intels-incredible-piuma-graph-analytics-hardware-a2e9c3daf8d8)
+
+### Coding Life
+- [Matt Lane - How to Structure Teams for Building Better Software Products Team Topologies Book Summary](https://medium.com/swlh/how-to-structure-teams-for-building-better-software-products-91e4dea021d)
+
+### Security
+- [The Register - 1Password has none, KeePass has none... So why are there seven embedded trackers in the LastPass Android app?](https://www.theregister.com/2021/02/25/lastpass_android_trackers_found/)
+
+### Industry
+- [David Heinemeier Hansson - Antitrust comes slowly then all at once ](https://world.hey.com/dhh/antitrust-comes-slowly-then-all-at-once-5f5eb129)
