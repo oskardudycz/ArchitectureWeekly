@@ -5,10 +5,10 @@
 ### Architecture
 - [Ruth Malan and Dana Bredemeyer - Less is More with Minimalist Architecture](https://www.bredemeyer.com/pdf_files/MinimalistArchitecture.PDF)
 - [The Open Group - Open Agile Architecture](https://pubs.opengroup.org/architecture/o-aa-standard)
-- [Ã–. Uludag, M. Kleehaus, X. Xu, F. Matthes - nvestigating the Role of Architects in Scaling Agile Frameworks](https://pubs.opengroup.org/architecture/o-aa-standard)
+- [Ö. Uludag, M. Kleehaus, X. Xu, F. Matthes - nvestigating the Role of Architects in Scaling Agile Frameworks](https://pubs.opengroup.org/architecture/o-aa-standard)
 - [Rinat Abdullin - DDD - Evolving Business Processes a la Lokad](https://abdullin.com/post/ddd-evolving-business-processes-a-la-lokad/)
 - [Joseph Choe - Event Sourcing, Part 1: User Registration](https://josephchoe.com/event-sourcing-part-1)
-- [Bartosz Adamczewski â€” Data-oriented design for business applications](https://www.youtube.com/watch?v=D7rKRnICZUY)
+- [Bartosz Adamczewski — Data-oriented design for business applications](https://www.youtube.com/watch?v=D7rKRnICZUY)
 - [Michiel Rook - Event sourcing and the GDPR: a follow-up](https://www.michielrook.nl/2017/11/event-sourcing-gdpr-follow-up/)
 - [Vaughn Vernon - Effective Aggregate DesignPart I: Modeling a Single Aggregate](https://www.dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_1.pdf)
 
