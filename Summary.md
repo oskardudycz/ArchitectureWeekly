@@ -28,6 +28,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Ruth Malan and Dana Bredemeyer - Less is More with Minimalist Architecture](https://www.bredemeyer.com/pdf_files/MinimalistArchitecture.PDF)
+- [The Open Group - Open Agile Architecture](https://pubs.opengroup.org/architecture/o-aa-standard)
+- [Ö. Uludag, M. Kleehaus, X. Xu, F. Matthes - Investigating the Role of Architects in Scaling Agile Frameworks](https://www.researchgate.net/publication/317888003_Investigating_the_Role_of_Architects_in_Scaling_Agile_Frameworks)
+- [Rinat Abdullin - DDD - Evolving Business Processes a la Lokad](https://abdullin.com/post/ddd-evolving-business-processes-a-la-lokad/)
+- [Joseph Choe - Event Sourcing, Part 1: User Registration](https://josephchoe.com/event-sourcing-part-1)
+- [Bartosz Adamczewski - Data-oriented design for business applications](https://www.youtube.com/watch?v=D7rKRnICZUY)
+- [Michiel Rook - Event sourcing and the GDPR: a follow-up](https://www.michielrook.nl/2017/11/event-sourcing-gdpr-follow-up/)
+- [Vaughn Vernon - Effective Aggregate DesignPart I: Modeling a Single Aggregate](https://www.dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_1.pdf)
+- [Vladimir Khorikov - Domain model purity vs. domain model completeness](https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/)
 - [Coding Over Cocktails Podcast - The Fundamentals of Software Architecture and Microservices with Mark Richards](https://dzone.com/articles/the-fundamentals-of-software-architecture-and-micr)
 - [Software Engineering Radio Podcast - Michael Perry on Immutable Architecture](https://www.se-radio.net/2021/02/episode-447-michael-perry-on-immutable-architecture/)
 - [DataDog Blog - Introducing Glommio, a Thread-per-Core Crate for Rust & Linux](https://www.datadoghq.com/blog/engineering/introducing-glommio)
@@ -71,6 +80,9 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed systems
+- [Google Cloud - Introducing GKE Autopilot: a revolution in managed Kubernetes](https://cloud.google.com/blog/products/containers-kubernetes/introducing-gke-autopilot)
+- [Chris Riccomini - How to paint a bike shed: Kafka topic naming conventions](https://cnr.sh/essays/how-paint-bike-shed-kafka-topic-naming-conventions)
+- [Cristian Posoiu - Lightweight, multi-node, multiple local Kubernetes clusters on your Linux machine](https://medium.com/@cristi.posoiu/lightweight-multi-node-multiple-local-kubernetes-clusters-on-your-linux-machine-3f6b37b12718)
 - [Gremlin - 2021 state of Chaos Engineering](https://www.gremlin.com/state-of-chaos-engineering/2021/)
 - [AWS re:Invent 2020 - How Disney+ deploys globally with Amazon ECS](https://www.youtube.com/watch?v=qgxxtmNijlg)
 - [Nick Craver - How Stack Overflow Caches Apps for a Multi-Tenant Architecture](https://stackoverflow.blog/2019/08/06/how-stack-overflow-caches-apps-for-a-multi-tenant-architecture/)
@@ -132,6 +144,8 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Matt E. Patterson - The Future of Web Software Is HTML-over-WebSockets](https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/)
+- [James Beswick - Building server-side rendering for React in AWS Lambda](https://aws.amazon.com/blogs/compute/building-server-side-rendering-for-react-in-aws-lambda/)
 - [Denys Dovhan - What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 - [V8 - Improving DataView performance in V8](https://v8.dev/blog/dataview)
 - [Web.Dev - Robert Nyman - Introducing Open Web Docs](https://web.dev/open-web-docs)
@@ -152,6 +166,7 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [StackOverflow - John Au-Yeung - Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
 - [Postman Youtube - From zero to Async API](https://www.youtube.com/watch?v=g2pqCIhXQ3k)
 - [Asbjørn Ulsberg - What's Your Problem?](https://www.youtube.com/watch?v=ZWIUn5BHDBc)
 - [API Evangelist - What Is API First?](http://apievangelist.com/2020/03/09/what-is-api-first/)
@@ -162,6 +177,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Peter Zaitzev - Percona - Hybrid Cloud Open Source DBaaS with Kubernetes](http://mirroronet.pl/pub/mirrors/video.fosdem.org/2021/D.containers/containers_k8s_dbaas.webm)
 - [Connor Stack - Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 - [T. Kraska, A. Beutel, Ed H. Chi, J. Dean, N. Polyzotis - The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208)
 - [Henning Funke, Jens Teubner - Like Water and Oil: With a Proper Emulsifier, QueryCompilation and Data Parallelism Will Mix Well](http://www.vldb.org/pvldb/vol13/p2849-funke.pdf)
@@ -178,6 +194,8 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Mohamed Trabelsi - Neural Ranking Models for Document Retrieval](https://deepai.org/publication/neural-ranking-models-for-document-retrieval)
+- [Facebook AI - Deep learning to translate between programming languages](https://ai.facebook.com/blog/deep-learning-to-translate-between-programming-languages/)
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## Azure
@@ -186,9 +204,14 @@
 - [InfoWorld - Simon Bisson - Jumping into Azure Arc Data Services](https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.amp.html)
 
 ## Functional Programming
+- [Bartosz Milewski - Functorio - having fun with functional programming](https://www.youtube.com/watch?v=A46KQtriYuM)
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Daniel Lemire - Parsing floating-point numbers really fast in C#](https://lemire.me/blog/2021/02/22/parsing-floating-point-numbers-really-fast-in-c)
+- [Isaac Abraham - Custom Equality and Comparison in F#](https://www.compositional-it.com/news-blog/custom-equality-and-comparison-in-f/)
+- [FASTER - A fast concurrent persistent key-value store and log, in C# and C++](https://microsoft.github.io/FASTER/)
+- [Khalid Abuhakmeh - .NET OSS Docs With MarkdownSnippets](https://khalidabuhakmeh.com/dotnet-oss-docs-with-markdownsnippets)
 - [David Fowler - .NET coding patterns](https://github.com/davidfowl/DotNetCodingPatterns)
 - [.NET Runtime - Developers can have access to more options when configuring async awaitables](https://github.com/dotnet/runtime/issues/47525)
 - [Microsoft - Dapr for .NET Developers](https://raw.githubusercontent.com/dotnet-architecture/eBooks/master/current/dapr-for-net-developers/Dapr-for-NET-Developers.pdf)
@@ -250,6 +273,8 @@
 - [Improve Activity API usability and OpenTelemetry integration](https://github.com/dotnet/designs/blob/main/accepted/2020/diagnostics/activity-improvements.md)
 
 ## Coding Life
+- [Nick Tune - Misaligned Incentives Fuel Organizational Dysfunctions](https://medium.com/nick-tune-tech-strategy-blog/misaligned-incentives-fuel-organizational-dysfunctions-a67a3ed03890)
+- [Matt Lane - How to Structure Teams for Building Better Software Products Team Topologies Book Summary](https://medium.com/swlh/how-to-structure-teams-for-building-better-software-products-91e4dea021d)
 - [Kent Beck - The Product Development Triathlon](https://medium.com/@kentbeck_7670/the-product-development-triathlon-6464e2763c46)
 - [Sebastian Gębski - Generation of illiterate developers](https://no-kill-switch.ghost.io/generation-of-illiterate-developers/)
 - [Tomek Onyszko - The most important skill you can learn with no cost?](https://www.onyszko.com/the-most-important-skill-you-can-learn/)
@@ -290,10 +315,12 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Rust
+- [Jesse Howarth - Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
 - [Robert Krahn - Is Rust a Functional Programming Language?](https://robert.kra.hn/posts/2021-02-03_is-rust-fp/)
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
 
 ## Industry
+- [David Heinemeier Hansson - Antitrust comes slowly then all at once ](https://world.hey.com/dhh/antitrust-comes-slowly-then-all-at-once-5f5eb129)
 - [Wired - Can Australia Force Google and Facebook to Pay for News?](https://www.wired.com/story/can-australia-force-google-facebook-pay-news)
 - [Business Insider - Jeff Bezos will step down as Amazon's CEO later this year and be replaced by AWS CEO Andy Jassy](https://www.businessinsider.com/jeff-bezos-to-step-down-as-amazon-ceo-2021-2?IR=T)
 - [Martin Kleppmann - Decentralised content moderation](https://martin.kleppmann.com/2021/01/13/decentralised-content-moderation.html)
@@ -322,6 +349,7 @@
 - [Corey Quinn - How to Compete with AWS](https://www.lastweekinaws.com/blog/how-to-compete-with-aws/)
 
 ## Hardware
+- [Dan McCreary - Intel's Incredible PIUMA Graph Analytics Hardware](https://dmccreary.medium.com/intels-incredible-piuma-graph-analytics-hardware-a2e9c3daf8d8)
 - [Erik Engheim - Why Is Apple’s M1 Chip So Fast?](https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2)
 - [Alex Ellis - Five years of Raspberry Pi Clusters](https://alexellisuk.medium.com/five-years-of-raspberry-pi-clusters-77e56e547875)
 
@@ -334,6 +362,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [The Register - 1Password has none, KeePass has none... So why are there seven embedded trackers in the LastPass Android app?](https://www.theregister.com/2021/02/25/lastpass_android_trackers_found/)
+- [ZDNet - Chinese hackers cloned attack tool belonging to NSA’s Equation Group](https://www.zdnet.com/google-amp/article/chinese-hackers-cloned-attack-tools-belonging-to-nsas-equation-group)
 - [Teo Selenius - Web Application Security Checklist](https://www.appsecmonkey.com/blog/web-application-security-checklist/)
 - [XSSFox - Build Pipeline Security](https://sprocketfox.io/xssfox/2021/01/18/pipeline/)
 - [Chris Dzombak - Securing my personal SSH infrastructure with Yubikeys](https://www.dzombak.com/blog/2021/02/Securing-my-personal-SSH-infrastructure-with-Yubikeys.html)
