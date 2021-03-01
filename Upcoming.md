@@ -5,12 +5,13 @@
 ### Architecture
 - [Ruth Malan and Dana Bredemeyer - Less is More with Minimalist Architecture](https://www.bredemeyer.com/pdf_files/MinimalistArchitecture.PDF)
 - [The Open Group - Open Agile Architecture](https://pubs.opengroup.org/architecture/o-aa-standard)
-- [Ö. Uludag, M. Kleehaus, X. Xu, F. Matthes - nvestigating the Role of Architects in Scaling Agile Frameworks](https://pubs.opengroup.org/architecture/o-aa-standard)
+- [ï¿½. Uludag, M. Kleehaus, X. Xu, F. Matthes - nvestigating the Role of Architects in Scaling Agile Frameworks](https://pubs.opengroup.org/architecture/o-aa-standard)
 - [Rinat Abdullin - DDD - Evolving Business Processes a la Lokad](https://abdullin.com/post/ddd-evolving-business-processes-a-la-lokad/)
 - [Joseph Choe - Event Sourcing, Part 1: User Registration](https://josephchoe.com/event-sourcing-part-1)
-- [Bartosz Adamczewski — Data-oriented design for business applications](https://www.youtube.com/watch?v=D7rKRnICZUY)
+- [Bartosz Adamczewski ï¿½ Data-oriented design for business applications](https://www.youtube.com/watch?v=D7rKRnICZUY)
 - [Michiel Rook - Event sourcing and the GDPR: a follow-up](https://www.michielrook.nl/2017/11/event-sourcing-gdpr-follow-up/)
 - [Vaughn Vernon - Effective Aggregate DesignPart I: Modeling a Single Aggregate](https://www.dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_1.pdf)
+- [Vladimir Khorikov - Domain model purity vs. domain model completeness](https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/)
 
 ### Distributed Systems
 - [Google Cloud - Introducing GKE Autopilot: a revolution in managed Kubernetes](https://cloud.google.com/blog/products/containers-kubernetes/introducing-gke-autopilot)
@@ -41,15 +42,18 @@
 
 ### AI
 - [Mohamed Trabelsi - Neural Ranking Models for Document Retrieval](https://deepai.org/publication/neural-ranking-models-for-document-retrieval)
+- [Facebook AI - Deep learning to translate between programming languages](https://ai.facebook.com/blog/deep-learning-to-translate-between-programming-languages/)
 
 ### Hardware
 - [Dan McCreary - Intel's Incredible PIUMA Graph Analytics Hardware](https://dmccreary.medium.com/intels-incredible-piuma-graph-analytics-hardware-a2e9c3daf8d8)
 
 ### Coding Life
+- [Nick Tune - Misaligned Incentives Fuel Organizational Dysfunctions](https://medium.com/nick-tune-tech-strategy-blog/misaligned-incentives-fuel-organizational-dysfunctions-a67a3ed03890)
 - [Matt Lane - How to Structure Teams for Building Better Software Products Team Topologies Book Summary](https://medium.com/swlh/how-to-structure-teams-for-building-better-software-products-91e4dea021d)
 
 ### Security
 - [The Register - 1Password has none, KeePass has none... So why are there seven embedded trackers in the LastPass Android app?](https://www.theregister.com/2021/02/25/lastpass_android_trackers_found/)
+- [ZDNet - Chinese hackers cloned attack tool belonging to NSAâ€™s Equation Group](https://www.zdnet.com/google-amp/article/chinese-hackers-cloned-attack-tools-belonging-to-nsas-equation-group)
 
 ### Industry
 - [David Heinemeier Hansson - Antitrust comes slowly then all at once ](https://world.hey.com/dhh/antitrust-comes-slowly-then-all-at-once-5f5eb129)
