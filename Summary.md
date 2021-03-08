@@ -6,6 +6,7 @@
   - [DevOps](#devops)
   - [Frontend](#frontend)
   - [Mobile](#mobile)
+  - [Performance](#performance)
   - [Testing](#testing)
   - [API](#api)
   - [Databases](#databases)
@@ -28,6 +29,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Gunnar Morling - Saga Orchestration for Microservices Using the Outbox Pattern](https://www.infoq.com/articles/saga-orchestration-outbox/)
+- [Stefan Tilkov - DDD is Overrated](https://tilkov.com/post/2021/03/01/ddd-is-overrated/)
+- [Jake Miller - An Exploration of JSON Interoperability Vulnerabilities](https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities)
+- [Vladik Khononov - Models and bounded contexts](https://twitter.com/vladikk/status/1335947978482339841)
+- [W. Lloyd, M.J. Freedman, M. Kaminsky, D.G. Andersen - Don't Settle for Eventual Consistency](https://queue.acm.org/detail.cfm?id=2610533)
+- [AOSA - The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 - [Ruth Malan and Dana Bredemeyer - Less is More with Minimalist Architecture](https://www.bredemeyer.com/pdf_files/MinimalistArchitecture.PDF)
 - [The Open Group - Open Agile Architecture](https://pubs.opengroup.org/architecture/o-aa-standard)
 - [Ö. Uludag, M. Kleehaus, X. Xu, F. Matthes - Investigating the Role of Architects in Scaling Agile Frameworks](https://www.researchgate.net/publication/317888003_Investigating_the_Role_of_Architects_in_Scaling_Agile_Frameworks)
@@ -80,6 +87,10 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed systems
+- [Murat Demirbas - Foundational distributed systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
+- [Emil Koutanov - Contrasting NATS with Apache Kafka](https://itnext.io/contrasting-nats-with-apache-kafka-1d3bdb9aa767)
+- [Mikito Takada - Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
+- [William Morgan - Linkerd v2: How Lessons from Production Adoption Resulted in a Rewrite of the Service Mesh](https://www.infoq.com/articles/linkerd-v2-production-adoption)
 - [Google Cloud - Introducing GKE Autopilot: a revolution in managed Kubernetes](https://cloud.google.com/blog/products/containers-kubernetes/introducing-gke-autopilot)
 - [Chris Riccomini - How to paint a bike shed: Kafka topic naming conventions](https://cnr.sh/essays/how-paint-bike-shed-kafka-topic-naming-conventions)
 - [Cristian Posoiu - Lightweight, multi-node, multiple local Kubernetes clusters on your Linux machine](https://medium.com/@cristi.posoiu/lightweight-multi-node-multiple-local-kubernetes-clusters-on-your-linux-machine-3f6b37b12718)
@@ -131,6 +142,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Gaurav Gahlot - Run GitHub Actions locally with DinD and nektos/ac](https://gauravgahlot.in/blog/run-github-actions-locally-docker-nektos-act/)
+- [Docker Blog - New Docker Desktop Preview for Apple M1 Released](https://www.docker.com/blog/new-docker-desktop-preview-for-apple-m1-released/)
+- [Microsoft - Power automate](https://flow.microsoft.com/en-us/desktop)
 - [Storage Unpacked Podcast - Storage & Kubernetes with Nigel Poulton](https://storageunpacked.com/2021/02/192-storage-kubernetes-poulton)
 - [Cezary Piątek - Github Actions for Visual Studio Extension developers](https://cezarypiatek.github.io/post/develop-vsextension-with-github-actions/)
 - [Damian Naprawa - Dockerfile Best Practices](https://github.com/dnaprawa/dockerfile-best-practices)
@@ -144,6 +158,9 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Google Developers - Announcing Flutter 2](https://developers.googleblog.com/2021/03/announcing-flutter-2.html)
+- [Fatih Altinok - What I look forward to about web development in 2021](https://blog.6nok.org/what-i-look-forward-to-about-web-development-in-2021)
+- [Kevin Lanthier - From Javascript to Typescript to Elm](https://itnext.io/from-javascript-to-typescript-to-elm-5c36fca70b4a)
 - [Matt E. Patterson - The Future of Web Software Is HTML-over-WebSockets](https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/)
 - [James Beswick - Building server-side rendering for React in AWS Lambda](https://aws.amazon.com/blogs/compute/building-server-side-rendering-for-react-in-aws-lambda/)
 - [Denys Dovhan - What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
@@ -159,6 +176,9 @@
 
 ## Mobile
 - [Gergerly Orosz - 33 Engineering Challenges of Building Mobile Apps at Scale eBook & Other Learnings](https://gumroad.com/l/IuuuN)
+
+## Performance
+- [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
 - [Matt Davies, Rob Moore - Microtesting](https://www.youtube.com/watch?v=pls1Vk_bw_Y)
@@ -194,6 +214,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Benedict Evans - Notes on AI Bias](https://www.ben-evans.com/benedictevans/2019/4/15/notes-on-ai-bias)
 - [Mohamed Trabelsi - Neural Ranking Models for Document Retrieval](https://deepai.org/publication/neural-ranking-models-for-document-retrieval)
 - [Facebook AI - Deep learning to translate between programming languages](https://ai.facebook.com/blog/deep-learning-to-translate-between-programming-languages/)
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
@@ -208,6 +229,9 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Microsoft Docs - Type.IsAssignableTo](https://docs.microsoft.com/en-us/dotnet/api/system.type.isassignableto)
+- [Mehdi Hadeli - Awesome .Net Core Education](https://github.com/mehdihadeli/awesome-dotnet-core-education)
+- [Jeremy D. Miller - Improvements to Event Sourcing in Marten V4](https://jeremydmiller.com/2021/03/02/improvements-to-event-sourcing-in-marten-v4/)
 - [Daniel Lemire - Parsing floating-point numbers really fast in C#](https://lemire.me/blog/2021/02/22/parsing-floating-point-numbers-really-fast-in-c)
 - [Isaac Abraham - Custom Equality and Comparison in F#](https://www.compositional-it.com/news-blog/custom-equality-and-comparison-in-f/)
 - [FASTER - A fast concurrent persistent key-value store and log, in C# and C++](https://microsoft.github.io/FASTER/)
@@ -273,6 +297,10 @@
 - [Improve Activity API usability and OpenTelemetry integration](https://github.com/dotnet/designs/blob/main/accepted/2020/diagnostics/activity-improvements.md)
 
 ## Coding Life
+- [Nick Tune - The Importance of a Great Developer Experience](https://medium.com/nick-tune-tech-strategy-blog/the-importance-of-a-great-developer-experience-40567abc0e9a)
+- [Dan Lew - Stop Nitpicking in Code Reviews](https://blog.danlew.net/2021/02/23/stop-nitpicking-in-code-reviews/)
+- [Trisha Gee - Reading Code is a Skill](https://trishagee.com/2020/09/07/reading-code-is-a-skill/)
+- [Hillel Wayne - Are We Really Engineers?](https://www.hillelwayne.com/post/crossover-project/are-we-really-engineers/)
 - [Nick Tune - Misaligned Incentives Fuel Organizational Dysfunctions](https://medium.com/nick-tune-tech-strategy-blog/misaligned-incentives-fuel-organizational-dysfunctions-a67a3ed03890)
 - [Matt Lane - How to Structure Teams for Building Better Software Products Team Topologies Book Summary](https://medium.com/swlh/how-to-structure-teams-for-building-better-software-products-91e4dea021d)
 - [Kent Beck - The Product Development Triathlon](https://medium.com/@kentbeck_7670/the-product-development-triathlon-6464e2763c46)
@@ -320,6 +348,8 @@
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
 
 ## Industry
+- [ACM - A Second Conversation with Werner Vogels](https://cacm.acm.org/magazines/2021/3/250706-a-second-conversation-with-werner-vogels/fulltext?s=09)
+- [TechCrunch - Okta acquires cloud identity startup Auth0 for $6.5B](https://techcrunch.com/2021/03/03/okta-acquires-cloud-identity-startup-auth0-for-6-5b)
 - [David Heinemeier Hansson - Antitrust comes slowly then all at once ](https://world.hey.com/dhh/antitrust-comes-slowly-then-all-at-once-5f5eb129)
 - [Wired - Can Australia Force Google and Facebook to Pay for News?](https://www.wired.com/story/can-australia-force-google-facebook-pay-news)
 - [Business Insider - Jeff Bezos will step down as Amazon's CEO later this year and be replaced by AWS CEO Andy Jassy](https://www.businessinsider.com/jeff-bezos-to-step-down-as-amazon-ceo-2021-2?IR=T)
@@ -380,6 +410,9 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [KJZZ - Whistleblowers: Software Bug Keeping Hundreds Of Inmates In Arizona Prisons Beyond Release Dates](https://kjzz.org/content/1660988/whistleblowers-software-bug-keeping-hundreds-inmates-arizona-prisons-beyond-release)
+- [Mel Conway - Demystifying "emergence"](https://twitter.com/conways_law/status/1357715464550506497)
+- [Spacial Chat - Tool for videoconferences](https://spatial.chat/)
 - [GitHub Blog - How we illustrate at GitHub](https://github.blog/2021-02-04-how-we-illustrate-at-github)
 - [The New York Times - This Cloud Computing Billing Expert Is Very Funny. Seriously.](https://www.nytimes.com/2021/02/17/technology/corey-quinn-amazon-aws.html)
 - [San Francisco Chronicle - Annie Vainshtein - Jerry Lawson revolutionized video gaming from his Silicon Valley garage. Then the world forgot him](https://www.sfchronicle.com/culture/article/Jerry-Lawson-revolutionized-video-gaming-from-his-15726001.php)
