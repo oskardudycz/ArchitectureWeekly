@@ -19,6 +19,7 @@
   - [Java](#java)
   - [Ruby](#ruby)
   - [Haskell](#haskell)
+  - [GO](#go)
   - [Rust](#rust)
   - [Industry](#industry)
       - [ElasticSearch Licence change](#elasticsearch-licence-change)
@@ -29,6 +30,20 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Systems Thinking for Developers - Airplanes!](https://systemsthinking.dev/2021/03/03/airplanes/)
+- [StackOverflow Blog - Best practices can slow your application down](https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down)
+- [Aviva Solutions Unplatform - Highly scalable and performant e-commerce using Jamstack](https://unplatform.io/stories/highly-scalable-and-performant-e-commerce-using-jamstack)
+- [Allegro Tech Blog - Tymon Felski - Finite-state machines made easy](https://blog.allegro.tech/2021/03/state-machines-made-easy.html)
+- [Mark Rendle - Futurology for Developers](https://www.youtube.com/watch?v=Mm1WExYXhl8)
+- [Udi Dahan - Ask me Anything](https://www.youtube.com/watch?v=c07zWlLBvVg)
+- [Alexey Zimarev - Event-driven startup](https://zimarev.com/blog/event-sourcing/startup-story-1/)
+- [Mauro Servienti - Not all changes are born equal](https://milestone.topics.it/2021/03/10/not-all-changes-are-born-equal.html)
+- [Martin Fowler - Temporal Patterns](https://martinfowler.com/eaaDev/timeNarrative.html)
+- [On .NET Live - Commands, Queries, and other architectural patterns for your .NET Application](https://www.youtube.com/watch?v=ysxgpVfyeNA)
+- [Jim Webber - Domain-Driven Design for RESTful Systems](https://www.youtube.com/watch?v=aQVSzMV8DWc)
+- [Daniel Stefanovic - Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x)
+- [Retro Time - Peak Software $#!% with Gojko Adzic](https://www.retrotimepodcast.com/18-peak-software-with-gojko-adzic/)
+- [Charles Desneuf - Building an event-sourced game with Phoenix Liveview: Architecture](https://blog.chorip.am/articles/phoenix-liveview-event-sourced-game-architecture)
 - [Gunnar Morling - Saga Orchestration for Microservices Using the Outbox Pattern](https://www.infoq.com/articles/saga-orchestration-outbox/)
 - [Stefan Tilkov - DDD is Overrated](https://tilkov.com/post/2021/03/01/ddd-is-overrated/)
 - [Jake Miller - An Exploration of JSON Interoperability Vulnerabilities](https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities)
@@ -87,6 +102,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed systems
+- [James Randall - Comparative performance of Azure Functions and AWS Lambda](https://www.azurefromthetrenches.com/comparative-performance-of-azure-functions-and-aws-lambda/)
+
 - [Murat Demirbas - Foundational distributed systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
 - [Emil Koutanov - Contrasting NATS with Apache Kafka](https://itnext.io/contrasting-nats-with-apache-kafka-1d3bdb9aa767)
 - [Mikito Takada - Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
@@ -225,10 +242,15 @@
 - [InfoWorld - Simon Bisson - Jumping into Azure Arc Data Services](https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.amp.html)
 
 ## Functional Programming
+- [Perdita Stevens - Writing good programs in functional languages](https://www.youtube.com/watch?v=ulZeg60FNU4)
 - [Bartosz Milewski - Functorio - having fun with functional programming](https://www.youtube.com/watch?v=A46KQtriYuM)
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jimmy Bogard - Choosing a ServiceLifetime](https://jimmybogard.com/choosing-a-servicelifetime/)
+- [ASP.NET Blog - Daniel Roth - ASP.NET Core updates in .NET 6 Preview 2](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-2/)
+- [StrathWeb - Easy way to create a C# lambda expression from a string (with Roslyn)](https://www.strathweb.com/2018/01/easy-way-to-create-a-c-lambda-expression-from-a-string-with-roslyn/)
+- [Ryujinx - Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
 - [Microsoft Docs - Type.IsAssignableTo](https://docs.microsoft.com/en-us/dotnet/api/system.type.isassignableto)
 - [Mehdi Hadeli - Awesome .Net Core Education](https://github.com/mehdihadeli/awesome-dotnet-core-education)
 - [Jeremy D. Miller - Improvements to Event Sourcing in Marten V4](https://jeremydmiller.com/2021/03/02/improvements-to-event-sourcing-in-marten-v4/)
@@ -297,6 +319,10 @@
 - [Improve Activity API usability and OpenTelemetry integration](https://github.com/dotnet/designs/blob/main/accepted/2020/diagnostics/activity-improvements.md)
 
 ## Coding Life
+- [Emily Bache - Proportion of Women Programmers](https://coding-is-like-cooking.info/2017/04/proportion-of-women-programmers/)
+- [Ardalis - New Software Project Checklist](https://ardalis.com/new-software-project-checklist/)
+- [Patrick McKenzie - Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+- [Cyrille Martraire - Interviewing Domain Experts: Heuristics from the trenches](https://vimeo.com/167722763)
 - [Nick Tune - The Importance of a Great Developer Experience](https://medium.com/nick-tune-tech-strategy-blog/the-importance-of-a-great-developer-experience-40567abc0e9a)
 - [Dan Lew - Stop Nitpicking in Code Reviews](https://blog.danlew.net/2021/02/23/stop-nitpicking-in-code-reviews/)
 - [Trisha Gee - Reading Code is a Skill](https://trishagee.com/2020/09/07/reading-code-is-a-skill/)
@@ -342,7 +368,12 @@
 ## Haskell
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
+## GO
+- [Robert Pająk - Lessons Learned after 1 year of programming in Go as a C# developer](https://pajak.home.blog/2020/02/28/lessons-learned-after-1-year-of-programming-in-go-as-a-c-developer)
+
+
 ## Rust
+- [Kornelski - Speed of Rust vs C](https://kornel.ski/rust-c-speed)
 - [Jesse Howarth - Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
 - [Robert Krahn - Is Rust a Functional Programming Language?](https://robert.kra.hn/posts/2021-02-03_is-rust-fp/)
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
@@ -379,6 +410,7 @@
 - [Corey Quinn - How to Compete with AWS](https://www.lastweekinaws.com/blog/how-to-compete-with-aws/)
 
 ## Hardware
+- [Stratechery - Intel Problems](https://stratechery.com/2021/intel-problems/)
 - [Dan McCreary - Intel's Incredible PIUMA Graph Analytics Hardware](https://dmccreary.medium.com/intels-incredible-piuma-graph-analytics-hardware-a2e9c3daf8d8)
 - [Erik Engheim - Why Is Apple’s M1 Chip So Fast?](https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2)
 - [Alex Ellis - Five years of Raspberry Pi Clusters](https://alexellisuk.medium.com/five-years-of-raspberry-pi-clusters-77e56e547875)
@@ -392,6 +424,10 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [GitHub Blog - Git clone vulnerability announced](https://github.blog/2021-03-09-git-clone-vulnerability-announced/)
+- [Wojtek Domagała - Azure AD B2C: How to revoke refresh tokens?](https://blog.wojtek.pro/azure-ad-b2c-how-to-revoke-refresh-tokens/)
+- [The Burning Monk - The case for and against Amazon Cognito](https://theburningmonk.com/2021/03/the-case-for-and-against-amazon-cognito/)
+- [NDTV - Thousands Of Security Cameras Hacked, Exposing Tesla, US Jails, Hospitals](https://www.ndtv.com/world-news/thousands-of-security-cameras-hacked-exposing-tesla-jails-hospitals-2387447)
 - [The Register - 1Password has none, KeePass has none... So why are there seven embedded trackers in the LastPass Android app?](https://www.theregister.com/2021/02/25/lastpass_android_trackers_found/)
 - [ZDNet - Chinese hackers cloned attack tool belonging to NSA’s Equation Group](https://www.zdnet.com/google-amp/article/chinese-hackers-cloned-attack-tools-belonging-to-nsas-equation-group)
 - [Teo Selenius - Web Application Security Checklist](https://www.appsecmonkey.com/blog/web-application-security-checklist/)
@@ -410,6 +446,11 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [Brenn A. Hill - Noobs guide: B2B vs B2C vs B2D Marketing](https://medium.com/swlh/nailing-b2b-vs-b2c-vs-b2d-marketing-59af2bcb20e4)
+- [SnipCart - B2D: The No-BS Dynamics of Marketing & Selling to Devs](https://snipcart.com/blog/b2d-marketing-selling-to-developers)
+- [AWS Blog - Jeff Barr - Amazon S3's 15th Birthday – It is Still Day 1 after 5,475 Days & 100 Trillion Objects](https://aws.amazon.com/blogs/aws/amazon-s3s-15th-birthday-it-is-still-day-1-after-5475-days-100-trillion-objects/)
+- [Artnet - Twitter Founder Jack Dorsey Is Auctioning Off the World's First-Ever Tweet as an NFT—and the High Bid Is Already $2.5 Million](https://news.artnet.com/market/jack-dorsey-nft-tweet-1950279)
+- [What they said in 1999 about Amazon dot com](https://www.youtube.com/watch?app=desktop&v=Yv8MrBBuRqI)
 - [KJZZ - Whistleblowers: Software Bug Keeping Hundreds Of Inmates In Arizona Prisons Beyond Release Dates](https://kjzz.org/content/1660988/whistleblowers-software-bug-keeping-hundreds-inmates-arizona-prisons-beyond-release)
 - [Mel Conway - Demystifying "emergence"](https://twitter.com/conways_law/status/1357715464550506497)
 - [Spacial Chat - Tool for videoconferences](https://spatial.chat/)
