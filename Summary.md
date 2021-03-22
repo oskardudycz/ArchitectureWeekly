@@ -2,7 +2,7 @@
 
 - [All links](#all-links)
   - [Architecture](#architecture)
-  - [Distributed systems](#distributed-systems)
+  - [Distributed Systems](#distributed-systems)
   - [DevOps](#devops)
   - [Frontend](#frontend)
   - [Mobile](#mobile)
@@ -101,12 +101,12 @@
 - [Savvas Kleanthous - The impossibility of exactly-once delivery](https://blog.bulloak.io/post/20200917-the-impossibility-of-exactly-once/)
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
-## Distributed systems
+## Distributed Systems
 - [James Randall - Comparative performance of Azure Functions and AWS Lambda](https://www.azurefromthetrenches.com/comparative-performance-of-azure-functions-and-aws-lambda/)
 
-- [Murat Demirbas - Foundational distributed systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
+- [Murat Demirbas - Foundational Distributed Systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
 - [Emil Koutanov - Contrasting NATS with Apache Kafka](https://itnext.io/contrasting-nats-with-apache-kafka-1d3bdb9aa767)
-- [Mikito Takada - Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
+- [Mikito Takada - Distributed Systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 - [William Morgan - Linkerd v2: How Lessons from Production Adoption Resulted in a Rewrite of the Service Mesh](https://www.infoq.com/articles/linkerd-v2-production-adoption)
 - [Google Cloud - Introducing GKE Autopilot: a revolution in managed Kubernetes](https://cloud.google.com/blog/products/containers-kubernetes/introducing-gke-autopilot)
 - [Chris Riccomini - How to paint a bike shed: Kafka topic naming conventions](https://cnr.sh/essays/how-paint-bike-shed-kafka-topic-naming-conventions)

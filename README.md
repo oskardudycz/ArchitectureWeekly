@@ -90,10 +90,10 @@ There are two rules:
 - [W. Lloyd, M.J. Freedman, M. Kaminsky, D.G. Andersen - Don't Settle for Eventual Consistency](https://queue.acm.org/detail.cfm?id=2610533)
 - [AOSA - The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
-### Distributed systems
-- [Murat Demirbas - Foundational distributed systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
+### Distributed Systems
+- [Murat Demirbas - Foundational Distributed Systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
 - [Emil Koutanov - Contrasting NATS with Apache Kafka](https://itnext.io/contrasting-nats-with-apache-kafka-1d3bdb9aa767)
-- [Mikito Takada - Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
+- [Mikito Takada - Distributed Systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 - [William Morgan - Linkerd v2: How Lessons from Production Adoption Resulted in a Rewrite of the Service Mesh](https://www.infoq.com/articles/linkerd-v2-production-adoption)
 
 ### DevOps
@@ -261,7 +261,7 @@ There are two rules:
 - [Pinterest Engineering - Manas Two-stage Retrieval — The efficient architecture for hierarchical documents](https://medium.com/pinterest-engineering/manas-two-stage-retrieval-the-efficient-architecture-for-hierarchical-documents-dcaba6e78b0d)
 - [Pat Helland - Memories, Guesses, and Apologies](https://web.archive.org/web/20070519040441/http://blogs.msdn.com/pathelland/archive/2007/05/15/memories-guesses-and-apologies.aspx)
 
-### Distributed systems
+### Distributed Systems
 - [Nick Craver - How Stack Overflow Caches Apps for a Multi-Tenant Architecture](https://stackoverflow.blog/2019/08/06/how-stack-overflow-caches-apps-for-a-multi-tenant-architecture/)
 
 ### Databases
@@ -596,7 +596,7 @@ There are two rules:
 - [Nikolay Ashanin - The Path to Becoming a Software Architect](https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a)
 - [Sébastien Andreo - Architecture documentation series](https://dev.to/sebastienandreo/architecture-documentation-series-100i)
 
-### Distributed systems
+### Distributed Systems
 - [Karine Altisen, Stéphane Devismes, Swan Dubois, Franck Petit - Introduction to Distributed Self-Stabilizing Algorithms](https://ieeexplore.ieee.org/document/8693060)
 
 ### DevOps
@@ -647,7 +647,7 @@ There are two rules:
 - [Tyron Offerman, Christoph Johann Stettina, Aske Plaat - Business capabilities: A systematic literature review and a research agenda](https://www.researchgate.net/publication/323000484_Business_capabilities_A_systematic_literature_review_and_a_research_agenda)
 - [Savvas Kleanthous - The impossibility of exactly-once delivery](https://blog.bulloak.io/post/20200917-the-impossibility-of-exactly-once/)
 
-## Distributed systems
+## Distributed Systems
 - [Twitter - Babatunde Fashola - Kafka as a storage system](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/kafka-as-a-storage-system.html)
 - [Cloudflare - A Byzantine failure in the real world](https://blog.cloudflare.com/a-byzantine-failure-in-the-real-world/)
 - [Heidi Howard, Ittai Abraham - Raft does not Guarantee Liveness in the face of Network Faults](https://decentralizedthoughts.github.io/2020-12-12-raft-liveness-full-omission/)
@@ -694,7 +694,7 @@ There are two rules:
 
 ## [21st December 2020](per-week/2020-12-21.md)
 
-### Distributed systems
+### Distributed Systems
 - [TechCrunch - AWS introduces new Chaos Engineering as a Service offering](https://techcrunch.com/2020/12/15/aws-introduces-new-chaos-engineering-as-a-service-offering)
 - [AWS - Using AWS Lambda for streaming analytics](https://aws.amazon.com/blogs/compute/using-aws-lambda-for-streaming-analytics/)
 - [NServiceBus - Sagas: Integrations](https://docs.particular.net/tutorials/nservicebus-sagas/3-integration)
@@ -740,7 +740,7 @@ There are two rules:
 
 ## [14th December 2020](per-week/2020-12-14.md)
 
-### Distributed systems
+### Distributed Systems
 - [Miia Niemelä - Lessons learned from combining SQS and Lambda in a data project](https://data.solita.fi/lessons-learned-from-combining-sqs-and-lambda-in-a-data-project/)
 - [Adam Warski - Evaluating persistent, replicated message queues (2020 edition)](https://softwaremill.com/mqperf/)
 - [Gergerly Oros - Operating a Large, Distributed System in a Reliable Way: Practices I Learned](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/)
