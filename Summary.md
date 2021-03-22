@@ -30,6 +30,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Erik Dörnenburg - Architecture without Architects](https://vimeo.com/141386145)
+- [OReilly - Microservices Adoption in 2020](https://www.oreilly.com/radar/microservices-adoption-in-2020)
+- [AirBnB - Capturing Data Evolution in a Service-Oriented Architecture](https://medium.com/airbnb-engineering/capturing-data-evolution-in-a-service-oriented-architecture-72f7c643ee6f)
+- [Simon Brown, Stefan Tilkov - Software Architecture for Developers](https://www.youtube.com/watch?v=gDlE4q3mozY)
+- [Thomas Weiss - Planet-scale event sourcing with Azure Cosmos DB](https://medium.com/@thomasweiss_io/planet-scale-event-sourcing-with-azure-cosmos-db-48a557757c8d)
+- [Mathijs Kadijk, Jaap Taal - The beautiful headache called event sourcing](https://engineering.q42.nl/event-sourcing/)
+- [Zhamak Dehghani - Data Mesh Principles and Logical Architecture](https://martinfowler.com/articles/data-mesh-principles.html)
+- [James Serra - Data Mesh defined](https://www.jamesserra.com/archive/2021/02/data-mesh)
+- [Particular Software - A better approach to building retail systems](https://particular.net/solutions/retail?twclid=11373674210594279428)
 - [Systems Thinking for Developers - Airplanes!](https://systemsthinking.dev/2021/03/03/airplanes/)
 - [StackOverflow Blog - Best practices can slow your application down](https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down)
 - [Aviva Solutions Unplatform - Highly scalable and performant e-commerce using Jamstack](https://unplatform.io/stories/highly-scalable-and-performant-e-commerce-using-jamstack)
@@ -102,8 +111,11 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Iurii Krasnoshchok - Meet nanoQ — high-performance brokerless Pub/Sub for streaming real-time data with Golang](https://medium.com/aigent/meet-nanoq-high-performance-brokerless-pub-sub-for-streaming-real-time-data-with-golang-6630d3067f4e)
+- [Slack Engineering - Migrating Millions of Concurrent Websockets to Envoy](https://slack.engineering/migrating-millions-of-concurrent-websockets-to-envoy/)
+- [Emil Koutanov - Why Kafka Is so Fast](https://medium.com/swlh/why-kafka-is-so-fast-bde0d987cd03)
+- [Murat Demirbas - Sundial: Fault-tolerant Clock Synchronization for Datacenters](http://muratbuffalo.blogspot.com/2021/03/sundial-fault-tolerant-clock.html)
 - [James Randall - Comparative performance of Azure Functions and AWS Lambda](https://www.azurefromthetrenches.com/comparative-performance-of-azure-functions-and-aws-lambda/)
-
 - [Murat Demirbas - Foundational Distributed Systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
 - [Emil Koutanov - Contrasting NATS with Apache Kafka](https://itnext.io/contrasting-nats-with-apache-kafka-1d3bdb9aa767)
 - [Mikito Takada - Distributed Systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
@@ -159,6 +171,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Vivien Fabing - Azure Pipelines: How to add a build agent with Azure Container Instances - part 3 : Build agent on demand](https://www.vivienfabing.com/azure-devops/2019/08/22/azure-pipelines-how-to-add-a-build-agent-with-azure-container-instances-part-3-build-agent-on-demand.html)
 - [Gaurav Gahlot - Run GitHub Actions locally with DinD and nektos/ac](https://gauravgahlot.in/blog/run-github-actions-locally-docker-nektos-act/)
 - [Docker Blog - New Docker Desktop Preview for Apple M1 Released](https://www.docker.com/blog/new-docker-desktop-preview-for-apple-m1-released/)
 - [Microsoft - Power automate](https://flow.microsoft.com/en-us/desktop)
@@ -175,6 +188,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Adam Wathan - Just-In-Time: The Next Generation of Tailwind CSS](https://blog.tailwindcss.com/just-in-time-the-next-generation-of-tailwind-css)
 - [Google Developers - Announcing Flutter 2](https://developers.googleblog.com/2021/03/announcing-flutter-2.html)
 - [Fatih Altinok - What I look forward to about web development in 2021](https://blog.6nok.org/what-i-look-forward-to-about-web-development-in-2021)
 - [Kevin Lanthier - From Javascript to Typescript to Elm](https://itnext.io/from-javascript-to-typescript-to-elm-5c36fca70b4a)
@@ -203,6 +217,7 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [Microsoft - Web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - [StackOverflow - John Au-Yeung - Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
 - [Postman Youtube - From zero to Async API](https://www.youtube.com/watch?v=g2pqCIhXQ3k)
 - [Asbjørn Ulsberg - What's Your Problem?](https://www.youtube.com/watch?v=ZWIUn5BHDBc)
@@ -214,6 +229,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Nicole Hemsoth - It's Time to Start Paying Attention to Vector Databases](https://www.nextplatform.com/2021/03/11/its-time-to-start-paying-attention-to-vector-databases/)
 - [Peter Zaitzev - Percona - Hybrid Cloud Open Source DBaaS with Kubernetes](http://mirroronet.pl/pub/mirrors/video.fosdem.org/2021/D.containers/containers_k8s_dbaas.webm)
 - [Connor Stack - Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 - [T. Kraska, A. Beutel, Ed H. Chi, J. Dean, N. Polyzotis - The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208)
@@ -247,6 +263,12 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Alex Yakunin - Geting 4x Speedup With .NET Core 3.0 SIMD Intrinsics](https://itnext.io/geting-4x-speedup-with-net-core-3-0-simd-intrinsics-5c9c31c47991)
+- [Alex Yakunin - Astonishing Performance of .NET 5: More Data](https://medium.com/swlh/astonishing-performance-of-net-5-more-data-5cdc8d821e8c)
+- [Adam Sitnik - Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
+- [Cezary Piątek - Testing WebAPI with ApprovalTests.NET](https://cezarypiatek.github.io/post/testing-web-api-with-approval-tests/)
+- [Pier-Luc Bonneville - Introducing the .NET Interactive Notebooks Razor extension](https://plbonneville.com/blog/introducing-the-dotnet-interactive-notebooks-razor-extension/)
+- [Microsoft DevBlogs - Introducing Configurable Retry Logic in Microsoft.Data.SqlClient v3.0.0-Preview1](https://devblogs.microsoft.com/azure-sql/configurable-retry-logic-for-microsoft-data-sqlclient/)
 - [Jimmy Bogard - Choosing a ServiceLifetime](https://jimmybogard.com/choosing-a-servicelifetime/)
 - [ASP.NET Blog - Daniel Roth - ASP.NET Core updates in .NET 6 Preview 2](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-2/)
 - [StrathWeb - Easy way to create a C# lambda expression from a string (with Roslyn)](https://www.strathweb.com/2018/01/easy-way-to-create-a-c-lambda-expression-from-a-string-with-roslyn/)
@@ -319,6 +341,13 @@
 - [Improve Activity API usability and OpenTelemetry integration](https://github.com/dotnet/designs/blob/main/accepted/2020/diagnostics/activity-improvements.md)
 
 ## Coding Life
+- [Daniel Terhorst-North - CUPID – the back story](https://dannorth.net/2021/03/16/cupid-the-back-story)
+- [Justin Garrison - The Document Culture of Amazon](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/)
+- [N. Forsgren, M-A. Storey, C. Maddila, T. Zimmermann, B. Houck, J. Butler - The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124)
+- [Rachel Thomas - If you think women in tech is just a pipeline problem, you haven’t been paying attention](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996)
+- [Sotware Engineering - Report on a conference sponsored by the NATO SCIENCE COMMITTE](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF)
+- [Kevlin Henney - 1968](https://www.youtube.com/watch?app=desktop&v=J1aUhAxfjy8)
+- [Chris Allen - Why Johnny Can't Code Good](https://www.youtube.com/watch?v=2xyZeovFqCA)
 - [Emily Bache - Proportion of Women Programmers](https://coding-is-like-cooking.info/2017/04/proportion-of-women-programmers/)
 - [Ardalis - New Software Project Checklist](https://ardalis.com/new-software-project-checklist/)
 - [Patrick McKenzie - Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
@@ -359,6 +388,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Java
+- [InfoWorld - JDK 16: The new features in Java 16](https://www.infoworld.com/article/3569150/jdk-16-the-new-features-in-java-16.html)
 - [InfoQ - Netflix Open Sources Their Domain Graph Service Framework: GraphQL for Spring Boot](https://www.infoq.com/news/2021/02/netflix-graphql-spring-boot/)
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
@@ -379,6 +409,7 @@
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
 
 ## Industry
+- [Benedict Evans - Outgrowing software](https://www.ben-evans.com/benedictevans/2021/3/18/outgrowing-software)
 - [ACM - A Second Conversation with Werner Vogels](https://cacm.acm.org/magazines/2021/3/250706-a-second-conversation-with-werner-vogels/fulltext?s=09)
 - [TechCrunch - Okta acquires cloud identity startup Auth0 for $6.5B](https://techcrunch.com/2021/03/03/okta-acquires-cloud-identity-startup-auth0-for-6-5b)
 - [David Heinemeier Hansson - Antitrust comes slowly then all at once ](https://world.hey.com/dhh/antitrust-comes-slowly-then-all-at-once-5f5eb129)
@@ -424,6 +455,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [CNCF - CNCF Provides Insights into Secrets Management Tools with Latest End User Technology Radar](https://www.cncf.io/announcements/2021/02/23/cncf-provides-insights-into-secrets-management-tools-with-latest-end-user-technology-radar/)
+- [GitHub Blog - How we found and fixed a rare race condition in our session handling](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
 - [GitHub Blog - Git clone vulnerability announced](https://github.blog/2021-03-09-git-clone-vulnerability-announced/)
 - [Wojtek Domagała - Azure AD B2C: How to revoke refresh tokens?](https://blog.wojtek.pro/azure-ad-b2c-how-to-revoke-refresh-tokens/)
 - [The Burning Monk - The case for and against Amazon Cognito](https://theburningmonk.com/2021/03/the-case-for-and-against-amazon-cognito/)

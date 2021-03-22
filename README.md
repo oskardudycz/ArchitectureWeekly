@@ -20,6 +20,64 @@ There are two rules:
 
 -------
 
+### Architecture
+- [Erik Dörnenburg - Architecture without Architects](https://vimeo.com/141386145)
+- [OReilly - Microservices Adoption in 2020](https://www.oreilly.com/radar/microservices-adoption-in-2020)
+- [AirBnB - Capturing Data Evolution in a Service-Oriented Architecture](https://medium.com/airbnb-engineering/capturing-data-evolution-in-a-service-oriented-architecture-72f7c643ee6f)
+- [Simon Brown, Stefan Tilkov - Software Architecture for Developers](https://www.youtube.com/watch?v=gDlE4q3mozY)
+- [Thomas Weiss - Planet-scale event sourcing with Azure Cosmos DB](https://medium.com/@thomasweiss_io/planet-scale-event-sourcing-with-azure-cosmos-db-48a557757c8d)
+- [Mathijs Kadijk, Jaap Taal - The beautiful headache called event sourcing](https://engineering.q42.nl/event-sourcing/)
+- [Zhamak Dehghani - Data Mesh Principles and Logical Architecture](https://martinfowler.com/articles/data-mesh-principles.html)
+- [James Serra - Data Mesh defined](https://www.jamesserra.com/archive/2021/02/data-mesh)
+- [Particular Software - A better approach to building retail systems](https://particular.net/solutions/retail?twclid=11373674210594279428)
+
+### Distributed Systems
+- [Iurii Krasnoshchok - Meet nanoQ — high-performance brokerless Pub/Sub for streaming real-time data with Golang](https://medium.com/aigent/meet-nanoq-high-performance-brokerless-pub-sub-for-streaming-real-time-data-with-golang-6630d3067f4e)
+- [Slack Engineering - Migrating Millions of Concurrent Websockets to Envoy](https://slack.engineering/migrating-millions-of-concurrent-websockets-to-envoy/)
+- [Emil Koutanov - Why Kafka Is so Fast](https://medium.com/swlh/why-kafka-is-so-fast-bde0d987cd03)
+- [Murat Demirbas - Sundial: Fault-tolerant Clock Synchronization for Datacenters](http://muratbuffalo.blogspot.com/2021/03/sundial-fault-tolerant-clock.html)
+
+### Databases
+- [Nicole Hemsoth - It's Time to Start Paying Attention to Vector Databases](https://www.nextplatform.com/2021/03/11/its-time-to-start-paying-attention-to-vector-databases/)
+
+### DevOps
+- [Vivien Fabing - Azure Pipelines: How to add a build agent with Azure Container Instances - part 3 : Build agent on demand](https://www.vivienfabing.com/azure-devops/2019/08/22/azure-pipelines-how-to-add-a-build-agent-with-azure-container-instances-part-3-build-agent-on-demand.html)
+
+### API
+- [Microsoft - Web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+
+### Frontend
+- [Adam Wathan - Just-In-Time: The Next Generation of Tailwind CSS](https://blog.tailwindcss.com/just-in-time-the-next-generation-of-tailwind-css)
+
+### .NET
+- [Alex Yakunin - Geting 4x Speedup With .NET Core 3.0 SIMD Intrinsics](https://itnext.io/geting-4x-speedup-with-net-core-3-0-simd-intrinsics-5c9c31c47991)
+- [Alex Yakunin - Astonishing Performance of .NET 5: More Data](https://medium.com/swlh/astonishing-performance-of-net-5-more-data-5cdc8d821e8c)
+- [Adam Sitnik - Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
+- [Cezary Piątek - Testing WebAPI with ApprovalTests.NET](https://cezarypiatek.github.io/post/testing-web-api-with-approval-tests/)
+- [Pier-Luc Bonneville - Introducing the .NET Interactive Notebooks Razor extension](https://plbonneville.com/blog/introducing-the-dotnet-interactive-notebooks-razor-extension/)
+- [Microsoft DevBlogs - Introducing Configurable Retry Logic in Microsoft.Data.SqlClient v3.0.0-Preview1](https://devblogs.microsoft.com/azure-sql/configurable-retry-logic-for-microsoft-data-sqlclient/)
+
+### Java
+- [InfoWorld - JDK 16: The new features in Java 16](https://www.infoworld.com/article/3569150/jdk-16-the-new-features-in-java-16.html)
+
+### Coding Life
+- [Daniel Terhorst-North - CUPID – the back story](https://dannorth.net/2021/03/16/cupid-the-back-story)
+- [Justin Garrison - The Document Culture of Amazon](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/)
+- [N. Forsgren, M-A. Storey, C. Maddila, T. Zimmermann, B. Houck, J. Butler - The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124)
+- [Rachel Thomas - If you think women in tech is just a pipeline problem, you haven’t been paying attention](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996)
+- [Sotware Engineering - Report on a conference sponsored by the NATO SCIENCE COMMITTE](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF)
+- [Kevlin Henney - 1968](https://www.youtube.com/watch?app=desktop&v=J1aUhAxfjy8)
+- [Chris Allen - Why Johnny Can't Code Good](https://www.youtube.com/watch?v=2xyZeovFqCA)
+
+### Security
+- [CNCF - CNCF Provides Insights into Secrets Management Tools with Latest End User Technology Radar](https://www.cncf.io/announcements/2021/02/23/cncf-provides-insights-into-secrets-management-tools-with-latest-end-user-technology-radar/)
+- [GitHub Blog - How we found and fixed a rare race condition in our session handling](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
+
+### Industry
+- [Benedict Evans - Outgrowing software](https://www.ben-evans.com/benedictevans/2021/3/18/outgrowing-software)
+
+-------
+
 ## 15th March 2021
 
 ### Architecture
