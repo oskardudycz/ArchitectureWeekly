@@ -15,6 +15,7 @@
   - [Functional Programming](#functional-programming)
   - [.NET](#net)
     - [OpenTelemetry in .NET](#opentelemetry-in-net)
+    - [WebAssembly](#webassembly)
   - [Coding Life](#coding-life)
   - [Java](#java)
   - [Ruby](#ruby)
@@ -30,6 +31,9 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Michael Nygard - Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
+- [Dennis Doomen - A recipe for gradually migrating from CRUD to Event Sourcing](https://www.eventstore.com/blog/a-recipe-for-gradually-migrating-from-crud-to-event-sourcing)
+- [Pariveda - Beyond APIs: Re-architected System Integrations as Event Sourced](https://www.youtube.com/watch?v=MX4_41yLuG0)
 - [Erik Dörnenburg - Architecture without Architects](https://vimeo.com/141386145)
 - [OReilly - Microservices Adoption in 2020](https://www.oreilly.com/radar/microservices-adoption-in-2020)
 - [AirBnB - Capturing Data Evolution in a Service-Oriented Architecture](https://medium.com/airbnb-engineering/capturing-data-evolution-in-a-service-oriented-architecture-72f7c643ee6f)
@@ -111,6 +115,9 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [ACM Queue - A Second Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=3434573%2C)
+- [Bilgin Ibryam - The Evolution of Distributed Systems on Kubernetes](https://www.infoq.com/articles/distributed-systems-kubernetes/)
+- [Arkadiusz Onyszko - Why should you use Kubernetes in 2021? Or why not?](https://www.predicagroup.com/blog/why-kubernetes-2021)
 - [Iurii Krasnoshchok - Meet nanoQ — high-performance brokerless Pub/Sub for streaming real-time data with Golang](https://medium.com/aigent/meet-nanoq-high-performance-brokerless-pub-sub-for-streaming-real-time-data-with-golang-6630d3067f4e)
 - [Slack Engineering - Migrating Millions of Concurrent Websockets to Envoy](https://slack.engineering/migrating-millions-of-concurrent-websockets-to-envoy/)
 - [Emil Koutanov - Why Kafka Is so Fast](https://medium.com/swlh/why-kafka-is-so-fast-bde0d987cd03)
@@ -171,6 +178,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Rakhesh Sasidharan - Getting started with GitHub Container Registry](https://rakhesh.com/docker/getting-started-with-github-container-registry/)
 - [Vivien Fabing - Azure Pipelines: How to add a build agent with Azure Container Instances - part 3 : Build agent on demand](https://www.vivienfabing.com/azure-devops/2019/08/22/azure-pipelines-how-to-add-a-build-agent-with-azure-container-instances-part-3-build-agent-on-demand.html)
 - [Gaurav Gahlot - Run GitHub Actions locally with DinD and nektos/ac](https://gauravgahlot.in/blog/run-github-actions-locally-docker-nektos-act/)
 - [Docker Blog - New Docker Desktop Preview for Apple M1 Released](https://www.docker.com/blog/new-docker-desktop-preview-for-apple-m1-released/)
@@ -212,6 +220,8 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Philippe Bourgau - Speed up the TDD feedback loop with better assertion messages](https://philippe.bourgau.net/speed-up-the-tdd-feedback-loop-with-better-assertion-messages/)
+- [Thomas Pierrain - Write Antifragile & Domain-Driven tests with "Outside-in diamond" ◆ TDD](https://www.youtube.com/watch?v=djdMp9i04Sc)
 - [Matt Davies, Rob Moore - Microtesting](https://www.youtube.com/watch?v=pls1Vk_bw_Y)
 - [Charity Majors - I test in prod](https://increment.com/testing/i-test-in-production/)
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
@@ -229,6 +239,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Materialize - Kafka is not a Database](https://materialize.com/kafka-is-not-a-database/)
+- [Kacper Gunia - EventStoreDB vs Kafka](https://domaincentric.net/blog/eventstoredb-vs-kafka)
+- [Materialize - Real Transactions are Serializable](https://www.cockroachlabs.com/blog/acid-rain/)
 - [Nicole Hemsoth - It's Time to Start Paying Attention to Vector Databases](https://www.nextplatform.com/2021/03/11/its-time-to-start-paying-attention-to-vector-databases/)
 - [Peter Zaitzev - Percona - Hybrid Cloud Open Source DBaaS with Kubernetes](http://mirroronet.pl/pub/mirrors/video.fosdem.org/2021/D.containers/containers_k8s_dbaas.webm)
 - [Connor Stack - Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
@@ -263,6 +276,8 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [David Fowler - Add API to turn delegate or MethodInfo into a RequestDelegate](https://github.com/dotnet/aspnetcore/issues/31181)
+- [Łukasz Reszke - How good are your .NET tests? Test your tests with Stryker mutator](https://lukaszcoding.com/how-good-are-your-net-tests-test-your-tests-with-stryker-mutator)
 - [Alex Yakunin - Geting 4x Speedup With .NET Core 3.0 SIMD Intrinsics](https://itnext.io/geting-4x-speedup-with-net-core-3-0-simd-intrinsics-5c9c31c47991)
 - [Alex Yakunin - Astonishing Performance of .NET 5: More Data](https://medium.com/swlh/astonishing-performance-of-net-5-more-data-5cdc8d821e8c)
 - [Adam Sitnik - Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
@@ -340,7 +355,15 @@
 - [OpenTelemetry: Future-Proofing Your Instrumentation](https://blog.newrelic.com/product-news/what-is-opentelemetry/)
 - [Improve Activity API usability and OpenTelemetry integration](https://github.com/dotnet/designs/blob/main/accepted/2020/diagnostics/activity-improvements.md)
 
+### WebAssembly
+- [Radu Matei - Getting started with NodeJS and the WebAssembly System Interface](https://radu-matei.com/blog/nodejs-wasi/)
+- [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
+
 ## Coding Life
+- [Romeu Moura - The Systemics of the Liskov Substitution Principle](https://www.youtube.com/watch?v=tNpW-V2HXJ0)
+- [Understand Legacy Code - Don't make Clean Code harder to maintain, use the Rule of Three](https://understandlegacycode.com/blog/refactoring-rule-of-three/#go-beyond-the-rule-of-three)
+- [Mark Seemann - The dispassionate developer](https://blog.ploeh.dk/2021/03/22/the-dispassionate-developer/)
+- [Lee Vinsel - You're Doing It Wrong: Notes on Criticism and Technology Hype](https://sts-news.medium.com/youre-doing-it-wrong-notes-on-criticism-and-technology-hype-18b08b4307e5)
 - [Daniel Terhorst-North - CUPID – the back story](https://dannorth.net/2021/03/16/cupid-the-back-story)
 - [Justin Garrison - The Document Culture of Amazon](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/)
 - [N. Forsgren, M-A. Storey, C. Maddila, T. Zimmermann, B. Houck, J. Butler - The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124)
@@ -409,6 +432,9 @@
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
 
 ## Industry
+- [Deno - Announcing the Deno Company](https://deno.com/blog/the-deno-company)
+- [The Verge - Slack quickly removes message invites in its new DM feature over harassment concerns](https://www.theverge.com/platform/amp/2021/3/24/22348743/slack-connect-dm-abuse-harassment-disable-message-invite-response)
+- [Protocol - WhatsApp for work: Slack is turning into a full-on messaging app](https://www.protocol.com/slack-messaging-connect)
 - [Benedict Evans - Outgrowing software](https://www.ben-evans.com/benedictevans/2021/3/18/outgrowing-software)
 - [ACM - A Second Conversation with Werner Vogels](https://cacm.acm.org/magazines/2021/3/250706-a-second-conversation-with-werner-vogels/fulltext?s=09)
 - [TechCrunch - Okta acquires cloud identity startup Auth0 for $6.5B](https://techcrunch.com/2021/03/03/okta-acquires-cloud-identity-startup-auth0-for-6-5b)
@@ -441,6 +467,7 @@
 - [Corey Quinn - How to Compete with AWS](https://www.lastweekinaws.com/blog/how-to-compete-with-aws/)
 
 ## Hardware
+- [Jeff Geerling - The Raspberry Pi can boot off NVMe SSDs now](https://www.jeffgeerling.com/blog/2021/raspberry-pi-can-boot-nvme-ssds-now)
 - [Stratechery - Intel Problems](https://stratechery.com/2021/intel-problems/)
 - [Dan McCreary - Intel's Incredible PIUMA Graph Analytics Hardware](https://dmccreary.medium.com/intels-incredible-piuma-graph-analytics-hardware-a2e9c3daf8d8)
 - [Erik Engheim - Why Is Apple’s M1 Chip So Fast?](https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2)
@@ -455,6 +482,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Mannu Linux - From TikiWiki to Domain Admin - Journey to pwning a company](https://www.mannulinux.org/2021/03/from-tikiwiki-to-domain-admin-journey.html)
+- [Google - Macaroons: Cookies with Contextual Caveatsfor Decentralized Authorization in the Cloud](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41892.pdf)
 - [CNCF - CNCF Provides Insights into Secrets Management Tools with Latest End User Technology Radar](https://www.cncf.io/announcements/2021/02/23/cncf-provides-insights-into-secrets-management-tools-with-latest-end-user-technology-radar/)
 - [GitHub Blog - How we found and fixed a rare race condition in our session handling](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
 - [GitHub Blog - Git clone vulnerability announced](https://github.blog/2021-03-09-git-clone-vulnerability-announced/)
@@ -479,6 +508,10 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [Scott Hanselman - The Windows Terminal made better with the Command Palette plus Multiple Actions in one Command](https://www.hanselman.com/blog/the-windows-terminal-made-better-with-the-command-palette-plus-multiple-actions-in-one-command)
+- [Evan Czaplicki - On Storytelling](https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling)
+- [Open View Partners - No, You Can't Just Switch to a Usage-Based Pricing Model Overnight](https://openviewpartners.com/blog/switch-usage-based-pricing-model#.YGG8tD8wiUl)
+- [Vice - Meet the Artist Using Ritual Magic to Trap Self-Driving Cars](https://www.vice.com/amp/en/article/qkmeyd/meet-the-artist-using-ritual-magic-to-trap-self-driving-cars)
 - [Brenn A. Hill - Noobs guide: B2B vs B2C vs B2D Marketing](https://medium.com/swlh/nailing-b2b-vs-b2c-vs-b2d-marketing-59af2bcb20e4)
 - [SnipCart - B2D: The No-BS Dynamics of Marketing & Selling to Devs](https://snipcart.com/blog/b2d-marketing-selling-to-developers)
 - [AWS Blog - Jeff Barr - Amazon S3's 15th Birthday – It is Still Day 1 after 5,475 Days & 100 Trillion Objects](https://aws.amazon.com/blogs/aws/amazon-s3s-15th-birthday-it-is-still-day-1-after-5475-days-100-trillion-objects/)

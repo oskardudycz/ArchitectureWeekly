@@ -19,6 +19,63 @@ There are two rules:
 💖 If this repository helped you - I'd be more than happy if you **join** the group of **my official supporters** at [Github Sponsors](https://github.com/sponsors/oskardudycz) 
 
 -------
+
+## 29th March 2021
+
+### Architecture
+- [Michael Nygard - Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
+- [Dennis Doomen - A recipe for gradually migrating from CRUD to Event Sourcing](https://www.eventstore.com/blog/a-recipe-for-gradually-migrating-from-crud-to-event-sourcing)
+- [Pariveda - Beyond APIs: Re-architected System Integrations as Event Sourced](https://www.youtube.com/watch?v=MX4_41yLuG0)
+
+### Distributed Systems
+- [Bilgin Ibryam - The Evolution of Distributed Systems on Kubernetes](https://www.infoq.com/articles/distributed-systems-kubernetes/)
+- [Arkadiusz Onyszko - Why should you use Kubernetes in 2021? Or why not?](https://www.predicagroup.com/blog/why-kubernetes-2021)
+
+### Databases
+- [Materialize - Kafka is not a Database](https://materialize.com/kafka-is-not-a-database/)
+- [Kacper Gunia - EventStoreDB vs Kafka](https://domaincentric.net/blog/eventstoredb-vs-kafka)
+- [Materialize - Real Transactions are Serializable](https://www.cockroachlabs.com/blog/acid-rain/)
+
+### DevOps
+- [Rakhesh Sasidharan - Getting started with GitHub Container Registry](https://rakhesh.com/docker/getting-started-with-github-container-registry/)
+
+### Testing
+- [Philippe Bourgau - Speed up the TDD feedback loop with better assertion messages](https://philippe.bourgau.net/speed-up-the-tdd-feedback-loop-with-better-assertion-messages/)
+- [Thomas Pierrain - Write Antifragile & Domain-Driven tests with "Outside-in diamond" ◆ TDD](https://www.youtube.com/watch?v=djdMp9i04Sc)
+
+### .NET 
+- [David Fowler - Add API to turn delegate or MethodInfo into a RequestDelegate](https://github.com/dotnet/aspnetcore/issues/31181)
+- [Łukasz Reszke - How good are your .NET tests? Test your tests with Stryker mutator](https://lukaszcoding.com/how-good-are-your-net-tests-test-your-tests-with-stryker-mutator)
+
+### WebAssembly
+- [Radu Matei - Getting started with NodeJS and the WebAssembly System Interface](https://radu-matei.com/blog/nodejs-wasi/)
+- [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
+
+### Hardware
+- [Jeff Geerling - The Raspberry Pi can boot off NVMe SSDs now](https://www.jeffgeerling.com/blog/2021/raspberry-pi-can-boot-nvme-ssds-now)
+
+### Coding Life
+- [Romeu Moura - The Systemics of the Liskov Substitution Principle](https://www.youtube.com/watch?v=tNpW-V2HXJ0)
+- [Understand Legacy Code - Don't make Clean Code harder to maintain, use the Rule of Three](https://understandlegacycode.com/blog/refactoring-rule-of-three/#go-beyond-the-rule-of-three)
+- [Mark Seemann - The dispassionate developer](https://blog.ploeh.dk/2021/03/22/the-dispassionate-developer/)
+- [Lee Vinsel - You're Doing It Wrong: Notes on Criticism and Technology Hype](https://sts-news.medium.com/youre-doing-it-wrong-notes-on-criticism-and-technology-hype-18b08b4307e5)
+
+### Security
+- [Mannu Linux - From TikiWiki to Domain Admin - Journey to pwning a company](https://www.mannulinux.org/2021/03/from-tikiwiki-to-domain-admin-journey.html)
+- [Google - Macaroons: Cookies with Contextual Caveatsfor Decentralized Authorization in the Cloud](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41892.pdf)
+
+### Industry
+- [Deno - Announcing the Deno Company](https://deno.com/blog/the-deno-company)
+- [The Verge - Slack quickly removes message invites in its new DM feature over harassment concerns](https://www.theverge.com/platform/amp/2021/3/24/22348743/slack-connect-dm-abuse-harassment-disable-message-invite-response)
+- [Protocol - WhatsApp for work: Slack is turning into a full-on messaging app](https://www.protocol.com/slack-messaging-connect)
+
+### Trivia
+- [Scott Hanselman - The Windows Terminal made better with the Command Palette plus Multiple Actions in one Command](https://www.hanselman.com/blog/the-windows-terminal-made-better-with-the-command-palette-plus-multiple-actions-in-one-command)
+- [Evan Czaplicki - On Storytelling](https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling)
+- [Open View Partners - No, You Can't Just Switch to a Usage-Based Pricing Model Overnight](https://openviewpartners.com/blog/switch-usage-based-pricing-model#.YGG8tD8wiUl)
+- [Vice - Meet the Artist Using Ritual Magic to Trap Self-Driving Cars](https://www.vice.com/amp/en/article/qkmeyd/meet-the-artist-using-ritual-magic-to-trap-self-driving-cars)
+
+-------
 ## 22nd March 2021
 
 ### Architecture
