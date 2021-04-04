@@ -31,6 +31,9 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [ThoughtWorks Podcast - Fundamentals Of Software Architecture](https://soundcloud.com/thoughtworks/fundamentals-of-software-architecture?in=thoughtworks/sets/thoughtworks-podcasts)
+- [Alex Lawrence - Read Model on the write side](https://www.alex-lawrence.com/posts/read-model-on-the-write-side/)
+- [Gregor Hohpe - Making Complex Topics Stick (Part 4: Multiplexing)](https://architectelevator.com/strategy/presenting-multiplex/)
 - [Michael Nygard - Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
 - [Dennis Doomen - A recipe for gradually migrating from CRUD to Event Sourcing](https://www.eventstore.com/blog/a-recipe-for-gradually-migrating-from-crud-to-event-sourcing)
 - [Pariveda - Beyond APIs: Re-architected System Integrations as Event Sourced](https://www.youtube.com/watch?v=MX4_41yLuG0)
@@ -115,6 +118,12 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Lindsey Kuper - CSE138 (Distributed Systems) lectures, Spring 2020](https://www.youtube.com/playlist?list=PLNPUF5QyWU8O0Wd8QDh9KaM1ggsxspJ31)
+- [Lindsey Kuper - CSE138 returns to Twitch today!](http://composition.al/blog/2021/03/30/cse138-returns-to-twitch-today/)
+- [AWS Blog - Introducing Auto-Tune in Amazon ES](https://aws.amazon.com/blogs/big-data/introducing-auto-tune-in-amazon-es/)
+- [Alena Hall, Natallia Dzenisenka - Intuitive distributed algorithms with examples](https://www.youtube.com/watch?v=ZxfyGIO7Ak0)
+- [Euan Garden - Apache Spark in Azure Synapse - Performance Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/apache-spark-in-azure-synapse-performance-update/ba-p/2243534?WT.mc_id=data-23154-alehall)
+- [S. Ramesh, O. Papapetrou, W. Siberski - Optimizing Distributed Joins with Bloom Filters](https://www.win.tue.nl/~opapapetrou/papers/icdcit08-djoins.pdf)
 - [ACM Queue - A Second Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=3434573%2C)
 - [Bilgin Ibryam - The Evolution of Distributed Systems on Kubernetes](https://www.infoq.com/articles/distributed-systems-kubernetes/)
 - [Tomasz Onyszko - Why should you use Kubernetes in 2021? Or why not?](https://www.predicagroup.com/blog/why-kubernetes-2021)
@@ -178,6 +187,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Docker is 8](https://www.docker.com/birthday)
 - [Rakhesh Sasidharan - Getting started with GitHub Container Registry](https://rakhesh.com/docker/getting-started-with-github-container-registry/)
 - [Vivien Fabing - Azure Pipelines: How to add a build agent with Azure Container Instances - part 3 : Build agent on demand](https://www.vivienfabing.com/azure-devops/2019/08/22/azure-pipelines-how-to-add-a-build-agent-with-azure-container-instances-part-3-build-agent-on-demand.html)
 - [Gaurav Gahlot - Run GitHub Actions locally with DinD and nektos/ac](https://gauravgahlot.in/blog/run-github-actions-locally-docker-nektos-act/)
@@ -196,6 +206,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Jeremy Keith - The principle of most availability](https://adactio.com/journal/17987)
 - [Adam Wathan - Just-In-Time: The Next Generation of Tailwind CSS](https://blog.tailwindcss.com/just-in-time-the-next-generation-of-tailwind-css)
 - [Google Developers - Announcing Flutter 2](https://developers.googleblog.com/2021/03/announcing-flutter-2.html)
 - [Fatih Altinok - What I look forward to about web development in 2021](https://blog.6nok.org/what-i-look-forward-to-about-web-development-in-2021)
@@ -217,6 +228,7 @@
 - [Gergerly Orosz - 33 Engineering Challenges of Building Mobile Apps at Scale eBook & Other Learnings](https://gumroad.com/l/IuuuN)
 
 ## Performance
+- [Ben Schwarz - How to Plan and Deliver on Site Speed as a Team](https://calibreapp.com/blog/site-speed-improvement-framework)
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
@@ -235,10 +247,10 @@
 - [Apollo Blog - Max Stoiber - Securing Your GraphQL API from Malicious Queries](https://www.apollographql.com/blog/securing-your-graphql-api-from-malicious-queries-16130a324a6b/)
 - [Phil Sturgeon - Automated Style Guides for REST, GraphQL and gRPC](https://apisyouwonthate.com/blog/automated-style-guides-for-rest-graphql-and-grpc)
 - [Phil Sturgeon - Automating API Style Guides: Spectral AMA with Phil Sturgeon](https://www.youtube.com/watch?v=kjlwjQEQm7A)
-
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [.NET Rocks - MongoDB in the Cloud with James Kovacs and Rachelle Palmer](https://www.dotnetrocks.com/?show=1731)
 - [Materialize - Kafka is not a Database](https://materialize.com/kafka-is-not-a-database/)
 - [Kacper Gunia - EventStoreDB vs Kafka](https://domaincentric.net/blog/eventstoredb-vs-kafka)
 - [Materialize - Real Transactions are Serializable](https://www.cockroachlabs.com/blog/acid-rain/)
@@ -276,6 +288,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [The Unhandled Exception Podcast - Spectre Console and Cake with Patrik Svensson](https://unhandledexceptionpodcast.com/posts/0014-patriksvensson/)
+- [Andrew Lock - Viewing app configuration using Oakton's Describe command and Spectre.Console](https://andrewlock.net/viewing-application-configuration-using-oaktons-describe-command/)
+- [Steve Gordon - Getting Started with the Roslyn APIs: Writing Code with Code](https://www.stevejgordon.co.uk/getting-started-with-the-roslyn-apis-writing-code-with-code)
+- [Eventuous - Event Sourcing for .NET](https://eventuous.dev/)
+- [Stephen Cleary - Asynchronous Messaging Series](https://blog.stephencleary.com/2021/01/asynchronous-messaging-1-basic-distributed-architecture.html)
 - [David Fowler - Add API to turn delegate or MethodInfo into a RequestDelegate](https://github.com/dotnet/aspnetcore/issues/31181)
 - [Łukasz Reszke - How good are your .NET tests? Test your tests with Stryker mutator](https://lukaszcoding.com/how-good-are-your-net-tests-test-your-tests-with-stryker-mutator)
 - [Alex Yakunin - Geting 4x Speedup With .NET Core 3.0 SIMD Intrinsics](https://itnext.io/geting-4x-speedup-with-net-core-3-0-simd-intrinsics-5c9c31c47991)
@@ -360,6 +377,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [David J. Bland - Designing Modern Teams](https://medium.com/precoil/designing-modern-teams-d53516b1e7d8)
 - [Romeu Moura - The Systemics of the Liskov Substitution Principle](https://www.youtube.com/watch?v=tNpW-V2HXJ0)
 - [Understand Legacy Code - Don't make Clean Code harder to maintain, use the Rule of Three](https://understandlegacycode.com/blog/refactoring-rule-of-three/#go-beyond-the-rule-of-three)
 - [Mark Seemann - The dispassionate developer](https://blog.ploeh.dk/2021/03/22/the-dispassionate-developer/)
@@ -426,12 +444,16 @@
 
 
 ## Rust
+- [Jon Nadal - Building Distributed Systems With Stateright](https://www.youtube.com/watch?v=IXCS4r19Q5A)
 - [Kornelski - Speed of Rust vs C](https://kornel.ski/rust-c-speed)
 - [Jesse Howarth - Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
 - [Robert Krahn - Is Rust a Functional Programming Language?](https://robert.kra.hn/posts/2021-02-03_is-rust-fp/)
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
 
 ## Industry
+- [CNBC - The message Microsoft is sending to managers after a decline in team connectedness](https://www.cnbc.com/amp/2021/03/30/microsoft-message-to-managers-after-decline-in-team-connections.html)
+- [ZDNet - Free Software Foundation leaders and supporters desert sinking ship](https://www.zdnet.com/google-amp/article/free-software-foundation-leaders-and-supporters-desert-sinking-ship/)
+- [Last Week in AWS - You Can't Trust Amazon When It Feels Threatened](https://www.lastweekinaws.com/blog/you-cant-trust-amazon-when-it-feels-threatened/)
 - [Deno - Announcing the Deno Company](https://deno.com/blog/the-deno-company)
 - [The Verge - Slack quickly removes message invites in its new DM feature over harassment concerns](https://www.theverge.com/platform/amp/2021/3/24/22348743/slack-connect-dm-abuse-harassment-disable-message-invite-response)
 - [Protocol - WhatsApp for work: Slack is turning into a full-on messaging app](https://www.protocol.com/slack-messaging-connect)
@@ -508,6 +530,8 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [Jason Zimards - A love letter to the Kindle](https://world.hey.com/jz/a-love-letter-to-the-kindle-50a02a8b)
+- [Reuters - PayPal launches crypto checkout service](https://mobile.reuters.com/article/amp/idUSKBN2BM10N)
 - [Scott Hanselman - The Windows Terminal made better with the Command Palette plus Multiple Actions in one Command](https://www.hanselman.com/blog/the-windows-terminal-made-better-with-the-command-palette-plus-multiple-actions-in-one-command)
 - [Evan Czaplicki - On Storytelling](https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling)
 - [Open View Partners - No, You Can't Just Switch to a Usage-Based Pricing Model Overnight](https://openviewpartners.com/blog/switch-usage-based-pricing-model#.YGG8tD8wiUl)
