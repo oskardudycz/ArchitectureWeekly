@@ -31,6 +31,9 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Microsoft Identity Architecture Series](https://www.youtube.com/playlist?list=PL3ZTgFEc7LyvWBvMTRArx5k5hz-wcA4VF)
+- [M Overeem, M. Spoor, S. Jansen, S. Brinkkemper - An Empirical Characterization of Event Sourced Systems and Their Schema Evolution -- Lessons from Industry](https://arxiv.org/abs/2104.01146)
+- [Indu Alagarsamy - Practical DDD: Bounded Contexts + Events => Microservices](https://www.infoq.com/presentations/microservices-ddd-bounded-contexts/)
 - [ThoughtWorks Podcast - Fundamentals Of Software Architecture](https://soundcloud.com/thoughtworks/fundamentals-of-software-architecture?in=thoughtworks/sets/thoughtworks-podcasts)
 - [Alex Lawrence - Read Model on the write side](https://www.alex-lawrence.com/posts/read-model-on-the-write-side/)
 - [Gregor Hohpe - Making Complex Topics Stick (Part 4: Multiplexing)](https://architectelevator.com/strategy/presenting-multiplex/)
@@ -118,6 +121,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [NATS.io - JetStream, persistence for NATS.io](https://github.com/nats-io/jetstream)
 - [Lindsey Kuper - CSE138 (Distributed Systems) lectures, Spring 2020](https://www.youtube.com/playlist?list=PLNPUF5QyWU8O0Wd8QDh9KaM1ggsxspJ31)
 - [Lindsey Kuper - CSE138 returns to Twitch today!](http://composition.al/blog/2021/03/30/cse138-returns-to-twitch-today/)
 - [AWS Blog - Introducing Auto-Tune in Amazon ES](https://aws.amazon.com/blogs/big-data/introducing-auto-tune-in-amazon-es/)
@@ -187,6 +191,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Microsoft - Deploy Azure resources by using Bicep templates](https://docs.microsoft.com/en-us/learn/bicep/deploy-azure-resources-by-using-bicep-templates/)
 - [Docker is 8](https://www.docker.com/birthday)
 - [Rakhesh Sasidharan - Getting started with GitHub Container Registry](https://rakhesh.com/docker/getting-started-with-github-container-registry/)
 - [Vivien Fabing - Azure Pipelines: How to add a build agent with Azure Container Instances - part 3 : Build agent on demand](https://www.vivienfabing.com/azure-devops/2019/08/22/azure-pipelines-how-to-add-a-build-agent-with-azure-container-instances-part-3-build-agent-on-demand.html)
@@ -232,6 +237,7 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [IlyanaDev - Creating a JMeter Test](https://ilyana.dev/blog/2020-11-12-jmeter)
 - [Philippe Bourgau - Speed up the TDD feedback loop with better assertion messages](https://philippe.bourgau.net/speed-up-the-tdd-feedback-loop-with-better-assertion-messages/)
 - [Thomas Pierrain - Write Antifragile & Domain-Driven tests with "Outside-in diamond" ◆ TDD](https://www.youtube.com/watch?v=djdMp9i04Sc)
 - [Matt Davies, Rob Moore - Microtesting](https://www.youtube.com/watch?v=pls1Vk_bw_Y)
@@ -250,6 +256,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Microsoft HyperSpace - An open source indexing subsystem that brings index-based query acceleration to Apache Spark™ and big data workloads. ](https://github.com/microsoft/hyperspace)
 - [.NET Rocks - MongoDB in the Cloud with James Kovacs and Rachelle Palmer](https://www.dotnetrocks.com/?show=1731)
 - [Materialize - Kafka is not a Database](https://materialize.com/kafka-is-not-a-database/)
 - [Kacper Gunia - EventStoreDB vs Kafka](https://domaincentric.net/blog/eventstoredb-vs-kafka)
@@ -288,6 +295,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Abdulmohsen Alenazi - Secure & Clean coding .NET Core](https://mohsentalal.medium.com/secure-clean-coding-net-core-15828bdc4243)
+- [Davide Bellone - Cobertura, YAML, and Code Coverage Protector: how to view Code Coverage report on Azure DevOps](https://www.code4it.dev/blog/code-coverage-on-azure-devops-yaml-pipelines)
+- [Vladimir Khorikov - Static methods considered evil?](https://enterprisecraftsmanship.com/posts/static-methods-evil/)
+- [.NET Blog - Announcing Open Source C# standardization](https://devblogs.microsoft.com/dotnet/announcing-open-source-c-standardization-standards/)
 - [The Unhandled Exception Podcast - Spectre Console and Cake with Patrik Svensson](https://unhandledexceptionpodcast.com/posts/0014-patriksvensson/)
 - [Andrew Lock - Viewing app configuration using Oakton's Describe command and Spectre.Console](https://andrewlock.net/viewing-application-configuration-using-oaktons-describe-command/)
 - [Steve Gordon - Getting Started with the Roslyn APIs: Writing Code with Code](https://www.stevejgordon.co.uk/getting-started-with-the-roslyn-apis-writing-code-with-code)
@@ -377,6 +388,9 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [N. Meslec, I. Aggarwal, P.L. Curseu - The Insensitive Ruins It All: Compositional and Compilational Influences of Social Sensitivity on Collective Intelligence in Groups](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00676/full)
+- [Andrew Harmel-Law - Is Your Organisation Broken?](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/)
+- [Andrew Harmel-Law - Your Organisation Viewed as a Collection of Services](https://andrewharmellaw.github.io/2021/03/26/is-your-organisation-broken)
 - [David J. Bland - Designing Modern Teams](https://medium.com/precoil/designing-modern-teams-d53516b1e7d8)
 - [Romeu Moura - The Systemics of the Liskov Substitution Principle](https://www.youtube.com/watch?v=tNpW-V2HXJ0)
 - [Understand Legacy Code - Don't make Clean Code harder to maintain, use the Rule of Three](https://understandlegacycode.com/blog/refactoring-rule-of-three/#go-beyond-the-rule-of-three)
@@ -429,6 +443,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Java
+- [Dávid Csákvári - A categorized list of all Java and JVM features since JDK 8 to 16](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/)
+- [Microsoft Blogs - Announcing Preview of Microsoft Build of OpenJDK](https://devblogs.microsoft.com/java/announcing-preview-of-microsoft-build-of-openjdk/)
 - [InfoWorld - JDK 16: The new features in Java 16](https://www.infoworld.com/article/3569150/jdk-16-the-new-features-in-java-16.html)
 - [InfoQ - Netflix Open Sources Their Domain Graph Service Framework: GraphQL for Spring Boot](https://www.infoq.com/news/2021/02/netflix-graphql-spring-boot/)
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
@@ -451,6 +467,7 @@
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
 
 ## Industry
+- [David Heinemeier Hansson - It's hard to draw lessons from your own failures](https://world.hey.com/dhh/it-s-hard-to-draw-lessons-from-your-own-failures-d4608094)
 - [CNBC - The message Microsoft is sending to managers after a decline in team connectedness](https://www.cnbc.com/amp/2021/03/30/microsoft-message-to-managers-after-decline-in-team-connections.html)
 - [ZDNet - Free Software Foundation leaders and supporters desert sinking ship](https://www.zdnet.com/google-amp/article/free-software-foundation-leaders-and-supporters-desert-sinking-ship/)
 - [Last Week in AWS - You Can't Trust Amazon When It Feels Threatened](https://www.lastweekinaws.com/blog/you-cant-trust-amazon-when-it-feels-threatened/)
@@ -530,6 +547,7 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [Daniel Stenberg - curl supports NASA](https://daniel.haxx.se/blog/2020/12/17/curl-supports-nasa/)
 - [Jason Zimards - A love letter to the Kindle](https://world.hey.com/jz/a-love-letter-to-the-kindle-50a02a8b)
 - [Reuters - PayPal launches crypto checkout service](https://mobile.reuters.com/article/amp/idUSKBN2BM10N)
 - [Scott Hanselman - The Windows Terminal made better with the Command Palette plus Multiple Actions in one Command](https://www.hanselman.com/blog/the-windows-terminal-made-better-with-the-command-palette-plus-multiple-actions-in-one-command)
