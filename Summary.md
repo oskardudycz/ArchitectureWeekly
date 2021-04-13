@@ -191,7 +191,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
-- [Microsoft - Deploy Azure resources by using Bicep templates](https://docs.microsoft.com/en-us/learn/bicep/deploy-azure-resources-by-using-bicep-templates/)
+- [Microsoft - Deploy Azure resources by using Bicep templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/bicep-tutorial-create-first-bicep)
 - [Docker is 8](https://www.docker.com/birthday)
 - [Rakhesh Sasidharan - Getting started with GitHub Container Registry](https://rakhesh.com/docker/getting-started-with-github-container-registry/)
 - [Vivien Fabing - Azure Pipelines: How to add a build agent with Azure Container Instances - part 3 : Build agent on demand](https://www.vivienfabing.com/azure-devops/2019/08/22/azure-pipelines-how-to-add-a-build-agent-with-azure-container-instances-part-3-build-agent-on-demand.html)
@@ -389,8 +389,8 @@
 
 ## Coding Life
 - [N. Meslec, I. Aggarwal, P.L. Curseu - The Insensitive Ruins It All: Compositional and Compilational Influences of Social Sensitivity on Collective Intelligence in Groups](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00676/full)
-- [Andrew Harmel-Law - Is Your Organisation Broken?](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/)
-- [Andrew Harmel-Law - Your Organisation Viewed as a Collection of Services](https://andrewharmellaw.github.io/2021/03/26/is-your-organisation-broken)
+- [Andrew Harmel-Law - Is Your Organisation Broken?](https://andrewharmellaw.github.io/2021/03/26/is-your-organisation-broken)
+- [Andrew Harmel-Law - Your Organisation Viewed as a Collection of Services](https://andrewharmellaw.github.io/organisation/2021/03/27/the-organisation-as-collection-of-services)
 - [David J. Bland - Designing Modern Teams](https://medium.com/precoil/designing-modern-teams-d53516b1e7d8)
 - [Romeu Moura - The Systemics of the Liskov Substitution Principle](https://www.youtube.com/watch?v=tNpW-V2HXJ0)
 - [Understand Legacy Code - Don't make Clean Code harder to maintain, use the Rule of Three](https://understandlegacycode.com/blog/refactoring-rule-of-three/#go-beyond-the-rule-of-three)

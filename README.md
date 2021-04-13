@@ -31,7 +31,7 @@ There are two rules:
 - [NATS.io - JetStream, persistence for NATS.io](https://github.com/nats-io/jetstream)
 
 ### DevOps
-- [Microsoft - Deploy Azure resources by using Bicep templates](https://docs.microsoft.com/en-us/learn/bicep/deploy-azure-resources-by-using-bicep-templates/)
+- [Microsoft - Deploy Azure resources by using Bicep templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/bicep-tutorial-create-first-bicep)
 
 ### Databases
 - [Microsoft HyperSpace - An open source indexing subsystem that brings index-based query acceleration to Apache Spark™ and big data workloads. ](https://github.com/microsoft/hyperspace)
@@ -51,8 +51,8 @@ There are two rules:
 
 ### Coding Life
 - [N. Meslec, I. Aggarwal, P.L. Curseu - The Insensitive Ruins It All: Compositional and Compilational Influences of Social Sensitivity on Collective Intelligence in Groups](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00676/full)
-- [Andrew Harmel-Law - Is Your Organisation Broken?](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/)
-- [Andrew Harmel-Law - Your Organisation Viewed as a Collection of Services](https://andrewharmellaw.github.io/2021/03/26/is-your-organisation-broken)
+- [Andrew Harmel-Law - Is Your Organisation Broken?](https://andrewharmellaw.github.io/2021/03/26/is-your-organisation-broken)
+- [Andrew Harmel-Law - Your Organisation Viewed as a Collection of Services](https://andrewharmellaw.github.io/organisation/2021/03/27/the-organisation-as-collection-of-services)
   
 ### Industry
 - [David Heinemeier Hansson - It's hard to draw lessons from your own failures](https://world.hey.com/dhh/it-s-hard-to-draw-lessons-from-your-own-failures-d4608094)
