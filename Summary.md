@@ -21,16 +21,24 @@
   - [Ruby](#ruby)
   - [Haskell](#haskell)
   - [GO](#go)
+  - [Kotlin](#kotlin)
   - [Rust](#rust)
   - [Industry](#industry)
       - [ElasticSearch Licence change](#elasticsearch-licence-change)
   - [Hardware](#hardware)
   - [Low level](#low-level)
+  - [Windows](#windows)
   - [Tools](#tools)
   - [Security](#security)
   - [Trivia](#trivia)
 
 ## Architecture
+- [Exploring AWS Serverless Architectures & Patterns](https://faun.pub/exploring-aws-serverless-architectures-4fdbcc2a9959)
+- [Chris Condron - Event Sourcing for the Cloud Developer](https://www.youtube.com/watch?v=5FU28fauHd4)
+- [ThoughtWorks - Technology Radar vol 24](https://assets.thoughtworks.com/assets/technology-radar-vol-24-en.pdf)
+- [Michael Bryzek - Design Microservice Architectures the Right Way](https://www.youtube.com/watch?v=j6ow-UemzBc)
+- [Kasun Dissanayake - Uber Architecture and System Design](https://medium.com/nerd-for-tech/uber-architecture-and-system-design-e8ac26690dfc)
+- [FTP is 50 years old](https://www.filestash.app/2021/04/16/ftp-is-50-years-old/)
 - [Microsoft Identity Architecture Series](https://www.youtube.com/playlist?list=PL3ZTgFEc7LyvWBvMTRArx5k5hz-wcA4VF)
 - [M Overeem, M. Spoor, S. Jansen, S. Brinkkemper - An Empirical Characterization of Event Sourced Systems and Their Schema Evolution -- Lessons from Industry](https://arxiv.org/abs/2104.01146)
 - [Indu Alagarsamy - Practical DDD: Bounded Contexts + Events => Microservices](https://www.infoq.com/presentations/microservices-ddd-bounded-contexts/)
@@ -121,6 +129,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Dave Taubler - If You're Using Kafka With Your Microservices, You're Probably Handling Retries Wrong](https://dt-23597.medium.com/if-youre-using-kafka-with-your-microservices-you-re-probably-handling-retries-wrong-8492890899fa)
 - [NATS.io - JetStream, persistence for NATS.io](https://github.com/nats-io/jetstream)
 - [Lindsey Kuper - CSE138 (Distributed Systems) lectures, Spring 2020](https://www.youtube.com/playlist?list=PLNPUF5QyWU8O0Wd8QDh9KaM1ggsxspJ31)
 - [Lindsey Kuper - CSE138 returns to Twitch today!](http://composition.al/blog/2021/03/30/cse138-returns-to-twitch-today/)
@@ -191,6 +200,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Dustin Moris Gorski - You don't need Docker](https://dusted.codes/you-dont-need-docker)
+- [Mesos moved to "attic"](https://lists.apache.org/x/thread.html/rab2a820507f7c846e54a847398ab20f47698ec5bce0c8e182bfe51ba%40%3Cdev.mesos.apache.org%3E)
 - [Microsoft - Deploy Azure resources by using Bicep templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/bicep-tutorial-create-first-bicep)
 - [Docker is 8](https://www.docker.com/birthday)
 - [Rakhesh Sasidharan - Getting started with GitHub Container Registry](https://rakhesh.com/docker/getting-started-with-github-container-registry/)
@@ -237,6 +248,7 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Liran Tal - A Comprehensive Guide to Contract Testing APIs in a Service Oriented Architecture](https://lirantal.medium.com/a-comprehensive-guide-to-contract-testing-apis-in-a-service-oriented-architecture-5695ccf9ac5a)
 - [IlyanaDev - Creating a JMeter Test](https://ilyana.dev/blog/2020-11-12-jmeter)
 - [Philippe Bourgau - Speed up the TDD feedback loop with better assertion messages](https://philippe.bourgau.net/speed-up-the-tdd-feedback-loop-with-better-assertion-messages/)
 - [Thomas Pierrain - Write Antifragile & Domain-Driven tests with "Outside-in diamond" ◆ TDD](https://www.youtube.com/watch?v=djdMp9i04Sc)
@@ -256,6 +268,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Alvaro Herrera - Postgres - Waiting for 9.5 – Implement SKIP LOCKED for row-level locks](https://www.depesz.com/2014/10/10/waiting-for-9-5-implement-skip-locked-for-row-level-locks/)
+- [The Register - You know what? Fork this: AWS renames its take on Elasticsearch to OpenSearch following trademark fight](https://www.theregister.com/AMP/2021/04/13/aws_renames_elasticsearch_fork_opensearch)
 - [Microsoft HyperSpace - An open source indexing subsystem that brings index-based query acceleration to Apache Spark™ and big data workloads. ](https://github.com/microsoft/hyperspace)
 - [.NET Rocks - MongoDB in the Cloud with James Kovacs and Rachelle Palmer](https://www.dotnetrocks.com/?show=1731)
 - [Materialize - Kafka is not a Database](https://materialize.com/kafka-is-not-a-database/)
@@ -295,6 +309,12 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [On .NET Live - Messaging Patterns for .NET Developers with Clemens Vasters](https://www.youtube.com/watch?v=ef1DK76rseM)
+- [Damian Hickey - template-dotnet-lib: A template repo used for .NET libraries](https://github.com/logicality-io/template-dotnet-lib)
+- [Damian Hickey - docker-ci: Collection of docker images I use to build .NET libraries, services and .NET + Node applications](https://github.com/logicality-io/template-dotnet-lib)
+- [Christos Matskas  - Authenticate users in Blazor Server with Twitch and Azure AD B2C](https://dev.to/425show/authenticate-users-in-blazor-server-with-twitch-and-azure-ad-b2c-3nka)
+- [Dave Brock - Instant Feedback Is Here: Introducing Hot Reload in .NET 6](https://www.telerik.com/blogs/instant-feedback-is-here-introducing-hot-reload-in-dotnet-6)
+- [James Randall - Creating AWS Lambda with F# and Fable](https://www.jamesdrandall.com/posts/creating_aws_lambda_with_fsharp_and_fable/)
 - [Abdulmohsen Alenazi - Secure & Clean coding .NET Core](https://mohsentalal.medium.com/secure-clean-coding-net-core-15828bdc4243)
 - [Davide Bellone - Cobertura, YAML, and Code Coverage Protector: how to view Code Coverage report on Azure DevOps](https://www.code4it.dev/blog/code-coverage-on-azure-devops-yaml-pipelines)
 - [Vladimir Khorikov - Static methods considered evil?](https://enterprisecraftsmanship.com/posts/static-methods-evil/)
@@ -453,11 +473,14 @@
 - [Remote Ruby - Hotwire, Rails NEXT, and the DHH Stack with David Heinemeier Hansson](https://remoteruby.transistor.fm/115)
 
 ## Haskell
+- [History of Haskell: Being Lazy With Class](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/history.pdf)
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## GO
 - [Robert Pająk - Lessons Learned after 1 year of programming in Go as a C# developer](https://pajak.home.blog/2020/02/28/lessons-learned-after-1-year-of-programming-in-go-as-a-c-developer)
 
+## Kotlin
+- [Simon Vergauwen - Functional Domain Modeling in Kotlin - Validation](https://www.47deg.com/blog/functional-domain-modeling-part-2/)
 
 ## Rust
 - [Jon Nadal - Building Distributed Systems With Stateright](https://www.youtube.com/watch?v=IXCS4r19Q5A)
@@ -467,6 +490,7 @@
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
 
 ## Industry
+- [The Open Source Way - Guidebook 2.0](https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html)
 - [David Heinemeier Hansson - It's hard to draw lessons from your own failures](https://world.hey.com/dhh/it-s-hard-to-draw-lessons-from-your-own-failures-d4608094)
 - [CNBC - The message Microsoft is sending to managers after a decline in team connectedness](https://www.cnbc.com/amp/2021/03/30/microsoft-message-to-managers-after-decline-in-team-connections.html)
 - [ZDNet - Free Software Foundation leaders and supporters desert sinking ship](https://www.zdnet.com/google-amp/article/free-software-foundation-leaders-and-supporters-desert-sinking-ship/)
@@ -506,6 +530,7 @@
 - [Corey Quinn - How to Compete with AWS](https://www.lastweekinaws.com/blog/how-to-compete-with-aws/)
 
 ## Hardware
+- [Alex Ellis - State of netbooting Raspberry Pi in 2021](https://blog.alexellis.io/state-of-netbooting-raspberry-pi-in-2021/)
 - [Jeff Geerling - The Raspberry Pi can boot off NVMe SSDs now](https://www.jeffgeerling.com/blog/2021/raspberry-pi-can-boot-nvme-ssds-now)
 - [Stratechery - Intel Problems](https://stratechery.com/2021/intel-problems/)
 - [Dan McCreary - Intel's Incredible PIUMA Graph Analytics Hardware](https://dmccreary.medium.com/intels-incredible-piuma-graph-analytics-hardware-a2e9c3daf8d8)
@@ -516,11 +541,16 @@
 - [InfoQ - Rust Hyper HTTP Library Will Contribute to Make Curl Safer](https://www.infoq.com/news/2020/10/memory-safe-curl-rust/)
 - [Cindy Sridharan - Seamless file descriptor transfer between processes with pidfd and pidfd_getfd](https://copyconstruct.medium.com/seamless-file-descriptor-transfer-between-processes-with-pidfd-and-pidfd-getfd-816afcd19ed4)
 
+## Windows
+- [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
+
 ## Tools 
 - [Raspberry Pi Blog - Ashley Whittaker - Visual Studio Code comes to Raspberry Pi](https://www.raspberrypi.org/blog/visual-studio-code-comes-to-raspberry-pi/)
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [BleepingComputer - Dutch supermarkets run out of cheese after ransomware attack](https://www.bleepingcomputer.com/news/security/dutch-supermarkets-run-out-of-cheese-after-ransomware-attack/)
+- [CodeCov - Bash Uploader Security Update](https://about.codecov.io/security-update/)
 - [Mannu Linux - From TikiWiki to Domain Admin - Journey to pwning a company](https://www.mannulinux.org/2021/03/from-tikiwiki-to-domain-admin-journey.html)
 - [Google - Macaroons: Cookies with Contextual Caveatsfor Decentralized Authorization in the Cloud](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41892.pdf)
 - [CNCF - CNCF Provides Insights into Secrets Management Tools with Latest End User Technology Radar](https://www.cncf.io/announcements/2021/02/23/cncf-provides-insights-into-secrets-management-tools-with-latest-end-user-technology-radar/)
@@ -547,6 +577,9 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [Scott Hanselman - Take your Windows Terminal and PowerShell to the next level with Terminal Icons](https://www.hanselman.com/blog/take-your-windows-terminal-and-powershell-to-the-next-level-with-terminal-icons)
+- [Reuters - Domino's and Nuro to start robot pizza delivery in Houston](https://www.reuters.com/technology/dominos-nuro-start-robot-pizza-delivery-houston-2021-04-12/)
+- [Yoast - Google Discover: What it is and how to get your content in](https://yoast.com/google-discover/#:~:text=Google%20Discover%20is%20a%20mobile,the%20searching%20is%20mostly%20gone)
 - [Daniel Stenberg - curl supports NASA](https://daniel.haxx.se/blog/2020/12/17/curl-supports-nasa/)
 - [Jason Zimards - A love letter to the Kindle](https://world.hey.com/jz/a-love-letter-to-the-kindle-50a02a8b)
 - [Reuters - PayPal launches crypto checkout service](https://mobile.reuters.com/article/amp/idUSKBN2BM10N)
