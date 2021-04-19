@@ -213,7 +213,7 @@ There are two rules:
 - [Daniel Terhorst-North - CUPID – the back story](https://dannorth.net/2021/03/16/cupid-the-back-story)
 - [Justin Garrison - The Document Culture of Amazon](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/)
 - [N. Forsgren, M-A. Storey, C. Maddila, T. Zimmermann, B. Houck, J. Butler - The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124)
-- [Rachel Thomas - If you think women in tech is just a pipeline problem, you haven’t been paying attention](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996)
+- [Rachel Thomas - If you think women in tech is just a pipeline problem, you haven't been paying attention](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996)
 - [Sotware Engineering - Report on a conference sponsored by the NATO SCIENCE COMMITTE](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF)
 - [Kevlin Henney - 1968](https://www.youtube.com/watch?app=desktop&v=J1aUhAxfjy8)
 - [Chris Allen - Why Johnny Can't Code Good](https://www.youtube.com/watch?v=2xyZeovFqCA)
@@ -394,7 +394,7 @@ There are two rules:
 
 ### Security
 - [The Register - 1Password has none, KeePass has none... So why are there seven embedded trackers in the LastPass Android app?](https://www.theregister.com/2021/02/25/lastpass_android_trackers_found/)
-- [ZDNet - Chinese hackers cloned attack tool belonging to NSA’s Equation Group](https://www.zdnet.com/google-amp/article/chinese-hackers-cloned-attack-tools-belonging-to-nsas-equation-group)
+- [ZDNet - Chinese hackers cloned attack tool belonging to NSA's Equation Group](https://www.zdnet.com/google-amp/article/chinese-hackers-cloned-attack-tools-belonging-to-nsas-equation-group)
 
 ### Industry
 - [David Heinemeier Hansson - Antitrust comes slowly then all at once ](https://world.hey.com/dhh/antitrust-comes-slowly-then-all-at-once-5f5eb129)
@@ -733,7 +733,7 @@ There are two rules:
 ## 11th January 2021
 
 ### Distributed Systems
-- [Gregor Hohpe - Your Coffee Shop Doesn’tUse Two-Phase Commit](https://www.enterpriseintegrationpatterns.com/docs/IEEE_Software_Design_2PC.pdf)
+- [Gregor Hohpe - Your Coffee Shop Doesn'tUse Two-Phase Commit](https://www.enterpriseintegrationpatterns.com/docs/IEEE_Software_Design_2PC.pdf)
 - [Leo Gorodinski - Scaling Event-Sourcing at Jet](https://medium.com/@eulerfx/scaling-event-sourcing-at-jet-9c873cac33b8)
 - [Kenny Bastani - Change Data Analysis with Debezium and Apache Pinot](https://medium.com/apache-pinot-developer-blog/change-data-analysis-with-debezium-and-apache-pinot-b4093dc178a7)
 - [David Hettler - https://davidhettler.net/blog/avro-kafka-schema-registry/](https://davidhettler.net/blog/avro-kafka-schema-registry/)
@@ -747,7 +747,7 @@ There are two rules:
 ### DevOps
 - [Damian Naprawa - Dockerfile Best Practices](https://github.com/dnaprawa/dockerfile-best-practices)
 - [Andrew Lock - Auto-assigning issues using a GitHub Action](https://andrewlock.net/auto-assigning-issues-using-a-github-action/)
-- [Sean Killeen - Adding Spell Checking to my Blog’s Build Process with GitHub Actions and cSpell ](https://seankilleen.com/2021/01/adding-spell-checking-to-my-blogs-build-process-with-github-actions-and-cspell/)
+- [Sean Killeen - Adding Spell Checking to my Blog's Build Process with GitHub Actions and cSpell ](https://seankilleen.com/2021/01/adding-spell-checking-to-my-blogs-build-process-with-github-actions-and-cspell/)
 
 ### Frontend
 - [Ingvar Stepanyan - Debugging WebAssembly with modern tools](https://www.youtube.com/watch?v=VBMHswhun-s)
@@ -828,7 +828,7 @@ There are two rules:
 - [Sonja Blignaut - Creating Messy Coherence](https://sonjablignaut.medium.com/creating-messy-coherence-c0ae404e2627)
 
 ### Hardware
-- [Erik Engheim - Why Is Apple’s M1 Chip So Fast?](https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2)
+- [Erik Engheim - Why Is Apple's M1 Chip So Fast?](https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2)
 - [Alex Ellis - Five years of Raspberry Pi Clusters](https://alexellisuk.medium.com/five-years-of-raspberry-pi-clusters-77e56e547875)
 
 ### Low level
@@ -838,7 +838,7 @@ There are two rules:
 - [Microsoft 365 Defender Research Team - Analyzing Solorigate, the compromised DLL file that started a sophisticated cyberattack, and how Microsoft Defender helps protect customers](https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
 
 ### Trivia
-- [Brian Pennie - Are You Mindful or Mindless? A Neuroscientist’s Perspective](https://medium.com/personal-growth/are-you-mindful-or-mindless-a-neuroscientists-perspective-bba176aea0d8)
+- [Brian Pennie - Are You Mindful or Mindless? A Neuroscientist's Perspective](https://medium.com/personal-growth/are-you-mindful-or-mindless-a-neuroscientists-perspective-bba176aea0d8)
 - [BBC - Brexit deal mentions Netscape browser and Mozilla Mail](https://www.bbc.com/news/technology-55475433)
 - [Sam Brinson - How to Learn Absolutely Anything Online](https://forge.medium.com/upgrade-your-mind-online-9301e5a911f4)
 
@@ -888,8 +888,8 @@ There are two rules:
 - [Scott Hanselman's 2021 Ultimate Developer and Power Users Tool List for Windows](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
 
 ### Industry
-- [Logic Magazine - Don’t Be Evil: Fred Turner on Utopias, Frontiers, and Brogrammers](https://logicmag.io/justice/fred-turner-dont-be-evil/)
-- [Wired - Nice Try, Facebook. iOS Changes Aren’t Bad for Small Businesses](https://www.wired.com/story/sorry-facebook-ios-changes-not-bad-for-small-businesses/)
+- [Logic Magazine - Don't Be Evil: Fred Turner on Utopias, Frontiers, and Brogrammers](https://logicmag.io/justice/fred-turner-dont-be-evil/)
+- [Wired - Nice Try, Facebook. iOS Changes Aren't Bad for Small Businesses](https://www.wired.com/story/sorry-facebook-ios-changes-not-bad-for-small-businesses/)
 
 ### Trivia
 - [The InfoQ eMag: 2020 Year In Review](https://www.infoq.com/minibooks/2020-year-review/)
@@ -941,7 +941,7 @@ There are two rules:
 ### Trivia
 - [John Gøtze - 52 Books from 2020](https://www.qualiware.com/blog/52-books)
 - [Anna Novikova - What If Programming Languages Were Game of Thrones Characters](https://intersog.co.il/blog/what-if-programming-languages-were-game-of-thrones-characters/)
-- [Farnam Street - Chesterton’s Fence: A Lesson in Second Order Thinking](https://fs.blog/2020/03/chestertons-fence/)
+- [Farnam Street - Chesterton's Fence: A Lesson in Second Order Thinking](https://fs.blog/2020/03/chestertons-fence/)
 
 -------
 
