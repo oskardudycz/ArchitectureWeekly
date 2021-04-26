@@ -33,6 +33,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [ThoughtWorks - Amortizing Software Rewrites: An Evolutionary Approach](https://www.thoughtworks.com/insights/blog/amortizing-software-rewrites-evolutionary-approach)
+- [Vishnu Chilamakuru - 4 ways to update your cache](https://vishnu.hashnode.dev/4-ways-to-update-your-cache)
+- [InfoQ - Software Architecture and Design InfoQ Trends Report—April 2021](https://www.infoq.com/articles/architecture-trends-2021)
+- [Yves Goeleven - Client Side Event Sourcing](https://www.goeleven.com/blog/client-side-event-sourcing/)
+- [Brent Roose - Starting with event sourcing](https://stitcher.io/blog/what-event-sourcing-is-not-about)
 - [Exploring AWS Serverless Architectures & Patterns](https://faun.pub/exploring-aws-serverless-architectures-4fdbcc2a9959)
 - [Chris Condron - Event Sourcing for the Cloud Developer](https://www.youtube.com/watch?v=5FU28fauHd4)
 - [ThoughtWorks - Technology Radar vol 24](https://assets.thoughtworks.com/assets/technology-radar-vol-24-en.pdf)
@@ -129,6 +134,10 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [GitHub - How we scaled the GitHub API with a sharded, replicated rate limiter in Redis](https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/)
+- [Natan Silnitsky - Leader election and Sharding Practices at Wix microservices](https://medium.com/wix-engineering/leader-election-and-sharding-practices-at-wix-microservices-6e6b853e4852)
+- [Scott Carey - No one wants to manage Kubernetes anymore](https://www.infoworld.com/article/3614850/no-one-wants-to-manage-kubernetes-anymore.html)
+- [AWS Compute Blog - Choosing between messaging services for serverless applications](https://aws.amazon.com/blogs/compute/choosing-between-messaging-services-for-serverless-applications/)
 - [Dave Taubler - If You're Using Kafka With Your Microservices, You're Probably Handling Retries Wrong](https://dt-23597.medium.com/if-youre-using-kafka-with-your-microservices-you-re-probably-handling-retries-wrong-8492890899fa)
 - [NATS.io - JetStream, persistence for NATS.io](https://github.com/nats-io/jetstream)
 - [Lindsey Kuper - CSE138 (Distributed Systems) lectures, Spring 2020](https://www.youtube.com/playlist?list=PLNPUF5QyWU8O0Wd8QDh9KaM1ggsxspJ31)
@@ -200,6 +209,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Cat Swetel - 193 Easy Steps to DevOpsing Your Monolith](https://www.youtube.com/watch?v=o435GqNDC-o)
 - [Dustin Moris Gorski - You don't need Docker](https://dusted.codes/you-dont-need-docker)
 - [Mesos moved to "attic"](https://lists.apache.org/x/thread.html/rab2a820507f7c846e54a847398ab20f47698ec5bce0c8e182bfe51ba%40%3Cdev.mesos.apache.org%3E)
 - [Microsoft - Deploy Azure resources by using Bicep templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/bicep-tutorial-create-first-bicep)
@@ -248,6 +258,7 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Nicole Rauch - Beyond Consumer-Driven Contract Testing](https://www.youtube.com/watch?v=n5QFe6uwWHI)
 - [Liran Tal - A Comprehensive Guide to Contract Testing APIs in a Service Oriented Architecture](https://lirantal.medium.com/a-comprehensive-guide-to-contract-testing-apis-in-a-service-oriented-architecture-5695ccf9ac5a)
 - [IlyanaDev - Creating a JMeter Test](https://ilyana.dev/blog/2020-11-12-jmeter)
 - [Philippe Bourgau - Speed up the TDD feedback loop with better assertion messages](https://philippe.bourgau.net/speed-up-the-tdd-feedback-loop-with-better-assertion-messages/)
@@ -309,6 +320,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Microsoft - Yarp.ReverseProxy release preview](https://github.com/microsoft/reverse-proxy/releases/tag/v1.0.0-preview11)
+- [James Randall - Thoughts on the .NET Foundation](https://www.azurefromthetrenches.com/thoughts-on-the-net-foundation/)
+- [David Fowler - Add API to turn delegate or MethodInfo into a RequestDelegate](https://github.com/dotnet/aspnetcore/issues/31181)
+- [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8)
 - [On .NET Live - Messaging Patterns for .NET Developers with Clemens Vasters](https://www.youtube.com/watch?v=ef1DK76rseM)
 - [Damian Hickey - template-dotnet-lib: A template repo used for .NET libraries](https://github.com/logicality-io/template-dotnet-lib)
 - [Damian Hickey - docker-ci: Collection of docker images I use to build .NET libraries, services and .NET + Node applications](https://github.com/logicality-io/template-dotnet-lib)
@@ -408,6 +423,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Christoph Nakazawa - Inclusion in a Distributed World](https://cpojer.net/posts/inclusion-in-a-distributed-world)
+- [Ela Mościcka - How to look for a job?](https://elaintech.com/2021/04/19/how-to-look-for-a-job/)
 - [N. Meslec, I. Aggarwal, P.L. Curseu - The Insensitive Ruins It All: Compositional and Compilational Influences of Social Sensitivity on Collective Intelligence in Groups](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00676/full)
 - [Andrew Harmel-Law - Is Your Organisation Broken?](https://andrewharmellaw.github.io/2021/03/26/is-your-organisation-broken)
 - [Andrew Harmel-Law - Your Organisation Viewed as a Collection of Services](https://andrewharmellaw.github.io/organisation/2021/03/27/the-organisation-as-collection-of-services)
@@ -490,6 +507,7 @@
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
 
 ## Industry
+- [ZDNet - Confluent confidentially files for IPO](https://www.zdnet.com/article/confluent-confidentially-files-for-ipo/)
 - [The Open Source Way - Guidebook 2.0](https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html)
 - [David Heinemeier Hansson - It's hard to draw lessons from your own failures](https://world.hey.com/dhh/it-s-hard-to-draw-lessons-from-your-own-failures-d4608094)
 - [CNBC - The message Microsoft is sending to managers after a decline in team connectedness](https://www.cnbc.com/amp/2021/03/30/microsoft-message-to-managers-after-decline-in-team-connections.html)
@@ -549,6 +567,10 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [NY Times - 2 Killed in Driverless Tesla Car Crash, Officials Say](https://www.nytimes.com/2021/04/18/business/tesla-fatal-crash-texas.html)
+- [Imesh Gunaratne - An OAuth2 Grant Selection Decision Tree for Securing REST APIs](https://dzone.com/articles/an-oauth2-grant-selection-decision-tree-for-securi)
+- [Dominick Baier - Two is the magic Number](https://leastprivilege.com/2019/09/09/two-is-the-magic-number/)
+- [1Password - Secrets Automation](https://1password.com/secrets/)
 - [BleepingComputer - Dutch supermarkets run out of cheese after ransomware attack](https://www.bleepingcomputer.com/news/security/dutch-supermarkets-run-out-of-cheese-after-ransomware-attack/)
 - [CodeCov - Bash Uploader Security Update](https://about.codecov.io/security-update/)
 - [Mannu Linux - From TikiWiki to Domain Admin - Journey to pwning a company](https://www.mannulinux.org/2021/03/from-tikiwiki-to-domain-admin-journey.html)
@@ -577,6 +599,9 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [Nature - Adding is favoured over subtracting in problem solving](https://www.nature.com/articles/d41586-021-00592-0)
+- [Rachel McKinnon - Allies, Active Bystanders, and Gaslighting](https://www.youtube.com/watch?v=YRW78oDGE3M)
+- [NY Times - Chuck Geschke, Father of Desktop Publishing, Dies at 81](https://www.nytimes.com/2021/04/20/technology/chuck-geschke-dead.html)
 - [Scott Hanselman - Take your Windows Terminal and PowerShell to the next level with Terminal Icons](https://www.hanselman.com/blog/take-your-windows-terminal-and-powershell-to-the-next-level-with-terminal-icons)
 - [Reuters - Domino's and Nuro to start robot pizza delivery in Houston](https://www.reuters.com/technology/dominos-nuro-start-robot-pizza-delivery-houston-2021-04-12/)
 - [Yoast - Google Discover: What it is and how to get your content in](https://yoast.com/google-discover/#:~:text=Google%20Discover%20is%20a%20mobile,the%20searching%20is%20mostly%20gone)

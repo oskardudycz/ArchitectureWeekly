@@ -23,6 +23,53 @@ There are two rules:
 ## 26th April 2021
 
 ### Architecture
+- [ThoughtWorks - Amortizing Software Rewrites: An Evolutionary Approach](https://www.thoughtworks.com/insights/blog/amortizing-software-rewrites-evolutionary-approach)
+- [Vishnu Chilamakuru - 4 ways to update your cache](https://vishnu.hashnode.dev/4-ways-to-update-your-cache)
+- [InfoQ - Software Architecture and Design InfoQ Trends Report—April 2021](https://www.infoq.com/articles/architecture-trends-2021)
+- [Yves Goeleven - Client Side Event Sourcing](https://www.goeleven.com/blog/client-side-event-sourcing/)
+- [Brent Roose - Starting with event sourcing](https://stitcher.io/blog/what-event-sourcing-is-not-about)
+
+### Distributed Systems
+- [GitHub - How we scaled the GitHub API with a sharded, replicated rate limiter in Redis](https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/)
+- [Natan Silnitsky - Leader election and Sharding Practices at Wix microservices](https://medium.com/wix-engineering/leader-election-and-sharding-practices-at-wix-microservices-6e6b853e4852)
+- [Scott Carey - No one wants to manage Kubernetes anymore](https://www.infoworld.com/article/3614850/no-one-wants-to-manage-kubernetes-anymore.html)
+- [AWS Compute Blog - Choosing between messaging services for serverless applications](https://aws.amazon.com/blogs/compute/choosing-between-messaging-services-for-serverless-applications/)
+
+### DevOps
+- [Cat Swetel - 193 Easy Steps to DevOpsing Your Monolith](https://www.youtube.com/watch?v=o435GqNDC-o)
+
+### Testing
+- [Nicole Rauch - Beyond Consumer-Driven Contract Testing](https://www.youtube.com/watch?v=n5QFe6uwWHI)
+
+### .NET
+- [Microsoft - Yarp.ReverseProxy release preview](https://github.com/microsoft/reverse-proxy/releases/tag/v1.0.0-preview11)
+- [James Randall - Thoughts on the .NET Foundation](https://www.azurefromthetrenches.com/thoughts-on-the-net-foundation/)
+- [David Fowler - Add API to turn delegate or MethodInfo into a RequestDelegate](https://github.com/dotnet/aspnetcore/issues/31181)
+- [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8)
+
+### Coding Life
+- [Christoph Nakazawa - Inclusion in a Distributed World](https://cpojer.net/posts/inclusion-in-a-distributed-world)
+- [Ela Mościcka - How to look for a job?](https://elaintech.com/2021/04/19/how-to-look-for-a-job/)
+
+### Industry
+- [ZDNet - Confluent confidentially files for IPO](https://www.zdnet.com/article/confluent-confidentially-files-for-ipo/)
+
+### Security
+- [NY Times - 2 Killed in Driverless Tesla Car Crash, Officials Say](https://www.nytimes.com/2021/04/18/business/tesla-fatal-crash-texas.html)
+- [Imesh Gunaratne - An OAuth2 Grant Selection Decision Tree for Securing REST APIs](https://dzone.com/articles/an-oauth2-grant-selection-decision-tree-for-securi)
+- [Dominick Baier - Two is the magic Number](https://leastprivilege.com/2019/09/09/two-is-the-magic-number/)
+- [1Password - Secrets Automation](https://1password.com/secrets/)
+
+### Trivia
+- [Nature - Adding is favoured over subtracting in problem solving](https://www.nature.com/articles/d41586-021-00592-0)
+- [Rachel McKinnon - Allies, Active Bystanders, and Gaslighting](https://www.youtube.com/watch?v=YRW78oDGE3M)
+- [NY Times - Chuck Geschke, Father of Desktop Publishing, Dies at 81](https://www.nytimes.com/2021/04/20/technology/chuck-geschke-dead.html)
+
+-------
+
+## 19th April 2021
+
+### Architecture
 - [Exploring AWS Serverless Architectures & Patterns](https://faun.pub/exploring-aws-serverless-architectures-4fdbcc2a9959)
 - [Chris Condron - Event Sourcing for the Cloud Developer](https://www.youtube.com/watch?v=5FU28fauHd4)
 - [ThoughtWorks - Technology Radar vol 24](https://assets.thoughtworks.com/assets/technology-radar-vol-24-en.pdf)
@@ -76,6 +123,8 @@ There are two rules:
 - [Reuters - Domino's and Nuro to start robot pizza delivery in Houston](https://www.reuters.com/technology/dominos-nuro-start-robot-pizza-delivery-houston-2021-04-12/)
 - [Yoast - Google Discover: What it is and how to get your content in](https://yoast.com/google-discover/#:~:text=Google%20Discover%20is%20a%20mobile,the%20searching%20is%20mostly%20gone)
 
+-------
+
 ## 12th April 2021
 
 ### Architecture
@@ -115,6 +164,8 @@ There are two rules:
 
 ### Trivia
 - [Daniel Stenberg - curl supports NASA](https://daniel.haxx.se/blog/2020/12/17/curl-supports-nasa/)
+
+-------
 
 ## 5th April 2021
 
