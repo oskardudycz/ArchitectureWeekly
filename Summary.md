@@ -18,12 +18,14 @@
     - [WebAssembly](#webassembly)
   - [Coding Life](#coding-life)
   - [Java](#java)
+  - [JavaScript](#javascript)
   - [Ruby](#ruby)
   - [Haskell](#haskell)
   - [GO](#go)
   - [Kotlin](#kotlin)
   - [Rust](#rust)
   - [Industry](#industry)
+      - [Basecamp Drama](#basecamp-drama)
       - [ElasticSearch Licence change](#elasticsearch-licence-change)
   - [Hardware](#hardware)
   - [Low level](#low-level)
@@ -33,6 +35,9 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Mark Seemann - Functional architecture - The pits of success](https://www.youtube.com/watch?v=US8QG9I1XW0)
+- [Event Store - A Beginner's Guide to Event Sourcing](https://www.youtube.com/watch?v=US8QG9I1XW0)
+- [Alberto Brandolini - EventStorming: Redesigning Everything](https://www.youtube.com/watch?app=desktop&v=v4xLxmpAFdI)
 - [ThoughtWorks - Amortizing Software Rewrites: An Evolutionary Approach](https://www.thoughtworks.com/insights/blog/amortizing-software-rewrites-evolutionary-approach)
 - [Vishnu Chilamakuru - 4 ways to update your cache](https://vishnu.hashnode.dev/4-ways-to-update-your-cache)
 - [InfoQ - Software Architecture and Design InfoQ Trends Report—April 2021](https://www.infoq.com/articles/architecture-trends-2021)
@@ -134,6 +139,11 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Børge Svingen - Publishing with Apache Kafka at The New York Times](https://open.nytimes.com/publishing-with-apache-kafka-at-the-new-york-times-7f0e3b7d2077)
+- [Jamie Brandon - Internal consistency in streaming systems](https://scattered-thoughts.net/writing/internal-consistency-in-streaming-systems)
+- [Storj - Introducing DRPC: Our Replacement for gRPC](https://www.storj.io/blog/introducing-drpc-our-replacement-for-grpc)
+- [Jesse DeRose - AWS Cost Allocation Guide: Identifying Your Costs](https://www.duckbillgroup.com/blog/aws-cost-allocation-guide-identifying-your-costs/)
+- [Aurélie Vache - Understanding Network things: part 1 – L4 / L7 layers](https://dev.to/aurelievache/understanding-network-things-part-1-l4-l7-layers-j47)
 - [GitHub - How we scaled the GitHub API with a sharded, replicated rate limiter in Redis](https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/)
 - [Natan Silnitsky - Leader election and Sharding Practices at Wix microservices](https://medium.com/wix-engineering/leader-election-and-sharding-practices-at-wix-microservices-6e6b853e4852)
 - [Scott Carey - No one wants to manage Kubernetes anymore](https://www.infoworld.com/article/3614850/no-one-wants-to-manage-kubernetes-anymore.html)
@@ -209,6 +219,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [AWS Compute Blog - Better together: AWS SAM and AWS CDK](https://aws.amazon.com/blogs/compute/better-together-aws-sam-and-aws-cdk/)
 - [Cat Swetel - 193 Easy Steps to DevOpsing Your Monolith](https://www.youtube.com/watch?v=o435GqNDC-o)
 - [Dustin Moris Gorski - You don't need Docker](https://dusted.codes/you-dont-need-docker)
 - [Mesos moved to "attic"](https://lists.apache.org/x/thread.html/rab2a820507f7c846e54a847398ab20f47698ec5bce0c8e182bfe51ba%40%3Cdev.mesos.apache.org%3E)
@@ -315,11 +326,16 @@
 - [InfoWorld - Simon Bisson - Jumping into Azure Arc Data Services](https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.amp.html)
 
 ## Functional Programming
+- [John Hughes - How to specify it! A guide to writing properties of pure functions](https://www.youtube.com/watch?v=G0NUOst-53U)
 - [Perdita Stevens - Writing good programs in functional languages](https://www.youtube.com/watch?v=ulZeg60FNU4)
 - [Bartosz Milewski - Functorio - having fun with functional programming](https://www.youtube.com/watch?v=A46KQtriYuM)
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Rob Vettor, Steve "ardalis" Smith - Architecting Cloud Native .NET Applications for Azure](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/)
+- [Ken Bonny - Introducing C# 10](https://kenbonny.net/introducing-csharp-10)
+- [Damien Bod - Securing multiple Auth0 APIs in ASP.NET Core using OAuth Bearer tokens](https://damienbod.com/2021/04/19/securing-multiple-auth0-apis-in-asp-net-core-using-oauth-bearer-tokens/)
+- [.NET - Reproducible Builds](https://github.com/dotnet/reproducible-builds)
 - [Microsoft - Yarp.ReverseProxy release preview](https://github.com/microsoft/reverse-proxy/releases/tag/v1.0.0-preview11)
 - [James Randall - Thoughts on the .NET Foundation](https://www.azurefromthetrenches.com/thoughts-on-the-net-foundation/)
 - [David Fowler - Add API to turn delegate or MethodInfo into a RequestDelegate](https://github.com/dotnet/aspnetcore/issues/31181)
@@ -423,6 +439,9 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Alexis King - Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+- [StackOverflow Blog - How often do people actually copy and paste from Stack Overflow? Now we know](https://stackoverflow.blog/2021/04/19/how-often-do-people-actually-copy-and-paste-from-stack-overflow-now-we-know)
+- [Rich Hickey - Simple Made Easy](https://www.youtube.com/watch?v=oytL881p-nQ)
 - [Christoph Nakazawa - Inclusion in a Distributed World](https://cpojer.net/posts/inclusion-in-a-distributed-world)
 - [Ela Mościcka - How to look for a job?](https://elaintech.com/2021/04/19/how-to-look-for-a-job/)
 - [N. Meslec, I. Aggarwal, P.L. Curseu - The Insensitive Ruins It All: Compositional and Compilational Influences of Social Sensitivity on Collective Intelligence in Groups](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00676/full)
@@ -486,6 +505,10 @@
 - [InfoQ - Netflix Open Sources Their Domain Graph Service Framework: GraphQL for Spring Boot](https://www.infoq.com/news/2021/02/netflix-graphql-spring-boot/)
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
+## JavaScript
+- [Jonas Kello - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript](https://github.com/jonaskello/eslint-plugin-functional)
+- [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
+
 ## Ruby
 - [Remote Ruby - Hotwire, Rails NEXT, and the DHH Stack with David Heinemeier Hansson](https://remoteruby.transistor.fm/115)
 
@@ -500,6 +523,7 @@
 - [Simon Vergauwen - Functional Domain Modeling in Kotlin - Validation](https://www.47deg.com/blog/functional-domain-modeling-part-2/)
 
 ## Rust
+- [Facebook Joins the Rust Foundation](https://developers.facebook.com/blog/post/2021/04/29/facebook-joins-rust-foundation/)
 - [Jon Nadal - Building Distributed Systems With Stateright](https://www.youtube.com/watch?v=IXCS4r19Q5A)
 - [Kornelski - Speed of Rust vs C](https://kornel.ski/rust-c-speed)
 - [Jesse Howarth - Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
@@ -507,6 +531,7 @@
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
 
 ## Industry
+- [Yifan Xing - My experience with sexual harassment in the Scala community](https://yifanxing.medium.com/my-experience-with-sexual-harassment-in-the-scala-community-9245b4a139de)
 - [ZDNet - Confluent confidentially files for IPO](https://www.zdnet.com/article/confluent-confidentially-files-for-ipo/)
 - [The Open Source Way - Guidebook 2.0](https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html)
 - [David Heinemeier Hansson - It's hard to draw lessons from your own failures](https://world.hey.com/dhh/it-s-hard-to-draw-lessons-from-your-own-failures-d4608094)
@@ -537,6 +562,13 @@
 - [Logic Magazine - Don't Be Evil: Fred Turner on Utopias, Frontiers, and Brogrammers](https://logicmag.io/justice/fred-turner-dont-be-evil/)
 - [Wired - Nice Try, Facebook. iOS Changes Aren't Bad for Small Businesses](https://www.wired.com/story/sorry-facebook-ios-changes-not-bad-for-small-businesses/)
 - [The Verge - Casey Newton - How Microsoft crushed Slack](https://www.theverge.com/22150313/how-microsoft-crushed-slack-salesforce-acquisition)
+
+#### Basecamp Drama
+- [Jason Fried - Changes at Basecamp](https://world.hey.com/jason/changes-at-basecamp-7f32afc5)
+- [DHH - Basecamp's new etiquette regarding societal politics at work](https://world.hey.com/dhh/basecamp-s-new-etiquette-regarding-societal-politics-at-work-b44bef69)
+- [The Verge - Breaking Camp](https://www.theverge.com/2021/4/27/22406673/basecamp-political-speech-policy-controversy)
+- [DHH - Let it all out](https://world.hey.com/dhh/let-it-all-out-78485e8e)
+- [Gizmodo - One-Third of Basecamp Employees Have Reportedly Quit Following New Policy on Speech](https://gizmodo.com/one-third-of-basecamp-employees-have-reportedly-quit-fo-1846801378)
 
 #### ElasticSearch Licence change
 - [Elastic - Amazon: NOT OK - why we had to change Elastic licensing](https://www.elastic.co/blog/why-license-change-AWS)
