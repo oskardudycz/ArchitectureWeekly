@@ -35,6 +35,7 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Einar Høst - Evolving architecture with DDD and hypermedia](https://www.youtube.com/watch?v=Q3hAPZVu3HI)
 - [Mark Seemann - Functional architecture - The pits of success](https://www.youtube.com/watch?v=US8QG9I1XW0)
 - [Event Store - A Beginner's Guide to Event Sourcing](https://www.eventstore.com/event-sourcing)
 - [Alberto Brandolini - EventStorming: Redesigning Everything](https://www.youtube.com/watch?app=desktop&v=v4xLxmpAFdI)
@@ -139,6 +140,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Stephanie Sherriff - Killing Kafka: The Pitfalls of Over-architecting](https://medium.com/spaceship/killing-kafka-the-pitfalls-of-over-architecting-c9fe3f1085fb)
+- [AWS - CloudFront Functions – Run Your Code at the Edge with Low Latency at Any Scale](https://aws.amazon.com/blogs/aws/introducing-cloudfront-functions-run-your-code-at-the-edge-with-low-latency-at-any-scale/)
 - [Børge Svingen - Publishing with Apache Kafka at The New York Times](https://open.nytimes.com/publishing-with-apache-kafka-at-the-new-york-times-7f0e3b7d2077)
 - [Jamie Brandon - Internal consistency in streaming systems](https://scattered-thoughts.net/writing/internal-consistency-in-streaming-systems)
 - [Storj - Introducing DRPC: Our Replacement for gRPC](https://www.storj.io/blog/introducing-drpc-our-replacement-for-grpc)
@@ -219,6 +222,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [ProcMon for Linux - Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows](https://github.com/Sysinternals/ProcMon-for-Linux/)
+- [GitHub - Scaling monorepo maintenance](https://github.blog/2021-04-29-scaling-monorepo-maintenance)
+- [Michal Dorner - Test Reporter - Displays test results from popular testing frameworks directly in GitHub](https://github.com/dorny/test-reporter)
 - [AWS Compute Blog - Better together: AWS SAM and AWS CDK](https://aws.amazon.com/blogs/compute/better-together-aws-sam-and-aws-cdk/)
 - [Cat Swetel - 193 Easy Steps to DevOpsing Your Monolith](https://www.youtube.com/watch?v=o435GqNDC-o)
 - [Dustin Moris Gorski - You don't need Docker](https://dusted.codes/you-dont-need-docker)
@@ -290,6 +296,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [phiresky - Hosting SQLite databases on Github Pages](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
 - [Alvaro Herrera - Postgres - Waiting for 9.5 – Implement SKIP LOCKED for row-level locks](https://www.depesz.com/2014/10/10/waiting-for-9-5-implement-skip-locked-for-row-level-locks/)
 - [The Register - You know what? Fork this: AWS renames its take on Elasticsearch to OpenSearch following trademark fight](https://www.theregister.com/AMP/2021/04/13/aws_renames_elasticsearch_fork_opensearch)
 - [Microsoft HyperSpace - An open source indexing subsystem that brings index-based query acceleration to Apache Spark™ and big data workloads. ](https://github.com/microsoft/hyperspace)
@@ -332,6 +339,14 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Mark Seemann - Simplifying code with Decorated Commands](https://blog.ploeh.dk/2021/05/10/simplifying-code-with-decorated-commands/)
+- [Hallstein Brøtan - ASP.NET Core Memory Cache - Is the GetOrCreate method thread-safe?](https://blog.novanet.no/asp-net-core-memory-cache-is-get-or-create-thread-safe/)
+- [Michael Shpilt - Cache Implementations in C# .NET](https://michaelscodingspot.com/cache-implementations-in-csharp-net/)
+- [Viktor Andersson - Automagically manage your Azure Service Bus topics with Farmer](https://viktorvan.github.io/fsharp/farmer-service-bus/)
+- [Reddit - Why does everything have to use interface?](https://www.reddit.com/r/dotnet/comments/mzxlrc/why_does_everything_have_to_use_interface/)
+- [David Fowler - ASP.NET Core Minimal APIs](https://github.com/davidfowl/CommunityStandUpMinimalAPI)
+- [Microsoft DevBlogs - ASP.NET Core 6 and Authentication Servers](https://devblogs.microsoft.com/aspnet/asp-net-core-6-and-authentication-servers/)
+- [Mapster - A fast, fun and stimulating object to object Mapper](https://github.com/MapsterMapper/Mapster)
 - [Rob Vettor, Steve "ardalis" Smith - Architecting Cloud Native .NET Applications for Azure](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/)
 - [Ken Bonny - Introducing C# 10](https://kenbonny.net/introducing-csharp-10)
 - [Damien Bod - Securing multiple Auth0 APIs in ASP.NET Core using OAuth Bearer tokens](https://damienbod.com/2021/04/19/securing-multiple-auth0-apis-in-asp-net-core-using-oauth-bearer-tokens/)
@@ -435,10 +450,13 @@
 - [Improve Activity API usability and OpenTelemetry integration](https://github.com/dotnet/designs/blob/main/accepted/2020/diagnostics/activity-improvements.md)
 
 ### WebAssembly
+- [Mozilla - Growing the Bytecode Alliance](https://blog.mozilla.org/blog/2021/04/28/growing-the-bytecode-alliance/)
 - [Radu Matei - Getting started with NodeJS and the WebAssembly System Interface](https://radu-matei.com/blog/nodejs-wasi/)
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Ben Selby - Logically atomic commits](https://benmatselby.dev/post/logical-commits/)
+- [Schema.org - a collection of structured data on the Internet](https://schema.org/docs/full.html)
 - [Alexis King - Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - [StackOverflow Blog - How often do people actually copy and paste from Stack Overflow? Now we know](https://stackoverflow.blog/2021/04/19/how-often-do-people-actually-copy-and-paste-from-stack-overflow-now-we-know)
 - [Rich Hickey - Simple Made Easy](https://www.youtube.com/watch?v=oytL881p-nQ)
@@ -531,6 +549,9 @@
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
 
 ## Industry
+- [Washington Post - As a CEO, I worry about the erosion of office culture with more remote work](https://www.washingtonpost.com/opinions/2021/05/06/ceo-i-want-my-employees-understand-risks-not-returning-work-office/)
+- [Gizmodo - Signal Tries to Run the Most Honest Facebook Ad Campaign Ever, Immediately Gets Banned](https://gizmodo.com/signal-tried-to-run-the-most-honest-facebook-ad-campaig-1846823457)
+- [ Amy Lewin - How to implement transparent salaries](https://sifted.eu/articles/implement-transparent-salaries/)
 - [Yifan Xing - My experience with sexual harassment in the Scala community](https://yifanxing.medium.com/my-experience-with-sexual-harassment-in-the-scala-community-9245b4a139de)
 - [ZDNet - Confluent confidentially files for IPO](https://www.zdnet.com/article/confluent-confidentially-files-for-ipo/)
 - [The Open Source Way - Guidebook 2.0](https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html)
@@ -599,6 +620,9 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Gynvael Coldwin - Infosec Certificates, Playing Ctfs, Google's Ctf, and Getting Into Hacking](https://www.youtube.com/watch?v=iIaOqIHGpTc)
+- [Daniel Miessler - The Consumer Authentication Strength Maturity Model](https://danielmiessler.com/blog/casmm-consumer-authentication-security-maturity-model/)
+- [AWS - Evaluating access control methods to secure Amazon API Gateway APIs](https://aws.amazon.com/blogs/compute/evaluating-access-control-methods-to-secure-amazon-api-gateway-apis)
 - [NY Times - 2 Killed in Driverless Tesla Car Crash, Officials Say](https://www.nytimes.com/2021/04/18/business/tesla-fatal-crash-texas.html)
 - [Imesh Gunaratne - An OAuth2 Grant Selection Decision Tree for Securing REST APIs](https://dzone.com/articles/an-oauth2-grant-selection-decision-tree-for-securi)
 - [Dominick Baier - Two is the magic Number](https://leastprivilege.com/2019/09/09/two-is-the-magic-number/)
@@ -631,6 +655,7 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [Tomasz Onyszko - Digital Minimalism - removing myself (yourself) from social media game](https://www.onyszko.com/digital-minimalism/)
 - [Nature - Adding is favoured over subtracting in problem solving](https://www.nature.com/articles/d41586-021-00592-0)
 - [Rachel McKinnon - Allies, Active Bystanders, and Gaslighting](https://www.youtube.com/watch?v=YRW78oDGE3M)
 - [NY Times - Chuck Geschke, Father of Desktop Publishing, Dies at 81](https://www.nytimes.com/2021/04/20/technology/chuck-geschke-dead.html)
