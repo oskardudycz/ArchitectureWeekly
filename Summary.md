@@ -35,6 +35,9 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Juval Lowy - The Architect](https://www.youtube.com/watch?v=F1K-wMR4R-w)
+- [Trond Hjorteland - User Story Mapping for Domain Discovery](https://www.linkedin.com/pulse/user-story-mapping-domain-discovery-trond-hjorteland/)
+- [Pat Helland - Data on the Outside versus Data on the Inside](http://cidrdb.org/cidr2005/papers/P12.pdf)
 - [Einar Høst - Evolving architecture with DDD and hypermedia](https://www.youtube.com/watch?v=Q3hAPZVu3HI)
 - [Mark Seemann - Functional architecture - The pits of success](https://www.youtube.com/watch?v=US8QG9I1XW0)
 - [Event Store - A Beginner's Guide to Event Sourcing](https://www.eventstore.com/event-sourcing)
@@ -275,6 +278,7 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Postman - Running collections on the command line with Newman](https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/)
 - [Nicole Rauch - Beyond Consumer-Driven Contract Testing](https://www.youtube.com/watch?v=n5QFe6uwWHI)
 - [Liran Tal - A Comprehensive Guide to Contract Testing APIs in a Service Oriented Architecture](https://lirantal.medium.com/a-comprehensive-guide-to-contract-testing-apis-in-a-service-oriented-architecture-5695ccf9ac5a)
 - [IlyanaDev - Creating a JMeter Test](https://ilyana.dev/blog/2020-11-12-jmeter)
@@ -296,6 +300,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Raghuram Onti Srinivasan - Change Data Capture for Distributed Databases @Netflix](https://www.infoq.com/presentations/netflix-cdc-events-cassandra/)
 - [phiresky - Hosting SQLite databases on Github Pages](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
 - [Alvaro Herrera - Postgres - Waiting for 9.5 – Implement SKIP LOCKED for row-level locks](https://www.depesz.com/2014/10/10/waiting-for-9-5-implement-skip-locked-for-row-level-locks/)
 - [The Register - You know what? Fork this: AWS renames its take on Elasticsearch to OpenSearch following trademark fight](https://www.theregister.com/AMP/2021/04/13/aws_renames_elasticsearch_fork_opensearch)
@@ -339,6 +344,13 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [InfoQ - Deep Diving Into EF Core: Q&A With Jeremy Likness](https://www.infoq.com/articles/deep-diving-ef-core-jeremy-likness/)
+- [Ben Adams - Ben.Http](https://github.com/benaadams/Ben.Http)
+- [Blog Elmah - Using the new PriorityQueue from .NET 6](https://blog.elmah.io/using-the-new-priorityqueue-from-net-6/)
+- [Marc Gravell - Is the era of reflection-heavy C# libraries at an end?](https://blog.marcgravell.com/2021/05/is-era-of-reflection-heavy-c-libraries.html)
+- [Dave Brock - Use ASP.NET Core route-to-code for simple JSON APIs](https://www.daveabrock.com/2020/12/04/migrate-mvc-to-route-to-code/)
+- [StrathWeb - Beautiful and compact Web APIs with C# 9, .NET 5.0 and ASP.NET Core](https://www.strathweb.com/2020/10/beautiful-and-compact-web-apis-with-c-9-net-5-0-and-asp-net-core/)
+- [Microsoft Coyote - tool designed to help ensure that your C# code is free of annoying concurrency bugs](https://github.com/microsoft/coyote)
 - [Mark Seemann - Simplifying code with Decorated Commands](https://blog.ploeh.dk/2021/05/10/simplifying-code-with-decorated-commands/)
 - [Hallstein Brøtan - ASP.NET Core Memory Cache - Is the GetOrCreate method thread-safe?](https://blog.novanet.no/asp-net-core-memory-cache-is-get-or-create-thread-safe/)
 - [Michael Shpilt - Cache Implementations in C# .NET](https://michaelscodingspot.com/cache-implementations-in-csharp-net/)
@@ -455,6 +467,12 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Adam Stepinski - Death by a Thousand Papercuts, and How to Avoid It](https://engineering.instawork.com/death-by-a-thousand-papercuts-and-how-to-avoid-it-d2f05070b339)
+- [Colin Breck - Engineering Management: Three Books and Three Videos](https://blog.colinbreck.com/engineering-management-three-books-and-three-videos/)
+- [Aaron Stannard - Professional Open Source: Maintaining API, Binary, and Wire Compatibility](https://aaronstannard.com/oss-compatibility-standards/)
+- [Nikita Prokopov - Software disenchantment](https://tonsky.me/blog/disenchantment/)
+- [Mike Long - Nobody Ever Gets Credit for Fixing Problems that Never Happened](https://www.linkedin.com/pulse/nobody-ever-gets-credit-fixing-problems-never-happened-mike-long/)
+- [Scott Shipp - Why Senior Devs Write Dumb Code and How to Spot a Junior From A Mile Away](https://hackernoon.com/why-senior-devs-write-dumb-code-and-how-to-spot-a-junior-from-a-mile-away-27fa263b101a)
 - [Ben Selby - Logically atomic commits](https://benmatselby.dev/post/logical-commits/)
 - [Schema.org - a collection of structured data on the Internet](https://schema.org/docs/full.html)
 - [Alexis King - Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
@@ -517,6 +535,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Java
+- [Mario Wolto - Non-Volatile Memory and Java](https://medium.com/@mwolczko/non-volatile-memory-and-java-7ba80f1e730c)
 - [Dávid Csákvári - A categorized list of all Java and JVM features since JDK 8 to 16](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/)
 - [Microsoft Blogs - Announcing Preview of Microsoft Build of OpenJDK](https://devblogs.microsoft.com/java/announcing-preview-of-microsoft-build-of-openjdk/)
 - [InfoWorld - JDK 16: The new features in Java 16](https://www.infoworld.com/article/3569150/jdk-16-the-new-features-in-java-16.html)
@@ -549,6 +568,7 @@
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
 
 ## Industry
+- [Scott Berkun - Why Bad CEOs Fear Remote Work](https://scottberkun.com/2021/why-bad-ceos-fear-remote-work/)
 - [Washington Post - As a CEO, I worry about the erosion of office culture with more remote work](https://www.washingtonpost.com/opinions/2021/05/06/ceo-i-want-my-employees-understand-risks-not-returning-work-office/)
 - [Gizmodo - Signal Tries to Run the Most Honest Facebook Ad Campaign Ever, Immediately Gets Banned](https://gizmodo.com/signal-tried-to-run-the-most-honest-facebook-ad-campaig-1846823457)
 - [ Amy Lewin - How to implement transparent salaries](https://sifted.eu/articles/implement-transparent-salaries/)
@@ -655,6 +675,8 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [MecaHumArduino - AWS Solutions Architect Interview](https://www.youtube.com/watch?v=-92HD_Wv9Do)
+- [Sarah R. Barrett - Your Information Architecture is an Accessibility Problem](https://medium.com/known-item/your-information-architecture-is-an-accessibility-problem-cd54ae917f8e)
 - [Tomasz Onyszko - Digital Minimalism - removing myself (yourself) from social media game](https://www.onyszko.com/digital-minimalism/)
 - [Nature - Adding is favoured over subtracting in problem solving](https://www.nature.com/articles/d41586-021-00592-0)
 - [Rachel McKinnon - Allies, Active Bystanders, and Gaslighting](https://www.youtube.com/watch?v=YRW78oDGE3M)
