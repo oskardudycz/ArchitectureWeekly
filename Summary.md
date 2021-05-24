@@ -24,6 +24,7 @@
   - [GO](#go)
   - [Kotlin](#kotlin)
   - [Rust](#rust)
+  - [TypeScript](#typescript)
   - [Industry](#industry)
       - [Basecamp Drama](#basecamp-drama)
       - [ElasticSearch Licence change](#elasticsearch-licence-change)
@@ -35,6 +36,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Dan Luu - A collection of postmortems](https://github.com/danluu/post-mortems)
+- [Kamil Grzybek - Modular Monolith Primer](https://www.kamilgrzybek.com/design/modular-monolith-primer/)
+- [Einar W. Høst - On the complexity of JSON serialization](https://einarwh.wordpress.com/2020/05/08/on-the-complexity-of-json-serialization/)
+- [Jérémie Chassaing - Functional Event Sourcing](https://www.youtube.com/watch?v=whFfzQfdJZg)
+- [Andrzej Ludwikowski - Actor Model and Event Sourcing](https://blog.softwaremill.com/actor-model-and-event-sourcing-aa00993d2f1e)
 - [Juval Lowy - The Architect](https://www.youtube.com/watch?v=F1K-wMR4R-w)
 - [Trond Hjorteland - User Story Mapping for Domain Discovery](https://www.linkedin.com/pulse/user-story-mapping-domain-discovery-trond-hjorteland/)
 - [Pat Helland - Data on the Outside versus Data on the Inside](http://cidrdb.org/cidr2005/papers/P12.pdf)
@@ -143,6 +149,9 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Uber Engineering - Building Reliable Reprocessing and Dead Letter Queues with Apache Kafka](https://eng.uber.com/reliable-reprocessing/)
+- [Team Aspecto - Kafka vs RabbitMQ vs AWS SNS/SQS: Which Broker to Choose?](https://www.aspecto.io/blog/kafka-vs-rabbitmq-vs-aws-sns-sqs-which-broker-to-choose/)
+- [Justin Plock - Should My Startup use Kinesis or MSK?](https://www.youtube.com/watch?v=TJS19EuzH2k)
 - [Stephanie Sherriff - Killing Kafka: The Pitfalls of Over-architecting](https://medium.com/spaceship/killing-kafka-the-pitfalls-of-over-architecting-c9fe3f1085fb)
 - [AWS - CloudFront Functions – Run Your Code at the Edge with Low Latency at Any Scale](https://aws.amazon.com/blogs/aws/introducing-cloudfront-functions-run-your-code-at-the-edge-with-low-latency-at-any-scale/)
 - [Børge Svingen - Publishing with Apache Kafka at The New York Times](https://open.nytimes.com/publishing-with-apache-kafka-at-the-new-york-times-7f0e3b7d2077)
@@ -300,6 +309,12 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [DataStax Developers - NoSQL Day!](https://www.youtube.com/watch?v=S39NEt0Ykf0)
+- [Mark Callaghan - Read, write & space amplification - pick 2](http://smalldatum.blogspot.com/2015/11/read-write-space-amplification-pick-2_23.html)
+- [Adam Cover - Build a Database Pt. 1: Motivation & Design](https://adambcomer.com/blog/simple-database/motivation-design/)
+- [Tyler Treat - Building a Distributed Log from Scratch, Part 1: Storage Mechanics](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-mechanics/)
+- [Max De Marzi - Modeling Events in Neo4J](https://dzone.com/articles/modeling-events-in-neo4j)
+- [Alex DeBrie - Everything you need to know about DynamoDB Partitions](https://www.alexdebrie.com/posts/dynamodb-partitions/)
 - [Raghuram Onti Srinivasan - Change Data Capture for Distributed Databases @Netflix](https://www.infoq.com/presentations/netflix-cdc-events-cassandra/)
 - [phiresky - Hosting SQLite databases on Github Pages](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
 - [Alvaro Herrera - Postgres - Waiting for 9.5 – Implement SKIP LOCKED for row-level locks](https://www.depesz.com/2014/10/10/waiting-for-9-5-implement-skip-locked-for-row-level-locks/)
@@ -338,12 +353,21 @@
 - [InfoWorld - Simon Bisson - Jumping into Azure Arc Data Services](https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.amp.html)
 
 ## Functional Programming
+- [Railway oriented programming](https://fsharpforfunandprofit.com/posts/recipe-part2/)
+- [Scott Wlaschin - Against Railway-Oriented Programming](https://fsharpforfunandprofit.com/posts/against-railway-oriented-programming/)
+- [Bartosz Milewski - Functorio](https://bartoszmilewski.com/2021/02/16/functorio/)
 - [John Hughes - How to specify it! A guide to writing properties of pure functions](https://www.youtube.com/watch?v=G0NUOst-53U)
 - [Perdita Stevens - Writing good programs in functional languages](https://www.youtube.com/watch?v=ulZeg60FNU4)
 - [Bartosz Milewski - Functorio - having fun with functional programming](https://www.youtube.com/watch?v=A46KQtriYuM)
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Christian Zink - How to Build an Event-Driven ASP.NET Core Microservice Architecture](https://itnext.io/how-to-build-an-event-driven-asp-net-core-microservice-architecture-e0ef2976f33f)
+- [Scott Hanselman - Introducing The .NET Coding Pack for VS Code - Getting Started with C# for Beginners](https://www.hanselman.com/blog/introducing-the-net-coding-pack-for-vs-code-getting-started-with-c-for-beginners)
+- [Nick Randolph - The Future of Windows (and other Platforms) Development](https://www.infoq.com/articles/future-windows-other-platforms-development)
+- [Tomasz Pęczek - Fetch API, Streams API, NDJSON, and ASP.NET Core MVC](https://www.tpeczek.com/2019/04/fetch-api-streams-api-ndjson-and-aspnet.html)
+- [Khalid Abuhakmeh - Avoid C# 9 Record Gotchas](https://khalidabuhakmeh.com/avoid-csharp-9-record-gotchas)
+- [Khalid Abuhakmeh - Getting Started With Entity Framework Core 5](https://blog.jetbrains.com/dotnet/2020/11/25/getting-started-with-entity-framework-core-5/)
 - [InfoQ - Deep Diving Into EF Core: Q&A With Jeremy Likness](https://www.infoq.com/articles/deep-diving-ef-core-jeremy-likness/)
 - [Ben Adams - Ben.Http](https://github.com/benaadams/Ben.Http)
 - [Blog Elmah - Using the new PriorityQueue from .NET 6](https://blog.elmah.io/using-the-new-priorityqueue-from-net-6/)
@@ -467,6 +491,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Birgitta Böckeler, Nina Siessegger - On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
 - [Adam Stepinski - Death by a Thousand Papercuts, and How to Avoid It](https://engineering.instawork.com/death-by-a-thousand-papercuts-and-how-to-avoid-it-d2f05070b339)
 - [Colin Breck - Engineering Management: Three Books and Three Videos](https://blog.colinbreck.com/engineering-management-three-books-and-three-videos/)
 - [Aaron Stannard - Professional Open Source: Maintaining API, Binary, and Wire Compatibility](https://aaronstannard.com/oss-compatibility-standards/)
@@ -554,6 +579,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## GO
+- [Peter Bourgon - Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/)
 - [Robert Pająk - Lessons Learned after 1 year of programming in Go as a C# developer](https://pajak.home.blog/2020/02/28/lessons-learned-after-1-year-of-programming-in-go-as-a-c-developer)
 
 ## Kotlin
@@ -566,6 +592,10 @@
 - [Jesse Howarth - Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
 - [Robert Krahn - Is Rust a Functional Programming Language?](https://robert.kra.hn/posts/2021-02-03_is-rust-fp/)
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
+
+## TypeScript
+- [Bruno Vegreville - Expressive error handling in TypeScript and benefits for domain-driven design](https://medium.com/inato/expressive-error-handling-in-typescript-and-benefits-for-domain-driven-design-70726e061c86)
+- [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Industry
 - [Scott Berkun - Why Bad CEOs Fear Remote Work](https://scottberkun.com/2021/why-bad-ceos-fear-remote-work/)
@@ -675,6 +705,8 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [WHO - Long working hours increasing deaths from heart disease and stroke](https://www.who.int/news/item/17-05-2021-long-working-hours-increasing-deaths-from-heart-disease-and-stroke-who-ilo)
+- [Fredrik Carleson - The Game Masters Framework for Software Development ](https://www.infoq.com/articles/games-masters-framework/)
 - [MecaHumArduino - AWS Solutions Architect Interview](https://www.youtube.com/watch?v=-92HD_Wv9Do)
 - [Sarah R. Barrett - Your Information Architecture is an Accessibility Problem](https://medium.com/known-item/your-information-architecture-is-an-accessibility-problem-cd54ae917f8e)
 - [Tomasz Onyszko - Digital Minimalism - removing myself (yourself) from social media game](https://www.onyszko.com/digital-minimalism/)
