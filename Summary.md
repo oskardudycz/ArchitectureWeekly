@@ -19,12 +19,13 @@
   - [Coding Life](#coding-life)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [TypeScript](#typescript)
+  - [NodeJS](#nodejs)
   - [Ruby](#ruby)
   - [Haskell](#haskell)
-  - [GO](#go)
+  - [Go](#go)
   - [Kotlin](#kotlin)
   - [Rust](#rust)
-  - [TypeScript](#typescript)
   - [Industry](#industry)
       - [Basecamp Drama](#basecamp-drama)
       - [ElasticSearch Licence change](#elasticsearch-licence-change)
@@ -36,6 +37,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Gojko Adzic - Facilitating Impact Mapping sessions](https://www.youtube.com/watch?v=ZgHkdJ6T8oQ)
+- [Kamil Grzybek - Feature Folders](http://www.kamilgrzybek.com/design/feature-folders/)
+- [Hanselminutes Podcast - Leslie Lamport](https://www.hanselminutes.com/790/leslie-lamport-in-partnership-with-acm-bytecast)
+- [Radosław Maziarka - Evolutionary Architecture from an Organizational Perspective](https://www.infoq.com/articles/evolutionary-architecture-organizational/)
+- [Open Source Society University - Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
+- [The Register - That Salesforce outage: Global DNS downfall started by one engineer trying a quick fix](https://www.theregister.com/AMP/2021/05/19/salesforce_root_cause)
 - [Dan Luu - A collection of postmortems](https://github.com/danluu/post-mortems)
 - [Kamil Grzybek - Modular Monolith Primer](https://www.kamilgrzybek.com/design/modular-monolith-primer/)
 - [Einar W. Høst - On the complexity of JSON serialization](https://einarwh.wordpress.com/2020/05/08/on-the-complexity-of-json-serialization/)
@@ -149,6 +156,9 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Aleksey Charapko - Metastable Failures in Distributed Systems](http://charap.co/metastable-failures-in-distributed-systems/)
+- [The Burning Monk - Choreography vs Orchestration in the land of serverless](https://theburningmonk.com/2020/08/choreography-vs-orchestration-in-the-land-of-serverless/)
+- [Wix Engineering - Wix's Journey Into Data Streams](https://www.wix.engineering/post/wix-s-journey-into-data-streams)
 - [Uber Engineering - Building Reliable Reprocessing and Dead Letter Queues with Apache Kafka](https://eng.uber.com/reliable-reprocessing/)
 - [Team Aspecto - Kafka vs RabbitMQ vs AWS SNS/SQS: Which Broker to Choose?](https://www.aspecto.io/blog/kafka-vs-rabbitmq-vs-aws-sns-sqs-which-broker-to-choose/)
 - [Justin Plock - Should My Startup use Kinesis or MSK?](https://www.youtube.com/watch?v=TJS19EuzH2k)
@@ -261,6 +271,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Lars Gyrup Brink Nielsen - Lean Angular components](https://dev.to/this-is-angular/lean-angular-components-1abl)
 - [Jeremy Keith - The principle of most availability](https://adactio.com/journal/17987)
 - [Adam Wathan - Just-In-Time: The Next Generation of Tailwind CSS](https://blog.tailwindcss.com/just-in-time-the-next-generation-of-tailwind-css)
 - [Google Developers - Announcing Flutter 2](https://developers.googleblog.com/2021/03/announcing-flutter-2.html)
@@ -362,6 +373,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Microsoft - Distribution of Microsoft Container Images via Docker Hub is retiring on June 30th, 2021](https://github.com/azure-deprecation/dashboard/issues/160)
+- [Gérald Barré - Finding concurrency bugs in a .NET application using Coyote](https://www.meziantou.net/finding-concurrency-bugs-in-a-dotnet-application-using-coyote.htm)
+- [Steve Gordon - Using DateOnly and TimeOnly in .NET 6](https://www.stevejgordon.co.uk/using-dateonly-and-timeonly-in-dotnet-6)
+- [Khalid Abuhakmeh - Working With .NET Console Host Lifetime Events](https://khalidabuhakmeh.com/working-with-dotnet-console-host-lifetime-events)
+- [.NET Blog - Announcing .NET 6 Preview 4](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-4/)
 - [Christian Zink - How to Build an Event-Driven ASP.NET Core Microservice Architecture](https://itnext.io/how-to-build-an-event-driven-asp-net-core-microservice-architecture-e0ef2976f33f)
 - [Scott Hanselman - Introducing The .NET Coding Pack for VS Code - Getting Started with C# for Beginners](https://www.hanselman.com/blog/introducing-the-net-coding-pack-for-vs-code-getting-started-with-c-for-beginners)
 - [Nick Randolph - The Future of Windows (and other Platforms) Development](https://www.infoq.com/articles/future-windows-other-platforms-development)
@@ -491,6 +507,13 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Simon Sinek - There's NO Such Thing as "Soft Skills"](https://www.youtube.com/watch?v=o9uzJ0LgvT0)
+- [Rafał Makara - Stress and metrics in tech companies](https://rmakara.github.io/Stress-and-metrics-in-tech-companies)
+- [Mathias Verraes - The "It's Just Like..." Heuristic](https://verraes.net/2021/05/its-just-like-heuristic/)
+- [Ela Mościcka - How to write a CV?](https://elaintech.com/2021/05/18/how-to-write-a-cv/)
+- [Nikita Skobov - Have you ever hurt yourself from your own code?](https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code)
+- [Microsoft - Application Development with Scott Hanselman & Friends](https://www.youtube.com/watch?app=desktop&v=EWYYgEkGJfs)
+- [Paul Ccari - How to become a better learner as a developer](https://dev.to/paulclindo/how-to-become-a-better-learner-as-a-developer-2h30)
 - [Birgitta Böckeler, Nina Siessegger - On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
 - [Adam Stepinski - Death by a Thousand Papercuts, and How to Avoid It](https://engineering.instawork.com/death-by-a-thousand-papercuts-and-how-to-avoid-it-d2f05070b339)
 - [Colin Breck - Engineering Management: Three Books and Three Videos](https://blog.colinbreck.com/engineering-management-three-books-and-three-videos/)
@@ -571,6 +594,13 @@
 - [Jonas Kello - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript](https://github.com/jonaskello/eslint-plugin-functional)
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
+## TypeScript
+- [Bruno Vegreville - Expressive error handling in TypeScript and benefits for domain-driven design](https://medium.com/inato/expressive-error-handling-in-typescript-and-benefits-for-domain-driven-design-70726e061c86)
+- [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
+
+## NodeJS
+- [Ákos Szokodi - How to Easily Set-up Node Config Following These Best Practices](https://codingsans.com/blog/node-config-best-practices)
+
 ## Ruby
 - [Remote Ruby - Hotwire, Rails NEXT, and the DHH Stack with David Heinemeier Hansson](https://remoteruby.transistor.fm/115)
 
@@ -578,7 +608,8 @@
 - [History of Haskell: Being Lazy With Class](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/history.pdf)
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
-## GO
+## Go
+- [Chewxy - How To Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
 - [Peter Bourgon - Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/)
 - [Robert Pająk - Lessons Learned after 1 year of programming in Go as a C# developer](https://pajak.home.blog/2020/02/28/lessons-learned-after-1-year-of-programming-in-go-as-a-c-developer)
 
@@ -592,10 +623,6 @@
 - [Jesse Howarth - Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
 - [Robert Krahn - Is Rust a Functional Programming Language?](https://robert.kra.hn/posts/2021-02-03_is-rust-fp/)
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
-
-## TypeScript
-- [Bruno Vegreville - Expressive error handling in TypeScript and benefits for domain-driven design](https://medium.com/inato/expressive-error-handling-in-typescript-and-benefits-for-domain-driven-design-70726e061c86)
-- [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Industry
 - [Scott Berkun - Why Bad CEOs Fear Remote Work](https://scottberkun.com/2021/why-bad-ceos-fear-remote-work/)
@@ -663,6 +690,7 @@
 - [Cindy Sridharan - Seamless file descriptor transfer between processes with pidfd and pidfd_getfd](https://copyconstruct.medium.com/seamless-file-descriptor-transfer-between-processes-with-pidfd-and-pidfd-getfd-816afcd19ed4)
 
 ## Windows
+- [Microsoft DevBlogs - Windows Package Manager 1.0](https://devblogs.microsoft.com/commandline/windows-package-manager-1-0/)
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools 
@@ -705,6 +733,8 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [Vice - Major Internet Projects Are Leaving Freenode After Korean Prince 'Takeover'](https://www.vice.com/amp/en/article/pkbgvg/major-internet-projects-are-leaving-freenode-after-korean-prince-takeover)
+- [Andreas Kling - I quit my job to focus on SerenityOS full time](https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/)
 - [WHO - Long working hours increasing deaths from heart disease and stroke](https://www.who.int/news/item/17-05-2021-long-working-hours-increasing-deaths-from-heart-disease-and-stroke-who-ilo)
 - [Fredrik Carleson - The Game Masters Framework for Software Development ](https://www.infoq.com/articles/games-masters-framework/)
 - [MecaHumArduino - AWS Solutions Architect Interview](https://www.youtube.com/watch?v=-92HD_Wv9Do)
