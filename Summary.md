@@ -22,6 +22,7 @@
   - [TypeScript](#typescript)
   - [NodeJS](#nodejs)
   - [Ruby](#ruby)
+  - [Erlang](#erlang)
   - [Haskell](#haskell)
   - [Go](#go)
   - [Kotlin](#kotlin)
@@ -37,6 +38,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Barry O'Reily - How to Implement Hypothesis-Driven Development](https://barryoreilly.com/explore/blog/how-to-implement-hypothesis-driven-development/)
+- [Google Open Source Blog - Introducing the Open Source Insights Project](https://opensource.googleblog.com/2021/06/introducing-open-source-insights-project.html)
+- [Vladimir Khorikov - DDD and bulk operations](https://enterprisecraftsmanship.com/posts/ddd-bulk-operations/)
+- [Aaron Stannard - Practical vs. Strict Semantic Versioning](https://aaronstannard.com/oss-semver/)
+- [Simon Wardley - How organisations are changing](https://swardley.medium.com/how-organisations-are-changing-cf80f3e2300)
 - [Gojko Adzic - Facilitating Impact Mapping sessions](https://www.youtube.com/watch?v=ZgHkdJ6T8oQ)
 - [Kamil Grzybek - Feature Folders](http://www.kamilgrzybek.com/design/feature-folders/)
 - [Hanselminutes Podcast - Leslie Lamport](https://www.hanselminutes.com/790/leslie-lamport-in-partnership-with-acm-bytecast)
@@ -156,6 +162,9 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Tim Berglund - Building Streaming Microservices with Apache Kafka](https://www.youtube.com/watch?v=mad84vBHYlY)
+- [Robin Moffatt - Kafka as a Platform: the Ecosystem from the Ground Up](https://talks.rmoff.net/tGa4A9/kafka-as-a-platform-the-ecosystem-from-the-ground-up)
+- [AWS Morning Brief - Networking in the Cloud Fundamentals, Part 2](https://www.lastweekinaws.com/podcast/aws-morning-brief/networking-in-the-cloud-fundamentals-part-2/)
 - [Aleksey Charapko - Metastable Failures in Distributed Systems](http://charap.co/metastable-failures-in-distributed-systems/)
 - [The Burning Monk - Choreography vs Orchestration in the land of serverless](https://theburningmonk.com/2020/08/choreography-vs-orchestration-in-the-land-of-serverless/)
 - [Wix Engineering - Wix's Journey Into Data Streams](https://www.wix.engineering/post/wix-s-journey-into-data-streams)
@@ -244,6 +253,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Last Week In AWS - The New Docker with Donnie Berkholz](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/the-new-docker-with-donnie-berkholz/)
 - [ProcMon for Linux - Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows](https://github.com/Sysinternals/ProcMon-for-Linux/)
 - [GitHub - Scaling monorepo maintenance](https://github.blog/2021-04-29-scaling-monorepo-maintenance)
 - [Michal Dorner - Test Reporter - Displays test results from popular testing frameworks directly in GitHub](https://github.com/dorny/test-reporter)
@@ -373,6 +383,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Alexey Golub - Monadic Comprehension Syntax via LINQ in C#](https://tyrrrz.me/blog/monadic-comprehension-via-linq)
+- [Aaron Stannard - .NET Open Source: What Happens When the Free Lunch Ends?](https://aaronstannard.com/dotnetoss-free-lunch-ends/)
+- [Anthony Chu - Rendering PDFs with Razor Templates and PuppeteerSharp in Azure Functions](https://anthonychu.ca/post/azure-functions-puppeteer-pdf-razor-template/)
+- [Maarten Balliauw - Building a supply chain attack with .NET, NuGet, DNS, source generators, and more!](https://blog.maartenballiauw.be/post/2021/05/05/building-a-supply-chain-attack-with-dotnet-nuget-dns-source-generators-and-more.html)
 - [Microsoft - Distribution of Microsoft Container Images via Docker Hub is retiring on June 30th, 2021](https://github.com/azure-deprecation/dashboard/issues/160)
 - [Gérald Barré - Finding concurrency bugs in a .NET application using Coyote](https://www.meziantou.net/finding-concurrency-bugs-in-a-dotnet-application-using-coyote.htm)
 - [Steve Gordon - Using DateOnly and TimeOnly in .NET 6](https://www.stevejgordon.co.uk/using-dateonly-and-timeonly-in-dotnet-6)
@@ -507,6 +521,10 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Matthieu Cneude - Active Listening for Developers](https://thevaluable.dev/active-listening-communication-developer/)
+- [Kevlin Henney - Need Something Sorted? Sleep on It!](https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914)
+- [Qntm - It's probably time to stop recommending Clean Code](https://qntm.org/clean)
+- [Reddit - Drunk Post: Things I've learned as a Sr Engineer](https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
 - [Simon Sinek - There's NO Such Thing as "Soft Skills"](https://www.youtube.com/watch?v=o9uzJ0LgvT0)
 - [Rafał Makara - Stress and metrics in tech companies](https://rmakara.github.io/Stress-and-metrics-in-tech-companies)
 - [Mathias Verraes - The "It's Just Like..." Heuristic](https://verraes.net/2021/05/its-just-like-heuristic/)
@@ -595,6 +613,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Pierre-Antoine Mills - How to master advanced TypeScript patterns](https://www.freecodecamp.org/news/typescript-curry-ramda-types-f747e99744ab/)
 - [Bruno Vegreville - Expressive error handling in TypeScript and benefits for domain-driven design](https://medium.com/inato/expressive-error-handling-in-typescript-and-benefits-for-domain-driven-design-70726e061c86)
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
@@ -604,11 +623,15 @@
 ## Ruby
 - [Remote Ruby - Hotwire, Rails NEXT, and the DHH Stack with David Heinemeier Hansson](https://remoteruby.transistor.fm/115)
 
+## Erlang
+- [Joe Armstrong - The development of Erlang](https://fermatslibrary.com/s/the-development-of-erlang)
+
 ## Haskell
 - [History of Haskell: Being Lazy With Class](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/history.pdf)
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Robert Laszczak - Introduction to DDD Lite: When microservices in Go are not enough](https://threedots.tech/post/ddd-lite-in-go-introduction/)
 - [Chewxy - How To Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
 - [Peter Bourgon - Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/)
 - [Robert Pająk - Lessons Learned after 1 year of programming in Go as a C# developer](https://pajak.home.blog/2020/02/28/lessons-learned-after-1-year-of-programming-in-go-as-a-c-developer)
@@ -625,6 +648,9 @@
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
 
 ## Industry
+- [Wall Street Journal - Stack Overflow acquired by Prosus for $1.8 Billion](https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400)
+- [Stackoverflow Blog - Prosus's Acquisition of Stack Overflow: Our Exciting Next Chapter](https://stackoverflow.blog/2021/06/02/prosus-acquires-stack-overflow/)
+- [Reuters - Cyberpunk maker reports slump in quarterly profit amid Playstation delisting](https://www.reuters.com/technology/cd-projekt-q1-net-profit-misses-expectations-2021-05-31/)
 - [Scott Berkun - Why Bad CEOs Fear Remote Work](https://scottberkun.com/2021/why-bad-ceos-fear-remote-work/)
 - [Washington Post - As a CEO, I worry about the erosion of office culture with more remote work](https://www.washingtonpost.com/opinions/2021/05/06/ceo-i-want-my-employees-understand-risks-not-returning-work-office/)
 - [Gizmodo - Signal Tries to Run the Most Honest Facebook Ad Campaign Ever, Immediately Gets Banned](https://gizmodo.com/signal-tried-to-run-the-most-honest-facebook-ad-campaig-1846823457)
@@ -698,6 +724,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Tech Monitor - AWS Customers are Opting in to Sharing AI Data Sets with Amazon Outside their Chosen Regions and Many Didn't Know](https://techmonitor.ai/techonology/cloud/aws-user-data)
 - [Gynvael Coldwin - Infosec Certificates, Playing Ctfs, Google's Ctf, and Getting Into Hacking](https://www.youtube.com/watch?v=iIaOqIHGpTc)
 - [Daniel Miessler - The Consumer Authentication Strength Maturity Model](https://danielmiessler.com/blog/casmm-consumer-authentication-security-maturity-model/)
 - [AWS - Evaluating access control methods to secure Amazon API Gateway APIs](https://aws.amazon.com/blogs/compute/evaluating-access-control-methods-to-secure-amazon-api-gateway-apis)
