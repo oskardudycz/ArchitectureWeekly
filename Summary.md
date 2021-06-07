@@ -523,7 +523,7 @@
 - [Scott Shipp - Why Senior Devs Write Dumb Code and How to Spot a Junior From A Mile Away](https://hackernoon.com/why-senior-devs-write-dumb-code-and-how-to-spot-a-junior-from-a-mile-away-27fa263b101a)
 - [Ben Selby - Logically atomic commits](https://benmatselby.dev/post/logical-commits/)
 - [Schema.org - a collection of structured data on the Internet](https://schema.org/docs/full.html)
-- [Alexis King - Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+- [Alexis King - Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - [StackOverflow Blog - How often do people actually copy and paste from Stack Overflow? Now we know](https://stackoverflow.blog/2021/04/19/how-often-do-people-actually-copy-and-paste-from-stack-overflow-now-we-know)
 - [Rich Hickey - Simple Made Easy](https://www.youtube.com/watch?v=oytL881p-nQ)
 - [Christoph Nakazawa - Inclusion in a Distributed World](https://cpojer.net/posts/inclusion-in-a-distributed-world)
