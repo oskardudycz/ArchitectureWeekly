@@ -1,3 +1,50 @@
 # Upcoming Links
 
 ## 14th June 2021
+
+### Architecture
+- [Edson Yanaga - Advanced Pipelines for Hypothesis Driven Development: Smart Routers](https://www.youtube.com/watch?v=-7P6NLjAIV4)
+- [Hillel Wayne - The Crossover Project](https://www.hillelwayne.com/tags/crossover-project/)
+- [Doug Putnam, Taylor Putnam-Majarian - The Most Common Reasons Why Software Projects Fail](https://www.infoq.com/articles/software-failure-reasons/)
+- [E. F. Codd - A Relational Model of Data for Large Shared Data Banks](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
+
+### DevOps
+- [Moby Buildkit - Dockerfile frontend syntaxes](https://github.com/moby/buildkit/blob/master/frontend/dockerfile/docs/syntax.md)
+
+### Databases
+- [MongoDB - Data Modeling](https://docs.mongodb.com/manual/core/data-modeling-introduction/)
+
+### Testing
+- [Martin Fowler - On the Diverse And Fantastical Shapes of Testing](https://martinfowler.com/articles/2021-test-shapes.html)
+
+### .NET
+- [.NET Rocks - Event Sourcing with Jeremy Miller](https://dotnetrocks.com/?show=1743)
+- [Dave Curylo - Farmer application with multiple resource groups and traffic manager](https://gist.github.com/ninjarobot/668bd5e3d2368391d51a08f357bd4d05)
+- [Richard Lander - Conversation about containers](https://devblogs.microsoft.com/dotnet/conversation-about-containers/)
+- [Richard Lander - Conversation about the .NET type system](https://devblogs.microsoft.com/dotnet/conversation-about-the-net-type-system/)
+
+### Java
+- [Gunnar Morling - Serverless Search for My Blog with Java, Quarkus & AWS Lambda](https://www.infoq.com/presentations/quarkus-java-serverless/)
+
+### NodeJS
+- [Alvin Lal - Single thread vs child process vs worker threads vs cluster in nodejs](https://alvinlal.netlify.app/blog/single-thread-vs-child-process-vs-worker-threads-vs-cluster-in-nodejs)
+- [Alberto Gimeno - Node.js multithreading: What are Worker threads, and why do they matter?](https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10/)
+
+### Rust
+- [Rocket - A web framework for Rust](https://rocket.rs/v0.5-rc/guide/overview/)
+
+### TypeScript
+- [Jesse Hallett - When to use `never` and `unknown` in TypeScript](https://blog.logrocket.com/when-to-use-never-and-unknown-in-typescript-5e4d6c5799ad/)
+- [Jaroslav Šmolík - Typescript: Function composition and recurrent types](https://medium.com/ackee/typescript-function-composition-and-recurrent-types-a9efbc8e7736)
+
+### Windows
+- [Dominik Jeske - Pimp my terminal](https://dominikjeske.github.io/pimp-my-terminal/)
+- [Piotr Stapp - 6 steps to pimp my terminal](https://stapp.space/few-steps-to-pimp-my-terminal/)
+
+### Coding Life
+- [Gandalf Hudlow - Developers can't fix bad management](https://iism.org/article/developers-can-t-fix-bad-management-57)
+- [Camille Fournier - An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
+- [Fastly - Summary of June 8 outage](https://www.fastly.com/blog/summary-of-june-8-outage)
+- [Max Rozen - What the Fastly outage can teach us about writing error messages](https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages)
+- [Adrian Tarnowski - How Best To Delegate Work And Free Up Your Time As a Tech Leader](https://techleaderjourney.com/how-best-to-delegate-work-and-free-up-your-time-as-a-tech-leader/)
+- [George Dinwiddie - Software Estimation Without Guessing](https://www.pragprog.com/titles/gdestimate/software-estimation-without-guessing/)
