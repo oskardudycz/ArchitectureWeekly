@@ -38,6 +38,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Edson Yanaga - Advanced Pipelines for Hypothesis Driven Development: Smart Routers](https://www.youtube.com/watch?v=-7P6NLjAIV4)
+- [Hillel Wayne - The Crossover Project](https://www.hillelwayne.com/tags/crossover-project/)
+- [Doug Putnam, Taylor Putnam-Majarian - The Most Common Reasons Why Software Projects Fail](https://www.infoq.com/articles/software-failure-reasons/)
+- [E. F. Codd - A Relational Model of Data for Large Shared Data Banks](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
 - [Barry O'Reily - How to Implement Hypothesis-Driven Development](https://barryoreilly.com/explore/blog/how-to-implement-hypothesis-driven-development/)
 - [Google Open Source Blog - Introducing the Open Source Insights Project](https://opensource.googleblog.com/2021/06/introducing-open-source-insights-project.html)
 - [Vladimir Khorikov - DDD and bulk operations](https://enterprisecraftsmanship.com/posts/ddd-bulk-operations/)
@@ -253,6 +257,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Moby Buildkit - Dockerfile frontend syntaxes](https://github.com/moby/buildkit/blob/master/frontend/dockerfile/docs/syntax.md)
 - [Last Week In AWS - The New Docker with Donnie Berkholz](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/the-new-docker-with-donnie-berkholz/)
 - [ProcMon for Linux - Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows](https://github.com/Sysinternals/ProcMon-for-Linux/)
 - [GitHub - Scaling monorepo maintenance](https://github.blog/2021-04-29-scaling-monorepo-maintenance)
@@ -308,6 +313,7 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Martin Fowler - On the Diverse And Fantastical Shapes of Testing](https://martinfowler.com/articles/2021-test-shapes.html)
 - [Postman - Running collections on the command line with Newman](https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/)
 - [Nicole Rauch - Beyond Consumer-Driven Contract Testing](https://www.youtube.com/watch?v=n5QFe6uwWHI)
 - [Liran Tal - A Comprehensive Guide to Contract Testing APIs in a Service Oriented Architecture](https://lirantal.medium.com/a-comprehensive-guide-to-contract-testing-apis-in-a-service-oriented-architecture-5695ccf9ac5a)
@@ -330,6 +336,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [MongoDB - Data Modeling](https://docs.mongodb.com/manual/core/data-modeling-introduction/)
 - [DataStax Developers - NoSQL Day!](https://www.youtube.com/watch?v=S39NEt0Ykf0)
 - [Mark Callaghan - Read, write & space amplification - pick 2](http://smalldatum.blogspot.com/2015/11/read-write-space-amplification-pick-2_23.html)
 - [Adam Cover - Build a Database Pt. 1: Motivation & Design](https://adambcomer.com/blog/simple-database/motivation-design/)
@@ -383,6 +390,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [.NET Rocks - Event Sourcing with Jeremy Miller](https://dotnetrocks.com/?show=1743)
+- [Dave Curylo - Farmer application with multiple resource groups and traffic manager](https://gist.github.com/ninjarobot/668bd5e3d2368391d51a08f357bd4d05)
+- [Richard Lander - Conversation about containers](https://devblogs.microsoft.com/dotnet/conversation-about-containers/)
+- [Richard Lander - Conversation about the .NET type system](https://devblogs.microsoft.com/dotnet/conversation-about-the-net-type-system/)
 - [Alexey Golub - Monadic Comprehension Syntax via LINQ in C#](https://tyrrrz.me/blog/monadic-comprehension-via-linq)
 - [Aaron Stannard - .NET Open Source: What Happens When the Free Lunch Ends?](https://aaronstannard.com/dotnetoss-free-lunch-ends/)
 - [Anthony Chu - Rendering PDFs with Razor Templates and PuppeteerSharp in Azure Functions](https://anthonychu.ca/post/azure-functions-puppeteer-pdf-razor-template/)
@@ -521,6 +532,13 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Gandalf Hudlow - Developers can't fix bad management](https://iism.org/article/developers-can-t-fix-bad-management-57)
+- [Camille Fournier - An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
+- [Fastly - Summary of June 8 outage](https://www.fastly.com/blog/summary-of-june-8-outage)
+- [Dylan Beattie - Fastly outage and why devs are terrible at error messages](https://twitter.com/dylanbeattie/status/1402252525496045574)
+- [Max Rozen - What the Fastly outage can teach us about writing error messages](https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages)
+- [Adrian Tarnowski - How Best To Delegate Work And Free Up Your Time As a Tech Leader](https://techleaderjourney.com/how-best-to-delegate-work-and-free-up-your-time-as-a-tech-leader/)
+- [George Dinwiddie - Software Estimation Without Guessing](https://www.pragprog.com/titles/gdestimate/software-estimation-without-guessing/)
 - [Matthieu Cneude - Active Listening for Developers](https://thevaluable.dev/active-listening-communication-developer/)
 - [Kevlin Henney - Need Something Sorted? Sleep on It!](https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914)
 - [Qntm - It's probably time to stop recommending Clean Code](https://qntm.org/clean)
@@ -601,6 +619,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Java
+- [Gunnar Morling - Serverless Search for My Blog with Java, Quarkus & AWS Lambda](https://www.infoq.com/presentations/quarkus-java-serverless/)
 - [Mario Wolto - Non-Volatile Memory and Java](https://medium.com/@mwolczko/non-volatile-memory-and-java-7ba80f1e730c)
 - [Dávid Csákvári - A categorized list of all Java and JVM features since JDK 8 to 16](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/)
 - [Microsoft Blogs - Announcing Preview of Microsoft Build of OpenJDK](https://devblogs.microsoft.com/java/announcing-preview-of-microsoft-build-of-openjdk/)
@@ -613,11 +632,15 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Jesse Hallett - When to use `never` and `unknown` in TypeScript](https://blog.logrocket.com/when-to-use-never-and-unknown-in-typescript-5e4d6c5799ad/)
+- [Jaroslav Šmolík - Typescript: Function composition and recurrent types](https://medium.com/ackee/typescript-function-composition-and-recurrent-types-a9efbc8e7736)
 - [Pierre-Antoine Mills - How to master advanced TypeScript patterns](https://www.freecodecamp.org/news/typescript-curry-ramda-types-f747e99744ab/)
 - [Bruno Vegreville - Expressive error handling in TypeScript and benefits for domain-driven design](https://medium.com/inato/expressive-error-handling-in-typescript-and-benefits-for-domain-driven-design-70726e061c86)
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## NodeJS
+- [Alvin Lal - Single thread vs child process vs worker threads vs cluster in nodejs](https://alvinlal.netlify.app/blog/single-thread-vs-child-process-vs-worker-threads-vs-cluster-in-nodejs)
+- [Alberto Gimeno - Node.js multithreading: What are Worker threads, and why do they matter?](https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10/)
 - [Ákos Szokodi - How to Easily Set-up Node Config Following These Best Practices](https://codingsans.com/blog/node-config-best-practices)
 
 ## Ruby
@@ -640,6 +663,7 @@
 - [Simon Vergauwen - Functional Domain Modeling in Kotlin - Validation](https://www.47deg.com/blog/functional-domain-modeling-part-2/)
 
 ## Rust
+- [Rocket - A web framework for Rust](https://rocket.rs/v0.5-rc/guide/overview/)
 - [Facebook Joins the Rust Foundation](https://developers.facebook.com/blog/post/2021/04/29/facebook-joins-rust-foundation/)
 - [Jon Nadal - Building Distributed Systems With Stateright](https://www.youtube.com/watch?v=IXCS4r19Q5A)
 - [Kornelski - Speed of Rust vs C](https://kornel.ski/rust-c-speed)
@@ -716,6 +740,8 @@
 - [Cindy Sridharan - Seamless file descriptor transfer between processes with pidfd and pidfd_getfd](https://copyconstruct.medium.com/seamless-file-descriptor-transfer-between-processes-with-pidfd-and-pidfd-getfd-816afcd19ed4)
 
 ## Windows
+- [Dominik Jeske - Pimp my terminal](https://dominikjeske.github.io/pimp-my-terminal/)
+- [Piotr Stapp - 6 steps to pimp my terminal](https://stapp.space/few-steps-to-pimp-my-terminal/)
 - [Microsoft DevBlogs - Windows Package Manager 1.0](https://devblogs.microsoft.com/commandline/windows-package-manager-1-0/)
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
