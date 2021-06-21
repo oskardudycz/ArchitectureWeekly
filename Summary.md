@@ -27,6 +27,7 @@
   - [Go](#go)
   - [Kotlin](#kotlin)
   - [Rust](#rust)
+  - [Swift](#swift)
   - [Industry](#industry)
       - [Basecamp Drama](#basecamp-drama)
       - [ElasticSearch Licence change](#elasticsearch-licence-change)
@@ -38,6 +39,18 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Mathias Verraes - Splitting a Domain Across Multiple Bounded Contexts](https://verraes.net/2021/06/split-domain-across-bounded-contexts/)
+- [Mathias Verraes - Passage of Time Event](https://verraes.net/2019/05/patterns-for-decoupling-distsys-passage-of-time-event/)
+- [Iskander Samatov - Scale your app better with Scaling Cube](https://isamatov.com/scale-your-app-better-with-scaling-cube/)
+- [Harish V - What Exactly Is Database Sharding?](https://betterprogramming.pub/what-exactly-is-database-sharding-ca618a2cbb9a)
+- [Madhukar Anand - Hierarchical State Machines - a Fundamentally Important Way of Design](https://www.cis.upenn.edu/~lee/06cse480/lec-HSM.pdf)
+- [Lindsey Kuper - CSE138 (Distributed Systems) L6: Chandy-Lamport snapshot algorithm](https://www.youtube.com/watch?v=WK3FuD7f9g8)
+- [Szymon Kulec - Betting for the Future](https://blog.scooletz.com/2021/05/31/betting-for-the-future)
+- [Alberto Brandolini - Domain-Driven Design in 2020](https://blog.avanscoperta.it/2020/08/04/domain-driven-design-in-2020/)
+- [Async API - Open source tools to easily build and maintain your event-driven architecture](https://www.asyncapi.com/)
+- [Richard P. Gabriel - Objects Have Failed](https://dreamsongs.com/Files/ObjectsHaveFailed.pdf)
+- [Yves Goeleven - Business Capability Mapping](https://www.goeleven.com/blog/business-capability-mapping/)
+- [Eric Evans - DDD Reference](https://www.domainlanguage.com/ddd/reference/)
 - [Edson Yanaga - Advanced Pipelines for Hypothesis Driven Development: Smart Routers](https://www.youtube.com/watch?v=-7P6NLjAIV4)
 - [Hillel Wayne - The Crossover Project](https://www.hillelwayne.com/tags/crossover-project/)
 - [Doug Putnam, Taylor Putnam-Majarian - The Most Common Reasons Why Software Projects Fail](https://www.infoq.com/articles/software-failure-reasons/)
@@ -166,6 +179,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Venture Beat - DataStax throws weight behind Pulsar messaging platform to kill Kafka](https://venturebeat.com/2021/06/15/datastax-throws-weight-behind-pulsar-messaging-platform-to-kill-kafka/amp/)
+- [Hugo Guerrero - Event-driven APIs and schema governance for Apache Kafka: Get ready for Kafka Summit Europe 2021](https://developers.redhat.com/blog/2021/05/04/event-driven-apis-and-schema-governance-for-apache-kafka-get-ready-for-kafka-summit-europe-2021#)
 - [Tim Berglund - Building Streaming Microservices with Apache Kafka](https://www.youtube.com/watch?v=mad84vBHYlY)
 - [Robin Moffatt - Kafka as a Platform: the Ecosystem from the Ground Up](https://talks.rmoff.net/tGa4A9/kafka-as-a-platform-the-ecosystem-from-the-ground-up)
 - [AWS Morning Brief - Networking in the Cloud Fundamentals, Part 2](https://www.lastweekinaws.com/podcast/aws-morning-brief/networking-in-the-cloud-fundamentals-part-2/)
@@ -390,6 +405,12 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Christian Zink - How to use Database Sharding and Scale an ASP.NET Core Microservice Architecture](https://itnext.io/how-to-use-database-sharding-and-scale-an-asp-net-core-microservice-architecture-22c24916590f)
+- [Bartosz Sypytkowski - Writing high performance F# code](https://bartoszsypytkowski.com/writing-high-performance-f-code/)
+- [.NET Blog - Migration of Bing’s Workflow Engine to .NET 5](https://devblogs.microsoft.com/dotnet/migration-of-bings-workflow-engine-to-net-5/)
+- [.NET Blog - Announcing .NET 6 Preview 5](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-5/)
+- [Scott Hanselman - dotnet repl](https://www.hanselman.com/blog/dotnet-repl)
+- [Khalid Abuhakmeh - C# Pattern Matching Quick Guide And Examples](https://khalidabuhakmeh.com/csharp-pattern-matching-quick-guide-and-examples)
 - [.NET Rocks - Event Sourcing with Jeremy Miller](https://dotnetrocks.com/?show=1743)
 - [Dave Curylo - Farmer application with multiple resource groups and traffic manager](https://gist.github.com/ninjarobot/668bd5e3d2368391d51a08f357bd4d05)
 - [Richard Lander - Conversation about containers](https://devblogs.microsoft.com/dotnet/conversation-about-containers/)
@@ -532,6 +553,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Productivity & Engineering Podcast - Being on Call Doesn't Have to Suck With Charity Majors](https://www.buzzsprout.com/945931/8638337-being-on-call-doesn-t-have-to-suck-with-charity-majors)
+- [Ela Mościcka - Job search preparation checklist](https://elaintech.com/2021/06/14/job-search-preparation-checklist/)
 - [Gandalf Hudlow - Developers can't fix bad management](https://iism.org/article/developers-can-t-fix-bad-management-57)
 - [Camille Fournier - An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
 - [Fastly - Summary of June 8 outage](https://www.fastly.com/blog/summary-of-june-8-outage)
@@ -628,6 +651,7 @@
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
 ## JavaScript
+- [The New Stack - ECMAScript 2021: What’s Next for JavaScript?](https://thenewstack.io/ecmascript-2021-whats-next-for-javascript-webassembly/)
 - [Jonas Kello - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript](https://github.com/jonaskello/eslint-plugin-functional)
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
@@ -639,6 +663,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## NodeJS
+- [Mark Michon - Add Retries to Your API Calls](https://blog.bearer.sh/add-retry-to-api-calls-javascript-node/)
 - [Alvin Lal - Single thread vs child process vs worker threads vs cluster in nodejs](https://alvinlal.netlify.app/blog/single-thread-vs-child-process-vs-worker-threads-vs-cluster-in-nodejs)
 - [Alberto Gimeno - Node.js multithreading: What are Worker threads, and why do they matter?](https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10/)
 - [Ákos Szokodi - How to Easily Set-up Node Config Following These Best Practices](https://codingsans.com/blog/node-config-best-practices)
@@ -670,6 +695,9 @@
 - [Jesse Howarth - Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
 - [Robert Krahn - Is Rust a Functional Programming Language?](https://robert.kra.hn/posts/2021-02-03_is-rust-fp/)
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
+
+## Swift
+- [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
 - [Wall Street Journal - Stack Overflow acquired by Prosus for $1.8 Billion](https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400)
@@ -786,6 +814,7 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [Wired - How Roblox Became a Playground for Virtual Fascists](https://www.wired.com/story/roblox-online-games-irl-fascism-roman-empire)
 - [Vice - Major Internet Projects Are Leaving Freenode After Korean Prince 'Takeover'](https://www.vice.com/amp/en/article/pkbgvg/major-internet-projects-are-leaving-freenode-after-korean-prince-takeover)
 - [Andreas Kling - I quit my job to focus on SerenityOS full time](https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/)
 - [WHO - Long working hours increasing deaths from heart disease and stroke](https://www.who.int/news/item/17-05-2021-long-working-hours-increasing-deaths-from-heart-disease-and-stroke-who-ilo)
