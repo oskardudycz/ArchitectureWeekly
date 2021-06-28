@@ -39,6 +39,7 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Simon Willison - Notes on streaming large API responses](https://simonwillison.net/2021/Jun/25/streaming-large-api-responses/)
 - [Mathias Verraes - Splitting a Domain Across Multiple Bounded Contexts](https://verraes.net/2021/06/split-domain-across-bounded-contexts/)
 - [Mathias Verraes - Passage of Time Event](https://verraes.net/2019/05/patterns-for-decoupling-distsys-passage-of-time-event/)
 - [Iskander Samatov - Scale your app better with Scaling Cube](https://isamatov.com/scale-your-app-better-with-scaling-cube/)
@@ -179,6 +180,9 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Arup  Acharya,  B. R.  Badrinath - Recording Distributed Snapshots Based on Causal Order of Message Delivery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.37.2351&rep=rep1&type=pdf)
+- [Oren Eini - The cost of the cloud](https://ayende.com/blog/193985-A/the-cost-of-the-cloud)
+- [JAXenter - Akka Serverless is really the first of its kind](https://jaxenter.com/akka-serverless-interview-174709.html)
 - [Venture Beat - DataStax throws weight behind Pulsar messaging platform to kill Kafka](https://venturebeat.com/2021/06/15/datastax-throws-weight-behind-pulsar-messaging-platform-to-kill-kafka/)
 - [Hugo Guerrero - Event-driven APIs and schema governance for Apache Kafka: Get ready for Kafka Summit Europe 2021](https://developers.redhat.com/blog/2021/05/04/event-driven-apis-and-schema-governance-for-apache-kafka-get-ready-for-kafka-summit-europe-2021#)
 - [Tim Berglund - Building Streaming Microservices with Apache Kafka](https://www.youtube.com/watch?v=mad84vBHYlY)
@@ -272,6 +276,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [InfoQ - Terraform 1.0 Release Adds Stability Guarantees and an Improved Upgrade Experience](https://www.infoq.com/news/2021/06/terraform-1-0/)
+- [AWS - Introducing a Public Registry for AWS CloudFormation](https://aws.amazon.com/blogs/aws/introducing-a-public-registry-for-aws-cloudformation/)
 - [Moby Buildkit - Dockerfile frontend syntaxes](https://github.com/moby/buildkit/blob/master/frontend/dockerfile/docs/syntax.md)
 - [Last Week In AWS - The New Docker with Donnie Berkholz](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/the-new-docker-with-donnie-berkholz/)
 - [ProcMon for Linux - Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows](https://github.com/Sysinternals/ProcMon-for-Linux/)
@@ -351,6 +357,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [David Tippett - The Difference Between Elasticsearch, Open Distro, and OpenSearch](https://aws.plainenglish.io/the-difference-between-elasticsearch-open-distro-and-opensearch-d43c9a2c31b1)
+- [Event Store - Event Store Cloud has entered GA](https://www.eventstore.com/blog/event-store-cloud-has-entered-ga)
 - [MongoDB - Data Modeling](https://docs.mongodb.com/manual/core/data-modeling-introduction/)
 - [DataStax Developers - NoSQL Day!](https://www.youtube.com/watch?v=S39NEt0Ykf0)
 - [Mark Callaghan - Read, write & space amplification - pick 2](http://smalldatum.blogspot.com/2015/11/read-write-space-amplification-pick-2_23.html)
@@ -385,6 +393,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [IBM - Project CodeNet: A Large-Scale AI for Code Dataset for Learning a Diversity of Coding Tasks](https://raw.githubusercontent.com/IBM/Project_CodeNet/main/ProjectCodeNet.pdf)
 - [Benedict Evans - Notes on AI Bias](https://www.ben-evans.com/benedictevans/2019/4/15/notes-on-ai-bias)
 - [Mohamed Trabelsi - Neural Ranking Models for Document Retrieval](https://deepai.org/publication/neural-ranking-models-for-document-retrieval)
 - [Facebook AI - Deep learning to translate between programming languages](https://ai.facebook.com/blog/deep-learning-to-translate-between-programming-languages/)
@@ -405,6 +414,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Have I Been Pwned - Code Repositories](https://github.com/HaveIBeenPwned/)
+- [Dody Gunawinata - Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0 and 6.0 Preview 5 projects you can use](https://github.com/dodyg/practical-aspnetcore)
+- [Ian Russell - Introduction to Functional Programming in F#](https://www.softwarepark.cc/blog/2020/8/9/introduction-to-functional-programming-in-f-table-of-contents)
+- [Antão Almada - Array iteration performance in C#](https://antao-almada.medium.com/array-iteration-performance-in-c-f9801a2c7a3c)
+- [Antão Almada - Array iteration performance in C# — ArraySegment<T>](https://antao-almada.medium.com/array-iteration-performance-in-c-arraysegment-t-c4de8022bf8f)
 - [Christian Zink - How to use Database Sharding and Scale an ASP.NET Core Microservice Architecture](https://itnext.io/how-to-use-database-sharding-and-scale-an-asp-net-core-microservice-architecture-22c24916590f)
 - [Bartosz Sypytkowski - Writing high performance F# code](https://bartoszsypytkowski.com/writing-high-performance-f-code/)
 - [.NET Blog - Migration of Bing's Workflow Engine to .NET 5](https://devblogs.microsoft.com/dotnet/migration-of-bings-workflow-engine-to-net-5/)
@@ -553,6 +567,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Mark Seemann - Agile pull requests](https://blog.ploeh.dk/2021/06/21/agile-pull-requests/)
+- [Anastasia - How to Prevent or Recover from Developer Burnout](https://dev.to/actitime/how-to-prevent-or-recover-from-developer-burnout-3g5f)
 - [Productivity & Engineering Podcast - Being on Call Doesn't Have to Suck With Charity Majors](https://www.buzzsprout.com/945931/8638337-being-on-call-doesn-t-have-to-suck-with-charity-majors)
 - [Ela Mościcka - Job search preparation checklist](https://elaintech.com/2021/06/14/job-search-preparation-checklist/)
 - [Gandalf Hudlow - Developers can't fix bad management](https://iism.org/article/developers-can-t-fix-bad-management-57)
@@ -688,6 +704,7 @@
 - [Simon Vergauwen - Functional Domain Modeling in Kotlin - Validation](https://www.47deg.com/blog/functional-domain-modeling-part-2/)
 
 ## Rust
+- [Luca Palmieri - Error Handling In Rust - A Deep Dive](https://www.lpalmieri.com/posts/error-handling-rust/)
 - [Rocket - A web framework for Rust](https://rocket.rs/v0.5-rc/guide/overview/)
 - [Facebook Joins the Rust Foundation](https://developers.facebook.com/blog/post/2021/04/29/facebook-joins-rust-foundation/)
 - [Jon Nadal - Building Distributed Systems With Stateright](https://www.youtube.com/watch?v=IXCS4r19Q5A)
@@ -700,6 +717,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Jared A. Brock - Tesla Is Dead (And Elon Musk Knows It)](https://medium.com/surviving-tomorrow/tesla-is-dead-and-elon-musk-probably-knows-it-2858c86589d0)
 - [Wall Street Journal - Stack Overflow acquired by Prosus for $1.8 Billion](https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400)
 - [Stackoverflow Blog - Prosus's Acquisition of Stack Overflow: Our Exciting Next Chapter](https://stackoverflow.blog/2021/06/02/prosus-acquires-stack-overflow/)
 - [Reuters - Cyberpunk maker reports slump in quarterly profit amid Playstation delisting](https://www.reuters.com/technology/cd-projekt-q1-net-profit-misses-expectations-2021-05-31/)
@@ -768,6 +786,10 @@
 - [Cindy Sridharan - Seamless file descriptor transfer between processes with pidfd and pidfd_getfd](https://copyconstruct.medium.com/seamless-file-descriptor-transfer-between-processes-with-pidfd-and-pidfd-getfd-816afcd19ed4)
 
 ## Windows
+- [Robert C. Maehl - Why Not Win11 - Detection Script to help identify why your PC isn't Windows 11 ready](https://github.com/rcmaehl/WhyNotWin11)
+- [NTDEV - State of the Windows, part 2: Did Windows 10 slow down with each feature update?](https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/)
+- [Microsoft - What Windows 11 Means for Developers](https://blogs.windows.com/windowsdeveloper/2021/06/24/what-windows-11-means-for-developers/)
+- [Amazon - Amazon and Microsoft create new opportunities for developers and increase return on investment in the Amazon Appstore](https://developer.amazon.com/blogs/appstore/post/a7583854-9367-4480-99c4-15f91456558c/amazon-and-microsoft-create-new-opportunities-for-developers-and-increase-return-on-investment-in-the-amazon-appstore)
 - [Dominik Jeske - Pimp my terminal](https://dominikjeske.github.io/pimp-my-terminal/)
 - [Piotr Stapp - 6 steps to pimp my terminal](https://stapp.space/few-steps-to-pimp-my-terminal/)
 - [Microsoft DevBlogs - Windows Package Manager 1.0](https://devblogs.microsoft.com/commandline/windows-package-manager-1-0/)
@@ -778,6 +800,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Google - Zanzibar: Google's Consistent, Global Authorization System](https://research.google/pubs/pub48190)
 - [Tech Monitor - AWS Customers are Opting in to Sharing AI Data Sets with Amazon Outside their Chosen Regions and Many Didn't Know](https://techmonitor.ai/techonology/cloud/aws-user-data)
 - [Gynvael Coldwin - Infosec Certificates, Playing Ctfs, Google's Ctf, and Getting Into Hacking](https://www.youtube.com/watch?v=iIaOqIHGpTc)
 - [Daniel Miessler - The Consumer Authentication Strength Maturity Model](https://danielmiessler.com/blog/casmm-consumer-authentication-security-maturity-model/)
