@@ -179,7 +179,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
-- [Venture Beat - DataStax throws weight behind Pulsar messaging platform to kill Kafka](https://venturebeat.com/2021/06/15/datastax-throws-weight-behind-pulsar-messaging-platform-to-kill-kafka/amp/)
+- [Venture Beat - DataStax throws weight behind Pulsar messaging platform to kill Kafka](https://venturebeat.com/2021/06/15/datastax-throws-weight-behind-pulsar-messaging-platform-to-kill-kafka/)
 - [Hugo Guerrero - Event-driven APIs and schema governance for Apache Kafka: Get ready for Kafka Summit Europe 2021](https://developers.redhat.com/blog/2021/05/04/event-driven-apis-and-schema-governance-for-apache-kafka-get-ready-for-kafka-summit-europe-2021#)
 - [Tim Berglund - Building Streaming Microservices with Apache Kafka](https://www.youtube.com/watch?v=mad84vBHYlY)
 - [Robin Moffatt - Kafka as a Platform: the Ecosystem from the Ground Up](https://talks.rmoff.net/tGa4A9/kafka-as-a-platform-the-ecosystem-from-the-ground-up)
@@ -407,7 +407,7 @@
 ## .NET
 - [Christian Zink - How to use Database Sharding and Scale an ASP.NET Core Microservice Architecture](https://itnext.io/how-to-use-database-sharding-and-scale-an-asp-net-core-microservice-architecture-22c24916590f)
 - [Bartosz Sypytkowski - Writing high performance F# code](https://bartoszsypytkowski.com/writing-high-performance-f-code/)
-- [.NET Blog - Migration of Bing’s Workflow Engine to .NET 5](https://devblogs.microsoft.com/dotnet/migration-of-bings-workflow-engine-to-net-5/)
+- [.NET Blog - Migration of Bing's Workflow Engine to .NET 5](https://devblogs.microsoft.com/dotnet/migration-of-bings-workflow-engine-to-net-5/)
 - [.NET Blog - Announcing .NET 6 Preview 5](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-5/)
 - [Scott Hanselman - dotnet repl](https://www.hanselman.com/blog/dotnet-repl)
 - [Khalid Abuhakmeh - C# Pattern Matching Quick Guide And Examples](https://khalidabuhakmeh.com/csharp-pattern-matching-quick-guide-and-examples)
@@ -651,7 +651,7 @@
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
 ## JavaScript
-- [The New Stack - ECMAScript 2021: What’s Next for JavaScript?](https://thenewstack.io/ecmascript-2021-whats-next-for-javascript-webassembly/)
+- [The New Stack - ECMAScript 2021: What's Next for JavaScript?](https://thenewstack.io/ecmascript-2021-whats-next-for-javascript-webassembly/)
 - [Jonas Kello - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript](https://github.com/jonaskello/eslint-plugin-functional)
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
