@@ -39,6 +39,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Miguel Garcia - Data Platform as a Service](https://dzone.com/articles/data-platform-as-a-service)
+- [Krzysztof 'Chris' Daniel - My journey through Wardley Mapping ~mistakes mostly~](https://www.youtube.com/watch?v=3aZk7XDamSo)
+- [Mitch Seymour - Gently Down the Stream. A gentle introduction to Apache Kafka](https://www.gentlydownthe.stream/)
+- [Martin Fowler - Hybrid Clock](https://martinfowler.com/articles/patterns-of-distributed-systems/hybrid-clock.html)
+- [Eric Elliott - The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
+- [Duncan Jones - Introduction to event sourcing and CQRS](https://www.youtube.com/watch?v=kpM5gCLF1Zc)
 - [Simon Willison - Notes on streaming large API responses](https://simonwillison.net/2021/Jun/25/streaming-large-api-responses/)
 - [Mathias Verraes - Splitting a Domain Across Multiple Bounded Contexts](https://verraes.net/2021/06/split-domain-across-bounded-contexts/)
 - [Mathias Verraes - Passage of Time Event](https://verraes.net/2019/05/patterns-for-decoupling-distsys-passage-of-time-event/)
@@ -180,6 +186,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Corey Quinn - The Cloud Genie](https://www.lastweekinaws.com/blog/the-cloud-genie/)
 - [Arup  Acharya,  B. R.  Badrinath - Recording Distributed Snapshots Based on Causal Order of Message Delivery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.37.2351&rep=rep1&type=pdf)
 - [Oren Eini - The cost of the cloud](https://ayende.com/blog/193985-A/the-cost-of-the-cloud)
 - [JAXenter - Akka Serverless is really the first of its kind](https://jaxenter.com/akka-serverless-interview-174709.html)
@@ -357,6 +364,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Percona - A Spotlight on the Security of Your MongoDB Database](https://www.percona.com/blog/2020/05/28/mongodb-why-pay-for-enterprise-when-open-source-has-you-covered/)
+- [Percona - Autoscaling Databases in Kubernetes for MongoDB, MySQL, and PostgreSQL](https://www.percona.com/blog/2021/06/23/autoscaling-databases-in-kubernetes-for-mongodb-mysql-and-postgresql)
 - [David Tippett - The Difference Between Elasticsearch, Open Distro, and OpenSearch](https://aws.plainenglish.io/the-difference-between-elasticsearch-open-distro-and-opensearch-d43c9a2c31b1)
 - [Event Store - Event Store Cloud has entered GA](https://www.eventstore.com/blog/event-store-cloud-has-entered-ga)
 - [MongoDB - Data Modeling](https://docs.mongodb.com/manual/core/data-modeling-introduction/)
@@ -414,6 +423,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Maoni Stephens - .NET Memory Performance Analysis](https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md)
+- [.NET Blog - Package Validation](https://devblogs.microsoft.com/dotnet/package-validation/)
+- [Gunnar Peipman - Cost of exceptions](https://gunnarpeipman.com/cost-of-exceptions/)
+- [Khalid Abuhakmeh - Must-have JetBrains Rider Plugins For ASP.NET Core Developers](https://blog.jetbrains.com/dotnet/2021/06/08/must-have-jetbrains-rider-plugins-for-asp-net-core-developers/)
+- [Romans Pokrovskis - Turn Swagger Theme to the Dark Mode](https://amoenus.dev/swagger-dark-theme)
 - [Have I Been Pwned - Code Repositories](https://github.com/HaveIBeenPwned/)
 - [Dody Gunawinata - Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0 and 6.0 Preview 5 projects you can use](https://github.com/dodyg/practical-aspnetcore)
 - [Ian Russell - Introduction to Functional Programming in F#](https://www.softwarepark.cc/blog/2020/8/9/introduction-to-functional-programming-in-f-table-of-contents)
@@ -567,6 +581,10 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Gergely Orosz - The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
+- [Tim Cochran - Maximizing Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html)
+- [The Hosk - Software development is a loser's game](https://thehosk.medium.com/software-development-is-a-losers-game-fc68bb30d7eb)
+- [Geepaw Hill - An Intro to Spikes](https://www.geepawhill.org/2020/06/02/an-intro-to-spikes/)
 - [Mark Seemann - Agile pull requests](https://blog.ploeh.dk/2021/06/21/agile-pull-requests/)
 - [Anastasia - How to Prevent or Recover from Developer Burnout](https://dev.to/actitime/how-to-prevent-or-recover-from-developer-burnout-3g5f)
 - [Productivity & Engineering Podcast - Being on Call Doesn't Have to Suck With Charity Majors](https://www.buzzsprout.com/945931/8638337-being-on-call-doesn-t-have-to-suck-with-charity-majors)
@@ -695,6 +713,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Lucas Godoy - Explain to me Go Concurrency Worker Pool Pattern like I'm five](https://itnext.io/explain-to-me-go-concurrency-worker-pool-pattern-like-im-five-e5f1be71e2b0)
 - [Robert Laszczak - Introduction to DDD Lite: When microservices in Go are not enough](https://threedots.tech/post/ddd-lite-in-go-introduction/)
 - [Chewxy - How To Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
 - [Peter Bourgon - Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/)
@@ -717,6 +736,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Fabio Moioli - Your corporate culture will define the future of your company](https://www.linkedin.com/pulse/ultimately-what-any-company-does-when-successful-merely-fabio-moioli/)
 - [Jared A. Brock - Tesla Is Dead (And Elon Musk Knows It)](https://medium.com/surviving-tomorrow/tesla-is-dead-and-elon-musk-probably-knows-it-2858c86589d0)
 - [Wall Street Journal - Stack Overflow acquired by Prosus for $1.8 Billion](https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400)
 - [Stackoverflow Blog - Prosus's Acquisition of Stack Overflow: Our Exciting Next Chapter](https://stackoverflow.blog/2021/06/02/prosus-acquires-stack-overflow/)
@@ -795,7 +815,9 @@
 - [Microsoft DevBlogs - Windows Package Manager 1.0](https://devblogs.microsoft.com/commandline/windows-package-manager-1-0/)
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
-## Tools 
+## Tools
+- [GitHub Copilot - Your AI pair programmer](https://copilot.github.com/)
+- [Matthew MacDonald - VS Code and GitHub Get Closer with Remote Repositories](https://medium.com/young-coder/remote-repositories-a-better-experience-for-github-in-vs-code-9edcc7d20a41)
 - [Raspberry Pi Blog - Ashley Whittaker - Visual Studio Code comes to Raspberry Pi](https://www.raspberrypi.org/blog/visual-studio-code-comes-to-raspberry-pi/)
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
@@ -837,6 +859,7 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [The Deming Institute - A Bad System Will Beat a Good Person Every Time](https://deming.org/a-bad-system-will-beat-a-good-person-every-time/)
 - [Wired - How Roblox Became a Playground for Virtual Fascists](https://www.wired.com/story/roblox-online-games-irl-fascism-roman-empire)
 - [Vice - Major Internet Projects Are Leaving Freenode After Korean Prince 'Takeover'](https://www.vice.com/amp/en/article/pkbgvg/major-internet-projects-are-leaving-freenode-after-korean-prince-takeover)
 - [Andreas Kling - I quit my job to focus on SerenityOS full time](https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/)
