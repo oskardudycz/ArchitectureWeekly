@@ -39,6 +39,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Martin Kleppmann - Thinking in Events: From Databases to Distributed Collaboration Software](https://www.youtube.com/watch?v=72W_VvFRqc0)
+- [Nick Tune - DDD Pattern: Library Contexts](https://medium.com/nick-tune-tech-strategy-blog/ddd-pattern-library-contexts-d6ae81f462ef)
+- [Adam Shorland - Tackling Technical Debt, big and small, in Wikidata and Wikibase](https://addshore.com/2021/06/tackling-technical-debt-big-and-small-in-wikidata-and-wikibase/)
+- [David Anderson - 2020, the unexpected Requirement](https://medium.com/libertyit/2020-the-unexpected-requirement-c409b432037)
 - [Miguel Garcia - Data Platform as a Service](https://dzone.com/articles/data-platform-as-a-service)
 - [Krzysztof 'Chris' Daniel - My journey through Wardley Mapping ~mistakes mostly~](https://www.youtube.com/watch?v=3aZk7XDamSo)
 - [Mitch Seymour - Gently Down the Stream. A gentle introduction to Apache Kafka](https://www.gentlydownthe.stream/)
@@ -186,6 +190,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Steef-Jan Wiggers - Building Latency Sensitive User Facing Analytics via Apache Pinot](https://www.infoq.com/articles/analytics-apache-pinot)
+- [AWS Cloud Blog - 6 Strategies for Migrating Applications to the Cloud](https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/)
 - [Corey Quinn - The Cloud Genie](https://www.lastweekinaws.com/blog/the-cloud-genie/)
 - [Arup  Acharya,  B. R.  Badrinath - Recording Distributed Snapshots Based on Causal Order of Message Delivery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.37.2351&rep=rep1&type=pdf)
 - [Oren Eini - The cost of the cloud](https://ayende.com/blog/193985-A/the-cost-of-the-cloud)
@@ -364,6 +370,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [FooBar Serverless - 7 Common DynamoDB Patterns for Modeling and Building an App with Alex De Brie](https://www.youtube.com/watch?v=Q6-qWdsa8a4)
+- [Alexander Sosna - PostgreSQL, Memory and the Cloud™](https://sosna.de/posts/pgaas-memory-overcommit/)
 - [Percona - A Spotlight on the Security of Your MongoDB Database](https://www.percona.com/blog/2020/05/28/mongodb-why-pay-for-enterprise-when-open-source-has-you-covered/)
 - [Percona - Autoscaling Databases in Kubernetes for MongoDB, MySQL, and PostgreSQL](https://www.percona.com/blog/2021/06/23/autoscaling-databases-in-kubernetes-for-mongodb-mysql-and-postgresql)
 - [David Tippett - The Difference Between Elasticsearch, Open Distro, and OpenSearch](https://aws.plainenglish.io/the-difference-between-elasticsearch-open-distro-and-opensearch-d43c9a2c31b1)
@@ -423,6 +431,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Ioannis Kyriakidis - Idempotency for Fault-Tolerant Web APIs](https://www.dotnetnakama.com/blog/idempotency-for-fault-tolerant-web-apis/)
+- [Microsoft DevBlogs - .NET Object Allocation Tool Performance](https://devblogs.microsoft.com/visualstudio/net-object-allocation-tool-performance/)
+- [Robert Wagner - Assent - Simple acceptance tests for JSON](https://github.com/droyad/Assent)
+- [Simon Cropp - Verify - Snapshot tool that simplifies the assertion of complex data models and documents](https://github.com/VerifyTests/Verify)
+- [.NET Ketchup - Catch up on the latest .NET news from around the world](https://dotnetketchup.com/)
 - [Maoni Stephens - .NET Memory Performance Analysis](https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md)
 - [.NET Blog - Package Validation](https://devblogs.microsoft.com/dotnet/package-validation/)
 - [Gunnar Peipman - Cost of exceptions](https://gunnarpeipman.com/cost-of-exceptions/)
@@ -581,6 +594,9 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Jeff Patton - The Mindset That Kills Product Thinking](https://www.jpattonassociates.com/mindset-that-kills-product-thinking/)
+- [Nick Tune - Becoming an Agile Tech Strategist](https://engineering.salesforce.com/becoming-an-agile-tech-strategist-b0c16db1a54b)
+- [David Whitney - A Guide to Good Code Reviews](https://dev.to/david_whitney/a-guide-to-good-code-reviews-33ea)
 - [Gergely Orosz - The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 - [Tim Cochran - Maximizing Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html)
 - [The Hosk - Software development is a loser's game](https://thehosk.medium.com/software-development-is-a-losers-game-fc68bb30d7eb)
@@ -709,6 +725,7 @@
 - [Joe Armstrong - The development of Erlang](https://fermatslibrary.com/s/the-development-of-erlang)
 
 ## Haskell
+- [Haskell - Smart Constructors](https://wiki.haskell.org/Smart_constructors)
 - [History of Haskell: Being Lazy With Class](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/history.pdf)
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
@@ -736,6 +753,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [BBC - Pentagon cancels $10bn 'Jedi' contract](https://www.bbc.com/news/business-57739636.amp)
+- [Lex Fridman Podcast - Jeff Atwood: Stack Overflow and Coding Horror](https://lexfridman.com/jeff-atwood/)
+
 - [Fabio Moioli - Your corporate culture will define the future of your company](https://www.linkedin.com/pulse/ultimately-what-any-company-does-when-successful-merely-fabio-moioli/)
 - [Jared A. Brock - Tesla Is Dead (And Elon Musk Knows It)](https://medium.com/surviving-tomorrow/tesla-is-dead-and-elon-musk-probably-knows-it-2858c86589d0)
 - [Wall Street Journal - Stack Overflow acquired by Prosus for $1.8 Billion](https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400)
@@ -816,6 +836,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Markdown PDF VSCode plugin](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
 - [GitHub Copilot - Your AI pair programmer](https://copilot.github.com/)
 - [Matthew MacDonald - VS Code and GitHub Get Closer with Remote Repositories](https://medium.com/young-coder/remote-repositories-a-better-experience-for-github-in-vs-code-9edcc7d20a41)
 - [Raspberry Pi Blog - Ashley Whittaker - Visual Studio Code comes to Raspberry Pi](https://www.raspberrypi.org/blog/visual-studio-code-comes-to-raspberry-pi/)
@@ -859,6 +880,7 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [Martin Fowler - Stepping Back from Speaking](https://martinfowler.com/articles/202106-reducing-speaking.html)
 - [The Deming Institute - A Bad System Will Beat a Good Person Every Time](https://deming.org/a-bad-system-will-beat-a-good-person-every-time/)
 - [Wired - How Roblox Became a Playground for Virtual Fascists](https://www.wired.com/story/roblox-online-games-irl-fascism-roman-empire)
 - [Vice - Major Internet Projects Are Leaving Freenode After Korean Prince 'Takeover'](https://www.vice.com/amp/en/article/pkbgvg/major-internet-projects-are-leaving-freenode-after-korean-prince-takeover)
