@@ -39,6 +39,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Eric Evans - Strategic Design](https://vimeo.com/12674642)
+- [Eric Evans - What I've learned about DDD since the book](https://www.infoq.com/presentations/ddd-eric-evans/)
+- [Krzysztof 'Chris' Daniel - A new contestant for the worst strategic move of 2021](https://www.kda.zone/post/a-new-contestant-for-the-worst-strategic-move-of-2021)
+- [Dave Snowden - Cynefin St David's 2021 (1 of 3)](https://www.cognitive-edge.com/cynefin-st-davids-day-2021-1-of-3/)
+- [Reddit - Thinking in Events: From Databases to Distributed Collaboration Software](https://news.ycombinator.com/item?id=27824509)
 - [Martin Kleppmann - Thinking in Events: From Databases to Distributed Collaboration Software](https://www.youtube.com/watch?v=72W_VvFRqc0)
 - [Nick Tune - DDD Pattern: Library Contexts](https://medium.com/nick-tune-tech-strategy-blog/ddd-pattern-library-contexts-d6ae81f462ef)
 - [Adam Shorland - Tackling Technical Debt, big and small, in Wikidata and Wikibase](https://addshore.com/2021/06/tackling-technical-debt-big-and-small-in-wikidata-and-wikibase/)
@@ -190,6 +195,10 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [RabbitMQ - Streams Overview](https://blog.rabbitmq.com/posts/2021/07/rabbitmq-streams-overview/)
+- [Bernd Ruecker - Simple Java Spring Boot example connecting to Confluent Cloud (Kafka) and Camunda Cloud (Zeebe)](https://github.com/berndruecker/kafka-camunda-spring-simple)
+- [Robin Moffatt - Kafka Connect, ksqlDB, and Kafka Tombstone messages](https://rmoff.net/2020/11/03/kafka-connect-ksqldb-and-kafka-tombstone-messages/)
+- [Gunnar Morling & Hans-Peter Grahsl – Change Data Streaming Patterns in Distributed Systems](https://www.youtube.com/watch?v=CLv2EcYnr2g)
 - [Steef-Jan Wiggers - Building Latency Sensitive User Facing Analytics via Apache Pinot](https://www.infoq.com/articles/analytics-apache-pinot)
 - [AWS Cloud Blog - 6 Strategies for Migrating Applications to the Cloud](https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/)
 - [Corey Quinn - The Cloud Genie](https://www.lastweekinaws.com/blog/the-cloud-genie/)
@@ -289,6 +298,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Google - SRE Book](https://sre.google/sre-book/table-of-contents/)
 - [InfoQ - Terraform 1.0 Release Adds Stability Guarantees and an Improved Upgrade Experience](https://www.infoq.com/news/2021/06/terraform-1-0/)
 - [AWS - Introducing a Public Registry for AWS CloudFormation](https://aws.amazon.com/blogs/aws/introducing-a-public-registry-for-aws-cloudformation/)
 - [Moby Buildkit - Dockerfile frontend syntaxes](https://github.com/moby/buildkit/blob/master/frontend/dockerfile/docs/syntax.md)
@@ -347,6 +357,7 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [TDD Conference - Full Recording](https://www.youtube.com/watch?v=-_noEVCR__I)
 - [Martin Fowler - On the Diverse And Fantastical Shapes of Testing](https://martinfowler.com/articles/2021-test-shapes.html)
 - [Postman - Running collections on the command line with Newman](https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/)
 - [Nicole Rauch - Beyond Consumer-Driven Contract Testing](https://www.youtube.com/watch?v=n5QFe6uwWHI)
@@ -370,6 +381,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Elastic Search - Discovering the Need for an Indexing Strategy in Multi-Tenant Applications](https://www.elastic.co/blog/found-multi-tenancy)
+- [TigerBeetle - A purpose-built accounting database written in Zig](https://github.com/coilhq/tigerbeetle)
+- [rqlite - 6.0: the evolution of a distributed database design](https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/)
 - [FooBar Serverless - 7 Common DynamoDB Patterns for Modeling and Building an App with Alex De Brie](https://www.youtube.com/watch?v=Q6-qWdsa8a4)
 - [Alexander Sosna - PostgreSQL, Memory and the Cloud™](https://sosna.de/posts/pgaas-memory-overcommit/)
 - [Percona - A Spotlight on the Security of Your MongoDB Database](https://www.percona.com/blog/2020/05/28/mongodb-why-pay-for-enterprise-when-open-source-has-you-covered/)
@@ -410,6 +424,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Martin Anderson - AI-Generated Language Is Beginning to Pollute Scientific Literature](https://www.unite.ai/ai-generated-language-is-beginning-to-pollute-scientific-literature/)
 - [IBM - Project CodeNet: A Large-Scale AI for Code Dataset for Learning a Diversity of Coding Tasks](https://raw.githubusercontent.com/IBM/Project_CodeNet/main/ProjectCodeNet.pdf)
 - [Benedict Evans - Notes on AI Bias](https://www.ben-evans.com/benedictevans/2019/4/15/notes-on-ai-bias)
 - [Mohamed Trabelsi - Neural Ranking Models for Document Retrieval](https://deepai.org/publication/neural-ranking-models-for-document-retrieval)
@@ -431,6 +446,12 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Damian Edwards - Minimal API Playground](https://github.com/DamianEdwards/MinimalApiPlayground)
+- [Don Syme - The Early History of F#](https://www.pldi21.org/prerecorded_hopl.19.html)
+- [Jaliya Udagedara - .NET 6 Preview 6: Introducing OpenAPI Support in Minimal APIs in ASP.NET Core](https://jaliyaudagedara.blogspot.com/2021/07/net-6-preview-6-introducing-openapi.html)
+- [Nisha Pillai - Messaging with Azure SignalR & ASP.NET 5](https://www.codit.eu/blog/messaging-with-azure-signalr-asp-net-5)
+- [Microsoft DevBlogs - API versioning extension with ASP.NET Core OData 8](https://devblogs.microsoft.com/odata/api-versioning-extension-with-asp-net-core-odata-8/)
+
 - [Ioannis Kyriakidis - Idempotency for Fault-Tolerant Web APIs](https://www.dotnetnakama.com/blog/idempotency-for-fault-tolerant-web-apis/)
 - [Microsoft DevBlogs - .NET Object Allocation Tool Performance](https://devblogs.microsoft.com/visualstudio/net-object-allocation-tool-performance/)
 - [Robert Wagner - Assent - Simple acceptance tests for JSON](https://github.com/droyad/Assent)
@@ -594,6 +615,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Dan McKinley - Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
 - [Jeff Patton - The Mindset That Kills Product Thinking](https://www.jpattonassociates.com/mindset-that-kills-product-thinking/)
 - [Nick Tune - Becoming an Agile Tech Strategist](https://engineering.salesforce.com/becoming-an-agile-tech-strategist-b0c16db1a54b)
 - [David Whitney - A Guide to Good Code Reviews](https://dev.to/david_whitney/a-guide-to-good-code-reviews-33ea)
@@ -706,6 +728,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Luis Aviles - How to Implement an Event Bus in TypeScript](https://www.thisdot.co/blog/how-to-implement-an-event-bus-in-typescript)
 - [Jesse Hallett - When to use `never` and `unknown` in TypeScript](https://blog.logrocket.com/when-to-use-never-and-unknown-in-typescript-5e4d6c5799ad/)
 - [Jaroslav Šmolík - Typescript: Function composition and recurrent types](https://medium.com/ackee/typescript-function-composition-and-recurrent-types-a9efbc8e7736)
 - [Pierre-Antoine Mills - How to master advanced TypeScript patterns](https://www.freecodecamp.org/news/typescript-curry-ramda-types-f747e99744ab/)
@@ -843,6 +866,9 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Amnesty Tech - NSO Group Pegasus Indicator of Compromise](https://github.com/AmnestyTech/investigations/tree/master/2021-07-18_nso)
+- [Microsoft 365 Security - What I have learned from doing a year of Cloud Forensics in Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/)
+
 - [Google - Zanzibar: Google's Consistent, Global Authorization System](https://research.google/pubs/pub48190)
 - [Tech Monitor - AWS Customers are Opting in to Sharing AI Data Sets with Amazon Outside their Chosen Regions and Many Didn't Know](https://techmonitor.ai/techonology/cloud/aws-user-data)
 - [Gynvael Coldwin - Infosec Certificates, Playing Ctfs, Google's Ctf, and Getting Into Hacking](https://www.youtube.com/watch?v=iIaOqIHGpTc)
