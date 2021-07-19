@@ -1,3 +1,47 @@
 # Upcoming Links
 
 ## 19th July 2021
+
+### Architecture
+- [Eric Evans - Strategic Design](https://vimeo.com/12674642)
+- [Eric Evans - What I've learned about DDD since the book](https://www.infoq.com/presentations/ddd-eric-evans/)
+- [Krzysztof 'Chris' Daniel - A new contestant for the worst strategic move of 2021](https://www.kda.zone/post/a-new-contestant-for-the-worst-strategic-move-of-2021)
+- [Dave Snowden - Cynefin St David's 2021 (1 of 3)](https://www.cognitive-edge.com/cynefin-st-davids-day-2021-1-of-3/)
+- [Reddit - Thinking in Events: From Databases to Distributed Collaboration Software](https://news.ycombinator.com/item?id=27824509)
+
+### Distributed Systems
+- [RabbitMQ - Streams Overview](https://blog.rabbitmq.com/posts/2021/07/rabbitmq-streams-overview/)
+- [Bernd Ruecker - Simple Java Spring Boot example connecting to Confluent Cloud (Kafka) and Camunda Cloud (Zeebe)](https://github.com/berndruecker/kafka-camunda-spring-simple)
+- [Robin Moffatt - Kafka Connect, ksqlDB, and Kafka Tombstone messages](https://rmoff.net/2020/11/03/kafka-connect-ksqldb-and-kafka-tombstone-messages/)
+- [Gunnar Morling & Hans-Peter Grahsl – Change Data Streaming Patterns in Distributed Systems](https://www.youtube.com/watch?v=CLv2EcYnr2g)
+
+### Databases
+- [Elastic Search - Discovering the Need for an Indexing Strategy in Multi-Tenant Applications](https://www.elastic.co/blog/found-multi-tenancy)
+- [TigerBeetle - A purpose-built accounting database written in Zig](https://github.com/coilhq/tigerbeetle)
+- [rqlite - 6.0: the evolution of a distributed database design](https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/)
+
+### DevOps
+- [Google - SRE Book](https://sre.google/sre-book/table-of-contents/)
+
+### Testing
+- [TDD Conference - Full Recording](https://www.youtube.com/watch?v=-_noEVCR__I)
+
+### .NET
+- [Damian Edwards - Minimal API Playground](https://github.com/DamianEdwards/MinimalApiPlayground)
+- [Don Syme - The Early History of F#](https://www.pldi21.org/prerecorded_hopl.19.html)
+- [Jaliya Udagedara - .NET 6 Preview 6: Introducing OpenAPI Support in Minimal APIs in ASP.NET Core](https://jaliyaudagedara.blogspot.com/2021/07/net-6-preview-6-introducing-openapi.html)
+- [Nisha Pillai - Messaging with Azure SignalR & ASP.NET 5](https://www.codit.eu/blog/messaging-with-azure-signalr-asp-net-5)
+- [Microsoft DevBlogs - API versioning extension with ASP.NET Core OData 8](https://devblogs.microsoft.com/odata/api-versioning-extension-with-asp-net-core-odata-8/)
+
+### TypeScript
+- [Luis Aviles - How to Implement an Event Bus in TypeScript](https://www.thisdot.co/blog/how-to-implement-an-event-bus-in-typescript)
+
+### AI
+- [Martin Anderson - AI-Generated Language Is Beginning to Pollute Scientific Literature](https://www.unite.ai/ai-generated-language-is-beginning-to-pollute-scientific-literature/)
+
+### Security
+- [Amnesty Tech - NSO Group Pegasus Indicator of Compromise](https://github.com/AmnestyTech/investigations/tree/master/2021-07-18_nso)
+- [Microsoft 365 Security - What I have learned from doing a year of Cloud Forensics in Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/)
+
+### Coding Life
+- [Dan McKinley - Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
