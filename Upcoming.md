@@ -1,37 +1,3 @@
 # Upcoming Links
 
-## 26th July 2021
-
-### Architecture
-- [Derek Comartin - Does CAP Theorem apply to Microservices?](https://codeopinion.com/does-cap-theorem-apply-to-microservices)
-- [Alicja Musiał - How not to kill your CubeSat in the first days of the mission - a handy guide](https://alicja.space/blog/how-not-to-kill-your-cubesat)
-- [Building Blocks of Software Design](https://ieeexplore.ieee.org/document/8994842)
-- [John Carmack - Input event models](https://archives.seul.org/linuxgames/Oct-1998/msg00123.html)
-- [Nick Tune - Pattern Reading in Visual Discovery and Modelling](https://medium.com/nick-tune-tech-strategy-blog/pattern-reading-in-visual-discovery-and-modelling-d4119637321f)
-- [Bartosz Ocytko - Most common design issues found during Production Readiness and Post-Incident Reviews](https://medium.com/@bocytko/most-common-design-issues-found-during-production-readiness-and-post-incident-reviews-47b2c9e14a9d)
-
-### Distributed Systems
-- [Mohamed Latfalla - I Processed 558k Transactions on AWS Lambda in 5 Minutes](https://aws.plainenglish.io/how-did-i-processed-half-a-million-transactions-in-aws-lambda-within-minutes-120c69d37ce5)
-
-### Databases
-- [Jamie Brandon - Against SQL](https://scattered-thoughts.net/writing/against-sql)
-- [Joshua Fonseca - Why I Had to Migrate from MongoDB to PostgreSQL](https://jerseyfonseca.com/blogs/mongodb-to-postgresql-migration)
-
-### Testing
-- [J. B. Rainsberger - Beyond Mock Objects](https://blog.thecodewhisperer.com/permalink/beyond-mock-objects)
-- [Headless Recorder - A Chrome extension for recording browser interaction and generating Puppeteer & Playwright scripts](https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda)
-
-### Go
-- [GitHub - Three bugs in the Go MySQL Driver](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/)
-
-### AI
-- [VentureBeat - OpenAI Codex shows the limits of large language models](https://venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models)
-
-### .NET
-- [Davide Bellone - Simplify debugging with DebuggerDisplay attribute dotNET](https://www.code4it.dev/blog/debuggerdisplay-attribute)
-- [Microsoft - Up & Running w/ OData in ASP.NET 6](https://devblogs.microsoft.com/odata/up-running-w-odata-in-asp-net-6/)
-- [Microsoft.IO.RecyclableMemoryStream - A library to provide pooling for .NET MemoryStream objects to improve application performance](https://github.com/Microsoft/Microsoft.IO.RecyclableMemoryStream)
-- [Khalid Abuhakmeh - HTTP Range Requests and Partial Responses With ASP.NET Core](https://khalidabuhakmeh.com/partial-range-http-requests-with-aspnet-core)
-
-### Coding Life
-- [Kent C. Dodds - Don't Solve Problems, Eliminate Them](https://kentcdodds.com/blog/don-t-solve-problems-eliminate-them)
+## 2nd August 2021

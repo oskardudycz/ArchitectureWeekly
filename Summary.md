@@ -39,6 +39,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Derek Comartin - Does CAP Theorem apply to Microservices?](https://codeopinion.com/does-cap-theorem-apply-to-microservices)
+- [Alicja Musiał - How not to kill your CubeSat in the first days of the mission - a handy guide](https://alicja.space/blog/how-not-to-kill-your-cubesat)
+- [Building Blocks of Software Design](https://ieeexplore.ieee.org/document/8994842)
+- [John Carmack - Input event models](https://archives.seul.org/linuxgames/Oct-1998/msg00123.html)
+- [Nick Tune - Pattern Reading in Visual Discovery and Modelling](https://medium.com/nick-tune-tech-strategy-blog/pattern-reading-in-visual-discovery-and-modelling-d4119637321f)
+- [Bartosz Ocytko - Most common design issues found during Production Readiness and Post-Incident Reviews](https://medium.com/@bocytko/most-common-design-issues-found-during-production-readiness-and-post-incident-reviews-47b2c9e14a9d)
 - [Eric Evans - Strategic Design](https://vimeo.com/12674642)
 - [Eric Evans - What I've learned about DDD since the book](https://www.infoq.com/presentations/ddd-eric-evans/)
 - [Krzysztof 'Chris' Daniel - A new contestant for the worst strategic move of 2021](https://www.kda.zone/post/a-new-contestant-for-the-worst-strategic-move-of-2021)
@@ -195,6 +201,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Mohamed Latfalla - I Processed 558k Transactions on AWS Lambda in 5 Minutes](https://aws.plainenglish.io/how-did-i-processed-half-a-million-transactions-in-aws-lambda-within-minutes-120c69d37ce5)
 - [RabbitMQ - Streams Overview](https://blog.rabbitmq.com/posts/2021/07/rabbitmq-streams-overview/)
 - [Bernd Ruecker - Simple Java Spring Boot example connecting to Confluent Cloud (Kafka) and Camunda Cloud (Zeebe)](https://github.com/berndruecker/kafka-camunda-spring-simple)
 - [Robin Moffatt - Kafka Connect, ksqlDB, and Kafka Tombstone messages](https://rmoff.net/2020/11/03/kafka-connect-ksqldb-and-kafka-tombstone-messages/)
@@ -357,6 +364,8 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [J. B. Rainsberger - Beyond Mock Objects](https://blog.thecodewhisperer.com/permalink/beyond-mock-objects)
+- [Headless Recorder - A Chrome extension for recording browser interaction and generating Puppeteer & Playwright scripts](https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda)
 - [TDD Conference - Full Recording](https://www.youtube.com/watch?v=-_noEVCR__I)
 - [Martin Fowler - On the Diverse And Fantastical Shapes of Testing](https://martinfowler.com/articles/2021-test-shapes.html)
 - [Postman - Running collections on the command line with Newman](https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/)
@@ -381,6 +390,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Jamie Brandon - Against SQL](https://scattered-thoughts.net/writing/against-sql)
+- [Joshua Fonseca - Why I Had to Migrate from MongoDB to PostgreSQL](https://jerseyfonseca.com/blogs/mongodb-to-postgresql-migration)
 - [Elastic Search - Discovering the Need for an Indexing Strategy in Multi-Tenant Applications](https://www.elastic.co/blog/found-multi-tenancy)
 - [TigerBeetle - A purpose-built accounting database written in Zig](https://github.com/coilhq/tigerbeetle)
 - [rqlite - 6.0: the evolution of a distributed database design](https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/)
@@ -424,6 +435,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [VentureBeat - OpenAI Codex shows the limits of large language models](https://venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models)
 - [Martin Anderson - AI-Generated Language Is Beginning to Pollute Scientific Literature](https://www.unite.ai/ai-generated-language-is-beginning-to-pollute-scientific-literature/)
 - [IBM - Project CodeNet: A Large-Scale AI for Code Dataset for Learning a Diversity of Coding Tasks](https://raw.githubusercontent.com/IBM/Project_CodeNet/main/ProjectCodeNet.pdf)
 - [Benedict Evans - Notes on AI Bias](https://www.ben-evans.com/benedictevans/2019/4/15/notes-on-ai-bias)
@@ -446,6 +458,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Davide Bellone - Simplify debugging with DebuggerDisplay attribute dotNET](https://www.code4it.dev/blog/debuggerdisplay-attribute)
+- [Microsoft - Up & Running w/ OData in ASP.NET 6](https://devblogs.microsoft.com/odata/up-running-w-odata-in-asp-net-6/)
+- [Microsoft.IO.RecyclableMemoryStream - A library to provide pooling for .NET MemoryStream objects to improve application performance](https://github.com/Microsoft/Microsoft.IO.RecyclableMemoryStream)
+- [Khalid Abuhakmeh - HTTP Range Requests and Partial Responses With ASP.NET Core](https://khalidabuhakmeh.com/partial-range-http-requests-with-aspnet-core)
 - [Damian Edwards - Minimal API Playground](https://github.com/DamianEdwards/MinimalApiPlayground)
 - [Don Syme - The Early History of F#](https://www.pldi21.org/prerecorded_hopl.19.html)
 - [Jaliya Udagedara - .NET 6 Preview 6: Introducing OpenAPI Support in Minimal APIs in ASP.NET Core](https://jaliyaudagedara.blogspot.com/2021/07/net-6-preview-6-introducing-openapi.html)
@@ -615,6 +631,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Kent C. Dodds - Don't Solve Problems, Eliminate Them](https://kentcdodds.com/blog/don-t-solve-problems-eliminate-them)
 - [Dan McKinley - Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
 - [Jeff Patton - The Mindset That Kills Product Thinking](https://www.jpattonassociates.com/mindset-that-kills-product-thinking/)
 - [Nick Tune - Becoming an Agile Tech Strategist](https://engineering.salesforce.com/becoming-an-agile-tech-strategist-b0c16db1a54b)
@@ -753,6 +770,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [GitHub - Three bugs in the Go MySQL Driver](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/)
 - [Lucas Godoy - Explain to me Go Concurrency Worker Pool Pattern like I'm five](https://itnext.io/explain-to-me-go-concurrency-worker-pool-pattern-like-im-five-e5f1be71e2b0)
 - [Robert Laszczak - Introduction to DDD Lite: When microservices in Go are not enough](https://threedots.tech/post/ddd-lite-in-go-introduction/)
 - [Chewxy - How To Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
