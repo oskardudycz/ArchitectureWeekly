@@ -33,12 +33,17 @@
       - [ElasticSearch Licence change](#elasticsearch-licence-change)
   - [Hardware](#hardware)
   - [Low level](#low-level)
+  - [Linux](#linux)
   - [Windows](#windows)
   - [Tools](#tools)
   - [Security](#security)
   - [Trivia](#trivia)
 
 ## Architecture
+- [Mark Seemann - Referential transparency fits in your head](https://blog.ploeh.dk/2021/07/28/referential-transparency-fits-in-your-head/)
+- [Ledjon Behluli - From Domain to Integration Events](https://www.ledjonbehluli.com/posts/domain_to_integration_event/)
+- [.NET Rocks - CUPID with Dan North](https://dotnetrocks.com/?show=1745)
+- [Camille Fournier - Why is it so hard to decide to buy?](https://skamille.medium.com/why-is-it-so-hard-to-decide-to-buy-d86fee98e88e)
 - [Derek Comartin - Does CAP Theorem apply to Microservices?](https://codeopinion.com/does-cap-theorem-apply-to-microservices)
 - [Alicja Musiał - How not to kill your CubeSat in the first days of the mission - a handy guide](https://alicja.space/blog/how-not-to-kill-your-cubesat)
 - [Building Blocks of Software Design](https://ieeexplore.ieee.org/document/8994842)
@@ -201,6 +206,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Jeff Doolittle - The Fallacies of Distributed Computing with Peter Deutsch](https://jeffdoolittle.com/2021/07/27/the-fallacies-of-distributed-computing-with-peter-deutsch/)
 - [Mohamed Latfalla - I Processed 558k Transactions on AWS Lambda in 5 Minutes](https://aws.plainenglish.io/how-did-i-processed-half-a-million-transactions-in-aws-lambda-within-minutes-120c69d37ce5)
 - [RabbitMQ - Streams Overview](https://blog.rabbitmq.com/posts/2021/07/rabbitmq-streams-overview/)
 - [Bernd Ruecker - Simple Java Spring Boot example connecting to Confluent Cloud (Kafka) and Camunda Cloud (Zeebe)](https://github.com/berndruecker/kafka-camunda-spring-simple)
@@ -337,6 +343,8 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [htmx - allows you to access AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes](https://htmx.org/)
+- [Paul Burgess - Better React Components with TypeScript Union Types](https://blog.scottlogic.com/2021/07/27/union-types-react-components.html)
 - [Lars Gyrup Brink Nielsen - Lean Angular components](https://dev.to/this-is-angular/lean-angular-components-1abl)
 - [Jeremy Keith - The principle of most availability](https://adactio.com/journal/17987)
 - [Adam Wathan - Just-In-Time: The Next Generation of Tailwind CSS](https://blog.tailwindcss.com/just-in-time-the-next-generation-of-tailwind-css)
@@ -364,6 +372,8 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Gremlin - Chaos Monkey Alternatives: Docker](https://www.gremlin.com/chaos-monkey/chaos-monkey-alternatives/docker/)
+- [Dan North - We need to talk about testing](https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/)
 - [J. B. Rainsberger - Beyond Mock Objects](https://blog.thecodewhisperer.com/permalink/beyond-mock-objects)
 - [Headless Recorder - A Chrome extension for recording browser interaction and generating Puppeteer & Playwright scripts](https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda)
 - [TDD Conference - Full Recording](https://www.youtube.com/watch?v=-_noEVCR__I)
@@ -390,6 +400,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Aleksey Charapko - Reading Group. FoundationDB: A Distributed Unbundled Transactional Key Value Store](http://charap.co/reading-group-foundationdb-a-distributed-unbundled-transactional-key-value-store/)
+- [TPC Benchmark - Standard Specification](http://tpc.org/tpc_documents_current_versions/pdf/tpc-c_v5.11.0.pdf)
 - [Jamie Brandon - Against SQL](https://scattered-thoughts.net/writing/against-sql)
 - [Joshua Fonseca - Why I Had to Migrate from MongoDB to PostgreSQL](https://jerseyfonseca.com/blogs/mongodb-to-postgresql-migration)
 - [Elastic Search - Discovering the Need for an Indexing Strategy in Multi-Tenant Applications](https://www.elastic.co/blog/found-multi-tenancy)
@@ -458,6 +470,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jean-Philippe Durot - Beware of C# Lambda Captures!](https://medium.com/criteo-engineering/beware-lambda-captures-383efe3a4345)
+- [ABP - Open Source Web Application Framework for ASP.NET Core](https://abp.io/)
+- [Microsoft - Write your first F# code](https://docs.microsoft.com/en-us/learn/modules/fsharp-first-steps/)
+- [Jeremy Likness - GraphQL for .NET Developers](https://blog.jeremylikness.com/blog/graphql-for-dotnet-developers/)
 - [Davide Bellone - Simplify debugging with DebuggerDisplay attribute dotNET](https://www.code4it.dev/blog/debuggerdisplay-attribute)
 - [Microsoft - Up & Running w/ OData in ASP.NET 6](https://devblogs.microsoft.com/odata/up-running-w-odata-in-asp-net-6/)
 - [Microsoft.IO.RecyclableMemoryStream - A library to provide pooling for .NET MemoryStream objects to improve application performance](https://github.com/Microsoft/Microsoft.IO.RecyclableMemoryStream)
@@ -745,6 +761,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Arnaud Leymet - 7 TypeScript Tricks with Enum (and Fruits)](https://dev.to/prod/mastering-enums-in-typescript-1c1j)
 - [Luis Aviles - How to Implement an Event Bus in TypeScript](https://www.thisdot.co/blog/how-to-implement-an-event-bus-in-typescript)
 - [Jesse Hallett - When to use `never` and `unknown` in TypeScript](https://blog.logrocket.com/when-to-use-never-and-unknown-in-typescript-5e4d6c5799ad/)
 - [Jaroslav Šmolík - Typescript: Function composition and recurrent types](https://medium.com/ackee/typescript-function-composition-and-recurrent-types-a9efbc8e7736)
@@ -866,6 +883,9 @@
 - [InfoQ - Rust Hyper HTTP Library Will Contribute to Make Curl Safer](https://www.infoq.com/news/2020/10/memory-safe-curl-rust/)
 - [Cindy Sridharan - Seamless file descriptor transfer between processes with pidfd and pidfd_getfd](https://copyconstruct.medium.com/seamless-file-descriptor-transfer-between-processes-with-pidfd-and-pidfd-getfd-816afcd19ed4)
 
+## Linux
+- [Asahi Linux - A project and community with the goal of porting Linux to Apple Silicon Macs](https://asahilinux.org/about/)
+
 ## Windows
 - [Robert C. Maehl - Why Not Win11 - Detection Script to help identify why your PC isn't Windows 11 ready](https://github.com/rcmaehl/WhyNotWin11)
 - [NTDEV - State of the Windows, part 2: Did Windows 10 slow down with each feature update?](https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/)
@@ -924,6 +944,9 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [John Cutler - Google Chrome - High WIP, Online Whiteboard for Visual Collaboration](https://www.loom.com/share/5efceb288b634a449041918bdba08202)
+- [Sean Hickey - The Evolution of a Software Engineer. On Coming Full Circle](https://medium.com/@webseanhickey/the-evolution-of-a-software-engineer-db854689243)
+- [Artur Piszek - Farmers always Worked From Home](https://piszek.com/2021/07/26/farmers-work-from-home/)
 - [Martin Fowler - Stepping Back from Speaking](https://martinfowler.com/articles/202106-reducing-speaking.html)
 - [The Deming Institute - A Bad System Will Beat a Good Person Every Time](https://deming.org/a-bad-system-will-beat-a-good-person-every-time/)
 - [Wired - How Roblox Became a Playground for Virtual Fascists](https://www.wired.com/story/roblox-online-games-irl-fascism-roman-empire)
