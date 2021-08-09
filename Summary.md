@@ -40,6 +40,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [CNCF - Think gRPC, when you are architecting modern microservices!](https://www.cncf.io/blog/2021/07/19/think-grpc-when-you-are-architecting-modern-microservices/)
+- [Simon Wardley - An Introduction to Wardley Maps](https://www.youtube.com/watch?v=L3wgzl2iUR4)
+- [Jimmy Bogard - Domain-Driven Refactoring: Extracting Domain Services](https://jimmybogard.com/domain-driven-refactoring-extracting-domain-services/)
+- [James Hickey - DDD Aggregates: Consistency Boundary](https://www.jamesmichaelhickey.com/consistency-boundary/)
 - [Mark Seemann - Referential transparency fits in your head](https://blog.ploeh.dk/2021/07/28/referential-transparency-fits-in-your-head/)
 - [Ledjon Behluli - From Domain to Integration Events](https://www.ledjonbehluli.com/posts/domain_to_integration_event/)
 - [.NET Rocks - CUPID with Dan North](https://dotnetrocks.com/?show=1745)
@@ -206,6 +210,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Zac Charles - How to Trigger a Lambda Function Every 5–10 Seconds](https://zaccharles.medium.com/how-to-trigger-a-lambda-function-every-5-10-seconds-b8459544b166)
+- [Last Week in AWS - Kinesis vs. Kafka: Which Stream Processor Comes Out on Top?](https://www.lastweekinaws.com/blog/kinesis-vs-kafka-which-stream-processor-comes-out-on-top/)
 - [Jeff Doolittle - The Fallacies of Distributed Computing with Peter Deutsch](https://jeffdoolittle.com/2021/07/27/the-fallacies-of-distributed-computing-with-peter-deutsch/)
 - [Mohamed Latfalla - I Processed 558k Transactions on AWS Lambda in 5 Minutes](https://aws.plainenglish.io/how-did-i-processed-half-a-million-transactions-in-aws-lambda-within-minutes-120c69d37ce5)
 - [RabbitMQ - Streams Overview](https://blog.rabbitmq.com/posts/2021/07/rabbitmq-streams-overview/)
@@ -343,6 +349,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Sebastian Bełczyk - Building shell application for micro frontends](https://www.softwarepark.cc/blog/2021/7/9/building-shell-application-for-micro-frontends)
 - [htmx - allows you to access AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes](https://htmx.org/)
 - [Paul Burgess - Better React Components with TypeScript Union Types](https://blog.scottlogic.com/2021/07/27/union-types-react-components.html)
 - [Lars Gyrup Brink Nielsen - Lean Angular components](https://dev.to/this-is-angular/lean-angular-components-1abl)
@@ -389,6 +396,7 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [Brandur - Why form encoding in web APIs is an anti-pattern](https://brandur.org/fragments/application-x-wwww-form-urlencoded)
 - [Microsoft - Web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - [StackOverflow - John Au-Yeung - Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
 - [Postman Youtube - From zero to Async API](https://www.youtube.com/watch?v=g2pqCIhXQ3k)
@@ -400,6 +408,10 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Luis Sena - Achieving Sub-Millisecond Latencies With Redis by Using Better Serializers](https://luis-sena.medium.com/achieving-sub-millisecond-latencies-with-redis-by-using-better-serializers-982e0397fd68)
+- [Charlotte Dillon - Can I Run a Database In Kubernetes?](https://www.cockroachlabs.com/blog/kubernetes-databases/)
+- [Christopher Bradford - A Case for Databases on Kubernetes from a Former Skeptic](https://thenewstack.io/a-case-for-databases-on-kubernetes-from-a-former-skeptic/)
+- [Apache Cassandra 4.0 is Here](https://cassandra.apache.org/_/blog/Apache-Cassandra-4.0-is-Here.html)
 - [Aleksey Charapko - Reading Group. FoundationDB: A Distributed Unbundled Transactional Key Value Store](http://charap.co/reading-group-foundationdb-a-distributed-unbundled-transactional-key-value-store/)
 - [TPC Benchmark - Standard Specification](http://tpc.org/tpc_documents_current_versions/pdf/tpc-c_v5.11.0.pdf)
 - [Jamie Brandon - Against SQL](https://scattered-thoughts.net/writing/against-sql)
@@ -447,6 +459,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [MIT Technology Review - Hundreds of AI tools have been built to catch covid. None of them helped](https://www.technologyreview.com/2021/07/30/1030329/machine-learning-ai-failed-covid-hospital-diagnosis-pandemic/amp/)
 - [VentureBeat - OpenAI Codex shows the limits of large language models](https://venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models)
 - [Martin Anderson - AI-Generated Language Is Beginning to Pollute Scientific Literature](https://www.unite.ai/ai-generated-language-is-beginning-to-pollute-scientific-literature/)
 - [IBM - Project CodeNet: A Large-Scale AI for Code Dataset for Learning a Diversity of Coding Tasks](https://raw.githubusercontent.com/IBM/Project_CodeNet/main/ProjectCodeNet.pdf)
@@ -461,6 +474,7 @@
 - [InfoWorld - Simon Bisson - Jumping into Azure Arc Data Services](https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.amp.html)
 
 ## Functional Programming
+- [Tony Morris - Data Types, Algebra, Parametricity, Optics](https://www.youtube.com/watch?v=v3uJSlklQT4)
 - [Railway oriented programming](https://fsharpforfunandprofit.com/posts/recipe-part2/)
 - [Scott Wlaschin - Against Railway-Oriented Programming](https://fsharpforfunandprofit.com/posts/against-railway-oriented-programming/)
 - [Bartosz Milewski - Functorio](https://bartoszmilewski.com/2021/02/16/functorio/)
@@ -470,6 +484,12 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [ASP.NET Community Standup - Logging updates in ASP.NET Core 6](https://www.youtube.com/watch?app=desktop&v=V-rwe2yxh1A)
+- [Santosh Hari - Using app secrets in #dotnetcore console applications](https://santoshhari.wordpress.com/2021/07/26/using-app-secrets-in-dotnetcore-console-applications/amp/)
+- [Jeremy Likness - Run EF Core Queries on SQL Server From Blazor WebAssembly](https://www.codeproject.com/Articles/5280105/Run-EF-Core-Queries-on-SQL-Server-From-Blazor-WebA)
+- [Don Syme - F# Bonanza](https://www.youtube.com/watch?v=bOThHGMlKD8)
+- [Martin Costello - Integration Testing ASP.NET Core 6 Minimal APIs](https://github.com/martincostello/dotnet-minimal-api-integration-testing)
+- [Streamiz Kafka .NET - .NET Stream Processing Library for Apache Kafka](https://github.com/LGouellec/kafka-streams-dotnet)
 - [Jean-Philippe Durot - Beware of C# Lambda Captures!](https://medium.com/criteo-engineering/beware-lambda-captures-383efe3a4345)
 - [ABP - Open Source Web Application Framework for ASP.NET Core](https://abp.io/)
 - [Microsoft - Write your first F# code](https://docs.microsoft.com/en-us/learn/modules/fsharp-first-steps/)
@@ -642,11 +662,15 @@
 - [Improve Activity API usability and OpenTelemetry integration](https://github.com/dotnet/designs/blob/main/accepted/2020/diagnostics/activity-improvements.md)
 
 ### WebAssembly
+- [CNCF - Cloud Native WebAssembly](https://www.cncf.io/blog/2021/08/05/cloud-native-webassembly)
 - [Mozilla - Growing the Bytecode Alliance](https://blog.mozilla.org/blog/2021/04/28/growing-the-bytecode-alliance/)
 - [Radu Matei - Getting started with NodeJS and the WebAssembly System Interface](https://radu-matei.com/blog/nodejs-wasi/)
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Mark Seemann - Am I stuck in a local maximum?](https://blog.ploeh.dk/2021/08/09/am-i-stuck-in-a-local-maximum/)
+- [Corecursive Podcast - From Competitive Programming to APL With Conor Hoekstra](https://corecursive.com/065-competitive-coding-with-conor-hoekstra/)
+- [Maarten Dalmijn - 11 Laws of Software Estimation for Complex Work](https://betterprogramming.pub/11-laws-of-software-estimation-for-complex-work-c23b6e5e9ec4)
 - [Kent C. Dodds - Don't Solve Problems, Eliminate Them](https://kentcdodds.com/blog/don-t-solve-problems-eliminate-them)
 - [Dan McKinley - Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
 - [Jeff Patton - The Mindset That Kills Product Thinking](https://www.jpattonassociates.com/mindset-that-kills-product-thinking/)
