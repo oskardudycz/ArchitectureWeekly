@@ -1,3 +1,47 @@
 # Upcoming Links
 
 ## 9th August 2021
+
+### Architecture
+- [CNCF - Think gRPC, when you are architecting modern microservices!](https://www.cncf.io/blog/2021/07/19/think-grpc-when-you-are-architecting-modern-microservices/)
+- [Simon Wardley - An Introduction to Wardley Maps](https://www.youtube.com/watch?v=L3wgzl2iUR4)
+- [Jimmy Bogard - Domain-Driven Refactoring: Extracting Domain Services](https://jimmybogard.com/domain-driven-refactoring-extracting-domain-services/)
+- [James Hickey - DDD Aggregates: Consistency Boundary](https://www.jamesmichaelhickey.com/consistency-boundary/)
+
+### Distributed Systems
+- [Zac Charles - How to Trigger a Lambda Function Every 5–10 Seconds](https://zaccharles.medium.com/how-to-trigger-a-lambda-function-every-5-10-seconds-b8459544b166)
+- [Last Week in AWS - Kinesis vs. Kafka: Which Stream Processor Comes Out on Top?](https://www.lastweekinaws.com/blog/kinesis-vs-kafka-which-stream-processor-comes-out-on-top/)
+
+### Databases
+- [Luis Sena - Achieving Sub-Millisecond Latencies With Redis by Using Better Serializers](https://luis-sena.medium.com/achieving-sub-millisecond-latencies-with-redis-by-using-better-serializers-982e0397fd68)
+- [Charlotte Dillon - Can I Run a Database In Kubernetes?](https://www.cockroachlabs.com/blog/kubernetes-databases/)
+- [Christopher Bradford - A Case for Databases on Kubernetes from a Former Skeptic](https://thenewstack.io/a-case-for-databases-on-kubernetes-from-a-former-skeptic/)
+- [Apache Cassandra 4.0 is Here](https://cassandra.apache.org/_/blog/Apache-Cassandra-4.0-is-Here.html)
+
+### Frontend
+- [Sebastian Bełczyk - Building shell application for micro frontends](https://www.softwarepark.cc/blog/2021/7/9/building-shell-application-for-micro-frontends)
+
+### API
+- [Brandur - Why form encoding in web APIs is an anti-pattern](https://brandur.org/fragments/application-x-wwww-form-urlencoded)
+
+### AI
+- [MIT Technology Review - Hundreds of AI tools have been built to catch covid. None of them helped](https://www.technologyreview.com/2021/07/30/1030329/machine-learning-ai-failed-covid-hospital-diagnosis-pandemic/amp/)
+
+### Functional Programming
+- [Tony Morris - Data Types, Algebra, Parametricity, Optics](https://www.youtube.com/watch?v=v3uJSlklQT4)
+
+### WebAssembly
+- [CNCF - Cloud Native WebAssembly](https://www.cncf.io/blog/2021/08/05/cloud-native-webassembly)
+
+### .NET
+- [ASP.NET Community Standup - Logging updates in ASP.NET Core 6](https://www.youtube.com/watch?app=desktop&v=V-rwe2yxh1A)
+- [Santosh Hari - Using app secrets in #dotnetcore console applications](https://santoshhari.wordpress.com/2021/07/26/using-app-secrets-in-dotnetcore-console-applications/amp/)
+- [Jeremy Likness - Run EF Core Queries on SQL Server From Blazor WebAssembly](https://www.codeproject.com/Articles/5280105/Run-EF-Core-Queries-on-SQL-Server-From-Blazor-WebA)
+- [Don Syme - F# Bonanza](https://www.youtube.com/watch?v=bOThHGMlKD8)
+- [Martin Costello - Integration Testing ASP.NET Core 6 Minimal APIs](https://github.com/martincostello/dotnet-minimal-api-integration-testing)
+- [Streamiz Kafka .NET - .NET Stream Processing Library for Apache Kafka](https://github.com/LGouellec/kafka-streams-dotnet)
+
+### Coding Life
+- [Mark Seemann - Am I stuck in a local maximum?](https://blog.ploeh.dk/2021/08/09/am-i-stuck-in-a-local-maximum/)
+- [Corecursive Podcast - From Competitive Programming to APL With Conor Hoekstra](https://corecursive.com/065-competitive-coding-with-conor-hoekstra/)
+- [Maarten Dalmijn - 11 Laws of Software Estimation for Complex Work](https://betterprogramming.pub/11-laws-of-software-estimation-for-complex-work-c23b6e5e9ec4)
