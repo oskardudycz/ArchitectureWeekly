@@ -33,6 +33,7 @@
       - [ElasticSearch Licence change](#elasticsearch-licence-change)
   - [Hardware](#hardware)
   - [Low level](#low-level)
+    - [Operating Systems](#operating-systems)
   - [Linux](#linux)
   - [Windows](#windows)
   - [Tools](#tools)
@@ -40,6 +41,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Doc Norton - Technical Debt Trap](https://www.youtube.com/watch?v=xEqRtIeD51k)
+- [The Twelve-Factor App](https://12factor.net/)
+- [Gregor Hohpe - Competing Consumers](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html)
+- [Greg Young - Event Sourcing and Post/Pre Dated Transactions](http://codebetter.com/gregyoung/2014/03/02/event-sourcing-and-postpre-dated-transactions/)
+- [Gergely Orosz - Software Architecture is Overrated, Clear and Simple Design is Underrate](https://blog.pragmaticengineer.com/software-architecture-is-overrated/)
 - [CNCF - Think gRPC, when you are architecting modern microservices!](https://www.cncf.io/blog/2021/07/19/think-grpc-when-you-are-architecting-modern-microservices/)
 - [Simon Wardley - An Introduction to Wardley Maps](https://www.youtube.com/watch?v=L3wgzl2iUR4)
 - [Jimmy Bogard - Domain-Driven Refactoring: Extracting Domain Services](https://jimmybogard.com/domain-driven-refactoring-extracting-domain-services/)
@@ -210,6 +216,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Gunnar Morling - Exploring ZooKeeper-less Kafka](https://www.morling.dev/blog/exploring-zookeeper-less-kafka/)
+- [DeisLabs - Towards Krustlet 1.0 and CNCF Sandbox](https://deislabs.io/posts/towards-krustlet-v1-cncf/)
 - [Zac Charles - How to Trigger a Lambda Function Every 5–10 Seconds](https://zaccharles.medium.com/how-to-trigger-a-lambda-function-every-5-10-seconds-b8459544b166)
 - [Last Week in AWS - Kinesis vs. Kafka: Which Stream Processor Comes Out on Top?](https://www.lastweekinaws.com/blog/kinesis-vs-kafka-which-stream-processor-comes-out-on-top/)
 - [Jeff Doolittle - The Fallacies of Distributed Computing with Peter Deutsch](https://jeffdoolittle.com/2021/07/27/the-fallacies-of-distributed-computing-with-peter-deutsch/)
@@ -317,6 +325,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Cloudogu - Examples for jenkins pipelines, comparing scripted and declarative syntax](https://github.com/cloudogu/jenkinsfiles)
+- [Concourse - An open-source continuous thing-doer](https://concourse-ci.org/)
 - [Google - SRE Book](https://sre.google/sre-book/table-of-contents/)
 - [InfoQ - Terraform 1.0 Release Adds Stability Guarantees and an Improved Upgrade Experience](https://www.infoq.com/news/2021/06/terraform-1-0/)
 - [AWS - Introducing a Public Registry for AWS CloudFormation](https://aws.amazon.com/blogs/aws/introducing-a-public-registry-for-aws-cloudformation/)
@@ -408,6 +418,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Percona - PostgreSQL WAL Retention and Clean Up: pg_archivecleanup](https://www.percona.com/blog/2019/07/10/wal-retention-and-clean-up-pg_archivecleanup/)
 - [Luis Sena - Achieving Sub-Millisecond Latencies With Redis by Using Better Serializers](https://luis-sena.medium.com/achieving-sub-millisecond-latencies-with-redis-by-using-better-serializers-982e0397fd68)
 - [Charlotte Dillon - Can I Run a Database In Kubernetes?](https://www.cockroachlabs.com/blog/kubernetes-databases/)
 - [Christopher Bradford - A Case for Databases on Kubernetes from a Former Skeptic](https://thenewstack.io/a-case-for-databases-on-kubernetes-from-a-former-skeptic/)
@@ -459,6 +470,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [VentureBeat - AI bias is prevalent but preventable — here’s how to root it out](https://venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out)
 - [MIT Technology Review - Hundreds of AI tools have been built to catch covid. None of them helped](https://www.technologyreview.com/2021/07/30/1030329/machine-learning-ai-failed-covid-hospital-diagnosis-pandemic/amp/)
 - [VentureBeat - OpenAI Codex shows the limits of large language models](https://venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models)
 - [Martin Anderson - AI-Generated Language Is Beginning to Pollute Scientific Literature](https://www.unite.ai/ai-generated-language-is-beginning-to-pollute-scientific-literature/)
@@ -484,6 +496,13 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Diego Martin - Protecting Sensitive Data in Event-Sourced Systems with Crypto Shredding](https://www.eventstore.com/blog/protecting-sensitive-data-in-event-sourced-systems-with-crypto-shredding-1)
+- [David Fowler - .NET 6 New Apis Twitter Thread](https://twitter.com/davidfowl/status/1422816504060416002)
+- [Cezary Piątek - Readable and clear tests for ASP.NET Core services](https://cezarypiatek.github.io/post/component-tests-scenarios)
+- [Derek Comartin - Processing Large Payloads with the Claim Check Pattern](https://www.youtube.com/watch?v=peMRaht4Cwc)
+- [Davide Bellone - How to add a caching layer in .NET 5 with Decorator pattern and Scrutor](https://www.code4it.dev/blog/caching-decorator-with-scrutor)
+- [.NET Blog - ASP.NET Core updates in .NET 6 Preview 7](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-7/)
+- [.NET Blog - Try the new System.Text.Json source generator](https://devblogs.microsoft.com/dotnet/try-the-new-system-text-json-source-generator)
 - [ASP.NET Community Standup - Logging updates in ASP.NET Core 6](https://www.youtube.com/watch?app=desktop&v=V-rwe2yxh1A)
 - [Santosh Hari - Using app secrets in #dotnetcore console applications](https://santoshhari.wordpress.com/2021/07/26/using-app-secrets-in-dotnetcore-console-applications/amp/)
 - [Jeremy Likness - Run EF Core Queries on SQL Server From Blazor WebAssembly](https://www.codeproject.com/Articles/5280105/Run-EF-Core-Queries-on-SQL-Server-From-Blazor-WebA)
@@ -668,6 +687,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Kai Glib - 20 Tough Questions every Project Manager and Product Owner should have in their Arsenal. These questions come with warnings](https://www.gilb.com/blog/20-tough-questions-every-project-manager-and-product-owner-should-have-in-their-arsenal-these-questions-come-with-warnings)
+- [Alistair Cockburn - Scrum and overtime work Twitter thread](https://mobile.twitter.com/TotherAlistair/status/1405248217835622402)
 - [Mark Seemann - Am I stuck in a local maximum?](https://blog.ploeh.dk/2021/08/09/am-i-stuck-in-a-local-maximum/)
 - [Corecursive Podcast - From Competitive Programming to APL With Conor Hoekstra](https://corecursive.com/065-competitive-coding-with-conor-hoekstra/)
 - [Maarten Dalmijn - 11 Laws of Software Estimation for Complex Work](https://betterprogramming.pub/11-laws-of-software-estimation-for-complex-work-c23b6e5e9ec4)
@@ -811,6 +832,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Aurélie Vache - Learning Go by examples: part 5 - Create a Game Boy Advance (GBA) game in Go](https://dev.to/aurelievache/learning-go-by-examples-part-5-create-a-game-boy-advance-gba-game-in-go-5944)
 - [GitHub - Three bugs in the Go MySQL Driver](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/)
 - [Lucas Godoy - Explain to me Go Concurrency Worker Pool Pattern like I'm five](https://itnext.io/explain-to-me-go-concurrency-worker-pool-pattern-like-im-five-e5f1be71e2b0)
 - [Robert Laszczak - Introduction to DDD Lite: When microservices in Go are not enough](https://threedots.tech/post/ddd-lite-in-go-introduction/)
@@ -822,6 +844,7 @@
 - [Simon Vergauwen - Functional Domain Modeling in Kotlin - Validation](https://www.47deg.com/blog/functional-domain-modeling-part-2/)
 
 ## Rust
+- [Channel 9 - Beginner's Series to Rust](https://channel9.msdn.com/Series/Beginners-Series-to-Rust?WT.mc_id=academic-29077-cxa)
 - [Luca Palmieri - Error Handling In Rust - A Deep Dive](https://www.lpalmieri.com/posts/error-handling-rust/)
 - [Rocket - A web framework for Rust](https://rocket.rs/v0.5-rc/guide/overview/)
 - [Facebook Joins the Rust Foundation](https://developers.facebook.com/blog/post/2021/04/29/facebook-joins-rust-foundation/)
@@ -835,6 +858,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Silicon Angle - Report: NSA awards $10B cloud computing contract to AWS](https://siliconangle.com/2021/08/10/report-nsa-awards-10b-cloud-computing-contract-aws/)
 - [BBC - Pentagon cancels $10bn 'Jedi' contract](https://www.bbc.com/news/business-57739636.amp)
 - [Lex Fridman Podcast - Jeff Atwood: Stack Overflow and Coding Horror](https://lexfridman.com/jeff-atwood/)
 
@@ -907,6 +931,9 @@
 - [InfoQ - Rust Hyper HTTP Library Will Contribute to Make Curl Safer](https://www.infoq.com/news/2020/10/memory-safe-curl-rust/)
 - [Cindy Sridharan - Seamless file descriptor transfer between processes with pidfd and pidfd_getfd](https://copyconstruct.medium.com/seamless-file-descriptor-transfer-between-processes-with-pidfd-and-pidfd-getfd-816afcd19ed4)
 
+### Operating Systems
+- [Michał Piotrowski - "Modern Operating Systems" notes](https://github.com/chlebik/ModernOperatingSystems_AndrewTanenbaum)
+
 ## Linux
 - [Asahi Linux - A project and community with the goal of porting Linux to Apple Silicon Macs](https://asahilinux.org/about/)
 
@@ -921,6 +948,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [GitHub - GitHub's Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
 - [Markdown PDF VSCode plugin](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
 - [GitHub Copilot - Your AI pair programmer](https://copilot.github.com/)
 - [Matthew MacDonald - VS Code and GitHub Get Closer with Remote Repositories](https://medium.com/young-coder/remote-repositories-a-better-experience-for-github-in-vs-code-9edcc7d20a41)
@@ -928,9 +956,9 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Takahiko Kawasaki - Illustrated PAR: OAuth 2.0 Pushed Authorization Requests](https://darutk.medium.com/illustrated-par-oauth-2-0-pushed-authorization-requests-652d71ed5cfb)
 - [Amnesty Tech - NSO Group Pegasus Indicator of Compromise](https://github.com/AmnestyTech/investigations/tree/master/2021-07-18_nso)
 - [Microsoft 365 Security - What I have learned from doing a year of Cloud Forensics in Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/)
-
 - [Google - Zanzibar: Google's Consistent, Global Authorization System](https://research.google/pubs/pub48190)
 - [Tech Monitor - AWS Customers are Opting in to Sharing AI Data Sets with Amazon Outside their Chosen Regions and Many Didn't Know](https://techmonitor.ai/techonology/cloud/aws-user-data)
 - [Gynvael Coldwin - Infosec Certificates, Playing Ctfs, Google's Ctf, and Getting Into Hacking](https://www.youtube.com/watch?v=iIaOqIHGpTc)
