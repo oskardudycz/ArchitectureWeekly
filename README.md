@@ -20,6 +20,55 @@ There are two rules:
 
 -------
 
+### Architecture
+- [Jimmy Bogard - Domain-Driven Refactoring: Encapsulating Data](https://jimmybogard.com/domain-driven-refactoring-encapsulating-data/)
+- [Oren Eini - The cost of queue architecture, and why upfront payment will pay dividends](https://ayende.com/blog/194562-B/the-cost-of-queue-architecture-and-why-upfront-payment-will-pay-dividends)
+- [AWS Cloud Enterprise Strategy Blog - Strategy Is a Winding Road. Mechanisms Keep You on Track](https://aws.amazon.com/blogs/enterprise-strategy/strategy-is-a-winding-road-mechanisms-keep-you-on-track/)
+- [Aaron Stannard - On Generational Thinking](https://aaronstannard.com/intergenerational-thinking)
+
+### Databases
+- [AWS Compute Blog - How to run massively multiplayer games with EC2 Spot using Aurora Serverless](https://aws.amazon.com/blogs/compute/how-to-run-massively-multiplayer-games-with-ec2-spot-using-aurora-serverless/)
+- [CMU Database Group Videos](https://www.youtube.com/c/CMUDatabaseGroup/videos)
+
+### FrontEnd
+- [Netflix JavaScript Talks - Performance Signup in React & Transactional Apps with Redux](https://www.youtube.com/watch?v=V8oTJ8OZ5S0&t=692s)
+- [Chris Coyer - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Chrome DevTools Engineering Blog - CSS Grid tooling in DevTools](https://developer.chrome.com/blog/css-grid-tooling/)
+- [Can I still use it](https://www.canistilluse.com/)
+
+### Operating Systems
+- [Carlos Fenollosa - How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
+
+### .NET
+- [Jeremy D. Miller - Dynamic Code Generation in Marten V4](https://jeremydmiller.com/2021/08/04/dynamic-code-generation-in-marten-v4/)
+- [NScenario - Dead simple library for annotating steps of test case scenarios](https://github.com/cezarypiatek/NScenario)
+- [.NET Interactive Learning - Journey is a learning experience running on .NET Interactive Notebooks where teachers can design a challenge-by-challenge path for students](https://github.com/dotnet-interactive-learning/journey)
+- [Vladimir Khorikov - Specification pattern: C# implementation](https://enterprisecraftsmanship.com/posts/specification-pattern-c-implementation/)
+- [.NET Blog - Performance Improvements in .NET 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6)
+
+### Rust
+- [Jon Gjengset - Crust of Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)
+- [Jan Pochyla - Psst: Fast and multi-platform Spotify client with native GUI](https://github.com/jpochyla/psst)
+
+### Tools
+- [Nicholas Blumhardt - Understanding the Seq Storage view](https://blog.datalust.co/storage-view/)
+- [BloomRPC - GUI Client for GRPC Services](https://github.com/uw-labs/bloomrpc)
+- [Remark Mermaid - A remark plugin for Markdown that replaces mermaid graphs with rendered SVGs](https://github.com/temando/remark-mermaid)
+
+### Coding Life
+- [James Coplien - Scrum Patterns — Not Just About Sucking a Little Less](https://www.youtube.com/watch?v=2k1Oj-mQKnE)
+- [Ela Mościcka - Hiring Managers, you’re doing it wrong!](https://elaintech.com/2021/08/09/hiring-managers-youre-doing-it-wrong/)
+
+### Security
+- [Last Week Tonight with John Oliver - Ransomware](https://www.youtube.com/watch?v=WqD-ATqw3js)
+- [Scott Helme - Here's another free CA as an alternative to Let's Encrypt!](https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/)
+- [Bruce Schneier - Apple’s NeuralHash Algorithm Has Been Reverse-Engineered](https://www.schneier.com/blog/archives/2021/08/apples-neuralhash-algorithm-has-been-reverse-engineered.html)
+
+### Trivia
+- [The Register - Google Groups kills RSS support without notice](https://www.theregister.com/2021/08/16/google_groups_rss/)
+
+-------
+
 ## 16th August 2021
 
 ### Architecture

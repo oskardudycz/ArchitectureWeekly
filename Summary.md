@@ -41,6 +41,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Jimmy Bogard - Domain-Driven Refactoring: Encapsulating Data](https://jimmybogard.com/domain-driven-refactoring-encapsulating-data/)
+- [Oren Eini - The cost of queue architecture, and why upfront payment will pay dividends](https://ayende.com/blog/194562-B/the-cost-of-queue-architecture-and-why-upfront-payment-will-pay-dividends)
+- [How to run massively multiplayer games with EC2 Spot using Aurora Serverless](https://aws.amazon.com/blogs/compute/how-to-run-massively-multiplayer-games-with-ec2-spot-using-aurora-serverless/)
+- [AWS Cloud Enterprise Strategy Blog - Strategy Is a Winding Road. Mechanisms Keep You on Track](https://aws.amazon.com/blogs/enterprise-strategy/strategy-is-a-winding-road-mechanisms-keep-you-on-track/)
+- [Aaron Stannard - On Generational Thinking](https://aaronstannard.com/intergenerational-thinking)
 - [Doc Norton - Technical Debt Trap](https://www.youtube.com/watch?v=xEqRtIeD51k)
 - [The Twelve-Factor App](https://12factor.net/)
 - [Gregor Hohpe - Competing Consumers](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html)
@@ -359,6 +364,10 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Netflix JavaScript Talks - Performance Signup in React & Transactional Apps with Redux](https://www.youtube.com/watch?v=V8oTJ8OZ5S0&t=692s)
+- [Chris Coyer - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Chrome DevTools Engineering Blog - CSS Grid tooling in DevTools](https://developer.chrome.com/blog/css-grid-tooling/)
+- [Can I still use it](https://www.canistilluse.com/)
 - [Sebastian Bełczyk - Building shell application for micro frontends](https://www.softwarepark.cc/blog/2021/7/9/building-shell-application-for-micro-frontends)
 - [htmx - allows you to access AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes](https://htmx.org/)
 - [Paul Burgess - Better React Components with TypeScript Union Types](https://blog.scottlogic.com/2021/07/27/union-types-react-components.html)
@@ -418,6 +427,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [AWS Compute Blog - How to run massively multiplayer games with EC2 Spot using Aurora Serverless](https://aws.amazon.com/blogs/compute/how-to-run-massively-multiplayer-games-with-ec2-spot-using-aurora-serverless/)
+- [CMU Database Group Videos](https://www.youtube.com/c/CMUDatabaseGroup/videos)
 - [Percona - PostgreSQL WAL Retention and Clean Up: pg_archivecleanup](https://www.percona.com/blog/2019/07/10/wal-retention-and-clean-up-pg_archivecleanup/)
 - [Luis Sena - Achieving Sub-Millisecond Latencies With Redis by Using Better Serializers](https://luis-sena.medium.com/achieving-sub-millisecond-latencies-with-redis-by-using-better-serializers-982e0397fd68)
 - [Charlotte Dillon - Can I Run a Database In Kubernetes?](https://www.cockroachlabs.com/blog/kubernetes-databases/)
@@ -496,6 +507,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jeremy D. Miller - Dynamic Code Generation in Marten V4](https://jeremydmiller.com/2021/08/04/dynamic-code-generation-in-marten-v4/)
+- [NScenario - Dead simple library for annotating steps of test case scenarios](https://github.com/cezarypiatek/NScenario)
+- [.NET Interactive Learning - Journey is a learning experience running on .NET Interactive Notebooks where teachers can design a challenge-by-challenge path for students](https://github.com/dotnet-interactive-learning/journey)
+- [Vladimir Khorikov - Specification pattern: C# implementation](https://enterprisecraftsmanship.com/posts/specification-pattern-c-implementation/)
+- [.NET Blog - Performance Improvements in .NET 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6)
 - [Diego Martin - Protecting Sensitive Data in Event-Sourced Systems with Crypto Shredding](https://www.eventstore.com/blog/protecting-sensitive-data-in-event-sourced-systems-with-crypto-shredding-1)
 - [David Fowler - .NET 6 New Apis Twitter Thread](https://twitter.com/davidfowl/status/1422816504060416002)
 - [Cezary Piątek - Readable and clear tests for ASP.NET Core services](https://cezarypiatek.github.io/post/component-tests-scenarios)
@@ -687,6 +703,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [James Coplien - Scrum Patterns — Not Just About Sucking a Little Less](https://www.youtube.com/watch?v=2k1Oj-mQKnE)
+- [Ela Mościcka - Hiring Managers, you’re doing it wrong!](https://elaintech.com/2021/08/09/hiring-managers-youre-doing-it-wrong/)
 - [Kai Glib - 20 Tough Questions every Project Manager and Product Owner should have in their Arsenal. These questions come with warnings](https://www.gilb.com/blog/20-tough-questions-every-project-manager-and-product-owner-should-have-in-their-arsenal-these-questions-come-with-warnings)
 - [Alistair Cockburn - Scrum and overtime work Twitter thread](https://mobile.twitter.com/TotherAlistair/status/1405248217835622402)
 - [Mark Seemann - Am I stuck in a local maximum?](https://blog.ploeh.dk/2021/08/09/am-i-stuck-in-a-local-maximum/)
@@ -844,6 +862,8 @@
 - [Simon Vergauwen - Functional Domain Modeling in Kotlin - Validation](https://www.47deg.com/blog/functional-domain-modeling-part-2/)
 
 ## Rust
+- [Jon Gjengset - Crust of Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)
+- [Jan Pochyla - Psst: Fast and multi-platform Spotify client with native GUI](https://github.com/jpochyla/psst)
 - [Channel 9 - Beginner's Series to Rust](https://channel9.msdn.com/Series/Beginners-Series-to-Rust?WT.mc_id=academic-29077-cxa)
 - [Luca Palmieri - Error Handling In Rust - A Deep Dive](https://www.lpalmieri.com/posts/error-handling-rust/)
 - [Rocket - A web framework for Rust](https://rocket.rs/v0.5-rc/guide/overview/)
@@ -932,6 +952,7 @@
 - [Cindy Sridharan - Seamless file descriptor transfer between processes with pidfd and pidfd_getfd](https://copyconstruct.medium.com/seamless-file-descriptor-transfer-between-processes-with-pidfd-and-pidfd-getfd-816afcd19ed4)
 
 ### Operating Systems
+- [Carlos Fenollosa - How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
 - [Michał Piotrowski - "Modern Operating Systems" notes](https://github.com/chlebik/ModernOperatingSystems_AndrewTanenbaum)
 
 ## Linux
@@ -948,6 +969,9 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Nicholas Blumhardt - Understanding the Seq Storage view](https://blog.datalust.co/storage-view/)
+- [BloomRPC - GUI Client for GRPC Services](https://github.com/uw-labs/bloomrpc)
+- [Remark Mermaid - A remark plugin for Markdown that replaces mermaid graphs with rendered SVGs](https://github.com/temando/remark-mermaid)
 - [GitHub - GitHub's Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
 - [Markdown PDF VSCode plugin](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
 - [GitHub Copilot - Your AI pair programmer](https://copilot.github.com/)
@@ -956,6 +980,9 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Last Week Tonight with John Oliver - Ransomware](https://www.youtube.com/watch?v=WqD-ATqw3js)
+- [Scott Helme - Here's another free CA as an alternative to Let's Encrypt!](https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/)
+- [Bruce Schneier - Apple’s NeuralHash Algorithm Has Been Reverse-Engineered](https://www.schneier.com/blog/archives/2021/08/apples-neuralhash-algorithm-has-been-reverse-engineered.html)
 - [Takahiko Kawasaki - Illustrated PAR: OAuth 2.0 Pushed Authorization Requests](https://darutk.medium.com/illustrated-par-oauth-2-0-pushed-authorization-requests-652d71ed5cfb)
 - [Amnesty Tech - NSO Group Pegasus Indicator of Compromise](https://github.com/AmnestyTech/investigations/tree/master/2021-07-18_nso)
 - [Microsoft 365 Security - What I have learned from doing a year of Cloud Forensics in Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/)
@@ -996,6 +1023,7 @@
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
 ## Trivia
+- [The Register - Google Groups kills RSS support without notice](https://www.theregister.com/2021/08/16/google_groups_rss/)
 - [John Cutler - Google Chrome - High WIP, Online Whiteboard for Visual Collaboration](https://www.loom.com/share/5efceb288b634a449041918bdba08202)
 - [Sean Hickey - The Evolution of a Software Engineer. On Coming Full Circle](https://medium.com/@webseanhickey/the-evolution-of-a-software-engineer-db854689243)
 - [Artur Piszek - Farmers always Worked From Home](https://piszek.com/2021/07/26/farmers-work-from-home/)
