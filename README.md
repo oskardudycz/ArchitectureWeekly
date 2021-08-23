@@ -20,6 +20,8 @@ There are two rules:
 
 -------
 
+## 23rd August 2021
+
 ### Architecture
 - [Jimmy Bogard - Domain-Driven Refactoring: Encapsulating Data](https://jimmybogard.com/domain-driven-refactoring-encapsulating-data/)
 - [Oren Eini - The cost of queue architecture, and why upfront payment will pay dividends](https://ayende.com/blog/194562-B/the-cost-of-queue-architecture-and-why-upfront-payment-will-pay-dividends)
