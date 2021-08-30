@@ -57,12 +57,12 @@ There are two rules:
 
 ### Coding Life
 - [James Coplien - Scrum Patterns — Not Just About Sucking a Little Less](https://www.youtube.com/watch?v=2k1Oj-mQKnE)
-- [Ela Mościcka - Hiring Managers, you’re doing it wrong!](https://elaintech.com/2021/08/09/hiring-managers-youre-doing-it-wrong/)
+- [Ela Mościcka - Hiring Managers, you're doing it wrong!](https://elaintech.com/2021/08/09/hiring-managers-youre-doing-it-wrong/)
 
 ### Security
 - [Last Week Tonight with John Oliver - Ransomware](https://www.youtube.com/watch?v=WqD-ATqw3js)
 - [Scott Helme - Here's another free CA as an alternative to Let's Encrypt!](https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/)
-- [Bruce Schneier - Apple’s NeuralHash Algorithm Has Been Reverse-Engineered](https://www.schneier.com/blog/archives/2021/08/apples-neuralhash-algorithm-has-been-reverse-engineered.html)
+- [Bruce Schneier - Apple's NeuralHash Algorithm Has Been Reverse-Engineered](https://www.schneier.com/blog/archives/2021/08/apples-neuralhash-algorithm-has-been-reverse-engineered.html)
 
 ### Trivia
 - [The Register - Google Groups kills RSS support without notice](https://www.theregister.com/2021/08/16/google_groups_rss/)

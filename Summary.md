@@ -481,7 +481,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
-- [VentureBeat - AI bias is prevalent but preventable — here’s how to root it out](https://venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out)
+- [VentureBeat - AI bias is prevalent but preventable — here's how to root it out](https://venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out)
 - [MIT Technology Review - Hundreds of AI tools have been built to catch covid. None of them helped](https://www.technologyreview.com/2021/07/30/1030329/machine-learning-ai-failed-covid-hospital-diagnosis-pandemic/amp/)
 - [VentureBeat - OpenAI Codex shows the limits of large language models](https://venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models)
 - [Martin Anderson - AI-Generated Language Is Beginning to Pollute Scientific Literature](https://www.unite.ai/ai-generated-language-is-beginning-to-pollute-scientific-literature/)
@@ -704,7 +704,7 @@
 
 ## Coding Life
 - [James Coplien - Scrum Patterns — Not Just About Sucking a Little Less](https://www.youtube.com/watch?v=2k1Oj-mQKnE)
-- [Ela Mościcka - Hiring Managers, you’re doing it wrong!](https://elaintech.com/2021/08/09/hiring-managers-youre-doing-it-wrong/)
+- [Ela Mościcka - Hiring Managers, you're doing it wrong!](https://elaintech.com/2021/08/09/hiring-managers-youre-doing-it-wrong/)
 - [Kai Glib - 20 Tough Questions every Project Manager and Product Owner should have in their Arsenal. These questions come with warnings](https://www.gilb.com/blog/20-tough-questions-every-project-manager-and-product-owner-should-have-in-their-arsenal-these-questions-come-with-warnings)
 - [Alistair Cockburn - Scrum and overtime work Twitter thread](https://mobile.twitter.com/TotherAlistair/status/1405248217835622402)
 - [Mark Seemann - Am I stuck in a local maximum?](https://blog.ploeh.dk/2021/08/09/am-i-stuck-in-a-local-maximum/)
@@ -982,7 +982,7 @@
 ## Security
 - [Last Week Tonight with John Oliver - Ransomware](https://www.youtube.com/watch?v=WqD-ATqw3js)
 - [Scott Helme - Here's another free CA as an alternative to Let's Encrypt!](https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/)
-- [Bruce Schneier - Apple’s NeuralHash Algorithm Has Been Reverse-Engineered](https://www.schneier.com/blog/archives/2021/08/apples-neuralhash-algorithm-has-been-reverse-engineered.html)
+- [Bruce Schneier - Apple's NeuralHash Algorithm Has Been Reverse-Engineered](https://www.schneier.com/blog/archives/2021/08/apples-neuralhash-algorithm-has-been-reverse-engineered.html)
 - [Takahiko Kawasaki - Illustrated PAR: OAuth 2.0 Pushed Authorization Requests](https://darutk.medium.com/illustrated-par-oauth-2-0-pushed-authorization-requests-652d71ed5cfb)
 - [Amnesty Tech - NSO Group Pegasus Indicator of Compromise](https://github.com/AmnestyTech/investigations/tree/master/2021-07-18_nso)
 - [Microsoft 365 Security - What I have learned from doing a year of Cloud Forensics in Azure AD](https://m365internals.com/2021/07/13/what-ive-learned-from-doing-a-year-of-cloud-forensics-in-azure-ad/)
