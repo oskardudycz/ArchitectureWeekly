@@ -38,9 +38,14 @@
   - [Windows](#windows)
   - [Tools](#tools)
   - [Security](#security)
+    - [CosmosDB security](#cosmosdb-security)
   - [Trivia](#trivia)
 
 ## Architecture
+- [Container Solutions Blog - 10 Predictions for the Future of Computing or; the Inane Ramblings of our Chief Scientist](https://blog.container-solutions.com/10-predictions-for-the-future-of-computing)
+- [Cees de Groot - Back to the '70s with Serverless](https://evrl.com/devops/cloud/2020/12/18/serverless.html)
+- [Nathan Curtis- A Design System isn't a Project. It's a Product, Serving Products](https://medium.com/eightshapes-llc/a-design-system-isn-t-a-project-it-s-a-product-serving-products-74dcfffef935)
+- [Yves Reynhout - The To-Do List Pattern](https://blog.bittacklr.be/the-to-do-list-pattern.html)
 - [Jimmy Bogard - Domain-Driven Refactoring: Encapsulating Data](https://jimmybogard.com/domain-driven-refactoring-encapsulating-data/)
 - [Oren Eini - The cost of queue architecture, and why upfront payment will pay dividends](https://ayende.com/blog/194562-B/the-cost-of-queue-architecture-and-why-upfront-payment-will-pay-dividends)
 - [How to run massively multiplayer games with EC2 Spot using Aurora Serverless](https://aws.amazon.com/blogs/compute/how-to-run-massively-multiplayer-games-with-ec2-spot-using-aurora-serverless/)
@@ -221,6 +226,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [AWS Partner Network (APN) Blog - Building a Multi-Tenant SaaS Solution Using AWS Serverless Services](https://aws.amazon.com/blogs/apn/building-a-multi-tenant-saas-solution-using-aws-serverless-services/)
 - [Gunnar Morling - Exploring ZooKeeper-less Kafka](https://www.morling.dev/blog/exploring-zookeeper-less-kafka/)
 - [DeisLabs - Towards Krustlet 1.0 and CNCF Sandbox](https://deislabs.io/posts/towards-krustlet-v1-cncf/)
 - [Zac Charles - How to Trigger a Lambda Function Every 5–10 Seconds](https://zaccharles.medium.com/how-to-trigger-a-lambda-function-every-5-10-seconds-b8459544b166)
@@ -364,6 +370,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [InHuOfficial - 101 Digital Accessibility (a11y) tips and tricks](https://dev.to/inhuofficial/101-digital-accessibility-tips-and-tricks-4728)
 - [Netflix JavaScript Talks - Performance Signup in React & Transactional Apps with Redux](https://www.youtube.com/watch?v=V8oTJ8OZ5S0&t=692s)
 - [Chris Coyer - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Chrome DevTools Engineering Blog - CSS Grid tooling in DevTools](https://developer.chrome.com/blog/css-grid-tooling/)
@@ -427,6 +434,16 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Jon Udell - Postgres functional style](https://blog.jonudell.net/2021/08/21/postgres-functional-style/)
+- [Hussein Nasser - Is EventStoreDB the First Native gRPC Database?](https://www.youtube.com/watch?v=6dDtN1wk5Qc)
+- [Werner Vogels - Amazon DynamoDB – a Fast and Scalable NoSQL Database Service Designed for Internet Scale Applications](https://www.allthingsdistributed.com/2012/01/amazon-dynamodb.html)
+- [Amazon - Dynamo: Amazon's Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+- [James Long - A future for SQL on the web](https://jlongster.com/future-sql-web)
+- [Jon Udell - Postgres functional style](https://blog.jonudell.net/2021/08/21/postgres-functional-style/)
+- [Hussein Nasser - Is EventStoreDB the First Native gRPC Database?](https://www.youtube.com/watch?v=6dDtN1wk5Qc)
+- [Werner Vogels - Amazon DynamoDB – a Fast and Scalable NoSQL Database Service Designed for Internet Scale Applications](https://www.allthingsdistributed.com/2012/01/amazon-dynamodb.html)
+- [Amazon - Dynamo: Amazon's Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+- [James Long - A future for SQL on the web](https://jlongster.com/future-sql-web)
 - [AWS Compute Blog - How to run massively multiplayer games with EC2 Spot using Aurora Serverless](https://aws.amazon.com/blogs/compute/how-to-run-massively-multiplayer-games-with-ec2-spot-using-aurora-serverless/)
 - [CMU Database Group Videos](https://www.youtube.com/c/CMUDatabaseGroup/videos)
 - [Percona - PostgreSQL WAL Retention and Clean Up: pg_archivecleanup](https://www.percona.com/blog/2019/07/10/wal-retention-and-clean-up-pg_archivecleanup/)
@@ -507,6 +524,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Stuart Lang - C# 10 A Sneaky Peek](https://noti.st/stuartlang/S3Warn/c-10-a-sneaky-peek)
+- [Satish Yadav - Defense In-Depth: Designing an HTTP Content Length Restriction Middleware - ASP.NET 5 (or .NET Core)](https://dev.to/satish/defense-in-depth-designing-an-http-content-length-restriction-middleware-asp-net-5-or-net-core-1cpp)
+- [Scott Hanselman - Carter Community for ASP.NET Core means enjoyable Web APIs on the cutting edge](https://www.hanselman.com/blog/carter-community-for-aspnet-core-means-enjoyable-web-apis-on-the-cutting-edge)
+- [Damien Bowden - Improving application security in an ASP.NET Core API using HTTP headers – Part 3](https://damienbod.com/2021/08/30/improving-application-security-in-an-asp-net-core-api-using-http-headers-part-3)
 - [Jeremy D. Miller - Dynamic Code Generation in Marten V4](https://jeremydmiller.com/2021/08/04/dynamic-code-generation-in-marten-v4/)
 - [NScenario - Dead simple library for annotating steps of test case scenarios](https://github.com/cezarypiatek/NScenario)
 - [.NET Interactive Learning - Journey is a learning experience running on .NET Interactive Notebooks where teachers can design a challenge-by-challenge path for students](https://github.com/dotnet-interactive-learning/journey)
@@ -703,6 +724,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Kevlin Henney - Changing Your Priorities](https://kevlinhenney.medium.com/changing-your-priorities-19202e42546e)
 - [James Coplien - Scrum Patterns — Not Just About Sucking a Little Less](https://www.youtube.com/watch?v=2k1Oj-mQKnE)
 - [Ela Mościcka - Hiring Managers, you're doing it wrong!](https://elaintech.com/2021/08/09/hiring-managers-youre-doing-it-wrong/)
 - [Kai Glib - 20 Tough Questions every Project Manager and Product Owner should have in their Arsenal. These questions come with warnings](https://www.gilb.com/blog/20-tough-questions-every-project-manager-and-product-owner-should-have-in-their-arsenal-these-questions-come-with-warnings)
@@ -810,6 +832,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Java
+- [OpenJDK - JEP 413: Code Snippets in Java API Documentation](https://openjdk.java.net/jeps/413)
 - [Gunnar Morling - Serverless Search for My Blog with Java, Quarkus & AWS Lambda](https://www.infoq.com/presentations/quarkus-java-serverless/)
 - [Mario Wolto - Non-Volatile Memory and Java](https://medium.com/@mwolczko/non-volatile-memory-and-java-7ba80f1e730c)
 - [Dávid Csákvári - A categorized list of all Java and JVM features since JDK 8 to 16](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/)
@@ -980,6 +1003,9 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [The Cloudflare Blog - Cloudflare thwarts 17.2M rps DDoS attack — the largest ever reported](https://blog.cloudflare.com/cloudflare-thwarts-17-2m-rps-ddos-attack-the-largest-ever-reported/)
+- [H. Pearce, B. Ahmad, B. Tan, B. Dolan-Gavitt, R. Karri - An Empirical Cybersecurity Evaluation of GitHub Copilot's Code Contributions](https://arxiv.org/pdf/2108.09293.pdf)
+- [Edward Snowden - The All-Seeing "i": Apple Just Declared War on Your Privacy](https://edwardsnowden.substack.com/p/all-seeing-i)
 - [Last Week Tonight with John Oliver - Ransomware](https://www.youtube.com/watch?v=WqD-ATqw3js)
 - [Scott Helme - Here's another free CA as an alternative to Let's Encrypt!](https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/)
 - [Bruce Schneier - Apple's NeuralHash Algorithm Has Been Reverse-Engineered](https://www.schneier.com/blog/archives/2021/08/apples-neuralhash-algorithm-has-been-reverse-engineered.html)
@@ -1021,6 +1047,12 @@
 - [Microsoft 365 Defender Research Team - Analyzing Solorigate, the compromised DLL file that started a sophisticated cyberattack, and how Microsoft Defender helps protect customers](https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
 - [Microsoft - John Lambert - Important steps for customers to protect themselves from recent nation-state cyberattacks](https://blogs.microsoft.com/on-the-issues/2020/12/13/customers-protect-nation-state-cyberattacks/)
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
+
+### CosmosDB security
+- [Reuters - Microsoft warns thousands of cloud customers of exposed databases](https://www.reuters.com/technology/exclusive-microsoft-warns-thousands-cloud-customers-exposed-databases-emails-2021-08-26/)
+- [WIZ - ChaosDB: How we hacked thousands of Azure customers' databases](https://www.wiz.io/blog/chaosdb-how-we-hacked-thousands-of-azure-customers-databases)
+- [WIZ - Protecting your environment from ChaosDB](https://www.wiz.io/blog/protecting-your-environment-from-chaosdb)
+- [David Okeyode - Protecting against #ChaosDB](https://davidokeyode.medium.com/protecting-against-chaosdb-262a5936f246)
 
 ## Trivia
 - [The Register - Google Groups kills RSS support without notice](https://www.theregister.com/2021/08/16/google_groups_rss/)
