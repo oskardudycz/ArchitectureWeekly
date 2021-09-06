@@ -42,6 +42,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Derek Comartin - Message Driven Architecture to DECOUPLE a Monolith](https://www.youtube.com/watch?v=bxGkavGaEiM)
+- [Kevin Webber - Modelling Reactive Systems with Event Storming and Domain-Driven Design](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7)
+- [InfoQ - Martin Mao on Observability, Focusing on Alerting, Triage, & RCA](https://www.infoq.com/podcasts/observability-alerting-triage-rca/)
+- [CTO Craft - Data-driven negotiation with SLIs, SLOs, and Error Budgets – Part One](https://ctocraft.com/blog/data-driven-negotiation-with-slis-slos-and-error-budgets-part-one/)
 - [Container Solutions Blog - 10 Predictions for the Future of Computing or; the Inane Ramblings of our Chief Scientist](https://blog.container-solutions.com/10-predictions-for-the-future-of-computing)
 - [Cees de Groot - Back to the '70s with Serverless](https://evrl.com/devops/cloud/2020/12/18/serverless.html)
 - [Nathan Curtis- A Design System isn't a Project. It's a Product, Serving Products](https://medium.com/eightshapes-llc/a-design-system-isn-t-a-project-it-s-a-product-serving-products-74dcfffef935)
@@ -226,6 +230,11 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Martin Kleppmann - Distributed Systems Series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+- [Cockroach Labs - 2021 Cloud Report](https://www.cockroachlabs.com/guides/2021-cloud-report/)
+- [Adam Warski - First look at Akka Serverless](https://softwaremill.com/first-look-at-akka-serverless/)
+- [Ben Smith - Microservice integration patterns](https://10consulting.com/2019/04/12/microservice-integration-patterns/)
+- [AWS Compute Blog - Building a serverless distributed application using a saga orchestration pattern](https://aws.amazon.com/blogs/compute/building-a-serverless-distributed-application-using-a-saga-orchestration-pattern/)
 - [AWS Partner Network (APN) Blog - Building a Multi-Tenant SaaS Solution Using AWS Serverless Services](https://aws.amazon.com/blogs/apn/building-a-multi-tenant-saas-solution-using-aws-serverless-services/)
 - [Gunnar Morling - Exploring ZooKeeper-less Kafka](https://www.morling.dev/blog/exploring-zookeeper-less-kafka/)
 - [DeisLabs - Towards Krustlet 1.0 and CNCF Sandbox](https://deislabs.io/posts/towards-krustlet-v1-cncf/)
@@ -336,6 +345,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Docker - Docker is Updating and Extending Our Product Subscriptions](https://www.docker.com/blog/updating-product-subscriptions/)
+- [Donovan Brown - Codespaces meet Dapr](https://www.donovanbrown.com/post/codespaces-meet-dapr)
 - [Cloudogu - Examples for jenkins pipelines, comparing scripted and declarative syntax](https://github.com/cloudogu/jenkinsfiles)
 - [Concourse - An open-source continuous thing-doer](https://concourse-ci.org/)
 - [Google - SRE Book](https://sre.google/sre-book/table-of-contents/)
@@ -405,6 +416,7 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Jeremy D. Miller - A brain dump on automated integration testing](https://jeremydmiller.com/2021/08/31/a-brain-dump-on-automated-integration-testing/)
 - [Gremlin - Chaos Monkey Alternatives: Docker](https://www.gremlin.com/chaos-monkey/chaos-monkey-alternatives/docker/)
 - [Dan North - We need to talk about testing](https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/)
 - [J. B. Rainsberger - Beyond Mock Objects](https://blog.thecodewhisperer.com/permalink/beyond-mock-objects)
@@ -498,6 +510,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Google - High Fidelity Image Generation Using Diffusion Models](https://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html)
 - [VentureBeat - AI bias is prevalent but preventable — here's how to root it out](https://venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out)
 - [MIT Technology Review - Hundreds of AI tools have been built to catch covid. None of them helped](https://www.technologyreview.com/2021/07/30/1030329/machine-learning-ai-failed-covid-hospital-diagnosis-pandemic/amp/)
 - [VentureBeat - OpenAI Codex shows the limits of large language models](https://venturebeat.com/2021/07/18/openai-codex-shows-the-limits-of-large-language-models)
@@ -524,6 +537,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Ben Foster - From MVC to Minimal APIs with ASP.NET Core 6.0](https://benfoster.io/blog/mvc-to-minimal-apis-aspnet-6/)
+- [Elmah.io - Stream large content from ASP.NET Core to avoid OutOfMemoryException](https://blog.elmah.io/stream-large-content-from-asp-net-core-to-avoid-outofmemoryexception/)
+- [.NET Blog - File IO improvements in .NET 6](https://devblogs.microsoft.com/dotnet/file-io-improvements-in-dotnet-6/)
+- [Mark Seemann - The Command Handler contravariant functor](https://blog.ploeh.dk/2021/09/06/the-command-handler-contravariant-functor/)
+- [Konrad Kokosa - Mobius.ILasm - Common Intermediate Language (CIL) assembler available as a library, based on Mono assembler](https://github.com/kkokosa/Mobius.ILasm)
 - [Stuart Lang - C# 10 A Sneaky Peek](https://noti.st/stuartlang/S3Warn/c-10-a-sneaky-peek)
 - [Satish Yadav - Defense In-Depth: Designing an HTTP Content Length Restriction Middleware - ASP.NET 5 (or .NET Core)](https://dev.to/satish/defense-in-depth-designing-an-http-content-length-restriction-middleware-asp-net-5-or-net-core-1cpp)
 - [Scott Hanselman - Carter Community for ASP.NET Core means enjoyable Web APIs on the cutting edge](https://www.hanselman.com/blog/carter-community-for-aspnet-core-means-enjoyable-web-apis-on-the-cutting-edge)
@@ -724,6 +742,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Matt Neuburg - Picturing Git: Conceptions and Misconceptions](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/)
 - [Kevlin Henney - Changing Your Priorities](https://kevlinhenney.medium.com/changing-your-priorities-19202e42546e)
 - [James Coplien - Scrum Patterns — Not Just About Sucking a Little Less](https://www.youtube.com/watch?v=2k1Oj-mQKnE)
 - [Ela Mościcka - Hiring Managers, you're doing it wrong!](https://elaintech.com/2021/08/09/hiring-managers-youre-doing-it-wrong/)
@@ -847,6 +866,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Captain Yossarian - Safer TypeScript](https://catchts.com/safer-types)
 - [Arnaud Leymet - 7 TypeScript Tricks with Enum (and Fruits)](https://dev.to/prod/mastering-enums-in-typescript-1c1j)
 - [Luis Aviles - How to Implement an Event Bus in TypeScript](https://www.thisdot.co/blog/how-to-implement-an-event-bus-in-typescript)
 - [Jesse Hallett - When to use `never` and `unknown` in TypeScript](https://blog.logrocket.com/when-to-use-never-and-unknown-in-typescript-5e4d6c5799ad/)
@@ -856,6 +876,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## NodeJS
+- [reSolve - Full stack CQRS, DDD, Event Sourcing framework for Node.js](https://reimagined.github.io/resolve/)
 - [Mark Michon - Add Retries to Your API Calls](https://blog.bearer.sh/add-retry-to-api-calls-javascript-node/)
 - [Alvin Lal - Single thread vs child process vs worker threads vs cluster in nodejs](https://alvinlal.netlify.app/blog/single-thread-vs-child-process-vs-worker-threads-vs-cluster-in-nodejs)
 - [Alberto Gimeno - Node.js multithreading: What are Worker threads, and why do they matter?](https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10/)
@@ -901,6 +922,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Iain Cambridge - Hiring Developers: How to avoid the best](https://www.getparthenon.com/blog/how-to-avoid-hiring-the-best-developers/)
 - [Silicon Angle - Report: NSA awards $10B cloud computing contract to AWS](https://siliconangle.com/2021/08/10/report-nsa-awards-10b-cloud-computing-contract-aws/)
 - [BBC - Pentagon cancels $10bn 'Jedi' contract](https://www.bbc.com/news/business-57739636.amp)
 - [Lex Fridman Podcast - Jeff Atwood: Stack Overflow and Coding Horror](https://lexfridman.com/jeff-atwood/)
