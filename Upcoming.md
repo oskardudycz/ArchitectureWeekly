@@ -1,3 +1,45 @@
 # Upcoming Links
 
 ## 6th August 2021
+
+### Architecture
+- [Derek Comartin - Message Driven Architecture to DECOUPLE a Monolith](https://www.youtube.com/watch?v=bxGkavGaEiM)
+- [Kevin Webber - Modelling Reactive Systems with Event Storming and Domain-Driven Design](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7)
+- [InfoQ - Martin Mao on Observability, Focusing on Alerting, Triage, & RCA](https://www.infoq.com/podcasts/observability-alerting-triage-rca/)
+- [CTO Craft - Data-driven negotiation with SLIs, SLOs, and Error Budgets – Part One](https://ctocraft.com/blog/data-driven-negotiation-with-slis-slos-and-error-budgets-part-one/)
+
+### Distributed Systems
+- [Martin Kleppmann - Distributed Systems Series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+- [Cockroach Labs - 2021 Cloud Report](https://www.cockroachlabs.com/guides/2021-cloud-report/)
+- [Adam Warski - First look at Akka Serverless](https://softwaremill.com/first-look-at-akka-serverless/)
+- [Ben Smith - Microservice integration patterns](https://10consulting.com/2019/04/12/microservice-integration-patterns/)
+- [AWS Compute Blog - Building a serverless distributed application using a saga orchestration pattern](https://aws.amazon.com/blogs/compute/building-a-serverless-distributed-application-using-a-saga-orchestration-pattern/)
+
+### DevOps
+- [Docker - Docker is Updating and Extending Our Product Subscriptions](https://www.docker.com/blog/updating-product-subscriptions/)
+- [Donovan Brown - Codespaces meet Dapr](https://www.donovanbrown.com/post/codespaces-meet-dapr)
+
+### Testing
+- [Jeremy D. Miller - A brain dump on automated integration testing](https://jeremydmiller.com/2021/08/31/a-brain-dump-on-automated-integration-testing/)
+
+### AI
+- [Google - High Fidelity Image Generation Using Diffusion Models](https://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html)
+
+### .NET
+- [Ben Foster - From MVC to Minimal APIs with ASP.NET Core 6.0](https://benfoster.io/blog/mvc-to-minimal-apis-aspnet-6/)
+- [Elmah.io - Stream large content from ASP.NET Core to avoid OutOfMemoryException](https://blog.elmah.io/stream-large-content-from-asp-net-core-to-avoid-outofmemoryexception/)
+- [.NET Blog - File IO improvements in .NET 6](https://devblogs.microsoft.com/dotnet/file-io-improvements-in-dotnet-6/)
+- [Mark Seemann - The Command Handler contravariant functor](https://blog.ploeh.dk/2021/09/06/the-command-handler-contravariant-functor/)
+- [Konrad Kokosa - Mobius.ILasm - Common Intermediate Language (CIL) assembler available as a library, based on Mono assembler](https://github.com/kkokosa/Mobius.ILasm)
+
+### NodeJS
+- [reSolve - Full stack CQRS, DDD, Event Sourcing framework for Node.js](https://reimagined.github.io/resolve/)
+
+### TypeScript
+- [Captain Yossarian - Safer TypeScript](https://catchts.com/safer-types)
+
+### Coding Life
+- [Matt Neuburg - Picturing Git: Conceptions and Misconceptions](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/)
+
+### Industry
+- [Iain Cambridge - Hiring Developers: How to avoid the best](https://www.getparthenon.com/blog/how-to-avoid-hiring-the-best-developers/)
