@@ -1,36 +1,4 @@
 # Upcoming Links
 
-## 13th September 2021
+## 20th September 2021
 
-### Architecture
-- [Diátaxis Framework - A systematic framework for technical documentation authoring](https://diataxis.fr/)
-- [Michael Plöd  - Identification of quality requirements with Quality Storming](https://www.innoq.com/en/articles/2020/02/quality-storming-workshop/)
-- [Nathania Gilson - How To Make A Service Blueprint — With Examples!](https://miro.com/guides/service-blueprints/)
-- [Alistair Cockburn - Hexagonal architecture](https://alistair.cockburn.us/hexagonal-architecture/)
-- [Stephan Schmidt - Radical Simplicity in Technology](https://www.radicalsimpli.city/)
-
-### DevOps
-- [Steve Smith - GitOps is a placebo](https://www.stevesmith.tech/blog/gitops-is-a-placebo/)
-- [Adam Burns - Azure Pipelines: Loops](https://operatingops.com/2021/03/04/azure-pipelines-loops/)
-
-### Java
-- [Nicolas Fränkel - Annotation-free Spring](https://blog.frankel.ch/annotation-free-spring/)
-
-### .NET
-- [Andrew Zuo - C# Is Dying And Microsoft Is Killing It](https://medium.com/codex/c-is-dying-fa21a96107c5)
-- [Dmitry Tikhonov - "Maybe" monad through async/await in C# (No Tasks!)](https://habr.com/en/post/458692/)
-- [Juan Alberto España Garcia - C# 10 is HERE! 5 features that will blow your mind](https://medium.com/dotnetsafer/c-10-is-here-5-features-that-will-blow-your-mind-d342a93dad7)
-- [Jürgen Gutsch - ASP.​NET Core in .NET 6 - Async streaming](https://asp.net-hacker.rocks/2021/09/02/aspnetcore6-async-stream.html)
-- [Gérald Barré - How not to read a string from an UTF-8 stream](https://www.meziantou.net/how-not-to-read-a-string-from-an-utf-8-stream.htm)
-
-### Coding Life
-- [Lex Fridman Podcast - Donald Knuth: Programming, Algorithms, Hard Problems & the Game of Life](https://www.youtube.com/watch?v=EE1R8FYUJm0)
-- [InfoQ - Stack Overflow's 2021 Developer Survey Uncovers New Trends in Tech and Work](https://www.infoq.com/news/2021/09/so-developer-survey-2021/)
-
-### Security
-- [Sergey Vasiliev - How Visual Studio 2022 ate up 100 GB of memory and what XML bombs had to do with it](https://pvs-studio.com/en/blog/posts/csharp/0865/)
-
-### Industry
-- [The Register - HashiCorp runs low on staff, calls a halt to Terraform pull requests](https://www.theregister.com//2021/09/07/hashicorp_pause)
-- [CNBC - Apple can no longer force developers to use in-app purchasing, judge rules in Epic Games case](https://www.cnbc.com/2021/09/10/epic-games-v-apple-judge-reaches-decision-.html)
-- [M.G. Siegler - Apple Won a Battle to Lose the War](https://500ish.com/apple-won-a-battle-to-lose-the-war-3ce6c3701918)

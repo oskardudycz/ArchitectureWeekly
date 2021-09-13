@@ -42,6 +42,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Diátaxis Framework - A systematic framework for technical documentation authoring](https://diataxis.fr/)
+- [Michael Plöd  - Identification of quality requirements with Quality Storming](https://www.innoq.com/en/articles/2020/02/quality-storming-workshop/)
+- [Nathania Gilson - How To Make A Service Blueprint — With Examples!](https://miro.com/guides/service-blueprints/)
+- [Alistair Cockburn - Hexagonal architecture](https://alistair.cockburn.us/hexagonal-architecture/)
+- [Stephan Schmidt - Radical Simplicity in Technology](https://www.radicalsimpli.city/)
 - [Derek Comartin - Message Driven Architecture to DECOUPLE a Monolith](https://www.youtube.com/watch?v=bxGkavGaEiM)
 - [Kevin Webber - Modelling Reactive Systems with Event Storming and Domain-Driven Design](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7)
 - [InfoQ - Martin Mao on Observability, Focusing on Alerting, Triage, & RCA](https://www.infoq.com/podcasts/observability-alerting-triage-rca/)
@@ -345,6 +350,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Steve Smith - GitOps is a placebo](https://www.stevesmith.tech/blog/gitops-is-a-placebo/)
+- [Adam Burns - Azure Pipelines: Loops](https://operatingops.com/2021/03/04/azure-pipelines-loops/)
 - [Docker - Docker is Updating and Extending Our Product Subscriptions](https://www.docker.com/blog/updating-product-subscriptions/)
 - [Donovan Brown - Codespaces meet Dapr](https://www.donovanbrown.com/post/codespaces-meet-dapr)
 - [Cloudogu - Examples for jenkins pipelines, comparing scripted and declarative syntax](https://github.com/cloudogu/jenkinsfiles)
@@ -537,6 +544,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Andrew Zuo - C# Is Dying And Microsoft Is Killing It](https://medium.com/codex/c-is-dying-fa21a96107c5)
+- [Dmitry Tikhonov - "Maybe" monad through async/await in C# (No Tasks!)](https://habr.com/en/post/458692/)
+- [Juan Alberto España Garcia - C# 10 is HERE! 5 features that will blow your mind](https://medium.com/dotnetsafer/c-10-is-here-5-features-that-will-blow-your-mind-d342a93dad7)
+- [Jürgen Gutsch - ASP.​NET Core in .NET 6 - Async streaming](https://asp.net-hacker.rocks/2021/09/02/aspnetcore6-async-stream.html)
+- [Gérald Barré - How not to read a string from an UTF-8 stream](https://www.meziantou.net/how-not-to-read-a-string-from-an-utf-8-stream.htm)
 - [Ben Foster - From MVC to Minimal APIs with ASP.NET Core 6.0](https://benfoster.io/blog/mvc-to-minimal-apis-aspnet-6/)
 - [Elmah.io - Stream large content from ASP.NET Core to avoid OutOfMemoryException](https://blog.elmah.io/stream-large-content-from-asp-net-core-to-avoid-outofmemoryexception/)
 - [.NET Blog - File IO improvements in .NET 6](https://devblogs.microsoft.com/dotnet/file-io-improvements-in-dotnet-6/)
@@ -742,6 +754,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Lex Fridman Podcast - Donald Knuth: Programming, Algorithms, Hard Problems & the Game of Life](https://www.youtube.com/watch?v=EE1R8FYUJm0)
+- [InfoQ - Stack Overflow's 2021 Developer Survey Uncovers New Trends in Tech and Work](https://www.infoq.com/news/2021/09/so-developer-survey-2021/)
 - [Matt Neuburg - Picturing Git: Conceptions and Misconceptions](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/)
 - [Kevlin Henney - Changing Your Priorities](https://kevlinhenney.medium.com/changing-your-priorities-19202e42546e)
 - [James Coplien - Scrum Patterns — Not Just About Sucking a Little Less](https://www.youtube.com/watch?v=2k1Oj-mQKnE)
@@ -851,6 +865,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Java
+- [Nicolas Fränkel - Annotation-free Spring](https://blog.frankel.ch/annotation-free-spring/)
 - [OpenJDK - JEP 413: Code Snippets in Java API Documentation](https://openjdk.java.net/jeps/413)
 - [Gunnar Morling - Serverless Search for My Blog with Java, Quarkus & AWS Lambda](https://www.infoq.com/presentations/quarkus-java-serverless/)
 - [Mario Wolto - Non-Volatile Memory and Java](https://medium.com/@mwolczko/non-volatile-memory-and-java-7ba80f1e730c)
@@ -922,6 +937,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [The Register - HashiCorp runs low on staff, calls a halt to Terraform pull requests](https://www.theregister.com//2021/09/07/hashicorp_pause)
+- [CNBC - Apple can no longer force developers to use in-app purchasing, judge rules in Epic Games case](https://www.cnbc.com/2021/09/10/epic-games-v-apple-judge-reaches-decision-.html)
+- [M.G. Siegler - Apple Won a Battle to Lose the War](https://500ish.com/apple-won-a-battle-to-lose-the-war-3ce6c3701918)
 - [Iain Cambridge - Hiring Developers: How to avoid the best](https://www.getparthenon.com/blog/how-to-avoid-hiring-the-best-developers/)
 - [Silicon Angle - Report: NSA awards $10B cloud computing contract to AWS](https://siliconangle.com/2021/08/10/report-nsa-awards-10b-cloud-computing-contract-aws/)
 - [BBC - Pentagon cancels $10bn 'Jedi' contract](https://www.bbc.com/news/business-57739636.amp)
@@ -1025,6 +1043,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Sergey Vasiliev - How Visual Studio 2022 ate up 100 GB of memory and what XML bombs had to do with it](https://pvs-studio.com/en/blog/posts/csharp/0865/)
 - [The Cloudflare Blog - Cloudflare thwarts 17.2M rps DDoS attack — the largest ever reported](https://blog.cloudflare.com/cloudflare-thwarts-17-2m-rps-ddos-attack-the-largest-ever-reported/)
 - [H. Pearce, B. Ahmad, B. Tan, B. Dolan-Gavitt, R. Karri - An Empirical Cybersecurity Evaluation of GitHub Copilot's Code Contributions](https://arxiv.org/pdf/2108.09293.pdf)
 - [Edward Snowden - The All-Seeing "i": Apple Just Declared War on Your Privacy](https://edwardsnowden.substack.com/p/all-seeing-i)
