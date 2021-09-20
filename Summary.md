@@ -42,6 +42,8 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Pat Helland - Escaping the Singularity](https://queue.acm.org/detail.cfm?id=3226077)
+- [M. Verraes and R. Wirfs-Brock - Design and Reality](https://verraes.net/2021/09/design-and-reality/)
 - [Diátaxis Framework - A systematic framework for technical documentation authoring](https://diataxis.fr/)
 - [Michael Plöd  - Identification of quality requirements with Quality Storming](https://www.innoq.com/en/articles/2020/02/quality-storming-workshop/)
 - [Nathania Gilson - How To Make A Service Blueprint — With Examples!](https://miro.com/guides/service-blueprints/)
@@ -235,6 +237,9 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [M. Kleppmann, A.R. Beresford, B.S. - Online Event Processing. Achieving consistency where distributed transactions have failed](https://queue.acm.org/detail.cfm?id=3321612)
+- [Lightbend - Akka gRPC update delivers 1200% performance improvement (so what happened?)](https://www.lightbend.com/blog/akka-grpc-update-delivers-1200-percent-performance-improvement)
+- [AWS - Introducing Amazon MSK Connect – Stream Data to and from Your Apache Kafka Clusters Using Managed Connectors](https://aws.amazon.com/blogs/aws/introducing-amazon-msk-connect-stream-data-to-and-from-your-apache-kafka-clusters-using-managed-connectors/)
 - [Martin Kleppmann - Distributed Systems Series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - [Cockroach Labs - 2021 Cloud Report](https://www.cockroachlabs.com/guides/2021-cloud-report/)
 - [Adam Warski - First look at Akka Serverless](https://softwaremill.com/first-look-at-akka-serverless/)
@@ -388,6 +393,8 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Li Yinlong (Leon)  - Micro Frontends - Open a New Frontend Development Experience](https://www.thoughtworks.com/insights/blog/architecture/micro-frontends-open-a-new-frontend-development-experience)
+- [Stack - A presentation library with intuitive, scroll-based navigation](https://mbostock.github.io/stack/)
 - [InHuOfficial - 101 Digital Accessibility (a11y) tips and tricks](https://dev.to/inhuofficial/101-digital-accessibility-tips-and-tricks-4728)
 - [Netflix JavaScript Talks - Performance Signup in React & Transactional Apps with Redux](https://www.youtube.com/watch?v=V8oTJ8OZ5S0&t=692s)
 - [Chris Coyer - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -423,6 +430,7 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Carissa Blossom - User Simulation for Rapid Outage Mitigation](https://www.infoq.com/presentations/uber-monitoring-services/)
 - [Jeremy D. Miller - A brain dump on automated integration testing](https://jeremydmiller.com/2021/08/31/a-brain-dump-on-automated-integration-testing/)
 - [Gremlin - Chaos Monkey Alternatives: Docker](https://www.gremlin.com/chaos-monkey/chaos-monkey-alternatives/docker/)
 - [Dan North - We need to talk about testing](https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/)
@@ -453,6 +461,12 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Gregory Young - How an EventStore actually works](https://www.youtube.com/watch?v=YUjO1wM0PZM)
+- [Jon Gjengset - Rust at speed — building a fast concurrent database](https://www.youtube.com/watch?v=s19G6n0UjsM)
+- [Krithika Balagurunathan - 4 Reasons Why Your Database Should Be Multiregion](https://thenewstack.io/4-reasons-why-your-database-should-be-multiregion/)
+- [Percona - BRIN Index for PostgreSQL: Don’t Forget the Benefits](https://www.percona.com/blog/2019/07/16/brin-index-for-postgresql-dont-forget-the-benefits/)
+- [Postgres - Trademark Actions Against the PostgreSQL Community](https://www.postgresql.org/about/news/trademark-actions-against-the-postgresql-community-2302/)
+- [Fundación PostgreSQL - Postgres Core Team launches unprecedented attack against the Postgres Community](https://postgresql.fund/blog/postgres-core-team-attacks-postgres-community/)
 - [Jon Udell - Postgres functional style](https://blog.jonudell.net/2021/08/21/postgres-functional-style/)
 - [Hussein Nasser - Is EventStoreDB the First Native gRPC Database?](https://www.youtube.com/watch?v=6dDtN1wk5Qc)
 - [Werner Vogels - Amazon DynamoDB – a Fast and Scalable NoSQL Database Service Designed for Internet Scale Applications](https://www.allthingsdistributed.com/2012/01/amazon-dynamodb.html)
@@ -544,6 +558,12 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [David Fowler - Minimal APIs at a glance](https://gist.github.com/davidfowl/ff1addd02d239d2d26f4648a06158727)
+- [David Fowler - Migration to ASP.NET Core in .NET 6](https://gist.github.com/davidfowl/0e0372c3c1d895c3ce195ba983b1e03d)
+- [Harry McIntyre - ValueOf - Deal with Primitive Obsession - define ValueObjects in a single line (of C#)](https://github.com/mcintyre321/ValueOf)
+- [Andrew Lock - StronglyTypedId - A Rosyln-powered generator for strongly-typed IDs](https://github.com/andrewlock/StronglyTypedId)
+- [Ankit Vijay - Gotchas with switch expression](https://ankitvijay.net/2021/09/04/c-gotchas-with-switch-expression)
+- [Davide Bellone - How to customize fields generation in Visual Studio 2019](https://www.code4it.dev/blog/auto-creating-fields-vs)
 - [Andrew Zuo - C# Is Dying And Microsoft Is Killing It](https://medium.com/codex/c-is-dying-fa21a96107c5)
 - [Dmitry Tikhonov - "Maybe" monad through async/await in C# (No Tasks!)](https://habr.com/en/post/458692/)
 - [Juan Alberto España Garcia - C# 10 is HERE! 5 features that will blow your mind](https://medium.com/dotnetsafer/c-10-is-here-5-features-that-will-blow-your-mind-d342a93dad7)
@@ -1043,6 +1063,10 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [WIZ - OMIGOD: Critical Vulnerabilities in OMI Affecting Countless Azure Customers](https://www.wiz.io/blog/omigod-critical-vulnerabilities-in-omi-azure)
+- [A. Zelivansky, Y. Avrahami - What You Need to Know About Azurescape](https://www.paloaltonetworks.com/blog/2021/09/azurescape/)
+- [OWASP - Session Management Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html)
+- [Data Breach Today - Travis CI Flaw Exposed Secrets From Public Repositories](https://www.databreachtoday.com/travis-ci-flaw-exposed-secrets-from-public-repositories-a-17535)
 - [Sergey Vasiliev - How Visual Studio 2022 ate up 100 GB of memory and what XML bombs had to do with it](https://pvs-studio.com/en/blog/posts/csharp/0865/)
 - [The Cloudflare Blog - Cloudflare thwarts 17.2M rps DDoS attack — the largest ever reported](https://blog.cloudflare.com/cloudflare-thwarts-17-2m-rps-ddos-attack-the-largest-ever-reported/)
 - [H. Pearce, B. Ahmad, B. Tan, B. Dolan-Gavitt, R. Karri - An Empirical Cybersecurity Evaluation of GitHub Copilot's Code Contributions](https://arxiv.org/pdf/2108.09293.pdf)
@@ -1096,6 +1120,8 @@
 - [David Okeyode - Protecting against #ChaosDB](https://davidokeyode.medium.com/protecting-against-chaosdb-262a5936f246)
 
 ## Trivia
+- [Vaidehi Joshi - Reflections on Burnout](https://medium.com/@vaidehijoshi/reflections-on-burnout-bea0ebf87b9)
+- [The Register - Ballmer: 'Linux is a cancer'](https://www.theregister.com/2001/06/02/ballmer_linux_is_a_cancer/)
 - [The Register - Google Groups kills RSS support without notice](https://www.theregister.com/2021/08/16/google_groups_rss/)
 - [John Cutler - Google Chrome - High WIP, Online Whiteboard for Visual Collaboration](https://www.loom.com/share/5efceb288b634a449041918bdba08202)
 - [Sean Hickey - The Evolution of a Software Engineer. On Coming Full Circle](https://medium.com/@webseanhickey/the-evolution-of-a-software-engineer-db854689243)
