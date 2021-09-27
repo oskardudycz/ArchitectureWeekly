@@ -17,6 +17,8 @@
     - [OpenTelemetry in .NET](#opentelemetry-in-net)
     - [WebAssembly](#webassembly)
   - [Coding Life](#coding-life)
+    - [Management](#management)
+    - [Product Design](#product-design)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [TypeScript](#typescript)
@@ -42,6 +44,9 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Bob Nystrom - What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+- [Event Store Conversation: Exceptions to the Rules... Yves Reynhout talks to Yves](https://www.youtube.com/watch?v=tjiuDQbkRFY)
+- [HackerNews - DDD discussion (rant)](https://news.ycombinator.com/item?id=28667359)
 - [Pat Helland - Escaping the Singularity](https://queue.acm.org/detail.cfm?id=3226077)
 - [M. Verraes and R. Wirfs-Brock - Design and Reality](https://verraes.net/2021/09/design-and-reality/)
 - [Diátaxis Framework - A systematic framework for technical documentation authoring](https://diataxis.fr/)
@@ -237,6 +242,10 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Bilgin Ibryam - Distributed transaction patterns for microservices compared](https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared)
+- [David Boike - RPC vs. Messaging – which is faster?](https://particular.net/blog/rpc-vs-messaging-which-is-faster)
+- [Uber Engineering - Real-Time Exactly-Once Ad Event Processing with Apache Flink, Kafka, and Pinot](https://eng.uber.com/real-time-exactly-once-ad-event-processing/)
+- [Kafka - What's New in Apache Kafka 3.0.0](https://blogs.apache.org/kafka/entry/what-s-new-in-apache6)
 - [M. Kleppmann, A.R. Beresford, B.S. - Online Event Processing. Achieving consistency where distributed transactions have failed](https://queue.acm.org/detail.cfm?id=3321612)
 - [Lightbend - Akka gRPC update delivers 1200% performance improvement (so what happened?)](https://www.lightbend.com/blog/akka-grpc-update-delivers-1200-percent-performance-improvement)
 - [AWS - Introducing Amazon MSK Connect – Stream Data to and from Your Apache Kafka Clusters Using Managed Connectors](https://aws.amazon.com/blogs/aws/introducing-amazon-msk-connect-stream-data-to-and-from-your-apache-kafka-clusters-using-managed-connectors/)
@@ -355,6 +364,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Ivan Velichko - Container Networking Is Simple!](https://iximiuz.com/en/posts/container-networking-is-simple/)
 - [Steve Smith - GitOps is a placebo](https://www.stevesmith.tech/blog/gitops-is-a-placebo/)
 - [Adam Burns - Azure Pipelines: Loops](https://operatingops.com/2021/03/04/azure-pipelines-loops/)
 - [Docker - Docker is Updating and Extending Our Product Subscriptions](https://www.docker.com/blog/updating-product-subscriptions/)
@@ -393,6 +403,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Allegro Tech Blog - Jerzy Jelinek - Evolution of web performance culture](https://blog.allegro.tech/2021/09/evolution-of-web-performance-culture.html)
 - [Li Yinlong (Leon)  - Micro Frontends - Open a New Frontend Development Experience](https://www.thoughtworks.com/insights/blog/architecture/micro-frontends-open-a-new-frontend-development-experience)
 - [Stack - A presentation library with intuitive, scroll-based navigation](https://mbostock.github.io/stack/)
 - [InHuOfficial - 101 Digital Accessibility (a11y) tips and tricks](https://dev.to/inhuofficial/101-digital-accessibility-tips-and-tricks-4728)
@@ -449,6 +460,7 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [Phil Sturgeon - REST and Hypermedia in 2019](https://apisyouwonthate.com/blog/rest-and-hypermedia-in-2019)
 - [Brandur - Why form encoding in web APIs is an anti-pattern](https://brandur.org/fragments/application-x-wwww-form-urlencoded)
 - [Microsoft - Web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - [StackOverflow - John Au-Yeung - Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
@@ -461,6 +473,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Supabase - The Open Source Firebase Alternative on top of Postgres](https://supabase.io/)
 - [Gregory Young - How an EventStore actually works](https://www.youtube.com/watch?v=YUjO1wM0PZM)
 - [Jon Gjengset - Rust at speed — building a fast concurrent database](https://www.youtube.com/watch?v=s19G6n0UjsM)
 - [Krithika Balagurunathan - 4 Reasons Why Your Database Should Be Multiregion](https://thenewstack.io/4-reasons-why-your-database-should-be-multiregion/)
@@ -548,6 +561,7 @@
 - [InfoWorld - Simon Bisson - Jumping into Azure Arc Data Services](https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.amp.html)
 
 ## Functional Programming
+- [Marco Perone - Either why or how](http://marcosh.github.io/post/2021/09/24/either-why-or-how.html)
 - [Tony Morris - Data Types, Algebra, Parametricity, Optics](https://www.youtube.com/watch?v=v3uJSlklQT4)
 - [Railway oriented programming](https://fsharpforfunandprofit.com/posts/recipe-part2/)
 - [Scott Wlaschin - Against Railway-Oriented Programming](https://fsharpforfunandprofit.com/posts/against-railway-oriented-programming/)
@@ -558,6 +572,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [C# Language - Champion "Discriminated Unions"](https://github.com/dotnet/csharplang/issues/113#issuecomment-899026385)
+- [Azure Poland - Ask Me Anything with Scott Hanselman](https://www.youtube.com/watch?v=_3GDFWfEqig)
+- [Khalid Abuhakmeh - Secrets of a .NET Professional](https://khalidabuhakmeh.com/secrets-of-a-dotnet-professional#one-project-is-fine)
+- [Oleg Kyrylchuk - C# 10 Features Twitter thread](https://twitter.com/okyrylchuk/status/1442194858425274369)
+- [Piotr Stapp - Replacing Docker and VisualStudio integration with Podman](https://twitter.com/ptrstpp950/status/1439237632651837447?s=20)
 - [David Fowler - Minimal APIs at a glance](https://gist.github.com/davidfowl/ff1addd02d239d2d26f4648a06158727)
 - [David Fowler - Migration to ASP.NET Core in .NET 6](https://gist.github.com/davidfowl/0e0372c3c1d895c3ce195ba983b1e03d)
 - [Harry McIntyre - ValueOf - Deal with Primitive Obsession - define ValueObjects in a single line (of C#)](https://github.com/mcintyre321/ValueOf)
@@ -884,6 +903,13 @@
 - [Dominik Jeske - Pull Requests](https://dominikjeske.github.io/pull-requests)
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
+### Management
+- [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
+
+### Product Design
+- [Sumit Gulwani - The Story of the Flash Fill Feature in Excel](https://blog.sigplan.org/2021/09/14/the-story-of-the-flash-fill-feature-in-excel/)
+- [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
+
 ## Java
 - [Nicolas Fränkel - Annotation-free Spring](https://blog.frankel.ch/annotation-free-spring/)
 - [OpenJDK - JEP 413: Code Snippets in Java API Documentation](https://openjdk.java.net/jeps/413)
@@ -1052,6 +1078,10 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Matthieu Cneude - How To Build Your Own Mouseless Development Environment](https://www.smashingmagazine.com/2021/09/mouseless-development-environment/)
+- [Tony Redmond - The Ups and Downs of Connecting to the Microsoft Graph Using the PowerShell SDK](https://practical365.com/connect-microsoft-graph-powershell-sdk/)
+- [Carbon - Create and share beautiful images of your source code](https://carbon.now.sh/)
+- [Gravizo - Your Graphviz, UMLGraph or PlantUML for your README](http://www.gravizo.com/)
 - [Nicholas Blumhardt - Understanding the Seq Storage view](https://blog.datalust.co/storage-view/)
 - [BloomRPC - GUI Client for GRPC Services](https://github.com/uw-labs/bloomrpc)
 - [Remark Mermaid - A remark plugin for Markdown that replaces mermaid graphs with rendered SVGs](https://github.com/temando/remark-mermaid)
@@ -1063,6 +1093,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Geoffrey Huntley - COVIDSafe: Australia’s digital contact tracing failure](https://ghuntley.com/covidsafe/)
+- [Journal of Responsible Technology - Prying eyes and ears](https://www.journals.elsevier.com/journal-of-responsible-technology/highlighted-articles/prying-eyes-and-ears)
 - [WIZ - OMIGOD: Critical Vulnerabilities in OMI Affecting Countless Azure Customers](https://www.wiz.io/blog/omigod-critical-vulnerabilities-in-omi-azure)
 - [A. Zelivansky, Y. Avrahami - What You Need to Know About Azurescape](https://www.paloaltonetworks.com/blog/2021/09/azurescape/)
 - [OWASP - Session Management Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html)
@@ -1120,6 +1152,8 @@
 - [David Okeyode - Protecting against #ChaosDB](https://davidokeyode.medium.com/protecting-against-chaosdb-262a5936f246)
 
 ## Trivia
+- [The Guardian - Home computing pioneer Sir Clive Sinclair dies aged 81](https://www.theguardian.com/technology/2021/sep/16/home-computing-pioneer-sir-clive-sinclair-dies-aged-81)
+- [GeekWire - Microsoft remote work study: Average length of workweek has increased 10% during pandemic](https://www.geekwire.com/2021/microsoft-remote-work-study-average-length-workweek-increased-10-pandemic/)
 - [Vaidehi Joshi - Reflections on Burnout](https://medium.com/@vaidehijoshi/reflections-on-burnout-bea0ebf87b9)
 - [The Register - Ballmer: 'Linux is a cancer'](https://www.theregister.com/2001/06/02/ballmer_linux_is_a_cancer/)
 - [The Register - Google Groups kills RSS support without notice](https://www.theregister.com/2021/08/16/google_groups_rss/)
