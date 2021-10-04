@@ -20,6 +20,58 @@ There are two rules:
 
 -------
 
+## 4th October 2021
+
+### Architecture
+- [N. C. Mendonça, C. Box, C. Manolache, L. Ryan - The Monolith Strikes Back: Why Istio Migrated From Microservices to a Monolithic Architecture](https://ieeexplore.ieee.org/document/9520758)
+- [Kent Beck - Monolith -> Services: Theory & Practice](https://medium.com/@kentbeck_7670/monolith-services-theory-practice-617e4546a879)
+- [Mathias Verraes - What is Domain-Driven Design (DDD)](https://verraes.net/2021/09/what-is-domain-driven-design-ddd/)
+- [Jak Charlton - Commercial Suicide — Integration at the Database Level](https://medium.com/geekculture/commercial-suicide-integration-at-the-database-level-aedad603b7d3)
+- [Maarten Mullender - CRUD, Only When You Can Afford It](https://web.archive.org/web/20111122075041/https://msdn.microsoft.com/en-us/library/ms978509.aspx)
+
+### DevOps
+- [Arie Bregman - DevOps exercises for Interview Questions](https://github.com/bregman-arie/devops-exercises)
+- [InfoWorld - How Docker broke in half](https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html)
+
+### Databases
+- [Adam Warski - Implementing event sourcing using a relational database](https://softwaremill.com/implementing-event-sourcing-using-a-relational-database/)
+- [PostgreSQL - PostgreSQL 14 Released!](https://www.postgresql.org/about/news/postgresql-14-released-2318/)
+
+### Testing
+- [Nishant Sharma - Screenplay Pattern](https://medium.com/testvagrant/screenplay-pattern-3490c7f0c23c)
+
+### Java
+- [Thomas Schatzl - JDK 17 G1/Parallel GC changes](https://tschatzl.github.io/2021/09/16/jdk17-g1-parallel-gc-changes.html)
+
+### .NET
+- [Angel D. Munoz - Creating Web Components with Fable.Lit](https://dev.to/tunaxor/creating-web-components-with-fable-lit-2m11)
+- [NewId - A sequential id generator that works across nodes with no collisions](https://github.com/phatboyg/NewId)
+- [Rodney Littles II - Is there an echo?](https://rodneylittlesii.com/posts/topic/foundation-echo-chamber)
+- [Gérald Barré - How to get ASP.NET Core logs in the output of xUnit tests](https://www.meziantou.net/how-to-get-asp-net-core-logs-in-the-output-of-xunit-tests.htm)
+- [David Fowler - Migration to ASP.NET Core in .NET 6](https://gist.github.com/davidfowl/0e0372c3c1d895c3ce195ba983b1e03d)
+
+### Ruby
+- [Ruby on Rails - Rails 7.0 Alpha 1: New JavaScript Answers, At-Work Encryption, Query Origin Logging, Zeitwerk Exclusively](https://weblog.rubyonrails.org/2021/9/15/Rails-7-0-alpha-1-released/)
+
+### Azure
+- [Carol Smith - Announcing: Azure credits for open source projects](https://cloudblogs.microsoft.com/opensource/2021/09/28/announcing-azure-credits-for-open-source-projects)
+
+### Product Design
+- [Oleksandr Sukholeyster - Task-Driven User Interfaces](https://www.uxmatters.com/mt/archives/2014/12/task-driven-user-interfaces.php)
+
+### Management
+- [Gergely Orosz - How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech)
+- [Tracy Bower - Empathy Is The Most Important Leadership Skill According To Research](https://www.forbes.com/sites/tracybrower/2021/09/19/empathy-is-the-most-important-leadership-skill-according-to-research)
+
+### Industry
+- [Inc. - New Microsoft Study of 60,000 Employees: Remote Work Threatens Long-Term Innovation](https://www.inc.com/jessica-stillman/remote-hybrid-work-paradox-microsoft-satya-nadella.html)
+
+### Trivia
+- [PC Gamer - Dutch legend has been running his campsite since 1986 using an Atari ST](https://www.pcgamer.com/dutch-legend-has-been-running-his-campsite-since-1986-using-an-atari-st/)
+- [StackOverflow - No joke—you can buy our copy/paste keyboard right now](https://stackoverflow.blog/2021/09/28/become-a-better-coder-with-this-one-weird-click/)
+
+-------
+
 ## 27th September 2021
 
 ### Architecture
