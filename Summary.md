@@ -44,6 +44,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [N. C. Mendonça, C. Box, C. Manolache, L. Ryan - The Monolith Strikes Back: Why Istio Migrated From Microservices to a Monolithic Architecture](https://ieeexplore.ieee.org/document/9520758)
+- [Kent Beck - Monolith -> Services: Theory & Practice](https://medium.com/@kentbeck_7670/monolith-services-theory-practice-617e4546a879)
+- [Mathias Verraes - What is Domain-Driven Design (DDD)](https://verraes.net/2021/09/what-is-domain-driven-design-ddd/)
+- [Jak Charlton - Commercial Suicide — Integration at the Database Level](https://medium.com/geekculture/commercial-suicide-integration-at-the-database-level-aedad603b7d3)
+- [Maarten Mullender - CRUD, Only When You Can Afford It](https://web.archive.org/web/20111122075041/https://msdn.microsoft.com/en-us/library/ms978509.aspx)
 - [Bob Nystrom - What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 - [Event Store Conversation: Exceptions to the Rules... Yves Reynhout talks to Yves](https://www.youtube.com/watch?v=tjiuDQbkRFY)
 - [HackerNews - DDD discussion (rant)](https://news.ycombinator.com/item?id=28667359)
@@ -364,6 +369,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Arie Bregman - DevOps exercises for Interview Questions](https://github.com/bregman-arie/devops-exercises)
+- [InfoWorld - How Docker broke in half](https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html)
 - [Ivan Velichko - Container Networking Is Simple!](https://iximiuz.com/en/posts/container-networking-is-simple/)
 - [Steve Smith - GitOps is a placebo](https://www.stevesmith.tech/blog/gitops-is-a-placebo/)
 - [Adam Burns - Azure Pipelines: Loops](https://operatingops.com/2021/03/04/azure-pipelines-loops/)
@@ -441,6 +448,7 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Nishant Sharma - Screenplay Pattern](https://medium.com/testvagrant/screenplay-pattern-3490c7f0c23c)
 - [Carissa Blossom - User Simulation for Rapid Outage Mitigation](https://www.infoq.com/presentations/uber-monitoring-services/)
 - [Jeremy D. Miller - A brain dump on automated integration testing](https://jeremydmiller.com/2021/08/31/a-brain-dump-on-automated-integration-testing/)
 - [Gremlin - Chaos Monkey Alternatives: Docker](https://www.gremlin.com/chaos-monkey/chaos-monkey-alternatives/docker/)
@@ -473,6 +481,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Adam Warski - Implementing event sourcing using a relational database](https://softwaremill.com/implementing-event-sourcing-using-a-relational-database/)
+- [PostgreSQL - PostgreSQL 14 Released!](https://www.postgresql.org/about/news/postgresql-14-released-2318/)
 - [Supabase - The Open Source Firebase Alternative on top of Postgres](https://supabase.io/)
 - [Gregory Young - How an EventStore actually works](https://www.youtube.com/watch?v=YUjO1wM0PZM)
 - [Jon Gjengset - Rust at speed — building a fast concurrent database](https://www.youtube.com/watch?v=s19G6n0UjsM)
@@ -556,6 +566,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## Azure
+- [Carol Smith - Announcing: Azure credits for open source projects](https://cloudblogs.microsoft.com/opensource/2021/09/28/announcing-azure-credits-for-open-source-projects)
 - [Marius Sandbu - Deep dive Azure Monitor and Log Analytics](https://msandbu.org/deep-dive-azure-monitor-and-log-analytics/)
 - [Yves Goeleven - CDN Hosting](https://www.goeleven.com/blog/cdn-hosting/)
 - [InfoWorld - Simon Bisson - Jumping into Azure Arc Data Services](https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.amp.html)
@@ -572,6 +583,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Angel D. Munoz - Creating Web Components with Fable.Lit](https://dev.to/tunaxor/creating-web-components-with-fable-lit-2m11)
+- [NewId - A sequential id generator that works across nodes with no collisions](https://github.com/phatboyg/NewId)
+- [Rodney Littles II - Is there an echo?](https://rodneylittlesii.com/posts/topic/foundation-echo-chamber)
+- [Gérald Barré - How to get ASP.NET Core logs in the output of xUnit tests](https://www.meziantou.net/how-to-get-asp-net-core-logs-in-the-output-of-xunit-tests.htm)
+- [David Fowler - Migration to ASP.NET Core in .NET 6](https://gist.github.com/davidfowl/0e0372c3c1d895c3ce195ba983b1e03d)
 - [C# Language - Champion "Discriminated Unions"](https://github.com/dotnet/csharplang/issues/113#issuecomment-899026385)
 - [Azure Poland - Ask Me Anything with Scott Hanselman](https://www.youtube.com/watch?v=_3GDFWfEqig)
 - [Khalid Abuhakmeh - Secrets of a .NET Professional](https://khalidabuhakmeh.com/secrets-of-a-dotnet-professional#one-project-is-fine)
@@ -904,13 +920,17 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ### Management
+- [Gergely Orosz - How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech)
+- [Tracy Bower - Empathy Is The Most Important Leadership Skill According To Research](https://www.forbes.com/sites/tracybrower/2021/09/19/empathy-is-the-most-important-leadership-skill-according-to-research)
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ### Product Design
+- [Oleksandr Sukholeyster - Task-Driven User Interfaces](https://www.uxmatters.com/mt/archives/2014/12/task-driven-user-interfaces.php)
 - [Sumit Gulwani - The Story of the Flash Fill Feature in Excel](https://blog.sigplan.org/2021/09/14/the-story-of-the-flash-fill-feature-in-excel/)
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Thomas Schatzl - JDK 17 G1/Parallel GC changes](https://tschatzl.github.io/2021/09/16/jdk17-g1-parallel-gc-changes.html)
 - [Nicolas Fränkel - Annotation-free Spring](https://blog.frankel.ch/annotation-free-spring/)
 - [OpenJDK - JEP 413: Code Snippets in Java API Documentation](https://openjdk.java.net/jeps/413)
 - [Gunnar Morling - Serverless Search for My Blog with Java, Quarkus & AWS Lambda](https://www.infoq.com/presentations/quarkus-java-serverless/)
@@ -944,6 +964,7 @@
 - [Ákos Szokodi - How to Easily Set-up Node Config Following These Best Practices](https://codingsans.com/blog/node-config-best-practices)
 
 ## Ruby
+- [Ruby on Rails - Rails 7.0 Alpha 1: New JavaScript Answers, At-Work Encryption, Query Origin Logging, Zeitwerk Exclusively](https://weblog.rubyonrails.org/2021/9/15/Rails-7-0-alpha-1-released/)
 - [Remote Ruby - Hotwire, Rails NEXT, and the DHH Stack with David Heinemeier Hansson](https://remoteruby.transistor.fm/115)
 
 ## Erlang
@@ -983,6 +1004,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Inc. - New Microsoft Study of 60,000 Employees: Remote Work Threatens Long-Term Innovation](https://www.inc.com/jessica-stillman/remote-hybrid-work-paradox-microsoft-satya-nadella.html)
 - [The Register - HashiCorp runs low on staff, calls a halt to Terraform pull requests](https://www.theregister.com//2021/09/07/hashicorp_pause)
 - [CNBC - Apple can no longer force developers to use in-app purchasing, judge rules in Epic Games case](https://www.cnbc.com/2021/09/10/epic-games-v-apple-judge-reaches-decision-.html)
 - [M.G. Siegler - Apple Won a Battle to Lose the War](https://500ish.com/apple-won-a-battle-to-lose-the-war-3ce6c3701918)
@@ -1152,6 +1174,8 @@
 - [David Okeyode - Protecting against #ChaosDB](https://davidokeyode.medium.com/protecting-against-chaosdb-262a5936f246)
 
 ## Trivia
+- [PC Gamer - Dutch legend has been running his campsite since 1986 using an Atari ST](https://www.pcgamer.com/dutch-legend-has-been-running-his-campsite-since-1986-using-an-atari-st/)
+- [StackOverflow - No joke—you can buy our copy/paste keyboard right now](https://stackoverflow.blog/2021/09/28/become-a-better-coder-with-this-one-weird-click/)
 - [The Guardian - Home computing pioneer Sir Clive Sinclair dies aged 81](https://www.theguardian.com/technology/2021/sep/16/home-computing-pioneer-sir-clive-sinclair-dies-aged-81)
 - [GeekWire - Microsoft remote work study: Average length of workweek has increased 10% during pandemic](https://www.geekwire.com/2021/microsoft-remote-work-study-average-length-workweek-increased-10-pandemic/)
 - [Vaidehi Joshi - Reflections on Burnout](https://medium.com/@vaidehijoshi/reflections-on-burnout-bea0ebf87b9)
