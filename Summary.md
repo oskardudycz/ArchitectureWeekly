@@ -587,7 +587,6 @@
 - [NewId - A sequential id generator that works across nodes with no collisions](https://github.com/phatboyg/NewId)
 - [Rodney Littles II - Is there an echo?](https://rodneylittlesii.com/posts/topic/foundation-echo-chamber)
 - [Gérald Barré - How to get ASP.NET Core logs in the output of xUnit tests](https://www.meziantou.net/how-to-get-asp-net-core-logs-in-the-output-of-xunit-tests.htm)
-- [David Fowler - Migration to ASP.NET Core in .NET 6](https://gist.github.com/davidfowl/0e0372c3c1d895c3ce195ba983b1e03d)
 - [C# Language - Champion "Discriminated Unions"](https://github.com/dotnet/csharplang/issues/113#issuecomment-899026385)
 - [Azure Poland - Ask Me Anything with Scott Hanselman](https://www.youtube.com/watch?v=_3GDFWfEqig)
 - [Khalid Abuhakmeh - Secrets of a .NET Professional](https://khalidabuhakmeh.com/secrets-of-a-dotnet-professional#one-project-is-fine)
