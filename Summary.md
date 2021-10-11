@@ -44,6 +44,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Jessica Kerr - Capturing the World in Software](https://jessitron.com/2020/01/24/capturing-the-world-in-software/amp/)
+- [Donella Meadows - Dancing With Systems](https://donellameadows.org/archives/dancing-with-systems/)
+- [Uber - Building Uber's Fulfillment Platform for Planet-Scale using Google Cloud Spanner](https://eng.uber.com/building-ubers-fulfillment-platform/)
+- [Jean Yang  - The Case for "Developer Experience"](https://future.a16z.com/the-case-for-developer-experience/)
+- [Mikhail Shilkov - Event Sourcing and IO Complexity](https://mikhail.io/2016/11/event-sourcing-and-io-complexity/)
 - [N. C. Mendonça, C. Box, C. Manolache, L. Ryan - The Monolith Strikes Back: Why Istio Migrated From Microservices to a Monolithic Architecture](https://ieeexplore.ieee.org/document/9520758)
 - [Kent Beck - Monolith -> Services: Theory & Practice](https://medium.com/@kentbeck_7670/monolith-services-theory-practice-617e4546a879)
 - [Mathias Verraes - What is Domain-Driven Design (DDD)](https://verraes.net/2021/09/what-is-domain-driven-design-ddd/)
@@ -247,6 +252,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Zeke Dean - How to Overcome Data Order Issues in Apache Kafka](https://www.dataversity.net/how-to-overcome-data-order-issues-in-apache-kafka/#)
+- [Doug Terry - Replicated Data Consistency Explained Through Baseball](https://www.microsoft.com/en-us/research/publication/replicated-data-consistency-explained-through-baseball)
 - [Bilgin Ibryam - Distributed transaction patterns for microservices compared](https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared)
 - [David Boike - RPC vs. Messaging – which is faster?](https://particular.net/blog/rpc-vs-messaging-which-is-faster)
 - [Uber Engineering - Real-Time Exactly-Once Ad Event Processing with Apache Flink, Kafka, and Pinot](https://eng.uber.com/real-time-exactly-once-ad-event-processing/)
@@ -369,6 +376,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [The Cloudflare Blog - Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
+- [Piotr Stapp - Podman 2 WSL](https://github.com/ptrstpp950/podman2wsl)
 - [Arie Bregman - DevOps exercises for Interview Questions](https://github.com/bregman-arie/devops-exercises)
 - [InfoWorld - How Docker broke in half](https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html)
 - [Ivan Velichko - Container Networking Is Simple!](https://iximiuz.com/en/posts/container-networking-is-simple/)
@@ -410,6 +419,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Kent C. Dodds - How I built a modern website in 2021](https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021)
 - [Allegro Tech Blog - Jerzy Jelinek - Evolution of web performance culture](https://blog.allegro.tech/2021/09/evolution-of-web-performance-culture.html)
 - [Li Yinlong (Leon)  - Micro Frontends - Open a New Frontend Development Experience](https://www.thoughtworks.com/insights/blog/architecture/micro-frontends-open-a-new-frontend-development-experience)
 - [Stack - A presentation library with intuitive, scroll-based navigation](https://mbostock.github.io/stack/)
@@ -444,6 +454,8 @@
 - [Gergerly Orosz - 33 Engineering Challenges of Building Mobile Apps at Scale eBook & Other Learnings](https://gumroad.com/l/IuuuN)
 
 ## Performance
+- [PVS-Studio: C++ is faster and safer than Rust: benchmarked by Yandex](https://pvs-studio.com/en/blog/posts/0733/)
+- [Jeremy Wagner - Assessing loading performance in the field with Navigation Timing and Resource Timing](https://web.dev/navigation-and-resource-timing/)
 - [Ben Schwarz - How to Plan and Deliver on Site Speed as a Team](https://calibreapp.com/blog/site-speed-improvement-framework)
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
@@ -481,6 +493,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Martin Kleppmann - Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 - [Adam Warski - Implementing event sourcing using a relational database](https://softwaremill.com/implementing-event-sourcing-using-a-relational-database/)
 - [PostgreSQL - PostgreSQL 14 Released!](https://www.postgresql.org/about/news/postgresql-14-released-2318/)
 - [Supabase - The Open Source Firebase Alternative on top of Postgres](https://supabase.io/)
@@ -583,6 +596,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Andrew Lock - Series: Exploring .NET Core 6](https://andrewlock.net/series/exploring-dotnet-6/)
+- [Mads Kristensen - ASP.NET Core Progressive Web Apps](https://github.com/madskristensen/WebEssentials.AspNetCore.ServiceWorker)
+- [Mateusz Krzeszowiec - .NET 5, Source Generators, and Supply Chain Attacks](https://www.veracode.com/blog/secure-development/net-5-source-generators-and-supply-chain-attacks)
+- [Phil Haack - Flow External Claims to the Main Identity](https://haacked.com/archive/2019/07/16/external-claims/)
+- [Matt Eland - A look at the upcoming improvements to LINQ in .NET 6](https://raygun.com/blog/linq-net-6-improvements/)
 - [Angel D. Munoz - Creating Web Components with Fable.Lit](https://dev.to/tunaxor/creating-web-components-with-fable-lit-2m11)
 - [NewId - A sequential id generator that works across nodes with no collisions](https://github.com/phatboyg/NewId)
 - [Rodney Littles II - Is there an echo?](https://rodneylittlesii.com/posts/topic/foundation-echo-chamber)
@@ -808,6 +826,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Scott Hanselman - The code worked differently when the moon was full](https://www.hanselman.com/blog/the-code-worked-differently-when-the-moon-was-full)
 - [Lex Fridman Podcast - Donald Knuth: Programming, Algorithms, Hard Problems & the Game of Life](https://www.youtube.com/watch?v=EE1R8FYUJm0)
 - [InfoQ - Stack Overflow's 2021 Developer Survey Uncovers New Trends in Tech and Work](https://www.infoq.com/news/2021/09/so-developer-survey-2021/)
 - [Matt Neuburg - Picturing Git: Conceptions and Misconceptions](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/)
@@ -919,6 +938,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ### Management
+- [Michel Grootjans - Kanban simulator](https://github.com/michelgrootjans/explaining-flow)
+- [Sarah Drasner - Why flow matters more than passion](https://leaddev.com/culture-engagement-motivation/why-flow-matters-more-passion)
 - [Gergely Orosz - How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech)
 - [Tracy Bower - Empathy Is The Most Important Leadership Skill According To Research](https://www.forbes.com/sites/tracybrower/2021/09/19/empathy-is-the-most-important-leadership-skill-according-to-research)
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
@@ -929,6 +950,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Miloš Živković - Why Java Experts Avoid Mocks](https://medium.com/javarevisited/why-java-experts-avoid-mocks-ed71f54ac81c)
 - [Thomas Schatzl - JDK 17 G1/Parallel GC changes](https://tschatzl.github.io/2021/09/16/jdk17-g1-parallel-gc-changes.html)
 - [Nicolas Fränkel - Annotation-free Spring](https://blog.frankel.ch/annotation-free-spring/)
 - [OpenJDK - JEP 413: Code Snippets in Java API Documentation](https://openjdk.java.net/jeps/413)
@@ -1003,6 +1025,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [NY Times - Facebook Is Weaker Than We Knew](https://www.nytimes.com/2021/10/04/technology/facebook-files.html?smid=tw-share)
 - [Inc. - New Microsoft Study of 60,000 Employees: Remote Work Threatens Long-Term Innovation](https://www.inc.com/jessica-stillman/remote-hybrid-work-paradox-microsoft-satya-nadella.html)
 - [The Register - HashiCorp runs low on staff, calls a halt to Terraform pull requests](https://www.theregister.com//2021/09/07/hashicorp_pause)
 - [CNBC - Apple can no longer force developers to use in-app purchasing, judge rules in Epic Games case](https://www.cnbc.com/2021/09/10/epic-games-v-apple-judge-reaches-decision-.html)
@@ -1114,6 +1137,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [John Gruber - Company That Routes Billions of Text Messages Quietly Says It Was Hacked](https://daringfireball.net/linked/2021/10/04/syniverse-hack)
 - [Geoffrey Huntley - COVIDSafe: Australia’s digital contact tracing failure](https://ghuntley.com/covidsafe/)
 - [Journal of Responsible Technology - Prying eyes and ears](https://www.journals.elsevier.com/journal-of-responsible-technology/highlighted-articles/prying-eyes-and-ears)
 - [WIZ - OMIGOD: Critical Vulnerabilities in OMI Affecting Countless Azure Customers](https://www.wiz.io/blog/omigod-critical-vulnerabilities-in-omi-azure)
