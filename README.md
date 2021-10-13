@@ -245,7 +245,6 @@ There are two rules:
 - [Nicolas Fränkel - Annotation-free Spring](https://blog.frankel.ch/annotation-free-spring/)
 
 ### .NET
-- [Andrew Zuo - C# Is Dying And Microsoft Is Killing It](https://medium.com/codex/c-is-dying-fa21a96107c5)
 - [Dmitry Tikhonov - "Maybe" monad through async/await in C# (No Tasks!)](https://habr.com/en/post/458692/)
 - [Juan Alberto España Garcia - C# 10 is HERE! 5 features that will blow your mind](https://medium.com/dotnetsafer/c-10-is-here-5-features-that-will-blow-your-mind-d342a93dad7)
 - [Jürgen Gutsch - ASP.​NET Core in .NET 6 - Async streaming](https://asp.net-hacker.rocks/2021/09/02/aspnetcore6-async-stream.html)
