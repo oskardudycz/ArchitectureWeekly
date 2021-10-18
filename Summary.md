@@ -5,6 +5,7 @@
   - [Distributed Systems](#distributed-systems)
   - [DevOps](#devops)
   - [Frontend](#frontend)
+  - [Edge Computing](#edge-computing)
   - [Mobile](#mobile)
   - [Performance](#performance)
   - [Testing](#testing)
@@ -44,6 +45,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Ben Thompson - The Death and Birth of Technological Revolutions](https://stratechery.com/2021/the-death-and-birth-of-technological-revolutions/)
+- [Eric Evans — Tackling Complexity in the Heart of Software](https://www.youtube.com/watch?v=dnUFEg68ESM)
+- [Greg Young - Stop Over-Engenering](https://www.youtube.com/watch?v=GRr4xeMn1uU)
+- [P. Avery, R. Reta - Scaling Event Sourcing for Netflix Downloads](https://www.youtube.com/watch?v=rsSld8NycCU)
 - [Jessica Kerr - Capturing the World in Software](https://jessitron.com/2020/01/24/capturing-the-world-in-software/amp/)
 - [Donella Meadows - Dancing With Systems](https://donellameadows.org/archives/dancing-with-systems/)
 - [Uber - Building Uber's Fulfillment Platform for Planet-Scale using Google Cloud Spanner](https://eng.uber.com/building-ubers-fulfillment-platform/)
@@ -376,6 +381,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Brendan Gregg - Flame Graphs](https://www.brendangregg.com/flamegraphs.html)
 - [The Cloudflare Blog - Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
 - [Piotr Stapp - Podman 2 WSL](https://github.com/ptrstpp950/podman2wsl)
 - [Arie Bregman - DevOps exercises for Interview Questions](https://github.com/bregman-arie/devops-exercises)
@@ -419,6 +425,8 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Christian Heilmann - What if… you could use Visual Studio Code as the editor of in-browser Developer Tools?](https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/)
+- [Greg Young - CQRS, not just for server systems](https://skillsmatter.com/skillscasts/1980-cqrs-not-just-for-server-systems)
 - [Kent C. Dodds - How I built a modern website in 2021](https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021)
 - [Allegro Tech Blog - Jerzy Jelinek - Evolution of web performance culture](https://blog.allegro.tech/2021/09/evolution-of-web-performance-culture.html)
 - [Li Yinlong (Leon)  - Micro Frontends - Open a New Frontend Development Experience](https://www.thoughtworks.com/insights/blog/architecture/micro-frontends-open-a-new-frontend-development-experience)
@@ -449,6 +457,9 @@
 - [React - Introducing Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
 - [Wojciech Krzysztofik - How to Use Google Lighthouse for Better Web Performance](https://www.wearecogworks.com/blog/how-to-use-google-lighthouse-for-better-web-performance/)
 - [David Ramel - TypeScript Surges in GitHub Octoverse 2020 Report](https://visualstudiomagazine.com/articles/2020/12/03/octoverse-2020.aspx)
+
+## Edge Computing
+- [Chris Coyier - How to Use Cloudflare Workers and KV Storage](https://www.youtube.com/watch?v=NGk2HxV0Xkg)
 
 ## Mobile
 - [Gergerly Orosz - 33 Engineering Challenges of Building Mobile Apps at Scale eBook & Other Learnings](https://gumroad.com/l/IuuuN)
@@ -493,6 +504,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [P. O'Neil, E. Cheng, D. Gawlick, E. O'Neil - The Log-Structured Merge-Tree (LSM-Tree)](https://www.cs.umb.edu/~poneil/lsmtree.pdf)
 - [Martin Kleppmann - Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 - [Adam Warski - Implementing event sourcing using a relational database](https://softwaremill.com/implementing-event-sourcing-using-a-relational-database/)
 - [PostgreSQL - PostgreSQL 14 Released!](https://www.postgresql.org/about/news/postgresql-14-released-2318/)
@@ -596,6 +608,13 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Aaron Stannard - The Future of the .NET Foundation and .NET OSS](https://aaronstannard.com/future-of-dotnet-foundation/)
+- [Muhammad Rehan Saeed - The Problem with C# 10 Implicit Usings](https://rehansaeed.com/the-problem-with-csharp-10-implicit-usings)
+- [Stephen Cleary - Calculated Properties - Easy-to-use calculated properties for MVVM apps](https://github.com/StephenCleary/CalculatedProperties)
+- [Referbruv - A Sample API example to demonstrate how to implement versioning in ASP.NET Core and then integrate in SwaggerUI ](https://github.com/StephenCleary/CalculatedProperties)
+- [Stephen Cleary - Calculated Properties - Easy-to-use calculated properties for MVVM apps ](https://github.com/StephenCleary/CalculatedProperties)
+- [Microsoft - Rules Engine - A Json based Rules Engine with extensive Dynamic expression support](https://github.com/microsoft/RulesEngine)
+- [Davide Bellone - How to add logs on Console with .NET Core and Serilog](https://www.code4it.dev/blog/serilog-log-on-console)
 - [Andrew Lock - Series: Exploring .NET Core 6](https://andrewlock.net/series/exploring-dotnet-6/)
 - [Mads Kristensen - ASP.NET Core Progressive Web Apps](https://github.com/madskristensen/WebEssentials.AspNetCore.ServiceWorker)
 - [Mateusz Krzeszowiec - .NET 5, Source Generators, and Supply Chain Attacks](https://www.veracode.com/blog/secure-development/net-5-source-generators-and-supply-chain-attacks)
@@ -819,12 +838,16 @@
 - [Improve Activity API usability and OpenTelemetry integration](https://github.com/dotnet/designs/blob/main/accepted/2020/diagnostics/activity-improvements.md)
 
 ### WebAssembly
+- [Pyodide - Python with the scientific stack, compiled to WebAssembly](https://github.com/pyodide/pyodide)
 - [CNCF - Cloud Native WebAssembly](https://www.cncf.io/blog/2021/08/05/cloud-native-webassembly)
 - [Mozilla - Growing the Bytecode Alliance](https://blog.mozilla.org/blog/2021/04/28/growing-the-bytecode-alliance/)
 - [Radu Matei - Getting started with NodeJS and the WebAssembly System Interface](https://radu-matei.com/blog/nodejs-wasi/)
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Lauren Ten - Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+- [Bill Wake - Lambda for Control Structures, a Refactoring](https://xp123.com/articles/lambda-for-control-structures-a-refactoring/)
+- [Nicole Kow - Developer Burnout: Why It Happens and What We Can Do About It](https://codesubmit.io/blog/developer-burnout/)
 - [Scott Hanselman - The code worked differently when the moon was full](https://www.hanselman.com/blog/the-code-worked-differently-when-the-moon-was-full)
 - [Lex Fridman Podcast - Donald Knuth: Programming, Algorithms, Hard Problems & the Game of Life](https://www.youtube.com/watch?v=EE1R8FYUJm0)
 - [InfoQ - Stack Overflow's 2021 Developer Survey Uncovers New Trends in Tech and Work](https://www.infoq.com/news/2021/09/so-developer-survey-2021/)
@@ -937,6 +960,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ### Management
+- [Tim Ottinger - Scatter-Gather](https://www.industriallogic.com/blog/scatter-gather/)
 - [Michel Grootjans - Kanban simulator](https://github.com/michelgrootjans/explaining-flow)
 - [Sarah Drasner - Why flow matters more than passion](https://leaddev.com/culture-engagement-motivation/why-flow-matters-more-passion)
 - [Gergely Orosz - How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech)
@@ -949,6 +973,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Andrzej Ludwikowski - Reactive Event Sourcing in Java, Part 1: Domain](https://softwaremill.com/reactive-event-sourcing-in-java-part-1-domain/)
 - [Miloš Živković - Why Java Experts Avoid Mocks](https://medium.com/javarevisited/why-java-experts-avoid-mocks-ed71f54ac81c)
 - [Thomas Schatzl - JDK 17 G1/Parallel GC changes](https://tschatzl.github.io/2021/09/16/jdk17-g1-parallel-gc-changes.html)
 - [Nicolas Fränkel - Annotation-free Spring](https://blog.frankel.ch/annotation-free-spring/)
@@ -962,6 +987,7 @@
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
 ## JavaScript
+- [Worker Environments - The new standard for writing HTTP servers in JavaScript](https://workers.js.org/)
 - [The New Stack - ECMAScript 2021: What's Next for JavaScript?](https://thenewstack.io/ecmascript-2021-whats-next-for-javascript-webassembly/)
 - [Jonas Kello - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript](https://github.com/jonaskello/eslint-plugin-functional)
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
@@ -1024,6 +1050,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Vice - 4 NFT Projects Took Investors' Money and Disappeared in One Day](https://www.vice.com/amp/en/article/xgxnew/4-nft-projects-took-investors-money-and-disappeared-in-one-day)
+- [The Guardian - We are Google and Amazon workers. We condemn Project Nimbus](https://www.theguardian.com/commentisfree/2021/oct/12/google-amazon-workers-condemn-project-nimbus-israeli-military-contract)
 - [NY Times - Facebook Is Weaker Than We Knew](https://www.nytimes.com/2021/10/04/technology/facebook-files.html?smid=tw-share)
 - [Inc. - New Microsoft Study of 60,000 Employees: Remote Work Threatens Long-Term Innovation](https://www.inc.com/jessica-stillman/remote-hybrid-work-paradox-microsoft-satya-nadella.html)
 - [The Register - HashiCorp runs low on staff, calls a halt to Terraform pull requests](https://www.theregister.com//2021/09/07/hashicorp_pause)
@@ -1121,6 +1149,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Peter Cottle - Learn Git Branching](https://github.com/pcottle/learnGitBranching)
 - [Matthieu Cneude - How To Build Your Own Mouseless Development Environment](https://www.smashingmagazine.com/2021/09/mouseless-development-environment/)
 - [Tony Redmond - The Ups and Downs of Connecting to the Microsoft Graph Using the PowerShell SDK](https://practical365.com/connect-microsoft-graph-powershell-sdk/)
 - [Carbon - Create and share beautiful images of your source code](https://carbon.now.sh/)
@@ -1136,6 +1165,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Azure Blog - Business as usual for Azure customers despite 2.4 Tbps DDoS attack](https://azure.microsoft.com/en-us/blog/business-as-usual-for-azure-customers-despite-24-tbps-ddos-attack/)
 - [John Gruber - Company That Routes Billions of Text Messages Quietly Says It Was Hacked](https://daringfireball.net/linked/2021/10/04/syniverse-hack)
 - [Geoffrey Huntley - COVIDSafe: Australia’s digital contact tracing failure](https://ghuntley.com/covidsafe/)
 - [Journal of Responsible Technology - Prying eyes and ears](https://www.journals.elsevier.com/journal-of-responsible-technology/highlighted-articles/prying-eyes-and-ears)
