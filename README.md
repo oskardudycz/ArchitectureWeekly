@@ -18,6 +18,58 @@ There are two rules:
 
 💖 If this repository helped you - I'd be more than happy if you **join** the group of **my official supporters** at [Github Sponsors](https://github.com/sponsors/oskardudycz)
 
+
+-------
+
+## 25th October 2021
+
+### Architecture
+- [Bryan Hunter - Waterpark: Distributed Actors vs the Pandemic](https://www.youtube.com/watch?v=9qUfX3XFi_4)
+- [Charuka Herath - Will WebTransport Replace WebRTC in Near Future?](https://blog.bitsrc.io/will-webtransport-replace-webrtc-in-near-future-436c4f7f3484)
+- [Eric Evans - Modelling Time](https://www.youtube.com/watch?v=T29WzvaPNc8)
+- [Stefan Tilkov - Is Domain-Driven Design Overrated](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
+- [Drean 11 Engineering - Lessons learned from running GraphQL at scale](https://blog.dream11engineering.com/lessons-learned-from-running-graphql-at-scale-2ad60b3cefeb)
+- [Alex Omeyer, Nicolas Carlo - Technical Debt Isn't Technical: What Companies Can Do to Reduce Technical Debt](https://www.infoq.com/articles/reduce-technical-debt/)
+
+### Databases
+- [Facebook - How we built a general purpose key value store for Facebook with ZippyDB](https://engineering.fb.com/2021/08/06/core-data/zippydb/)
+
+### DevOps
+- [Google Cloud Blog - 2021 Accelerate State of DevOps report addresses burnout, team performance](https://cloud.google.com/blog/products/devops-sre/announcing-dora-2021-accelerate-state-of-devops-report)
+
+### Go
+- [Amos Wenger - I want off Mr. Golang's Wild Ride](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride)
+
+### .NET
+- [Brian Chavez - Bogus - A simple and sane fake data generator for C#, F#, and VB.NET](https://github.com/bchavez/Bogus)
+- [.NET Blog - What's new in F# 6](https://devblogs.microsoft.com/dotnet/whats-new-in-fsharp-6/)
+- [Scott Hanselman - Differences between Hashtable vs Dictonary vs ConcurrentDictionary vs ImmutableDictionary](https://www.hanselman.com/blog/differences-between-hashtable-vs-dictonary-vs-concurrentdictionary-vs-immutabledictionary)
+
+### .NET Hot Reload removal backslash
+- [.NET Blog - Update on .NET Hot Reload progress and Visual Studio 2022 Highlights](https://devblogs.microsoft.com/dotnet/update-on-net-hot-reload-progress-and-visual-studio-2022-highlights/)
+- [.NET SDK - Remove Hot Reload](https://github.com/dotnet/sdk/pull/22217)
+- [.NET SDK - Community PR reverting removal](https://github.com/dotnet/sdk/pull/22262)
+- [The Verge - Microsoft angers the .NET open source community with a controversial decision](https://www.theverge.com/2021/10/22/22740701/microsoft-dotnet-hot-reload-removal-decision-open-source)
+- [Dustin Morris - Can we trust Microsoft with Open Source?](https://dusted.codes/can-we-trust-microsoft-with-open-source)
+- [.NET Blog - .NET Hot Reload Support via CLI](https://devblogs.microsoft.com/dotnet/net-hot-reload-support-via-cli/)
+
+### Scala
+- [Programming Methods Laboratory EPFL - Monadic Reflection](https://github.com/lampepfl/monadic-reflection)
+
+### Tools
+- [Jesse Duffield - LazyGit - Simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
+- [GitHub - Bring your monorepo down to size with sparse-checkout](https://github.blog/2020-01-17-bring-your-monorepo-down-to-size-with-sparse-checkout)
+- [Samuel Wong - How to sync Obsidian vault for free using Git?](https://desktopofsamuel.com/how-to-sync-obsidian-vault-for-free-using-git/)
+- [Brodie Robertson - FOSS Alternatives For The Windows Refugee](https://www.youtube.com/watch?v=L0uL2zLuOK0)
+
+### Management
+- [Bill Wake - Whole Stories for Whole Teams](https://www.industriallogic.com/blog/whole-stories-for-whole-teams/)
+
+### Industry
+- [Jason Kint - Google and Facebook antitrust lawsuit](https://twitter.com/jason_kint/status/1451579045246820355)
+- [The Verge - Trump's social network has 30 days to stop breaking the rules of its software license](https://www.theverge.com/2021/10/22/22740354/trump-truth-social-network-spac-mastodon-license-software-freedom-conservancy)
+- [Vice - 4 NFT Projects Took Investors’ Money and Disappeared in One Day](https://www.vice.com/amp/en/article/xgxnew/4-nft-projects-took-investors-money-and-disappeared-in-one-day)
+
 -------
 
 ## 18th October 2021

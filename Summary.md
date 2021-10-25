@@ -16,6 +16,7 @@
   - [Functional Programming](#functional-programming)
   - [.NET](#net)
     - [OpenTelemetry in .NET](#opentelemetry-in-net)
+    - [.NET Hot Reload removal backslash](#net-hot-reload-removal-backslash)
     - [WebAssembly](#webassembly)
   - [Coding Life](#coding-life)
     - [Management](#management)
@@ -30,6 +31,7 @@
   - [Go](#go)
   - [Kotlin](#kotlin)
   - [Rust](#rust)
+  - [Scala](#scala)
   - [Swift](#swift)
   - [Industry](#industry)
       - [Basecamp Drama](#basecamp-drama)
@@ -45,6 +47,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Bryan Hunter - Waterpark: Distributed Actors vs the Pandemic](https://www.youtube.com/watch?v=9qUfX3XFi_4)
+- [Charuka Herath - Will WebTransport Replace WebRTC in Near Future?](https://blog.bitsrc.io/will-webtransport-replace-webrtc-in-near-future-436c4f7f3484)
+- [Eric Evans - Modelling Time](https://www.youtube.com/watch?v=T29WzvaPNc8)
+- [Stefan Tilkov - Is Domain-Driven Design Overrated](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
+- [Drean 11 Engineering - Lessons learned from running GraphQL at scale](https://blog.dream11engineering.com/lessons-learned-from-running-graphql-at-scale-2ad60b3cefeb)
+- [Alex Omeyer, Nicolas Carlo - Technical Debt Isn't Technical: What Companies Can Do to Reduce Technical Debt](https://www.infoq.com/articles/reduce-technical-debt/)
 - [Ben Thompson - The Death and Birth of Technological Revolutions](https://stratechery.com/2021/the-death-and-birth-of-technological-revolutions/)
 - [Eric Evans — Tackling Complexity in the Heart of Software](https://www.youtube.com/watch?v=dnUFEg68ESM)
 - [Greg Young - Stop Over-Engenering](https://www.youtube.com/watch?v=GRr4xeMn1uU)
@@ -381,6 +389,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Google Cloud Blog - 2021 Accelerate State of DevOps report addresses burnout, team performance](https://cloud.google.com/blog/products/devops-sre/announcing-dora-2021-accelerate-state-of-devops-report)
 - [Brendan Gregg - Flame Graphs](https://www.brendangregg.com/flamegraphs.html)
 - [The Cloudflare Blog - Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
 - [Piotr Stapp - Podman 2 WSL](https://github.com/ptrstpp950/podman2wsl)
@@ -504,6 +513,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Facebook - How we built a general purpose key value store for Facebook with ZippyDB](https://engineering.fb.com/2021/08/06/core-data/zippydb/)
 - [P. O'Neil, E. Cheng, D. Gawlick, E. O'Neil - The Log-Structured Merge-Tree (LSM-Tree)](https://www.cs.umb.edu/~poneil/lsmtree.pdf)
 - [Martin Kleppmann - Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 - [Adam Warski - Implementing event sourcing using a relational database](https://softwaremill.com/implementing-event-sourcing-using-a-relational-database/)
@@ -608,6 +618,9 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Brian Chavez - Bogus - A simple and sane fake data generator for C#, F#, and VB.NET](https://github.com/bchavez/Bogus)
+- [.NET Blog - What's new in F# 6](https://devblogs.microsoft.com/dotnet/whats-new-in-fsharp-6/)
+- [Scott Hanselman - Differences between Hashtable vs Dictonary vs ConcurrentDictionary vs ImmutableDictionary](https://www.hanselman.com/blog/differences-between-hashtable-vs-dictonary-vs-concurrentdictionary-vs-immutabledictionary)
 - [Aaron Stannard - The Future of the .NET Foundation and .NET OSS](https://aaronstannard.com/future-of-dotnet-foundation/)
 - [Muhammad Rehan Saeed - The Problem with C# 10 Implicit Usings](https://rehansaeed.com/the-problem-with-csharp-10-implicit-usings)
 - [Referbruv - A Sample API example to demonstrate how to implement versioning in ASP.NET Core and then integrate in SwaggerUI ](https://github.com/referbruv/AspNetCore-ApiVersioning-SwaggerUi)
@@ -678,7 +691,6 @@
 - [Jaliya Udagedara - .NET 6 Preview 6: Introducing OpenAPI Support in Minimal APIs in ASP.NET Core](https://jaliyaudagedara.blogspot.com/2021/07/net-6-preview-6-introducing-openapi.html)
 - [Nisha Pillai - Messaging with Azure SignalR & ASP.NET 5](https://www.codit.eu/blog/messaging-with-azure-signalr-asp-net-5)
 - [Microsoft DevBlogs - API versioning extension with ASP.NET Core OData 8](https://devblogs.microsoft.com/odata/api-versioning-extension-with-asp-net-core-odata-8/)
-
 - [Ioannis Kyriakidis - Idempotency for Fault-Tolerant Web APIs](https://www.dotnetnakama.com/blog/idempotency-for-fault-tolerant-web-apis/)
 - [Microsoft DevBlogs - .NET Object Allocation Tool Performance](https://devblogs.microsoft.com/visualstudio/net-object-allocation-tool-performance/)
 - [Robert Wagner - Assent - Simple acceptance tests for JSON](https://github.com/droyad/Assent)
@@ -836,6 +848,14 @@
 - [OpenTelemetry: Future-Proofing Your Instrumentation](https://blog.newrelic.com/product-news/what-is-opentelemetry/)
 - [Improve Activity API usability and OpenTelemetry integration](https://github.com/dotnet/designs/blob/main/accepted/2020/diagnostics/activity-improvements.md)
 
+### .NET Hot Reload removal backslash
+- [.NET Blog - Update on .NET Hot Reload progress and Visual Studio 2022 Highlights](https://devblogs.microsoft.com/dotnet/update-on-net-hot-reload-progress-and-visual-studio-2022-highlights/)
+- [.NET SDK - Remove Hot Reload](https://github.com/dotnet/sdk/pull/22217)
+- [.NET SDK - Community PR reverting removal](https://github.com/dotnet/sdk/pull/22262)
+- [The Verge - Microsoft angers the .NET open source community with a controversial decision](https://www.theverge.com/2021/10/22/22740701/microsoft-dotnet-hot-reload-removal-decision-open-source)
+- [Dustin Morris - Can we trust Microsoft with Open Source?](https://dusted.codes/can-we-trust-microsoft-with-open-source)
+- [.NET Blog - .NET Hot Reload Support via CLI](https://devblogs.microsoft.com/dotnet/net-hot-reload-support-via-cli/)
+
 ### WebAssembly
 - [Pyodide - Python with the scientific stack, compiled to WebAssembly](https://github.com/pyodide/pyodide)
 - [CNCF - Cloud Native WebAssembly](https://www.cncf.io/blog/2021/08/05/cloud-native-webassembly)
@@ -959,6 +979,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ### Management
+- [Bill Wake - Whole Stories for Whole Teams](https://www.industriallogic.com/blog/whole-stories-for-whole-teams/)
 - [Tim Ottinger - Scatter-Gather](https://www.industriallogic.com/blog/scatter-gather/)
 - [Michel Grootjans - Kanban simulator](https://github.com/michelgrootjans/explaining-flow)
 - [Sarah Drasner - Why flow matters more than passion](https://leaddev.com/culture-engagement-motivation/why-flow-matters-more-passion)
@@ -1021,6 +1042,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Amos Wenger - I want off Mr. Golang's Wild Ride](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride)
 - [Aurélie Vache - Learning Go by examples: part 5 - Create a Game Boy Advance (GBA) game in Go](https://dev.to/aurelievache/learning-go-by-examples-part-5-create-a-game-boy-advance-gba-game-in-go-5944)
 - [GitHub - Three bugs in the Go MySQL Driver](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/)
 - [Lucas Godoy - Explain to me Go Concurrency Worker Pool Pattern like I'm five](https://itnext.io/explain-to-me-go-concurrency-worker-pool-pattern-like-im-five-e5f1be71e2b0)
@@ -1045,10 +1067,16 @@
 - [Robert Krahn - Is Rust a Functional Programming Language?](https://robert.kra.hn/posts/2021-02-03_is-rust-fp/)
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
 
+## Scala
+- [Programming Methods Laboratory EPFL - Monadic Reflection](https://github.com/lampepfl/monadic-reflection)
+
 ## Swift
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Jason Kint - Google and Facebook antitrust lawsuit](https://twitter.com/jason_kint/status/1451579045246820355)
+- [The Verge - Trump's social network has 30 days to stop breaking the rules of its software license](https://www.theverge.com/2021/10/22/22740354/trump-truth-social-network-spac-mastodon-license-software-freedom-conservancy)
+- [Vice - 4 NFT Projects Took Investors’ Money and Disappeared in One Day](https://www.vice.com/amp/en/article/xgxnew/4-nft-projects-took-investors-money-and-disappeared-in-one-day)
 - [Vice - 4 NFT Projects Took Investors' Money and Disappeared in One Day](https://www.vice.com/amp/en/article/xgxnew/4-nft-projects-took-investors-money-and-disappeared-in-one-day)
 - [The Guardian - We are Google and Amazon workers. We condemn Project Nimbus](https://www.theguardian.com/commentisfree/2021/oct/12/google-amazon-workers-condemn-project-nimbus-israeli-military-contract)
 - [NY Times - Facebook Is Weaker Than We Knew](https://www.nytimes.com/2021/10/04/technology/facebook-files.html?smid=tw-share)
@@ -1148,6 +1176,10 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Jesse Duffield - LazyGit - Simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
+- [GitHub - Bring your monorepo down to size with sparse-checkout](https://github.blog/2020-01-17-bring-your-monorepo-down-to-size-with-sparse-checkout)
+- [Samuel Wong - How to sync Obsidian vault for free using Git?](https://desktopofsamuel.com/how-to-sync-obsidian-vault-for-free-using-git/)
+- [Brodie Robertson - FOSS Alternatives For The Windows Refugee](https://www.youtube.com/watch?v=L0uL2zLuOK0)
 - [Peter Cottle - Learn Git Branching](https://github.com/pcottle/learnGitBranching)
 - [Matthieu Cneude - How To Build Your Own Mouseless Development Environment](https://www.smashingmagazine.com/2021/09/mouseless-development-environment/)
 - [Tony Redmond - The Ups and Downs of Connecting to the Microsoft Graph Using the PowerShell SDK](https://practical365.com/connect-microsoft-graph-powershell-sdk/)
