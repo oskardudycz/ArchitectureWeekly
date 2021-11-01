@@ -44,9 +44,16 @@
   - [Tools](#tools)
   - [Security](#security)
     - [CosmosDB security](#cosmosdb-security)
+  - [Ethereum](#ethereum)
   - [Trivia](#trivia)
 
 ## Architecture
+- [Ardalis - Ultimate New Software Project Decision Checklist](https://github.com/ardalis/new-software-project-checklist)
+- [Luca Palmieri - How we evaluate and adopt new technology](https://truelayer.com/blog/how-we-evaluate-and-adopt-new-technology)
+- [Yves Reynhout - The Waiting List Pattern](https://blog.bittacklr.be/the-waiting-list-pattern.html)
+- [ThoughtWorks - Technology Radar #25](https://www.thoughtworks.com/content/dam/thoughtworks/documents/radar/2021/10/tr_technology_radar_vol_25_en.pdf)
+- [Charlotte Linde, J.A.  Goguen - On the Independence of discourse structure and semantic domain](https://dl.acm.org/doi/pdf/10.3115/981436.981448)
+- [Auth0 - Improving Our Platform Resiliency and Upcoming Holiday Plans](https://auth0.com/blog/improving-our-platform-resiliency-and-upcoming-holiday-plans)
 - [Bryan Hunter - Waterpark: Distributed Actors vs the Pandemic](https://www.youtube.com/watch?v=9qUfX3XFi_4)
 - [Charuka Herath - Will WebTransport Replace WebRTC in Near Future?](https://blog.bitsrc.io/will-webtransport-replace-webrtc-in-near-future-436c4f7f3484)
 - [Eric Evans - Modelling Time](https://www.youtube.com/watch?v=T29WzvaPNc8)
@@ -265,6 +272,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Doug Terry - Replicated Data Consistency Explained Through Baseball](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/ConsistencyAndBaseballReport.pdf)
+- [Cheng Kuan - A True Atomic Microservices Implementation with Debezium to Ensure Data Consistency](https://braindose.blog/2021/09/13/true-atomic-microservices-debezium/)
 - [Zeke Dean - How to Overcome Data Order Issues in Apache Kafka](https://www.dataversity.net/how-to-overcome-data-order-issues-in-apache-kafka/#)
 - [Doug Terry - Replicated Data Consistency Explained Through Baseball](https://www.microsoft.com/en-us/research/publication/replicated-data-consistency-explained-through-baseball)
 - [Bilgin Ibryam - Distributed transaction patterns for microservices compared](https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared)
@@ -513,6 +522,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Cockroach - How we built a forever-free serverless SQL database](https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/)
+- [Tolu Aina - Real-time integration of PostgreSQL with Elasticsearch with PGSync](https://medium.com/@toluaina/real-time-integration-of-postgresql-with-elasticsearch-with-pgsync-9425ffa9b4e9)
 - [Facebook - How we built a general purpose key value store for Facebook with ZippyDB](https://engineering.fb.com/2021/08/06/core-data/zippydb/)
 - [P. O'Neil, E. Cheng, D. Gawlick, E. O'Neil - The Log-Structured Merge-Tree (LSM-Tree)](https://www.cs.umb.edu/~poneil/lsmtree.pdf)
 - [Martin Kleppmann - Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
@@ -618,6 +629,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [.NET Blog - Introducing DevOps-friendly EF Core Migration Bundles](https://devblogs.microsoft.com/dotnet/introducing-devops-friendly-ef-core-migration-bundles/)
+- [Dmitry Merzlyakov - .Net Ledger: Double-Entry Accounting System](https://github.com/dmitry-merzlyakov/nledger)
+- [Sébastien Ros - Jint - Javascript Interpreter for .NET](https://github.com/sebastienros/jint)
+- [Josef Ottosson - Sorting (really) large files with C#](https://josef.codes/sorting-really-large-files-with-c-sharp/)
+- [.NET Foundation - Face-to-Face: A conversation about the .NET Foundation - Option 1](https://www.youtube.com/watch?v=zK-_Lq8d1h8)
 - [Brian Chavez - Bogus - A simple and sane fake data generator for C#, F#, and VB.NET](https://github.com/bchavez/Bogus)
 - [.NET Blog - What's new in F# 6](https://devblogs.microsoft.com/dotnet/whats-new-in-fsharp-6/)
 - [Scott Hanselman - Differences between Hashtable vs Dictonary vs ConcurrentDictionary vs ImmutableDictionary](https://www.hanselman.com/blog/differences-between-hashtable-vs-dictonary-vs-concurrentdictionary-vs-immutabledictionary)
@@ -980,6 +996,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ### Management
+- [Amy Isikoff Newell - Some Thoughts on Trauma-Informed Management](https://www.amywriteswords.com/p/some-thoughts-on-trauma-informed-management)
+- [Myles Ogilvie - How should I fund agility?](https://soonersaferhappier.com/how-should-i-fund-agility/)
 - [Bill Wake - Whole Stories for Whole Teams](https://www.industriallogic.com/blog/whole-stories-for-whole-teams/)
 - [Tim Ottinger - Scatter-Gather](https://www.industriallogic.com/blog/scatter-gather/)
 - [Michel Grootjans - Kanban simulator](https://github.com/michelgrootjans/explaining-flow)
@@ -1072,6 +1090,7 @@
 - [Programming Methods Laboratory EPFL - Monadic Reflection](https://github.com/lampepfl/monadic-reflection)
 
 ## Swift
+- [Swift - Introducing Swift Distributed Actors](https://swift.org/blog/distributed-actors/)
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
@@ -1177,6 +1196,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Pulumi - GitHub Projects example](https://github.com/orgs/pulumi/projects/44/views/1)
 - [Jesse Duffield - LazyGit - Simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
 - [GitHub - Bring your monorepo down to size with sparse-checkout](https://github.blog/2020-01-17-bring-your-monorepo-down-to-size-with-sparse-checkout)
 - [Samuel Wong - How to sync Obsidian vault for free using Git?](https://desktopofsamuel.com/how-to-sync-obsidian-vault-for-free-using-git/)
@@ -1257,7 +1277,12 @@
 - [WIZ - Protecting your environment from ChaosDB](https://www.wiz.io/blog/protecting-your-environment-from-chaosdb)
 - [David Okeyode - Protecting against #ChaosDB](https://davidokeyode.medium.com/protecting-against-chaosdb-262a5936f246)
 
+## Ethereum
+- [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
+
 ## Trivia
+- [Dan Luu - Willingness to look stupid](https://danluu.com/look-stupid/)
+- [Barry Schwartz - The paradox of choice](https://www.youtube.com/watch?v=VO6XEQIsCoM)
 - [PC Gamer - Dutch legend has been running his campsite since 1986 using an Atari ST](https://www.pcgamer.com/dutch-legend-has-been-running-his-campsite-since-1986-using-an-atari-st/)
 - [StackOverflow - No joke—you can buy our copy/paste keyboard right now](https://stackoverflow.blog/2021/09/28/become-a-better-coder-with-this-one-weird-click/)
 - [The Guardian - Home computing pioneer Sir Clive Sinclair dies aged 81](https://www.theguardian.com/technology/2021/sep/16/home-computing-pioneer-sir-clive-sinclair-dies-aged-81)

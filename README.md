@@ -18,6 +18,49 @@ There are two rules:
 
 💖 If this repository helped you - I'd be more than happy if you **join** the group of **my official supporters** at [Github Sponsors](https://github.com/sponsors/oskardudycz)
 
+-------
+
+## 1st Novemeber 2021
+
+### Architecture
+- [Ardalis - Ultimate New Software Project Decision Checklist](https://github.com/ardalis/new-software-project-checklist)
+- [Luca Palmieri - How we evaluate and adopt new technology](https://truelayer.com/blog/how-we-evaluate-and-adopt-new-technology)
+- [Yves Reynhout - The Waiting List Pattern](https://blog.bittacklr.be/the-waiting-list-pattern.html)
+- [ThoughtWorks - Technology Radar #25](https://www.thoughtworks.com/content/dam/thoughtworks/documents/radar/2021/10/tr_technology_radar_vol_25_en.pdf)
+- [Charlotte Linde, J.A.  Goguen - On the Independence of discourse structure and semantic domain](https://dl.acm.org/doi/pdf/10.3115/981436.981448)
+- [Auth0 - Improving Our Platform Resiliency and Upcoming Holiday Plans](https://auth0.com/blog/improving-our-platform-resiliency-and-upcoming-holiday-plans)
+
+### Distributed Systems
+- [Doug Terry - Replicated Data Consistency Explained Through Baseball](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/ConsistencyAndBaseballReport.pdf)
+- [Cheng Kuan - A True Atomic Microservices Implementation with Debezium to Ensure Data Consistency](https://braindose.blog/2021/09/13/true-atomic-microservices-debezium/)
+
+### Databases
+- [Cockroach - How we built a forever-free serverless SQL database](https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/)
+- [Tolu Aina - Real-time integration of PostgreSQL with Elasticsearch with PGSync](https://medium.com/@toluaina/real-time-integration-of-postgresql-with-elasticsearch-with-pgsync-9425ffa9b4e9)
+
+### Tools
+- [Pulumi - GitHub Projects example](https://github.com/orgs/pulumi/projects/44/views/1)
+
+### .NET
+- [.NET Blog - Introducing DevOps-friendly EF Core Migration Bundles](https://devblogs.microsoft.com/dotnet/introducing-devops-friendly-ef-core-migration-bundles/)
+- [Dmitry Merzlyakov - .Net Ledger: Double-Entry Accounting System](https://github.com/dmitry-merzlyakov/nledger)
+- [Sébastien Ros - Jint - Javascript Interpreter for .NET](https://github.com/sebastienros/jint)
+- [Josef Ottosson - Sorting (really) large files with C#](https://josef.codes/sorting-really-large-files-with-c-sharp/)
+- [.NET Foundation - Face-to-Face: A conversation about the .NET Foundation - Option 1](https://www.youtube.com/watch?v=zK-_Lq8d1h8)
+
+### Swift
+- [Swift - Introducing Swift Distributed Actors](https://swift.org/blog/distributed-actors/)
+
+### Management
+- [Amy Isikoff Newell - Some Thoughts on Trauma-Informed Management](https://www.amywriteswords.com/p/some-thoughts-on-trauma-informed-management)
+- [Myles Ogilvie - How should I fund agility?](https://soonersaferhappier.com/how-should-i-fund-agility/)
+
+### Ethereum
+- [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
+
+### Trivia
+- [Dan Luu - Willingness to look stupid](https://danluu.com/look-stupid/)
+- [Barry Schwartz - The paradox of choice](https://www.youtube.com/watch?v=VO6XEQIsCoM)
 
 -------
 
