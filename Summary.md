@@ -48,6 +48,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [AWS General Reference - Error retries and exponential backoff in AWS](https://docs.aws.amazon.com/general/latest/gr/api-retries.html)
+- [Vernan Vaughn - Architecture vs Model](https://vlingo.io/architecture-vs-model/)
+- [Eric Evans - What is DDD](https://www.youtube.com/watch?v=pMuiVlnGqjk)
+- [Kenny Baas Schwegler - Crunching ‘real-life stories’ with DDD EventStorming and combining it with BDD techniques](https://vimeo.com/299167345)
 - [Ardalis - Ultimate New Software Project Decision Checklist](https://github.com/ardalis/new-software-project-checklist)
 - [Luca Palmieri - How we evaluate and adopt new technology](https://truelayer.com/blog/how-we-evaluate-and-adopt-new-technology)
 - [Yves Reynhout - The Waiting List Pattern](https://blog.bittacklr.be/the-waiting-list-pattern.html)
@@ -272,6 +276,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Messaging on Azure Blog - Announcing Azure Schema Registry in Azure Event Hubs](https://techcommunity.microsoft.com/t5/messaging-on-azure/announcing-azure-schema-registry-in-azure-event-hubs-ga/ba-p/2911895)
 - [Doug Terry - Replicated Data Consistency Explained Through Baseball](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/ConsistencyAndBaseballReport.pdf)
 - [Cheng Kuan - A True Atomic Microservices Implementation with Debezium to Ensure Data Consistency](https://braindose.blog/2021/09/13/true-atomic-microservices-debezium/)
 - [Zeke Dean - How to Overcome Data Order Issues in Apache Kafka](https://www.dataversity.net/how-to-overcome-data-order-issues-in-apache-kafka/#)
@@ -398,6 +403,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Github Universe Videos](https://www.githubuniverse.com/2021/)
 - [Google Cloud Blog - 2021 Accelerate State of DevOps report addresses burnout, team performance](https://cloud.google.com/blog/products/devops-sre/announcing-dora-2021-accelerate-state-of-devops-report)
 - [Brendan Gregg - Flame Graphs](https://www.brendangregg.com/flamegraphs.html)
 - [The Cloudflare Blog - Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
@@ -443,6 +449,9 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Google Web.Dev - What's new in PageSpeed Insights](https://web.dev/whats-new-pagespeed-insights/)
+- [Dan Abramov - npm audit: Broken by Design](https://overreacted.io/npm-audit-broken-by-design/)
+- [Google Open Source - Using Saliency in progressive JPEG XL images](https://opensource.googleblog.com/2021/09/using-saliency-in-progressive-jpeg-xl-images.html)
 - [Christian Heilmann - What if… you could use Visual Studio Code as the editor of in-browser Developer Tools?](https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/)
 - [Greg Young - CQRS, not just for server systems](https://skillsmatter.com/skillscasts/1980-cqrs-not-just-for-server-systems)
 - [Kent C. Dodds - How I built a modern website in 2021](https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021)
@@ -509,6 +518,7 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [Matthias Biehl - A Lifecycle Approach to API Versioning](https://nordicapis.com/a-lifecycle-approach-to-api-versioning/)
 - [Phil Sturgeon - REST and Hypermedia in 2019](https://apisyouwonthate.com/blog/rest-and-hypermedia-in-2019)
 - [Brandur - Why form encoding in web APIs is an anti-pattern](https://brandur.org/fragments/application-x-wwww-form-urlencoded)
 - [Microsoft - Web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
@@ -522,6 +532,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Neo4j - Announcing Neo4j AuraDB Free](https://neo4j.com/developer-blog/announcing-neo4j-auradb-free)
+- [Nikolay Samokhvalov - How partial, covering, and multicolumn indexes may slow down UPDATEs in PostgreSQL](https://postgres.ai/blog/20211029-how-partial-and-covering-indexes-affect-update-performance-in-postgresql)
+- [Mongo Express - A dockerized mongo-express for viewing mongoDB in the browser](https://github.com/mongo-express/mongo-express-docker)
 - [Cockroach - How we built a forever-free serverless SQL database](https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/)
 - [Tolu Aina - Real-time integration of PostgreSQL with Elasticsearch with PGSync](https://medium.com/@toluaina/real-time-integration-of-postgresql-with-elasticsearch-with-pgsync-9425ffa9b4e9)
 - [Facebook - How we built a general purpose key value store for Facebook with ZippyDB](https://engineering.fb.com/2021/08/06/core-data/zippydb/)
@@ -600,6 +613,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Microsoft - Machine Learning for Beginners - A Curriculum](https://microsoft.github.io/ML-For-Beginners)
 - [Google - High Fidelity Image Generation Using Diffusion Models](https://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html)
 - [VentureBeat - AI bias is prevalent but preventable — here's how to root it out](https://venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out)
 - [MIT Technology Review - Hundreds of AI tools have been built to catch covid. None of them helped](https://www.technologyreview.com/2021/07/30/1030329/machine-learning-ai-failed-covid-hospital-diagnosis-pandemic/amp/)
@@ -612,6 +626,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## Azure
+- [Microsoft - Microsoft 365 Developer Program launches new instant sandbox with Teams sample data pack](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-developer-program-launches-new-instant-sandbox-with-teams-sample-data-pack/)
 - [Carol Smith - Announcing: Azure credits for open source projects](https://cloudblogs.microsoft.com/opensource/2021/09/28/announcing-azure-credits-for-open-source-projects)
 - [Marius Sandbu - Deep dive Azure Monitor and Log Analytics](https://msandbu.org/deep-dive-azure-monitor-and-log-analytics/)
 - [Yves Goeleven - CDN Hosting](https://www.goeleven.com/blog/cdn-hosting/)
@@ -629,6 +644,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Matthias Koch - Caller Argument Expressions – A Look at New Language Features in C# 10](https://blog.jetbrains.com/dotnet/2021/11/04/caller-argument-expressions-in-csharp-10/)
+- [Jimmy Bogard - Document-Level Optimistic Concurrency in MongoDB](https://jimmybogard.com/document-level-optimistic-concurrency-in-mongodb/)
+- [NServiceBus - Steps, Stages and Connectors](https://docs.particular.net/nservicebus/pipeline/steps-stages-connectors)
+- [Andreas Dorfer - Option Type in C#](https://www.enterprise-software-development.eu/posts/2019/11/19/option-type.html)
+- [Andrew Lock - Improving logging performance with source generators](https://andrewlock.net/exploring-dotnet-6-part-8-improving-logging-performance-with-source-generators)
 - [.NET Blog - Introducing DevOps-friendly EF Core Migration Bundles](https://devblogs.microsoft.com/dotnet/introducing-devops-friendly-ef-core-migration-bundles/)
 - [Dmitry Merzlyakov - .Net Ledger: Double-Entry Accounting System](https://github.com/dmitry-merzlyakov/nledger)
 - [Sébastien Ros - Jint - Javascript Interpreter for .NET](https://github.com/sebastienros/jint)
@@ -881,6 +901,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Michał Bartyzel - Conversation Patterns for Software Professionals](https://www.infoq.com/articles/conversation-patterns-1/)
 - [Lauren Ten - Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 - [Bill Wake - Lambda for Control Structures, a Refactoring](https://xp123.com/articles/lambda-for-control-structures-a-refactoring/)
 - [Nicole Kow - Developer Burnout: Why It Happens and What We Can Do About It](https://codesubmit.io/blog/developer-burnout/)
@@ -1012,6 +1033,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [JReleaser - The quick and effortless way to release your Java project](https://jreleaser.org/)
 - [Andrzej Ludwikowski - Reactive Event Sourcing in Java, Part 1: Domain](https://softwaremill.com/reactive-event-sourcing-in-java-part-1-domain/)
 - [Miloš Živković - Why Java Experts Avoid Mocks](https://medium.com/javarevisited/why-java-experts-avoid-mocks-ed71f54ac81c)
 - [Thomas Schatzl - JDK 17 G1/Parallel GC changes](https://tschatzl.github.io/2021/09/16/jdk17-g1-parallel-gc-changes.html)
@@ -1042,6 +1064,8 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## NodeJS
+- [Express - Health Checks and Graceful Shutdown](https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html)
+- [Jose Arroyo Rodriguez - Implementing NodeJS HTTP Graceful Shutdown](https://blog.dashlane.com/implementing-nodejs-http-graceful-shutdown/)
 - [reSolve - Full stack CQRS, DDD, Event Sourcing framework for Node.js](https://reimagined.github.io/resolve/)
 - [Mark Michon - Add Retries to Your API Calls](https://blog.bearer.sh/add-retry-to-api-calls-javascript-node/)
 - [Alvin Lal - Single thread vs child process vs worker threads vs cluster in nodejs](https://alvinlal.netlify.app/blog/single-thread-vs-child-process-vs-worker-threads-vs-cluster-in-nodejs)
@@ -1074,6 +1098,7 @@
 - [Simon Vergauwen - Functional Domain Modeling in Kotlin - Validation](https://www.47deg.com/blog/functional-domain-modeling-part-2/)
 
 ## Rust
+- [Herbert Wolverson - Game Development with Rust](https://medium.com/pragmatic-programmers/game-development-with-rust-31147f7b6096)
 - [Jon Gjengset - Crust of Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)
 - [Jan Pochyla - Psst: Fast and multi-platform Spotify client with native GUI](https://github.com/jpochyla/psst)
 - [Channel 9 - Beginner's Series to Rust](https://channel9.msdn.com/Series/Beginners-Series-to-Rust?WT.mc_id=academic-29077-cxa)
@@ -1094,6 +1119,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [CNBC - Microsoft's GitHub CEO Nat Friedman is stepping down, product chief Thomas Dohmke will replace him](https://www.cnbc.com/2021/11/03/microsoft-github-ceo-nat-friedman-replaced-by-thomas-dohmke.html)
 - [Jason Kint - Google and Facebook antitrust lawsuit](https://twitter.com/jason_kint/status/1451579045246820355)
 - [The Verge - Trump's social network has 30 days to stop breaking the rules of its software license](https://www.theverge.com/2021/10/22/22740354/trump-truth-social-network-spac-mastodon-license-software-freedom-conservancy)
 - [Vice - 4 NFT Projects Took Investors’ Money and Disappeared in One Day](https://www.vice.com/amp/en/article/xgxnew/4-nft-projects-took-investors-money-and-disappeared-in-one-day)
@@ -1196,6 +1222,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Plugin draw.io for Notion](https://chrome.google.com/webstore/detail/drawio-for-notion/plhaalebpkihaccllnkdaokdoeaokmle)
 - [Pulumi - GitHub Projects example](https://github.com/orgs/pulumi/projects/44/views/1)
 - [Jesse Duffield - LazyGit - Simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
 - [GitHub - Bring your monorepo down to size with sparse-checkout](https://github.blog/2020-01-17-bring-your-monorepo-down-to-size-with-sparse-checkout)
@@ -1281,6 +1308,9 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Chris Argyris - Teaching Smart People How to Learn](https://hbr.org/1991/05/teaching-smart-people-how-to-learn)
+- [MIT Sloan - What Makes Work Meaningful — Or Meaningless](https://sloanreview.mit.edu/article/what-makes-work-meaningful-or-meaningless/)
+- [Chet Haase - Top Tips for Terrible Tech Talks](https://www.youtube.com/watch?v=osVpqz10UP8)
 - [Dan Luu - Willingness to look stupid](https://danluu.com/look-stupid/)
 - [Barry Schwartz - The paradox of choice](https://www.youtube.com/watch?v=VO6XEQIsCoM)
 - [PC Gamer - Dutch legend has been running his campsite since 1986 using an Atari ST](https://www.pcgamer.com/dutch-legend-has-been-running-his-campsite-since-1986-using-an-atari-st/)

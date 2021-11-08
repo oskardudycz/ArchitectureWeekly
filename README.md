@@ -16,7 +16,75 @@ There are two rules:
 
 ## Support
 
-💖 If this repository helped you - I'd be more than happy if you **join** the group of **my official supporters** at [Github Sponsors](https://github.com/sponsors/oskardudycz)
+💖 If this repository helped you - I'd be more than happy if you **join** the group of **my official supporters** at [Github Sponsors](https://github.com/sponsors/oskardudycz).
+
+⭐ Star on GitHub or sharing to your friends will also help!
+
+-------
+
+## 8th Novemeber 2021
+
+### Architecture
+- [AWS General Reference - Error retries and exponential backoff in AWS](https://docs.aws.amazon.com/general/latest/gr/api-retries.html)
+- [Vernan Vaughn - Architecture vs Model](https://vlingo.io/architecture-vs-model/)
+- [Eric Evans - What is DDD](https://www.youtube.com/watch?v=pMuiVlnGqjk)
+- [Kenny Baas Schwegler - Crunching ‘real-life stories’ with DDD EventStorming and combining it with BDD techniques](https://vimeo.com/299167345)
+
+### Distributed Systems
+- [Messaging on Azure Blog - Announcing Azure Schema Registry in Azure Event Hubs](https://techcommunity.microsoft.com/t5/messaging-on-azure/announcing-azure-schema-registry-in-azure-event-hubs-ga/ba-p/2911895)
+
+### Databases
+- [Neo4j - Announcing Neo4j AuraDB Free](https://neo4j.com/developer-blog/announcing-neo4j-auradb-free)
+- [Nikolay Samokhvalov - How partial, covering, and multicolumn indexes may slow down UPDATEs in PostgreSQL](https://postgres.ai/blog/20211029-how-partial-and-covering-indexes-affect-update-performance-in-postgresql)
+- [Mongo Express - A dockerized mongo-express for viewing mongoDB in the browser](https://github.com/mongo-express/mongo-express-docker)
+
+### DevOps
+- [Github Universe Videos](https://www.githubuniverse.com/2021/)
+
+### API
+- [Matthias Biehl - A Lifecycle Approach to API Versioning](https://nordicapis.com/a-lifecycle-approach-to-api-versioning/)
+
+### Frontend
+- [Google Web.Dev - What's new in PageSpeed Insights](https://web.dev/whats-new-pagespeed-insights/)
+- [Dan Abramov - npm audit: Broken by Design](https://overreacted.io/npm-audit-broken-by-design/)
+- [Google Open Source - Using Saliency in progressive JPEG XL images](https://opensource.googleblog.com/2021/09/using-saliency-in-progressive-jpeg-xl-images.html)
+
+### Tools
+- [Plugin draw.io for Notion](https://chrome.google.com/webstore/detail/drawio-for-notion/plhaalebpkihaccllnkdaokdoeaokmle)
+
+### AI
+- [Microsoft - Machine Learning for Beginners - A Curriculum](https://microsoft.github.io/ML-For-Beginners)
+
+### Azure
+- [Microsoft - Microsoft 365 Developer Program launches new instant sandbox with Teams sample data pack](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-developer-program-launches-new-instant-sandbox-with-teams-sample-data-pack/)
+
+### Java
+- [JReleaser - The quick and effortless way to release your Java project](https://jreleaser.org/)
+
+### .NET
+- [Matthias Koch - Caller Argument Expressions – A Look at New Language Features in C# 10](https://blog.jetbrains.com/dotnet/2021/11/04/caller-argument-expressions-in-csharp-10/)
+- [Jimmy Bogard - Document-Level Optimistic Concurrency in MongoDB](https://jimmybogard.com/document-level-optimistic-concurrency-in-mongodb/)
+- [NServiceBus - Steps, Stages and Connectors](https://docs.particular.net/nservicebus/pipeline/steps-stages-connectors)
+- [Andreas Dorfer - Option Type in C#](https://www.enterprise-software-development.eu/posts/2019/11/19/option-type.html)
+- [Andrew Lock - Improving logging performance with source generators](https://andrewlock.net/exploring-dotnet-6-part-8-improving-logging-performance-with-source-generators)
+
+### NodeJs
+- [Express - Health Checks and Graceful Shutdown](https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html)
+- [Jose Arroyo Rodriguez - Implementing NodeJS HTTP Graceful Shutdown](https://blog.dashlane.com/implementing-nodejs-http-graceful-shutdown/)
+
+### Rust
+- [Herbert Wolverson - Game Development with Rust](https://medium.com/pragmatic-programmers/game-development-with-rust-31147f7b6096)
+
+### Coding Life
+- [Michał Bartyzel - Conversation Patterns for Software Professionals](https://www.infoq.com/articles/conversation-patterns-1/)
+
+### Industry
+- [CNBC - Microsoft's GitHub CEO Nat Friedman is stepping down, product chief Thomas Dohmke will replace him](https://www.cnbc.com/2021/11/03/microsoft-github-ceo-nat-friedman-replaced-by-thomas-dohmke.html)
+
+### Trivia
+- [Chris Argyris - Teaching Smart People How to Learn](https://hbr.org/1991/05/teaching-smart-people-how-to-learn)
+- [MIT Sloan - What Makes Work Meaningful — Or Meaningless](https://sloanreview.mit.edu/article/what-makes-work-meaningful-or-meaningless/)
+- [Chet Haase - Top Tips for Terrible Tech Talks](https://www.youtube.com/watch?v=osVpqz10UP8)
 
 -------
 
