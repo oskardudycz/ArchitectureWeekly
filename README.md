@@ -18,7 +18,7 @@ There are two rules:
 
 💖 If this repository helped you - I'd be more than happy if you **join** the group of **my official supporters** at [Github Sponsors](https://github.com/sponsors/oskardudycz).
 
-⭐ Star on GitHub or sharing to your friends will also help!
+⭐ Star on GitHub or sharing with your friends will also help!!
 
 -------
 
