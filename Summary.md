@@ -48,6 +48,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Vladimir Khorikov - DDD in a nutshell](https://www.youtube.com/watch?v=kPV1SkdSnhE)
+- [Mathias Verraes - Eventsourcing: State from Events or Events as State?](https://verraes.net/2019/08/eventsourcing-state-from-events-vs-events-as-state/)
+- [Hadi Hariri - The Silver Bullet Syndrome](https://vimeo.com/130202574)
+- [Alberto Brandolini - Introducing Event Storming](https://vimeo.com/130202708)
 - [AWS General Reference - Error retries and exponential backoff in AWS](https://docs.aws.amazon.com/general/latest/gr/api-retries.html)
 - [Vernan Vaughn - Architecture vs Model](https://vlingo.io/architecture-vs-model/)
 - [Eric Evans - What is DDD](https://www.youtube.com/watch?v=pMuiVlnGqjk)
@@ -276,6 +280,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Bartosz Konieczny - Apache Kafka and max.in.flight.requests.per.connection](https://www.waitingforcode.com/apache-kafka/apache-kafka-max-in-flight-requests-per-connection/read)
+- [Akshatha Laxmi - Make an E-Commerce Application With Akka Serverless](https://www.antstack.io/blog/make-an-e-commerce-application-with-akka-serverless/)
 - [Messaging on Azure Blog - Announcing Azure Schema Registry in Azure Event Hubs](https://techcommunity.microsoft.com/t5/messaging-on-azure/announcing-azure-schema-registry-in-azure-event-hubs-ga/ba-p/2911895)
 - [Doug Terry - Replicated Data Consistency Explained Through Baseball](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/ConsistencyAndBaseballReport.pdf)
 - [Cheng Kuan - A True Atomic Microservices Implementation with Debezium to Ensure Data Consistency](https://braindose.blog/2021/09/13/true-atomic-microservices-debezium/)
@@ -403,6 +409,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Jakub Stransky - 4 devs by devs: Kubernetes interview question made easy](https://jakubstransky.com/2021/11/05/4-devs-kubernetes-interview-question-made-easy/)
 - [Github Universe Videos](https://www.githubuniverse.com/2021/)
 - [Google Cloud Blog - 2021 Accelerate State of DevOps report addresses burnout, team performance](https://cloud.google.com/blog/products/devops-sre/announcing-dora-2021-accelerate-state-of-devops-report)
 - [Brendan Gregg - Flame Graphs](https://www.brendangregg.com/flamegraphs.html)
@@ -449,6 +456,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Cédric Exbrayat - What's new in Angular 13?](https://blog.ninja-squad.com/2021/11/03/what-is-new-angular-13.0/)
 - [Google Web.Dev - What's new in PageSpeed Insights](https://web.dev/whats-new-pagespeed-insights/)
 - [Dan Abramov - npm audit: Broken by Design](https://overreacted.io/npm-audit-broken-by-design/)
 - [Google Open Source - Using Saliency in progressive JPEG XL images](https://opensource.googleblog.com/2021/09/using-saliency-in-progressive-jpeg-xl-images.html)
@@ -518,6 +526,7 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [Sinclair Target - Roy Fielding's Misappropriated REST Dissertation](https://twobithistory.org/2020/06/28/rest.html?s=09)
 - [Matthias Biehl - A Lifecycle Approach to API Versioning](https://nordicapis.com/a-lifecycle-approach-to-api-versioning/)
 - [Phil Sturgeon - REST and Hypermedia in 2019](https://apisyouwonthate.com/blog/rest-and-hypermedia-in-2019)
 - [Brandur - Why form encoding in web APIs is an anti-pattern](https://brandur.org/fragments/application-x-wwww-form-urlencoded)
@@ -532,6 +541,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [AWS Blog - Goodbye Microsoft SQL Server, Hello Babelfish](https://aws.amazon.com/blogs/aws/goodbye-microsoft-sql-server-hello-babelfish/)
 - [Neo4j - Announcing Neo4j AuraDB Free](https://neo4j.com/developer-blog/announcing-neo4j-auradb-free)
 - [Nikolay Samokhvalov - How partial, covering, and multicolumn indexes may slow down UPDATEs in PostgreSQL](https://postgres.ai/blog/20211029-how-partial-and-covering-indexes-affect-update-performance-in-postgresql)
 - [Mongo Express - A dockerized mongo-express for viewing mongoDB in the browser](https://github.com/mongo-express/mongo-express-docker)
@@ -644,6 +654,12 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [.NET Blog - Announcing .NET 6 — The Fastest .NET Yet](https://devblogs.microsoft.com/dotnet/announcing-net-6)
+- [.NET Blog - Announcing YARP 1.0 Release](https://devblogs.microsoft.com/dotnet/announcing-yarp-1-0-release)
+- [Changhui Xu - Schedule Cron Jobs using HostedService in ASP.NET Core](https://codeburst.io/schedule-cron-jobs-using-hostedservice-in-asp-net-core-e17c47ba06)
+- [Nick Chapsas - I let GitHub Copilot be the Pilot for my C# code](https://www.youtube.com/watch?v=XceIKXeIrD0)
+- [Nicholas Blumhardt - Setting up Serilog in .NET 6](https://blog.datalust.co/using-serilog-in-net-6/)
+- [The Computer Language Benchmarks Game - C# .NET vs Java](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/csharp.html)
 - [Matthias Koch - Caller Argument Expressions – A Look at New Language Features in C# 10](https://blog.jetbrains.com/dotnet/2021/11/04/caller-argument-expressions-in-csharp-10/)
 - [Jimmy Bogard - Document-Level Optimistic Concurrency in MongoDB](https://jimmybogard.com/document-level-optimistic-concurrency-in-mongodb/)
 - [NServiceBus - Steps, Stages and Connectors](https://docs.particular.net/nservicebus/pipeline/steps-stages-connectors)
@@ -901,6 +917,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Maggie Appleton - A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 - [Michał Bartyzel - Conversation Patterns for Software Professionals](https://www.infoq.com/articles/conversation-patterns-1/)
 - [Lauren Ten - Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 - [Bill Wake - Lambda for Control Structures, a Refactoring](https://xp123.com/articles/lambda-for-control-structures-a-refactoring/)
@@ -1073,6 +1090,7 @@
 - [Ákos Szokodi - How to Easily Set-up Node Config Following These Best Practices](https://codingsans.com/blog/node-config-best-practices)
 
 ## Ruby
+- [Peter Zhu - How ruby_memcheck Finds Memory Leaks in Native Gems](https://blog.peterzhu.ca/ruby-memcheck/)
 - [Ruby on Rails - Rails 7.0 Alpha 1: New JavaScript Answers, At-Work Encryption, Query Origin Logging, Zeitwerk Exclusively](https://weblog.rubyonrails.org/2021/9/15/Rails-7-0-alpha-1-released/)
 - [Remote Ruby - Hotwire, Rails NEXT, and the DHH Stack with David Heinemeier Hansson](https://remoteruby.transistor.fm/115)
 
@@ -1119,6 +1137,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [ArchTechnica - As teens left Facebook, company planned to lure 6-year-olds, documents show](https://arstechnica.com/tech-policy/2021/11/facebook-wanted-to-hook-6-year-olds-with-new-apps-documents-show)
 - [CNBC - Microsoft's GitHub CEO Nat Friedman is stepping down, product chief Thomas Dohmke will replace him](https://www.cnbc.com/2021/11/03/microsoft-github-ceo-nat-friedman-replaced-by-thomas-dohmke.html)
 - [Jason Kint - Google and Facebook antitrust lawsuit](https://twitter.com/jason_kint/status/1451579045246820355)
 - [The Verge - Trump's social network has 30 days to stop breaking the rules of its software license](https://www.theverge.com/2021/10/22/22740354/trump-truth-social-network-spac-mastodon-license-software-freedom-conservancy)
@@ -1193,6 +1212,7 @@
 - [Corey Quinn - How to Compete with AWS](https://www.lastweekinaws.com/blog/how-to-compete-with-aws/)
 
 ## Hardware
+- [Anand Tech - AMD Gives Details on EPYC Zen4: Genoa and Bergamo, up to 96 and 128 Cores](https://www.anandtech.com/show/17055/amd-gives-details-on-epyc-zen4-genoa-and-bergamo-up-to-96-and-128-cores)
 - [Alex Ellis - State of netbooting Raspberry Pi in 2021](https://blog.alexellis.io/state-of-netbooting-raspberry-pi-in-2021/)
 - [Jeff Geerling - The Raspberry Pi can boot off NVMe SSDs now](https://www.jeffgeerling.com/blog/2021/raspberry-pi-can-boot-nvme-ssds-now)
 - [Stratechery - Intel Problems](https://stratechery.com/2021/intel-problems/)
@@ -1222,6 +1242,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [InfoQ - Google Document Translation Now Generally Available](https://www.infoq.com/news/2021/11/google-document-translation)
 - [Plugin draw.io for Notion](https://chrome.google.com/webstore/detail/drawio-for-notion/plhaalebpkihaccllnkdaokdoeaokmle)
 - [Pulumi - GitHub Projects example](https://github.com/orgs/pulumi/projects/44/views/1)
 - [Jesse Duffield - LazyGit - Simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
@@ -1308,6 +1329,10 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Julia Evans - How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/)
+- [Eric Steven Raymond - How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
+- [Breck Yunits - Write Thin to Write Fast](https://breckyunits.com/write-thin-to-write-fast.html)
+- [Steven Shorrock - The Varieties of Human Work](https://humanisticsystems.com/2016/12/05/the-varieties-of-human-work)
 - [Chris Argyris - Teaching Smart People How to Learn](https://hbr.org/1991/05/teaching-smart-people-how-to-learn)
 - [MIT Sloan - What Makes Work Meaningful — Or Meaningless](https://sloanreview.mit.edu/article/what-makes-work-meaningful-or-meaningless/)
 - [Chet Haase - Top Tips for Terrible Tech Talks](https://www.youtube.com/watch?v=osVpqz10UP8)
