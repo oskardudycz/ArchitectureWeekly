@@ -22,6 +22,64 @@ There are two rules:
 
 -------
 
+## 22nd Novemeber 2021
+
+### Architecture
+- [Trond Hjorteland, Ben Linders - Thriving in the Complexity of Software Development Using Open Sociotechnical Systems Design](https://www.infoq.com/articles/open-sociotechnical-systems-design/)
+- [Blaine Osepchuk - Why I can't recommend Clean Architecture by Robert C Martin](https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd)
+- [Subbu Allamaraju - Broken State of Data](https://m.subbu.org/broken-state-of-data-4c8a8a30a0c3)
+- [Anna Tito - Architecting for live service games on mobile: A client-side perspective](https://www.youtube.com/watch?v=D9soKMP_cMw)
+
+### Distributed Systems
+- [Pulsar - Transactions](https://pulsar.apache.org/docs/en/txn-why/)
+
+### API
+- [Zalando - RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/#)
+
+### Functional Programming
+- [Mark Seemann - Functions as pipes](https://blog.ploeh.dk/2021/11/22/functions-as-pipes/)
+
+### Java
+- [Venkat Subramaniam - A dozen cool things we can do with popular JVM Languages](https://www.youtube.com/watch?v=MEDTyR1Ksyw)
+- [Andrzej Ludwikowski - Reactive Event Sourcing in Java, Part 3: Service](https://softwaremill.com/reactive-event-sourcing-in-java-part-3-service/)
+
+### .NET
+- [DevMentors - Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8)
+- [Piotr Karczmarz - Hello World from ContextKeeper!](https://contextkeeper.io/blog/hello-world-from-contextkeeper/)
+- [Andrew Lock - Supporting integration tests with WebApplicationFactory in .NET 6](https://andrewlock.net/exploring-dotnet-6-part-6-supporting-integration-tests-with-webapplicationfactory-in-dotnet-6/)
+- [Microsoft - Migrate from ASP.NET Core 5.0 to 6.0](https://docs.microsoft.com/en-us/aspnet/core/migration/50-to-60)
+- [Artyom Sovetnikov - DotNetJS](https://github.com/Elringus/DotNetJS)
+
+### Low Level
+- [Yonatan - Transforming an Arcade Machine into a WFH-friendly Grafana Dashboard](https://blog.yonatan.dev/arcade-machine-grafana-dashboard/)
+
+### Tools
+- [Nicolas P. Rougier - An open access book on scientific visualization using python and matplotlib](https://github.com/rougier/scientific-visualization-book)
+- [Asciiflow - Documentation with Ascii](https://asciiflow.com/#/)
+- [Mermaid - Lets you create diagrams and visualizations using text and code.](https://mermaid-js.github.io/mermaid)
+- [PlantUML - Diagrams as code](https://plantuml.com/)
+- [WebSequenceDiagrams - Create sequence diagrams in seconds](https://www.websequencediagrams.com/)
+- [SequenceDiagram.org - An online tool / software for creating UML sequence diagrams](https://sequencediagram.org/)
+- [js-sequence-diagrams - Turns text into UML sequence diagrams](https://bramp.github.io/js-sequence-diagrams/)
+
+### Windows
+- [Valentin-Gabriel Radu - ExplorerPatcher - This project aims to bring back a productive working environment on Windows 11](https://github.com/valinet/ExplorerPatcher)
+
+### Management
+- [Allen Holub - No Estimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
+- [Charles-Axel Dein - A collection of inspiring resources related to engineering management and tech leadership](https://github.com/charlax/engineering-management)
+
+### Industry
+- [DFRLab - Network of Facebook pages amplified Polish right-wing and tabloid media outlets](https://medium.com/dfrlab/network-of-facebook-pages-amplified-polish-right-wing-and-tabloid-media-outlets-ccaa218128ab)
+
+### Security
+- [Protocol - Facebook and Apple’s privacy war is mucking up voter turnout efforts](https://www.protocol.com/policy/apple-facebook-voter-turnout)
+
+### Trivia
+- [Nikhil Agrawal - Awesome Black Friday & Cyber Monday deals - 2021](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals)
+
+-------
+
 ## 15th Novemeber 2021
 
 ### Architecture

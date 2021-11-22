@@ -48,6 +48,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Trond Hjorteland, Ben Linders - Thriving in the Complexity of Software Development Using Open Sociotechnical Systems Design](https://www.infoq.com/articles/open-sociotechnical-systems-design/)
+- [Blaine Osepchuk - Why I can't recommend Clean Architecture by Robert C Martin](https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd)
+- [Subbu Allamaraju - Broken State of Data](https://m.subbu.org/broken-state-of-data-4c8a8a30a0c3)
+- [Anna Tito - Architecting for live service games on mobile: A client-side perspective](https://www.youtube.com/watch?v=D9soKMP_cMw)
 - [Vladimir Khorikov - DDD in a nutshell](https://www.youtube.com/watch?v=kPV1SkdSnhE)
 - [Mathias Verraes - Eventsourcing: State from Events or Events as State?](https://verraes.net/2019/08/eventsourcing-state-from-events-vs-events-as-state/)
 - [Hadi Hariri - The Silver Bullet Syndrome](https://vimeo.com/130202574)
@@ -280,6 +284,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Pulsar - Transactions](https://pulsar.apache.org/docs/en/txn-why/)
 - [Bartosz Konieczny - Apache Kafka and max.in.flight.requests.per.connection](https://www.waitingforcode.com/apache-kafka/apache-kafka-max-in-flight-requests-per-connection/read)
 - [Akshatha Laxmi - Make an E-Commerce Application With Akka Serverless](https://www.antstack.io/blog/make-an-e-commerce-application-with-akka-serverless/)
 - [Messaging on Azure Blog - Announcing Azure Schema Registry in Azure Event Hubs](https://techcommunity.microsoft.com/t5/messaging-on-azure/announcing-azure-schema-registry-in-azure-event-hubs-ga/ba-p/2911895)
@@ -526,6 +531,7 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [Zalando - RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/#)
 - [Sinclair Target - Roy Fielding's Misappropriated REST Dissertation](https://twobithistory.org/2020/06/28/rest.html?s=09)
 - [Matthias Biehl - A Lifecycle Approach to API Versioning](https://nordicapis.com/a-lifecycle-approach-to-api-versioning/)
 - [Phil Sturgeon - REST and Hypermedia in 2019](https://apisyouwonthate.com/blog/rest-and-hypermedia-in-2019)
@@ -643,6 +649,7 @@
 - [InfoWorld - Simon Bisson - Jumping into Azure Arc Data Services](https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.amp.html)
 
 ## Functional Programming
+- [Mark Seemann - Functions as pipes](https://blog.ploeh.dk/2021/11/22/functions-as-pipes/)
 - [Marco Perone - Either why or how](http://marcosh.github.io/post/2021/09/24/either-why-or-how.html)
 - [Tony Morris - Data Types, Algebra, Parametricity, Optics](https://www.youtube.com/watch?v=v3uJSlklQT4)
 - [Railway oriented programming](https://fsharpforfunandprofit.com/posts/recipe-part2/)
@@ -654,6 +661,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [DevMentors - Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8)
+- [Piotr Karczmarz - Hello World from ContextKeeper!](https://contextkeeper.io/blog/hello-world-from-contextkeeper/)
+- [Andrew Lock - Supporting integration tests with WebApplicationFactory in .NET 6](https://andrewlock.net/exploring-dotnet-6-part-6-supporting-integration-tests-with-webapplicationfactory-in-dotnet-6/)
+- [Microsoft - Migrate from ASP.NET Core 5.0 to 6.0](https://docs.microsoft.com/en-us/aspnet/core/migration/50-to-60)
+- [Artyom Sovetnikov - DotNetJS](https://github.com/Elringus/DotNetJS)
 - [.NET Blog - Announcing .NET 6 — The Fastest .NET Yet](https://devblogs.microsoft.com/dotnet/announcing-net-6)
 - [.NET Blog - Announcing YARP 1.0 Release](https://devblogs.microsoft.com/dotnet/announcing-yarp-1-0-release)
 - [Changhui Xu - Schedule Cron Jobs using HostedService in ASP.NET Core](https://codeburst.io/schedule-cron-jobs-using-hostedservice-in-asp-net-core-e17c47ba06)
@@ -1034,6 +1046,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ### Management
+- [Allen Holub - No Estimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
+- [Charles-Axel Dein - A collection of inspiring resources related to engineering management and tech leadership](https://github.com/charlax/engineering-management)
 - [Amy Isikoff Newell - Some Thoughts on Trauma-Informed Management](https://www.amywriteswords.com/p/some-thoughts-on-trauma-informed-management)
 - [Myles Ogilvie - How should I fund agility?](https://soonersaferhappier.com/how-should-i-fund-agility/)
 - [Bill Wake - Whole Stories for Whole Teams](https://www.industriallogic.com/blog/whole-stories-for-whole-teams/)
@@ -1050,6 +1064,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Venkat Subramaniam - A dozen cool things we can do with popular JVM Languages](https://www.youtube.com/watch?v=MEDTyR1Ksyw)
+- [Andrzej Ludwikowski - Reactive Event Sourcing in Java, Part 3: Service](https://softwaremill.com/reactive-event-sourcing-in-java-part-3-service/)
 - [JReleaser - The quick and effortless way to release your Java project](https://jreleaser.org/)
 - [Andrzej Ludwikowski - Reactive Event Sourcing in Java, Part 1: Domain](https://softwaremill.com/reactive-event-sourcing-in-java-part-1-domain/)
 - [Miloš Živković - Why Java Experts Avoid Mocks](https://medium.com/javarevisited/why-java-experts-avoid-mocks-ed71f54ac81c)
@@ -1137,6 +1153,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [DFRLab - Network of Facebook pages amplified Polish right-wing and tabloid media outlets](https://medium.com/dfrlab/network-of-facebook-pages-amplified-polish-right-wing-and-tabloid-media-outlets-ccaa218128ab)
 - [ArchTechnica - As teens left Facebook, company planned to lure 6-year-olds, documents show](https://arstechnica.com/tech-policy/2021/11/facebook-wanted-to-hook-6-year-olds-with-new-apps-documents-show)
 - [CNBC - Microsoft's GitHub CEO Nat Friedman is stepping down, product chief Thomas Dohmke will replace him](https://www.cnbc.com/2021/11/03/microsoft-github-ceo-nat-friedman-replaced-by-thomas-dohmke.html)
 - [Jason Kint - Google and Facebook antitrust lawsuit](https://twitter.com/jason_kint/status/1451579045246820355)
@@ -1221,6 +1238,7 @@
 - [Alex Ellis - Five years of Raspberry Pi Clusters](https://alexellisuk.medium.com/five-years-of-raspberry-pi-clusters-77e56e547875)
 
 ## Low level
+- [Yonatan - Transforming an Arcade Machine into a WFH-friendly Grafana Dashboard](https://blog.yonatan.dev/arcade-machine-grafana-dashboard/)
 - [InfoQ - Rust Hyper HTTP Library Will Contribute to Make Curl Safer](https://www.infoq.com/news/2020/10/memory-safe-curl-rust/)
 - [Cindy Sridharan - Seamless file descriptor transfer between processes with pidfd and pidfd_getfd](https://copyconstruct.medium.com/seamless-file-descriptor-transfer-between-processes-with-pidfd-and-pidfd-getfd-816afcd19ed4)
 
@@ -1232,6 +1250,7 @@
 - [Asahi Linux - A project and community with the goal of porting Linux to Apple Silicon Macs](https://asahilinux.org/about/)
 
 ## Windows
+- [Valentin-Gabriel Radu - ExplorerPatcher - This project aims to bring back a productive working environment on Windows 11](https://github.com/valinet/ExplorerPatcher)
 - [Robert C. Maehl - Why Not Win11 - Detection Script to help identify why your PC isn't Windows 11 ready](https://github.com/rcmaehl/WhyNotWin11)
 - [NTDEV - State of the Windows, part 2: Did Windows 10 slow down with each feature update?](https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/)
 - [Microsoft - What Windows 11 Means for Developers](https://blogs.windows.com/windowsdeveloper/2021/06/24/what-windows-11-means-for-developers/)
@@ -1242,6 +1261,13 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Nicolas P. Rougier - An open access book on scientific visualization using python and matplotlib](https://github.com/rougier/scientific-visualization-book)
+- [Asciiflow - Documentation with Ascii](https://asciiflow.com/#/)
+- [Mermaid - Lets you create diagrams and visualizations using text and code.](https://mermaid-js.github.io/mermaid)
+- [PlantUML - Diagrams as code](https://plantuml.com/)
+- [WebSequenceDiagrams - Create sequence diagrams in seconds](https://www.websequencediagrams.com/)
+- [SequenceDiagram.org - An online tool / software for creating UML sequence diagrams](https://sequencediagram.org/)
+- [js-sequence-diagrams - Turns text into UML sequence diagrams](https://bramp.github.io/js-sequence-diagrams/)
 - [InfoQ - Google Document Translation Now Generally Available](https://www.infoq.com/news/2021/11/google-document-translation)
 - [Plugin draw.io for Notion](https://chrome.google.com/webstore/detail/drawio-for-notion/plhaalebpkihaccllnkdaokdoeaokmle)
 - [Pulumi - GitHub Projects example](https://github.com/orgs/pulumi/projects/44/views/1)
@@ -1265,6 +1291,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Protocol - Facebook and Apple’s privacy war is mucking up voter turnout efforts](https://www.protocol.com/policy/apple-facebook-voter-turnout)
 - [Azure Blog - Business as usual for Azure customers despite 2.4 Tbps DDoS attack](https://azure.microsoft.com/en-us/blog/business-as-usual-for-azure-customers-despite-24-tbps-ddos-attack/)
 - [John Gruber - Company That Routes Billions of Text Messages Quietly Says It Was Hacked](https://daringfireball.net/linked/2021/10/04/syniverse-hack)
 - [Geoffrey Huntley - COVIDSafe: Australia’s digital contact tracing failure](https://ghuntley.com/covidsafe/)
@@ -1329,6 +1356,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Nikhil Agrawal - Awesome Black Friday & Cyber Monday deals - 2021](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals)
 - [Julia Evans - How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/)
 - [Eric Steven Raymond - How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 - [Breck Yunits - Write Thin to Write Fast](https://breckyunits.com/write-thin-to-write-fast.html)
