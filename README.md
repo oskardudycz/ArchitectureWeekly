@@ -4,7 +4,7 @@
 
 Hi! My name is [Oskar Dudycz](https://github.com/oskardudycz). I created this repository to share a weekly set of links that I found valuable and inspiring. I hope that you'll like it! 
 
-👉 Subscribe and get Architecture Weekly to your mailbox each Monday!: https://www.architecture-weekly.com/
+📧👉 Subscribe and get Architecture Weekly to your mailbox each Monday!: https://www.architecture-weekly.com/
 
 See also [Summary](Summary.md) of all links.
 
