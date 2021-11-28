@@ -1,4 +1,4 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/oskar_at_net?style=social)](https://twitter.com/oskar_at_net) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/) [![Github Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/oskardudycz/)](https://github.com/sponsors/oskardudycz/) [![blog](https://img.shields.io/badge/blog-event--driven.io-brightgreen)](https://event-driven.io/?utm_source=architecture_weekly) [![Atom](https://img.shields.io/badge/Feed-Atom-orange)](https://github.com/oskardudycz/ArchitectureWeekly/releases.atom)
+[![Twitter Follow](https://img.shields.io/twitter/follow/oskar_at_net?style=social)](https://twitter.com/oskar_at_net) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly) [![Github Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/oskardudycz/)](https://github.com/sponsors/oskardudycz/) [![blog](https://img.shields.io/badge/blog-event--driven.io-brightgreen)](https://event-driven.io/?utm_source=architecture_weekly) [![Atom](https://img.shields.io/badge/Feed-Atom-orange)](https://github.com/oskardudycz/ArchitectureWeekly/releases.atom)
 
 # Architecture Weekly
 
@@ -24,7 +24,7 @@ There are two rules:
 
 -------
 
-## 22nd Novemeber 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/)
+## 22nd Novemeber 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Trond Hjorteland, Ben Linders - Thriving in the Complexity of Software Development Using Open Sociotechnical Systems Design](https://www.infoq.com/articles/open-sociotechnical-systems-design/)
@@ -82,7 +82,7 @@ There are two rules:
 
 -------
 
-## 15th Novemeber 2021
+## 15th Novemeber 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Vladimir Khorikov - DDD in a nutshell](https://www.youtube.com/watch?v=kPV1SkdSnhE)
@@ -137,7 +137,7 @@ There are two rules:
 
 -------
 
-## 8th Novemeber 2021
+## 8th Novemeber 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [AWS General Reference - Error retries and exponential backoff in AWS](https://docs.aws.amazon.com/general/latest/gr/api-retries.html)
@@ -203,7 +203,7 @@ There are two rules:
 
 -------
 
-## 1st Novemeber 2021
+## 1st Novemeber 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Ardalis - Ultimate New Software Project Decision Checklist](https://github.com/ardalis/new-software-project-checklist)
@@ -247,7 +247,7 @@ There are two rules:
 
 -------
 
-## 25th October 2021
+## 25th October 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Bryan Hunter - Waterpark: Distributed Actors vs the Pandemic](https://www.youtube.com/watch?v=9qUfX3XFi_4)
@@ -299,7 +299,7 @@ There are two rules:
 
 -------
 
-## 18th October 2021
+## 18th October 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Ben Thompson - The Death and Birth of Technological Revolutions](https://stratechery.com/2021/the-death-and-birth-of-technological-revolutions/)
@@ -357,7 +357,7 @@ There are two rules:
 
 -------
 
-## 11th October 2021
+## 11th October 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Jessica Kerr - Capturing the World in Software](https://jessitron.com/2020/01/24/capturing-the-world-in-software/amp/)
@@ -409,7 +409,7 @@ There are two rules:
 
 -------
 
-## 4th October 2021
+## 4th October 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [N. C. Mendonça, C. Box, C. Manolache, L. Ryan - The Monolith Strikes Back: Why Istio Migrated From Microservices to a Monolithic Architecture](https://ieeexplore.ieee.org/document/9520758)
@@ -460,7 +460,7 @@ There are two rules:
 
 -------
 
-## 27th September 2021
+## 27th September 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Bob Nystrom - What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
@@ -519,7 +519,7 @@ There are two rules:
 
 -------
 
-## 20th September 2021
+## 20th September 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Pat Helland - Escaping the Singularity](https://queue.acm.org/detail.cfm?id=3226077)
@@ -565,7 +565,7 @@ There are two rules:
 
 -------
 
-## 13th September 2021
+## 13th September 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Diátaxis Framework - A systematic framework for technical documentation authoring](https://diataxis.fr/)
@@ -601,7 +601,7 @@ There are two rules:
 
 -------
 
-## 6th September 2021
+## 6th September 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Derek Comartin - Message Driven Architecture to DECOUPLE a Monolith](https://www.youtube.com/watch?v=bxGkavGaEiM)
@@ -647,7 +647,7 @@ There are two rules:
 
 -------
 
-## 30th August 2021
+## 30th August 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Container Solutions Blog - 10 Predictions for the Future of Computing or; the Inane Ramblings of our Chief Scientist](https://blog.container-solutions.com/10-predictions-for-the-future-of-computing)
@@ -693,7 +693,7 @@ There are two rules:
 
 -------
 
-## 23rd August 2021
+## 23rd August 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Jimmy Bogard - Domain-Driven Refactoring: Encapsulating Data](https://jimmybogard.com/domain-driven-refactoring-encapsulating-data/)
@@ -744,7 +744,7 @@ There are two rules:
 
 -------
 
-## 16th August 2021
+## 16th August 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Doc Norton - Technical Debt Trap](https://www.youtube.com/watch?v=xEqRtIeD51k)
@@ -800,7 +800,7 @@ There are two rules:
 
 -------
 
-## 9th August 2021
+## 9th August 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [CNCF - Think gRPC, when you are architecting modern microservices!](https://www.cncf.io/blog/2021/07/19/think-grpc-when-you-are-architecting-modern-microservices/)
@@ -848,7 +848,7 @@ There are two rules:
 
 -------
 
-## 2nd August 2021
+## 2nd August 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Mark Seemann - Referential transparency fits in your head](https://blog.ploeh.dk/2021/07/28/referential-transparency-fits-in-your-head/)
@@ -890,7 +890,7 @@ There are two rules:
 
 -------
 
-## 26th July 2021
+## 26th July 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Derek Comartin - Does CAP Theorem apply to Microservices?](https://codeopinion.com/does-cap-theorem-apply-to-microservices)
@@ -928,7 +928,7 @@ There are two rules:
 
 -------
 
-## 19th July 2021
+## 19th July 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Eric Evans - Strategic Design](https://vimeo.com/12674642)
@@ -976,7 +976,7 @@ There are two rules:
 
 -------
 
-## 12th July 2021
+## 12th July 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Martin Kleppmann - Thinking in Events: From Databases to Distributed Collaboration Software](https://www.youtube.com/watch?v=72W_VvFRqc0)
@@ -1019,7 +1019,7 @@ There are two rules:
 
 -------
 
-## 5th July 2021
+## 5th July 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Miguel Garcia - Data Platform as a Service](https://dzone.com/articles/data-platform-as-a-service)
@@ -1064,7 +1064,7 @@ There are two rules:
 
 -------
 
-## 28th June 2021
+## 28th June 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Simon Willison - Notes on streaming large API responses](https://simonwillison.net/2021/Jun/25/streaming-large-api-responses/)
@@ -1113,7 +1113,7 @@ There are two rules:
 
 -------
 
-## 21st June 2021
+## 21st June 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Mathias Verraes - Splitting a Domain Across Multiple Bounded Contexts](https://verraes.net/2021/06/split-domain-across-bounded-contexts/)
@@ -1159,7 +1159,7 @@ There are two rules:
 
 -------
 
-## 14th June 2021
+## 14th June 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Edson Yanaga - Advanced Pipelines for Hypothesis Driven Development: Smart Routers](https://www.youtube.com/watch?v=-7P6NLjAIV4)
@@ -1211,7 +1211,7 @@ There are two rules:
 
 -------
 
-## 7th June 2021
+## 7th June 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Barry O'Reily - How to Implement Hypothesis-Driven Development](https://barryoreilly.com/explore/blog/how-to-implement-hypothesis-driven-development/)
@@ -1259,7 +1259,7 @@ There are two rules:
 
 -------
 
-## 31th May 2021
+## 31th May 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Gojko Adzic - Facilitating Impact Mapping sessions](https://www.youtube.com/watch?v=ZgHkdJ6T8oQ)
@@ -1308,7 +1308,7 @@ There are two rules:
 
 -------
 
-## 24th May 2021
+## 24th May 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Dan Luu - A collection of postmortems](https://github.com/danluu/post-mortems)
@@ -1359,7 +1359,7 @@ There are two rules:
 
 -------
 
-## 17th May 2021
+## 17th May 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Juval Lowy - The Architect](https://www.youtube.com/watch?v=F1K-wMR4R-w)
@@ -1401,7 +1401,7 @@ There are two rules:
 
 -------
 
-## 10th May 2021
+## 10th May 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Einar Høst - Evolving architecture with DDD and hypermedia](https://www.youtube.com/watch?v=Q3hAPZVu3HI)
@@ -1450,7 +1450,7 @@ There are two rules:
 
 -------
 
-## 3rd May 2021
+## 3rd May 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Mark Seemann - Functional architecture - The pits of success](https://www.youtube.com/watch?v=US8QG9I1XW0)
@@ -1500,7 +1500,7 @@ There are two rules:
 
 -------
 
-## 26th April 2021
+## 26th April 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [ThoughtWorks - Amortizing Software Rewrites: An Evolutionary Approach](https://www.thoughtworks.com/insights/blog/amortizing-software-rewrites-evolutionary-approach)
@@ -1547,7 +1547,7 @@ There are two rules:
 
 -------
 
-## 19th April 2021
+## 19th April 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Exploring AWS Serverless Architectures & Patterns](https://faun.pub/exploring-aws-serverless-architectures-4fdbcc2a9959)
@@ -1605,7 +1605,7 @@ There are two rules:
 
 -------
 
-## 12th April 2021
+## 12th April 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Microsoft Identity Architecture Series](https://www.youtube.com/playlist?list=PL3ZTgFEc7LyvWBvMTRArx5k5hz-wcA4VF)
@@ -1647,7 +1647,7 @@ There are two rules:
 
 -------
 
-## 5th April 2021
+## 5th April 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [ThoughtWorks Podcast - Fundamentals Of Software Architecture](https://soundcloud.com/thoughtworks/fundamentals-of-software-architecture?in=thoughtworks/sets/thoughtworks-podcasts)
@@ -1698,7 +1698,7 @@ There are two rules:
 
 -------
 
-## 29th March 2021
+## 29th March 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Michael Nygard - Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
@@ -1754,7 +1754,7 @@ There are two rules:
 - [Vice - Meet the Artist Using Ritual Magic to Trap Self-Driving Cars](https://www.vice.com/amp/en/article/qkmeyd/meet-the-artist-using-ritual-magic-to-trap-self-driving-cars)
 
 -------
-## 22nd March 2021
+## 22nd March 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Erik Dörnenburg - Architecture without Architects](https://vimeo.com/141386145)
@@ -1814,7 +1814,7 @@ There are two rules:
 
 -------
 
-## 15th March 2021
+## 15th March 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Systems Thinking for Developers - Airplanes!](https://systemsthinking.dev/2021/03/03/airplanes/)
@@ -1874,7 +1874,7 @@ There are two rules:
 
 -------
 
-## 8th March 2021
+## 8th March 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Gunnar Morling - Saga Orchestration for Microservices Using the Outbox Pattern](https://www.infoq.com/articles/saga-orchestration-outbox/)
@@ -1928,7 +1928,7 @@ There are two rules:
 
 -------
 
-## 1st March 2021
+## 1st March 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Ruth Malan and Dana Bredemeyer - Less is More with Minimalist Architecture](https://www.bredemeyer.com/pdf_files/MinimalistArchitecture.PDF)
@@ -1988,7 +1988,7 @@ There are two rules:
 
 -------
 
-## 22nd February 2021
+## 22nd February 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Coding Over Cocktails Podcast - The Fundamentals of Software Architecture and Microservices with Mark Richards](https://dzone.com/articles/the-fundamentals-of-software-architecture-and-micr)
@@ -2042,7 +2042,7 @@ There are two rules:
 
 -------
 
-## 15th February 2021
+## 15th February 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Holly Cummins - Cloud Native is about Culture, Not Containers](https://www.infoq.com/presentations/cloud-native-culture/)
@@ -2091,7 +2091,7 @@ There are two rules:
 
 -------
 
-## 8th February 2021
+## 8th February 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Greg Young - Why Event Sourced Systems Fail](https://www.youtube.com/watch?v=FKFu78ZEIi8)
@@ -2146,7 +2146,7 @@ There are two rules:
 
 -------
 
-## 1st February 2021
+## 1st February 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Pat Helland - Don't Get Stuck in the "Con" Game](https://pathelland.substack.com/p/dont-get-stuck-in-the-con-game)
@@ -2196,7 +2196,7 @@ There are two rules:
 
 -------
 
-## 25th January 2021
+## 25th January 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Hugo Rocha - The Perils of Event-Driven: Eventual Consistency](https://medium.com/swlh/handling-eventual-consistency-11324324aec4)
@@ -2273,7 +2273,7 @@ There are two rules:
 
 -------
 
-## 18th January 2021
+## 18th January 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Vladimir Khorikov - Always-Valid Domain Model](https://enterprisecraftsmanship.com/posts/always-valid-domain-model/)
@@ -2317,7 +2317,7 @@ There are two rules:
 
 -------
 
-## 11th January 2021
+## 11th January 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Distributed Systems
 - [Gregor Hohpe - Your Coffee Shop Doesn'tUse Two-Phase Commit](https://www.enterpriseintegrationpatterns.com/docs/IEEE_Software_Design_2PC.pdf)
@@ -2382,7 +2382,7 @@ There are two rules:
 
 -------
 
-## 4th January 2021
+## 4th January 2021 [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [CoRecursive Podcast - Data and Scale with Pat Helland](https://corecursive.com/028-data-and-scale-with-pat-helland/)
@@ -2431,7 +2431,7 @@ There are two rules:
 
 -------
 
-## [28th December 2020](per-week/2020-12-28.md)
+## [28th December 2020](per-week/2020-12-28.md)  [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
 - [Md Kamaruzzaman - Microservice Architecture and its 10 Most Important Design Patterns](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
@@ -2486,7 +2486,7 @@ There are two rules:
 
 -------
 
-## [21st December 2020](per-week/2020-12-21.md)
+## [21st December 2020](per-week/2020-12-21.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Distributed Systems
 - [TechCrunch - AWS introduces new Chaos Engineering as a Service offering](https://techcrunch.com/2020/12/15/aws-introduces-new-chaos-engineering-as-a-service-offering)
@@ -2532,7 +2532,7 @@ There are two rules:
 
 -------
 
-## [14th December 2020](per-week/2020-12-14.md)
+## [14th December 2020](per-week/2020-12-14.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Distributed Systems
 - [Miia Niemelä - Lessons learned from combining SQS and Lambda in a data project](https://data.solita.fi/lessons-learned-from-combining-sqs-and-lambda-in-a-data-project/)
