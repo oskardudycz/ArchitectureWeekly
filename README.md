@@ -1,8 +1,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/oskar_at_net?style=social)](https://twitter.com/oskar_at_net) [![Github Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/oskardudycz/)](https://github.com/sponsors/oskardudycz/) [![blog](https://img.shields.io/badge/blog-event--driven.io-brightgreen)](https://event-driven.io/?utm_source=architecture_weekly) [![Atom](https://img.shields.io/badge/Feed-Atom-orange)](https://github.com/oskardudycz/ArchitectureWeekly/releases.atom)
 
-# Architecture Weekly
+# Architecture Weekly [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/)
 
 Hi! My name is [Oskar Dudycz](https://github.com/oskardudycz). I created this repository to share a weekly set of links that I found valuable and inspiring. I hope that you'll like it! 
+
+👉 Subscribe and get Architecture Weekly to your mailbox each Monday!: https://www.architecture-weekly.com/
 
 See also [Summary](Summary.md) of all links.
 
