@@ -48,6 +48,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Evan Bottcher - The strong and weak forces of architecture](https://martinfowler.com/articles/strong-weak-arch.html)
+- [Mauro Servienti - On working with a ViewModel Composition based system](https://milestone.topics.it/view-model-composition/2021/11/23/on-working-with-viewmodel-composition-based-system.html)
+- [Matthew Clark - BBC Online: Architecting for Scale with the Cloud and Serverless](https://www.youtube.com/watch?v=WE-tkz2tf30)
+- [JetBrains - The State of Developer Ecosystem 2021](https://www.jetbrains.com/lp/devecosystem-2021/)
+- [Richard Lennox - Balancing Autonomy and Alignment with Accountability](https://medium.com/@richardlennox/balancing-autonomy-and-alignment-with-accountability-3a0dabe98a95)
 - [Trond Hjorteland, Ben Linders - Thriving in the Complexity of Software Development Using Open Sociotechnical Systems Design](https://www.infoq.com/articles/open-sociotechnical-systems-design/)
 - [Blaine Osepchuk - Why I can't recommend Clean Architecture by Robert C Martin](https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd)
 - [Subbu Allamaraju - Broken State of Data](https://m.subbu.org/broken-state-of-data-4c8a8a30a0c3)
@@ -284,6 +289,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Google Cloud Blog - A handy new Google Cloud, AWS, and Azure product map](https://cloud.google.com/blog/topics/developers-practitioners/handy-new-google-cloud-aws-and-azure-product-map)
+- [Victor Künstler - Optimizing Kafka Streams Apps on Kubernetes by Splitting Topologies](https://medium.com/bakdata/optimizing-kafka-streams-apps-on-kubernetes-by-splitting-topologies-ac6b4c90516e)
 - [Pulsar - Transactions](https://pulsar.apache.org/docs/en/txn-why/)
 - [Bartosz Konieczny - Apache Kafka and max.in.flight.requests.per.connection](https://www.waitingforcode.com/apache-kafka/apache-kafka-max-in-flight-requests-per-connection/read)
 - [Akshatha Laxmi - Make an E-Commerce Application With Akka Serverless](https://www.antstack.io/blog/make-an-e-commerce-application-with-akka-serverless/)
@@ -414,6 +421,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [GitHub - Secure deployments with OpenID Connect & GitHub Actions now generally available](https://github.blog/2021-11-23-secure-deployments-openid-connect-github-actions-generally-available/)
 - [Jakub Stransky - 4 devs by devs: Kubernetes interview question made easy](https://jakubstransky.com/2021/11/05/4-devs-kubernetes-interview-question-made-easy/)
 - [Github Universe Videos](https://www.githubuniverse.com/2021/)
 - [Google Cloud Blog - 2021 Accelerate State of DevOps report addresses burnout, team performance](https://cloud.google.com/blog/products/devops-sre/announcing-dora-2021-accelerate-state-of-devops-report)
@@ -505,6 +513,7 @@
 - [Gergerly Orosz - 33 Engineering Challenges of Building Mobile Apps at Scale eBook & Other Learnings](https://gumroad.com/l/IuuuN)
 
 ## Performance
+- [Daniel Lemire - For software performance, can you always trust inlining?](https://lemire.me/blog/2021/10/09/for-software-performance-can-you-always-trust-inlining/)
 - [PVS-Studio: C++ is faster and safer than Rust: benchmarked by Yandex](https://pvs-studio.com/en/blog/posts/0733/)
 - [Jeremy Wagner - Assessing loading performance in the field with Navigation Timing and Resource Timing](https://web.dev/navigation-and-resource-timing/)
 - [Ben Schwarz - How to Plan and Deliver on Site Speed as a Team](https://calibreapp.com/blog/site-speed-improvement-framework)
@@ -547,6 +556,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [O. Marcu, A. Costan, B. Nicolae, G. Antoniu - Virtual Log-Structured Storage for High-Performance Streaming](https://hal.inria.fr/hal-03300796/file/virtual_log_KerA30072021.pdf)
+- [Alex Vondrak - How Time Series Databases Work—and Where They Don't](https://www.honeycomb.io/blog/time-series-database/)
 - [AWS Blog - Goodbye Microsoft SQL Server, Hello Babelfish](https://aws.amazon.com/blogs/aws/goodbye-microsoft-sql-server-hello-babelfish/)
 - [Neo4j - Announcing Neo4j AuraDB Free](https://neo4j.com/developer-blog/announcing-neo4j-auradb-free)
 - [Nikolay Samokhvalov - How partial, covering, and multicolumn indexes may slow down UPDATEs in PostgreSQL](https://postgres.ai/blog/20211029-how-partial-and-covering-indexes-affect-update-performance-in-postgresql)
@@ -661,6 +672,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Konrad Kokosa - Configuring dotnet-monitor with Prometheus and Grafana](https://dotnetos.org/blog/2021-11-22-dotnet-monitor-grafana/)
+- [Robert Krzaczyński - Anomaly Detection Using ML.NET](https://www.infoq.com/articles/anomaly-detection-ml-net)
+- [.NET Blog - Azure Active Directory’s gateway is on .NET 6.0!](https://devblogs.microsoft.com/dotnet/azure-active-directorys-gateway-is-on-net-6-0/)
+- [Alex Yakunin - .NET 6 vs .NET 5: up to 40% speedup!](https://alexyakunin.medium.com/net-6-vs-net-5-up-to-40-speedup-ceca9112d298)
+- [.NET Blog - Infer# v1.2: Interprocedural Memory Safety Analysis For C#](https://devblogs.microsoft.com/dotnet/infer-v1-2-interprocedural-memory-safety-analysis-for-c/)
 - [DevMentors - Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8)
 - [Piotr Karczmarz - Hello World from ContextKeeper!](https://contextkeeper.io/blog/hello-world-from-contextkeeper/)
 - [Andrew Lock - Supporting integration tests with WebApplicationFactory in .NET 6](https://andrewlock.net/exploring-dotnet-6-part-6-supporting-integration-tests-with-webapplicationfactory-in-dotnet-6/)
@@ -1081,6 +1097,7 @@
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
 ## JavaScript
+- [Ramda - A practical functional library for JavaScript programmers.](https://ramdajs.com/)
 - [Worker Environments - The new standard for writing HTTP servers in JavaScript](https://workers.js.org/)
 - [The New Stack - ECMAScript 2021: What's Next for JavaScript?](https://thenewstack.io/ecmascript-2021-whats-next-for-javascript-webassembly/)
 - [Jonas Kello - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript](https://github.com/jonaskello/eslint-plugin-functional)
@@ -1097,6 +1114,8 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## NodeJS
+- [Keeth Kuwahara - npm-stats-api: Node Package's Statistics API](https://github.com/kkeeth/npm-stats-api)
+- [Steven Vachon - broken-link-checker: Find broken links, missing images, etc within your HTML](https://github.com/stevenvachon/broken-link-checker)
 - [Express - Health Checks and Graceful Shutdown](https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html)
 - [Jose Arroyo Rodriguez - Implementing NodeJS HTTP Graceful Shutdown](https://blog.dashlane.com/implementing-nodejs-http-graceful-shutdown/)
 - [reSolve - Full stack CQRS, DDD, Event Sourcing framework for Node.js](https://reimagined.github.io/resolve/)
@@ -1119,6 +1138,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Erik Engheim - Go Does Not Need a Java Style GC](https://itnext.io/go-does-not-need-a-java-style-gc-ac99b8d26c60)
 - [Amos Wenger - I want off Mr. Golang's Wild Ride](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride)
 - [Aurélie Vache - Learning Go by examples: part 5 - Create a Game Boy Advance (GBA) game in Go](https://dev.to/aurelievache/learning-go-by-examples-part-5-create-a-game-boy-advance-gba-game-in-go-5944)
 - [GitHub - Three bugs in the Go MySQL Driver](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/)
@@ -1153,6 +1173,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [NextCloud - EU tech sector fights for a Level Playing Field with Microsoft](https://antitrust.nextcloud.com/)
 - [DFRLab - Network of Facebook pages amplified Polish right-wing and tabloid media outlets](https://medium.com/dfrlab/network-of-facebook-pages-amplified-polish-right-wing-and-tabloid-media-outlets-ccaa218128ab)
 - [ArchTechnica - As teens left Facebook, company planned to lure 6-year-olds, documents show](https://arstechnica.com/tech-policy/2021/11/facebook-wanted-to-hook-6-year-olds-with-new-apps-documents-show)
 - [CNBC - Microsoft's GitHub CEO Nat Friedman is stepping down, product chief Thomas Dohmke will replace him](https://www.cnbc.com/2021/11/03/microsoft-github-ceo-nat-friedman-replaced-by-thomas-dohmke.html)
@@ -1261,6 +1282,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [JetBrains - Welcome to Fleet!](https://blog.jetbrains.com/blog/2021/11/29/welcome-to-fleet/)
 - [Nicolas P. Rougier - An open access book on scientific visualization using python and matplotlib](https://github.com/rougier/scientific-visualization-book)
 - [Asciiflow - Documentation with Ascii](https://asciiflow.com/#/)
 - [Mermaid - Lets you create diagrams and visualizations using text and code.](https://mermaid-js.github.io/mermaid)
@@ -1291,6 +1313,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [LuemmelSec - Go away BitLocker, you´re drunk](https://luemmelsec.github.io/Go-away-BitLocker-you-are-drunk/)
 - [Protocol - Facebook and Apple’s privacy war is mucking up voter turnout efforts](https://www.protocol.com/policy/apple-facebook-voter-turnout)
 - [Azure Blog - Business as usual for Azure customers despite 2.4 Tbps DDoS attack](https://azure.microsoft.com/en-us/blog/business-as-usual-for-azure-customers-despite-24-tbps-ddos-attack/)
 - [John Gruber - Company That Routes Billions of Text Messages Quietly Says It Was Hacked](https://daringfireball.net/linked/2021/10/04/syniverse-hack)
@@ -1356,6 +1379,9 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Dan Luu - Individuals matter](https://danluu.com/people-matter/)
+- [Stephen Diehl - The Handwavy Technobabble Nothingburger](https://www.stephendiehl.com/blog/nothing-burger.html)
+- [Julia Galef - Why you think you're right - even if you're wrong](https://www.ted.com/talks/julia_galef_why_you_think_you_re_right_even_if_you_re_wrong)
 - [Nikhil Agrawal - Awesome Black Friday & Cyber Monday deals - 2021](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals)
 - [Julia Evans - How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/)
 - [Eric Steven Raymond - How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
