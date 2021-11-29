@@ -1,3 +1,55 @@
 # Upcoming Links
 
 ## 29th Novemeber 2021
+
+### Architecture
+- [Evan Bottcher - The strong and weak forces of architecture](https://martinfowler.com/articles/strong-weak-arch.html)
+- [Mauro Servienti - On working with a ViewModel Composition based system](https://milestone.topics.it/view-model-composition/2021/11/23/on-working-with-viewmodel-composition-based-system.html)
+- [Matthew Clark - BBC Online: Architecting for Scale with the Cloud and Serverless](https://www.youtube.com/watch?v=WE-tkz2tf30)
+- [JetBrains - The State of Developer Ecosystem 2021](https://www.jetbrains.com/lp/devecosystem-2021/)
+- [Richard Lennox - Balancing Autonomy and Alignment with Accountability](https://medium.com/@richardlennox/balancing-autonomy-and-alignment-with-accountability-3a0dabe98a95)
+
+### Distributed Systems
+- [Google Cloud Blog - A handy new Google Cloud, AWS, and Azure product map](https://cloud.google.com/blog/topics/developers-practitioners/handy-new-google-cloud-aws-and-azure-product-map)
+- [Victor Künstler - Optimizing Kafka Streams Apps on Kubernetes by Splitting Topologies](https://medium.com/bakdata/optimizing-kafka-streams-apps-on-kubernetes-by-splitting-topologies-ac6b4c90516e)
+
+### Databases
+- [O. Marcu, A. Costan, B. Nicolae, G. Antoniu - Virtual Log-Structured Storage for High-Performance Streaming](https://hal.inria.fr/hal-03300796/file/virtual_log_KerA30072021.pdf)
+- [Alex Vondrak - How Time Series Databases Work—and Where They Don't](https://www.honeycomb.io/blog/time-series-database/)
+
+### DevOps
+- [GitHub - Secure deployments with OpenID Connect & GitHub Actions now generally available](https://github.blog/2021-11-23-secure-deployments-openid-connect-github-actions-generally-available/)
+
+### Go
+- [Erik Engheim - Go Does Not Need a Java Style GC](https://itnext.io/go-does-not-need-a-java-style-gc-ac99b8d26c60)
+
+### JavaScript
+- [Ramda - A practical functional library for JavaScript programmers.](https://ramdajs.com/)
+
+### NodeJS
+- [Keeth Kuwahara - npm-stats-api: Node Package's Statistics API](https://github.com/kkeeth/npm-stats-api)
+- [Steven Vachon - broken-link-checker: Find broken links, missing images, etc within your HTML](https://github.com/stevenvachon/broken-link-checker)
+
+### .NET
+- [Konrad Kokosa - Configuring dotnet-monitor with Prometheus and Grafana](https://dotnetos.org/blog/2021-11-22-dotnet-monitor-grafana/)
+- [Robert Krzaczyński - Anomaly Detection Using ML.NET](https://www.infoq.com/articles/anomaly-detection-ml-net)
+- [.NET Blog - Azure Active Directory’s gateway is on .NET 6.0!](https://devblogs.microsoft.com/dotnet/azure-active-directorys-gateway-is-on-net-6-0/)
+- [Alex Yakunin - .NET 6 vs .NET 5: up to 40% speedup!](https://alexyakunin.medium.com/net-6-vs-net-5-up-to-40-speedup-ceca9112d298)
+- [.NET Blog - Infer# v1.2: Interprocedural Memory Safety Analysis For C#](https://devblogs.microsoft.com/dotnet/infer-v1-2-interprocedural-memory-safety-analysis-for-c/)
+
+### Performance
+- [Daniel Lemire - For software performance, can you always trust inlining?](https://lemire.me/blog/2021/10/09/for-software-performance-can-you-always-trust-inlining/)
+
+### Tools
+- [JetBrains - Welcome to Fleet!](https://blog.jetbrains.com/blog/2021/11/29/welcome-to-fleet/)
+
+### Security
+- [LuemmelSec - Go away BitLocker, you´re drunk](https://luemmelsec.github.io/Go-away-BitLocker-you-are-drunk/)
+
+### Industry
+- [NextCloud - EU tech sector fights for a Level Playing Field with Microsoft](https://antitrust.nextcloud.com/)
+
+### Trivia
+- [Dan Luu - Individuals matter](https://danluu.com/people-matter/)
+- [Stephen Diehl - The Handwavy Technobabble Nothingburger](https://www.stephendiehl.com/blog/nothing-burger.html)
+- [Julia Galef - Why you think you're right - even if you're wrong](https://www.ted.com/talks/julia_galef_why_you_think_you_re_right_even_if_you_re_wrong)
