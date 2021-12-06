@@ -12,6 +12,7 @@
   - [API](#api)
   - [Databases](#databases)
   - [AI](#ai)
+  - [AWS](#aws)
   - [Azure](#azure)
   - [Functional Programming](#functional-programming)
   - [.NET](#net)
@@ -48,6 +49,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Lee Gilmore - Serverless Event-Driven Systems](https://leejamesgilmore.medium.com/serverless-event-driven-systems-9617c6406064)
+- [Andrew Harmel-Law - Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
+- [Zsofia Herendi, Stefan Hofer - An Introduction to Domain Storytelling](https://www.youtube.com/watch?v=d9k9Szkdprk)
+- [Greg Young - Versioning in an Event Sourced System](https://leanpub.com/esversioning/read)
+- [DDD By Example - Library - A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.](https://github.com/ddd-by-examples/library)
 - [Evan Bottcher - The strong and weak forces of architecture](https://martinfowler.com/articles/strong-weak-arch.html)
 - [Mauro Servienti - On working with a ViewModel Composition based system](https://milestone.topics.it/view-model-composition/2021/11/23/on-working-with-viewmodel-composition-based-system.html)
 - [Matthew Clark - BBC Online: Architecting for Scale with the Cloud and Serverless](https://www.youtube.com/watch?v=WE-tkz2tf30)
@@ -289,6 +295,9 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [cloudevents - A specification for describing event data in a common way](https://cloudevents.io/)
+- [Kai Waehner - Kappa Architecture is Mainstream Replacing Lambda](https://kai-waehner.medium.com/kappa-architecture-is-mainstream-replacing-lambda-8b3abc93d718)
+- [HoneyComb.io - Scaling Kafka at Honeycomb](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines/)
 - [Google Cloud Blog - A handy new Google Cloud, AWS, and Azure product map](https://cloud.google.com/blog/topics/developers-practitioners/handy-new-google-cloud-aws-and-azure-product-map)
 - [Victor Künstler - Optimizing Kafka Streams Apps on Kubernetes by Splitting Topologies](https://medium.com/bakdata/optimizing-kafka-streams-apps-on-kubernetes-by-splitting-topologies-ac6b4c90516e)
 - [Pulsar - Transactions](https://pulsar.apache.org/docs/en/txn-why/)
@@ -421,6 +430,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [DevOps - How Comet can streamline machine learning on The GitLab DevOps Platform ](https://about.gitlab.com/blog/2021/11/08/machine-learning-on-the-gitlab-devops-platform)
+- [CLA Assistant - Handling CLAs and DCOs via GitHub Action](https://github.com/cla-assistant/github-action)
 - [GitHub - Secure deployments with OpenID Connect & GitHub Actions now generally available](https://github.blog/2021-11-23-secure-deployments-openid-connect-github-actions-generally-available/)
 - [Jakub Stransky - 4 devs by devs: Kubernetes interview question made easy](https://jakubstransky.com/2021/11/05/4-devs-kubernetes-interview-question-made-easy/)
 - [Github Universe Videos](https://www.githubuniverse.com/2021/)
@@ -520,6 +531,8 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Richard Holmes - Writing BDD Test Scenarios](https://www.departmentofproduct.com/blog/writing-bdd-test-scenarios/)
+- [Erwin van der Valk - Stop making a Mock<things>](https://erwin.vandervalk.pro/stop-mocking/)
 - [Nishant Sharma - Screenplay Pattern](https://medium.com/testvagrant/screenplay-pattern-3490c7f0c23c)
 - [Carissa Blossom - User Simulation for Rapid Outage Mitigation](https://www.infoq.com/presentations/uber-monitoring-services/)
 - [Jeremy D. Miller - A brain dump on automated integration testing](https://jeremydmiller.com/2021/08/31/a-brain-dump-on-automated-integration-testing/)
@@ -556,6 +569,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Hironobu SUZUKI  - The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
 - [O. Marcu, A. Costan, B. Nicolae, G. Antoniu - Virtual Log-Structured Storage for High-Performance Streaming](https://hal.inria.fr/hal-03300796/file/virtual_log_KerA30072021.pdf)
 - [Alex Vondrak - How Time Series Databases Work—and Where They Don't](https://www.honeycomb.io/blog/time-series-database/)
 - [AWS Blog - Goodbye Microsoft SQL Server, Hello Babelfish](https://aws.amazon.com/blogs/aws/goodbye-microsoft-sql-server-hello-babelfish/)
@@ -652,7 +666,11 @@
 - [Facebook AI - Deep learning to translate between programming languages](https://ai.facebook.com/blog/deep-learning-to-translate-between-programming-languages/)
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
+## AWS
+- [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
+
 ## Azure
+- [Azure Data Blog - Azure Database for PostgreSQL – Flexible Server is now GA!](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/azure-database-for-postgresql-flexible-server-is-now-ga/ba-p/2987030)
 - [Microsoft - Microsoft 365 Developer Program launches new instant sandbox with Teams sample data pack](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-developer-program-launches-new-instant-sandbox-with-teams-sample-data-pack/)
 - [Carol Smith - Announcing: Azure credits for open source projects](https://cloudblogs.microsoft.com/opensource/2021/09/28/announcing-azure-credits-for-open-source-projects)
 - [Marius Sandbu - Deep dive Azure Monitor and Log Analytics](https://msandbu.org/deep-dive-azure-monitor-and-log-analytics/)
@@ -672,6 +690,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [DevMentors - Mini Course #2 Modular Monolith](https://www.youtube.com/watch?v=MkdutzVB3pY)
+- [Alex McAuliffe - Playing with my record collection](https://www.romanx.co.uk/posts/playing-with-my-record-collection)
+- [Amin Khansari - Bank Account kata and Functional Event Sourcing](https://github.com/akhansari/EsBankAccount)
+- [Jeremy D. Miller - Build Automation on a Database Backed .Net System](https://jeremydmiller.com/2021/12/06/build-automation-on-a-database-backed-net-system/)
 - [Konrad Kokosa - Configuring dotnet-monitor with Prometheus and Grafana](https://dotnetos.org/blog/2021-11-22-dotnet-monitor-grafana/)
 - [Robert Krzaczyński - Anomaly Detection Using ML.NET](https://www.infoq.com/articles/anomaly-detection-ml-net)
 - [.NET Blog - Azure Active Directory’s gateway is on .NET 6.0!](https://devblogs.microsoft.com/dotnet/azure-active-directorys-gateway-is-on-net-6-0/)
@@ -945,6 +967,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Ben Award - Coding Interview with Dan Abramov](https://www.youtube.com/watch?v=XEt09iK8IXs)
+- [Joel Spolsky - Fire And Motion](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/)
 - [Maggie Appleton - A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 - [Michał Bartyzel - Conversation Patterns for Software Professionals](https://www.infoq.com/articles/conversation-patterns-1/)
 - [Lauren Ten - Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
@@ -1097,6 +1121,7 @@
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
 ## JavaScript
+- [Codemix - babel-plugin-typecheck  - Static and runtime type checking for JavaScript in the form of a Babel plugin.](https://github.com/codemix/babel-plugin-typecheck)
 - [Ramda - A practical functional library for JavaScript programmers.](https://ramdajs.com/)
 - [Worker Environments - The new standard for writing HTTP servers in JavaScript](https://workers.js.org/)
 - [The New Stack - ECMAScript 2021: What's Next for JavaScript?](https://thenewstack.io/ecmascript-2021-whats-next-for-javascript-webassembly/)
@@ -1138,6 +1163,8 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [astaxie - Build Web Application With Golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
+- [Gerasimos Maropoulos - Iris - The fastest HTTP/2 Go Web Framework](https://github.com/kataras/iris)
 - [Erik Engheim - Go Does Not Need a Java Style GC](https://itnext.io/go-does-not-need-a-java-style-gc-ac99b8d26c60)
 - [Amos Wenger - I want off Mr. Golang's Wild Ride](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride)
 - [Aurélie Vache - Learning Go by examples: part 5 - Create a Game Boy Advance (GBA) game in Go](https://dev.to/aurelievache/learning-go-by-examples-part-5-create-a-game-boy-advance-gba-game-in-go-5944)
@@ -1173,6 +1200,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Nature - Mapping the NFT revolution: market trends, trade networks, and visual features](https://www.nature.com/articles/s41598-021-00053-8#MOESM1)
 - [NextCloud - EU tech sector fights for a Level Playing Field with Microsoft](https://antitrust.nextcloud.com/)
 - [DFRLab - Network of Facebook pages amplified Polish right-wing and tabloid media outlets](https://medium.com/dfrlab/network-of-facebook-pages-amplified-polish-right-wing-and-tabloid-media-outlets-ccaa218128ab)
 - [ArchTechnica - As teens left Facebook, company planned to lure 6-year-olds, documents show](https://arstechnica.com/tech-policy/2021/11/facebook-wanted-to-hook-6-year-olds-with-new-apps-documents-show)
@@ -1379,6 +1407,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [PornHub - The Pornhub Tech Review](https://www.pornhub.com/insights/tech-review)
 - [Dan Luu - Individuals matter](https://danluu.com/people-matter/)
 - [Stephen Diehl - The Handwavy Technobabble Nothingburger](https://www.stephendiehl.com/blog/nothing-burger.html)
 - [Julia Galef - Why you think you're right - even if you're wrong](https://www.ted.com/talks/julia_galef_why_you_think_you_re_right_even_if_you_re_wrong)
