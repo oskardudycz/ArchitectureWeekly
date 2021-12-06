@@ -1,3 +1,55 @@
 # Upcoming Links
 
 ## 6th December 2021
+
+### Architecture
+- [Lee Gilmore - Serverless Event-Driven Systems](https://leejamesgilmore.medium.com/serverless-event-driven-systems-9617c6406064)
+- [Andrew Harmel-Law - Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
+- [Zsofia Herendi, Stefan Hofer - An Introduction to Domain Storytelling](https://www.youtube.com/watch?v=d9k9Szkdprk)
+- [Greg Young - Versioning in an Event Sourced System](https://leanpub.com/esversioning/read)
+- [DDD By Example - Library - A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.]()
+
+### Distributed Systems
+- [cloudevents - A specification for describing event data in a common way](https://cloudevents.io/)
+- [Kai Waehner - Kappa Architecture is Mainstream Replacing Lambda](https://kai-waehner.medium.com/kappa-architecture-is-mainstream-replacing-lambda-8b3abc93d718)
+- [HoneyComb.io - Scaling Kafka at Honeycomb](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines/)
+
+### Databases
+- [Hironobu SUZUKI  - The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
+
+### DevOps
+- [DevOps - How Comet can streamline machine learning on The GitLab DevOps Platform ](https://about.gitlab.com/blog/2021/11/08/machine-learning-on-the-gitlab-devops-platform)
+- [CLA Assistant - Handling CLAs and DCOs via GitHub Action](https://github.com/cla-assistant/github-action)
+
+### Testing
+- [Richard Holmes - Writing BDD Test Scenarios](https://www.departmentofproduct.com/blog/writing-bdd-test-scenarios/)
+- [Erwin van der Valk - Stop making a Mock<things>](https://erwin.vandervalk.pro/stop-mocking/)
+
+### AWS
+- [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
+
+### Azure
+- [Azure Data Blog - Azure Database for PostgreSQL – Flexible Server is now GA!](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/azure-database-for-postgresql-flexible-server-is-now-ga/ba-p/2987030)
+
+### Go
+- [astaxie - Build Web Application With Golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
+- [Gerasimos Maropoulos - Iris - The fastest HTTP/2 Go Web Framework](Gerasimos (Makis) Maropoulos)
+
+### JavaScript
+- [Codemix - babel-plugin-typecheck  - Static and runtime type checking for JavaScript in the form of a Babel plugin.](https://github.com/codemix/babel-plugin-typecheck)
+
+### .NET
+- [DevMentors - Mini Course #2 Modular Monolith](https://www.youtube.com/watch?v=MkdutzVB3pY)
+- [Alex McAuliffe - Playing with my record collection](https://www.romanx.co.uk/posts/playing-with-my-record-collection)
+- [Amin Khansari - Bank Account kata and Functional Event Sourcing](https://github.com/akhansari/EsBankAccount)
+- [Jeremy D. Miller - Build Automation on a Database Backed .Net System](https://jeremydmiller.com/2021/12/06/build-automation-on-a-database-backed-net-system/)
+
+### Coding Life
+- [Ben Award - Coding Interview with Dan Abramov](https://www.youtube.com/watch?v=XEt09iK8IXs)
+- [Joel Spolsky - Fire And Motion](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/)
+
+### Industry
+- [Nature - Mapping the NFT revolution: market trends, trade networks, and visual features](https://www.nature.com/articles/s41598-021-00053-8#MOESM1)
+
+### Trivia
+- [PornHub - The Pornhub Tech Review](https://www.pornhub.com/insights/tech-review)
