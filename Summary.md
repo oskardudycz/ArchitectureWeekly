@@ -49,6 +49,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Mathias Verraes - Form, Command, and Model Validation](https://verraes.net/2015/02/form-command-model-validation/)
+- [Weronika Łabaj - What Starbucks can teach us about software scalability](https://particular.net/blog/what-starbucks-can-teach-us-about-software-scalability)
+- [Scott Carey - Complexity is killing software developers](https://www.infoworld.com/article/3639050/complexity-is-killing-software-developers.html)
+- [Lee Atchison - A cure for complexity in software development](https://www.infoworld.com/article/3642835/a-cure-for-complexity-in-software-development.html)
+- [Ruth Malan - A Trace in Sand](https://www.ruthmalan.com/Journal/journalcurrent.htm)
 - [Lee Gilmore - Serverless Event-Driven Systems](https://leejamesgilmore.medium.com/serverless-event-driven-systems-9617c6406064)
 - [Andrew Harmel-Law - Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
 - [Zsofia Herendi, Stefan Hofer - An Introduction to Domain Storytelling](https://www.youtube.com/watch?v=d9k9Szkdprk)
@@ -295,6 +300,11 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [DCD - AWS us-east-1 outage brings down services around the world](https://www.datacenterdynamics.com/en/news/aws-us-east-1-outage-brings-down-services-around-the-world/)
+- [Apache Kafka Blog - Apache Kafka Supports 200K Partitions Per Cluster](https://blogs.apache.org/kafka/entry/apache-kafka-supports-more-partitions)
+- [KEDA - Kubernetes Event-driven Autoscaling](https://keda.sh/)
+- [Google Cloud - Shopify engineers deliver on peak performance during Black Friday Cyber Monday 2021](https://cloud.google.com/blog/topics/retail/shopify-and-google-cloud-team-up-for-an-epic-bfcm-weekend)
+- [Upstash - Upstash Launches Serverless Kafka](https://blog.upstash.com/serverless-kafka-launch)
 - [cloudevents - A specification for describing event data in a common way](https://cloudevents.io/)
 - [Kai Waehner - Kappa Architecture is Mainstream Replacing Lambda](https://kai-waehner.medium.com/kappa-architecture-is-mainstream-replacing-lambda-8b3abc93d718)
 - [HoneyComb.io - Scaling Kafka at Honeycomb](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines/)
@@ -518,6 +528,7 @@
 - [David Ramel - TypeScript Surges in GitHub Octoverse 2020 Report](https://visualstudiomagazine.com/articles/2020/12/03/octoverse-2020.aspx)
 
 ## Edge Computing
+- [Discourse - Discourse on a Raspberry Pi](https://blog.discourse.org/2021/12/2021-12-07-discourse-on-a-raspberry-pi/)
 - [Chris Coyier - How to Use Cloudflare Workers and KV Storage](https://www.youtube.com/watch?v=NGk2HxV0Xkg)
 
 ## Mobile
@@ -670,6 +681,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Azure Blog - Introducing Azure Load Testing: Optimize app performance at scale](https://azure.microsoft.com/en-us/blog/introducing-azure-load-testing-optimize-app-performance-at-scale/)
 - [Azure Data Blog - Azure Database for PostgreSQL – Flexible Server is now GA!](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/azure-database-for-postgresql-flexible-server-is-now-ga/ba-p/2987030)
 - [Microsoft - Microsoft 365 Developer Program launches new instant sandbox with Teams sample data pack](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-developer-program-launches-new-instant-sandbox-with-teams-sample-data-pack/)
 - [Carol Smith - Announcing: Azure credits for open source projects](https://cloudblogs.microsoft.com/opensource/2021/09/28/announcing-azure-credits-for-open-source-projects)
@@ -690,6 +702,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Clifford Agius - Connect an ESP32 To Azure IoT Hub with NanoFramework using DotNet and C#](https://www.cliffordagius.co.uk/post/connectesp32toiothub/)
+- [Jeffrey T. Fritz - Completed samples from my session with Scott Hunter discussing the Minimal Approach to .NET 6](https://github.com/csharpfritz/MinimalDotNet6)
+- [.NET Blog - What’s new for gRPC in .NET 6](https://devblogs.microsoft.com/dotnet/grpc-in-dotnet-6/)
+- [Microsoft - Fast Blazor - A lightweight wrapper around Microsoft's official FluentUI Web Components for use with .NET 6.0 Razor views.](https://www.fast.design/)
+- [Damien Guard - Migrating from OpenTracing.NET to OpenTelemetry.NET](https://damieng.com/blog/2021/11/29/migrating-from-opentracing-to-opentelemetry/)
 - [DevMentors - Mini Course #2 Modular Monolith](https://www.youtube.com/watch?v=MkdutzVB3pY)
 - [Alex McAuliffe - Playing with my record collection](https://www.romanx.co.uk/posts/playing-with-my-record-collection)
 - [Amin Khansari - Bank Account kata and Functional Event Sourcing](https://github.com/akhansari/EsBankAccount)
@@ -967,6 +984,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Gergely Orosz - Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
+- [Scott Carey - The 18 highest paying developer roles in 2021](https://www.infoworld.com/article/3638775/the-18-highest-paying-developer-roles-in-2021.html)
 - [Ben Award - Coding Interview with Dan Abramov](https://www.youtube.com/watch?v=XEt09iK8IXs)
 - [Joel Spolsky - Fire And Motion](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/)
 - [Maggie Appleton - A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
@@ -1086,6 +1105,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ### Management
+- [Dorian Taylor - Agile as Trauma](https://doriantaylor.com/agile-as-trauma)
 - [Allen Holub - No Estimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
 - [Charles-Axel Dein - A collection of inspiring resources related to engineering management and tech leadership](https://github.com/charlax/engineering-management)
 - [Amy Isikoff Newell - Some Thoughts on Trauma-Informed Management](https://www.amywriteswords.com/p/some-thoughts-on-trauma-informed-management)
@@ -1104,6 +1124,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Log4Shell: RCE 0-day exploit found in log4j2, a popular Java logging package](https://www.lunasec.io/docs/blog/log4j-zero-day/)
+- [YfryTchsGD - Log4j Attack Surface](https://github.com/YfryTchsGD/Log4jAttackSurface)
 - [Venkat Subramaniam - A dozen cool things we can do with popular JVM Languages](https://www.youtube.com/watch?v=MEDTyR1Ksyw)
 - [Andrzej Ludwikowski - Reactive Event Sourcing in Java, Part 3: Service](https://softwaremill.com/reactive-event-sourcing-in-java-part-3-service/)
 - [JReleaser - The quick and effortless way to release your Java project](https://jreleaser.org/)
@@ -1129,6 +1151,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Marcin Dziewulski - ts_belt - Fast, modern, and practical utility library for FP in TypeScript](https://mobily.github.io/ts-belt/docs/)
 - [Captain Yossarian - Safer TypeScript](https://catchts.com/safer-types)
 - [Arnaud Leymet - 7 TypeScript Tricks with Enum (and Fruits)](https://dev.to/prod/mastering-enums-in-typescript-1c1j)
 - [Luis Aviles - How to Implement an Event Bus in TypeScript](https://www.thisdot.co/blog/how-to-implement-an-event-bus-in-typescript)
@@ -1163,6 +1186,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Swaggo - swag - Automatically generate RESTful API documentation with Swagger 2.0 for Go](https://github.com/swaggo/swag)
 - [astaxie - Build Web Application With Golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
 - [Gerasimos Maropoulos - Iris - The fastest HTTP/2 Go Web Framework](https://github.com/kataras/iris)
 - [Erik Engheim - Go Does Not Need a Java Style GC](https://itnext.io/go-does-not-need-a-java-style-gc-ac99b8d26c60)
@@ -1200,6 +1224,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [CNBC - Facebook extends its work-at-home policy to most employees](https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html)
+- [AWS - Meta Selects AWS as Key, Long-Term Strategic Cloud Provider](https://press.aboutamazon.com/news-releases/news-release-details/meta-selects-aws-key-long-term-strategic-cloud-provider/)
 - [Nature - Mapping the NFT revolution: market trends, trade networks, and visual features](https://www.nature.com/articles/s41598-021-00053-8#MOESM1)
 - [NextCloud - EU tech sector fights for a Level Playing Field with Microsoft](https://antitrust.nextcloud.com/)
 - [DFRLab - Network of Facebook pages amplified Polish right-wing and tabloid media outlets](https://medium.com/dfrlab/network-of-facebook-pages-amplified-polish-right-wing-and-tabloid-media-outlets-ccaa218128ab)
@@ -1341,6 +1367,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [David Neal - An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
 - [LuemmelSec - Go away BitLocker, you´re drunk](https://luemmelsec.github.io/Go-away-BitLocker-you-are-drunk/)
 - [Protocol - Facebook and Apple’s privacy war is mucking up voter turnout efforts](https://www.protocol.com/policy/apple-facebook-voter-turnout)
 - [Azure Blog - Business as usual for Azure customers despite 2.4 Tbps DDoS attack](https://azure.microsoft.com/en-us/blog/business-as-usual-for-azure-customers-despite-24-tbps-ddos-attack/)
@@ -1407,6 +1434,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Ed Batista - Doing the Work (Reflection, Journaling, Dialogue)](https://www.edbatista.com/2021/06/doing-the-work-reflection-journaling-dialogue.html)
 - [PornHub - The Pornhub Tech Review](https://www.pornhub.com/insights/tech-review)
 - [Dan Luu - Individuals matter](https://danluu.com/people-matter/)
 - [Stephen Diehl - The Handwavy Technobabble Nothingburger](https://www.stephendiehl.com/blog/nothing-burger.html)
