@@ -14,6 +14,7 @@
   - [AI](#ai)
   - [AWS](#aws)
   - [Azure](#azure)
+  - [Clojure](#clojure)
   - [Functional Programming](#functional-programming)
   - [.NET](#net)
     - [OpenTelemetry in .NET](#opentelemetry-in-net)
@@ -49,6 +50,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Microsoft - Competing Consumers pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/competing-consumers)
+- [Trond Hjorteland - Modularity in open systems](https://www.youtube.com/watch?v=LpyJM1cQyb0)
+- [Arie van Deursen - Log4Shell: Lessons Learned for Software Architects](https://avandeursen.com/2021/12/14/log4shell-lessons-learned-for-software-architects/)
+- [Brandon Byars - You Can't Buy Integration](https://martinfowler.com/articles/cant-buy-integration.html)
+- [Jérémie Chassaing - Functional Event Sourcing Decider](https://thinkbeforecoding.com/post/2021/12/17/functional-event-sourcing-decider)
+- [Wiki C2 - Alan Kays Definition Of Object Oriented](https://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented)
 - [Mathias Verraes - Form, Command, and Model Validation](https://verraes.net/2015/02/form-command-model-validation/)
 - [Weronika Łabaj - What Starbucks can teach us about software scalability](https://particular.net/blog/what-starbucks-can-teach-us-about-software-scalability)
 - [Scott Carey - Complexity is killing software developers](https://www.infoworld.com/article/3639050/complexity-is-killing-software-developers.html)
@@ -300,6 +307,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Zendesk - Maxwell's daemon, a mysql-to-json kafka producer](https://github.com/zendesk/maxwell)
+- [Felipe Volpone - Consuming over 1 billion Kafka messages per day at Ifood](https://felipevolpone.medium.com/consuming-over-1-billion-kafka-messages-per-day-at-ifood-2465e1ffa795)
 - [DCD - AWS us-east-1 outage brings down services around the world](https://www.datacenterdynamics.com/en/news/aws-us-east-1-outage-brings-down-services-around-the-world/)
 - [Apache Kafka Blog - Apache Kafka Supports 200K Partitions Per Cluster](https://blogs.apache.org/kafka/entry/apache-kafka-supports-more-partitions)
 - [KEDA - Kubernetes Event-driven Autoscaling](https://keda.sh/)
@@ -440,6 +449,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Alex Goodman - Dive - A tool for exploring each layer in a docker image](https://github.com/wagoodman/dive)
+- [Docker - WSL 2 GPU Support for Docker Desktop on NVIDIA GPUs](https://www.docker.com/blog/wsl-2-gpu-support-for-docker-desktop-on-nvidia-gpus)
+- [HashCorp - The Two Million Container Challenge](https://www.hashicorp.com/c2m)
 - [DevOps - How Comet can streamline machine learning on The GitLab DevOps Platform ](https://about.gitlab.com/blog/2021/11/08/machine-learning-on-the-gitlab-devops-platform)
 - [CLA Assistant - Handling CLAs and DCOs via GitHub Action](https://github.com/cla-assistant/github-action)
 - [GitHub - Secure deployments with OpenID Connect & GitHub Actions now generally available](https://github.blog/2021-11-23-secure-deployments-openid-connect-github-actions-generally-available/)
@@ -689,7 +701,11 @@
 - [Yves Goeleven - CDN Hosting](https://www.goeleven.com/blog/cdn-hosting/)
 - [InfoWorld - Simon Bisson - Jumping into Azure Arc Data Services](https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.amp.html)
 
+## Clojure
+- [Brett Rowberry - An F# Dev's Perspective on Clojure](https://brettrowberry.hashnode.dev/an-f-devs-perspective-on-clojure)
+
 ## Functional Programming
+- [The Flix Programming Language - Next-generation reliable, safe, concise, and functional-first programming language](https://flix.dev/)
 - [Mark Seemann - Functions as pipes](https://blog.ploeh.dk/2021/11/22/functions-as-pipes/)
 - [Marco Perone - Either why or how](http://marcosh.github.io/post/2021/09/24/either-why-or-how.html)
 - [Tony Morris - Data Types, Algebra, Parametricity, Optics](https://www.youtube.com/watch?v=v3uJSlklQT4)
@@ -702,6 +718,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jeremy D. Miller - Alba 6.0 is friendly with .Net 6, Minimal API, and WebApplicationFactory](https://jeremydmiller.com/2021/12/02/alba-6-0-is-friendly-with-net-6-minimal-api-and-webapplicationfactory/)
+- [Polly Contrib - Simmy - A chaos-engineering and fault-injection tool, integrating with the Polly resilience project for .NET](https://github.com/Polly-Contrib/Simmy)
+- [Oleg Kyrylchuk - 20 New APIs in .NET 6](https://blog.okyrylchuk.dev/20-new-apis-in-net-6)
+- [Microsoft - Orleans framework has moved over to the .NET team](https://github.com/dotnet/orleans/issues/7423#issue-1071078626)
 - [Clifford Agius - Connect an ESP32 To Azure IoT Hub with NanoFramework using DotNet and C#](https://www.cliffordagius.co.uk/post/connectesp32toiothub/)
 - [Jeffrey T. Fritz - Completed samples from my session with Scott Hunter discussing the Minimal Approach to .NET 6](https://github.com/csharpfritz/MinimalDotNet6)
 - [.NET Blog - What’s new for gRPC in .NET 6](https://devblogs.microsoft.com/dotnet/grpc-in-dotnet-6/)
@@ -1105,6 +1125,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ### Management
+- [Mike Hadlow - Coconut Headphones: Why Agile Has Failed](http://mikehadlow.blogspot.com/2014/03/coconut-headphones-why-agile-has-failed.html)
+- [Dave Bailey - A Manager’s Guide to Holding Your Team Accountable](https://medium.dave-bailey.com/a-manager-guide-to-holding-your-team-accountable-a05aac67294c)
 - [Dorian Taylor - Agile as Trauma](https://doriantaylor.com/agile-as-trauma)
 - [Allen Holub - No Estimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
 - [Charles-Axel Dein - A collection of inspiring resources related to engineering management and tech leadership](https://github.com/charlax/engineering-management)
@@ -1124,6 +1146,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Oracle - JDK 17 Migration Guide](https://docs.oracle.com/en/java/javase/17/migrate/getting-started.html)
+
 - [Log4Shell: RCE 0-day exploit found in log4j2, a popular Java logging package](https://www.lunasec.io/docs/blog/log4j-zero-day/)
 - [YfryTchsGD - Log4j Attack Surface](https://github.com/YfryTchsGD/Log4jAttackSurface)
 - [Venkat Subramaniam - A dozen cool things we can do with popular JVM Languages](https://www.youtube.com/watch?v=MEDTyR1Ksyw)
@@ -1203,6 +1227,7 @@
 - [Simon Vergauwen - Functional Domain Modeling in Kotlin - Validation](https://www.47deg.com/blog/functional-domain-modeling-part-2/)
 
 ## Rust
+- [ZDNet - Rust takes a major step forward as Linux's second official language](https://www.zdnet.com/article/rust-takes-a-major-step-forward-as-linuxs-second-official-language/)
 - [Herbert Wolverson - Game Development with Rust](https://medium.com/pragmatic-programmers/game-development-with-rust-31147f7b6096)
 - [Jon Gjengset - Crust of Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)
 - [Jan Pochyla - Psst: Fast and multi-platform Spotify client with native GUI](https://github.com/jpochyla/psst)
@@ -1224,6 +1249,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Erik Gibbs - Gaming Companies Turn to Girls Who Code to Find Top Techies](https://www.gamblingnews.com/news/gaming-companies-turn-to-girls-who-code-to-find-top-techies/)
+- [The Verge - TikTok settles lawsuit with actress over its original text-to-speech voice](https://www.theverge.com/2021/9/29/22701167/bev-standing-tiktok-lawsuit-settles-text-to-speech-voice)
+- [Naaackers - TikTok is using OBS internally (Twitter Thread)](https://twitter.com/Naaackers/status/1471532514720292867)
 - [CNBC - Facebook extends its work-at-home policy to most employees](https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html)
 - [AWS - Meta Selects AWS as Key, Long-Term Strategic Cloud Provider](https://press.aboutamazon.com/news-releases/news-release-details/meta-selects-aws-key-long-term-strategic-cloud-provider/)
 - [Nature - Mapping the NFT revolution: market trends, trade networks, and visual features](https://www.nature.com/articles/s41598-021-00053-8#MOESM1)
@@ -1313,6 +1341,8 @@
 - [Alex Ellis - Five years of Raspberry Pi Clusters](https://alexellisuk.medium.com/five-years-of-raspberry-pi-clusters-77e56e547875)
 
 ## Low level
+- [Alicja Musiał - Designing an LNA with bandpass filter for 430 Mhz – from a beginner's perspective](https://alicja.space/blog/designing-lna-with-bandpass-filter/)
+- [Wikipedia - Branch predictor](https://en.wikipedia.org/wiki/Branch_predictor)
 - [Yonatan - Transforming an Arcade Machine into a WFH-friendly Grafana Dashboard](https://blog.yonatan.dev/arcade-machine-grafana-dashboard/)
 - [InfoQ - Rust Hyper HTTP Library Will Contribute to Make Curl Safer](https://www.infoq.com/news/2020/10/memory-safe-curl-rust/)
 - [Cindy Sridharan - Seamless file descriptor transfer between processes with pidfd and pidfd_getfd](https://copyconstruct.medium.com/seamless-file-descriptor-transfer-between-processes-with-pidfd-and-pidfd-getfd-816afcd19ed4)
@@ -1336,6 +1366,8 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Google - Copybara - A tool for transforming and moving code between repositories.](https://github.com/google/copybara)
+- [GitHub - Improving GitHub code search](https://github.blog/2021-12-08-improving-github-code-search/)
 - [JetBrains - Welcome to Fleet!](https://blog.jetbrains.com/blog/2021/11/29/welcome-to-fleet/)
 - [Nicolas P. Rougier - An open access book on scientific visualization using python and matplotlib](https://github.com/rougier/scientific-visualization-book)
 - [Asciiflow - Documentation with Ascii](https://asciiflow.com/#/)
@@ -1367,6 +1399,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Cybereason - Logout4Shell - Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell](https://github.com/Cybereason/Logout4Shell)
 - [David Neal - An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
 - [LuemmelSec - Go away BitLocker, you´re drunk](https://luemmelsec.github.io/Go-away-BitLocker-you-are-drunk/)
 - [Protocol - Facebook and Apple’s privacy war is mucking up voter turnout efforts](https://www.protocol.com/policy/apple-facebook-voter-turnout)
