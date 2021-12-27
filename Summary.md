@@ -50,6 +50,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Mark Burgess - Promise Theory. Principles and Applications](http://markburgess.org/promises.html)
+- [DotNext - Q&A with Udi Dahan](https://www.youtube.com/watch?v=-wV5BJYnSQo)
+- [Nik Begley - How Google, Twitter, and Spotify built a culture of documentation](https://dev.to/doctave/how-google-twitter-and-spotify-built-a-culture-of-documentation-3e0m)
+- [Mathias Verraes, Rebecca Wirfs-Brock - Models and Metaphors](https://verraes.net/2021/12/models-and-metaphors/)
 - [Microsoft - Competing Consumers pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/competing-consumers)
 - [Trond Hjorteland - Modularity in open systems](https://www.youtube.com/watch?v=LpyJM1cQyb0)
 - [Arie van Deursen - Log4Shell: Lessons Learned for Software Architects](https://avandeursen.com/2021/12/14/log4shell-lessons-learned-for-software-architects/)
@@ -307,6 +311,9 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [The Netflix Blog - Towards a Reliable Device Management Platform](https://netflixtechblog.com/towards-a-reliable-device-management-platform-4f86230ca623)
+- [AWS Architecture Blog - Overview of Data Transfer Costs for Common Architectures](https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/)
+- [Pierre Cavalet - Build a personalized newsletter with AWS cloud services and ElasticSearch](https://medium.com/kaliop/build-a-personalized-newsletter-with-aws-cloud-services-and-elasticsearch-8d655f340594)
 - [Zendesk - Maxwell's daemon, a mysql-to-json kafka producer](https://github.com/zendesk/maxwell)
 - [Felipe Volpone - Consuming over 1 billion Kafka messages per day at Ifood](https://felipevolpone.medium.com/consuming-over-1-billion-kafka-messages-per-day-at-ifood-2465e1ffa795)
 - [DCD - AWS us-east-1 outage brings down services around the world](https://www.datacenterdynamics.com/en/news/aws-us-east-1-outage-brings-down-services-around-the-world/)
@@ -449,6 +456,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Ari Briegman - DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
 - [Alex Goodman - Dive - A tool for exploring each layer in a docker image](https://github.com/wagoodman/dive)
 - [Docker - WSL 2 GPU Support for Docker Desktop on NVIDIA GPUs](https://www.docker.com/blog/wsl-2-gpu-support-for-docker-desktop-on-nvidia-gpus)
 - [HashCorp - The Two Million Container Challenge](https://www.hashicorp.com/c2m)
@@ -718,6 +726,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Vitalii Braslavskyi - Building a Flexible Deployment System for Grammarly for Windows using F# and AWS Lambda](https://6ruce.github.io/posts/2021-12-20-grammarly-deployment-system.html)
+- [Rebin Qadir - gRPC client-side load balancing in .NET](https://rebin.dev/post/grpc-client-side-load-balancing-indotnet/?s=09)
+- [Christian Zink - How to Scale an ASP.NET Core Microservice and Sharded Database. Load Test with JMeter](https://itnext.io/how-to-scale-an-asp-net-core-microservice-and-sharded-database-load-test-with-jmeter-1a8c7292e7e3)
+- [Oleg Kyrylchuk - EF Core 6.0 new features (Twitter Thread)](https://twitter.com/okyrylchuk/status/1474842429283086336?s=21)
 - [Jeremy D. Miller - Alba 6.0 is friendly with .Net 6, Minimal API, and WebApplicationFactory](https://jeremydmiller.com/2021/12/02/alba-6-0-is-friendly-with-net-6-minimal-api-and-webapplicationfactory/)
 - [Polly Contrib - Simmy - A chaos-engineering and fault-injection tool, integrating with the Polly resilience project for .NET](https://github.com/Polly-Contrib/Simmy)
 - [Oleg Kyrylchuk - 20 New APIs in .NET 6](https://blog.okyrylchuk.dev/20-new-apis-in-net-6)
@@ -1004,6 +1016,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Ken Kousen - Help Your Boss Help You. Convert Conflict Into Opportunities](https://pragprog.com/titles/kkmanage/help-your-boss-help-you/)
 - [Gergely Orosz - Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
 - [Scott Carey - The 18 highest paying developer roles in 2021](https://www.infoworld.com/article/3638775/the-18-highest-paying-developer-roles-in-2021.html)
 - [Ben Award - Coding Interview with Dan Abramov](https://www.youtube.com/watch?v=XEt09iK8IXs)
@@ -1125,6 +1138,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ### Management
+- [Amy Diehl - When People Assume You’re Not In Charge Because You’re a Woman](https://hbr.org/2021/12/when-people-assume-youre-not-in-charge-because-youre-a-woman)
+- [Amy Edmondson - How to turn a group of strangers into a team](https://www.youtube.com/watch?v=3boKz0Exros)
 - [Mike Hadlow - Coconut Headphones: Why Agile Has Failed](http://mikehadlow.blogspot.com/2014/03/coconut-headphones-why-agile-has-failed.html)
 - [Dave Bailey - A Manager’s Guide to Holding Your Team Accountable](https://medium.dave-bailey.com/a-manager-guide-to-holding-your-team-accountable-a05aac67294c)
 - [Dorian Taylor - Agile as Trauma](https://doriantaylor.com/agile-as-trauma)
@@ -1249,6 +1264,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Nicholas Weaver - The Web3 Fraud](https://www.usenix.org/publications/loginonline/web3-fraud)
+- [Mark Burgess - Blockchain Technology and its Applications A Promise Theory view](http://markburgess.org/BlockchPromises.pdf)
+- [Tim O’Reilly - Why it’s too early to get excited about Web3](https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/)
 - [Erik Gibbs - Gaming Companies Turn to Girls Who Code to Find Top Techies](https://www.gamblingnews.com/news/gaming-companies-turn-to-girls-who-code-to-find-top-techies/)
 - [The Verge - TikTok settles lawsuit with actress over its original text-to-speech voice](https://www.theverge.com/2021/9/29/22701167/bev-standing-tiktok-lawsuit-settles-text-to-speech-voice)
 - [Naaackers - TikTok is using OBS internally (Twitter Thread)](https://twitter.com/Naaackers/status/1471532514720292867)
@@ -1332,6 +1350,7 @@
 - [Corey Quinn - How to Compete with AWS](https://www.lastweekinaws.com/blog/how-to-compete-with-aws/)
 
 ## Hardware
+- [Michael Yuan - Performance Analysis for Arm vs x86 CPUs in the Cloud](https://www.infoq.com/articles/arm-vs-x86-cloud-performance/)
 - [Anand Tech - AMD Gives Details on EPYC Zen4: Genoa and Bergamo, up to 96 and 128 Cores](https://www.anandtech.com/show/17055/amd-gives-details-on-epyc-zen4-genoa-and-bergamo-up-to-96-and-128-cores)
 - [Alex Ellis - State of netbooting Raspberry Pi in 2021](https://blog.alexellis.io/state-of-netbooting-raspberry-pi-in-2021/)
 - [Jeff Geerling - The Raspberry Pi can boot off NVMe SSDs now](https://www.jeffgeerling.com/blog/2021/raspberry-pi-can-boot-nvme-ssds-now)
@@ -1341,6 +1360,7 @@
 - [Alex Ellis - Five years of Raspberry Pi Clusters](https://alexellisuk.medium.com/five-years-of-raspberry-pi-clusters-77e56e547875)
 
 ## Low level
+- [Cliff Click - Coffee Compiler Club](https://www.youtube.com/playlist?list=PL05j31Knswhn7RLk-VKHZ6RI4e9D4d-6e)
 - [Alicja Musiał - Designing an LNA with bandpass filter for 430 Mhz – from a beginner's perspective](https://alicja.space/blog/designing-lna-with-bandpass-filter/)
 - [Wikipedia - Branch predictor](https://en.wikipedia.org/wiki/Branch_predictor)
 - [Yonatan - Transforming an Arcade Machine into a WFH-friendly Grafana Dashboard](https://blog.yonatan.dev/arcade-machine-grafana-dashboard/)
@@ -1366,6 +1386,8 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Mary Branscombe - How to visualise security and threat information in Microsoft Power BI](https://www.techrepublic.com/article/how-to-visualise-security-and-threat-information-in-power-bi/)
+- [VisiData - Data exploration at your fingertips](https://www.visidata.org/)
 - [Google - Copybara - A tool for transforming and moving code between repositories.](https://github.com/google/copybara)
 - [GitHub - Improving GitHub code search](https://github.blog/2021-12-08-improving-github-code-search/)
 - [JetBrains - Welcome to Fleet!](https://blog.jetbrains.com/blog/2021/11/29/welcome-to-fleet/)
@@ -1399,6 +1421,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Victor Grenu - The day when the AWS Support got access to your S3 data (Twitter thread)](https://twitter.com/zoph/status/1473991530712952833?s=21)
 - [Cybereason - Logout4Shell - Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell](https://github.com/Cybereason/Logout4Shell)
 - [David Neal - An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
 - [LuemmelSec - Go away BitLocker, you´re drunk](https://luemmelsec.github.io/Go-away-BitLocker-you-are-drunk/)
@@ -1467,6 +1490,8 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [PCWorld - This 8-bit processor built in Minecraft can run its own games](https://www.pcworld.com/article/559794/8-bit-computer-processor-built-in-minecraft-can-run-its-own-games.html)
+- [ArsTechnica - A grim milestone: I maxed out the number of spammy addresses Gmail can block](https://arstechnica.com/information-technology/2021/11/a-grim-milestone-i-maxed-out-the-number-of-spammy-addresses-gmail-can-block)
 - [Ed Batista - Doing the Work (Reflection, Journaling, Dialogue)](https://www.edbatista.com/2021/06/doing-the-work-reflection-journaling-dialogue.html)
 - [PornHub - The Pornhub Tech Review](https://www.pornhub.com/insights/tech-review)
 - [Dan Luu - Individuals matter](https://danluu.com/people-matter/)

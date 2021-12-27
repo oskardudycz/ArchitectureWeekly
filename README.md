@@ -24,6 +24,59 @@ There are two rules:
 
 -------
 
+## [27th December 2021](per-week/2021-12-27.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+### Architecture
+- [Mark Burgess - Promise Theory. Principles and Applications](http://markburgess.org/promises.html)
+- [DotNext - Q&A with Udi Dahan](https://www.youtube.com/watch?v=-wV5BJYnSQo)
+- [Nik Begley - How Google, Twitter, and Spotify built a culture of documentation](https://dev.to/doctave/how-google-twitter-and-spotify-built-a-culture-of-documentation-3e0m)
+- [Mathias Verraes, Rebecca Wirfs-Brock - Models and Metaphors](https://verraes.net/2021/12/models-and-metaphors/)
+
+### Distributed Systems
+- [The Netflix Blog - Towards a Reliable Device Management Platform](https://netflixtechblog.com/towards-a-reliable-device-management-platform-4f86230ca623)
+- [AWS Architecture Blog - Overview of Data Transfer Costs for Common Architectures](https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/)
+- [Pierre Cavalet - Build a personalized newsletter with AWS cloud services and ElasticSearch](https://medium.com/kaliop/build-a-personalized-newsletter-with-aws-cloud-services-and-elasticsearch-8d655f340594)
+
+### DevOps
+- [Ari Briegman - DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
+
+### Hardware
+- [Michael Yuan - Performance Analysis for Arm vs x86 CPUs in the Cloud](https://www.infoq.com/articles/arm-vs-x86-cloud-performance/)
+
+### Low Level
+- [Cliff Click - Coffee Compiler Club](https://www.youtube.com/playlist?list=PL05j31Knswhn7RLk-VKHZ6RI4e9D4d-6e)
+
+### Tools
+- [Mary Branscombe - How to visualise security and threat information in Microsoft Power BI](https://www.techrepublic.com/article/how-to-visualise-security-and-threat-information-in-power-bi/)
+- [VisiData - Data exploration at your fingertips](https://www.visidata.org/)
+
+### .NET
+- [Vitalii Braslavskyi - Building a Flexible Deployment System for Grammarly for Windows using F# and AWS Lambda](https://6ruce.github.io/posts/2021-12-20-grammarly-deployment-system.html)
+- [Rebin Qadir - gRPC client-side load balancing in .NET](https://rebin.dev/post/grpc-client-side-load-balancing-indotnet/?s=09)
+- [Christian Zink - How to Scale an ASP.NET Core Microservice and Sharded Database. Load Test with JMeter](https://itnext.io/how-to-scale-an-asp-net-core-microservice-and-sharded-database-load-test-with-jmeter-1a8c7292e7e3)
+- [Oleg Kyrylchuk - EF Core 6.0 new features (Twitter Thread)](https://twitter.com/okyrylchuk/status/1474842429283086336?s=21)
+
+### Coding Life
+- [Ken Kousen - Help Your Boss Help You. Convert Conflict Into Opportunities](https://pragprog.com/titles/kkmanage/help-your-boss-help-you/)
+
+### Management
+- [Amy Diehl - When People Assume You’re Not In Charge Because You’re a Woman](https://hbr.org/2021/12/when-people-assume-youre-not-in-charge-because-youre-a-woman)
+- [Amy Edmondson - How to turn a group of strangers into a team](https://www.youtube.com/watch?v=3boKz0Exros)
+
+### Industry
+- [Nicholas Weaver - The Web3 Fraud](https://www.usenix.org/publications/loginonline/web3-fraud)
+- [Mark Burgess - Blockchain Technology and its Applications A Promise Theory view](http://markburgess.org/BlockchPromises.pdf)
+- [Tim O’Reilly - Why it’s too early to get excited about Web3](https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/)
+
+### Security
+- [Victor Grenu - The day when the AWS Support got access to your S3 data (Twitter thread)](https://twitter.com/zoph/status/1473991530712952833?s=21)
+
+### Trivia
+- [PCWorld - This 8-bit processor built in Minecraft can run its own games](https://www.pcworld.com/article/559794/8-bit-computer-processor-built-in-minecraft-can-run-its-own-games.html)
+- [ArsTechnica - A grim milestone: I maxed out the number of spammy addresses Gmail can block](https://arstechnica.com/information-technology/2021/11/a-grim-milestone-i-maxed-out-the-number-of-spammy-addresses-gmail-can-block)
+
+-------
+
 ## [20th December 2021](per-week/2021-12-20.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
