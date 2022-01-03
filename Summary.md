@@ -50,6 +50,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Derek Comartin - CRUD API + Complexity = Death by a 1000 Papercuts](https://www.youtube.com/watch?v=kalD8TcRBCc)
+- [GitHub - The State of the Octoverse 2021](https://octoverse.github.com/)
+- [Mauro Servienti - Is it complex? Break it down!](https://milestone.topics.it/2022/01/03/is-it-complex-break-it-down.html)
+- [Rinat Abdullin - Problem-driven design](https://abdullin.com/problem-driven-design/)
+- [Aaron Stannard - Professional Open Source: Extend-Only Design](https://aaronstannard.com/extend-only-design)
+- [Bartosz Ocytko - Driving change: why are your ideas being rejected?](https://medium.com/@bocytko/driving-change-why-are-your-ideas-being-rejected-e2ab96227e40)
 - [Mark Burgess - Promise Theory. Principles and Applications](http://markburgess.org/promises.html)
 - [DotNext - Q&A with Udi Dahan](https://www.youtube.com/watch?v=-wV5BJYnSQo)
 - [Nik Begley - How Google, Twitter, and Spotify built a culture of documentation](https://dev.to/doctave/how-google-twitter-and-spotify-built-a-culture-of-documentation-3e0m)
@@ -311,6 +317,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Talia Nassi - What’s new in serverless](https://www.youtube.com/watch?v=_8mbJ3PGVUk)
 - [The Netflix Blog - Towards a Reliable Device Management Platform](https://netflixtechblog.com/towards-a-reliable-device-management-platform-4f86230ca623)
 - [AWS Architecture Blog - Overview of Data Transfer Costs for Common Architectures](https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/)
 - [Pierre Cavalet - Build a personalized newsletter with AWS cloud services and ElasticSearch](https://medium.com/kaliop/build-a-personalized-newsletter-with-aws-cloud-services-and-elasticsearch-8d655f340594)
@@ -456,6 +463,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Microsoft - DevOps Dojo](https://devblogs.microsoft.com/devops/devops-dojo-experiential-learning/)
+- [The Register - Kubernetes a black hole of unpredictable spend](https://www.theregister.com/2021/06/29/kubernetes_spend_report/)
+- [Nick Janetakis - Reclaim Tons of Disk Space by Compacting Your Docker Desktop WSL 2 VM](https://nickjanetakis.com/blog/reclaiming-tons-of-diskspace-by-compacting-your-docker-desktop-wsl-2-vm)
 - [Ari Briegman - DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
 - [Alex Goodman - Dive - A tool for exploring each layer in a docker image](https://github.com/wagoodman/dive)
 - [Docker - WSL 2 GPU Support for Docker Desktop on NVIDIA GPUs](https://www.docker.com/blog/wsl-2-gpu-support-for-docker-desktop-on-nvidia-gpus)
@@ -600,6 +610,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Vlad Mihalcea - Single-Primary Database Replication](https://vladmihalcea.com/single-primary-database-replication/)
+- [Daniel Meyer - A client side, offline-first, reactive database for JavaScript Applications](https://github.com/pubkey/rxdb)
+- [Google Cloud Platform - El Carro - a new project that offers a way to run Oracle databases in Kubernetes](https://github.com/GoogleCloudPlatform/elcarro-oracle-operator)
 - [Hironobu SUZUKI  - The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
 - [O. Marcu, A. Costan, B. Nicolae, G. Antoniu - Virtual Log-Structured Storage for High-Performance Streaming](https://hal.inria.fr/hal-03300796/file/virtual_log_KerA30072021.pdf)
 - [Alex Vondrak - How Time Series Databases Work—and Where They Don't](https://www.honeycomb.io/blog/time-series-database/)
@@ -726,6 +739,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Dave Brock - Low Ceremony, High Value: A Tour of Minimal APIs in .NET 6](https://www.daveabrock.com/2021/06/09/low-ceremony-high-value-a-tour-of-minimal-apis-in-net-6/)
+- [Spectre.Console - A .NET library that makes it easier to create beautiful console applications. ](https://github.com/spectreconsole/spectre.console)
+- [Yoshifumi Kawai - Minimal API for CommandLine tool by ConsoleAppFramework v4](https://neuecc.medium.com/minimal-api-for-commandline-tool-by-consoleappframework-v4-285441c0d499)
+- [Jimmy Byrd - FsOpenTelemetry is a single file you can copy paste or add through Paket Github dependencies to provide your F# library with safe helpers for Activity and ActivitySource.](https://github.com/TheAngryByrd/FsOpenTelemetry)
+
 - [Vitalii Braslavskyi - Building a Flexible Deployment System for Grammarly for Windows using F# and AWS Lambda](https://6ruce.github.io/posts/2021-12-20-grammarly-deployment-system.html)
 - [Rebin Qadir - gRPC client-side load balancing in .NET](https://rebin.dev/post/grpc-client-side-load-balancing-indotnet/?s=09)
 - [Christian Zink - How to Scale an ASP.NET Core Microservice and Sharded Database. Load Test with JMeter](https://itnext.io/how-to-scale-an-asp-net-core-microservice-and-sharded-database-load-test-with-jmeter-1a8c7292e7e3)
@@ -1016,6 +1034,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Dan Lines - The Pull Request Paradox: Merge Faster by Promoting Your PR](https://dzone.com/articles/the-pull-request-paradox-merge-faster-by-promoting)
+- [Austin Z. Henley - A theory of how developers seek information](https://web.eecs.utk.edu/~azh/blog/informationforaging.html)
 - [Ken Kousen - Help Your Boss Help You. Convert Conflict Into Opportunities](https://pragprog.com/titles/kkmanage/help-your-boss-help-you/)
 - [Gergely Orosz - Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
 - [Scott Carey - The 18 highest paying developer roles in 2021](https://www.infoworld.com/article/3638775/the-18-highest-paying-developer-roles-in-2021.html)
@@ -1138,6 +1158,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ### Management
+- [Niels Pflaeging - Org Physics: The 3 faces of every company](https://nielspflaeging.medium.com/org-physics-the-3-faces-of-every-company-df16025f65f8)
 - [Amy Diehl - When People Assume You’re Not In Charge Because You’re a Woman](https://hbr.org/2021/12/when-people-assume-youre-not-in-charge-because-youre-a-woman)
 - [Amy Edmondson - How to turn a group of strangers into a team](https://www.youtube.com/watch?v=3boKz0Exros)
 - [Mike Hadlow - Coconut Headphones: Why Agile Has Failed](http://mikehadlow.blogspot.com/2014/03/coconut-headphones-why-agile-has-failed.html)
@@ -1360,6 +1381,7 @@
 - [Alex Ellis - Five years of Raspberry Pi Clusters](https://alexellisuk.medium.com/five-years-of-raspberry-pi-clusters-77e56e547875)
 
 ## Low level
+- [Jordan Mechner - Prince of Persia Apple II Source Codes](https://github.com/jmechner/Prince-of-Persia-Apple-II)
 - [Cliff Click - Coffee Compiler Club](https://www.youtube.com/playlist?list=PL05j31Knswhn7RLk-VKHZ6RI4e9D4d-6e)
 - [Alicja Musiał - Designing an LNA with bandpass filter for 430 Mhz – from a beginner's perspective](https://alicja.space/blog/designing-lna-with-bandpass-filter/)
 - [Wikipedia - Branch predictor](https://en.wikipedia.org/wiki/Branch_predictor)
@@ -1386,6 +1408,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Backstage - An open platform for building developer portals](https://backstage.io)
 - [Mary Branscombe - How to visualise security and threat information in Microsoft Power BI](https://www.techrepublic.com/article/how-to-visualise-security-and-threat-information-in-power-bi/)
 - [VisiData - Data exploration at your fingertips](https://www.visidata.org/)
 - [Google - Copybara - A tool for transforming and moving code between repositories.](https://github.com/google/copybara)
@@ -1421,6 +1444,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Joseph Roosen - Microsoft Exchange New Year's issue (Twitter Thread)](https://twitter.com/JRoosen/status/1477120097747677184)
+- [Davide M. Parrilli - Cookie consent is (still) broken](https://uxdesign.cc/cookie-consent-is-still-broken-a4257f8249b9)
 - [Victor Grenu - The day when the AWS Support got access to your S3 data (Twitter thread)](https://twitter.com/zoph/status/1473991530712952833?s=21)
 - [Cybereason - Logout4Shell - Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell](https://github.com/Cybereason/Logout4Shell)
 - [David Neal - An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
@@ -1490,6 +1515,10 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Wired - How a 'NULL' License Plate Landed One Hacker in Ticket Hell](https://www.wired.com/story/null-license-plate-landed-one-hacker-ticket-hell/)
+- [Mechanical Computer (All Parts) - Basic Mechanisms In Fire Control Computers](https://www.youtube.com/watch?v=s1i-dnAH9Y4)
+- [Which Face Is Real? - Seeing through the illusions of a fabricated world](https://www.whichfaceisreal.com/)
+- [Jared A. Brock - No, You Don’t Have to Wake Up at 5 AM in Order to Be Wildly Successful](https://medium.com/in-fitness-and-in-health/no-you-dont-have-to-wake-up-at-5-am-in-order-to-be-wildly-successful-5b7da6cc7f3b)
 - [PCWorld - This 8-bit processor built in Minecraft can run its own games](https://www.pcworld.com/article/559794/8-bit-computer-processor-built-in-minecraft-can-run-its-own-games.html)
 - [ArsTechnica - A grim milestone: I maxed out the number of spammy addresses Gmail can block](https://arstechnica.com/information-technology/2021/11/a-grim-milestone-i-maxed-out-the-number-of-spammy-addresses-gmail-can-block)
 - [Ed Batista - Doing the Work (Reflection, Journaling, Dialogue)](https://www.edbatista.com/2021/06/doing-the-work-reflection-journaling-dialogue.html)
