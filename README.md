@@ -24,6 +24,60 @@ There are two rules:
 
 -------
 
+## [3rd January 2022](per-week/2022-01-03.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+### Architecture
+- [Derek Comartin - CRUD API + Complexity = Death by a 1000 Papercuts](https://www.youtube.com/watch?v=kalD8TcRBCc)
+- [GitHub - The State of the Octoverse 2021](https://octoverse.github.com/)
+- [Mauro Servienti - Is it complex? Break it down!](https://milestone.topics.it/2022/01/03/is-it-complex-break-it-down.html)
+- [Rinat Abdullin - Problem-driven design](https://abdullin.com/about-me/)
+- [Aaron Stannard - Professional Open Source: Extend-Only Design](https://aaronstannard.com/extend-only-design)
+- [Bartosz Ocytko - Driving change: why are your ideas being rejected?](https://medium.com/@bocytko/driving-change-why-are-your-ideas-being-rejected-e2ab96227e40)
+
+### Distributed Systems
+- [Talia Nassi - What’s new in serverless](https://www.youtube.com/watch?v=_8mbJ3PGVUk)
+
+### DevOps
+- [Microsoft - DevOps Dojo](https://devblogs.microsoft.com/devops/devops-dojo-experiential-learning/)
+- [The Register - Kubernetes a black hole of unpredictable spend](https://www.theregister.com/2021/06/29/kubernetes_spend_report/)
+- [Nick Janetakis - Reclaim Tons of Disk Space by Compacting Your Docker Desktop WSL 2 VM](https://nickjanetakis.com/blog/reclaiming-tons-of-diskspace-by-compacting-your-docker-desktop-wsl-2-vm)
+
+### Databases
+- [Vlad Mihalcea - Single-Primary Database Replication](https://vladmihalcea.com/single-primary-database-replication/)
+- [Daniel Meyer - A client side, offline-first, reactive database for JavaScript Applications](https://github.com/pubkey/rxdb)
+- [Google Cloud Platform - El Carro - a new project that offers a way to run Oracle databases in Kubernetes](https://github.com/GoogleCloudPlatform/elcarro-oracle-operator)
+
+### Low level
+- [Jordan Mechner - Prince of Persia Apple II Source Codes](https://github.com/jmechner/Prince-of-Persia-Apple-II)
+
+### Tools
+- [Backstage - An open platform for building developer portals](https://backstage.io)
+
+### .NET
+- [Dave Brock - Low Ceremony, High Value: A Tour of Minimal APIs in .NET 6](https://www.daveabrock.com/2021/06/09/low-ceremony-high-value-a-tour-of-minimal-apis-in-net-6/)
+- [Spectre.Console - A .NET library that makes it easier to create beautiful console applications. ](https://github.com/spectreconsole/spectre.console)
+- [Yoshifumi Kawai - Minimal API for CommandLine tool by ConsoleAppFramework v4](https://neuecc.medium.com/minimal-api-for-commandline-tool-by-consoleappframework-v4-285441c0d499)
+- [Jimmy Byrd - FsOpenTelemetry is a single file you can copy paste or add through Paket Github dependencies to provide your F# library with safe helpers for Activity and ActivitySource.](https://github.com/TheAngryByrd/FsOpenTelemetry)
+
+### Coding Life
+- [Dan Lines - The Pull Request Paradox: Merge Faster by Promoting Your PR](https://dzone.com/articles/the-pull-request-paradox-merge-faster-by-promoting)
+- [Austin Z. Henley - A theory of how developers seek information](https://web.eecs.utk.edu/~azh/blog/informationforaging.html)
+
+### Management
+- [Niels Pflaeging - Org Physics: The 3 faces of every company](https://nielspflaeging.medium.com/org-physics-the-3-faces-of-every-company-df16025f65f8)
+
+### Security
+- [Joseph Roosen - Microsoft Exchange New Year's issue (Twitter Thread)](https://twitter.com/JRoosen/status/1477120097747677184)
+- [Davide M. Parrilli - Cookie consent is (still) broken](https://uxdesign.cc/cookie-consent-is-still-broken-a4257f8249b9)
+
+### Trivia
+- [Wired - How a 'NULL' License Plate Landed One Hacker in Ticket Hell](https://www.wired.com/story/null-license-plate-landed-one-hacker-ticket-hell/)
+- [Mechanical Computer (All Parts) - Basic Mechanisms In Fire Control Computers](https://www.youtube.com/watch?v=s1i-dnAH9Y4)
+- [Which Face Is Real? - Seeing through the illusions of a fabricated world](https://www.whichfaceisreal.com/)
+- [Jared A. Brock - No, You Don’t Have to Wake Up at 5 AM in Order to Be Wildly Successful](https://medium.com/in-fitness-and-in-health/no-you-dont-have-to-wake-up-at-5-am-in-order-to-be-wildly-successful-5b7da6cc7f3b)
+
+-------
+
 ## [27th December 2021](per-week/2021-12-27.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
