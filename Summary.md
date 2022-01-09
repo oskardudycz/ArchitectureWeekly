@@ -50,6 +50,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Derek Comartin - Don't Let the Internet Dupe You, that's NOT Event Sourcing](https://www.youtube.com/watch?v=Y7ca1--EKsg)
+- [Unmesh Joshi - Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems)
+- [Mews - Are we migrating to microservices and should you?](https://developers.mews.com/are-we-migrating-to-microservices-and-should-you/)
+- [Shopify - Under Deconstruction: The State of Shopify’s Monolith](https://shopify.engineering/shopify-monolith)
 - [Derek Comartin - CRUD API + Complexity = Death by a 1000 Papercuts](https://www.youtube.com/watch?v=kalD8TcRBCc)
 - [GitHub - The State of the Octoverse 2021](https://octoverse.github.com/)
 - [Mauro Servienti - Is it complex? Break it down!](https://milestone.topics.it/2022/01/03/is-it-complex-break-it-down.html)
@@ -317,6 +321,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Jaroslaw Kijanowski - Comparing Apache Kafka and Apache Pulsar](https://blog.softwaremill.com/comparing-apache-kafka-and-apache-pulsar-3bd44e00f304)
+- [Tom Gregory - 3 surprising facts about AWS SQS FIFO queues](https://tomgregory.com/3-surprising-facts-about-aws-sqs-fifo-queues/)
 - [Talia Nassi - What’s new in serverless](https://www.youtube.com/watch?v=_8mbJ3PGVUk)
 - [The Netflix Blog - Towards a Reliable Device Management Platform](https://netflixtechblog.com/towards-a-reliable-device-management-platform-4f86230ca623)
 - [AWS Architecture Blog - Overview of Data Transfer Costs for Common Architectures](https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/)
@@ -463,6 +469,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Super-Linter - simple combination of various linters, written in bash, to help validate your source code in GitHub Actions as a part of continuous integration](https://github.com/marketplace/actions/super-linter)
+- [asciinema - record and share your terminal sessions, the right way](https://asciinema.org/)
+- [Morgan Gomez - Creating a Linkerd Controller in Golang](https://itnext.io/creating-a-linkerd-controller-in-golang-e588ad1c821a)
 - [Microsoft - DevOps Dojo](https://devblogs.microsoft.com/devops/devops-dojo-experiential-learning/)
 - [The Register - Kubernetes a black hole of unpredictable spend](https://www.theregister.com/2021/06/29/kubernetes_spend_report/)
 - [Nick Janetakis - Reclaim Tons of Disk Space by Compacting Your Docker Desktop WSL 2 VM](https://nickjanetakis.com/blog/reclaiming-tons-of-diskspace-by-compacting-your-docker-desktop-wsl-2-vm)
@@ -520,6 +529,8 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Bleeping Computer - Dev corrupts NPM libs 'colors' and 'faker' breaking thousands of apps](https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/)
+- [Vitalii Shevchuk - Build a Beautiful TikTok Clone with Angular and Micro Frontend](https://javascript.plainenglish.io/building-beautiful-tiktok-clone-with-angular-and-micro-frontend-part-1-bdd189425695)
 - [Cédric Exbrayat - What's new in Angular 13?](https://blog.ninja-squad.com/2021/11/03/what-is-new-angular-13.0/)
 - [Google Web.Dev - What's new in PageSpeed Insights](https://web.dev/whats-new-pagespeed-insights/)
 - [Dan Abramov - npm audit: Broken by Design](https://overreacted.io/npm-audit-broken-by-design/)
@@ -610,6 +621,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Rob Tomlin - Working with a JSONB Array of Objects in PostgreSQL](https://bobtomlin-70659.medium.com/)
 - [Vlad Mihalcea - Single-Primary Database Replication](https://vladmihalcea.com/single-primary-database-replication/)
 - [Daniel Meyer - A client side, offline-first, reactive database for JavaScript Applications](https://github.com/pubkey/rxdb)
 - [Google Cloud Platform - El Carro - a new project that offers a way to run Oracle databases in Kubernetes](https://github.com/GoogleCloudPlatform/elcarro-oracle-operator)
@@ -723,6 +735,7 @@
 - [InfoWorld - Simon Bisson - Jumping into Azure Arc Data Services](https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.amp.html)
 
 ## Clojure
+- [Alex Engelberg, Derek Slager - Every Clojure Talk Ever](https://www.youtube.com/watch?v=jlPaby7suOc)
 - [Brett Rowberry - An F# Dev's Perspective on Clojure](https://brettrowberry.hashnode.dev/an-f-devs-perspective-on-clojure)
 
 ## Functional Programming
@@ -739,6 +752,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Tomasz Pęczek - ASP.NET Core 6 and IAsyncEnumerable - Async Streamed JSON vs NDJSON](https://www.tpeczek.com/2021/07/aspnet-core-6-and-iasyncenumerable.html)
+- [Dominick Baier - Using the BFF pattern to secure SPA and Blazor Applications](https://www.youtube.com/watch?v=UBFx3MSu1Rc)
+- [Eirik Tsarpalis - Why OO Matters (in F#)](https://eiriktsarpalis.wordpress.com/2017/03/20/why-oo-matters-in-f/)
+- [Zaid Ajaj - F# analyzer that provides embedded SQL syntax analysis, type-checking for parameters and result sets and nullable column detection when writing queries using Npgsql.FSharp](https://github.com/Zaid-Ajaj/Npgsql.FSharp.Analyzer)
 - [Dave Brock - Low Ceremony, High Value: A Tour of Minimal APIs in .NET 6](https://www.daveabrock.com/2021/06/09/low-ceremony-high-value-a-tour-of-minimal-apis-in-net-6/)
 - [Spectre.Console - A .NET library that makes it easier to create beautiful console applications. ](https://github.com/spectreconsole/spectre.console)
 - [Yoshifumi Kawai - Minimal API for CommandLine tool by ConsoleAppFramework v4](https://neuecc.medium.com/minimal-api-for-commandline-tool-by-consoleappframework-v4-285441c0d499)
@@ -1034,6 +1051,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Usborne - Offer free pdfs of Classic 1980s books to download](https://usborne.com/gb/books/computer-and-coding-books)
 - [Dan Lines - The Pull Request Paradox: Merge Faster by Promoting Your PR](https://dzone.com/articles/the-pull-request-paradox-merge-faster-by-promoting)
 - [Austin Z. Henley - A theory of how developers seek information](https://web.eecs.utk.edu/~azh/blog/informationforaging.html)
 - [Ken Kousen - Help Your Boss Help You. Convert Conflict Into Opportunities](https://pragprog.com/titles/kkmanage/help-your-boss-help-you/)
@@ -1158,6 +1176,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ### Management
+- [DScout - The Corporate Playbooks Used to Combat Organizational Trauma (And Why They're Not Enough)](https://dscout.com/people-nerds/organizational-trauma)
+- [Jade Rubick - Great engineering teams focus on milestones instead of projects](https://www.rubick.com/milestones-not-projects/)
 - [Niels Pflaeging - Org Physics: The 3 faces of every company](https://nielspflaeging.medium.com/org-physics-the-3-faces-of-every-company-df16025f65f8)
 - [Amy Diehl - When People Assume You’re Not In Charge Because You’re a Woman](https://hbr.org/2021/12/when-people-assume-youre-not-in-charge-because-youre-a-woman)
 - [Amy Edmondson - How to turn a group of strangers into a team](https://www.youtube.com/watch?v=3boKz0Exros)
@@ -1233,6 +1253,7 @@
 - [Ákos Szokodi - How to Easily Set-up Node Config Following These Best Practices](https://codingsans.com/blog/node-config-best-practices)
 
 ## Ruby
+- [Julien Khaleghy - How a routine gem update ended up creating $73k worth of subscriptions](https://serpapi.com/blog/how-a-routine-gem-update-ended-up-charging/)
 - [Peter Zhu - How ruby_memcheck Finds Memory Leaks in Native Gems](https://blog.peterzhu.ca/ruby-memcheck/)
 - [Ruby on Rails - Rails 7.0 Alpha 1: New JavaScript Answers, At-Work Encryption, Query Origin Logging, Zeitwerk Exclusively](https://weblog.rubyonrails.org/2021/9/15/Rails-7-0-alpha-1-released/)
 - [Remote Ruby - Hotwire, Rails NEXT, and the DHH Stack with David Heinemeier Hansson](https://remoteruby.transistor.fm/115)
@@ -1371,6 +1392,7 @@
 - [Corey Quinn - How to Compete with AWS](https://www.lastweekinaws.com/blog/how-to-compete-with-aws/)
 
 ## Hardware
+- [Tom's Hardware - Intel BIOS Updates Officially Disable Alder Lake's AVX-512 Capabilities](https://www.tomshardware.com/news/intel-bios-update-disables-alder-lake-avx-512)
 - [Michael Yuan - Performance Analysis for Arm vs x86 CPUs in the Cloud](https://www.infoq.com/articles/arm-vs-x86-cloud-performance/)
 - [Anand Tech - AMD Gives Details on EPYC Zen4: Genoa and Bergamo, up to 96 and 128 Cores](https://www.anandtech.com/show/17055/amd-gives-details-on-epyc-zen4-genoa-and-bergamo-up-to-96-and-128-cores)
 - [Alex Ellis - State of netbooting Raspberry Pi in 2021](https://blog.alexellis.io/state-of-netbooting-raspberry-pi-in-2021/)
@@ -1408,6 +1430,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Nick Comer - Using a mild Twitter addiction to actually get things done](https://nick.comer.io/post/ios-shortcuts)
 - [Backstage - An open platform for building developer portals](https://backstage.io)
 - [Mary Branscombe - How to visualise security and threat information in Microsoft Power BI](https://www.techrepublic.com/article/how-to-visualise-security-and-threat-information-in-power-bi/)
 - [VisiData - Data exploration at your fingertips](https://www.visidata.org/)
@@ -1444,6 +1467,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Netzpolitik.org - Dutch government to pay million Euro fine over racist data discrimination](https://netzpolitik.org/2022/childcare-benefits-scandal-dutch-government-to-pay-million-euro-fine-over-racist-data-discrimination/)
 - [Joseph Roosen - Microsoft Exchange New Year's issue (Twitter Thread)](https://twitter.com/JRoosen/status/1477120097747677184)
 - [Davide M. Parrilli - Cookie consent is (still) broken](https://uxdesign.cc/cookie-consent-is-still-broken-a4257f8249b9)
 - [Victor Grenu - The day when the AWS Support got access to your S3 data (Twitter thread)](https://twitter.com/zoph/status/1473991530712952833?s=21)
