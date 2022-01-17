@@ -14,6 +14,7 @@
   - [AI](#ai)
   - [AWS](#aws)
   - [Azure](#azure)
+  - [C++](#c)
   - [Clojure](#clojure)
   - [Functional Programming](#functional-programming)
   - [.NET](#net)
@@ -50,6 +51,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Tom Glib - 10 Suggested Principles for Human Factors Systems Engineering](https://www.gilb.com/10-Suggested-Principles-for-Human-Factors-Systems-Engineering)
+- [Best of JS - 2021 JavaScript Rising Stars](https://risingstars.js.org/2021/en)
+- [David Boyne - Introducing EventCatalog](https://www.boyney.io/blog/2022-01-11-introducing-eventcatalog)
+- [Tech Lead Journal Podcast - Vaughn Vernon - Strategic Monoliths and Microservices](https://techleadjournal.dev/episodes/71/)
+- [Virtual Domain-Driven Design - Mathias Verreas - Design & Reality ](https://www.youtube.com/watch?v=s_ihqdfcHDY)
 - [Derek Comartin - Don't Let the Internet Dupe You, that's NOT Event Sourcing](https://www.youtube.com/watch?v=Y7ca1--EKsg)
 - [Unmesh Joshi - Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems)
 - [Mews - Are we migrating to microservices and should you?](https://developers.mews.com/are-we-migrating-to-microservices-and-should-you/)
@@ -321,6 +327,11 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Pat Helland - Decoupled Transactions: Low Tail Latency Online Transactions Atop Jittery Servers](http://cidrdb.org/cidr2022/papers/p5-helland.pdf)
+- [Leslie Lamport - Time, Clocks, and the Ordering of Events in a Distributed System](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
+- [Bartosz Sypytkowski - Behind collaborative text editing](https://www.youtube.com/watch?v=hJAf7v6CMlQ)
+- [Strimzi - Kafka authentication using OAuth 2.0](https://strimzi.io/blog/2019/10/25/kafka-authentication-using-oauth-2.0/)
+- [Splunk - Comparing Pulsar and Kafka: Unified Queuing and Streaming](https://www.splunk.com/en_us/blog/it/comparing-pulsar-and-kafka-unified-queuing-and-streaming.html)
 - [Jaroslaw Kijanowski - Comparing Apache Kafka and Apache Pulsar](https://blog.softwaremill.com/comparing-apache-kafka-and-apache-pulsar-3bd44e00f304)
 - [Tom Gregory - 3 surprising facts about AWS SQS FIFO queues](https://tomgregory.com/3-surprising-facts-about-aws-sqs-fifo-queues/)
 - [Talia Nassi - What’s new in serverless](https://www.youtube.com/watch?v=_8mbJ3PGVUk)
@@ -469,6 +480,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Eric Murphy - Run a Google Kubernetes Engine Cluster for Under $25/Month](https://thenewstack.io/run-a-google-kubernetes-engine-cluster-for-under-25-month/)
 - [Super-Linter - simple combination of various linters, written in bash, to help validate your source code in GitHub Actions as a part of continuous integration](https://github.com/marketplace/actions/super-linter)
 - [asciinema - record and share your terminal sessions, the right way](https://asciinema.org/)
 - [Morgan Gomez - Creating a Linkerd Controller in Golang](https://itnext.io/creating-a-linkerd-controller-in-golang-e588ad1c821a)
@@ -621,6 +633,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Dimitri Fontaine - pgcopydb - Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids)](https://github.com/dimitri/pgcopydb)
 - [Rob Tomlin - Working with a JSONB Array of Objects in PostgreSQL](https://bobtomlin-70659.medium.com/)
 - [Vlad Mihalcea - Single-Primary Database Replication](https://vladmihalcea.com/single-primary-database-replication/)
 - [Daniel Meyer - A client side, offline-first, reactive database for JavaScript Applications](https://github.com/pubkey/rxdb)
@@ -734,6 +747,9 @@
 - [Yves Goeleven - CDN Hosting](https://www.goeleven.com/blog/cdn-hosting/)
 - [InfoWorld - Simon Bisson - Jumping into Azure Arc Data Services](https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.amp.html)
 
+## C++
+- [Andrei Alexandrescu - Speed Is Found In The Minds of People](https://www.youtube.com/watch?v=FJJTYQYB1JQ)
+
 ## Clojure
 - [Alex Engelberg, Derek Slager - Every Clojure Talk Ever](https://www.youtube.com/watch?v=jlPaby7suOc)
 - [Brett Rowberry - An F# Dev's Perspective on Clojure](https://brettrowberry.hashnode.dev/an-f-devs-perspective-on-clojure)
@@ -752,6 +768,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Duende - Fair Trade Software License](https://blog.duendesoftware.com/posts/20220111_fair_trade)
+- [Stryker.NET - Mutation testing for .NET core and .NET framework!](https://github.com/stryker-mutator/stryker-net)
+- [OpenTelemetry .NET Contrib - Set of components extending functionality of the OpenTelemetry .NET SDK](https://github.com/open-telemetry/opentelemetry-dotnet-contrib)
+- [.NET Docs - Performance best practices with gRPC](https://docs.microsoft.com/en-us/aspnet/core/grpc/performance?view=aspnetcore-6.0)
 - [Tomasz Pęczek - ASP.NET Core 6 and IAsyncEnumerable - Async Streamed JSON vs NDJSON](https://www.tpeczek.com/2021/07/aspnet-core-6-and-iasyncenumerable.html)
 - [Dominick Baier - Using the BFF pattern to secure SPA and Blazor Applications](https://www.youtube.com/watch?v=UBFx3MSu1Rc)
 - [Eirik Tsarpalis - Why OO Matters (in F#)](https://eiriktsarpalis.wordpress.com/2017/03/20/why-oo-matters-in-f/)
@@ -1202,8 +1222,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Richard Startin - Heuristics for Substring Search](https://richardstartin.github.io/posts/heuristics-for-substring-search)
 - [Oracle - JDK 17 Migration Guide](https://docs.oracle.com/en/java/javase/17/migrate/getting-started.html)
-
 - [Log4Shell: RCE 0-day exploit found in log4j2, a popular Java logging package](https://www.lunasec.io/docs/blog/log4j-zero-day/)
 - [YfryTchsGD - Log4j Attack Surface](https://github.com/YfryTchsGD/Log4jAttackSurface)
 - [Venkat Subramaniam - A dozen cool things we can do with popular JVM Languages](https://www.youtube.com/watch?v=MEDTyR1Ksyw)
@@ -1242,6 +1262,8 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## NodeJS
+- [Netanel Basal - Falso - All the Fake Data for All Your Real Needs](https://github.com/ngneat/falso)
+- [Faker.js - An update from the Faker team](https://fakerjs.dev/update.html)
 - [Keeth Kuwahara - npm-stats-api: Node Package's Statistics API](https://github.com/kkeeth/npm-stats-api)
 - [Steven Vachon - broken-link-checker: Find broken links, missing images, etc within your HTML](https://github.com/stevenvachon/broken-link-checker)
 - [Express - Health Checks and Graceful Shutdown](https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html)
@@ -1267,6 +1289,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Seth Vargo - What I'd like to see in Go 2.0](https://www.sethvargo.com/what-id-like-to-see-in-go-2/)
 - [Swaggo - swag - Automatically generate RESTful API documentation with Swagger 2.0 for Go](https://github.com/swaggo/swag)
 - [astaxie - Build Web Application With Golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
 - [Gerasimos Maropoulos - Iris - The fastest HTTP/2 Go Web Framework](https://github.com/kataras/iris)
@@ -1284,6 +1307,7 @@
 - [Simon Vergauwen - Functional Domain Modeling in Kotlin - Validation](https://www.47deg.com/blog/functional-domain-modeling-part-2/)
 
 ## Rust
+- [Alistair Evans - Rust TCP Echo Server, for C# Devs](https://gist.github.com/alistairjevans/95894f3d2a269a667e2976a754d8d91a)
 - [ZDNet - Rust takes a major step forward as Linux's second official language](https://www.zdnet.com/article/rust-takes-a-major-step-forward-as-linuxs-second-official-language/)
 - [Herbert Wolverson - Game Development with Rust](https://medium.com/pragmatic-programmers/game-development-with-rust-31147f7b6096)
 - [Jon Gjengset - Crust of Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)
@@ -1467,6 +1491,9 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Martin Bajanik - Exploiting IndexedDB API information leaks in Safari 15](https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/)
+- [Orca Security - BreakingFormation: Orca Security Research Team Discovers AWS CloudFormation Vulnerability](https://orca.security/resources/blog/aws-cloudformation-vulnerability/)
+- [Noyb - Austrian DSB: Use of Google Analytics violates "Schrems II" decision by CJEU](https://noyb.eu/en/austrian-dsb-eu-us-data-transfers-google-analytics-illegal)
 - [Netzpolitik.org - Dutch government to pay million Euro fine over racist data discrimination](https://netzpolitik.org/2022/childcare-benefits-scandal-dutch-government-to-pay-million-euro-fine-over-racist-data-discrimination/)
 - [Joseph Roosen - Microsoft Exchange New Year's issue (Twitter Thread)](https://twitter.com/JRoosen/status/1477120097747677184)
 - [Davide M. Parrilli - Cookie consent is (still) broken](https://uxdesign.cc/cookie-consent-is-still-broken-a4257f8249b9)
