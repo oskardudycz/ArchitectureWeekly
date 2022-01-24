@@ -1,3 +1,50 @@
 # Upcoming Links
 
 ## 24th January 2022
+
+### Architecture
+- [Troy Hunt - How I Got Pwned by My Cloud Costs](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
+- [Nick Tune - From Consultant to Facilitator](https://medium.com/nick-tune-tech-strategy-blog/from-consultant-to-facilitator-ab79a5b883ad)
+- [Natalie Rothfels, Karen Sun - Why Engineers Should Invest in Decision-Making Skills Early](https://www.reforge.com/blog/technical-decision-making)
+
+### Distributed Systems
+- [Airhacks.fm with Gunnnar Morling - Kafka Connect CLI, JFR Unit, OSS Archetypes and JPMS](https://adambien.blog/roller/abien/entry/kafka_connect_cli_jfr_unit)
+
+### Databases
+- [Pavel "Xemul" Emelyanov - The Taming of the B-Trees](https://www.scylladb.com/2021/11/23/the-taming-of-the-b-trees/)
+- [GitHub - Trilogy is a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding](https://github.com/github/trilogy)
+- [Aaron Francis - Efficient Pagination Using Deferred Joins](https://aaronfrancis.com/2022/efficient-pagination-using-deferred-joins)
+- [Damian Widera - Quantum Computing Explained With Demos!](https://www.youtube.com/watch?v=Cp-dYDxY7Lw)
+
+### API
+- [Matthew Reinbold - 5 Tips for a Game-Changing API Design Review](https://blog.postman.com/5-tips-for-game-changing-api-design-review/)
+- [InfoQ - GraphQL Reference Guide: Building Flexible and Understandable APIs](https://www.infoq.com/articles/GraphQL-ultimate-guide/?utm_source=twitter&utm_medium=link&utm_campaign=calendar)
+
+### Frontend
+- [Angular - Discontinued Long Term Support for AngularJS](https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a)
+
+### .NET
+- [Gérald Barré - Custom certificate validation in .NET](https://www.meziantou.net/custom-certificate-validation-in-dotnet.htm)
+- [Andrey Akinshin - Posts about Research: P² quantile estimator](https://aakinshin.net/tags/research-p2qe/)
+- [Andrew Lock - Series: Creating a source generator](https://andrewlock.net/series/creating-a-source-generator/)
+- [F# - FSharp.UMX - F# units of measure for primitive non-numeric types](https://github.com/fsprojects/FSharp.UMX)
+
+### Coding Life
+- [Ela Mościcka - Questions to ask in a job interview](https://elaintech.com/2021/10/18/questions-to-ask-in-a-job-interview/)
+
+### Tools
+- [Etienne Baudoux - DevToys - A Swiss Army knife for developers on Windows 11](https://devtoys.app/)
+- [FullStory - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers](https://github.com/fullstorydev/grpcurl)
+
+### Coding Life
+- [Wikipedia - Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree)
+
+### Management
+- [Aleix Morgadas - Designing an Engineering Strategy. Part I](https://learnings.aleixmorgadas.dev/p/designing-an-engineering-strategy)
+
+### Industry
+- [Wired - Europe's Move Against Google Analytics Is Just the Beginning](https://www.wired.co.uk/article/google-analytics-europe-austria-privacy-shield)
+
+### Trivia
+- [Jonathan Jarry - The Dunning-Kruger Effect Is Probably Not Real](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
+- [David Ebbo - Solving Wordle from 'spoiler free' tweets](https://github.com/davidebbo/WordleReverseSolver/wiki/Solving-Wordle-from-'spoiler-free'-tweets)
