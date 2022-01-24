@@ -22,8 +22,8 @@
     - [.NET Hot Reload removal backslash](#net-hot-reload-removal-backslash)
     - [WebAssembly](#webassembly)
   - [Coding Life](#coding-life)
-    - [Management](#management)
-    - [Product Design](#product-design)
+  - [Management](#management)
+  - [Product Design](#product-design)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [TypeScript](#typescript)
@@ -51,6 +51,9 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Troy Hunt - How I Got Pwned by My Cloud Costs](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
+- [Nick Tune - From Consultant to Facilitator](https://medium.com/nick-tune-tech-strategy-blog/from-consultant-to-facilitator-ab79a5b883ad)
+- [Natalie Rothfels, Karen Sun - Why Engineers Should Invest in Decision-Making Skills Early](https://www.reforge.com/blog/technical-decision-making)
 - [Tom Glib - 10 Suggested Principles for Human Factors Systems Engineering](https://www.gilb.com/10-Suggested-Principles-for-Human-Factors-Systems-Engineering)
 - [Best of JS - 2021 JavaScript Rising Stars](https://risingstars.js.org/2021/en)
 - [David Boyne - Introducing EventCatalog](https://www.boyney.io/blog/2022-01-11-introducing-eventcatalog)
@@ -327,6 +330,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Airhacks.fm with Gunnnar Morling - Kafka Connect CLI, JFR Unit, OSS Archetypes and JPMS](https://adambien.blog/roller/abien/entry/kafka_connect_cli_jfr_unit)
 - [Pat Helland - Decoupled Transactions: Low Tail Latency Online Transactions Atop Jittery Servers](http://cidrdb.org/cidr2022/papers/p5-helland.pdf)
 - [Leslie Lamport - Time, Clocks, and the Ordering of Events in a Distributed System](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 - [Bartosz Sypytkowski - Behind collaborative text editing](https://www.youtube.com/watch?v=hJAf7v6CMlQ)
@@ -541,6 +545,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Angular - Discontinued Long Term Support for AngularJS](https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a)
 - [Bleeping Computer - Dev corrupts NPM libs 'colors' and 'faker' breaking thousands of apps](https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/)
 - [Vitalii Shevchuk - Build a Beautiful TikTok Clone with Angular and Micro Frontend](https://javascript.plainenglish.io/building-beautiful-tiktok-clone-with-angular-and-micro-frontend-part-1-bdd189425695)
 - [Cédric Exbrayat - What's new in Angular 13?](https://blog.ninja-squad.com/2021/11/03/what-is-new-angular-13.0/)
@@ -617,6 +622,8 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [Matthew Reinbold - 5 Tips for a Game-Changing API Design Review](https://blog.postman.com/5-tips-for-game-changing-api-design-review/)
+- [InfoQ - GraphQL Reference Guide: Building Flexible and Understandable APIs](https://www.infoq.com/articles/GraphQL-ultimate-guide/?utm_source=twitter&utm_medium=link&utm_campaign=calendar)
 - [Zalando - RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/#)
 - [Sinclair Target - Roy Fielding's Misappropriated REST Dissertation](https://twobithistory.org/2020/06/28/rest.html?s=09)
 - [Matthias Biehl - A Lifecycle Approach to API Versioning](https://nordicapis.com/a-lifecycle-approach-to-api-versioning/)
@@ -633,6 +640,10 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Pavel "Xemul" Emelyanov - The Taming of the B-Trees](https://www.scylladb.com/2021/11/23/the-taming-of-the-b-trees/)
+- [GitHub - Trilogy is a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding](https://github.com/github/trilogy)
+- [Aaron Francis - Efficient Pagination Using Deferred Joins](https://aaronfrancis.com/2022/efficient-pagination-using-deferred-joins)
+- [Damian Widera - Quantum Computing Explained With Demos!](https://www.youtube.com/watch?v=Cp-dYDxY7Lw)
 - [Dimitri Fontaine - pgcopydb - Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids)](https://github.com/dimitri/pgcopydb)
 - [Rob Tomlin - Working with a JSONB Array of Objects in PostgreSQL](https://bobtomlin-70659.medium.com/)
 - [Vlad Mihalcea - Single-Primary Database Replication](https://vladmihalcea.com/single-primary-database-replication/)
@@ -768,6 +779,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Gérald Barré - Custom certificate validation in .NET](https://www.meziantou.net/custom-certificate-validation-in-dotnet.htm)
+- [Andrey Akinshin - Posts about Research: P² quantile estimator](https://aakinshin.net/tags/research-p2qe/)
+- [Andrew Lock - Series: Creating a source generator](https://andrewlock.net/series/creating-a-source-generator/)
+- [F# - FSharp.UMX - F# units of measure for primitive non-numeric types](https://github.com/fsprojects/FSharp.UMX)
 - [Duende - Fair Trade Software License](https://blog.duendesoftware.com/posts/20220111_fair_trade)
 - [Stryker.NET - Mutation testing for .NET core and .NET framework!](https://github.com/stryker-mutator/stryker-net)
 - [OpenTelemetry .NET Contrib - Set of components extending functionality of the OpenTelemetry .NET SDK](https://github.com/open-telemetry/opentelemetry-dotnet-contrib)
@@ -1071,6 +1086,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Wikipedia - Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree)
+- [Ela Mościcka - Questions to ask in a job interview](https://elaintech.com/2021/10/18/questions-to-ask-in-a-job-interview/)
 - [Usborne - Offer free pdfs of Classic 1980s books to download](https://usborne.com/gb/books/computer-and-coding-books)
 - [Dan Lines - The Pull Request Paradox: Merge Faster by Promoting Your PR](https://dzone.com/articles/the-pull-request-paradox-merge-faster-by-promoting)
 - [Austin Z. Henley - A theory of how developers seek information](https://web.eecs.utk.edu/~azh/blog/informationforaging.html)
@@ -1195,7 +1212,8 @@
 - [Dominik Jeske - Pull Requests](https://dominikjeske.github.io/pull-requests)
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
-### Management
+## Management
+- [Aleix Morgadas - Designing an Engineering Strategy. Part I](https://learnings.aleixmorgadas.dev/p/designing-an-engineering-strategy)
 - [DScout - The Corporate Playbooks Used to Combat Organizational Trauma (And Why They're Not Enough)](https://dscout.com/people-nerds/organizational-trauma)
 - [Jade Rubick - Great engineering teams focus on milestones instead of projects](https://www.rubick.com/milestones-not-projects/)
 - [Niels Pflaeging - Org Physics: The 3 faces of every company](https://nielspflaeging.medium.com/org-physics-the-3-faces-of-every-company-df16025f65f8)
@@ -1216,7 +1234,7 @@
 - [Tracy Bower - Empathy Is The Most Important Leadership Skill According To Research](https://www.forbes.com/sites/tracybrower/2021/09/19/empathy-is-the-most-important-leadership-skill-according-to-research)
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
-### Product Design
+## Product Design
 - [Oleksandr Sukholeyster - Task-Driven User Interfaces](https://www.uxmatters.com/mt/archives/2014/12/task-driven-user-interfaces.php)
 - [Sumit Gulwani - The Story of the Flash Fill Feature in Excel](https://blog.sigplan.org/2021/09/14/the-story-of-the-flash-fill-feature-in-excel/)
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
@@ -1330,6 +1348,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Wired - Europe's Move Against Google Analytics Is Just the Beginning](https://www.wired.co.uk/article/google-analytics-europe-austria-privacy-shield)
 - [Nicholas Weaver - The Web3 Fraud](https://www.usenix.org/publications/loginonline/web3-fraud)
 - [Mark Burgess - Blockchain Technology and its Applications A Promise Theory view](http://markburgess.org/BlockchPromises.pdf)
 - [Tim O’Reilly - Why it’s too early to get excited about Web3](https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/)
@@ -1454,6 +1473,8 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Etienne Baudoux - DevToys - A Swiss Army knife for developers on Windows 11](https://devtoys.app/)
+- [FullStory - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers](https://github.com/fullstorydev/grpcurl)
 - [Nick Comer - Using a mild Twitter addiction to actually get things done](https://nick.comer.io/post/ios-shortcuts)
 - [Backstage - An open platform for building developer portals](https://backstage.io)
 - [Mary Branscombe - How to visualise security and threat information in Microsoft Power BI](https://www.techrepublic.com/article/how-to-visualise-security-and-threat-information-in-power-bi/)
@@ -1566,6 +1587,8 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Jonathan Jarry - The Dunning-Kruger Effect Is Probably Not Real](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
+- [David Ebbo - Solving Wordle from 'spoiler free' tweets](https://github.com/davidebbo/WordleReverseSolver/wiki/Solving-Wordle-from-'spoiler-free'-tweets)
 - [Wired - How a 'NULL' License Plate Landed One Hacker in Ticket Hell](https://www.wired.com/story/null-license-plate-landed-one-hacker-ticket-hell/)
 - [Mechanical Computer (All Parts) - Basic Mechanisms In Fire Control Computers](https://www.youtube.com/watch?v=s1i-dnAH9Y4)
 - [Which Face Is Real? - Seeing through the illusions of a fabricated world](https://www.whichfaceisreal.com/)
