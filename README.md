@@ -24,6 +24,65 @@ There are two rules:
 
 -------
 
+## [31st January 2022](per-week/2022-01-31.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+### Architecture
+- [Mauro Servienti - Let's get logical! On logical and physical architectural views](https://milestone.topics.it/2022/01/25/lets-get-logical.html)
+- [Designing Tinder](http://highscalability.com/blog/2022/1/17/designing-tinder.html)
+- [Ted Newart - 2022 Tech Predictions](http://blogs.tedneward.com/post/2022-tech-predictions/)
+- [Netflix Tech Blog - Fixing Performance Regressions Before they Happen](https://netflixtechblog.com/fixing-performance-regressions-before-they-happen-eab2602b86fe)
+- [InfoQ - The Major Software Industry Trends from 2021 and What to Watch in 2022](https://www.infoq.com/articles/summary-podcast-2021-review)
+- [W. Ptak, E. Damiani, L. Sartoni, A. Brandolini - Collaborative asynchronous communication](https://www.youtube.com/watch?v=9zrmmauQF3I)
+
+### DevOps
+- [LocalStack - fully functional local cloud stack, which provides an easy-to-use test/mocking framework](https://localstack.cloud/)
+- [Rancher Desktop - provides Kubernetes and container management on the desktop](https://rancherdesktop.io/)
+- [HoneyPot - Kubernetes the Documentary part 1](https://www.youtube.com/watch?v=BE77h7dmoQU)
+- [HoneyPot - Kubernetes the Documentary part 2](https://www.youtube.com/watch?v=318elIq37PE)
+- [Vladislav Supalov - Docker ARG, ENV and .env - a Complete Guide](https://vsupalov.com/docker-arg-env-variable-guide/)
+
+### API
+- [Postman - Postman Now Supports gRPC](https://blog.postman.com/postman-now-supports-grpc/)
+
+### Frontend
+- [Ryan Carniato - The Return of Server Side Routing](https://dev.to/this-is-learning/the-return-of-server-side-routing-b05)
+
+### Low Level
+- [Jane Street - Magic-trace: Diagnosing tricky performance issues easily with Intel Processor Trace](https://blog.janestreet.com/magic-trace/)
+
+### C++
+- [Jonathan Müller - Technique: Compile Time Code Generation and Optimization](https://www.foonathan.net/2022/01/compile-time-codegen/)
+
+### .NET
+- [Khalid Abuhakmeh - ASP.NET Core image gallery with Marten, ImageSharp, and HTMX](https://github.com/khalidabuhakmeh/Image-Gallery)
+- [Andrew Lock - Reducing initial request latency by pre-building services in a startup task in ASP.NET Core](https://andrewlock.net/reducing-latency-by-pre-building-singletons-in-asp-net-core/)
+- [Tomasz Maruszak - SlimCluster - Consensus (Raft) and Memberlist (SWIM) implementation for .NET micro-services](https://github.com/zarusz/SlimCluster)
+- [.NET Blog - Performance improvements in ASP.NET Core 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-6)
+
+### PHP
+- [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
+
+### Scala
+- [Jakub Cichy - Hands-on Kafka Streams in Scala](https://softwaremill.com/hands-on-kafka-streams-in-scala/)
+
+### Tools
+- [Jason Williams - Speeding up VSCode (extensions) in 2022](https://jason-williams.co.uk/speeding-up-vscode-extensions-in-2022)
+
+### Management
+- [Jeremy D. Miller - Creating the Conditions for Developer Happiness](https://jeremydmiller.com/2022/01/27/creating-the-conditions-for-developer-happiness/)
+
+### Coding Life
+- [Phillip Carter - Big (tech) company bullshit](https://phillipcarter.dev/posts/big-company-bullshit/)
+
+### Industry
+- [Tim O'Reilly - Andy Warhol, Clay Christensen, and Vitalik Buterin walk into a bar](https://www.oreilly.com/radar/andy-warhol-clay-christensen-and-vitalik-buterin-walk-into-a-bar)
+- [Emma Irvin - How We're Making Code of Conduct Enforcement Real — and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415)
+
+### Security
+- [TechTarget - DeadBolt ransomware targeting QNAP NAS storage devices](https://www.techtarget.com/searchsecurity/news/252512518/DeadBolt-ransomware-targeting-QNAP-NAS-storage-devices)
+
+-------
+
 ## [24th January 2022](per-week/2022-01-24.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture
@@ -132,7 +191,7 @@ There are two rules:
 - [Derek Comartin - Don't Let the Internet Dupe You, that's NOT Event Sourcing](https://www.youtube.com/watch?v=Y7ca1--EKsg)
 - [Unmesh Joshi - Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems)
 - [Mews - Are we migrating to microservices and should you?](https://developers.mews.com/are-we-migrating-to-microservices-and-should-you/)
-- [Shopify - Under Deconstruction: The State of Shopify’s Monolith](https://shopify.engineering/shopify-monolith)
+- [Shopify - Under Deconstruction: The State of Shopify's Monolith](https://shopify.engineering/shopify-monolith)
 
 ### Distributed Systems
 - [Jaroslaw Kijanowski - Comparing Apache Kafka and Apache Pulsar](https://blog.softwaremill.com/comparing-apache-kafka-and-apache-pulsar-3bd44e00f304)
@@ -191,7 +250,7 @@ There are two rules:
 - [Bartosz Ocytko - Driving change: why are your ideas being rejected?](https://medium.com/@bocytko/driving-change-why-are-your-ideas-being-rejected-e2ab96227e40)
 
 ### Distributed Systems
-- [Talia Nassi - What’s new in serverless](https://www.youtube.com/watch?v=_8mbJ3PGVUk)
+- [Talia Nassi - What's new in serverless](https://www.youtube.com/watch?v=_8mbJ3PGVUk)
 
 ### DevOps
 - [Microsoft - DevOps Dojo](https://devblogs.microsoft.com/devops/devops-dojo-experiential-learning/)
@@ -230,7 +289,7 @@ There are two rules:
 - [Wired - How a 'NULL' License Plate Landed One Hacker in Ticket Hell](https://www.wired.com/story/null-license-plate-landed-one-hacker-ticket-hell/)
 - [Mechanical Computer (All Parts) - Basic Mechanisms In Fire Control Computers](https://www.youtube.com/watch?v=s1i-dnAH9Y4)
 - [Which Face Is Real? - Seeing through the illusions of a fabricated world](https://www.whichfaceisreal.com/)
-- [Jared A. Brock - No, You Don’t Have to Wake Up at 5 AM in Order to Be Wildly Successful](https://medium.com/in-fitness-and-in-health/no-you-dont-have-to-wake-up-at-5-am-in-order-to-be-wildly-successful-5b7da6cc7f3b)
+- [Jared A. Brock - No, You Don't Have to Wake Up at 5 AM in Order to Be Wildly Successful](https://medium.com/in-fitness-and-in-health/no-you-dont-have-to-wake-up-at-5-am-in-order-to-be-wildly-successful-5b7da6cc7f3b)
 
 -------
 
@@ -270,13 +329,13 @@ There are two rules:
 - [Ken Kousen - Help Your Boss Help You. Convert Conflict Into Opportunities](https://pragprog.com/titles/kkmanage/help-your-boss-help-you/)
 
 ### Management
-- [Amy Diehl - When People Assume You’re Not In Charge Because You’re a Woman](https://hbr.org/2021/12/when-people-assume-youre-not-in-charge-because-youre-a-woman)
+- [Amy Diehl - When People Assume You're Not In Charge Because You're a Woman](https://hbr.org/2021/12/when-people-assume-youre-not-in-charge-because-youre-a-woman)
 - [Amy Edmondson - How to turn a group of strangers into a team](https://www.youtube.com/watch?v=3boKz0Exros)
 
 ### Industry
 - [Nicholas Weaver - The Web3 Fraud](https://www.usenix.org/publications/loginonline/web3-fraud)
 - [Mark Burgess - Blockchain Technology and its Applications A Promise Theory view](http://markburgess.org/BlockchPromises.pdf)
-- [Tim O’Reilly - Why it’s too early to get excited about Web3](https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/)
+- [Tim O'Reilly - Why it's too early to get excited about Web3](https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/)
 
 ### Security
 - [Victor Grenu - The day when the AWS Support got access to your S3 data (Twitter thread)](https://twitter.com/zoph/status/1473991530712952833?s=21)
@@ -337,7 +396,7 @@ There are two rules:
 
 ### Management
 - [Mike Hadlow - Coconut Headphones: Why Agile Has Failed](http://mikehadlow.blogspot.com/2014/03/coconut-headphones-why-agile-has-failed.html)
-- [Dave Bailey - A Manager’s Guide to Holding Your Team Accountable](https://medium.dave-bailey.com/a-manager-guide-to-holding-your-team-accountable-a05aac67294c)
+- [Dave Bailey - A Manager's Guide to Holding Your Team Accountable](https://medium.dave-bailey.com/a-manager-guide-to-holding-your-team-accountable-a05aac67294c)
 
 ### Industry
 - [Erik Gibbs - Gaming Companies Turn to Girls Who Code to Find Top Techies](https://www.gamblingnews.com/news/gaming-companies-turn-to-girls-who-code-to-find-top-techies/)
@@ -378,7 +437,7 @@ There are two rules:
 ### .NET
 - [Clifford Agius - Connect an ESP32 To Azure IoT Hub with NanoFramework using DotNet and C#](https://www.cliffordagius.co.uk/post/connectesp32toiothub/)
 - [Jeffrey T. Fritz - Completed samples from my session with Scott Hunter discussing the Minimal Approach to .NET 6](https://github.com/csharpfritz/MinimalDotNet6)
-- [.NET Blog - What’s new for gRPC in .NET 6](https://devblogs.microsoft.com/dotnet/grpc-in-dotnet-6/)
+- [.NET Blog - What's new for gRPC in .NET 6](https://devblogs.microsoft.com/dotnet/grpc-in-dotnet-6/)
 - [Microsoft - Fast Blazor - A lightweight wrapper around Microsoft's official FluentUI Web Components for use with .NET 6.0 Razor views.](https://www.fast.design/)
 - [Damien Guard - Migrating from OpenTracing.NET to OpenTelemetry.NET](https://damieng.com/blog/2021/11/29/migrating-from-opentracing-to-opentelemetry/)
 
@@ -494,7 +553,7 @@ There are two rules:
 ### .NET
 - [Konrad Kokosa - Configuring dotnet-monitor with Prometheus and Grafana](https://dotnetos.org/blog/2021-11-22-dotnet-monitor-grafana/)
 - [Robert Krzaczyński - Anomaly Detection Using ML.NET](https://www.infoq.com/articles/anomaly-detection-ml-net)
-- [.NET Blog - Azure Active Directory’s gateway is on .NET 6.0!](https://devblogs.microsoft.com/dotnet/azure-active-directorys-gateway-is-on-net-6-0/)
+- [.NET Blog - Azure Active Directory's gateway is on .NET 6.0!](https://devblogs.microsoft.com/dotnet/azure-active-directorys-gateway-is-on-net-6-0/)
 - [Alex Yakunin - .NET 6 vs .NET 5: up to 40% speedup!](https://alexyakunin.medium.com/net-6-vs-net-5-up-to-40-speedup-ceca9112d298)
 - [.NET Blog - Infer# v1.2: Interprocedural Memory Safety Analysis For C#](https://devblogs.microsoft.com/dotnet/infer-v1-2-interprocedural-memory-safety-analysis-for-c/)
 
@@ -568,7 +627,7 @@ There are two rules:
 - [DFRLab - Network of Facebook pages amplified Polish right-wing and tabloid media outlets](https://medium.com/dfrlab/network-of-facebook-pages-amplified-polish-right-wing-and-tabloid-media-outlets-ccaa218128ab)
 
 ### Security
-- [Protocol - Facebook and Apple’s privacy war is mucking up voter turnout efforts](https://www.protocol.com/policy/apple-facebook-voter-turnout)
+- [Protocol - Facebook and Apple's privacy war is mucking up voter turnout efforts](https://www.protocol.com/policy/apple-facebook-voter-turnout)
 
 ### Trivia
 - [Nikhil Agrawal - Awesome Black Friday & Cyber Monday deals - 2021](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals)
@@ -636,7 +695,7 @@ There are two rules:
 - [AWS General Reference - Error retries and exponential backoff in AWS](https://docs.aws.amazon.com/general/latest/gr/api-retries.html)
 - [Vernan Vaughn - Architecture vs Model](https://vlingo.io/architecture-vs-model/)
 - [Eric Evans - What is DDD](https://www.youtube.com/watch?v=pMuiVlnGqjk)
-- [Kenny Baas Schwegler - Crunching ‘real-life stories’ with DDD EventStorming and combining it with BDD techniques](https://vimeo.com/299167345)
+- [Kenny Baas Schwegler - Crunching ‘real-life stories' with DDD EventStorming and combining it with BDD techniques](https://vimeo.com/299167345)
 
 ### Distributed Systems
 - [Messaging on Azure Blog - Announcing Azure Schema Registry in Azure Event Hubs](https://techcommunity.microsoft.com/t5/messaging-on-azure/announcing-azure-schema-registry-in-azure-event-hubs-ga/ba-p/2911895)
@@ -788,7 +847,7 @@ There are two rules:
 ### Industry
 - [Jason Kint - Google and Facebook antitrust lawsuit](https://twitter.com/jason_kint/status/1451579045246820355)
 - [The Verge - Trump's social network has 30 days to stop breaking the rules of its software license](https://www.theverge.com/2021/10/22/22740354/trump-truth-social-network-spac-mastodon-license-software-freedom-conservancy)
-- [Vice - 4 NFT Projects Took Investors’ Money and Disappeared in One Day](https://www.vice.com/amp/en/article/xgxnew/4-nft-projects-took-investors-money-and-disappeared-in-one-day)
+- [Vice - 4 NFT Projects Took Investors' Money and Disappeared in One Day](https://www.vice.com/amp/en/article/xgxnew/4-nft-projects-took-investors-money-and-disappeared-in-one-day)
 
 -------
 
@@ -995,7 +1054,7 @@ There are two rules:
 - [Gravizo - Your Graphviz, UMLGraph or PlantUML for your README](http://www.gravizo.com/)
 
 ### Security
-- [Geoffrey Huntley - COVIDSafe: Australia’s digital contact tracing failure](https://ghuntley.com/covidsafe/)
+- [Geoffrey Huntley - COVIDSafe: Australia's digital contact tracing failure](https://ghuntley.com/covidsafe/)
 - [Journal of Responsible Technology - Prying eyes and ears](https://www.journals.elsevier.com/journal-of-responsible-technology/highlighted-articles/prying-eyes-and-ears)
 
 ### Management
@@ -1027,7 +1086,7 @@ There are two rules:
 - [Gregory Young - How an EventStore actually works](https://www.youtube.com/watch?v=YUjO1wM0PZM)
 - [Jon Gjengset - Rust at speed — building a fast concurrent database](https://www.youtube.com/watch?v=s19G6n0UjsM)
 - [Krithika Balagurunathan - 4 Reasons Why Your Database Should Be Multiregion](https://thenewstack.io/4-reasons-why-your-database-should-be-multiregion/)
-- [Percona - BRIN Index for PostgreSQL: Don’t Forget the Benefits](https://www.percona.com/blog/2019/07/16/brin-index-for-postgresql-dont-forget-the-benefits/)
+- [Percona - BRIN Index for PostgreSQL: Don't Forget the Benefits](https://www.percona.com/blog/2019/07/16/brin-index-for-postgresql-dont-forget-the-benefits/)
 - [Postgres - Trademark Actions Against the PostgreSQL Community](https://www.postgresql.org/about/news/trademark-actions-against-the-postgresql-community-2302/)
 - [Fundación PostgreSQL - Postgres Core Team launches unprecedented attack against the Postgres Community](https://postgresql.fund/blog/postgres-core-team-attacks-postgres-community/)
 

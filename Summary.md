@@ -33,6 +33,7 @@
   - [Haskell](#haskell)
   - [Go](#go)
   - [Kotlin](#kotlin)
+  - [PHP](#php)
   - [Rust](#rust)
   - [Scala](#scala)
   - [Swift](#swift)
@@ -51,6 +52,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Mauro Servienti - Let's get logical! On logical and physical architectural views](https://milestone.topics.it/2022/01/25/lets-get-logical.html)
+- [Designing Tinder](http://highscalability.com/blog/2022/1/17/designing-tinder.html)
+- [Ted Newart - 2022 Tech Predictions](http://blogs.tedneward.com/post/2022-tech-predictions/)
+- [Netflix Tech Blog - Fixing Performance Regressions Before they Happen](https://netflixtechblog.com/fixing-performance-regressions-before-they-happen-eab2602b86fe)
+- [InfoQ - The Major Software Industry Trends from 2021 and What to Watch in 2022](https://www.infoq.com/articles/summary-podcast-2021-review)
+- [W. Ptak, E. Damiani, L. Sartoni, A. Brandolini - Collaborative asynchronous communication](https://www.youtube.com/watch?v=9zrmmauQF3I)
 - [Troy Hunt - How I Got Pwned by My Cloud Costs](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
 - [Nick Tune - From Consultant to Facilitator](https://medium.com/nick-tune-tech-strategy-blog/from-consultant-to-facilitator-ab79a5b883ad)
 - [Natalie Rothfels, Karen Sun - Why Engineers Should Invest in Decision-Making Skills Early](https://www.reforge.com/blog/technical-decision-making)
@@ -62,7 +69,7 @@
 - [Derek Comartin - Don't Let the Internet Dupe You, that's NOT Event Sourcing](https://www.youtube.com/watch?v=Y7ca1--EKsg)
 - [Unmesh Joshi - Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems)
 - [Mews - Are we migrating to microservices and should you?](https://developers.mews.com/are-we-migrating-to-microservices-and-should-you/)
-- [Shopify - Under Deconstruction: The State of Shopify’s Monolith](https://shopify.engineering/shopify-monolith)
+- [Shopify - Under Deconstruction: The State of Shopify's Monolith](https://shopify.engineering/shopify-monolith)
 - [Derek Comartin - CRUD API + Complexity = Death by a 1000 Papercuts](https://www.youtube.com/watch?v=kalD8TcRBCc)
 - [GitHub - The State of the Octoverse 2021](https://octoverse.github.com/)
 - [Mauro Servienti - Is it complex? Break it down!](https://milestone.topics.it/2022/01/03/is-it-complex-break-it-down.html)
@@ -105,7 +112,7 @@
 - [AWS General Reference - Error retries and exponential backoff in AWS](https://docs.aws.amazon.com/general/latest/gr/api-retries.html)
 - [Vernan Vaughn - Architecture vs Model](https://vlingo.io/architecture-vs-model/)
 - [Eric Evans - What is DDD](https://www.youtube.com/watch?v=pMuiVlnGqjk)
-- [Kenny Baas Schwegler - Crunching ‘real-life stories’ with DDD EventStorming and combining it with BDD techniques](https://vimeo.com/299167345)
+- [Kenny Baas Schwegler - Crunching ‘real-life stories' with DDD EventStorming and combining it with BDD techniques](https://vimeo.com/299167345)
 - [Ardalis - Ultimate New Software Project Decision Checklist](https://github.com/ardalis/new-software-project-checklist)
 - [Luca Palmieri - How we evaluate and adopt new technology](https://truelayer.com/blog/how-we-evaluate-and-adopt-new-technology)
 - [Yves Reynhout - The Waiting List Pattern](https://blog.bittacklr.be/the-waiting-list-pattern.html)
@@ -338,7 +345,7 @@
 - [Splunk - Comparing Pulsar and Kafka: Unified Queuing and Streaming](https://www.splunk.com/en_us/blog/it/comparing-pulsar-and-kafka-unified-queuing-and-streaming.html)
 - [Jaroslaw Kijanowski - Comparing Apache Kafka and Apache Pulsar](https://blog.softwaremill.com/comparing-apache-kafka-and-apache-pulsar-3bd44e00f304)
 - [Tom Gregory - 3 surprising facts about AWS SQS FIFO queues](https://tomgregory.com/3-surprising-facts-about-aws-sqs-fifo-queues/)
-- [Talia Nassi - What’s new in serverless](https://www.youtube.com/watch?v=_8mbJ3PGVUk)
+- [Talia Nassi - What's new in serverless](https://www.youtube.com/watch?v=_8mbJ3PGVUk)
 - [The Netflix Blog - Towards a Reliable Device Management Platform](https://netflixtechblog.com/towards-a-reliable-device-management-platform-4f86230ca623)
 - [AWS Architecture Blog - Overview of Data Transfer Costs for Common Architectures](https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/)
 - [Pierre Cavalet - Build a personalized newsletter with AWS cloud services and ElasticSearch](https://medium.com/kaliop/build-a-personalized-newsletter-with-aws-cloud-services-and-elasticsearch-8d655f340594)
@@ -484,6 +491,11 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [LocalStack - fully functional local cloud stack, which provides an easy-to-use test/mocking framework](https://localstack.cloud/)
+- [Rancher Desktop - provides Kubernetes and container management on the desktop](https://rancherdesktop.io/)
+- [HoneyPot - Kubernetes the Documentary part 1](https://www.youtube.com/watch?v=BE77h7dmoQU)
+- [HoneyPot - Kubernetes the Documentary part 2](https://www.youtube.com/watch?v=318elIq37PE)
+- [Vladislav Supalov - Docker ARG, ENV and .env - a Complete Guide](https://vsupalov.com/docker-arg-env-variable-guide/)
 - [Eric Murphy - Run a Google Kubernetes Engine Cluster for Under $25/Month](https://thenewstack.io/run-a-google-kubernetes-engine-cluster-for-under-25-month/)
 - [Super-Linter - simple combination of various linters, written in bash, to help validate your source code in GitHub Actions as a part of continuous integration](https://github.com/marketplace/actions/super-linter)
 - [asciinema - record and share your terminal sessions, the right way](https://asciinema.org/)
@@ -545,6 +557,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Ryan Carniato - The Return of Server Side Routing](https://dev.to/this-is-learning/the-return-of-server-side-routing-b05)
 - [Angular - Discontinued Long Term Support for AngularJS](https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a)
 - [Bleeping Computer - Dev corrupts NPM libs 'colors' and 'faker' breaking thousands of apps](https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/)
 - [Vitalii Shevchuk - Build a Beautiful TikTok Clone with Angular and Micro Frontend](https://javascript.plainenglish.io/building-beautiful-tiktok-clone-with-angular-and-micro-frontend-part-1-bdd189425695)
@@ -622,6 +635,7 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [Postman - Postman Now Supports gRPC](https://blog.postman.com/postman-now-supports-grpc/)
 - [Matthew Reinbold - 5 Tips for a Game-Changing API Design Review](https://blog.postman.com/5-tips-for-game-changing-api-design-review/)
 - [InfoQ - GraphQL Reference Guide: Building Flexible and Understandable APIs](https://www.infoq.com/articles/GraphQL-ultimate-guide/?utm_source=twitter&utm_medium=link&utm_campaign=calendar)
 - [Zalando - RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/#)
@@ -667,7 +681,7 @@
 - [Gregory Young - How an EventStore actually works](https://www.youtube.com/watch?v=YUjO1wM0PZM)
 - [Jon Gjengset - Rust at speed — building a fast concurrent database](https://www.youtube.com/watch?v=s19G6n0UjsM)
 - [Krithika Balagurunathan - 4 Reasons Why Your Database Should Be Multiregion](https://thenewstack.io/4-reasons-why-your-database-should-be-multiregion/)
-- [Percona - BRIN Index for PostgreSQL: Don’t Forget the Benefits](https://www.percona.com/blog/2019/07/16/brin-index-for-postgresql-dont-forget-the-benefits/)
+- [Percona - BRIN Index for PostgreSQL: Don't Forget the Benefits](https://www.percona.com/blog/2019/07/16/brin-index-for-postgresql-dont-forget-the-benefits/)
 - [Postgres - Trademark Actions Against the PostgreSQL Community](https://www.postgresql.org/about/news/trademark-actions-against-the-postgresql-community-2302/)
 - [Fundación PostgreSQL - Postgres Core Team launches unprecedented attack against the Postgres Community](https://postgresql.fund/blog/postgres-core-team-attacks-postgres-community/)
 - [Jon Udell - Postgres functional style](https://blog.jonudell.net/2021/08/21/postgres-functional-style/)
@@ -759,6 +773,7 @@
 - [InfoWorld - Simon Bisson - Jumping into Azure Arc Data Services](https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.amp.html)
 
 ## C++
+- [Jonathan Müller - Technique: Compile Time Code Generation and Optimization](https://www.foonathan.net/2022/01/compile-time-codegen/)
 - [Andrei Alexandrescu - Speed Is Found In The Minds of People](https://www.youtube.com/watch?v=FJJTYQYB1JQ)
 
 ## Clojure
@@ -779,6 +794,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Khalid Abuhakmeh - ASP.NET Core image gallery with Marten, ImageSharp, and HTMX](https://github.com/khalidabuhakmeh/Image-Gallery)
+- [Andrew Lock - Reducing initial request latency by pre-building services in a startup task in ASP.NET Core](https://andrewlock.net/reducing-latency-by-pre-building-singletons-in-asp-net-core/)
+- [Tomasz Maruszak - SlimCluster - Consensus (Raft) and Memberlist (SWIM) implementation for .NET micro-services](https://github.com/zarusz/SlimCluster)
+- [.NET Blog - Performance improvements in ASP.NET Core 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-6)
 - [Gérald Barré - Custom certificate validation in .NET](https://www.meziantou.net/custom-certificate-validation-in-dotnet.htm)
 - [Andrey Akinshin - Posts about Research: P² quantile estimator](https://aakinshin.net/tags/research-p2qe/)
 - [Andrew Lock - Series: Creating a source generator](https://andrewlock.net/series/creating-a-source-generator/)
@@ -806,7 +825,7 @@
 - [Microsoft - Orleans framework has moved over to the .NET team](https://github.com/dotnet/orleans/issues/7423#issue-1071078626)
 - [Clifford Agius - Connect an ESP32 To Azure IoT Hub with NanoFramework using DotNet and C#](https://www.cliffordagius.co.uk/post/connectesp32toiothub/)
 - [Jeffrey T. Fritz - Completed samples from my session with Scott Hunter discussing the Minimal Approach to .NET 6](https://github.com/csharpfritz/MinimalDotNet6)
-- [.NET Blog - What’s new for gRPC in .NET 6](https://devblogs.microsoft.com/dotnet/grpc-in-dotnet-6/)
+- [.NET Blog - What's new for gRPC in .NET 6](https://devblogs.microsoft.com/dotnet/grpc-in-dotnet-6/)
 - [Microsoft - Fast Blazor - A lightweight wrapper around Microsoft's official FluentUI Web Components for use with .NET 6.0 Razor views.](https://www.fast.design/)
 - [Damien Guard - Migrating from OpenTracing.NET to OpenTelemetry.NET](https://damieng.com/blog/2021/11/29/migrating-from-opentracing-to-opentelemetry/)
 - [DevMentors - Mini Course #2 Modular Monolith](https://www.youtube.com/watch?v=MkdutzVB3pY)
@@ -815,7 +834,7 @@
 - [Jeremy D. Miller - Build Automation on a Database Backed .Net System](https://jeremydmiller.com/2021/12/06/build-automation-on-a-database-backed-net-system/)
 - [Konrad Kokosa - Configuring dotnet-monitor with Prometheus and Grafana](https://dotnetos.org/blog/2021-11-22-dotnet-monitor-grafana/)
 - [Robert Krzaczyński - Anomaly Detection Using ML.NET](https://www.infoq.com/articles/anomaly-detection-ml-net)
-- [.NET Blog - Azure Active Directory’s gateway is on .NET 6.0!](https://devblogs.microsoft.com/dotnet/azure-active-directorys-gateway-is-on-net-6-0/)
+- [.NET Blog - Azure Active Directory's gateway is on .NET 6.0!](https://devblogs.microsoft.com/dotnet/azure-active-directorys-gateway-is-on-net-6-0/)
 - [Alex Yakunin - .NET 6 vs .NET 5: up to 40% speedup!](https://alexyakunin.medium.com/net-6-vs-net-5-up-to-40-speedup-ceca9112d298)
 - [.NET Blog - Infer# v1.2: Interprocedural Memory Safety Analysis For C#](https://devblogs.microsoft.com/dotnet/infer-v1-2-interprocedural-memory-safety-analysis-for-c/)
 - [DevMentors - Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8)
@@ -1086,6 +1105,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Phillip Carter - Big (tech) company bullshit](https://phillipcarter.dev/posts/big-company-bullshit/)
 - [Wikipedia - Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree)
 - [Ela Mościcka - Questions to ask in a job interview](https://elaintech.com/2021/10/18/questions-to-ask-in-a-job-interview/)
 - [Usborne - Offer free pdfs of Classic 1980s books to download](https://usborne.com/gb/books/computer-and-coding-books)
@@ -1213,14 +1233,15 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Jeremy D. Miller - Creating the Conditions for Developer Happiness](https://jeremydmiller.com/2022/01/27/creating-the-conditions-for-developer-happiness/)
 - [Aleix Morgadas - Designing an Engineering Strategy. Part I](https://learnings.aleixmorgadas.dev/p/designing-an-engineering-strategy)
 - [DScout - The Corporate Playbooks Used to Combat Organizational Trauma (And Why They're Not Enough)](https://dscout.com/people-nerds/organizational-trauma)
 - [Jade Rubick - Great engineering teams focus on milestones instead of projects](https://www.rubick.com/milestones-not-projects/)
 - [Niels Pflaeging - Org Physics: The 3 faces of every company](https://nielspflaeging.medium.com/org-physics-the-3-faces-of-every-company-df16025f65f8)
-- [Amy Diehl - When People Assume You’re Not In Charge Because You’re a Woman](https://hbr.org/2021/12/when-people-assume-youre-not-in-charge-because-youre-a-woman)
+- [Amy Diehl - When People Assume You're Not In Charge Because You're a Woman](https://hbr.org/2021/12/when-people-assume-youre-not-in-charge-because-youre-a-woman)
 - [Amy Edmondson - How to turn a group of strangers into a team](https://www.youtube.com/watch?v=3boKz0Exros)
 - [Mike Hadlow - Coconut Headphones: Why Agile Has Failed](http://mikehadlow.blogspot.com/2014/03/coconut-headphones-why-agile-has-failed.html)
-- [Dave Bailey - A Manager’s Guide to Holding Your Team Accountable](https://medium.dave-bailey.com/a-manager-guide-to-holding-your-team-accountable-a05aac67294c)
+- [Dave Bailey - A Manager's Guide to Holding Your Team Accountable](https://medium.dave-bailey.com/a-manager-guide-to-holding-your-team-accountable-a05aac67294c)
 - [Dorian Taylor - Agile as Trauma](https://doriantaylor.com/agile-as-trauma)
 - [Allen Holub - No Estimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
 - [Charles-Axel Dein - A collection of inspiring resources related to engineering management and tech leadership](https://github.com/charlax/engineering-management)
@@ -1324,6 +1345,9 @@
 ## Kotlin
 - [Simon Vergauwen - Functional Domain Modeling in Kotlin - Validation](https://www.47deg.com/blog/functional-domain-modeling-part-2/)
 
+## PHP
+- [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
+
 ## Rust
 - [Alistair Evans - Rust TCP Echo Server, for C# Devs](https://gist.github.com/alistairjevans/95894f3d2a269a667e2976a754d8d91a)
 - [ZDNet - Rust takes a major step forward as Linux's second official language](https://www.zdnet.com/article/rust-takes-a-major-step-forward-as-linuxs-second-official-language/)
@@ -1341,6 +1365,7 @@
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
 
 ## Scala
+- [Jakub Cichy - Hands-on Kafka Streams in Scala](https://softwaremill.com/hands-on-kafka-streams-in-scala/)
 - [Programming Methods Laboratory EPFL - Monadic Reflection](https://github.com/lampepfl/monadic-reflection)
 
 ## Swift
@@ -1348,10 +1373,12 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Tim O'Reilly - Andy Warhol, Clay Christensen, and Vitalik Buterin walk into a bar](https://www.oreilly.com/radar/andy-warhol-clay-christensen-and-vitalik-buterin-walk-into-a-bar)
+- [Emma Irvin - How We're Making Code of Conduct Enforcement Real — and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415)
 - [Wired - Europe's Move Against Google Analytics Is Just the Beginning](https://www.wired.co.uk/article/google-analytics-europe-austria-privacy-shield)
 - [Nicholas Weaver - The Web3 Fraud](https://www.usenix.org/publications/loginonline/web3-fraud)
 - [Mark Burgess - Blockchain Technology and its Applications A Promise Theory view](http://markburgess.org/BlockchPromises.pdf)
-- [Tim O’Reilly - Why it’s too early to get excited about Web3](https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/)
+- [Tim O'Reilly - Why it's too early to get excited about Web3](https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/)
 - [Erik Gibbs - Gaming Companies Turn to Girls Who Code to Find Top Techies](https://www.gamblingnews.com/news/gaming-companies-turn-to-girls-who-code-to-find-top-techies/)
 - [The Verge - TikTok settles lawsuit with actress over its original text-to-speech voice](https://www.theverge.com/2021/9/29/22701167/bev-standing-tiktok-lawsuit-settles-text-to-speech-voice)
 - [Naaackers - TikTok is using OBS internally (Twitter Thread)](https://twitter.com/Naaackers/status/1471532514720292867)
@@ -1364,7 +1391,7 @@
 - [CNBC - Microsoft's GitHub CEO Nat Friedman is stepping down, product chief Thomas Dohmke will replace him](https://www.cnbc.com/2021/11/03/microsoft-github-ceo-nat-friedman-replaced-by-thomas-dohmke.html)
 - [Jason Kint - Google and Facebook antitrust lawsuit](https://twitter.com/jason_kint/status/1451579045246820355)
 - [The Verge - Trump's social network has 30 days to stop breaking the rules of its software license](https://www.theverge.com/2021/10/22/22740354/trump-truth-social-network-spac-mastodon-license-software-freedom-conservancy)
-- [Vice - 4 NFT Projects Took Investors’ Money and Disappeared in One Day](https://www.vice.com/amp/en/article/xgxnew/4-nft-projects-took-investors-money-and-disappeared-in-one-day)
+- [Vice - 4 NFT Projects Took Investors' Money and Disappeared in One Day](https://www.vice.com/amp/en/article/xgxnew/4-nft-projects-took-investors-money-and-disappeared-in-one-day)
 - [Vice - 4 NFT Projects Took Investors' Money and Disappeared in One Day](https://www.vice.com/amp/en/article/xgxnew/4-nft-projects-took-investors-money-and-disappeared-in-one-day)
 - [The Guardian - We are Google and Amazon workers. We condemn Project Nimbus](https://www.theguardian.com/commentisfree/2021/oct/12/google-amazon-workers-condemn-project-nimbus-israeli-military-contract)
 - [NY Times - Facebook Is Weaker Than We Knew](https://www.nytimes.com/2021/10/04/technology/facebook-files.html?smid=tw-share)
@@ -1446,6 +1473,7 @@
 - [Alex Ellis - Five years of Raspberry Pi Clusters](https://alexellisuk.medium.com/five-years-of-raspberry-pi-clusters-77e56e547875)
 
 ## Low level
+- [Jane Street - Magic-trace: Diagnosing tricky performance issues easily with Intel Processor Trace](https://blog.janestreet.com/magic-trace/)
 - [Jordan Mechner - Prince of Persia Apple II Source Codes](https://github.com/jmechner/Prince-of-Persia-Apple-II)
 - [Cliff Click - Coffee Compiler Club](https://www.youtube.com/playlist?list=PL05j31Knswhn7RLk-VKHZ6RI4e9D4d-6e)
 - [Alicja Musiał - Designing an LNA with bandpass filter for 430 Mhz – from a beginner's perspective](https://alicja.space/blog/designing-lna-with-bandpass-filter/)
@@ -1473,6 +1501,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Jason Williams - Speeding up VSCode (extensions) in 2022](https://jason-williams.co.uk/speeding-up-vscode-extensions-in-2022)
 - [Etienne Baudoux - DevToys - A Swiss Army knife for developers on Windows 11](https://devtoys.app/)
 - [FullStory - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers](https://github.com/fullstorydev/grpcurl)
 - [Nick Comer - Using a mild Twitter addiction to actually get things done](https://nick.comer.io/post/ios-shortcuts)
@@ -1512,6 +1541,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [TechTarget - DeadBolt ransomware targeting QNAP NAS storage devices](https://www.techtarget.com/searchsecurity/news/252512518/DeadBolt-ransomware-targeting-QNAP-NAS-storage-devices)
 - [Martin Bajanik - Exploiting IndexedDB API information leaks in Safari 15](https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/)
 - [Orca Security - BreakingFormation: Orca Security Research Team Discovers AWS CloudFormation Vulnerability](https://orca.security/resources/blog/aws-cloudformation-vulnerability/)
 - [Noyb - Austrian DSB: Use of Google Analytics violates "Schrems II" decision by CJEU](https://noyb.eu/en/austrian-dsb-eu-us-data-transfers-google-analytics-illegal)
@@ -1522,10 +1552,10 @@
 - [Cybereason - Logout4Shell - Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell](https://github.com/Cybereason/Logout4Shell)
 - [David Neal - An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
 - [LuemmelSec - Go away BitLocker, you´re drunk](https://luemmelsec.github.io/Go-away-BitLocker-you-are-drunk/)
-- [Protocol - Facebook and Apple’s privacy war is mucking up voter turnout efforts](https://www.protocol.com/policy/apple-facebook-voter-turnout)
+- [Protocol - Facebook and Apple's privacy war is mucking up voter turnout efforts](https://www.protocol.com/policy/apple-facebook-voter-turnout)
 - [Azure Blog - Business as usual for Azure customers despite 2.4 Tbps DDoS attack](https://azure.microsoft.com/en-us/blog/business-as-usual-for-azure-customers-despite-24-tbps-ddos-attack/)
 - [John Gruber - Company That Routes Billions of Text Messages Quietly Says It Was Hacked](https://daringfireball.net/linked/2021/10/04/syniverse-hack)
-- [Geoffrey Huntley - COVIDSafe: Australia’s digital contact tracing failure](https://ghuntley.com/covidsafe/)
+- [Geoffrey Huntley - COVIDSafe: Australia's digital contact tracing failure](https://ghuntley.com/covidsafe/)
 - [Journal of Responsible Technology - Prying eyes and ears](https://www.journals.elsevier.com/journal-of-responsible-technology/highlighted-articles/prying-eyes-and-ears)
 - [WIZ - OMIGOD: Critical Vulnerabilities in OMI Affecting Countless Azure Customers](https://www.wiz.io/blog/omigod-critical-vulnerabilities-in-omi-azure)
 - [A. Zelivansky, Y. Avrahami - What You Need to Know About Azurescape](https://www.paloaltonetworks.com/blog/2021/09/azurescape/)
@@ -1592,7 +1622,7 @@
 - [Wired - How a 'NULL' License Plate Landed One Hacker in Ticket Hell](https://www.wired.com/story/null-license-plate-landed-one-hacker-ticket-hell/)
 - [Mechanical Computer (All Parts) - Basic Mechanisms In Fire Control Computers](https://www.youtube.com/watch?v=s1i-dnAH9Y4)
 - [Which Face Is Real? - Seeing through the illusions of a fabricated world](https://www.whichfaceisreal.com/)
-- [Jared A. Brock - No, You Don’t Have to Wake Up at 5 AM in Order to Be Wildly Successful](https://medium.com/in-fitness-and-in-health/no-you-dont-have-to-wake-up-at-5-am-in-order-to-be-wildly-successful-5b7da6cc7f3b)
+- [Jared A. Brock - No, You Don't Have to Wake Up at 5 AM in Order to Be Wildly Successful](https://medium.com/in-fitness-and-in-health/no-you-dont-have-to-wake-up-at-5-am-in-order-to-be-wildly-successful-5b7da6cc7f3b)
 - [PCWorld - This 8-bit processor built in Minecraft can run its own games](https://www.pcworld.com/article/559794/8-bit-computer-processor-built-in-minecraft-can-run-its-own-games.html)
 - [ArsTechnica - A grim milestone: I maxed out the number of spammy addresses Gmail can block](https://arstechnica.com/information-technology/2021/11/a-grim-milestone-i-maxed-out-the-number-of-spammy-addresses-gmail-can-block)
 - [Ed Batista - Doing the Work (Reflection, Journaling, Dialogue)](https://www.edbatista.com/2021/06/doing-the-work-reflection-journaling-dialogue.html)
