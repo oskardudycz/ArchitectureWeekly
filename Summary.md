@@ -25,6 +25,7 @@
   - [Management](#management)
   - [Product Design](#product-design)
   - [Java](#java)
+  - [JVM](#jvm)
   - [JavaScript](#javascript)
   - [TypeScript](#typescript)
   - [NodeJS](#nodejs)
@@ -52,6 +53,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Udi Dahan - Race Conditions Don't Exist](https://udidahan.com/2010/08/31/race-conditions-dont-exist/)
+- [Gregor Hohpe - Here's why enterprise IT is so complex](https://architectelevator.com/architecture/it-complexity/)
+- [Jessica Kerr, Matthew Skeleton - Observability in Sociotechnical Systems: How to Use Telemetry Data to Inform Software and Org Design](https://www.honeycomb.io/resources/observability-in-sociotechnical-systems-emea-webinar-thanks/)
+- [The Hanselminutes podcast - New Ways to Teach Computer Science with Maria Naggaga](https://hanselminutes.com/797/new-ways-to-teach-computer-science-with-maria-naggaga)
+- [Michał 'Chlebik' Piotrowski - GC Theory](https://www.baremetaldev.com/gc-theory)
+- [Callum Linington - My Current Architecture](https://medium.com/@no1.melman10/my-current-architecture-759de1b38550)
 - [Mauro Servienti - Let's get logical! On logical and physical architectural views](https://milestone.topics.it/2022/01/25/lets-get-logical.html)
 - [Designing Tinder](http://highscalability.com/blog/2022/1/17/designing-tinder.html)
 - [Ted Newart - 2022 Tech Predictions](http://blogs.tedneward.com/post/2022-tech-predictions/)
@@ -337,6 +344,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Micro - A distributed cloud operating system](https://github.com/micro/micro)
 - [Airhacks.fm with Gunnnar Morling - Kafka Connect CLI, JFR Unit, OSS Archetypes and JPMS](https://adambien.blog/roller/abien/entry/kafka_connect_cli_jfr_unit)
 - [Pat Helland - Decoupled Transactions: Low Tail Latency Online Transactions Atop Jittery Servers](http://cidrdb.org/cidr2022/papers/p5-helland.pdf)
 - [Leslie Lamport - Time, Clocks, and the Ordering of Events in a Distributed System](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
@@ -491,6 +499,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [conventional-changelog - Generate changelogs and release notes from a project's commit messages and metadata](https://github.com/conventional-changelog/conventional-changelog)
 - [LocalStack - fully functional local cloud stack, which provides an easy-to-use test/mocking framework](https://localstack.cloud/)
 - [Rancher Desktop - provides Kubernetes and container management on the desktop](https://rancherdesktop.io/)
 - [HoneyPot - Kubernetes the Documentary part 1](https://www.youtube.com/watch?v=BE77h7dmoQU)
@@ -557,6 +566,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Microsoft - Monaco Editor - The code editor that powers VS Code](https://microsoft.github.io/monaco-editor/)
 - [Ryan Carniato - The Return of Server Side Routing](https://dev.to/this-is-learning/the-return-of-server-side-routing-b05)
 - [Angular - Discontinued Long Term Support for AngularJS](https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a)
 - [Bleeping Computer - Dev corrupts NPM libs 'colors' and 'faker' breaking thousands of apps](https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/)
@@ -654,6 +664,10 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Syed Sadat Nazrul - CAP Theorem and Distributed Database Management Systems](https://towardsdatascience.com/cap-theorem-and-distributed-database-management-systems-5c2be977950e)
+- [Martin Kleppmann - Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
+- [Canonical - Dqlite - Embeddable, replicated and fault tolerant SQL engine](https://github.com/canonical/dqlite)
+- [Emily Shea - Refactoring to single-table design in Amazon DynamoDB](https://emshea.com/post/part-1-dynamodb-single-table-design)
 - [Pavel "Xemul" Emelyanov - The Taming of the B-Trees](https://www.scylladb.com/2021/11/23/the-taming-of-the-b-trees/)
 - [GitHub - Trilogy is a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding](https://github.com/github/trilogy)
 - [Aaron Francis - Efficient Pagination Using Deferred Joins](https://aaronfrancis.com/2022/efficient-pagination-using-deferred-joins)
@@ -794,6 +808,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Wouter Huysentruit - CashFlow - Application for managing cash flows written in ASP.NET Core 6 and Angular 13 (EF Core, Apollo, GraphQL, CQRS)](https://github.com/huysentruitw/cash-flow)
+- [6 .NET Myths Dispelled — Celebrating 21 Years of .NET](https://blog.devgenius.io/6-net-myths-dispelled-celebrating-21-years-of-net-652795c2ea27)
+- [Jason Bock - AutoDeconstruct - A library that automatically adds support for object deconstruction in C#](https://github.com/JasonBock/AutoDeconstruct)
+- [Jeremy D. Miller - Batch Querying with Marten](https://jeremydmiller.com/2022/02/01/batch-querying-with-marten/)
 - [Khalid Abuhakmeh - ASP.NET Core image gallery with Marten, ImageSharp, and HTMX](https://github.com/khalidabuhakmeh/Image-Gallery)
 - [Andrew Lock - Reducing initial request latency by pre-building services in a startup task in ASP.NET Core](https://andrewlock.net/reducing-latency-by-pre-building-singletons-in-asp-net-core/)
 - [Tomasz Maruszak - SlimCluster - Consensus (Raft) and Memberlist (SWIM) implementation for .NET micro-services](https://github.com/zarusz/SlimCluster)
@@ -1098,6 +1116,8 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [The State of WebAssembly - 2021/2022](https://platform.uno/blog/the-state-of-webassembly-2021-and-2022/)
+- [Pay Attention to WebAssembly](https://harshal.sheth.io/2022/01/31/webassembly.html)
 - [Pyodide - Python with the scientific stack, compiled to WebAssembly](https://github.com/pyodide/pyodide)
 - [CNCF - Cloud Native WebAssembly](https://www.cncf.io/blog/2021/08/05/cloud-native-webassembly)
 - [Mozilla - Growing the Bytecode Alliance](https://blog.mozilla.org/blog/2021/04/28/growing-the-bytecode-alliance/)
@@ -1281,6 +1301,9 @@
 - [InfoQ - Netflix Open Sources Their Domain Graph Service Framework: GraphQL for Spring Boot](https://www.infoq.com/news/2021/02/netflix-graphql-spring-boot/)
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
+## JVM
+- [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)]
+
 ## JavaScript
 - [Codemix - babel-plugin-typecheck  - Static and runtime type checking for JavaScript in the form of a Babel plugin.](https://github.com/codemix/babel-plugin-typecheck)
 - [Ramda - A practical functional library for JavaScript programmers.](https://ramdajs.com/)
@@ -1349,6 +1372,7 @@
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
 
 ## Rust
+- [Arisey Hun - Event Sourcing in Rust](https://ariseyhun.medium.com/event-sourcing-in-rust-f9aa0f79d6c5)
 - [Alistair Evans - Rust TCP Echo Server, for C# Devs](https://gist.github.com/alistairjevans/95894f3d2a269a667e2976a754d8d91a)
 - [ZDNet - Rust takes a major step forward as Linux's second official language](https://www.zdnet.com/article/rust-takes-a-major-step-forward-as-linuxs-second-official-language/)
 - [Herbert Wolverson - Game Development with Rust](https://medium.com/pragmatic-programmers/game-development-with-rust-31147f7b6096)
@@ -1373,6 +1397,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Wired - Europe's Move Against Google Analytics Is Just the Beginning](https://www.wired.co.uk/article/google-analytics-europe-austria-privacy-shield)
 - [Tim O'Reilly - Andy Warhol, Clay Christensen, and Vitalik Buterin walk into a bar](https://www.oreilly.com/radar/andy-warhol-clay-christensen-and-vitalik-buterin-walk-into-a-bar)
 - [Emma Irvin - How We're Making Code of Conduct Enforcement Real — and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415)
 - [Wired - Europe's Move Against Google Analytics Is Just the Beginning](https://www.wired.co.uk/article/google-analytics-europe-austria-privacy-shield)
@@ -1501,6 +1526,10 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [DevToys - Swiss Army knife for developers](https://devtoys.app/)
+- [Postman - Postman Now Supports gRPC](https://blog.postman.com/postman-now-supports-grpc/)
+- [Learn Vim - Learn Vim right within VSCode. Use this extension to learn and practice your Vim skills.](https://marketplace.visualstudio.com/items?itemName=vintharas.learn-vim)
+- [David Peter - Bat - A cat(1) clone with wings](https://github.com/sharkdp/bat)
 - [Jason Williams - Speeding up VSCode (extensions) in 2022](https://jason-williams.co.uk/speeding-up-vscode-extensions-in-2022)
 - [Etienne Baudoux - DevToys - A Swiss Army knife for developers on Windows 11](https://devtoys.app/)
 - [FullStory - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers](https://github.com/fullstorydev/grpcurl)
