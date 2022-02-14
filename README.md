@@ -24,6 +24,61 @@ There are two rules:
 
 -------
 
+## [14th February 2022](per-week/2022-02-14.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+### Architecture
+- [Leslie Lamport - Learning TLA+](https://lamport.azurewebsites.net/tla/learning.html)
+- [Asbjørn Ulsberg - What's In A Model?](https://www.youtube.com/watch?v=bRjBUHRxI9g)
+- [Jan Kronquist - Don't publish Domain Events, return them!](https://blog.jayway.com/2013/06/20/dont-publish-domain-events-return-them/)
+- [Maciej "MJ" Jedrzejewski - Story 2: Call it microservices…or distributed modules?](https://meaboutsoftware.com/2022/02/07/story-2-call-it-microservices-or-distributed-modules/)
+
+### Distributed Systems
+- [Testing Microservices: How to Share Staging Environments without Tripping Over Each Other](https://blog.getambassador.io/testing-microservices-how-to-share-staging-environments-without-tripping-over-each-other-b07e393eb31c)
+
+### DevOps
+- [Carl Nygard - Compliance in a DevOps Culture](https://martinfowler.com/articles/devops-compliance.html)
+
+### FrontEnd
+- [Flutter - Announcing Flutter for Windows](https://medium.com/flutter/announcing-flutter-for-windows-6979d0d01fed)
+
+### Testing
+- [Microsoft Engineering Blog - Improving developer productivity via flaky test management](https://devblogs.microsoft.com/engineering-at-microsoft/improving-developer-productivity-via-flaky-test-management)
+
+### Java
+- [Sameer Kulkarni - How to configure Dependabot with Gradle](https://www.sameerkulkarni.de/posts/dependabot-with-gradle/)
+- [Java - JEP 359: Records](https://openjdk.java.net/jeps/359)
+- [Java - JEP 405: Record Patterns](https://openjdk.java.net/jeps/405)
+- [Java - JEP 406: Pattern Matching for switch](https://openjdk.java.net/jeps/406)
+
+### .NET
+- [Julio Casal - .NET Microservices Basics Course](https://www.youtube.com/watch?v=ByYyk8eMG6c)
+- [Mark Rendle - My 20 Years with .NET](https://rendle.dev/posts/my-20-years-with-dotnet/)
+- [Andrew Lock - NetEscapades.EnumGenerators: a source generator for enum performance](https://andrewlock.net/netescapades-enumgenerators-a-source-generator-for-enum-performance/)
+- [Microsoft Docs - Tutorial: Use feature flags in an ASP.NET Core app](https://docs.microsoft.com/en-us/azure/azure-app-configuration/use-feature-flags-dotnet-core?tabs=core5x)
+
+### Rust
+- [Amos Wenger - Some mistakes Rust doesn't catch](https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch)
+
+### TypeScript
+- [Matthew Swensen - Mastering mapped types in TypeScript](https://blog.logrocket.com/mastering-mapped-types-typescript/)
+
+### Coding Life
+- [Dodgy Coder - "Yoda Conditions", "Pokémon Exception Handling" and other programming classics](https://www.dodgycoder.net/2011/11/yoda-conditions-pokemon-exception.html)
+- [Szymon Kulec - Blaming the tools, not behaviors](https://blog.scooletz.com/2022/02/07/tools-not-behaviors)
+
+### Management
+- [Dan Hardiker, Heather Wilde - Coaching vs Mentoring -- What's the Difference?](https://www.youtube.com/watch?v=JSS8bXVn7yA)
+
+### Industry
+- [Irish Council for Civil Liberties - GDPR enforcer rules that IAB Europe’s consent popups are unlawful](https://www.iccl.ie/news/gdpr-enforcer-rules-that-iab-europes-consent-popups-are-unlawful/)
+- [City A.M. - Mark Zuckerberg and team consider shutting down Facebook and Instagram in Europe if Meta can not process Europeans’ data on US servers](https://www.cityam.com/mark-zuckerberg-and-team-consider-shutting-down-facebook-and-instagram-in-europe-if-meta-can-not-process-europeans-data-on-us-servers/)
+- [Rufus Pollock - Awesome critique of crypto/web3](https://github.com/rufuspollock/awesome-crypto-critique)
+
+### Trivia
+- [Alison Gree - The new hire who showed up is not the same person we interviewed](https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html)
+
+-------
+
 ## [7th February 2022](per-week/2022-02-07.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 ### Architecture

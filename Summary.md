@@ -53,6 +53,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Leslie Lamport - Learning TLA+](https://lamport.azurewebsites.net/tla/learning.html)
+- [Asbjørn Ulsberg - What's In A Model?](https://www.youtube.com/watch?v=bRjBUHRxI9g)
+- [Jan Kronquist - Don't publish Domain Events, return them!](https://blog.jayway.com/2013/06/20/dont-publish-domain-events-return-them/)
+- [Maciej "MJ" Jedrzejewski - Story 2: Call it microservices…or distributed modules?](https://meaboutsoftware.com/2022/02/07/story-2-call-it-microservices-or-distributed-modules/)
 - [Udi Dahan - Race Conditions Don't Exist](https://udidahan.com/2010/08/31/race-conditions-dont-exist/)
 - [Gregor Hohpe - Here's why enterprise IT is so complex](https://architectelevator.com/architecture/it-complexity/)
 - [Jessica Kerr, Matthew Skeleton - Observability in Sociotechnical Systems: How to Use Telemetry Data to Inform Software and Org Design](https://www.honeycomb.io/resources/observability-in-sociotechnical-systems-emea-webinar-thanks/)
@@ -344,6 +348,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Testing Microservices: How to Share Staging Environments without Tripping Over Each Other](https://blog.getambassador.io/testing-microservices-how-to-share-staging-environments-without-tripping-over-each-other-b07e393eb31c)
 - [Micro - A distributed cloud operating system](https://github.com/micro/micro)
 - [Airhacks.fm with Gunnnar Morling - Kafka Connect CLI, JFR Unit, OSS Archetypes and JPMS](https://adambien.blog/roller/abien/entry/kafka_connect_cli_jfr_unit)
 - [Pat Helland - Decoupled Transactions: Low Tail Latency Online Transactions Atop Jittery Servers](http://cidrdb.org/cidr2022/papers/p5-helland.pdf)
@@ -499,6 +504,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Carl Nygard - Compliance in a DevOps Culture](https://martinfowler.com/articles/devops-compliance.html)
 - [conventional-changelog - Generate changelogs and release notes from a project's commit messages and metadata](https://github.com/conventional-changelog/conventional-changelog)
 - [LocalStack - fully functional local cloud stack, which provides an easy-to-use test/mocking framework](https://localstack.cloud/)
 - [Rancher Desktop - provides Kubernetes and container management on the desktop](https://rancherdesktop.io/)
@@ -566,6 +572,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Flutter - Announcing Flutter for Windows](https://medium.com/flutter/announcing-flutter-for-windows-6979d0d01fed)
 - [Microsoft - Monaco Editor - The code editor that powers VS Code](https://microsoft.github.io/monaco-editor/)
 - [Ryan Carniato - The Return of Server Side Routing](https://dev.to/this-is-learning/the-return-of-server-side-routing-b05)
 - [Angular - Discontinued Long Term Support for AngularJS](https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a)
@@ -623,6 +630,7 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Microsoft Engineering Blog - Improving developer productivity via flaky test management](https://devblogs.microsoft.com/engineering-at-microsoft/improving-developer-productivity-via-flaky-test-management)
 - [Richard Holmes - Writing BDD Test Scenarios](https://www.departmentofproduct.com/blog/writing-bdd-test-scenarios/)
 - [Erwin van der Valk - Stop making a Mock<things>](https://erwin.vandervalk.pro/stop-mocking/)
 - [Nishant Sharma - Screenplay Pattern](https://medium.com/testvagrant/screenplay-pattern-3490c7f0c23c)
@@ -808,6 +816,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Julio Casal - .NET Microservices Basics Course](https://www.youtube.com/watch?v=ByYyk8eMG6c)
+- [Mark Rendle - My 20 Years with .NET](https://rendle.dev/posts/my-20-years-with-dotnet/)
+- [Andrew Lock - NetEscapades.EnumGenerators: a source generator for enum performance](https://andrewlock.net/netescapades-enumgenerators-a-source-generator-for-enum-performance/)
+- [Microsoft Docs - Tutorial: Use feature flags in an ASP.NET Core app](https://docs.microsoft.com/en-us/azure/azure-app-configuration/use-feature-flags-dotnet-core?tabs=core5x)
 - [Wouter Huysentruit - CashFlow - Application for managing cash flows written in ASP.NET Core 6 and Angular 13 (EF Core, Apollo, GraphQL, CQRS)](https://github.com/huysentruitw/cash-flow)
 - [6 .NET Myths Dispelled — Celebrating 21 Years of .NET](https://blog.devgenius.io/6-net-myths-dispelled-celebrating-21-years-of-net-652795c2ea27)
 - [Jason Bock - AutoDeconstruct - A library that automatically adds support for object deconstruction in C#](https://github.com/JasonBock/AutoDeconstruct)
@@ -1125,6 +1137,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Dodgy Coder - "Yoda Conditions", "Pokémon Exception Handling" and other programming classics](https://www.dodgycoder.net/2011/11/yoda-conditions-pokemon-exception.html)
+- [Szymon Kulec - Blaming the tools, not behaviors](https://blog.scooletz.com/2022/02/07/tools-not-behaviors)
 - [Phillip Carter - Big (tech) company bullshit](https://phillipcarter.dev/posts/big-company-bullshit/)
 - [Wikipedia - Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree)
 - [Ela Mościcka - Questions to ask in a job interview](https://elaintech.com/2021/10/18/questions-to-ask-in-a-job-interview/)
@@ -1253,6 +1267,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Dan Hardiker, Heather Wilde - Coaching vs Mentoring -- What's the Difference?](https://www.youtube.com/watch?v=JSS8bXVn7yA)
 - [Jeremy D. Miller - Creating the Conditions for Developer Happiness](https://jeremydmiller.com/2022/01/27/creating-the-conditions-for-developer-happiness/)
 - [Aleix Morgadas - Designing an Engineering Strategy. Part I](https://learnings.aleixmorgadas.dev/p/designing-an-engineering-strategy)
 - [DScout - The Corporate Playbooks Used to Combat Organizational Trauma (And Why They're Not Enough)](https://dscout.com/people-nerds/organizational-trauma)
@@ -1281,6 +1296,10 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Sameer Kulkarni - How to configure Dependabot with Gradle](https://www.sameerkulkarni.de/posts/dependabot-with-gradle/)
+- [Java - JEP 359: Records](https://openjdk.java.net/jeps/359)
+- [Java - JEP 405: Record Patterns](https://openjdk.java.net/jeps/405)
+- [Java - JEP 406: Pattern Matching for switch](https://openjdk.java.net/jeps/406)
 - [Richard Startin - Heuristics for Substring Search](https://richardstartin.github.io/posts/heuristics-for-substring-search)
 - [Oracle - JDK 17 Migration Guide](https://docs.oracle.com/en/java/javase/17/migrate/getting-started.html)
 - [Log4Shell: RCE 0-day exploit found in log4j2, a popular Java logging package](https://www.lunasec.io/docs/blog/log4j-zero-day/)
@@ -1313,6 +1332,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Matthew Swensen - Mastering mapped types in TypeScript](https://blog.logrocket.com/mastering-mapped-types-typescript/)
 - [Marcin Dziewulski - ts_belt - Fast, modern, and practical utility library for FP in TypeScript](https://mobily.github.io/ts-belt/docs/)
 - [Captain Yossarian - Safer TypeScript](https://catchts.com/safer-types)
 - [Arnaud Leymet - 7 TypeScript Tricks with Enum (and Fruits)](https://dev.to/prod/mastering-enums-in-typescript-1c1j)
@@ -1372,6 +1392,7 @@
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
 
 ## Rust
+- [Amos Wenger - Some mistakes Rust doesn't catch](https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch)
 - [Arisey Hun - Event Sourcing in Rust](https://ariseyhun.medium.com/event-sourcing-in-rust-f9aa0f79d6c5)
 - [Alistair Evans - Rust TCP Echo Server, for C# Devs](https://gist.github.com/alistairjevans/95894f3d2a269a667e2976a754d8d91a)
 - [ZDNet - Rust takes a major step forward as Linux's second official language](https://www.zdnet.com/article/rust-takes-a-major-step-forward-as-linuxs-second-official-language/)
@@ -1397,6 +1418,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Irish Council for Civil Liberties - GDPR enforcer rules that IAB Europe’s consent popups are unlawful](https://www.iccl.ie/news/gdpr-enforcer-rules-that-iab-europes-consent-popups-are-unlawful/)
+- [City A.M. - Mark Zuckerberg and team consider shutting down Facebook and Instagram in Europe if Meta can not process Europeans’ data on US servers](https://www.cityam.com/mark-zuckerberg-and-team-consider-shutting-down-facebook-and-instagram-in-europe-if-meta-can-not-process-europeans-data-on-us-servers/)
+- [Rufus Pollock - Awesome critique of crypto/web3](https://github.com/rufuspollock/awesome-crypto-critique)
 - [Wired - Europe's Move Against Google Analytics Is Just the Beginning](https://www.wired.co.uk/article/google-analytics-europe-austria-privacy-shield)
 - [Tim O'Reilly - Andy Warhol, Clay Christensen, and Vitalik Buterin walk into a bar](https://www.oreilly.com/radar/andy-warhol-clay-christensen-and-vitalik-buterin-walk-into-a-bar)
 - [Emma Irvin - How We're Making Code of Conduct Enforcement Real — and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415)
@@ -1646,6 +1670,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Alison Gree - The new hire who showed up is not the same person we interviewed](https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html)
 - [Jonathan Jarry - The Dunning-Kruger Effect Is Probably Not Real](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
 - [David Ebbo - Solving Wordle from 'spoiler free' tweets](https://github.com/davidebbo/WordleReverseSolver/wiki/Solving-Wordle-from-'spoiler-free'-tweets)
 - [Wired - How a 'NULL' License Plate Landed One Hacker in Ticket Hell](https://www.wired.com/story/null-license-plate-landed-one-hacker-ticket-hell/)
