@@ -53,6 +53,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Pat Helland - Immutability Changes Everything](https://queue.acm.org/detail.cfm?id=2884038)
+- [Pat Helland - Data on the Outside vs. Data on the Inside](https://queue.acm.org/detail.cfm?id=3415014)
+- [Aaron Stannard - Technical Spec Template](https://gist.github.com/Aaronontheweb/25e131e06d6ac22b23fc1f4a2c9ff42f)
+- [Bobby Iliev - Decoupled Microservices Architecture with Materialize](https://bobbyiliev.medium.com/decoupled-microservices-architecture-with-materialize-7eb7cd4a9f77)
+- [Rory Roberts - Depending on Functions](https://rory.horse/posts/depend-on-functions/)
+- [Alexey Zimarev - Overselling Event Sourcing](https://zimarev.com/blog/event-sourcing/myth-busting/2020-07-09-overselling-event-sourcing/)
+- [Yves Reynhout - Projections Explained](https://www.youtube.com/watch?v=b2kSlDcAcps)
+- [DDD Crew - Core Domain Charts](https://github.com/ddd-crew/core-domain-charts)
 - [Leslie Lamport - Learning TLA+](https://lamport.azurewebsites.net/tla/learning.html)
 - [Asbjørn Ulsberg - What's In A Model?](https://www.youtube.com/watch?v=bRjBUHRxI9g)
 - [Jan Kronquist - Don't publish Domain Events, return them!](https://blog.jayway.com/2013/06/20/dont-publish-domain-events-return-them/)
@@ -504,6 +512,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [CNCF - Principles for designing and deploying scalable applications on Kubernetes](https://www.cncf.io/blog/2022/02/17/principles-for-designing-and-deploying-scalable-applications-on-kubernetes/)
+- [InfoQ - Container Security and Observability in Kubernetes Environments](https://www.infoq.com/presentations/kubernetes-security)
 - [Carl Nygard - Compliance in a DevOps Culture](https://martinfowler.com/articles/devops-compliance.html)
 - [conventional-changelog - Generate changelogs and release notes from a project's commit messages and metadata](https://github.com/conventional-changelog/conventional-changelog)
 - [LocalStack - fully functional local cloud stack, which provides an easy-to-use test/mocking framework](https://localstack.cloud/)
@@ -572,6 +582,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Igor Mandrigin - Optimistic UIs in under 1000 words](https://uxplanet.org/optimistic-1000-34d9eefe4c05)
 - [Flutter - Announcing Flutter for Windows](https://medium.com/flutter/announcing-flutter-for-windows-6979d0d01fed)
 - [Microsoft - Monaco Editor - The code editor that powers VS Code](https://microsoft.github.io/monaco-editor/)
 - [Ryan Carniato - The Return of Server Side Routing](https://dev.to/this-is-learning/the-return-of-server-side-routing-b05)
@@ -672,6 +683,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Yves Trudeau - UUIDs are Popular, but Bad for Performance — Let’s Discuss](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
 - [Syed Sadat Nazrul - CAP Theorem and Distributed Database Management Systems](https://towardsdatascience.com/cap-theorem-and-distributed-database-management-systems-5c2be977950e)
 - [Martin Kleppmann - Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 - [Canonical - Dqlite - Embeddable, replicated and fault tolerant SQL engine](https://github.com/canonical/dqlite)
@@ -786,6 +798,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Tomasz Pęczek - How to get started with your PaaS architecture in Azure?](https://www.predicagroup.com/blog/paas-architecture-cloud-application)
 - [Azure Blog - Introducing Azure Load Testing: Optimize app performance at scale](https://azure.microsoft.com/en-us/blog/introducing-azure-load-testing-optimize-app-performance-at-scale/)
 - [Azure Data Blog - Azure Database for PostgreSQL – Flexible Server is now GA!](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/azure-database-for-postgresql-flexible-server-is-now-ga/ba-p/2987030)
 - [Microsoft - Microsoft 365 Developer Program launches new instant sandbox with Teams sample data pack](https://devblogs.microsoft.com/microsoft365dev/microsoft-365-developer-program-launches-new-instant-sandbox-with-teams-sample-data-pack/)
@@ -803,6 +816,8 @@
 - [Brett Rowberry - An F# Dev's Perspective on Clojure](https://brettrowberry.hashnode.dev/an-f-devs-perspective-on-clojure)
 
 ## Functional Programming
+- [Mark Seemann - A conditional sandwich example](https://blog.ploeh.dk/2022/02/14/a-conditional-sandwich-example/)
+- [Oleksii Holub - Pure-Impure Segregation Principle](https://tyrrrz.me/blog/pure-impure-segregation-principle#:~:text=interleaved%20impurities)
 - [The Flix Programming Language - Next-generation reliable, safe, concise, and functional-first programming language](https://flix.dev/)
 - [Mark Seemann - Functions as pipes](https://blog.ploeh.dk/2021/11/22/functions-as-pipes/)
 - [Marco Perone - Either why or how](http://marcosh.github.io/post/2021/09/24/either-why-or-how.html)
@@ -816,6 +831,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Sharpliner - Use C# instead of YAML to define your Azure DevOps pipelines](https://github.com/sharpliner/sharpliner)
+- [Stefan Prodan - AspNetCoreRateLimit - ASP.NET Core rate limiting middleware](https://github.com/stefanprodan/AspNetCoreRateLimit)
+- [Maxime Lemaitre - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes](https://github.com/Cybermaxs/awesome-analyzers)
+- [QuestPDF - An open-source, library that can help you with generating PDF documents](https://github.com/QuestPDF/QuestPDF)
 - [Julio Casal - .NET Microservices Basics Course](https://www.youtube.com/watch?v=ByYyk8eMG6c)
 - [Mark Rendle - My 20 Years with .NET](https://rendle.dev/posts/my-20-years-with-dotnet/)
 - [Andrew Lock - NetEscapades.EnumGenerators: a source generator for enum performance](https://andrewlock.net/netescapades-enumgenerators-a-source-generator-for-enum-performance/)
@@ -1291,6 +1310,7 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [Nick Tune - A Clash of Mindsets: When New Products Depend on Existing Products](https://medium.com/nick-tune-tech-strategy-blog/
 - [Oleksandr Sukholeyster - Task-Driven User Interfaces](https://www.uxmatters.com/mt/archives/2014/12/task-driven-user-interfaces.php)
 - [Sumit Gulwani - The Story of the Flash Fill Feature in Excel](https://blog.sigplan.org/2021/09/14/the-story-of-the-flash-fill-feature-in-excel/)
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
@@ -1344,6 +1364,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## NodeJS
+- [Kent C. Dodds - Why I Love Remix](https://kentcdodds.com/blog/why-i-love-remix)
 - [Netanel Basal - Falso - All the Fake Data for All Your Real Needs](https://github.com/ngneat/falso)
 - [Faker.js - An update from the Faker team](https://fakerjs.dev/update.html)
 - [Keeth Kuwahara - npm-stats-api: Node Package's Statistics API](https://github.com/kkeeth/npm-stats-api)
@@ -1371,6 +1392,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Robert Laszczak - The Repository pattern: a painless way to simplify your Go service logic](https://threedots.tech/post/repository-pattern-in-go/)
 - [Seth Vargo - What I'd like to see in Go 2.0](https://www.sethvargo.com/what-id-like-to-see-in-go-2/)
 - [Swaggo - swag - Automatically generate RESTful API documentation with Swagger 2.0 for Go](https://github.com/swaggo/swag)
 - [astaxie - Build Web Application With Golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
@@ -1386,12 +1408,14 @@
 - [Robert Pająk - Lessons Learned after 1 year of programming in Go as a C# developer](https://pajak.home.blog/2020/02/28/lessons-learned-after-1-year-of-programming-in-go-as-a-c-developer)
 
 ## Kotlin
+- [Duncan McGregor - Java to Kotlin Gilded Rose](https://www.youtube.com/playlist?list=PL1ssMPpyqocjo6kkNCg-ncTyAW0nECPmq)
 - [Simon Vergauwen - Functional Domain Modeling in Kotlin - Validation](https://www.47deg.com/blog/functional-domain-modeling-part-2/)
 
 ## PHP
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
 
 ## Rust
+- [Philipp Oppermann - Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 - [Amos Wenger - Some mistakes Rust doesn't catch](https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch)
 - [Arisey Hun - Event Sourcing in Rust](https://ariseyhun.medium.com/event-sourcing-in-rust-f9aa0f79d6c5)
 - [Alistair Evans - Rust TCP Echo Server, for C# Devs](https://gist.github.com/alistairjevans/95894f3d2a269a667e2976a754d8d91a)
@@ -1550,6 +1574,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [GitHub - Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
 - [DevToys - Swiss Army knife for developers](https://devtoys.app/)
 - [Postman - Postman Now Supports gRPC](https://blog.postman.com/postman-now-supports-grpc/)
 - [Learn Vim - Learn Vim right within VSCode. Use this extension to learn and practice your Vim skills.](https://marketplace.visualstudio.com/items?itemName=vintharas.learn-vim)
@@ -1670,6 +1695,8 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Kelsey Hightower - No Code](https://github.com/kelseyhightower/nocode)
+- [Richard Feynman - Why](https://www.youtube.com/watch?v=36GT2zI8lVA)
 - [Alison Gree - The new hire who showed up is not the same person we interviewed](https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html)
 - [Jonathan Jarry - The Dunning-Kruger Effect Is Probably Not Real](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
 - [David Ebbo - Solving Wordle from 'spoiler free' tweets](https://github.com/davidebbo/WordleReverseSolver/wiki/Solving-Wordle-from-'spoiler-free'-tweets)
