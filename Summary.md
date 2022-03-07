@@ -53,6 +53,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Jakub Nabrdalik - What I wish I knew when I started designing systems years ago](https://www.youtube.com/watch?v=1HJJhGHC2A4)
+- [Robert Pankowecki - Correlation id and causation id in evented systems](https://blog.arkency.com/correlation-id-and-causation-id-in-evented-systems/)
+- [Cindy Sridharan - Monitoring and Observability](https://copyconstruct.medium.com/monitoring-and-observability-8417d1952e1c)
+- [Marc Brooker - Will circuit breakers solve my problems?](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
+- [ThoughtWorks - State of Data Mesh 2022](https://www.youtube.com/watch?v=VKDMz8op3VM&list=PL8f-F_Zx8XA9-U2BNkUrZc3ZzPFk0LcYc)
 - [Pat Helland - Immutability Changes Everything](https://queue.acm.org/detail.cfm?id=2884038)
 - [Pat Helland - Data on the Outside vs. Data on the Inside](https://queue.acm.org/detail.cfm?id=3415014)
 - [Aaron Stannard - Technical Spec Template](https://gist.github.com/Aaronontheweb/25e131e06d6ac22b23fc1f4a2c9ff42f)
@@ -356,6 +361,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Pulsar - Transactions](https://pulsar.apache.org/docs/en/txn-why/)
 - [Testing Microservices: How to Share Staging Environments without Tripping Over Each Other](https://blog.getambassador.io/testing-microservices-how-to-share-staging-environments-without-tripping-over-each-other-b07e393eb31c)
 - [Micro - A distributed cloud operating system](https://github.com/micro/micro)
 - [Airhacks.fm with Gunnnar Morling - Kafka Connect CLI, JFR Unit, OSS Archetypes and JPMS](https://adambien.blog/roller/abien/entry/kafka_connect_cli_jfr_unit)
@@ -582,6 +588,8 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Luca Mezzalira - The Future of Micro-Frontends](https://betterprogramming.pub/the-future-of-micro-frontends-2f527f97d506)
+- [Netanel Basal - Using Web Components in Angular, React, Preact, Vue and Svelte](https://netbasal.com/using-web-components-in-angular-react-preact-vue-and-svelte-3c640a8ba46)
 - [Igor Mandrigin - Optimistic UIs in under 1000 words](https://uxplanet.org/optimistic-1000-34d9eefe4c05)
 - [Flutter - Announcing Flutter for Windows](https://medium.com/flutter/announcing-flutter-for-windows-6979d0d01fed)
 - [Microsoft - Monaco Editor - The code editor that powers VS Code](https://microsoft.github.io/monaco-editor/)
@@ -641,6 +649,7 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Cindy Sridharan - Testing Microservices, the sane way](https://copyconstruct.medium.com/testing-microservices-the-sane-way-9bb31d158c16)
 - [Microsoft Engineering Blog - Improving developer productivity via flaky test management](https://devblogs.microsoft.com/engineering-at-microsoft/improving-developer-productivity-via-flaky-test-management)
 - [Richard Holmes - Writing BDD Test Scenarios](https://www.departmentofproduct.com/blog/writing-bdd-test-scenarios/)
 - [Erwin van der Valk - Stop making a Mock<things>](https://erwin.vandervalk.pro/stop-mocking/)
@@ -664,6 +673,7 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [Roy T. Fielding - It is okay to use POST](https://roy.gbiv.com/untangled/2009/it-is-okay-to-use-post)
 - [Postman - Postman Now Supports gRPC](https://blog.postman.com/postman-now-supports-grpc/)
 - [Matthew Reinbold - 5 Tips for a Game-Changing API Design Review](https://blog.postman.com/5-tips-for-game-changing-api-design-review/)
 - [InfoQ - GraphQL Reference Guide: Building Flexible and Understandable APIs](https://www.infoq.com/articles/GraphQL-ultimate-guide/?utm_source=twitter&utm_medium=link&utm_campaign=calendar)
@@ -683,6 +693,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Xtreak Blog - JSON improvements in SQLite 3.38.0](https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html)
 - [Yves Trudeau - UUIDs are Popular, but Bad for Performance — Let’s Discuss](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
 - [Syed Sadat Nazrul - CAP Theorem and Distributed Database Management Systems](https://towardsdatascience.com/cap-theorem-and-distributed-database-management-systems-5c2be977950e)
 - [Martin Kleppmann - Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
@@ -816,6 +827,7 @@
 - [Brett Rowberry - An F# Dev's Perspective on Clojure](https://brettrowberry.hashnode.dev/an-f-devs-perspective-on-clojure)
 
 ## Functional Programming
+- [CaSE Podcast - Eric Normand on Functional Thinking](https://www.case-podcast.org/45-eric-normand-on-functional-thinking)
 - [Mark Seemann - A conditional sandwich example](https://blog.ploeh.dk/2022/02/14/a-conditional-sandwich-example/)
 - [Oleksii Holub - Pure-Impure Segregation Principle](https://tyrrrz.me/blog/pure-impure-segregation-principle#:~:text=interleaved%20impurities)
 - [The Flix Programming Language - Next-generation reliable, safe, concise, and functional-first programming language](https://flix.dev/)
@@ -831,6 +843,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Serverless Land - Using the new .NET 6.0 runtime in AWS Lambda](https://www.youtube.com/watch?v=l4_WNjMHDx8)
+- [Taşkın Binbir - Extended Swagger in .net core 6](https://taskinbinbir.medium.com/extended-swagger-in-net-core-6-b330300617c1)
+- [Maoni Stephens - Diagnosing Memory Leaks](https://www.youtube.com/watch?v=ImeiUzbdMzc)
+- [Microsoft - Safe storage of app secrets in development in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-6.0&tabs=windows)
 - [Sharpliner - Use C# instead of YAML to define your Azure DevOps pipelines](https://github.com/sharpliner/sharpliner)
 - [Stefan Prodan - AspNetCoreRateLimit - ASP.NET Core rate limiting middleware](https://github.com/stefanprodan/AspNetCoreRateLimit)
 - [Maxime Lemaitre - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes](https://github.com/Cybermaxs/awesome-analyzers)
@@ -1352,6 +1368,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Leonardo Maldonado - Types vs. interfaces in TypeScript](https://blog.logrocket.com/types-vs-interfaces-in-typescript/)
 - [Matthew Swensen - Mastering mapped types in TypeScript](https://blog.logrocket.com/mastering-mapped-types-typescript/)
 - [Marcin Dziewulski - ts_belt - Fast, modern, and practical utility library for FP in TypeScript](https://mobily.github.io/ts-belt/docs/)
 - [Captain Yossarian - Safer TypeScript](https://catchts.com/safer-types)
@@ -1364,6 +1381,8 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## NodeJS
+- [node-postgres - a collection of node.js modules for interfacing with your PostgreSQL database](https://node-postgres.com/)
+- [@databases - TypeScript clients for databases that prevent SQL Injection](https://www.atdatabases.org/)
 - [Kent C. Dodds - Why I Love Remix](https://kentcdodds.com/blog/why-i-love-remix)
 - [Netanel Basal - Falso - All the Fake Data for All Your Real Needs](https://github.com/ngneat/falso)
 - [Faker.js - An update from the Faker team](https://fakerjs.dev/update.html)
@@ -1442,6 +1461,11 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Tech for Ukraine - Non-profit organizations need tech support to maximize impact in the light of the ongoing war. Help them design digital solutions that matter](https://techtotherescue.org/tech/tech-for-ukraine) 
+- [Microsoft suspends new sales in Russia](https://blogs.microsoft.com/on-the-issues/2022/03/04/microsoft-suspends-russia-sales-ukraine-conflict/)
+- [The New York Times - David Boggs, Co-Inventor of Ethernet, Dies at 71](https://www.nytimes.com/2022/02/28/technology/david-boggs-dead.html)
+- [Concoda - The Crypto Revolution Was Over Before It Started](https://concoda.substack.com/p/the-crypto-revolution-was-over-before)
+- [Jonatan Heyman - Avoid the Apple App Store](https://heyman.info/2022/feb/17/avoid-the-apple-app-store/)
 - [Irish Council for Civil Liberties - GDPR enforcer rules that IAB Europe’s consent popups are unlawful](https://www.iccl.ie/news/gdpr-enforcer-rules-that-iab-europes-consent-popups-are-unlawful/)
 - [City A.M. - Mark Zuckerberg and team consider shutting down Facebook and Instagram in Europe if Meta can not process Europeans’ data on US servers](https://www.cityam.com/mark-zuckerberg-and-team-consider-shutting-down-facebook-and-instagram-in-europe-if-meta-can-not-process-europeans-data-on-us-servers/)
 - [Rufus Pollock - Awesome critique of crypto/web3](https://github.com/rufuspollock/awesome-crypto-critique)
@@ -1619,6 +1643,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [ejson - EJSON is a small library to manage encrypted secrets using asymmetric encryption](https://github.com/Shopify/ejson)
 - [TechTarget - DeadBolt ransomware targeting QNAP NAS storage devices](https://www.techtarget.com/searchsecurity/news/252512518/DeadBolt-ransomware-targeting-QNAP-NAS-storage-devices)
 - [Martin Bajanik - Exploiting IndexedDB API information leaks in Safari 15](https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/)
 - [Orca Security - BreakingFormation: Orca Security Research Team Discovers AWS CloudFormation Vulnerability](https://orca.security/resources/blog/aws-cloudformation-vulnerability/)
