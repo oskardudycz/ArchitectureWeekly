@@ -44,6 +44,7 @@
   - [Hardware](#hardware)
   - [Low level](#low-level)
     - [Operating Systems](#operating-systems)
+  - [Operations](#operations)
   - [Linux](#linux)
   - [Windows](#windows)
   - [Tools](#tools)
@@ -53,6 +54,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Casper Bollen - A Conceptual Framework for Medical Data](https://picuwkz.nl/a-conceptual-framework-for-medical-data/)
+- [Justin Miller - Path to a Software Architect](https://github.com/justinamiller/SoftwareArchitect)
+- [Dan North - CUPID ‒ for joyful coding!](https://www.youtube.com/watch?v=knNaUSLhx-U)
+- [Henrique Vicente - You don't need UUID](https://henvic.dev/posts/uuid/)
 - [Jakub Nabrdalik - What I wish I knew when I started designing systems years ago](https://www.youtube.com/watch?v=1HJJhGHC2A4)
 - [Robert Pankowecki - Correlation id and causation id in evented systems](https://blog.arkency.com/correlation-id-and-causation-id-in-evented-systems/)
 - [Cindy Sridharan - Monitoring and Observability](https://copyconstruct.medium.com/monitoring-and-observability-8417d1952e1c)
@@ -361,6 +366,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Paul Swail - The trade-offs with functionless integration patterns in serverless architectures](https://serverlessfirst.com/functionless-integration-trade-offs/)
 - [Pulsar - Transactions](https://pulsar.apache.org/docs/en/txn-why/)
 - [Testing Microservices: How to Share Staging Environments without Tripping Over Each Other](https://blog.getambassador.io/testing-microservices-how-to-share-staging-environments-without-tripping-over-each-other-b07e393eb31c)
 - [Micro - A distributed cloud operating system](https://github.com/micro/micro)
@@ -649,6 +655,9 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Alexei Ledenev - Pumba: chaos testing tool for Docker](https://github.com/alexei-led/pumba)
+- [WireMock - Mock your APIs for fast, robust and comprehensive testing](https://github.com/Adven27/grpc-wiremock)
+- [Adven27 - grpc-wiremock - gRPC Mock Server](https://github.com/Adven27/grpc-wiremock)
 - [Cindy Sridharan - Testing Microservices, the sane way](https://copyconstruct.medium.com/testing-microservices-the-sane-way-9bb31d158c16)
 - [Microsoft Engineering Blog - Improving developer productivity via flaky test management](https://devblogs.microsoft.com/engineering-at-microsoft/improving-developer-productivity-via-flaky-test-management)
 - [Richard Holmes - Writing BDD Test Scenarios](https://www.departmentofproduct.com/blog/writing-bdd-test-scenarios/)
@@ -793,6 +802,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Craig Topham - Publication of the FSF-funded white papers on questions around Copilot](https://www.fsf.org/news/publication-of-the-fsf-funded-white-papers-on-questions-around-copilot)
 - [Microsoft - Machine Learning for Beginners - A Curriculum](https://microsoft.github.io/ML-For-Beginners)
 - [Google - High Fidelity Image Generation Using Diffusion Models](https://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html)
 - [VentureBeat - AI bias is prevalent but preventable — here's how to root it out](https://venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out)
@@ -843,6 +853,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Simon Cropp - MarkdownSnippets - Extracts snippets from code files and merges them into markdown documents](https://github.com/SimonCropp/MarkdownSnippets)
+- [dj-nitehawk - FastEndpoints - A light-weight REST Api framework for ASP.Net 6 that implements REPR (Request-Endpoint-Response) Pattern ](https://github.com/dj-nitehawk/FastEndpoints)
+- [TNG - ArchUnitNET - A C# architecture test library to specify and assert architecture rules in C# for automated testing](https://github.com/TNG/ArchUnitNET)
+- [Barry Dorrans - C# Password Generator](https://github.com/blowdart/idunno.PasswordGenerator)
 - [Serverless Land - Using the new .NET 6.0 runtime in AWS Lambda](https://www.youtube.com/watch?v=l4_WNjMHDx8)
 - [Taşkın Binbir - Extended Swagger in .net core 6](https://taskinbinbir.medium.com/extended-swagger-in-net-core-6-b330300617c1)
 - [Maoni Stephens - Diagnosing Memory Leaks](https://www.youtube.com/watch?v=ImeiUzbdMzc)
@@ -1172,6 +1186,10 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Samir Talwar - All Problems Are Hard](https://monospacedmonologues.com/2021/05/all-problems-are-hard/)
+- [Ted Johansson - Trim your inheritance tree, one twig at a time](https://loyalty.dev/posts/trim-your-inheritance-tree)
+- [Raycast - No code reviews by default](https://www.raycast.com/blog/no-code-reviews-by-default/)
+- [Chris James - Reduce WIP by practicing trunk-based development, rather than pull requests](https://quii.dev/Reduce_WIP_by_practicing_trunk-based_development,_rather_than_pull_requests)
 - [Dodgy Coder - "Yoda Conditions", "Pokémon Exception Handling" and other programming classics](https://www.dodgycoder.net/2011/11/yoda-conditions-pokemon-exception.html)
 - [Szymon Kulec - Blaming the tools, not behaviors](https://blog.scooletz.com/2022/02/07/tools-not-behaviors)
 - [Phillip Carter - Big (tech) company bullshit](https://phillipcarter.dev/posts/big-company-bullshit/)
@@ -1302,6 +1320,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Erik Wiffin - How to get the most out of your 1:1s](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/)
 - [Dan Hardiker, Heather Wilde - Coaching vs Mentoring -- What's the Difference?](https://www.youtube.com/watch?v=JSS8bXVn7yA)
 - [Jeremy D. Miller - Creating the Conditions for Developer Happiness](https://jeremydmiller.com/2022/01/27/creating-the-conditions-for-developer-happiness/)
 - [Aleix Morgadas - Designing an Engineering Strategy. Part I](https://learnings.aleixmorgadas.dev/p/designing-an-engineering-strategy)
@@ -1332,6 +1351,9 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Cameron McKenzie - A simple Java Function interface example: Learn Functional programming fast](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Get-the-most-from-Java-Function-interface-with-this-example)
+- [Justin Albano - Dependency Injection in Spring](https://dzone.com/articles/dependency-injection-in-spring)
+- [Mahmoud Anouti - 20 Examples of Using Java’s CompletableFuture](https://dzone.com/articles/20-examples-of-using-javas-completablefuture)
 - [Sameer Kulkarni - How to configure Dependabot with Gradle](https://www.sameerkulkarni.de/posts/dependabot-with-gradle/)
 - [Java - JEP 359: Records](https://openjdk.java.net/jeps/359)
 - [Java - JEP 405: Record Patterns](https://openjdk.java.net/jeps/405)
@@ -1360,6 +1382,7 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)]
 
 ## JavaScript
+- [Bleeping Computer - Empty npm package '-' has over 700,000 downloads — here's why](https://www.bleepingcomputer.com/news/software/empty-npm-package-has-over-700-000-downloads-heres-why/)
 - [Codemix - babel-plugin-typecheck  - Static and runtime type checking for JavaScript in the form of a Babel plugin.](https://github.com/codemix/babel-plugin-typecheck)
 - [Ramda - A practical functional library for JavaScript programmers.](https://ramdajs.com/)
 - [Worker Environments - The new standard for writing HTTP servers in JavaScript](https://workers.js.org/)
@@ -1411,6 +1434,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Seth Vargo - Golang Password Generator](https://github.com/sethvargo/go-password)
 - [Robert Laszczak - The Repository pattern: a painless way to simplify your Go service logic](https://threedots.tech/post/repository-pattern-in-go/)
 - [Seth Vargo - What I'd like to see in Go 2.0](https://www.sethvargo.com/what-id-like-to-see-in-go-2/)
 - [Swaggo - swag - Automatically generate RESTful API documentation with Swagger 2.0 for Go](https://github.com/swaggo/swag)
@@ -1461,6 +1485,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Vice - Crypto Exchanges Refuse to Freeze All Russian Accounts](https://www.vice.com/en/article/7kbdqq/crypto-exchanges-refuse-to-freeze-all-russian-accounts)
+- [Tom's Hardware - AMD and Intel Halt Processor Sales to Russia and Belarus](https://www.tomshardware.com/news/intel-amd-nvidia-tsmc-russia-stop-chip-sales-ukraine-sanction)
 - [Tech for Ukraine - Non-profit organizations need tech support to maximize impact in the light of the ongoing war. Help them design digital solutions that matter](https://techtotherescue.org/tech/tech-for-ukraine) 
 - [Microsoft suspends new sales in Russia](https://blogs.microsoft.com/on-the-issues/2022/03/04/microsoft-suspends-russia-sales-ukraine-conflict/)
 - [The New York Times - David Boggs, Co-Inventor of Ethernet, Dies at 71](https://www.nytimes.com/2022/02/28/technology/david-boggs-dead.html)
@@ -1583,6 +1609,9 @@
 - [Carlos Fenollosa - How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
 - [Michał Piotrowski - "Modern Operating Systems" notes](https://github.com/chlebik/ModernOperatingSystems_AndrewTanenbaum)
 
+## Operations
+- [Geoff Huston - Another year of the transition to IPv6](https://blog.apnic.net/2022/02/21/another-year-of-the-transition-to-ipv6/)
+
 ## Linux
 - [Asahi Linux - A project and community with the goal of porting Linux to Apple Silicon Macs](https://asahilinux.org/about/)
 
@@ -1643,6 +1672,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Keycloak - Open Source Identity and Access Management](https://www.keycloak.org/)
+- [Wall Street Journal - Using a New Cyber Tool, Westerners Have Been Texting Russians About the War in Ukraine](https://www.wsj.com/articles/using-a-new-cyber-tool-westerners-have-been-texting-russians-about-the-war-in-ukraine-11647100803)
 - [ejson - EJSON is a small library to manage encrypted secrets using asymmetric encryption](https://github.com/Shopify/ejson)
 - [TechTarget - DeadBolt ransomware targeting QNAP NAS storage devices](https://www.techtarget.com/searchsecurity/news/252512518/DeadBolt-ransomware-targeting-QNAP-NAS-storage-devices)
 - [Martin Bajanik - Exploiting IndexedDB API information leaks in Safari 15](https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/)
