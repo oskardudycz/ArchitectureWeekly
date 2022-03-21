@@ -54,6 +54,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [The 6 Figure Developer Podcast - Fundamentals of Software Architecture with Neal Ford](https://6figuredev.com/podcast/fundamentals-of-software-architecture-with-neal-ford)
+- [Cedric Pontet - EventStorming – From Big Picture to Software Design](https://www.agilepartner.net/en/eventstorming-from-big-picture-to-software-design/)
+- [Tim Batty - Eating an Elephant](https://www.industriallogic.com/blog/eating-an-elephant/)
+- [Red Monk - What is Developer Experience? a roundup of links and goodness](https://redmonk.com/jgovernor/2022/02/21/what-is-developer-experience-a-roundup-of-links-and-goodness/)
+- [Mark Hinkle - Is Serverless Just a Stopover for Event-Driven Architecture?](https://thenewstack.io/is-serverless-just-a-stopover-for-event-driven-architecture/)
 - [Casper Bollen - A Conceptual Framework for Medical Data](https://picuwkz.nl/a-conceptual-framework-for-medical-data/)
 - [Justin Miller - Path to a Software Architect](https://github.com/justinamiller/SoftwareArchitect)
 - [Dan North - CUPID ‒ for joyful coding!](https://www.youtube.com/watch?v=knNaUSLhx-U)
@@ -366,6 +371,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Andrew Carr - Comparing Apache Kafka, Amazon Kinesis, Microsoft Event Hubs and Google Pub/Sub](https://blog.scottlogic.com/2018/04/17/comparing-big-data-messaging.html)
+- [Elliot West - Handling Incompatible Schema Changes with Avro](https://medium.com/expedia-group-tech/handling-incompatible-schema-changes-with-avro-2bc147e26770)
 - [Paul Swail - The trade-offs with functionless integration patterns in serverless architectures](https://serverlessfirst.com/functionless-integration-trade-offs/)
 - [Pulsar - Transactions](https://pulsar.apache.org/docs/en/txn-why/)
 - [Testing Microservices: How to Share Staging Environments without Tripping Over Each Other](https://blog.getambassador.io/testing-microservices-how-to-share-staging-environments-without-tripping-over-each-other-b07e393eb31c)
@@ -524,6 +531,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Dan Lorenc - OCI Artifacts Explained](https://dlorenc.medium.com/oci-artifacts-explained-8f4a77945c13)
+- [github-action-benchmark - GitHub Action for continuous benchmarking to keep performance](https://github.com/benchmark-action/github-action-benchmark)
 - [CNCF - Principles for designing and deploying scalable applications on Kubernetes](https://www.cncf.io/blog/2022/02/17/principles-for-designing-and-deploying-scalable-applications-on-kubernetes/)
 - [InfoQ - Container Security and Observability in Kubernetes Environments](https://www.infoq.com/presentations/kubernetes-security)
 - [Carl Nygard - Compliance in a DevOps Culture](https://martinfowler.com/articles/devops-compliance.html)
@@ -702,6 +711,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Ongres - Performance Benchmark PostgreSQL/MongoDB](https://info.enterprisedb.com/rs/069-ALB-339/images/PostgreSQL_MongoDB_Benchmark-WhitepaperFinal.pdf)
+- [Lev Kokotov - PostgreSQL pooler with sharding, load balancing and failover support](https://github.com/levkk/pgcat)
+- [Alex Klibisz - Optimizing Postgres Text Search with Trigrams](https://alexklibisz.com/2022/02/18/optimizing-postgres-trigram-search.html)
 - [Xtreak Blog - JSON improvements in SQLite 3.38.0](https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html)
 - [Yves Trudeau - UUIDs are Popular, but Bad for Performance — Let’s Discuss](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
 - [Syed Sadat Nazrul - CAP Theorem and Distributed Database Management Systems](https://towardsdatascience.com/cap-theorem-and-distributed-database-management-systems-5c2be977950e)
@@ -853,6 +865,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Alexey Zimarev - Event Sourcing with .NET](https://www.youtube.com/watch?v=IbnXdERLDjk)
+- [Mikhail Shilkov - Event Driven Applications in F#](https://www.youtube.com/watch?v=iTL9QQ_VQj8)
+- [Jérémie Chassaing - #NOMEMALLOC](https://www.youtube.com/watch?v=eVJ5b1lwMJ8)
+- [Tom Deseyn - Debug .NET applications running in local containers with VS Code](https://developers.redhat.com/articles/2022/02/22/debug-net-applications-running-local-containers-vs-code)
 - [Simon Cropp - MarkdownSnippets - Extracts snippets from code files and merges them into markdown documents](https://github.com/SimonCropp/MarkdownSnippets)
 - [dj-nitehawk - FastEndpoints - A light-weight REST Api framework for ASP.Net 6 that implements REPR (Request-Endpoint-Response) Pattern ](https://github.com/dj-nitehawk/FastEndpoints)
 - [TNG - ArchUnitNET - A C# architecture test library to specify and assert architecture rules in C# for automated testing](https://github.com/TNG/ArchUnitNET)
@@ -1345,12 +1361,20 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [Jeff Gothelf - There’s no guarantee your product strategy will work. Here’s how to de-risk it](https://jeffgothelf.com/blog/theres-no-guarantee-your-product-strategy-will-work-heres-how-to-de-risk-it/)
+- [John Cutler - 15 Behaviors of Healthy, Data-Informed Product Teams](https://amplitude.com/blog/data-informed-product-teams)
 - [Nick Tune - A Clash of Mindsets: When New Products Depend on Existing Products](https://medium.com/nick-tune-tech-strategy-blog/
 - [Oleksandr Sukholeyster - Task-Driven User Interfaces](https://www.uxmatters.com/mt/archives/2014/12/task-driven-user-interfaces.php)
 - [Sumit Gulwani - The Story of the Flash Fill Feature in Excel](https://blog.sigplan.org/2021/09/14/the-story-of-the-flash-fill-feature-in-excel/)
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Bartłomiej Słota - Concurrency control in REST API with Spring Framework](https://bartslota.com/concurrency-control-in-rest-api-wi/)
+- [springdoc-openapi - Library for OpenAPI 3 with spring-boot](https://github.com/springdoc/springdoc-openapi)
+- [Baeldung - Documenting a Spring REST API Using OpenAPI 3.0](https://www.baeldung.com/spring-rest-openapi-documentation)
+- [Minel Aydın - Spring Boot — Accessing Data with JPA Hibernate and PostgreSQL](https://medium.com/analytics-vidhya/spring-boot-accessing-data-with-jpa-hibernate-and-postgresql-af68386363a4)
+- [CK Gan - A True Atomic Microservices Implementation with Debezium to Ensure Data Consistency](https://braindose.blog/2021/09/13/true-atomic-microservices-debezium/)
+
 - [Cameron McKenzie - A simple Java Function interface example: Learn Functional programming fast](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Get-the-most-from-Java-Function-interface-with-this-example)
 - [Justin Albano - Dependency Injection in Spring](https://dzone.com/articles/dependency-injection-in-spring)
 - [Mahmoud Anouti - 20 Examples of Using Java’s CompletableFuture](https://dzone.com/articles/20-examples-of-using-javas-completablefuture)
@@ -1382,6 +1406,8 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)]
 
 ## JavaScript
+- [Hugh Haworth - Comparing Node JavaScript to JavaScript in the Browser](https://css-tricks.com/node-javascript-compared-to-javascript/)
+- [Microsoft - A Proposal For Type Syntax in JavaScript](https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/)
 - [Bleeping Computer - Empty npm package '-' has over 700,000 downloads — here's why](https://www.bleepingcomputer.com/news/software/empty-npm-package-has-over-700-000-downloads-heres-why/)
 - [Codemix - babel-plugin-typecheck  - Static and runtime type checking for JavaScript in the form of a Babel plugin.](https://github.com/codemix/babel-plugin-typecheck)
 - [Ramda - A practical functional library for JavaScript programmers.](https://ramdajs.com/)
@@ -1434,6 +1460,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Brandon Schurman - Building a Monorepo in Golang](https://earthly.dev/blog/golang-monorepo/)
 - [Seth Vargo - Golang Password Generator](https://github.com/sethvargo/go-password)
 - [Robert Laszczak - The Repository pattern: a painless way to simplify your Go service logic](https://threedots.tech/post/repository-pattern-in-go/)
 - [Seth Vargo - What I'd like to see in Go 2.0](https://www.sethvargo.com/what-id-like-to-see-in-go-2/)
@@ -1458,6 +1485,7 @@
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
 
 ## Rust
+- [Rust Blog - Rust Survey 2021 Results](https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html)
 - [Philipp Oppermann - Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 - [Amos Wenger - Some mistakes Rust doesn't catch](https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch)
 - [Arisey Hun - Event Sourcing in Rust](https://ariseyhun.medium.com/event-sourcing-in-rust-f9aa0f79d6c5)
@@ -1485,6 +1513,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Molly White - Abuse on the blockchain – Guest lecture at Stanford University](https://www.youtube.com/watch?v=hXBZ-BXfCSY)
 - [Vice - Crypto Exchanges Refuse to Freeze All Russian Accounts](https://www.vice.com/en/article/7kbdqq/crypto-exchanges-refuse-to-freeze-all-russian-accounts)
 - [Tom's Hardware - AMD and Intel Halt Processor Sales to Russia and Belarus](https://www.tomshardware.com/news/intel-amd-nvidia-tsmc-russia-stop-chip-sales-ukraine-sanction)
 - [Tech for Ukraine - Non-profit organizations need tech support to maximize impact in the light of the ongoing war. Help them design digital solutions that matter](https://techtotherescue.org/tech/tech-for-ukraine) 
@@ -1627,6 +1656,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Ibraheem Ahmed - Modern Unix A collection of modern/faster/saner alternatives to common unix commands](https://github.com/ibraheemdev/modern-unix)
 - [GitHub - Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
 - [DevToys - Swiss Army knife for developers](https://devtoys.app/)
 - [Postman - Postman Now Supports gRPC](https://blog.postman.com/postman-now-supports-grpc/)
