@@ -35,6 +35,7 @@
   - [Go](#go)
   - [Kotlin](#kotlin)
   - [PHP](#php)
+  - [Python](#python)
   - [Rust](#rust)
   - [Scala](#scala)
   - [Swift](#swift)
@@ -54,6 +55,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [MDN - HTTP conditional requests](https://developer.mozilla.org/en-US/docs/Web/HTTP/Conditional_requests)
+- [Mathias Verraes - Eventsourcing Patterns: Multi-temporal Events](https://verraes.net/2022/03/multi-temporal-events/)
+- [Kevin Swiber - What is API Observability?](https://hackernoon.com/what-is-api-observability)
+- [Andrew Harmel-Law - Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
+- [Hugo Rocha - Solving Concurrency in Event-Driven Microservices](https://itnext.io/solving-concurrency-in-event-driven-microservices-79bbc13b597c)
+- [CNCF - The maintainer’s toolkit: Must-know resources for CNCF projects](https://www.cncf.io/blog/2022/03/10/the-maintainers-toolkit-must-know-resources-for-cncf-projects/)
 - [The 6 Figure Developer Podcast - Fundamentals of Software Architecture with Neal Ford](https://6figuredev.com/podcast/fundamentals-of-software-architecture-with-neal-ford)
 - [Cedric Pontet - EventStorming – From Big Picture to Software Design](https://www.agilepartner.net/en/eventstorming-from-big-picture-to-software-design/)
 - [Tim Batty - Eating an Elephant](https://www.industriallogic.com/blog/eating-an-elephant/)
@@ -531,6 +538,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Chris Spitzenberger - Terraform vs. AWS CloudFormation: Key Differences](https://spacelift.io/blog/terraform-vs-cloudformation)
+- [GitHub Blog - An update on recent service disruptions](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
 - [Dan Lorenc - OCI Artifacts Explained](https://dlorenc.medium.com/oci-artifacts-explained-8f4a77945c13)
 - [github-action-benchmark - GitHub Action for continuous benchmarking to keep performance](https://github.com/benchmark-action/github-action-benchmark)
 - [CNCF - Principles for designing and deploying scalable applications on Kubernetes](https://www.cncf.io/blog/2022/02/17/principles-for-designing-and-deploying-scalable-applications-on-kubernetes/)
@@ -603,6 +612,8 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Antonio Lagrotteria - Lerna & Module Federation for AWS micro-frontends](https://alatech.medium.com/lerna-module-federation-for-aws-micro-frontends-c26ec6610016)
+- [CSS-Tricks - CSS-Tricks is joining DigitalOcean!](https://css-tricks.com/css-tricks-is-joining-digitalocean/)
 - [Luca Mezzalira - The Future of Micro-Frontends](https://betterprogramming.pub/the-future-of-micro-frontends-2f527f97d506)
 - [Netanel Basal - Using Web Components in Angular, React, Preact, Vue and Svelte](https://netbasal.com/using-web-components-in-angular-react-preact-vue-and-svelte-3c640a8ba46)
 - [Igor Mandrigin - Optimistic UIs in under 1000 words](https://uxplanet.org/optimistic-1000-34d9eefe4c05)
@@ -865,6 +876,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Andrew Lock - Cancelling await calls in .NET 6 with Task.WaitAsync()](https://andrewlock.net/cancelling-await-calls-in-dotnet-6-with-task-waitasync/)
+- [Vladimir Gaevoy - .NET type for personally identifiable information (PII)](https://gaevoy.com/2022/03/18/personally-identifiable-information-data-types.html)
+- [Antoine Aubry - YamlDotNet - A .NET library for YAML](https://github.com/aaubry/YamlDotNet)
+- [Philipp Munin - Event debouncer helps to prevent calling the same event handler too often](https://gist.github.com/pmunin/634d8971be1e0e7b16edfd548f2a8526)
 - [Alexey Zimarev - Event Sourcing with .NET](https://www.youtube.com/watch?v=IbnXdERLDjk)
 - [Mikhail Shilkov - Event Driven Applications in F#](https://www.youtube.com/watch?v=iTL9QQ_VQj8)
 - [Jérémie Chassaing - #NOMEMALLOC](https://www.youtube.com/watch?v=eVJ5b1lwMJ8)
@@ -1202,6 +1217,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [programming is terrible - How I write software](https://programmingisterrible.com/post/102153932958/how-i-write-software)
+- [Coda Hale - Work Is Work](https://codahale.com/)
 - [Samir Talwar - All Problems Are Hard](https://monospacedmonologues.com/2021/05/all-problems-are-hard/)
 - [Ted Johansson - Trim your inheritance tree, one twig at a time](https://loyalty.dev/posts/trim-your-inheritance-tree)
 - [Raycast - No code reviews by default](https://www.raycast.com/blog/no-code-reviews-by-default/)
@@ -1361,6 +1378,7 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [CBInsights - 397 Startup Failure Post-Mortems](https://www.cbinsights.com/research/startup-failure-post-mortem/)
 - [Jeff Gothelf - There’s no guarantee your product strategy will work. Here’s how to de-risk it](https://jeffgothelf.com/blog/theres-no-guarantee-your-product-strategy-will-work-heres-how-to-de-risk-it/)
 - [John Cutler - 15 Behaviors of Healthy, Data-Informed Product Teams](https://amplitude.com/blog/data-informed-product-teams)
 - [Nick Tune - A Clash of Mindsets: When New Products Depend on Existing Products](https://medium.com/nick-tune-tech-strategy-blog/
@@ -1369,6 +1387,10 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Bartłomiej Słota - Managing Business Processes in Microservice Architecture with Spring Ecosystem](https://www.youtube.com/watch?v=u9RCNlf462w)
+- [Unit test your Java architecture](https://www.archunit.org/)
+- [Spring Boot - Retry](https://docs.spring.io/spring-batch/docs/current/reference/html/retry.html)
+- [Tom Gregory - How to build Gradle projects with GitHub Actions](https://tomgregory.com/build-gradle-projects-with-github-actions/)
 - [Bartłomiej Słota - Concurrency control in REST API with Spring Framework](https://bartslota.com/concurrency-control-in-rest-api-wi/)
 - [springdoc-openapi - Library for OpenAPI 3 with spring-boot](https://github.com/springdoc/springdoc-openapi)
 - [Baeldung - Documenting a Spring REST API Using OpenAPI 3.0](https://www.baeldung.com/spring-rest-openapi-documentation)
@@ -1430,6 +1452,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## NodeJS
+- [NodeJS - Stream Finished, handling closed or ended NodeJS stream](https://nodejs.org/api/stream.html#streamfinishedstream-options-callback)
 - [node-postgres - a collection of node.js modules for interfacing with your PostgreSQL database](https://node-postgres.com/)
 - [@databases - TypeScript clients for databases that prevent SQL Injection](https://www.atdatabases.org/)
 - [Kent C. Dodds - Why I Love Remix](https://kentcdodds.com/blog/why-i-love-remix)
@@ -1484,6 +1507,9 @@
 ## PHP
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
 
+## Python
+- [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
+
 ## Rust
 - [Rust Blog - Rust Survey 2021 Results](https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html)
 - [Philipp Oppermann - Writing an OS in Rust](https://github.com/phil-opp/blog_os)
@@ -1513,6 +1539,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Tessa Kriesel - Gender discrimination at fintech startup, Fast](https://www.tessakriesel.com/gender-discrimination-at-fintech-startup-fast/)
+- [The Verge - Stephen Wilhite, creator of the GIF, has died](https://www.theverge.com/2022/3/23/22992066/stephen-wilhite-gif-creator-dies)
 - [Molly White - Abuse on the blockchain – Guest lecture at Stanford University](https://www.youtube.com/watch?v=hXBZ-BXfCSY)
 - [Vice - Crypto Exchanges Refuse to Freeze All Russian Accounts](https://www.vice.com/en/article/7kbdqq/crypto-exchanges-refuse-to-freeze-all-russian-accounts)
 - [Tom's Hardware - AMD and Intel Halt Processor Sales to Russia and Belarus](https://www.tomshardware.com/news/intel-amd-nvidia-tsmc-russia-stop-chip-sales-ukraine-sanction)
@@ -1656,6 +1684,8 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Marp - Markdown Presentation Ecosystem](https://marp.app/)
+- [Thunder Client - A lightweight Rest API Client Extension for Visual Studio Code](https://marketplac
 - [Ibraheem Ahmed - Modern Unix A collection of modern/faster/saner alternatives to common unix commands](https://github.com/ibraheemdev/modern-unix)
 - [GitHub - Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
 - [DevToys - Swiss Army knife for developers](https://devtoys.app/)
@@ -1702,6 +1732,9 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [BleepingComputer - Lapsus$ hackers leak 37GB of Microsoft's alleged source code](https://www.bleepingcomputer.com/news/microsoft/lapsus-hackers-leak-37gb-of-microsofts-alleged-source-code/)
+- [Okta - Updated Okta Statement on LAPSUS$](https://www.okta.com/blog/2022/03/updated-okta-statement-on-lapsus/)
+- [Cloudflare - Cloudflare’s investigation of the January 2022 Okta compromise](https://blog.cloudflare.com/cloudflare-investigation-of-the-january-2022-okta-compromise/)
 - [Keycloak - Open Source Identity and Access Management](https://www.keycloak.org/)
 - [Wall Street Journal - Using a New Cyber Tool, Westerners Have Been Texting Russians About the War in Ukraine](https://www.wsj.com/articles/using-a-new-cyber-tool-westerners-have-been-texting-russians-about-the-war-in-ukraine-11647100803)
 - [ejson - EJSON is a small library to manage encrypted secrets using asymmetric encryption](https://github.com/Shopify/ejson)
