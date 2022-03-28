@@ -22,6 +22,69 @@ There are two rules:
 
 ⭐ Star on GitHub or sharing with your friends will also help!
 
+
+## [28th March 2022](per-week/2022-03-28.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+
+---- 
+
+### Architecture
+- [MDN - HTTP conditional requests](https://developer.mozilla.org/en-US/docs/Web/HTTP/Conditional_requests)
+- [Mathias Verraes - Eventsourcing Patterns: Multi-temporal Events](https://verraes.net/2022/03/multi-temporal-events/)
+- [Kevin Swiber - What is API Observability?](https://hackernoon.com/what-is-api-observability)
+- [Andrew Harmel-Law - Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
+- [Hugo Rocha - Solving Concurrency in Event-Driven Microservices](https://itnext.io/solving-concurrency-in-event-driven-microservices-79bbc13b597c)
+- [CNCF - The maintainer’s toolkit: Must-know resources for CNCF projects](https://www.cncf.io/blog/2022/03/10/the-maintainers-toolkit-must-know-resources-for-cncf-projects/)
+
+### DevOps
+- [Chris Spitzenberger - Terraform vs. AWS CloudFormation: Key Differences](https://spacelift.io/blog/terraform-vs-cloudformation)
+- [GitHub Blog - An update on recent service disruptions](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
+
+### Frontend
+- [Antonio Lagrotteria - Lerna & Module Federation for AWS micro-frontends](https://alatech.medium.com/lerna-module-federation-for-aws-micro-frontends-c26ec6610016)
+- [CSS-Tricks - CSS-Tricks is joining DigitalOcean!](https://css-tricks.com/css-tricks-is-joining-digitalocean/)
+
+### Java
+- [Bartłomiej Słota - Managing Business Processes in Microservice Architecture with Spring Ecosystem](https://www.youtube.com/watch?v=u9RCNlf462w)
+- [Unit test your Java architecture](https://www.archunit.org/)
+- [Spring Boot - Retry](https://docs.spring.io/spring-batch/docs/current/reference/html/retry.html)
+- [Tom Gregory - How to build Gradle projects with GitHub Actions](https://tomgregory.com/build-gradle-projects-with-github-actions/)
+
+### .NET
+- [Andrew Lock - Cancelling await calls in .NET 6 with Task.WaitAsync()](https://andrewlock.net/cancelling-await-calls-in-dotnet-6-with-task-waitasync/)
+- [Vladimir Gaevoy - .NET type for personally identifiable information (PII)](https://gaevoy.com/2022/03/18/personally-identifiable-information-data-types.html)
+- [Antoine Aubry - YamlDotNet - A .NET library for YAML](https://github.com/aaubry/YamlDotNet)
+- [Philipp Munin - Event debouncer helps to prevent calling the same event handler too often](https://gist.github.com/pmunin/634d8971be1e0e7b16edfd548f2a8526)
+
+### NodeJS
+- [NodeJS - Stream Finished, handling closed or ended NodeJS stream](https://nodejs.org/api/stream.html#streamfinishedstream-options-callback)
+
+### Python
+- [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
+
+### Tools
+- [Marp - Markdown Presentation Ecosystem](https://marp.app/)
+- [Thunder Client - A lightweight Rest API Client Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+
+### Coding Life
+- [programming is terrible - How I write software](https://programmingisterrible.com/post/102153932958/how-i-write-software)
+- [Coda Hale - Work Is Work](https://codahale.com/)
+
+### Product Design
+- [CBInsights - 397 Startup Failure Post-Mortems](https://www.cbinsights.com/research/startup-failure-post-mortem/)
+
+### Security
+- [BleepingComputer - Lapsus$ hackers leak 37GB of Microsoft's alleged source code](https://www.bleepingcomputer.com/news/microsoft/lapsus-hackers-leak-37gb-of-microsofts-alleged-source-code/)
+- [Okta - Updated Okta Statement on LAPSUS$](https://www.okta.com/blog/2022/03/updated-okta-statement-on-lapsus/)
+- [Cloudflare - Cloudflare’s investigation of the January 2022 Okta compromise](https://blog.cloudflare.com/cloudflare-investigation-of-the-january-2022-okta-compromise/)
+- [BBC - Lapsus$: Oxford teen accused of being multi-millionaire cyber-criminal](https://www.bbc.com/news/technology-60864283)
+
+
+### Industry
+- [Tessa Kriesel - Gender discrimination at fintech startup, Fast](https://www.tessakriesel.com/gender-discrimination-at-fintech-startup-fast/)
+- [The Verge - Stephen Wilhite, creator of the GIF, has died](https://www.theverge.com/2022/3/23/22992066/stephen-wilhite-gif-creator-dies)
+
 ---- 
 
 ## [21st March 2022](per-week/2022-03-21.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
