@@ -6,3 +6,56 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ---- 
 
+### Architecture
+- [Derek Comartin - RPC vs Messaging: When to use which?](https://www.youtube.com/watch?v=LMKVzguhFw4)
+- [Microsoft - Design Patterns - Priority Queue Pattern](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/dn589794(v=pandp.10)?redirectedfrom=MSDN)
+- [Pablo Martinez - Hexagonal Architecture, there are always two sides to every story](https://medium.com/ssense-tech/hexagonal-architecture-there-are-always-two-sides-to-every-story-bc0780ed7d9c)
+- [Nick Tune - Architecture & DDD Kata: Online Car Dealership](https://medium.com/nick-tune-tech-strategy-blog/architecture-ddd-kata-online-car-dealership-540c534121e2)
+
+### Distributed Systems
+- [Natan Silnitsky - Migrating to a Multi-Cluster Managed Kafka with 0 Downtime](https://medium.com/wix-engineering/migrating-to-a-multi-cluster-managed-kafka-with-0-downtime-b936655f888e)
+- [Distributed Systems - Kafka Connect Deep Dive – Error Handling and Dead Letter Queues](https://www.confluent.io/blog/kafka-connect-deep-dive-error-handling-dead-letter-queues/)
+
+### API
+- [IETF - Problem Details for HTTP APIs RFC](https://datatracker.ietf.org/doc/html/rfc7807)
+
+### DevOps
+- [CTOP - Concise commandline monitoring for containers](https://github.com/bcicen/ctop)
+
+### Frontend
+- [Nir Ben-Yair - Headless components in React and why I stopped using a UI library for our design system](https://medium.com/@nirbenyair/headless-components-in-react-and-why-i-stopped-using-ui-libraries-a8208197c268)
+
+### Azure
+- [Microsoft DevBlogs - Ordering Messages in Azure Service Bus](https://devblogs.microsoft.com/premier-developer/ordering-messages-in-azure-service-bus/)
+- [Andrei Dzimchuk - Implementing a priority queue on Microsoft Azure](https://dzimchuk.net/implementing-a-priority-queue-on-microsoft-azure/)
+
+### Java
+- [Luke Sikina - Spring Boot + Junit 5 + Testcontainers](https://github.com/Luke-Sikina/springtestcointainerjupiter)
+
+### .NET
+- [Martin Costello - xunit-logging - Logging extensions for xunit](https://github.com/martincostello/xunit-logging)
+- [Logicality.io - platform-libs - A variety of libs, managed as a mono repo.](https://github.com/logicality-io/platform-libs)
+- [Meysam Hadeli - Caching pipeline behavior with MediatR](https://meysamhadeli.com/caching-pipeline-behavior/)
+- [Jimmy Bogard - Building NServiceBus Metrics with OpenTelemetry and System.Diagnostics.Metrics](https://jimmybogard.com/building-nservicebus-metrics/)
+
+### Tools
+- [The Verge - Google Docs is getting more Markdown support](https://www.theverge.com/2022/3/29/23002138/google-docs-markdown-support-formatting-update)
+
+### Coding Life
+- [Octopus - Moonlighting](https://handbook.octopus.com/good-to-know/moonlighting)
+
+### Management
+- [Kent Beck - Dimensions of Power](https://medium.com/@kentbeck_7670/dimensions-of-power-15ac9fa0c590)
+- [Trond Hjorteland - Autonomy across the enterprise](https://www.linkedin.com/pulse/autonomy-across-enterprise-trond-hjorteland/)
+
+### Security
+- [Tanya Janca - Why can’t I get over log4j?](https://shehackspurple.ca/2022/04/01/why-cant-i-get-over-log4j/)
+- [BleepingComputer - Fake Trezor data breach emails used to steal cryptocurrency wallets](https://www.bleepingcomputer.com/news/security/fake-trezor-data-breach-emails-used-to-steal-cryptocurrency-wallets/)
+
+### Industry
+- [BBC - Are tech companies removing evidence of war crimes?](https://www.bbc.com/news/technology-60911099)
+
+### Trivia
+- [IEEE Spectrum - The Vacuum Tube’s Forgotten Rival](https://spectrum.ieee.org/the-vacuum-tubes-forgotten-rival)
+- [ArsTechnica - Wolfenstein 3D secrets revealed by John Romero in lengthy post-mortem chat](https://arstechnica.com/gaming/2022/03/achtung-john-romero-exposes-wolfenstein-3ds-history-in-gdc-post-mortem)
+- [Killed by Microsoft](https://killedbymicrosoft.info/)
