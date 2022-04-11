@@ -55,6 +55,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - The risk of ignoring risks](https://event-driven.io/pl/the_risk_of_ignoring_risks/?utm_source=architecture_weekly)
+- [Artur Skowroński - Evolution of a Legacy Retail System with Digital Transformation](https://virtuslab.com/wp-content/uploads/2021/04/Evolution-of-a-Legacy-Retail-System-with-Digital-Transformation.pdf)
+- [D. L. Parnas - On the Criteria to be used in decomposing systems into modules](https://kilthub.cmu.edu/ndownloader/files/12098510)
+- [Misko Hevery - Don't Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
+- [InfoQ - DevOps is Not Enough for Scaling and Evolving Tech-Driven Organizations: a Q&A with Eduardo da Silva](https://www.infoq.com/articles/devops-not-enough-scaling-tech-driven-organizations/)
+- [Derek Comartin - Event Sourcing do's and don'ts](https://www.youtube.com/watch?v=SYsiIxJ-Nfw)
+- [Monday Blog - What is a Risk Register?](https://monday.com/blog/project-management/risk-register/)
+- [Virtual Domain-Driven Design - Long term impact of architectural design decision](https://www.youtube.com/watch?v=dcSup2me344)
 - [Derek Comartin - RPC vs Messaging: When to use which?](https://www.youtube.com/watch?v=LMKVzguhFw4)
 - [Microsoft - Design Patterns - Priority Queue Pattern](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/dn589794(v=pandp.10)?redirectedfrom=MSDN)
 - [Pablo Martinez - Hexagonal Architecture, there are always two sides to every story](https://medium.com/ssense-tech/hexagonal-architecture-there-are-always-two-sides-to-every-story-bc0780ed7d9c)
@@ -544,6 +552,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Nived Velayudhan - Kubernetes Networking Fundamentals](https://www.techbeatly.com/kubernetes-networking-fundamentals/)
+- [Matthew Palmer - Kubernetes Networking Guide for Beginners](https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-networking-guide-beginners.html)
+- [Datadog - Introducing the Service Map in Datadog](https://www.datadoghq.com/blog/service-map/)
 - [CTOP - Concise commandline monitoring for containers](https://github.com/bcicen/ctop)
 - [Chris Spitzenberger - Terraform vs. AWS CloudFormation: Key Differences](https://spacelift.io/blog/terraform-vs-cloudformation)
 - [GitHub Blog - An update on recent service disruptions](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
@@ -848,9 +859,11 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Renato Losio - AWS Introduces Lambda Function URLs to Simplify Serverless Deployments](https://www.infoq.com/news/2022/04/aws-lambda-function-urls/)
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Kai Walter - Azure Application Gateway for dummies](https://dev.to/kaiwalter/azure-application-gateway-for-dummies-dj3)
 - [Microsoft DevBlogs - Ordering Messages in Azure Service Bus](https://devblogs.microsoft.com/premier-developer/ordering-messages-in-azure-service-bus/)
 - [Andrei Dzimchuk - Implementing a priority queue on Microsoft Azure](https://dzimchuk.net/implementing-a-priority-queue-on-microsoft-azure/)
 - [Tomasz Pęczek - How to get started with your PaaS architecture in Azure?](https://www.predicagroup.com/blog/paas-architecture-cloud-application)
@@ -887,6 +900,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Alexey Zimarev - Eventuous Event Sourcing with .NET](https://www.youtube.com/watch?v=4j7PyYT2GMU)
+- [Microsoft - Kiota - OpenAPI based HTTP Client SDK code generator](https://github.com/microsoft/kiota)
+- [Jeremy D. Miller - Improving the Development and Production Time Experience with Marten V5](https://jeremydmiller.com/2022/03/30/improving-the-development-and-production-time-experience-with-marten-v5/)
+- [PDMLab - A GitHub template for ASP.NET Core (.NET 6) Razor Pages including TailwindCSS 3](https://github.com/PDMLab/AspNetRazorPagesTemplate)
 - [Martin Costello - xunit-logging - Logging extensions for xunit](https://github.com/martincostello/xunit-logging)
 - [Logicality.io - platform-libs - A variety of libs, managed as a mono repo.](https://github.com/logicality-io/platform-libs)
 - [Meysam Hadeli - Caching pipeline behavior with MediatR](https://meysamhadeli.com/caching-pipeline-behavior/)
@@ -1231,6 +1248,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Stanisław Pitucha - Questions to ask the company during your interview](https://github.com/viraptor/reverse-interview)
 - [Octopus - Moonlighting](https://handbook.octopus.com/good-to-know/moonlighting)
 - [programming is terrible - How I write software](https://programmingisterrible.com/post/102153932958/how-i-write-software)
 - [Coda Hale - Work Is Work](https://codahale.com/)
@@ -1404,6 +1422,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Mateusz Chrzonstowski  - Less popular Spring tricks: no Hibernate, projections, rest repo, events, AOP](https://github.com/mat3e/less-popular-spring-functions)
 - [Luke Sikina - Spring Boot + Junit 5 + Testcontainers](https://github.com/Luke-Sikina/springtestcointainerjupiter)
 - [Bartłomiej Słota - Managing Business Processes in Microservice Architecture with Spring Ecosystem](https://www.youtube.com/watch?v=u9RCNlf462w)
 - [Unit test your Java architecture](https://www.archunit.org/)
@@ -1446,6 +1465,7 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)]
 
 ## JavaScript
+- [Rohit Gohri - How to get ESlint and Prettier to play nice in VS Code?](https://rohit.page/blog/posts/how-to-get-prettier-eslint-play-nicely-with-vscode/)
 - [Hugh Haworth - Comparing Node JavaScript to JavaScript in the Browser](https://css-tricks.com/node-javascript-compared-to-javascript/)
 - [Microsoft - A Proposal For Type Syntax in JavaScript](https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/)
 - [Bleeping Computer - Empty npm package '-' has over 700,000 downloads — here's why](https://www.bleepingcomputer.com/news/software/empty-npm-package-has-over-700-000-downloads-heres-why/)
@@ -1457,6 +1477,8 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Marius Schulz - The unknown Type in TypeScript](https://mariusschulz.com/blog/the-unknown-type-in-typescript)
+- [LogRocket - Linting in TypeScript using ESLint and Prettier](https://blog.logrocket.com/linting-typescript-using-eslint-and-prettier/)
 - [Leonardo Maldonado - Types vs. interfaces in TypeScript](https://blog.logrocket.com/types-vs-interfaces-in-typescript/)
 - [Matthew Swensen - Mastering mapped types in TypeScript](https://blog.logrocket.com/mastering-mapped-types-typescript/)
 - [Marcin Dziewulski - ts_belt - Fast, modern, and practical utility library for FP in TypeScript](https://mobily.github.io/ts-belt/docs/)
@@ -1703,6 +1725,8 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Andrew Lock - Working on two git branches at once with git worktree](https://andrewlock.net/working-on-two-git-branches-at-once-with-git-worktree)
+- [Yawan - Fully Functional Stack Overflow Clone, with almost every functionality](https://github.com/Yawan-1/StackOverFlow--Clone)
 - [The Verge - Google Docs is getting more Markdown support](https://www.theverge.com/2022/3/29/23002138/google-docs-markdown-support-formatting-update)
 - [Marp - Markdown Presentation Ecosystem](https://marp.app/)
 - [Thunder Client - A lightweight Rest API Client Extension for Visual Studio Code](https://marketplac
@@ -1838,6 +1862,9 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Milan Curcic - Writing a technical book with Manning in 2020](https://medium.com/modern-fortran/writing-a-technical-book-with-manning-in-2020-6ac3497500c9)
+- [Hana Mohan - The Slack Notifications Flowchart Explained](https://www.magicbell.com/blog/slack-notifications-flowchart)
+- [Blue OS Museum - Microsoft Windows 95 Launch with Bill Gates & Jay Leno](https://www.youtube.com/watch?v=_JzfROUDsK0)
 - [IEEE Spectrum - The Vacuum Tube’s Forgotten Rival](https://spectrum.ieee.org/the-vacuum-tubes-forgotten-rival)
 - [ArsTechnica - Wolfenstein 3D secrets revealed by John Romero in lengthy post-mortem chat](https://arstechnica.com/gaming/2022/03/achtung-john-romero-exposes-wolfenstein-3ds-history-in-gdc-post-mortem)
 - [Killed by Microsoft](https://killedbymicrosoft.info/)
