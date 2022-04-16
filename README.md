@@ -24,6 +24,67 @@ There are two rules:
 
 ---- 
 
+## [18th April 2022](per-week/2022-04-18.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+
+---
+
+### Architecture
+- [Adam Ralph - Finding your service boundaries - a practical guide](https://www.youtube.com/watch?v=tVnIUZbsxWI)
+- [Udi Dahan - Microservices and Rules Engines – a blast from the past](https://www.youtube.com/watch?v=Fuac__g928E)
+- [Mat McLoughlin - Model timelines not entities](https://poweredbybeard.net/processes-not-entities/)
+- [Mauro Servienti - Talk Session: Welcome to the (State) Machine](https://www.youtube.com/watch?v=26xrX113KZc)
+- [G. S. Kuaban, R. Kumar, B.S. Soodan, P. Czekalski - Multi-Server Queuing Model With Balking and Correlated Reneging With Application in Health Care Management](https://www.iitis.pl/sites/default/files/pubs/kuban2020multi-server.pdf)
+
+### DevOps
+- [The Register - At last, Atlassian sees an end to its outage ... in two weeks](https://www.theregister.com/2022/04/11/atlassian_outage_backups/)
+- [Gergerly Orosz - The Scoop: Inside the Longest Atlassian Outage of All Time](https://newsletter.pragmaticengineer.com/p/scoop-atlassian)
+- [Tomasz Brzoza - Managing complex configurations in large scale environments](https://medium.com/nordcloud-engineering/managing-complex-configurations-in-large-scale-environments-5bc6bfc009d5)
+- [Logz.io - The Complete Guide to the ELK Stack](https://logz.io/learn/complete-guide-elk-stack/)
+- [Mike Rogers - Testing Logstash configuration with JSON input/output](https://medium.com/@mikerogers1357/testing-logstash-configuration-with-json-input-output-9b781962cc2)
+
+### Databases
+- [Alex DeBrie - GraphQL, DynamoDB, and Single-table Design](https://www.alexdebrie.com/posts/dynamodb-graphql/)
+
+### Testing
+- [Testcontainers - New milestone, new look, new release, same Testcontainers!](https://www.atomicjar.com/2022/04/new-milestone-new-look-new-release-same-testcontainers/)
+
+### Frontend
+- [Christian Heilmann - One million broken web sites – and a way to prevent that](https://christianheilmann.com/2022/04/12/one-million-broken-web-sites-and-a-way-to-prevent-that/)
+
+### .NET
+- [.NET Blog - Introducing Central Package Management](https://devblogs.microsoft.com/nuget/introducing-central-package-management/)
+- [JorgeCandeias - Trader - An algorithmic trading framework and host built on Microsoft Orleans](https://github.com/JorgeCandeias/Trader)
+- [Nicholas Blumhardt - Customizing Serilog text output](https://nblumhardt.com/2021/06/customize-serilog-text-output/)
+- [ASP.NET Documentation - Basic tests with the default WebApplicationFactory](https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-6.0#basic-tests-with-the-default-webapplicationfactory)
+- [.NET Blog - ASP.NET Core updates in .NET 7 Preview 3](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-preview-3/)
+
+### Go
+- [Dmitry Vyukov — Go scheduler: Implementing language with lightweight concurrency](https://www.youtube.com/watch?v=-K11rY57K7k)
+- [İnanç Gümüş - Learn Go - A Huge Number of Go Examples, Exercises and Quizzes](https://github.com/inancgumus/learngo)
+
+### Tools
+- [httpie - HTTPie: human-friendly CLI HTTP client for the API era](https://github.com/httpie/httpie)
+- [WorkFlowy - A simpler way to stay organized](https://workflowy.com/)
+
+### Coding Life
+- [Oskar Dudycz - Agile vs Introverts](https://event-driven.io/en/agile_vs_introverts/?utm_source=architecture_weekly)
+
+### Industry
+- [The Vice - Twitter Loses Elon Musk the Board Member, Regains Elon Musk the Shitposter](https://www.vice.com/en/article/93bj77/twitter-loses-elon-musk-the-board-member-regains-elon-musk-the-shitposter)
+
+### Security
+- [The Daily Swig - Internal AWS credentials swiped by researcher via SQL payload](https://portswigger.net/daily-swig/internal-aws-credentials-swiped-by-researcher-via-sql-payload)
+- [The Hacker News - GitHub Says Hackers Breached Dozens of Organizations Using Stolen OAuth Access Tokens](https://thehackernews.com/2022/04/github-says-hackers-breach-dozens-of.html)
+- [GitHub - Git security vulnerability announced](https://github.blog/2022-04-12-git-security-vulnerability-announced/)
+
+### Trivia
+- [Farnam Street - How to Think: The Skill You’ve Never Been Taught](https://fs.blog/how-to-think/)
+- [httpie - How we lost 54k GitHub stars](https://httpie.io/blog/stardust)
+
+---- 
+
 ## [11th April 2022](per-week/2022-04-11.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 **Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.

@@ -55,6 +55,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Adam Ralph - Finding your service boundaries - a practical guide](https://www.youtube.com/watch?v=tVnIUZbsxWI)
+- [Udi Dahan - Microservices and Rules Engines – a blast from the past](https://www.youtube.com/watch?v=Fuac__g928E)
+- [Mat McLoughlin - Model timelines not entities](https://poweredbybeard.net/processes-not-entities/)
+- [Mauro Servienti - Talk Session: Welcome to the (State) Machine](https://www.youtube.com/watch?v=26xrX113KZc)
+- [G. S. Kuaban, R. Kumar, B.S. Soodan, P. Czekalski - Multi-Server Queuing Model With Balking and Correlated Reneging With Application in Health Care Management](https://www.iitis.pl/sites/default/files/pubs/kuban2020multi-server.pdf)
 - [Oskar Dudycz - The risk of ignoring risks](https://event-driven.io/pl/the_risk_of_ignoring_risks/?utm_source=architecture_weekly)
 - [Artur Skowroński - Evolution of a Legacy Retail System with Digital Transformation](https://virtuslab.com/wp-content/uploads/2021/04/Evolution-of-a-Legacy-Retail-System-with-Digital-Transformation.pdf)
 - [D. L. Parnas - On the Criteria to be used in decomposing systems into modules](https://kilthub.cmu.edu/ndownloader/files/12098510)
@@ -552,6 +557,11 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [The Register - At last, Atlassian sees an end to its outage ... in two weeks](https://www.theregister.com/2022/04/11/atlassian_outage_backups/)
+- [Gergerly Orosz - The Scoop: Inside the Longest Atlassian Outage of All Time](https://newsletter.pragmaticengineer.com/p/scoop-atlassian)
+- [Tomasz Brzoza - Managing complex configurations in large scale environments](https://medium.com/nordcloud-engineering/managing-complex-configurations-in-large-scale-environments-5bc6bfc009d5)
+- [Logz.io - The Complete Guide to the ELK Stack](https://logz.io/learn/complete-guide-elk-stack/)
+- [Mike Rogers - Testing Logstash configuration with JSON input/output](https://medium.com/@mikerogers1357/testing-logstash-configuration-with-json-input-output-9b781962cc2)
 - [Nived Velayudhan - Kubernetes Networking Fundamentals](https://www.techbeatly.com/kubernetes-networking-fundamentals/)
 - [Matthew Palmer - Kubernetes Networking Guide for Beginners](https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-networking-guide-beginners.html)
 - [Datadog - Introducing the Service Map in Datadog](https://www.datadoghq.com/blog/service-map/)
@@ -630,6 +640,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Christian Heilmann - One million broken web sites – and a way to prevent that](https://christianheilmann.com/2022/04/12/one-million-broken-web-sites-and-a-way-to-prevent-that/)
 - [Nir Ben-Yair - Headless components in React and why I stopped using a UI library for our design system](https://medium.com/@nirbenyair/headless-components-in-react-and-why-i-stopped-using-ui-libraries-a8208197c268)
 - [Antonio Lagrotteria - Lerna & Module Federation for AWS micro-frontends](https://alatech.medium.com/lerna-module-federation-for-aws-micro-frontends-c26ec6610016)
 - [CSS-Tricks - CSS-Tricks is joining DigitalOcean!](https://css-tricks.com/css-tricks-is-joining-digitalocean/)
@@ -694,6 +705,7 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Testcontainers - New milestone, new look, new release, same Testcontainers!](https://www.atomicjar.com/2022/04/new-milestone-new-look-new-release-same-testcontainers/)
 - [Alexei Ledenev - Pumba: chaos testing tool for Docker](https://github.com/alexei-led/pumba)
 - [WireMock - Mock your APIs for fast, robust and comprehensive testing](https://github.com/Adven27/grpc-wiremock)
 - [Adven27 - grpc-wiremock - gRPC Mock Server](https://github.com/Adven27/grpc-wiremock)
@@ -742,6 +754,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Alex DeBrie - GraphQL, DynamoDB, and Single-table Design](https://www.alexdebrie.com/posts/dynamodb-graphql/)
 - [Ongres - Performance Benchmark PostgreSQL/MongoDB](https://info.enterprisedb.com/rs/069-ALB-339/images/PostgreSQL_MongoDB_Benchmark-WhitepaperFinal.pdf)
 - [Lev Kokotov - PostgreSQL pooler with sharding, load balancing and failover support](https://github.com/levkk/pgcat)
 - [Alex Klibisz - Optimizing Postgres Text Search with Trigrams](https://alexklibisz.com/2022/02/18/optimizing-postgres-trigram-search.html)
@@ -900,6 +913,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [.NET Blog - Introducing Central Package Management](https://devblogs.microsoft.com/nuget/introducing-central-package-management/)
+- [JorgeCandeias - Trader - An algorithmic trading framework and host built on Microsoft Orleans](https://github.com/JorgeCandeias/Trader)
+- [Nicholas Blumhardt - Customizing Serilog text output](https://nblumhardt.com/2021/06/customize-serilog-text-output/)
+- [ASP.NET Documentation - Basic tests with the default WebApplicationFactory](https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-6.0#basic-tests-with-the-default-webapplicationfactory)
+- [.NET Blog - ASP.NET Core updates in .NET 7 Preview 3](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-preview-3/)
 - [Alexey Zimarev - Eventuous Event Sourcing with .NET](https://www.youtube.com/watch?v=4j7PyYT2GMU)
 - [Microsoft - Kiota - OpenAPI based HTTP Client SDK code generator](https://github.com/microsoft/kiota)
 - [Jeremy D. Miller - Improving the Development and Production Time Experience with Marten V5](https://jeremydmiller.com/2022/03/30/improving-the-development-and-production-time-experience-with-marten-v5/)
@@ -1248,6 +1266,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Oskar Dudycz - Agile vs Introverts](https://event-driven.io/en/agile_vs_introverts/?utm_source=architecture_weekly)
 - [Stanisław Pitucha - Questions to ask the company during your interview](https://github.com/viraptor/reverse-interview)
 - [Octopus - Moonlighting](https://handbook.octopus.com/good-to-know/moonlighting)
 - [programming is terrible - How I write software](https://programmingisterrible.com/post/102153932958/how-i-write-software)
@@ -1523,6 +1542,8 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Dmitry Vyukov — Go scheduler: Implementing language with lightweight concurrency](https://www.youtube.com/watch?v=-K11rY57K7k)
+- [İnanç Gümüş - Learn Go - A Huge Number of Go Examples, Exercises and Quizzes](https://github.com/inancgumus/learngo)
 - [Brandon Schurman - Building a Monorepo in Golang](https://earthly.dev/blog/golang-monorepo/)
 - [Seth Vargo - Golang Password Generator](https://github.com/sethvargo/go-password)
 - [Robert Laszczak - The Repository pattern: a painless way to simplify your Go service logic](https://threedots.tech/post/repository-pattern-in-go/)
@@ -1579,6 +1600,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [The Vice - Twitter Loses Elon Musk the Board Member, Regains Elon Musk the Shitposter](https://www.vice.com/en/article/93bj77/twitter-loses-elon-musk-the-board-member-regains-elon-musk-the-shitposter)
 - [BBC - Are tech companies removing evidence of war crimes?](https://www.bbc.com/news/technology-60911099)
 - [Tessa Kriesel - Gender discrimination at fintech startup, Fast](https://www.tessakriesel.com/gender-discrimination-at-fintech-startup-fast/)
 - [The Verge - Stephen Wilhite, creator of the GIF, has died](https://www.theverge.com/2022/3/23/22992066/stephen-wilhite-gif-creator-dies)
@@ -1725,6 +1747,8 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [httpie - HTTPie: human-friendly CLI HTTP client for the API era](https://github.com/httpie/httpie)
+- [WorkFlowy - A simpler way to stay organized](https://workflowy.com/)
 - [Andrew Lock - Working on two git branches at once with git worktree](https://andrewlock.net/working-on-two-git-branches-at-once-with-git-worktree)
 - [Yawan - Fully Functional Stack Overflow Clone, with almost every functionality](https://github.com/Yawan-1/StackOverFlow--Clone)
 - [The Verge - Google Docs is getting more Markdown support](https://www.theverge.com/2022/3/29/23002138/google-docs-markdown-support-formatting-update)
@@ -1776,6 +1800,9 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [The Daily Swig - Internal AWS credentials swiped by researcher via SQL payload](https://portswigger.net/daily-swig/internal-aws-credentials-swiped-by-researcher-via-sql-payload)
+- [The Hacker News - GitHub Says Hackers Breached Dozens of Organizations Using Stolen OAuth Access Tokens](https://thehackernews.com/2022/04/github-says-hackers-breach-dozens-of.html)
+- [GitHub - Git security vulnerability announced](https://github.blog/2022-04-12-git-security-vulnerability-announced/)
 - [Tanya Janca - Why can’t I get over log4j?](https://shehackspurple.ca/2022/04/01/why-cant-i-get-over-log4j/)
 - [BleepingComputer - Fake Trezor data breach emails used to steal cryptocurrency wallets](https://www.bleepingcomputer.com/news/security/fake-trezor-data-breach-emails-used-to-steal-cryptocurrency-wallets/)
 - [BleepingComputer - Lapsus$ hackers leak 37GB of Microsoft's alleged source code](https://www.bleepingcomputer.com/news/microsoft/lapsus-hackers-leak-37gb-of-microsofts-alleged-source-code/)
@@ -1862,6 +1889,8 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Farnam Street - How to Think: The Skill You’ve Never Been Taught](https://fs.blog/how-to-think/)
+- [httpie - How we lost 54k GitHub stars](https://httpie.io/blog/stardust)
 - [Milan Curcic - Writing a technical book with Manning in 2020](https://medium.com/modern-fortran/writing-a-technical-book-with-manning-in-2020-6ac3497500c9)
 - [Hana Mohan - The Slack Notifications Flowchart Explained](https://www.magicbell.com/blog/slack-notifications-flowchart)
 - [Blue OS Museum - Microsoft Windows 95 Launch with Bill Gates & Jay Leno](https://www.youtube.com/watch?v=_JzfROUDsK0)
