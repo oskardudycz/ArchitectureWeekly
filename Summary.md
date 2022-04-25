@@ -55,6 +55,13 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Software Crafts Podcast - Interview with Jessica Kerr](https://softwarecraftspodcast.libsyn.com/episode-56-jessica-kerr)
+- [Lee Atchison - Use of consumption apps in the enterprise](https://www.infoworld.com/article/3656631/use-of-consumption-apps-in-the-enterprise.html)
+- [Michiel Uithol - Security in Domain-Driven Design](http://essay.utwente.nl/58268/1/scriptie_M_Uithol.pdf)
+- [Joshua Kerievsky - Refactoring to Patterns: Simplification](https://www.informit.com/articles/article.aspx?p=1398607#:~:text=Compose%20Method%20(123)%20is%20about,the%20same%20level%20of%20detail)
+- [Pavel Azaletskiy - Dynamic Value Stream Mapping to Help Increase Developer Productivity](https://www.infoq.com/articles/dynamic-value-stream-mapping)
+- [Juan Manuel Garrido de Paz - Hexagonal Architecture pills](https://jmgarridopaz.github.io/content/hapills.html)
+- [The Valuable Dev - Cohesion and Coupling in Software with Examples](https://thevaluable.dev/cohesion-coupling-guide-examples/)
 - [Adam Ralph - Finding your service boundaries - a practical guide](https://www.youtube.com/watch?v=tVnIUZbsxWI)
 - [Udi Dahan - Microservices and Rules Engines – a blast from the past](https://www.youtube.com/watch?v=Fuac__g928E)
 - [Mat McLoughlin - Model timelines not entities](https://poweredbybeard.net/processes-not-entities/)
@@ -395,6 +402,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [I. Levine, C. Posta, Y. Kohavi - eBPF for Service Mesh? Yes, but Envoy Proxy is here to stay](https://www.solo.io/blog/ebpf-for-service-mesh/)
 - [Natan Silnitsky - Migrating to a Multi-Cluster Managed Kafka with 0 Downtime](https://medium.com/wix-engineering/migrating-to-a-multi-cluster-managed-kafka-with-0-downtime-b936655f888e)
 - [Distributed Systems - Kafka Connect Deep Dive – Error Handling and Dead Letter Queues](https://www.confluent.io/blog/kafka-connect-deep-dive-error-handling-dead-letter-queues/)
 - [Andrew Carr - Comparing Apache Kafka, Amazon Kinesis, Microsoft Event Hubs and Google Pub/Sub](https://blog.scottlogic.com/2018/04/17/comparing-big-data-messaging.html)
@@ -557,6 +565,10 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Michael Vittrup Larsen - The future of Kubernetes – and why developers should look beyond Kubernetes in 2022](https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022)
+- [Vector - A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)
+- [DigitalOcean - How To Use Journalctl to View and Manipulate Systemd Logs](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)
+- [Kelsey Hightower - Automation is the serialization of understanding](https://changelog.com/posts/automation-is-the-serialization-of-understanding)
 - [The Register - At last, Atlassian sees an end to its outage ... in two weeks](https://www.theregister.com/2022/04/11/atlassian_outage_backups/)
 - [Gergerly Orosz - The Scoop: Inside the Longest Atlassian Outage of All Time](https://newsletter.pragmaticengineer.com/p/scoop-atlassian)
 - [Tomasz Brzoza - Managing complex configurations in large scale environments](https://medium.com/nordcloud-engineering/managing-complex-configurations-in-large-scale-environments-5bc6bfc009d5)
@@ -640,6 +652,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Paul Hebert - Web Components as Progressive Enhancement](https://cloudfour.com/thinks/web-components-as-progressive-enhancement/)
 - [Christian Heilmann - One million broken web sites – and a way to prevent that](https://christianheilmann.com/2022/04/12/one-million-broken-web-sites-and-a-way-to-prevent-that/)
 - [Nir Ben-Yair - Headless components in React and why I stopped using a UI library for our design system](https://medium.com/@nirbenyair/headless-components-in-react-and-why-i-stopped-using-ui-libraries-a8208197c268)
 - [Antonio Lagrotteria - Lerna & Module Federation for AWS micro-frontends](https://alatech.medium.com/lerna-module-federation-for-aws-micro-frontends-c26ec6610016)
@@ -913,6 +926,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Maksim Volkau - ImTools - Fast and memory-efficient immutable collections and helper data structures](https://github.com/dadhi/ImTools)
+- [Tobias Ahnoff & Martin Altenstedt - Defence in depth as Code](https://www.youtube.com/watch?v=5nQ00_z0hF4)
+- [.NET MAUI Release Candidate – Ready for cross-platform app development](https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-1/)
+- [Maarten Balliauw - Nullable reference types in C# - Migrating to nullable reference types - Part 1](https://blog.maartenballiauw.be/post/2022/04/11/nullable-reference-types-in-csharp-migrating-to-nullable-reference-types-part-1.html)
 - [.NET Blog - Introducing Central Package Management](https://devblogs.microsoft.com/nuget/introducing-central-package-management/)
 - [JorgeCandeias - Trader - An algorithmic trading framework and host built on Microsoft Orleans](https://github.com/JorgeCandeias/Trader)
 - [Nicholas Blumhardt - Customizing Serilog text output](https://nblumhardt.com/2021/06/customize-serilog-text-output/)
@@ -1266,6 +1283,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Tekna - Non-Competition Clauses](https://www.tekna.no/en/salary-and-negotiations/employment-law/non-competition-clauses/)
 - [Oskar Dudycz - Agile vs Introverts](https://event-driven.io/en/agile_vs_introverts/?utm_source=architecture_weekly)
 - [Stanisław Pitucha - Questions to ask the company during your interview](https://github.com/viraptor/reverse-interview)
 - [Octopus - Moonlighting](https://handbook.octopus.com/good-to-know/moonlighting)
@@ -1405,6 +1423,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Will Larson - Staff archetypes](https://staffeng.com/guides/staff-archetypes)
+- [Tim Ottinger - Story Points: Why is this so hard?](https://www.industriallogic.com/blog/story-points-why-is-this-so-hard/)
 - [Kent Beck - Dimensions of Power](https://medium.com/@kentbeck_7670/dimensions-of-power-15ac9fa0c590)
 - [Trond Hjorteland - Autonomy across the enterprise](https://www.linkedin.com/pulse/autonomy-across-enterprise-trond-hjorteland/)
 - [Erik Wiffin - How to get the most out of your 1:1s](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/)
@@ -1600,6 +1620,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [BleepingComputer - GitHub suspends accounts of Russian devs at sanctioned companies](https://www.bleepingcomputer.com/news/security/github-suspends-accounts-of-russian-devs-at-sanctioned-companies/)
 - [The Vice - Twitter Loses Elon Musk the Board Member, Regains Elon Musk the Shitposter](https://www.vice.com/en/article/93bj77/twitter-loses-elon-musk-the-board-member-regains-elon-musk-the-shitposter)
 - [BBC - Are tech companies removing evidence of war crimes?](https://www.bbc.com/news/technology-60911099)
 - [Tessa Kriesel - Gender discrimination at fintech startup, Fast](https://www.tessakriesel.com/gender-discrimination-at-fintech-startup-fast/)
@@ -1705,6 +1726,7 @@
 - [Corey Quinn - How to Compete with AWS](https://www.lastweekinaws.com/blog/how-to-compete-with-aws/)
 
 ## Hardware
+- [RedPanda - Evaluating Graviton 2 for data-intensive applications: an Arm vs Intel comparison](https://redpanda.com/blog/aws-graviton-2-arm-vs-x86-comparison)
 - [Tom's Hardware - Intel BIOS Updates Officially Disable Alder Lake's AVX-512 Capabilities](https://www.tomshardware.com/news/intel-bios-update-disables-alder-lake-avx-512)
 - [Michael Yuan - Performance Analysis for Arm vs x86 CPUs in the Cloud](https://www.infoq.com/articles/arm-vs-x86-cloud-performance/)
 - [Anand Tech - AMD Gives Details on EPYC Zen4: Genoa and Bergamo, up to 96 and 128 Cores](https://www.anandtech.com/show/17055/amd-gives-details-on-epyc-zen4-genoa-and-bergamo-up-to-96-and-128-cores)
@@ -1747,6 +1769,9 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Nushell - A new type of shell](https://www.nushell.sh/)
+- [Wilfred Hughes - Diffastic - a diff that understands syntax](https://difftastic.wilfred.me.uk/)
+- [GitHub - You can now name your fork when creating it](https://github.blog/changelog/2022-04-12-you-can-now-name-your-fork-when-creating-it/)
 - [httpie - HTTPie: human-friendly CLI HTTP client for the API era](https://github.com/httpie/httpie)
 - [WorkFlowy - A simpler way to stay organized](https://workflowy.com/)
 - [Andrew Lock - Working on two git branches at once with git worktree](https://andrewlock.net/working-on-two-git-branches-at-once-with-git-worktree)
@@ -1800,6 +1825,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Oracle - Critical Patch Update Advisory - April 2022](https://www.oracle.com/security-alerts/cpuapr2022.html)
 - [The Daily Swig - Internal AWS credentials swiped by researcher via SQL payload](https://portswigger.net/daily-swig/internal-aws-credentials-swiped-by-researcher-via-sql-payload)
 - [The Hacker News - GitHub Says Hackers Breached Dozens of Organizations Using Stolen OAuth Access Tokens](https://thehackernews.com/2022/04/github-says-hackers-breach-dozens-of.html)
 - [GitHub - Git security vulnerability announced](https://github.blog/2022-04-12-git-security-vulnerability-announced/)
@@ -1889,6 +1915,8 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Markham Heid - The Science Behind Gut Feelings](https://elemental.medium.com/the-science-behind-gut-feelings-e4ed0be994e9)
+- [PBS - False news travels 6 times faster on Twitter than truthful news](https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news)
 - [Farnam Street - How to Think: The Skill You’ve Never Been Taught](https://fs.blog/how-to-think/)
 - [httpie - How we lost 54k GitHub stars](https://httpie.io/blog/stardust)
 - [Milan Curcic - Writing a technical book with Manning in 2020](https://medium.com/modern-fortran/writing-a-technical-book-with-manning-in-2020-6ac3497500c9)

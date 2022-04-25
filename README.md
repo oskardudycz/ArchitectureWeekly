@@ -24,9 +24,69 @@ There are two rules:
 
 ---- 
 
+## [25th April 2022](per-week/2022-04-25.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+
+----
+
+### Architecture
+- [Software Crafts Podcast - Interview with Jessica Kerr](https://softwarecraftspodcast.libsyn.com/episode-56-jessica-kerr)
+- [Lee Atchison - Use of consumption apps in the enterprise](https://www.infoworld.com/article/3656631/use-of-consumption-apps-in-the-enterprise.html)
+- [Michiel Uithol - Security in Domain-Driven Design](http://essay.utwente.nl/58268/1/scriptie_M_Uithol.pdf)
+- [Joshua Kerievsky - Refactoring to Patterns: Simplification](https://www.informit.com/articles/article.aspx?p=1398607#:~:text=Compose%20Method%20(123)%20is%20about,the%20same%20level%20of%20detail)
+- [Pavel Azaletskiy - Dynamic Value Stream Mapping to Help Increase Developer Productivity](https://www.infoq.com/articles/dynamic-value-stream-mapping)
+- [Juan Manuel Garrido de Paz - Hexagonal Architecture pills](https://jmgarridopaz.github.io/content/hapills.html)
+- [The Valuable Dev - Cohesion and Coupling in Software with Examples](https://thevaluable.dev/cohesion-coupling-guide-examples/)
+
+### Distributed Systems
+- [I. Levine, C. Posta, Y. Kohavi - eBPF for Service Mesh? Yes, but Envoy Proxy is here to stay](https://www.solo.io/blog/ebpf-for-service-mesh/)
+
+### DevOps
+- [Michael Vittrup Larsen - The future of Kubernetes – and why developers should look beyond Kubernetes in 2022](https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022)
+- [Vector - A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)
+- [DigitalOcean - How To Use Journalctl to View and Manipulate Systemd Logs](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)
+- [Kelsey Hightower - Automation is the serialization of understanding](https://changelog.com/posts/automation-is-the-serialization-of-understanding)
+
+### Frontend
+- [Paul Hebert - Web Components as Progressive Enhancement](https://cloudfour.com/thinks/web-components-as-progressive-enhancement/)
+
+### .NET
+- [Maksim Volkau - ImTools - Fast and memory-efficient immutable collections and helper data structures](https://github.com/dadhi/ImTools)
+- [Tobias Ahnoff & Martin Altenstedt - Defence in depth as Code](https://www.youtube.com/watch?v=5nQ00_z0hF4)
+- [.NET MAUI Release Candidate – Ready for cross-platform app development](https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-1/)
+- [Maarten Balliauw - Nullable reference types in C# - Migrating to nullable reference types - Part 1](https://blog.maartenballiauw.be/post/2022/04/11/nullable-reference-types-in-csharp-migrating-to-nullable-reference-types-part-1.html)
+
+### Hardware
+- [RedPanda - Evaluating Graviton 2 for data-intensive applications: an Arm vs Intel comparison](https://redpanda.com/blog/aws-graviton-2-arm-vs-x86-comparison)
+
+### Tools
+- [Nushell - A new type of shell](https://www.nushell.sh/)
+- [Wilfred Hughes - Diffastic - a diff that understands syntax](https://difftastic.wilfred.me.uk/)
+- [GitHub - You can now name your fork when creating it](https://github.blog/changelog/2022-04-12-you-can-now-name-your-fork-when-creating-it/)
+
+### Management
+- [Will Larson - Staff archetypes](https://staffeng.com/guides/staff-archetypes)
+- [Tim Ottinger - Story Points: Why is this so hard?](https://www.industriallogic.com/blog/story-points-why-is-this-so-hard/)
+
+### Coding Life
+- [Tekna - Non-Competition Clauses](https://www.tekna.no/en/salary-and-negotiations/employment-law/non-competition-clauses/)
+
+### Industry
+- [BleepingComputer - GitHub suspends accounts of Russian devs at sanctioned companies](https://www.bleepingcomputer.com/news/security/github-suspends-accounts-of-russian-devs-at-sanctioned-companies/)
+
+### Security
+- [Oracle - Critical Patch Update Advisory - April 2022](https://www.oracle.com/security-alerts/cpuapr2022.html)
+
+### Trivia
+- [Markham Heid - The Science Behind Gut Feelings](https://elemental.medium.com/the-science-behind-gut-feelings-e4ed0be994e9)
+- [PBS - False news travels 6 times faster on Twitter than truthful news](https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news)
+
+---- 
+
 ## [18th April 2022](per-week/2022-04-18.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
-Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
 ---
 
@@ -87,7 +147,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [11th April 2022](per-week/2022-04-11.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
-**Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+**Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
 ---- 
 
@@ -148,7 +208,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [4th April 2022](per-week/2022-04-04.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
-**Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+**Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
 ---- 
 
@@ -210,7 +270,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [28th March 2022](per-week/2022-03-28.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
-**Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+**Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
 ---- 
 
@@ -274,7 +334,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [21st March 2022](per-week/2022-03-21.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
-**Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+**Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
 ---- 
 
@@ -335,7 +395,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [14th March 2022](per-week/2022-03-14.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
-**Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+**Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
 ---- 
 
@@ -397,7 +457,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [7th March 2022](per-week/2022-03-07.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
-**Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+**Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
 ### Architecture
 - [Jakub Nabrdalik - What I wish I knew when I started designing systems years ago](https://www.youtube.com/watch?v=1HJJhGHC2A4)
@@ -471,7 +531,7 @@ Of course, life has different shades of grey. For instance, our Polish-Ukraine r
 
 How can you help?
 
-- You can make donations, even without getting up from your couch. Most humanitarian organisations are gathering help, e.g. [Red Cross](https://www.icrc.org/en/donate/ukraine) or [Ukrainian organisation](https://ukraina.services/). Refugees are lacking even basic stuff like food, blankets, etc. You can find organisations gathering all of that and bringing it to them.
+- You can make donations, even without getting up from your couch. Most humanitarian organisations are gathering help, e.g. [Red Cross](https://redcross.org.ua/en/) or [Ukrainian organisation](https://ukraina.services/). Refugees are lacking even basic stuff like food, blankets, etc. You can find organisations gathering all of that and bringing it to them.
 - A patient drop cuts through the rock. Put pressure on your company (or those that you’re a customer) to drop any connection to Russian money. You can always ask how they’re planning to react and if they’re aligned with sanctions. Don’t be afraid to stand up.
 - If you know Ukrainian, ask if you could help. If not, then ask your friends if they know someone. We have to be united.
 - It will be a long run. Ukraine will need continuous help for a long time. So prepare yourself.
