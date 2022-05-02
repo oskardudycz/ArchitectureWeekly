@@ -55,6 +55,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Enrico Piccinin - Exploring Architectural Concepts Building a Card Game](https://www.infoq.com/articles/exploring-architecture-building-game)
+- [Mauro Servienti - We need insights, not data](https://milestone.topics.it/2022/04/19/we-need-insights-not-data.html)
+- [Slack Engineering - Slack’s Incident on 2-22-22](https://slack.engineering/slacks-incident-on-2-22-22/)
+- [Simon Emms - Building a RESTful API With Functions](https://simonemms.com/blog/2022/04/24/building-a-restful-api-with-serverless-functions/)
+- [Dinker Charak - Quality should be everyone’s focus](https://www.thoughtworks.com/insights/blog/digital-transformation/quality-everyones-focus)
 - [Software Crafts Podcast - Interview with Jessica Kerr](https://softwarecraftspodcast.libsyn.com/episode-56-jessica-kerr)
 - [Lee Atchison - Use of consumption apps in the enterprise](https://www.infoworld.com/article/3656631/use-of-consumption-apps-in-the-enterprise.html)
 - [Michiel Uithol - Security in Domain-Driven Design](http://essay.utwente.nl/58268/1/scriptie_M_Uithol.pdf)
@@ -402,6 +407,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [WhatsApp Raft - WARaft - An Erlang implementation of RAFT from WhatsApp ](https://github.com/WhatsApp/waraft)
+- [Istio - Istio has applied to become a CNCF project](https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/)
 - [I. Levine, C. Posta, Y. Kohavi - eBPF for Service Mesh? Yes, but Envoy Proxy is here to stay](https://www.solo.io/blog/ebpf-for-service-mesh/)
 - [Natan Silnitsky - Migrating to a Multi-Cluster Managed Kafka with 0 Downtime](https://medium.com/wix-engineering/migrating-to-a-multi-cluster-managed-kafka-with-0-downtime-b936655f888e)
 - [Distributed Systems - Kafka Connect Deep Dive – Error Handling and Dead Letter Queues](https://www.confluent.io/blog/kafka-connect-deep-dive-error-handling-dead-letter-queues/)
@@ -565,6 +572,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Viktor Farcic - Terraform? Pulumi? Helm? Kustomize? Ansible? None Of Those?](https://www.youtube.com/watch?v=0yB4GiI5O28)
+- [Jason Cox - Site Reliability Engineering (SRE) Playlist](https://itrevolution.com/jason-cox-sre-playlist/)
 - [Michael Vittrup Larsen - The future of Kubernetes – and why developers should look beyond Kubernetes in 2022](https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022)
 - [Vector - A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)
 - [DigitalOcean - How To Use Journalctl to View and Manipulate Systemd Logs](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)
@@ -652,6 +661,9 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [DesignCourse - Learn HTML & CSS in 2022 | Crash Course](https://www.youtube.com/watch?v=gXLjWRteuWI)
+- [The Net Ninja - Make a Wordle Clone with React](https://www.youtube.com/watch?v=ZSWl5UwhHcs&list=PL4cUxeGkcC9gXdVXVJBmHpSI7zCEcjLUX)
+- [Facebook - Lexical - an extensible text editor framework that provides excellent reliability, accessibility and performance](https://github.com/facebook/lexical)
 - [Paul Hebert - Web Components as Progressive Enhancement](https://cloudfour.com/thinks/web-components-as-progressive-enhancement/)
 - [Christian Heilmann - One million broken web sites – and a way to prevent that](https://christianheilmann.com/2022/04/12/one-million-broken-web-sites-and-a-way-to-prevent-that/)
 - [Nir Ben-Yair - Headless components in React and why I stopped using a UI library for our design system](https://medium.com/@nirbenyair/headless-components-in-react-and-why-i-stopped-using-ui-libraries-a8208197c268)
@@ -871,6 +883,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [J.C. Petersona, S. Uddenberg,T.L. Griffiths, A. Todorov,J.W. Suchow - Deep models of superficial face judgments](https://www.pnas.org/doi/epdf/10.1073/pnas.2115228119)
 - [Craig Topham - Publication of the FSF-funded white papers on questions around Copilot](https://www.fsf.org/news/publication-of-the-fsf-funded-white-papers-on-questions-around-copilot)
 - [Microsoft - Machine Learning for Beginners - A Curriculum](https://microsoft.github.io/ML-For-Beginners)
 - [Google - High Fidelity Image Generation Using Diffusion Models](https://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html)
@@ -926,6 +939,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Steven Giesel - From Zero to Production - Generate everything with a single button](https://steven-giesel.com/blogPost/5f9e9f0d-2413-4e4b-8e38-9eebe9503e52)
+- [Muhammad Azeez - Mocking Authentication and Authorization in ASP.NET Core Integration Tests](https://mazeez.dev/posts/auth-in-integration-tests)
+- [Khalid Abuhakmeh - Testing ASP.NET Core 6 Apps](https://khalidabuhakmeh.com/testing-aspnet-core-6-apps)
+- [Andrew Lock - Keeping up with .NET: learning about new features and APIs](https://andrewlock.net/keeping-up-with-dotnet-learning-about-new-features-and-apis)
+- [Oskar Dudycz - How to build a simple event pipeline](https://event-driven.io/en/how_to_build_simple_event_pipeline/)
 - [Maksim Volkau - ImTools - Fast and memory-efficient immutable collections and helper data structures](https://github.com/dadhi/ImTools)
 - [Tobias Ahnoff & Martin Altenstedt - Defence in depth as Code](https://www.youtube.com/watch?v=5nQ00_z0hF4)
 - [.NET MAUI Release Candidate – Ready for cross-platform app development](https://devblogs.microsoft.com/dotnet/dotnet-maui-rc-1/)
@@ -1283,6 +1301,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Felienne Hermans - The Programmer's Brain](https://www.infoq.com/presentations/reading-code)
+- [Michael Jin - Why I Quit a $450k Engineering Job at Netflix](https://medium.com/@_michaellin/why-i-quit-a-450k-engineering-job-at-netflix-874454397885)
 - [Tekna - Non-Competition Clauses](https://www.tekna.no/en/salary-and-negotiations/employment-law/non-competition-clauses/)
 - [Oskar Dudycz - Agile vs Introverts](https://event-driven.io/en/agile_vs_introverts/?utm_source=architecture_weekly)
 - [Stanisław Pitucha - Questions to ask the company during your interview](https://github.com/viraptor/reverse-interview)
@@ -1423,6 +1443,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Scott Hanselman - Building Teams Through Systems Thinking and Stories](https://www.youtube.com/watch?v=VFIw0LlULyc)
+- [Mike Griffiths - Toptal Blog Proposal: Creating a Risk-Adjusted Backlog](https://www.leadinganswers.com/toptal-blog-proposal-creating-a-risk-adjusted-backlog.html)
 - [Will Larson - Staff archetypes](https://staffeng.com/guides/staff-archetypes)
 - [Tim Ottinger - Story Points: Why is this so hard?](https://www.industriallogic.com/blog/story-points-why-is-this-so-hard/)
 - [Kent Beck - Dimensions of Power](https://medium.com/@kentbeck_7670/dimensions-of-power-15ac9fa0c590)
@@ -1531,6 +1553,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## NodeJS
+- [Google - WireIt - Upgrades your npm scripts to make them smarter and more efficient](https://github.com/google/wireit)
 - [NodeJS - Stream Finished, handling closed or ended NodeJS stream](https://nodejs.org/api/stream.html#streamfinishedstream-options-callback)
 - [node-postgres - a collection of node.js modules for interfacing with your PostgreSQL database](https://node-postgres.com/)
 - [@databases - TypeScript clients for databases that prevent SQL Injection](https://www.atdatabases.org/)
@@ -1548,6 +1571,7 @@
 - [Ákos Szokodi - How to Easily Set-up Node Config Following These Best Practices](https://codingsans.com/blog/node-config-best-practices)
 
 ## Ruby
+- [Avdi Grimm - Keep Ruby Weird 2018](https://www.youtube.com/watch?v=UJnsXUVsr7w)
 - [Julien Khaleghy - How a routine gem update ended up creating $73k worth of subscriptions](https://serpapi.com/blog/how-a-routine-gem-update-ended-up-charging/)
 - [Peter Zhu - How ruby_memcheck Finds Memory Leaks in Native Gems](https://blog.peterzhu.ca/ruby-memcheck/)
 - [Ruby on Rails - Rails 7.0 Alpha 1: New JavaScript Answers, At-Work Encryption, Query Origin Logging, Zeitwerk Exclusively](https://weblog.rubyonrails.org/2021/9/15/Rails-7-0-alpha-1-released/)
@@ -1562,6 +1586,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Amos Wenger - Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 - [Dmitry Vyukov — Go scheduler: Implementing language with lightweight concurrency](https://www.youtube.com/watch?v=-K11rY57K7k)
 - [İnanç Gümüş - Learn Go - A Huge Number of Go Examples, Exercises and Quizzes](https://github.com/inancgumus/learngo)
 - [Brandon Schurman - Building a Monorepo in Golang](https://earthly.dev/blog/golang-monorepo/)
@@ -1620,6 +1645,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Daniel Stenberg - Uncurled - everything I know and learned about running and maintaining Open Source projects for three decades](https://un.curl.dev/)
+- [CNBC - Twitter accepts Elon Musk’s buyout deal](https://www.cnbc.com/2022/04/25/twitter-accepts-elon-musks-buyout-deal.html)
+- [TechCrunch - Twitter is protecting its source code from disgruntled employees, reports say](https://techcrunch.com/2022/04/26/twitter-lock-source-code-elon-musk)
 - [BleepingComputer - GitHub suspends accounts of Russian devs at sanctioned companies](https://www.bleepingcomputer.com/news/security/github-suspends-accounts-of-russian-devs-at-sanctioned-companies/)
 - [The Vice - Twitter Loses Elon Musk the Board Member, Regains Elon Musk the Shitposter](https://www.vice.com/en/article/93bj77/twitter-loses-elon-musk-the-board-member-regains-elon-musk-the-shitposter)
 - [BBC - Are tech companies removing evidence of war crimes?](https://www.bbc.com/news/technology-60911099)
