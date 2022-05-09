@@ -55,6 +55,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Atlassian Engineering - Post-Incident Review on the Atlassian April 2022 outage](https://www.atlassian.com/engineering/post-incident-review-april-2022-outage)
+- [T. Winters, T. Manshreck, H. Wright - Software Engineering at Google](https://abseil.io/resources/swe-book)
+- [Derek Comartin - Real-World Event Driven Architecture! 4 Practical Examples](https://codeopinion.com/real-world-event-driven-architecture-4-practical-examples/)
+- [Sophie Weston - How to optimize for speed and flow - insights from QCon London 2022](https://confluxdigital.net/news/how-to-optimize-for-speed-and-flow-insights-from-qcon-london-2022)
+- [Rich Hickey - Persistent Data Structures and Managed References](https://www.youtube.com/watch?v=toD45DtVCFM)
+- [Eric Siegel - Why Ice Cream Is Linked to Shark Attacks – Correlation/Causation Smackdown](https://www.kdnuggets.com/2019/01/dr-data-ice-cream-linked-shark-attacks.html)
 - [Enrico Piccinin - Exploring Architectural Concepts Building a Card Game](https://www.infoq.com/articles/exploring-architecture-building-game)
 - [Mauro Servienti - We need insights, not data](https://milestone.topics.it/2022/04/19/we-need-insights-not-data.html)
 - [Slack Engineering - Slack’s Incident on 2-22-22](https://slack.engineering/slacks-incident-on-2-22-22/)
@@ -661,6 +667,8 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [React Miami 2022 - Talks recordings](https://www.youtube.com/playlist?list=PL02pdjMT4gWxC3sYlCBzPBPptb6eUvIZv)
+- [Una Kravets - You might not need JavaScript](http://youmightnotneedjs.com/)
 - [DesignCourse - Learn HTML & CSS in 2022 | Crash Course](https://www.youtube.com/watch?v=gXLjWRteuWI)
 - [The Net Ninja - Make a Wordle Clone with React](https://www.youtube.com/watch?v=ZSWl5UwhHcs&list=PL4cUxeGkcC9gXdVXVJBmHpSI7zCEcjLUX)
 - [Facebook - Lexical - an extensible text editor framework that provides excellent reliability, accessibility and performance](https://github.com/facebook/lexical)
@@ -779,6 +787,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Oskar Dudycz - Persistent vs catch-up, EventStoreDB subscriptions in action](https://event-driven.io/en/persistent_vs_catch_up_eventstoredb_subscriptions_in_action/)
+- [Citus Con: An Event for Postgres - All Recorded Talks](https://www.citusdata.com/cituscon/2022/schedule/#all-videos)
+- [T. Kersten, V. Leis, A. Kemper, T. Neumann, A. Pavlo, P. Boncz - Everything You Always Wanted to Know About Compiled and Vectorized Queries But Were Afraid to Ask](https://www.vldb.org/pvldb/vol11/p2209-kersten.pdf)
 - [Alex DeBrie - GraphQL, DynamoDB, and Single-table Design](https://www.alexdebrie.com/posts/dynamodb-graphql/)
 - [Ongres - Performance Benchmark PostgreSQL/MongoDB](https://info.enterprisedb.com/rs/069-ALB-339/images/PostgreSQL_MongoDB_Benchmark-WhitepaperFinal.pdf)
 - [Lev Kokotov - PostgreSQL pooler with sharding, load balancing and failover support](https://github.com/levkk/pgcat)
@@ -898,6 +909,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Yan Cui - AWS Lambda: function URL is live!](https://lumigo.io/blog/aws-lambda-function-url-is-live/)
 - [Renato Losio - AWS Introduces Lambda Function URLs to Simplify Serverless Deployments](https://www.infoq.com/news/2022/04/aws-lambda-function-urls/)
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
@@ -939,6 +951,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [.NET Blog - Microsoft Graph’s Journey to .NET 6](https://devblogs.microsoft.com/dotnet/microsoft-graph-dotnet-6-journey/)
+- [Nicholas Blumhardt - The semantics of ILogger.BeginScope()](https://nblumhardt.com/2016/11/ilogger-beginscope/)
+- [Tess Ferrandez - Debugging Labs - .NET and WinDbg](https://github.com/TessFerrandez/BuggyBits)
+- [Jimmy Bogard - You Probably Don't Need to Worry About MediatR](https://jimmybogard.com/you-probably-dont-need-to-worry-about-mediatr/)
 - [Steven Giesel - From Zero to Production - Generate everything with a single button](https://steven-giesel.com/blogPost/5f9e9f0d-2413-4e4b-8e38-9eebe9503e52)
 - [Muhammad Azeez - Mocking Authentication and Authorization in ASP.NET Core Integration Tests](https://mazeez.dev/posts/auth-in-integration-tests)
 - [Khalid Abuhakmeh - Testing ASP.NET Core 6 Apps](https://khalidabuhakmeh.com/testing-aspnet-core-6-apps)
@@ -1301,6 +1317,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Jeremy D. Miller - Why I hate the word “Pragmatic” and other rants](https://jeremydmiller.com/2014/06/19/pragmatic-and-other-rants/)
 - [Felienne Hermans - The Programmer's Brain](https://www.infoq.com/presentations/reading-code)
 - [Michael Jin - Why I Quit a $450k Engineering Job at Netflix](https://medium.com/@_michaellin/why-i-quit-a-450k-engineering-job-at-netflix-874454397885)
 - [Tekna - Non-Competition Clauses](https://www.tekna.no/en/salary-and-negotiations/employment-law/non-competition-clauses/)
@@ -1443,6 +1460,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Anton Stöckl - 4 reasons why 4 is the perfect team size for (agile) software development](https://medium.com/@TonyBologni/4-reasons-why-4-is-the-perfect-team-size-for-agile-software-development-8597d33f3cfe)
 - [Scott Hanselman - Building Teams Through Systems Thinking and Stories](https://www.youtube.com/watch?v=VFIw0LlULyc)
 - [Mike Griffiths - Toptal Blog Proposal: Creating a Risk-Adjusted Backlog](https://www.leadinganswers.com/toptal-blog-proposal-creating-a-risk-adjusted-backlog.html)
 - [Will Larson - Staff archetypes](https://staffeng.com/guides/staff-archetypes)
@@ -1474,6 +1492,7 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [John Cutler - TBM 20/54: "You're Making This Too Complicated"](https://cutlefish.substack.com/p/tbm-2054-youre-making-this-too-complicated?s=w)
 - [CBInsights - 397 Startup Failure Post-Mortems](https://www.cbinsights.com/research/startup-failure-post-mortem/)
 - [Jeff Gothelf - There’s no guarantee your product strategy will work. Here’s how to de-risk it](https://jeffgothelf.com/blog/theres-no-guarantee-your-product-strategy-will-work-heres-how-to-de-risk-it/)
 - [John Cutler - 15 Behaviors of Healthy, Data-Informed Product Teams](https://amplitude.com/blog/data-informed-product-teams)
@@ -1483,6 +1502,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [xalgord - Multi-Threaded Programming in Java](https://xalgord.in/multi-threaded-programming-in-java/)
+- [Evgeniy Khyst - Event Sourcing with EventStoreDB](https://github.com/evgeniy-khist/eventstoredb-event-sourcing)
 - [Mateusz Chrzonstowski  - Less popular Spring tricks: no Hibernate, projections, rest repo, events, AOP](https://github.com/mat3e/less-popular-spring-functions)
 - [Luke Sikina - Spring Boot + Junit 5 + Testcontainers](https://github.com/Luke-Sikina/springtestcointainerjupiter)
 - [Bartłomiej Słota - Managing Business Processes in Microservice Architecture with Spring Ecosystem](https://www.youtube.com/watch?v=u9RCNlf462w)
@@ -1538,6 +1559,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Melvin George - How to convert an array into string literal union type in TypeScript?](https://melvingeorge.me/blog/convert-array-into-string-literal-union-type-typescript)
 - [Marius Schulz - The unknown Type in TypeScript](https://mariusschulz.com/blog/the-unknown-type-in-typescript)
 - [LogRocket - Linting in TypeScript using ESLint and Prettier](https://blog.logrocket.com/linting-typescript-using-eslint-and-prettier/)
 - [Leonardo Maldonado - Types vs. interfaces in TypeScript](https://blog.logrocket.com/types-vs-interfaces-in-typescript/)
@@ -1645,6 +1667,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [CNET - Google Revamps Employee Review System Following Criticism](https://www.cnet.com/tech/google-revamps-employee-review-system-following-criticism/)
+- [Apple Together - Thoughts on Office-bound Work](https://appletogether.org/hotnews/thoughts-on-office-bound-work)
 - [Daniel Stenberg - Uncurled - everything I know and learned about running and maintaining Open Source projects for three decades](https://un.curl.dev/)
 - [CNBC - Twitter accepts Elon Musk’s buyout deal](https://www.cnbc.com/2022/04/25/twitter-accepts-elon-musks-buyout-deal.html)
 - [TechCrunch - Twitter is protecting its source code from disgruntled employees, reports say](https://techcrunch.com/2022/04/26/twitter-lock-source-code-elon-musk)
@@ -1943,6 +1967,9 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Ted Neward - Speaking Tips](https://blogs.newardassociates.com/speaking-tips/)
+- [Hadi Hariri - Public Speaking - Should I speak?](https://hadihariri.com/2018/09/04/public-speaking-should-i-speak/)
+- [Michael Liendo - The in-depth guide to selling digital products with AWS Amplify and Stripe](https://blog.focusotter.com/the-in-depth-guide-to-selling-digital-products-with-aws-amplify-and-stripe)
 - [Markham Heid - The Science Behind Gut Feelings](https://elemental.medium.com/the-science-behind-gut-feelings-e4ed0be994e9)
 - [PBS - False news travels 6 times faster on Twitter than truthful news](https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news)
 - [Farnam Street - How to Think: The Skill You’ve Never Been Taught](https://fs.blog/how-to-think/)
