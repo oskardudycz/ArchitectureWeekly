@@ -24,6 +24,63 @@ There are two rules:
 
 ---- 
 
+## [16th May 2022](per-week/2022-05-16.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+
+---
+
+### Architecture
+- [Honeycomb's O'Reilly Book Observability Engineering](https://info.honeycomb.io/observability-engineering-oreilly-book-2022)
+- [Derek Comartin - Building a Webhooks System](https://www.youtube.com/watch?v=NuHC5uwbFAc)
+- [luminousmen - Modern Big Data Architectures - Lambda & Kappa](https://luminousmen.com/post/modern-big-data-architectures-lambda-kappa)
+- [William Boxhall - Event sourcing - basic concepts](https://dev.to/cultureamp/event-sourcing-basic-concepts-52ik)
+- [Martin Fowler - Responsible Tech Playbook](https://martinfowler.com/articles/2021-responsible-tech-playbook.html)
+- [Jim Humelsine - Hexagonal Architecture & Legacy Code](https://www.youtube.com/watch?v=aayl6FysZ_U)
+- [William Boxhall - Event sourcing - basic concepts](https://dev.to/cultureamp/event-sourcing-basic-concepts-52ik)
+- [Slack Engineering - Reducing Slack's memory footprint](https://slack.engineering/reducing-slacks-memory-footprint/)
+
+### Distributed Systems
+- [B. Fan, H. Lim, D. G. Andersen, M. Kaminsky - Small Cache, Big Effect: Provable Load Balancing for Randomly Partitioned Cluster Services](https://www.cs.cmu.edu/~fawnproj/papers/loadbal-socc2011.pdf)
+
+### DevOps
+- [Oskar Dudycz - A few tricks on how to set up related Docker images with docker-compose](https://event-driven.io/en/tricks_on_how_to_set_up_related_docker_images/)
+- [Stack Overflow - blackbox - Safely store secrets in Git/Mercurial/Subversion](https://github.com/StackExchange/blackbox)
+- [GitHub - Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
+- [Docker - The Magic of Docker Desktop is Now Available on Linux](https://www.docker.com/blog/the-magic-of-docker-desktop-is-now-available-on-linux/)
+- [LearnK8S - Research documents on node instance types, managed services, ingress controllers, CNIs, etc.](https://learnk8s.io/research)
+
+### Databases
+- [Timescale - Time-series compression algorithms, explained](https://www.timescale.com/blog/time-series-compression-algorithms-explained/)
+
+### API
+- [Manning - APIs Conference 2021 Recordings](https://www.youtube.com/watch?app=desktop)
+- [Redoc - OpenAPI/Swagger-generated API Reference Documentation](https://github.com/Redocly/redoc)
+
+### Java
+- [Angie Jones - Free Courses](https://testautomationu.applitools.com/instructors/angie_jones.html)
+
+### .NET
+- [.NET Blog - YARP 1.1 is here with new requested reverse proxy features](https://devblogs.microsoft.com/dotnet/yarp-reverse-proxy-1-1-release/)
+- [Aaron Stannard - An Overview of Distributed Tracing with OpenTelemetry in .NET 6](https://aaronstannard.com/opentelemetry-dotnet6/)
+- [Andrew W. Lock - Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/)
+- [Oleksii Nikiforov - Creating and Using HTTP Client SDKs in .NET 6](https://www.infoq.com/articles/creating-http-sdks-dotnet-6)
+
+### NodeJS
+- [Michael Herman - Node, gRPC, and Postgres](https://mherman.org/blog/node-grpc-postgres/)
+
+### TypeScript
+- [Colin McDonnell - Zod - TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)
+
+### Coding Life
+- [Gergely Orosz - How to (not) choose a startup to join: lessons from Fast](https://www.youtube.com/watch?app=desktop&v=NK25beIsBfQ)
+
+### Trivia
+- [ArsTechnica - Microsoft open-sourced the code for 1995's 3D Movie Maker because someone asked](https://arstechnica.com/gadgets/2022/05/microsoft-open-sourced-the-code-for-1995s-3d-movie-maker-because-someone-asked/)
+- [Microsoft - Microsoft 3D Movie Maker source codes](https://github.com/microsoft/Microsoft-3D-Movie-Maker)
+
+---- 
+
 ## [9th May 2022](per-week/2022-05-09.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
@@ -53,7 +110,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Evgeniy Khyst - Event Sourcing with EventStoreDB](https://github.com/evgeniy-khist/eventstoredb-event-sourcing)
 
 ### .NET
-- [.NET Blog - Microsoft Graph’s Journey to .NET 6](https://devblogs.microsoft.com/dotnet/microsoft-graph-dotnet-6-journey/)
+- [.NET Blog - Microsoft Graph's Journey to .NET 6](https://devblogs.microsoft.com/dotnet/microsoft-graph-dotnet-6-journey/)
 - [Nicholas Blumhardt - The semantics of ILogger.BeginScope()](https://nblumhardt.com/2016/11/ilogger-beginscope/)
 - [Tess Ferrandez - Debugging Labs - .NET and WinDbg](https://github.com/TessFerrandez/BuggyBits)
 - [Jimmy Bogard - You Probably Don't Need to Worry About MediatR](https://jimmybogard.com/you-probably-dont-need-to-worry-about-mediatr/)
@@ -90,9 +147,9 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ### Architecture
 - [Enrico Piccinin - Exploring Architectural Concepts Building a Card Game](https://www.infoq.com/articles/exploring-architecture-building-game)
 - [Mauro Servienti - We need insights, not data](https://milestone.topics.it/2022/04/19/we-need-insights-not-data.html)
-- [Slack Engineering - Slack’s Incident on 2-22-22](https://slack.engineering/slacks-incident-on-2-22-22/)
+- [Slack Engineering - Slack's Incident on 2-22-22](https://slack.engineering/slacks-incident-on-2-22-22/)
 - [Simon Emms - Building a RESTful API With Functions](https://simonemms.com/blog/2022/04/24/building-a-restful-api-with-serverless-functions/)
-- [Dinker Charak - Quality should be everyone’s focus](https://www.thoughtworks.com/insights/blog/digital-transformation/quality-everyones-focus)
+- [Dinker Charak - Quality should be everyone's focus](https://www.thoughtworks.com/insights/blog/digital-transformation/quality-everyones-focus)
 
 ### Distributed Systems
 - [WhatsApp Raft - WARaft - An Erlang implementation of RAFT from WhatsApp ](https://github.com/WhatsApp/waraft)
@@ -136,7 +193,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ### Industry
 - [Daniel Stenberg - Uncurled - everything I know and learned about running and maintaining Open Source projects for three decades](https://un.curl.dev/)
-- [CNBC - Twitter accepts Elon Musk’s buyout deal](https://www.cnbc.com/2022/04/25/twitter-accepts-elon-musks-buyout-deal.html)
+- [CNBC - Twitter accepts Elon Musk's buyout deal](https://www.cnbc.com/2022/04/25/twitter-accepts-elon-musks-buyout-deal.html)
 - [TechCrunch - Twitter is protecting its source code from disgruntled employees, reports say](https://techcrunch.com/2022/04/26/twitter-lock-source-code-elon-musk)
 
 ---- 
@@ -257,7 +314,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [GitHub - Git security vulnerability announced](https://github.blog/2022-04-12-git-security-vulnerability-announced/)
 
 ### Trivia
-- [Farnam Street - How to Think: The Skill You’ve Never Been Taught](https://fs.blog/how-to-think/)
+- [Farnam Street - How to Think: The Skill You've Never Been Taught](https://fs.blog/how-to-think/)
 - [httpie - How we lost 54k GitHub stars](https://httpie.io/blog/stardust)
 
 ---- 
@@ -372,14 +429,14 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Trond Hjorteland - Autonomy across the enterprise](https://www.linkedin.com/pulse/autonomy-across-enterprise-trond-hjorteland/)
 
 ### Security
-- [Tanya Janca - Why can’t I get over log4j?](https://shehackspurple.ca/2022/04/01/why-cant-i-get-over-log4j/)
+- [Tanya Janca - Why can't I get over log4j?](https://shehackspurple.ca/2022/04/01/why-cant-i-get-over-log4j/)
 - [BleepingComputer - Fake Trezor data breach emails used to steal cryptocurrency wallets](https://www.bleepingcomputer.com/news/security/fake-trezor-data-breach-emails-used-to-steal-cryptocurrency-wallets/)
 
 ### Industry
 - [BBC - Are tech companies removing evidence of war crimes?](https://www.bbc.com/news/technology-60911099)
 
 ### Trivia
-- [IEEE Spectrum - The Vacuum Tube’s Forgotten Rival](https://spectrum.ieee.org/the-vacuum-tubes-forgotten-rival)
+- [IEEE Spectrum - The Vacuum Tube's Forgotten Rival](https://spectrum.ieee.org/the-vacuum-tubes-forgotten-rival)
 - [ArsTechnica - Wolfenstein 3D secrets revealed by John Romero in lengthy post-mortem chat](https://arstechnica.com/gaming/2022/03/achtung-john-romero-exposes-wolfenstein-3ds-history-in-gdc-post-mortem)
 - [Killed by Microsoft](https://killedbymicrosoft.info/)
 
@@ -397,7 +454,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Kevin Swiber - What is API Observability?](https://hackernoon.com/what-is-api-observability)
 - [Andrew Harmel-Law - Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
 - [Hugo Rocha - Solving Concurrency in Event-Driven Microservices](https://itnext.io/solving-concurrency-in-event-driven-microservices-79bbc13b597c)
-- [CNCF - The maintainer’s toolkit: Must-know resources for CNCF projects](https://www.cncf.io/blog/2022/03/10/the-maintainers-toolkit-must-know-resources-for-cncf-projects/)
+- [CNCF - The maintainer's toolkit: Must-know resources for CNCF projects](https://www.cncf.io/blog/2022/03/10/the-maintainers-toolkit-must-know-resources-for-cncf-projects/)
 
 ### DevOps
 - [Chris Spitzenberger - Terraform vs. AWS CloudFormation: Key Differences](https://spacelift.io/blog/terraform-vs-cloudformation)
@@ -439,7 +496,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ### Security
 - [BleepingComputer - Lapsus$ hackers leak 37GB of Microsoft's alleged source code](https://www.bleepingcomputer.com/news/microsoft/lapsus-hackers-leak-37gb-of-microsofts-alleged-source-code/)
 - [Okta - Updated Okta Statement on LAPSUS$](https://www.okta.com/blog/2022/03/updated-okta-statement-on-lapsus/)
-- [Cloudflare - Cloudflare’s investigation of the January 2022 Okta compromise](https://blog.cloudflare.com/cloudflare-investigation-of-the-january-2022-okta-compromise/)
+- [Cloudflare - Cloudflare's investigation of the January 2022 Okta compromise](https://blog.cloudflare.com/cloudflare-investigation-of-the-january-2022-okta-compromise/)
 - [BBC - Lapsus$: Oxford teen accused of being multi-millionaire cyber-criminal](https://www.bbc.com/news/technology-60864283)
 
 
@@ -505,7 +562,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Molly White - Abuse on the blockchain – Guest lecture at Stanford University](https://www.youtube.com/watch?v=hXBZ-BXfCSY)
 
 ### Product Design
-- [Jeff Gothelf - There’s no guarantee your product strategy will work. Here’s how to de-risk it](https://jeffgothelf.com/blog/theres-no-guarantee-your-product-strategy-will-work-heres-how-to-de-risk-it/)
+- [Jeff Gothelf - There's no guarantee your product strategy will work. Here's how to de-risk it](https://jeffgothelf.com/blog/theres-no-guarantee-your-product-strategy-will-work-heres-how-to-de-risk-it/)
 - [John Cutler - 15 Behaviors of Healthy, Data-Informed Product Teams](https://amplitude.com/blog/data-informed-product-teams)
 
 ---- 
@@ -539,7 +596,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ### Java
 - [Cameron McKenzie - A simple Java Function interface example: Learn Functional programming fast](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Get-the-most-from-Java-Function-interface-with-this-example)
 - [Justin Albano - Dependency Injection in Spring](https://dzone.com/articles/dependency-injection-in-spring)
-- [Mahmoud Anouti - 20 Examples of Using Java’s CompletableFuture](https://dzone.com/articles/20-examples-of-using-javas-completablefuture)
+- [Mahmoud Anouti - 20 Examples of Using Java's CompletableFuture](https://dzone.com/articles/20-examples-of-using-javas-completablefuture)
 
 ### JavaScript
 - [Bleeping Computer - Empty npm package '-' has over 700,000 downloads — here's why](https://www.bleepingcomputer.com/news/software/empty-npm-package-has-over-700-000-downloads-heres-why/)
@@ -631,31 +688,31 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 [War. War never changes…](https://www.youtube.com/watch?v=C2Pt-LnQ2po)
 
-In IT, we’re living in a bubble. Compared to others we have good working conditions. We learned to complain about tiny things. We’re running disputes on which framework is better or worse. [We even do heated discussions around new language syntax.](https://github.com/dotnet/csharplang/discussions/5735) It’s a gigantic bubble. Bubbles tend to burst.
+In IT, we're living in a bubble. Compared to others we have good working conditions. We learned to complain about tiny things. We're running disputes on which framework is better or worse. [We even do heated discussions around new language syntax.](https://github.com/dotnet/csharplang/discussions/5735) It's a gigantic bubble. Bubbles tend to burst.
 
 
-We believe that technology is objective. AI and Machine learning will serve us only good and won’t gather our biases, right? [I’m afraid that’s not the case.](https://event-driven.io/en/computer_says_no_we_may_have_an_issue_with_ai_soon/)
+We believe that technology is objective. AI and Machine learning will serve us only good and won't gather our biases, right? [I'm afraid that's not the case.](https://event-driven.io/en/computer_says_no_we_may_have_an_issue_with_ai_soon/)
 
 
-[Some of us believe that we can create a safe zone in our work without politics.](https://www.theverge.com/2021/4/27/22406673/basecamp-political-speech-policy-controversy) We think we’re building the World Wide Web without boundaries and national prejudices. Globalisation unifies us. You can buy iPhones around the world.
+[Some of us believe that we can create a safe zone in our work without politics.](https://www.theverge.com/2021/4/27/22406673/basecamp-political-speech-policy-controversy) We think we're building the World Wide Web without boundaries and national prejudices. Globalisation unifies us. You can buy iPhones around the world.
 
 
-Unfortunately, it’s only wishful thinking. It’s easier to build a bubble and ignore what’s outside. It’s comfortable to forget that world is changing, and those changes will get us all.
+Unfortunately, it's only wishful thinking. It's easier to build a bubble and ignore what's outside. It's comfortable to forget that world is changing, and those changes will get us all.
 
-Last week brutal attack from Russia came to Ukraine. A country that, step by step, was evolving and building its independence painstakingly. They have a strong IT industry with a lot of [talented people](https://twitter.com/biofsphere/status/1498085717628624898). It’s hard to give any pragmatic reason for such a cruel move besides creating war games to hide internal Russian issues. Unfortunately, this is not a game. It’s also not a movie, even though that may look like from the comfortable couch. This madness needs to stop, and we need to do it now. Living in Poland, I know that we can be next if Putin won’t be stopped.
+Last week brutal attack from Russia came to Ukraine. A country that, step by step, was evolving and building its independence painstakingly. They have a strong IT industry with a lot of [talented people](https://twitter.com/biofsphere/status/1498085717628624898). It's hard to give any pragmatic reason for such a cruel move besides creating war games to hide internal Russian issues. Unfortunately, this is not a game. It's also not a movie, even though that may look like from the comfortable couch. This madness needs to stop, and we need to do it now. Living in Poland, I know that we can be next if Putin won't be stopped.
 
-Of course, life has different shades of grey. For instance, our Polish-Ukraine relations went through extreme ups and downs. My grandparents were born where now is Ukraine and previously was Polish territory. Ukraine was on the wrong side of WWII. My family suffered. Yet, do I have doubts that we should help Ukraine? No, I’m 100% sure that we should do everything we can to help as much as possible. Sometimes the only way to fight with the bully is to “outbully” them.
+Of course, life has different shades of grey. For instance, our Polish-Ukraine relations went through extreme ups and downs. My grandparents were born where now is Ukraine and previously was Polish territory. Ukraine was on the wrong side of WWII. My family suffered. Yet, do I have doubts that we should help Ukraine? No, I'm 100% sure that we should do everything we can to help as much as possible. Sometimes the only way to fight with the bully is to “outbully” them.
 
 How can you help?
 
 - You can make donations, even without getting up from your couch. Most humanitarian organisations are gathering help, e.g. [Red Cross](https://redcross.org.ua/en/) or [Ukrainian organisation](https://ukraina.services/). Refugees are lacking even basic stuff like food, blankets, etc. You can find organisations gathering all of that and bringing it to them.
-- A patient drop cuts through the rock. Put pressure on your company (or those that you’re a customer) to drop any connection to Russian money. You can always ask how they’re planning to react and if they’re aligned with sanctions. Don’t be afraid to stand up.
+- A patient drop cuts through the rock. Put pressure on your company (or those that you're a customer) to drop any connection to Russian money. You can always ask how they're planning to react and if they're aligned with sanctions. Don't be afraid to stand up.
 - If you know Ukrainian, ask if you could help. If not, then ask your friends if they know someone. We have to be united.
 - It will be a long run. Ukraine will need continuous help for a long time. So prepare yourself.
 
-It’s also important to watch carefully, as our world is changing. [I wrote some time ago that the split for IT and business is obsolete, as now IT is business.](https://event-driven.io/en/bring_me_problems_not_solutions/) The same applies to war. IT is an important aspect here. Weapons are already filled with chips and software. Two hundred years ago, Edward Bulwer-Lytton wrote that “The pen is mightier than the sword”. IT may be already mightier than a rocket. [Cambridge Analytica already impacted the USA president’s elections, Brexit.](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal) And that’s just a proven case. Have you heard about [the geopolitics issue with processors production](https://stratechery.com/2021/intel-problems/)? Do you remember that [a single company (Cloudflare) created that Internet was practically not working for a few hours](https://blog.cloudflare.com/a-byzantine-failure-in-the-real-world/)? Luckily, [Anonymous decided to be on the right side](https://cybernews.com/news/anonymous-leaks-database-of-the-russian-ministry-of-defence/), but will they always be like that? Beware of the fake news and misinformation. They’re also weapons now. Don’t reshare what you see on the Internet, as this may help Russians.
+It's also important to watch carefully, as our world is changing. [I wrote some time ago that the split for IT and business is obsolete, as now IT is business.](https://event-driven.io/en/bring_me_problems_not_solutions/) The same applies to war. IT is an important aspect here. Weapons are already filled with chips and software. Two hundred years ago, Edward Bulwer-Lytton wrote that “The pen is mightier than the sword”. IT may be already mightier than a rocket. [Cambridge Analytica already impacted the USA president's elections, Brexit.](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal) And that's just a proven case. Have you heard about [the geopolitics issue with processors production](https://stratechery.com/2021/intel-problems/)? Do you remember that [a single company (Cloudflare) created that Internet was practically not working for a few hours](https://blog.cloudflare.com/a-byzantine-failure-in-the-real-world/)? Luckily, [Anonymous decided to be on the right side](https://cybernews.com/news/anonymous-leaks-database-of-the-russian-ministry-of-defence/), but will they always be like that? Beware of the fake news and misinformation. They're also weapons now. Don't reshare what you see on the Internet, as this may help Russians.
 
-And lastly, if you don’t stand up, then who will? We don’t always can do much, I’m also feeling powerless, but even a small impact is an impact.
+And lastly, if you don't stand up, then who will? We don't always can do much, I'm also feeling powerless, but even a small impact is an impact.
 
 Last but not least.
 
@@ -680,7 +737,7 @@ Ukraine, stay strong!
 - [DDD Crew - Core Domain Charts](https://github.com/ddd-crew/core-domain-charts)
 
 ### Databases
-- [Yves Trudeau - UUIDs are Popular, but Bad for Performance — Let’s Discuss](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
+- [Yves Trudeau - UUIDs are Popular, but Bad for Performance — Let's Discuss](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
 
 ### DevOps
 - [CNCF - Principles for designing and deploying scalable applications on Kubernetes](https://www.cncf.io/blog/2022/02/17/principles-for-designing-and-deploying-scalable-applications-on-kubernetes/)
@@ -772,8 +829,8 @@ Ukraine, stay strong!
 - [Dan Hardiker, Heather Wilde - Coaching vs Mentoring -- What's the Difference?](https://www.youtube.com/watch?v=JSS8bXVn7yA)
 
 ### Industry
-- [Irish Council for Civil Liberties - GDPR enforcer rules that IAB Europe’s consent popups are unlawful](https://www.iccl.ie/news/gdpr-enforcer-rules-that-iab-europes-consent-popups-are-unlawful/)
-- [City A.M. - Mark Zuckerberg and team consider shutting down Facebook and Instagram in Europe if Meta can not process Europeans’ data on US servers](https://www.cityam.com/mark-zuckerberg-and-team-consider-shutting-down-facebook-and-instagram-in-europe-if-meta-can-not-process-europeans-data-on-us-servers/)
+- [Irish Council for Civil Liberties - GDPR enforcer rules that IAB Europe's consent popups are unlawful](https://www.iccl.ie/news/gdpr-enforcer-rules-that-iab-europes-consent-popups-are-unlawful/)
+- [City A.M. - Mark Zuckerberg and team consider shutting down Facebook and Instagram in Europe if Meta can not process Europeans' data on US servers](https://www.cityam.com/mark-zuckerberg-and-team-consider-shutting-down-facebook-and-instagram-in-europe-if-meta-can-not-process-europeans-data-on-us-servers/)
 - [Rufus Pollock - Awesome critique of crypto/web3](https://github.com/rufuspollock/awesome-crypto-critique)
 
 ### Trivia
