@@ -55,6 +55,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Honeycomb's O'Reilly Book Observability Engineering](https://info.honeycomb.io/observability-engineering-oreilly-book-2022)
+- [Derek Comartin - Building a Webhooks System](https://www.youtube.com/watch?v=NuHC5uwbFAc)
+- [luminousmen - Modern Big Data Architectures - Lambda & Kappa](https://luminousmen.com/post/modern-big-data-architectures-lambda-kappa)
+- [William Boxhall - Event sourcing - basic concepts](https://dev.to/cultureamp/event-sourcing-basic-concepts-52ik)
+- [Martin Fowler - Responsible Tech Playbook](https://martinfowler.com/articles/2021-responsible-tech-playbook.html)
+- [Jim Humelsine - Hexagonal Architecture & Legacy Code](https://www.youtube.com/watch?v=aayl6FysZ_U)
+- [William Boxhall - Event sourcing - basic concepts](https://dev.to/cultureamp/event-sourcing-basic-concepts-52ik)
+- [Slack Engineering - Reducing Slack's memory footprint](https://slack.engineering/reducing-slacks-memory-footprint/)
 - [Atlassian Engineering - Post-Incident Review on the Atlassian April 2022 outage](https://www.atlassian.com/engineering/post-incident-review-april-2022-outage)
 - [T. Winters, T. Manshreck, H. Wright - Software Engineering at Google](https://abseil.io/resources/swe-book)
 - [Derek Comartin - Real-World Event Driven Architecture! 4 Practical Examples](https://codeopinion.com/real-world-event-driven-architecture-4-practical-examples/)
@@ -63,9 +71,9 @@
 - [Eric Siegel - Why Ice Cream Is Linked to Shark Attacks – Correlation/Causation Smackdown](https://www.kdnuggets.com/2019/01/dr-data-ice-cream-linked-shark-attacks.html)
 - [Enrico Piccinin - Exploring Architectural Concepts Building a Card Game](https://www.infoq.com/articles/exploring-architecture-building-game)
 - [Mauro Servienti - We need insights, not data](https://milestone.topics.it/2022/04/19/we-need-insights-not-data.html)
-- [Slack Engineering - Slack’s Incident on 2-22-22](https://slack.engineering/slacks-incident-on-2-22-22/)
+- [Slack Engineering - Slack's Incident on 2-22-22](https://slack.engineering/slacks-incident-on-2-22-22/)
 - [Simon Emms - Building a RESTful API With Functions](https://simonemms.com/blog/2022/04/24/building-a-restful-api-with-serverless-functions/)
-- [Dinker Charak - Quality should be everyone’s focus](https://www.thoughtworks.com/insights/blog/digital-transformation/quality-everyones-focus)
+- [Dinker Charak - Quality should be everyone's focus](https://www.thoughtworks.com/insights/blog/digital-transformation/quality-everyones-focus)
 - [Software Crafts Podcast - Interview with Jessica Kerr](https://softwarecraftspodcast.libsyn.com/episode-56-jessica-kerr)
 - [Lee Atchison - Use of consumption apps in the enterprise](https://www.infoworld.com/article/3656631/use-of-consumption-apps-in-the-enterprise.html)
 - [Michiel Uithol - Security in Domain-Driven Design](http://essay.utwente.nl/58268/1/scriptie_M_Uithol.pdf)
@@ -95,7 +103,7 @@
 - [Kevin Swiber - What is API Observability?](https://hackernoon.com/what-is-api-observability)
 - [Andrew Harmel-Law - Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
 - [Hugo Rocha - Solving Concurrency in Event-Driven Microservices](https://itnext.io/solving-concurrency-in-event-driven-microservices-79bbc13b597c)
-- [CNCF - The maintainer’s toolkit: Must-know resources for CNCF projects](https://www.cncf.io/blog/2022/03/10/the-maintainers-toolkit-must-know-resources-for-cncf-projects/)
+- [CNCF - The maintainer's toolkit: Must-know resources for CNCF projects](https://www.cncf.io/blog/2022/03/10/the-maintainers-toolkit-must-know-resources-for-cncf-projects/)
 - [The 6 Figure Developer Podcast - Fundamentals of Software Architecture with Neal Ford](https://6figuredev.com/podcast/fundamentals-of-software-architecture-with-neal-ford)
 - [Cedric Pontet - EventStorming – From Big Picture to Software Design](https://www.agilepartner.net/en/eventstorming-from-big-picture-to-software-design/)
 - [Tim Batty - Eating an Elephant](https://www.industriallogic.com/blog/eating-an-elephant/)
@@ -413,6 +421,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [B. Fan, H. Lim, D. G. Andersen, M. Kaminsky - Small Cache, Big Effect: Provable Load Balancing for Randomly Partitioned Cluster Services](https://www.cs.cmu.edu/~fawnproj/papers/loadbal-socc2011.pdf)
 - [WhatsApp Raft - WARaft - An Erlang implementation of RAFT from WhatsApp ](https://github.com/WhatsApp/waraft)
 - [Istio - Istio has applied to become a CNCF project](https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/)
 - [I. Levine, C. Posta, Y. Kohavi - eBPF for Service Mesh? Yes, but Envoy Proxy is here to stay](https://www.solo.io/blog/ebpf-for-service-mesh/)
@@ -578,6 +587,11 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Oskar Dudycz - A few tricks on how to set up related Docker images with docker-compose](https://event-driven.io/en/tricks_on_how_to_set_up_related_docker_images/)
+- [Stack Overflow - blackbox - Safely store secrets in Git/Mercurial/Subversion](https://github.com/StackExchange/blackbox)
+- [GitHub - Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
+- [Docker - The Magic of Docker Desktop is Now Available on Linux](https://www.docker.com/blog/the-magic-of-docker-desktop-is-now-available-on-linux/)
+- [LearnK8S - Research documents on node instance types, managed services, ingress controllers, CNIs, etc.](https://learnk8s.io/research)
 - [Viktor Farcic - Terraform? Pulumi? Helm? Kustomize? Ansible? None Of Those?](https://www.youtube.com/watch?v=0yB4GiI5O28)
 - [Jason Cox - Site Reliability Engineering (SRE) Playlist](https://itrevolution.com/jason-cox-sre-playlist/)
 - [Michael Vittrup Larsen - The future of Kubernetes – and why developers should look beyond Kubernetes in 2022](https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022)
@@ -766,6 +780,8 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [Manning - APIs Conference 2021 Recordings](https://www.youtube.com/watch?v=TmeTHUAAAVQ)
+- [Redoc - OpenAPI/Swagger-generated API Reference Documentation](https://github.com/Redocly/redoc)
 - [IETF - Problem Details for HTTP APIs RFC](https://datatracker.ietf.org/doc/html/rfc7807)
 - [Roy T. Fielding - It is okay to use POST](https://roy.gbiv.com/untangled/2009/it-is-okay-to-use-post)
 - [Postman - Postman Now Supports gRPC](https://blog.postman.com/postman-now-supports-grpc/)
@@ -787,6 +803,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Timescale - Time-series compression algorithms, explained](https://www.timescale.com/blog/time-series-compression-algorithms-explained/)
 - [Oskar Dudycz - Persistent vs catch-up, EventStoreDB subscriptions in action](https://event-driven.io/en/persistent_vs_catch_up_eventstoredb_subscriptions_in_action/)
 - [Citus Con: An Event for Postgres - All Recorded Talks](https://www.citusdata.com/cituscon/2022/schedule/#all-videos)
 - [T. Kersten, V. Leis, A. Kemper, T. Neumann, A. Pavlo, P. Boncz - Everything You Always Wanted to Know About Compiled and Vectorized Queries But Were Afraid to Ask](https://www.vldb.org/pvldb/vol11/p2209-kersten.pdf)
@@ -795,7 +812,7 @@
 - [Lev Kokotov - PostgreSQL pooler with sharding, load balancing and failover support](https://github.com/levkk/pgcat)
 - [Alex Klibisz - Optimizing Postgres Text Search with Trigrams](https://alexklibisz.com/2022/02/18/optimizing-postgres-trigram-search.html)
 - [Xtreak Blog - JSON improvements in SQLite 3.38.0](https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html)
-- [Yves Trudeau - UUIDs are Popular, but Bad for Performance — Let’s Discuss](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
+- [Yves Trudeau - UUIDs are Popular, but Bad for Performance — Let's Discuss](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
 - [Syed Sadat Nazrul - CAP Theorem and Distributed Database Management Systems](https://towardsdatascience.com/cap-theorem-and-distributed-database-management-systems-5c2be977950e)
 - [Martin Kleppmann - Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 - [Canonical - Dqlite - Embeddable, replicated and fault tolerant SQL engine](https://github.com/canonical/dqlite)
@@ -951,7 +968,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
-- [.NET Blog - Microsoft Graph’s Journey to .NET 6](https://devblogs.microsoft.com/dotnet/microsoft-graph-dotnet-6-journey/)
+- [.NET Blog - YARP 1.1 is here with new requested reverse proxy features](https://devblogs.microsoft.com/dotnet/yarp-reverse-proxy-1-1-release/)
+- [Aaron Stannard - An Overview of Distributed Tracing with OpenTelemetry in .NET 6](https://aaronstannard.com/opentelemetry-dotnet6/)
+- [Andrew W. Lock - Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/)
+- [Oleksii Nikiforov - Creating and Using HTTP Client SDKs in .NET 6](https://www.infoq.com/articles/creating-http-sdks-dotnet-6)
+- [.NET Blog - Microsoft Graph's Journey to .NET 6](https://devblogs.microsoft.com/dotnet/microsoft-graph-dotnet-6-journey/)
 - [Nicholas Blumhardt - The semantics of ILogger.BeginScope()](https://nblumhardt.com/2016/11/ilogger-beginscope/)
 - [Tess Ferrandez - Debugging Labs - .NET and WinDbg](https://github.com/TessFerrandez/BuggyBits)
 - [Jimmy Bogard - You Probably Don't Need to Worry About MediatR](https://jimmybogard.com/you-probably-dont-need-to-worry-about-mediatr/)
@@ -1317,6 +1338,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Gergely Orosz - How to (not) choose a startup to join: lessons from Fast](https://www.youtube.com/watch?app=desktop&v=NK25beIsBfQ)
 - [Jeremy D. Miller - Why I hate the word “Pragmatic” and other rants](https://jeremydmiller.com/2014/06/19/pragmatic-and-other-rants/)
 - [Felienne Hermans - The Programmer's Brain](https://www.infoq.com/presentations/reading-code)
 - [Michael Jin - Why I Quit a $450k Engineering Job at Netflix](https://medium.com/@_michaellin/why-i-quit-a-450k-engineering-job-at-netflix-874454397885)
@@ -1494,7 +1516,7 @@
 ## Product Design
 - [John Cutler - TBM 20/54: "You're Making This Too Complicated"](https://cutlefish.substack.com/p/tbm-2054-youre-making-this-too-complicated?s=w)
 - [CBInsights - 397 Startup Failure Post-Mortems](https://www.cbinsights.com/research/startup-failure-post-mortem/)
-- [Jeff Gothelf - There’s no guarantee your product strategy will work. Here’s how to de-risk it](https://jeffgothelf.com/blog/theres-no-guarantee-your-product-strategy-will-work-heres-how-to-de-risk-it/)
+- [Jeff Gothelf - There's no guarantee your product strategy will work. Here's how to de-risk it](https://jeffgothelf.com/blog/theres-no-guarantee-your-product-strategy-will-work-heres-how-to-de-risk-it/)
 - [John Cutler - 15 Behaviors of Healthy, Data-Informed Product Teams](https://amplitude.com/blog/data-informed-product-teams)
 - [Nick Tune - A Clash of Mindsets: When New Products Depend on Existing Products](https://medium.com/nick-tune-tech-strategy-blog/
 - [Oleksandr Sukholeyster - Task-Driven User Interfaces](https://www.uxmatters.com/mt/archives/2014/12/task-driven-user-interfaces.php)
@@ -1502,6 +1524,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Angie Jones - Free Courses](https://testautomationu.applitools.com/instructors/angie_jones.html)
 - [xalgord - Multi-Threaded Programming in Java](https://xalgord.in/multi-threaded-programming-in-java/)
 - [Evgeniy Khyst - Event Sourcing with EventStoreDB](https://github.com/evgeniy-khist/eventstoredb-event-sourcing)
 - [Mateusz Chrzonstowski  - Less popular Spring tricks: no Hibernate, projections, rest repo, events, AOP](https://github.com/mat3e/less-popular-spring-functions)
@@ -1518,7 +1541,7 @@
 
 - [Cameron McKenzie - A simple Java Function interface example: Learn Functional programming fast](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Get-the-most-from-Java-Function-interface-with-this-example)
 - [Justin Albano - Dependency Injection in Spring](https://dzone.com/articles/dependency-injection-in-spring)
-- [Mahmoud Anouti - 20 Examples of Using Java’s CompletableFuture](https://dzone.com/articles/20-examples-of-using-javas-completablefuture)
+- [Mahmoud Anouti - 20 Examples of Using Java's CompletableFuture](https://dzone.com/articles/20-examples-of-using-javas-completablefuture)
 - [Sameer Kulkarni - How to configure Dependabot with Gradle](https://www.sameerkulkarni.de/posts/dependabot-with-gradle/)
 - [Java - JEP 359: Records](https://openjdk.java.net/jeps/359)
 - [Java - JEP 405: Record Patterns](https://openjdk.java.net/jeps/405)
@@ -1559,6 +1582,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Colin McDonnell - Zod - TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)
 - [Melvin George - How to convert an array into string literal union type in TypeScript?](https://melvingeorge.me/blog/convert-array-into-string-literal-union-type-typescript)
 - [Marius Schulz - The unknown Type in TypeScript](https://mariusschulz.com/blog/the-unknown-type-in-typescript)
 - [LogRocket - Linting in TypeScript using ESLint and Prettier](https://blog.logrocket.com/linting-typescript-using-eslint-and-prettier/)
@@ -1575,6 +1599,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## NodeJS
+- [Michael Herman - Node, gRPC, and Postgres](https://mherman.org/blog/node-grpc-postgres/)
 - [Google - WireIt - Upgrades your npm scripts to make them smarter and more efficient](https://github.com/google/wireit)
 - [NodeJS - Stream Finished, handling closed or ended NodeJS stream](https://nodejs.org/api/stream.html#streamfinishedstream-options-callback)
 - [node-postgres - a collection of node.js modules for interfacing with your PostgreSQL database](https://node-postgres.com/)
@@ -1670,7 +1695,7 @@
 - [CNET - Google Revamps Employee Review System Following Criticism](https://www.cnet.com/tech/google-revamps-employee-review-system-following-criticism/)
 - [Apple Together - Thoughts on Office-bound Work](https://appletogether.org/hotnews/thoughts-on-office-bound-work)
 - [Daniel Stenberg - Uncurled - everything I know and learned about running and maintaining Open Source projects for three decades](https://un.curl.dev/)
-- [CNBC - Twitter accepts Elon Musk’s buyout deal](https://www.cnbc.com/2022/04/25/twitter-accepts-elon-musks-buyout-deal.html)
+- [CNBC - Twitter accepts Elon Musk's buyout deal](https://www.cnbc.com/2022/04/25/twitter-accepts-elon-musks-buyout-deal.html)
 - [TechCrunch - Twitter is protecting its source code from disgruntled employees, reports say](https://techcrunch.com/2022/04/26/twitter-lock-source-code-elon-musk)
 - [BleepingComputer - GitHub suspends accounts of Russian devs at sanctioned companies](https://www.bleepingcomputer.com/news/security/github-suspends-accounts-of-russian-devs-at-sanctioned-companies/)
 - [The Vice - Twitter Loses Elon Musk the Board Member, Regains Elon Musk the Shitposter](https://www.vice.com/en/article/93bj77/twitter-loses-elon-musk-the-board-member-regains-elon-musk-the-shitposter)
@@ -1685,8 +1710,8 @@
 - [The New York Times - David Boggs, Co-Inventor of Ethernet, Dies at 71](https://www.nytimes.com/2022/02/28/technology/david-boggs-dead.html)
 - [Concoda - The Crypto Revolution Was Over Before It Started](https://concoda.substack.com/p/the-crypto-revolution-was-over-before)
 - [Jonatan Heyman - Avoid the Apple App Store](https://heyman.info/2022/feb/17/avoid-the-apple-app-store/)
-- [Irish Council for Civil Liberties - GDPR enforcer rules that IAB Europe’s consent popups are unlawful](https://www.iccl.ie/news/gdpr-enforcer-rules-that-iab-europes-consent-popups-are-unlawful/)
-- [City A.M. - Mark Zuckerberg and team consider shutting down Facebook and Instagram in Europe if Meta can not process Europeans’ data on US servers](https://www.cityam.com/mark-zuckerberg-and-team-consider-shutting-down-facebook-and-instagram-in-europe-if-meta-can-not-process-europeans-data-on-us-servers/)
+- [Irish Council for Civil Liberties - GDPR enforcer rules that IAB Europe's consent popups are unlawful](https://www.iccl.ie/news/gdpr-enforcer-rules-that-iab-europes-consent-popups-are-unlawful/)
+- [City A.M. - Mark Zuckerberg and team consider shutting down Facebook and Instagram in Europe if Meta can not process Europeans' data on US servers](https://www.cityam.com/mark-zuckerberg-and-team-consider-shutting-down-facebook-and-instagram-in-europe-if-meta-can-not-process-europeans-data-on-us-servers/)
 - [Rufus Pollock - Awesome critique of crypto/web3](https://github.com/rufuspollock/awesome-crypto-critique)
 - [Wired - Europe's Move Against Google Analytics Is Just the Beginning](https://www.wired.co.uk/article/google-analytics-europe-austria-privacy-shield)
 - [Tim O'Reilly - Andy Warhol, Clay Christensen, and Vitalik Buterin walk into a bar](https://www.oreilly.com/radar/andy-warhol-clay-christensen-and-vitalik-buterin-walk-into-a-bar)
@@ -1881,11 +1906,11 @@
 - [The Daily Swig - Internal AWS credentials swiped by researcher via SQL payload](https://portswigger.net/daily-swig/internal-aws-credentials-swiped-by-researcher-via-sql-payload)
 - [The Hacker News - GitHub Says Hackers Breached Dozens of Organizations Using Stolen OAuth Access Tokens](https://thehackernews.com/2022/04/github-says-hackers-breach-dozens-of.html)
 - [GitHub - Git security vulnerability announced](https://github.blog/2022-04-12-git-security-vulnerability-announced/)
-- [Tanya Janca - Why can’t I get over log4j?](https://shehackspurple.ca/2022/04/01/why-cant-i-get-over-log4j/)
+- [Tanya Janca - Why can't I get over log4j?](https://shehackspurple.ca/2022/04/01/why-cant-i-get-over-log4j/)
 - [BleepingComputer - Fake Trezor data breach emails used to steal cryptocurrency wallets](https://www.bleepingcomputer.com/news/security/fake-trezor-data-breach-emails-used-to-steal-cryptocurrency-wallets/)
 - [BleepingComputer - Lapsus$ hackers leak 37GB of Microsoft's alleged source code](https://www.bleepingcomputer.com/news/microsoft/lapsus-hackers-leak-37gb-of-microsofts-alleged-source-code/)
 - [Okta - Updated Okta Statement on LAPSUS$](https://www.okta.com/blog/2022/03/updated-okta-statement-on-lapsus/)
-- [Cloudflare - Cloudflare’s investigation of the January 2022 Okta compromise](https://blog.cloudflare.com/cloudflare-investigation-of-the-january-2022-okta-compromise/)
+- [Cloudflare - Cloudflare's investigation of the January 2022 Okta compromise](https://blog.cloudflare.com/cloudflare-investigation-of-the-january-2022-okta-compromise/)
 - [BBC - Lapsus$: Oxford teen accused of being multi-millionaire cyber-criminal](https://www.bbc.com/news/technology-60864283)
 
 - [Keycloak - Open Source Identity and Access Management](https://www.keycloak.org/)
@@ -1967,17 +1992,19 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [ArsTechnica - Microsoft open-sourced the code for 1995's 3D Movie Maker because someone asked](https://arstechnica.com/gadgets/2022/05/microsoft-open-sourced-the-code-for-1995s-3d-movie-maker-because-someone-asked/)
+- [Microsoft - Microsoft 3D Movie Maker source codes](https://github.com/microsoft/Microsoft-3D-Movie-Maker)
 - [Ted Neward - Speaking Tips](https://blogs.newardassociates.com/speaking-tips/)
 - [Hadi Hariri - Public Speaking - Should I speak?](https://hadihariri.com/2018/09/04/public-speaking-should-i-speak/)
 - [Michael Liendo - The in-depth guide to selling digital products with AWS Amplify and Stripe](https://blog.focusotter.com/the-in-depth-guide-to-selling-digital-products-with-aws-amplify-and-stripe)
 - [Markham Heid - The Science Behind Gut Feelings](https://elemental.medium.com/the-science-behind-gut-feelings-e4ed0be994e9)
 - [PBS - False news travels 6 times faster on Twitter than truthful news](https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news)
-- [Farnam Street - How to Think: The Skill You’ve Never Been Taught](https://fs.blog/how-to-think/)
+- [Farnam Street - How to Think: The Skill You've Never Been Taught](https://fs.blog/how-to-think/)
 - [httpie - How we lost 54k GitHub stars](https://httpie.io/blog/stardust)
 - [Milan Curcic - Writing a technical book with Manning in 2020](https://medium.com/modern-fortran/writing-a-technical-book-with-manning-in-2020-6ac3497500c9)
 - [Hana Mohan - The Slack Notifications Flowchart Explained](https://www.magicbell.com/blog/slack-notifications-flowchart)
 - [Blue OS Museum - Microsoft Windows 95 Launch with Bill Gates & Jay Leno](https://www.youtube.com/watch?v=_JzfROUDsK0)
-- [IEEE Spectrum - The Vacuum Tube’s Forgotten Rival](https://spectrum.ieee.org/the-vacuum-tubes-forgotten-rival)
+- [IEEE Spectrum - The Vacuum Tube's Forgotten Rival](https://spectrum.ieee.org/the-vacuum-tubes-forgotten-rival)
 - [ArsTechnica - Wolfenstein 3D secrets revealed by John Romero in lengthy post-mortem chat](https://arstechnica.com/gaming/2022/03/achtung-john-romero-exposes-wolfenstein-3ds-history-in-gdc-post-mortem)
 - [Killed by Microsoft](https://killedbymicrosoft.info/)
 - [Kelsey Hightower - No Code](https://github.com/kelseyhightower/nocode)
