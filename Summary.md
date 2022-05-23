@@ -55,6 +55,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - What onion has to do with Clean Code?](https://event-driven.io/en/onion_clean_code/?utm_source=architecture_weekly)
+- [InfoQ - Seven Ways to Fail at Microservices with Holly Cummins](https://www.infoq.com/podcasts/seven-ways-failing-microservices/)
+- [Antoine Craske - Airbnb's Microservices Architecture Journey To Quality Engineering](https://medium.com/qe-unit/airbnbs-microservices-architecture-journey-to-quality-engineering-d5a490e6ba4f)
+- [Roni Dover - Improving Code Design With OpenTelemetry — A Practical Guide](https://betterprogramming.pub/improving-code-design-with-opentelemetry-a-practical-guide-a08e6440c24d)
+- [Carola Lilienthal - When we lose sight of our domain](https://www.youtube.com/watch?v=TfNRB0Urhd0)
+- [Alexey Zimarev - The Right Way](https://medium.com/eventuous/the-right-way-b1a82c787f7b)
+- [Gary Bernhardt - Boundaries](https://www.youtube.com/watch?v=yTkzNHF6rMs)
+- [Noah Sussman - Falsehoods programmers believe about time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
 - [Honeycomb's O'Reilly Book Observability Engineering](https://info.honeycomb.io/observability-engineering-oreilly-book-2022)
 - [Derek Comartin - Building a Webhooks System](https://www.youtube.com/watch?v=NuHC5uwbFAc)
 - [luminousmen - Modern Big Data Architectures - Lambda & Kappa](https://luminousmen.com/post/modern-big-data-architectures-lambda-kappa)
@@ -421,6 +429,9 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Provectus - Kafka-ui - Open-Source Web GUI for Apache Kafka Management](https://github.com/provectus/kafka-ui)
+- [BlueSky - A Self-Authenticating Social Protocol](https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol)
+- [The Verge - Twitter’s decentralized, open-source offshoot just released its first code](https://www.theverge.com/2022/5/4/23057473/twitter-bluesky-adx-release-open-source-decentralized-social-network)
 - [B. Fan, H. Lim, D. G. Andersen, M. Kaminsky - Small Cache, Big Effect: Provable Load Balancing for Randomly Partitioned Cluster Services](https://www.cs.cmu.edu/~fawnproj/papers/loadbal-socc2011.pdf)
 - [WhatsApp Raft - WARaft - An Erlang implementation of RAFT from WhatsApp ](https://github.com/WhatsApp/waraft)
 - [Istio - Istio has applied to become a CNCF project](https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/)
@@ -738,6 +749,7 @@
 - [David Ramel - TypeScript Surges in GitHub Octoverse 2020 Report](https://visualstudiomagazine.com/articles/2020/12/03/octoverse-2020.aspx)
 
 ## Edge Computing
+- [Turing Pi 2 - Reliable, scalable, cloud-native computer for the edge](https://turingpi.com/)
 - [Discourse - Discourse on a Raspberry Pi](https://blog.discourse.org/2021/12/2021-12-07-discourse-on-a-raspberry-pi/)
 - [Chris Coyier - How to Use Cloudflare Workers and KV Storage](https://www.youtube.com/watch?v=NGk2HxV0Xkg)
 
@@ -803,6 +815,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Alex Vondrak - How Time Series Databases Work—and Where They Don't](https://www.honeycomb.io/blog/time-series-database/)
+- [VentureBeat - Why SQLite may become foundational for digital progress](https://venturebeat.com/2022/05/20/why-sqlite-may-become-foundational-for-digital-progress/)
 - [Timescale - Time-series compression algorithms, explained](https://www.timescale.com/blog/time-series-compression-algorithms-explained/)
 - [Oskar Dudycz - Persistent vs catch-up, EventStoreDB subscriptions in action](https://event-driven.io/en/persistent_vs_catch_up_eventstoredb_subscriptions_in_action/)
 - [Citus Con: An Event for Postgres - All Recorded Talks](https://www.citusdata.com/cituscon/2022/schedule/#all-videos)
@@ -926,6 +940,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Daniel Schroeder - IAM Floyd - AWS IAM policy statement generator with fluent interface](https://github.com/udondan/iam-floyd)
 - [Yan Cui - AWS Lambda: function URL is live!](https://lumigo.io/blog/aws-lambda-function-url-is-live/)
 - [Renato Losio - AWS Introduces Lambda Function URLs to Simplify Serverless Deployments](https://www.infoq.com/news/2022/04/aws-lambda-function-urls/)
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
@@ -968,6 +983,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jeremy D. Miller - Multi-Tenancy with Marten](https://jeremydmiller.com/2022/03/28/multi-tenancy-with-marten-2/)
+- [.NET Conf - 2021 - Focus on F# Recording](https://www.youtube.com/watch?v=i3qEhwcG7ps)
+- [StrathWeb - Running .NET 7 apps on WASI on arm64 Mac](https://www.strathweb.com/2022/03/running-net-7-apps-on-wasi-on-arm64-mac/)
+- [Gérald Barré - Getting telemetry data from inside or outside a .NET application](https://www.meziantou.net/getting-telemetry-data-from-inside-or-outside-a-dotnet-application.htm)
 - [.NET Blog - YARP 1.1 is here with new requested reverse proxy features](https://devblogs.microsoft.com/dotnet/yarp-reverse-proxy-1-1-release/)
 - [Aaron Stannard - An Overview of Distributed Tracing with OpenTelemetry in .NET 6](https://aaronstannard.com/opentelemetry-dotnet6/)
 - [Andrew W. Lock - Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/)
@@ -1582,6 +1601,8 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Yuriy Bogomolov - Compile-time validation of UUIDs](https://ybogomolov.me/type-level-uuid/)
+- [Jose Granja - Mastering TypeScript Template Literal Types](https://betterprogramming.pub/mastering-typescript-template-literal-types-f4131a94ffb1)
 - [Colin McDonnell - Zod - TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)
 - [Melvin George - How to convert an array into string literal union type in TypeScript?](https://melvingeorge.me/blog/convert-array-into-string-literal-union-type-typescript)
 - [Marius Schulz - The unknown Type in TypeScript](https://mariusschulz.com/blog/the-unknown-type-in-typescript)
@@ -1633,6 +1654,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Chris Noring - Go, from the beginning](https://leanpub.com/go-from-the-beginning)
 - [Amos Wenger - Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 - [Dmitry Vyukov — Go scheduler: Implementing language with lightweight concurrency](https://www.youtube.com/watch?v=-K11rY57K7k)
 - [İnanç Gümüş - Learn Go - A Huge Number of Go Examples, Exercises and Quizzes](https://github.com/inancgumus/learngo)
@@ -1654,6 +1676,7 @@
 - [Robert Pająk - Lessons Learned after 1 year of programming in Go as a C# developer](https://pajak.home.blog/2020/02/28/lessons-learned-after-1-year-of-programming-in-go-as-a-c-developer)
 
 ## Kotlin
+- [Johan Haleby - Pragmatic Event Sourcing with Pure Functions](https://www.youtube.com/watch?v=YJvHbtuX250)
 - [Duncan McGregor - Java to Kotlin Gilded Rose](https://www.youtube.com/playlist?list=PL1ssMPpyqocjo6kkNCg-ncTyAW0nECPmq)
 - [Simon Vergauwen - Functional Domain Modeling in Kotlin - Validation](https://www.47deg.com/blog/functional-domain-modeling-part-2/)
 
@@ -1661,6 +1684,7 @@
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
 
 ## Python
+- [Plotly - Dash - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.](https://github.com/plotly/dash)
 - [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
 
 ## Rust
@@ -1692,6 +1716,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Lago - Why billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
 - [CNET - Google Revamps Employee Review System Following Criticism](https://www.cnet.com/tech/google-revamps-employee-review-system-following-criticism/)
 - [Apple Together - Thoughts on Office-bound Work](https://appletogether.org/hotnews/thoughts-on-office-bound-work)
 - [Daniel Stenberg - Uncurled - everything I know and learned about running and maintaining Open Source projects for three decades](https://un.curl.dev/)
@@ -1803,6 +1828,7 @@
 - [Corey Quinn - How to Compete with AWS](https://www.lastweekinaws.com/blog/how-to-compete-with-aws/)
 
 ## Hardware
+- [Singularity Hub - Moore’s Law: Scientists Just Made a Graphene Transistor Gate the Width of an Atom](https://singularityhub.com/2022/03/13/moores-law-scientists-just-made-a-graphene-transistor-gate-the-width-of-an-atom/)
 - [RedPanda - Evaluating Graviton 2 for data-intensive applications: an Arm vs Intel comparison](https://redpanda.com/blog/aws-graviton-2-arm-vs-x86-comparison)
 - [Tom's Hardware - Intel BIOS Updates Officially Disable Alder Lake's AVX-512 Capabilities](https://www.tomshardware.com/news/intel-bios-update-disables-alder-lake-avx-512)
 - [Michael Yuan - Performance Analysis for Arm vs x86 CPUs in the Cloud](https://www.infoq.com/articles/arm-vs-x86-cloud-performance/)
@@ -1992,6 +2018,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Reza Shakeri - Beautify GitHub Profile](https://github.com/rzashakeri/beautify-github-profile)
 - [ArsTechnica - Microsoft open-sourced the code for 1995's 3D Movie Maker because someone asked](https://arstechnica.com/gadgets/2022/05/microsoft-open-sourced-the-code-for-1995s-3d-movie-maker-because-someone-asked/)
 - [Microsoft - Microsoft 3D Movie Maker source codes](https://github.com/microsoft/Microsoft-3D-Movie-Maker)
 - [Ted Neward - Speaking Tips](https://blogs.newardassociates.com/speaking-tips/)
