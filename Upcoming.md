@@ -6,3 +6,5 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ---
 [Uno Platform 4.3 – Figma Plugin, Uno Extensions, Material Design 3 Support, New Sample App and more](https://platform.uno/blog/uno-platform-4-3-figma-plugin-uno-extensions-material-design-3-support-new-sample-app-and-more/)
+
+[It's good to bet on .NET](https://medium.com/@bryancostanich/its-good-to-bet-on-net-c22853f501c7)
