@@ -55,6 +55,13 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Eric Evans - Getting Started with DDD when surrounded by legacy systems](https://www.domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf)
+- [Thomas Pierrain - Hexagonal != Layers](http://tpierrain.blogspot.com/2016/04/hexagonal-layers.html?m=1)
+- [Eleanor Kolossovski - A Strategist’s Guide to Platform Thinking](https://medium.com/@eleanor.kolossovski/a-strategists-guide-to-platform-thinking-9069b60e5f5a)
+- [Mathias Verraes - Conway’s Law Doesn’t Apply to Rigid Designs](https://verraes.net/2022/05/conways-law-vs-rigid-designs/)
+- [Mustapha Hadid - Software Architecture Books](https://github.com/mhadidg/software-architecture-books)
+- [Gregor Hohpe - The Architect’s Path (Part 2 - Bookshelf)](https://architectelevator.com/architecture/architect-bookshelf/)
+- [Aaron Stannard - High Optionality Programming: Software Architectures that Reduce Technical Debt - Part 1](https://petabridge.com/blog/high-optionality-programming-pt1/)
 - [Oskar Dudycz - What onion has to do with Clean Code?](https://event-driven.io/en/onion_clean_code/?utm_source=architecture_weekly)
 - [InfoQ - Seven Ways to Fail at Microservices with Holly Cummins](https://www.infoq.com/podcasts/seven-ways-failing-microservices/)
 - [Antoine Craske - Airbnb's Microservices Architecture Journey To Quality Engineering](https://medium.com/qe-unit/airbnbs-microservices-architecture-journey-to-quality-engineering-d5a490e6ba4f)
@@ -792,6 +799,8 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [Asbjørn Ulsberg - The REST And Then Some](https://www.youtube.com/watch?v=QIv9YR1bMwY)
+- [Stefan Tilkov - REST: I don't Think it Means What You Think it Does](https://www.youtube.com/watch?v=pspy1H6A3FM)
 - [Manning - APIs Conference 2021 Recordings](https://www.youtube.com/watch?v=TmeTHUAAAVQ)
 - [Redoc - OpenAPI/Swagger-generated API Reference Documentation](https://github.com/Redocly/redoc)
 - [IETF - Problem Details for HTTP APIs RFC](https://datatracker.ietf.org/doc/html/rfc7807)
@@ -815,6 +824,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Daniel Holt - CockroachDB vs AWS Aurora](https://dantheengineer.com/cockroachdb-vs-aws-aurora/)
+- [CockroachDB - Why CockroachDB and PostgreSQL Are Compatible](https://www.cockroachlabs.com/blog/why-postgres/)
 - [Alex Vondrak - How Time Series Databases Work—and Where They Don't](https://www.honeycomb.io/blog/time-series-database/)
 - [VentureBeat - Why SQLite may become foundational for digital progress](https://venturebeat.com/2022/05/20/why-sqlite-may-become-foundational-for-digital-progress/)
 - [Timescale - Time-series compression algorithms, explained](https://www.timescale.com/blog/time-series-compression-algorithms-explained/)
@@ -925,6 +936,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [DAIR.AI - Transformer Recipe](https://github.com/dair-ai/Transformers-Recipe)
 - [J.C. Petersona, S. Uddenberg,T.L. Griffiths, A. Todorov,J.W. Suchow - Deep models of superficial face judgments](https://www.pnas.org/doi/epdf/10.1073/pnas.2115228119)
 - [Craig Topham - Publication of the FSF-funded white papers on questions around Copilot](https://www.fsf.org/news/publication-of-the-fsf-funded-white-papers-on-questions-around-copilot)
 - [Microsoft - Machine Learning for Beginners - A Curriculum](https://microsoft.github.io/ML-For-Beginners)
@@ -940,6 +952,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [CDK Day - CDK Day May 2022 Recordings - Track 1](https://www.youtube.com/watch?v=_kY7o3De_9A)
 - [Daniel Schroeder - IAM Floyd - AWS IAM policy statement generator with fluent interface](https://github.com/udondan/iam-floyd)
 - [Yan Cui - AWS Lambda: function URL is live!](https://lumigo.io/blog/aws-lambda-function-url-is-live/)
 - [Renato Losio - AWS Introduces Lambda Function URLs to Simplify Serverless Deployments](https://www.infoq.com/news/2022/04/aws-lambda-function-urls/)
@@ -983,6 +996,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Grzegorz Orwat - Decorating Command Handlers Using MediatR and ASP.NET Core DI](https://grzegorzorwat.github.io/2022/05/28/decorate-command-handlers.html)
+- [.NET Blog - The Azure Cosmos DB Journey to .NET 6](https://devblogs.microsoft.com/dotnet/the-azure-cosmos-db-journey-to-net-6/)
+- [Coravel - Near-zero config .NET Core library that makes Task Scheduling, Caching, Queuing, Mailing, Event Broadcasting (and more) a breeze!](https://docs.coravel.net/)
+- [.NET Blog - Introducing .NET MAUI – One Codebase, Many Platforms](https://devblogs.microsoft.com/dotnet/introducing-dotnet-maui-one-codebase-many-platforms/)
 - [Jeremy D. Miller - Multi-Tenancy with Marten](https://jeremydmiller.com/2022/03/28/multi-tenancy-with-marten-2/)
 - [.NET Conf - 2021 - Focus on F# Recording](https://www.youtube.com/watch?v=i3qEhwcG7ps)
 - [StrathWeb - Running .NET 7 apps on WASI on arm64 Mac](https://www.strathweb.com/2022/03/running-net-7-apps-on-wasi-on-arm64-mac/)
@@ -1357,6 +1374,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Oskar Dudycz - Power of ignorance, or how to write simple code](https://event-driven.io/en/power_of_ignorance/)
 - [Gergely Orosz - How to (not) choose a startup to join: lessons from Fast](https://www.youtube.com/watch?app=desktop&v=NK25beIsBfQ)
 - [Jeremy D. Miller - Why I hate the word “Pragmatic” and other rants](https://jeremydmiller.com/2014/06/19/pragmatic-and-other-rants/)
 - [Felienne Hermans - The Programmer's Brain](https://www.infoq.com/presentations/reading-code)
@@ -1501,6 +1519,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Melanie S. Brucks, Jonathan Levav - Virtual communication curbs creative idea generation](https://www.nature.com/articles/s41586-022-04643-y)
 - [Anton Stöckl - 4 reasons why 4 is the perfect team size for (agile) software development](https://medium.com/@TonyBologni/4-reasons-why-4-is-the-perfect-team-size-for-agile-software-development-8597d33f3cfe)
 - [Scott Hanselman - Building Teams Through Systems Thinking and Stories](https://www.youtube.com/watch?v=VFIw0LlULyc)
 - [Mike Griffiths - Toptal Blog Proposal: Creating a Risk-Adjusted Backlog](https://www.leadinganswers.com/toptal-blog-proposal-creating-a-risk-adjusted-backlog.html)
@@ -1589,6 +1608,7 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)]
 
 ## JavaScript
+- [js-joda - Immutable date and time library for JavaScript](https://github.com/js-joda/js-joda)
 - [Rohit Gohri - How to get ESlint and Prettier to play nice in VS Code?](https://rohit.page/blog/posts/how-to-get-prettier-eslint-play-nicely-with-vscode/)
 - [Hugh Haworth - Comparing Node JavaScript to JavaScript in the Browser](https://css-tricks.com/node-javascript-compared-to-javascript/)
 - [Microsoft - A Proposal For Type Syntax in JavaScript](https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/)
@@ -1601,6 +1621,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Drew Colthorp - Flavoring: Flexible Nominal Typing for TypeScript](https://spin.atomicobject.com/2018/01/15/typescript-flexible-nominal-typing/)
 - [Yuriy Bogomolov - Compile-time validation of UUIDs](https://ybogomolov.me/type-level-uuid/)
 - [Jose Granja - Mastering TypeScript Template Literal Types](https://betterprogramming.pub/mastering-typescript-template-literal-types-f4131a94ffb1)
 - [Colin McDonnell - Zod - TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)
@@ -1654,6 +1675,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Fiber - Express inspired web framework written in Go](https://github.com/gofiber/fiber)
 - [Chris Noring - Go, from the beginning](https://leanpub.com/go-from-the-beginning)
 - [Amos Wenger - Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 - [Dmitry Vyukov — Go scheduler: Implementing language with lightweight concurrency](https://www.youtube.com/watch?v=-K11rY57K7k)
@@ -1828,6 +1850,7 @@
 - [Corey Quinn - How to Compete with AWS](https://www.lastweekinaws.com/blog/how-to-compete-with-aws/)
 
 ## Hardware
+- [Endgaget - Microsoft's Project Volterra is a mini PC for ARM developers](https://www.engadget.com/project-volterra-announced-180123291.html?guccounter=1)
 - [Singularity Hub - Moore’s Law: Scientists Just Made a Graphene Transistor Gate the Width of an Atom](https://singularityhub.com/2022/03/13/moores-law-scientists-just-made-a-graphene-transistor-gate-the-width-of-an-atom/)
 - [RedPanda - Evaluating Graviton 2 for data-intensive applications: an Arm vs Intel comparison](https://redpanda.com/blog/aws-graviton-2-arm-vs-x86-comparison)
 - [Tom's Hardware - Intel BIOS Updates Officially Disable Alder Lake's AVX-512 Capabilities](https://www.tomshardware.com/news/intel-bios-update-disables-alder-lake-avx-512)
@@ -1928,6 +1951,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [The Hacker News - Nearly 100,000 NPM Users' Credentials Stolen in GitHub OAuth Breach](https://thehackernews.com/2022/05/nearly-100000-npm-users-credentials.html)
+- [The Linux Foundation - The Open Source Software Security Mobilization Plan](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/OpenSSF/White%20House%20OSS%20Mobilization%20Plan.pdf?hsCtaTracking=3b79d59d-e8d3-4c69-a67b-6b87b325313c%7C7a1a8b01-65ae-4bac-b97c-071dac09a2d8)
 - [Oracle - Critical Patch Update Advisory - April 2022](https://www.oracle.com/security-alerts/cpuapr2022.html)
 - [The Daily Swig - Internal AWS credentials swiped by researcher via SQL payload](https://portswigger.net/daily-swig/internal-aws-credentials-swiped-by-researcher-via-sql-payload)
 - [The Hacker News - GitHub Says Hackers Breached Dozens of Organizations Using Stolen OAuth Access Tokens](https://thehackernews.com/2022/04/github-says-hackers-breach-dozens-of.html)
@@ -2018,6 +2043,8 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Yves Lorphelin - 31 years and about 6000 hours later](https://github.com/ylorph/RandomThoughts/blob/master/2018.06.02.After.6000.hours.and.31.years.md)
+- [Patrick Stoke - No, you’re not entitled to your opinion](https://theconversation.com/no-youre-not-entitled-to-your-opinion-9978)
 - [Reza Shakeri - Beautify GitHub Profile](https://github.com/rzashakeri/beautify-github-profile)
 - [ArsTechnica - Microsoft open-sourced the code for 1995's 3D Movie Maker because someone asked](https://arstechnica.com/gadgets/2022/05/microsoft-open-sourced-the-code-for-1995s-3d-movie-maker-because-someone-asked/)
 - [Microsoft - Microsoft 3D Movie Maker source codes](https://github.com/microsoft/Microsoft-3D-Movie-Maker)
