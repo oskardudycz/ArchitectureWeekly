@@ -55,6 +55,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Gregor Hohpe - Enterprise Architecture = Architecting the Enterprise?](https://www.youtube.com/watch?v=mS0AJLqmnvQ)
+- [Ralph Johnson, Joe Armstrong - the State of OOP](https://www.infoq.com/interviews/johnson-armstrong-oop/)
+- [InfoQ - Software Architecture and Design InfoQ Trends Report—April 2022](https://www.infoq.com/articles/architecture-trends-2022/)
+- [Interview Ready - System Design Resources](https://github.com/InterviewReady/system-design-resources)
+- [Quanta Magazine  - The Man Who Revolutionized Computer Science With Math](https://www.youtube.com/watch?v=rkZzg7Vowao)
 - [Eric Evans - Getting Started with DDD when surrounded by legacy systems](https://www.domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf)
 - [Thomas Pierrain - Hexagonal != Layers](http://tpierrain.blogspot.com/2016/04/hexagonal-layers.html?m=1)
 - [Eleanor Kolossovski - A Strategist’s Guide to Platform Thinking](https://medium.com/@eleanor.kolossovski/a-strategists-guide-to-platform-thinking-9069b60e5f5a)
@@ -436,6 +441,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Jepsen - Redpanda 21.10.1 Review](https://jepsen.io/analyses/redpanda-21.10.1)
 - [Provectus - Kafka-ui - Open-Source Web GUI for Apache Kafka Management](https://github.com/provectus/kafka-ui)
 - [BlueSky - A Self-Authenticating Social Protocol](https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol)
 - [The Verge - Twitter’s decentralized, open-source offshoot just released its first code](https://www.theverge.com/2022/5/4/23057473/twitter-bluesky-adx-release-open-source-decentralized-social-network)
@@ -605,6 +611,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Ian Crosby - Kubernetes in Real Life](https://www.youtube.com/watch?v=UUt7SuG3nW4)
 - [Oskar Dudycz - A few tricks on how to set up related Docker images with docker-compose](https://event-driven.io/en/tricks_on_how_to_set_up_related_docker_images/)
 - [Stack Overflow - blackbox - Safely store secrets in Git/Mercurial/Subversion](https://github.com/StackExchange/blackbox)
 - [GitHub - Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
@@ -824,6 +831,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Fly.io - Free Postgres Databases](https://fly.io/blog/free-postgres/)
 - [Daniel Holt - CockroachDB vs AWS Aurora](https://dantheengineer.com/cockroachdb-vs-aws-aurora/)
 - [CockroachDB - Why CockroachDB and PostgreSQL Are Compatible](https://www.cockroachlabs.com/blog/why-postgres/)
 - [Alex Vondrak - How Time Series Databases Work—and Where They Don't](https://www.honeycomb.io/blog/time-series-database/)
@@ -936,6 +944,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [KDNuggets - Machine Learning Cheat Sheets](https://www.kdnuggets.com/2018/09/machine-learning-cheat-sheets.html)
 - [DAIR.AI - Transformer Recipe](https://github.com/dair-ai/Transformers-Recipe)
 - [J.C. Petersona, S. Uddenberg,T.L. Griffiths, A. Todorov,J.W. Suchow - Deep models of superficial face judgments](https://www.pnas.org/doi/epdf/10.1073/pnas.2115228119)
 - [Craig Topham - Publication of the FSF-funded white papers on questions around Copilot](https://www.fsf.org/news/publication-of-the-fsf-funded-white-papers-on-questions-around-copilot)
@@ -952,6 +961,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Real World Crypto conference  - Shay Gueron - AWS key management service KMS](https://www.youtube.com/watch?v=WEJ451rmhk4)
 - [CDK Day - CDK Day May 2022 Recordings - Track 1](https://www.youtube.com/watch?v=_kY7o3De_9A)
 - [Daniel Schroeder - IAM Floyd - AWS IAM policy statement generator with fluent interface](https://github.com/udondan/iam-floyd)
 - [Yan Cui - AWS Lambda: function URL is live!](https://lumigo.io/blog/aws-lambda-function-url-is-live/)
@@ -996,6 +1006,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Gérald Barré - Round-robin DNS support in .NET HttpClient](https://www.meziantou.net/round-robin-dns-support-in-dotnet-httpclient.htm)
+- [Uno Platform - Release 4.3 – Figma Plugin, Uno Extensions, Material Design 3 Support, New Sample App and more](https://platform.uno/blog/uno-platform-4-3-figma-plugin-uno-extensions-material-design-3-support-new-sample-app-and-more/)
+- [Khalid Abuhakmeh - Change C# Record Comparison with Source Generators](https://khalidabuhakmeh.com/change-csharp-record-comparison-with-source-generators)
+- [LinkDotNet.Blog - A blog (engine) completely written in C# and Blazor](https://github.com/linkdotnet/Blog)
 - [Grzegorz Orwat - Decorating Command Handlers Using MediatR and ASP.NET Core DI](https://grzegorzorwat.github.io/2022/05/28/decorate-command-handlers.html)
 - [.NET Blog - The Azure Cosmos DB Journey to .NET 6](https://devblogs.microsoft.com/dotnet/the-azure-cosmos-db-journey-to-net-6/)
 - [Coravel - Near-zero config .NET Core library that makes Task Scheduling, Caching, Queuing, Mailing, Event Broadcasting (and more) a breeze!](https://docs.coravel.net/)
@@ -1374,6 +1388,9 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Oskar Dudycz - Why I'm leaving Event Store and getting ready for the next episode](https://event-driven.io/en/leaving_event_store/)
+- [Silvia Botros - Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html)
+- [Tim Ottinger - Managing Interruptions](https://www.industriallogic.com/blog/managing-interruptions/)
 - [Oskar Dudycz - Power of ignorance, or how to write simple code](https://event-driven.io/en/power_of_ignorance/)
 - [Gergely Orosz - How to (not) choose a startup to join: lessons from Fast](https://www.youtube.com/watch?app=desktop&v=NK25beIsBfQ)
 - [Jeremy D. Miller - Why I hate the word “Pragmatic” and other rants](https://jeremydmiller.com/2014/06/19/pragmatic-and-other-rants/)
@@ -1519,6 +1536,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Toxic work cultures make Best Employees Quit](https://www.linkedin.com/pulse/toxic-work-cultures-make-best-employees-quit-brigette-hyacinth/)
 - [Melanie S. Brucks, Jonathan Levav - Virtual communication curbs creative idea generation](https://www.nature.com/articles/s41586-022-04643-y)
 - [Anton Stöckl - 4 reasons why 4 is the perfect team size for (agile) software development](https://medium.com/@TonyBologni/4-reasons-why-4-is-the-perfect-team-size-for-agile-software-development-8597d33f3cfe)
 - [Scott Hanselman - Building Teams Through Systems Thinking and Stories](https://www.youtube.com/watch?v=VFIw0LlULyc)
@@ -1562,6 +1580,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Jim Cownie - To sched_yield() Or Not To sched_yield()?](https://cpufun.substack.com/p/to-sched_yield-or-not-to-sched_yield)
+- [Andrey Pechkurov - Scalable Readers-Writer Lock](https://puzpuzpuz.io/scalable-readers-writer-lock)
 - [Angie Jones - Free Courses](https://testautomationu.applitools.com/instructors/angie_jones.html)
 - [xalgord - Multi-Threaded Programming in Java](https://xalgord.in/multi-threaded-programming-in-java/)
 - [Evgeniy Khyst - Event Sourcing with EventStoreDB](https://github.com/evgeniy-khist/eventstoredb-event-sourcing)
@@ -1621,6 +1641,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Microsoft - Announcing TypeScript 4.7](https://devblogs.microsoft.com/typescript/announcing-typescript-4-7)
 - [Drew Colthorp - Flavoring: Flexible Nominal Typing for TypeScript](https://spin.atomicobject.com/2018/01/15/typescript-flexible-nominal-typing/)
 - [Yuriy Bogomolov - Compile-time validation of UUIDs](https://ybogomolov.me/type-level-uuid/)
 - [Jose Granja - Mastering TypeScript Template Literal Types](https://betterprogramming.pub/mastering-typescript-template-literal-types-f4131a94ffb1)
@@ -1738,6 +1759,10 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Jason Cohen - The Elephant in the room: The myth of exponential hypergrowth](https://longform.asmartbear.com/docs/exponential-growth/)
+- [Tech a break meetup - Gender inequality in tech](https://www.youtube.com/watch?v=tvlF-yLxgos)
+- [Reuters - Musk sued by Twitter investors for stock 'manipulation' during takeover bid](https://www.reuters.com/markets/deals/musk-sued-by-twitter-investors-delayed-disclosure-stake-2022-05-26)
+- [MSN - Video game developers want fair online games. Some players really don’t](https://www.msn.com/en-us/sports/tennis/video-game-developers-want-fair-online-games-some-players-really-don-t/ar-AAXO8Kk)
 - [Lago - Why billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
 - [CNET - Google Revamps Employee Review System Following Criticism](https://www.cnet.com/tech/google-revamps-employee-review-system-following-criticism/)
 - [Apple Together - Thoughts on Office-bound Work](https://appletogether.org/hotnews/thoughts-on-office-bound-work)
@@ -1895,6 +1920,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [GitHub - GitHub is free for teams](https://github.blog/2020-04-14-github-is-now-free-for-teams/)
 - [Nushell - A new type of shell](https://www.nushell.sh/)
 - [Wilfred Hughes - Diffastic - a diff that understands syntax](https://difftastic.wilfred.me.uk/)
 - [GitHub - You can now name your fork when creating it](https://github.blog/changelog/2022-04-12-you-can-now-name-your-fork-when-creating-it/)
@@ -2043,6 +2069,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [BuzzFeed - Someone Stole Seth Green's Bored Ape, Which Was Supposed To Star In His New Show](https://www.buzzfeednews.com/article/sarahemerson/seth-green-bored-ape-stolen-tv-show)
 - [Yves Lorphelin - 31 years and about 6000 hours later](https://github.com/ylorph/RandomThoughts/blob/master/2018.06.02.After.6000.hours.and.31.years.md)
 - [Patrick Stoke - No, you’re not entitled to your opinion](https://theconversation.com/no-youre-not-entitled-to-your-opinion-9978)
 - [Reza Shakeri - Beautify GitHub Profile](https://github.com/rzashakeri/beautify-github-profile)
