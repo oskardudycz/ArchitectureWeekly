@@ -5,3 +5,58 @@
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
 ---
+
+### Architecture
+- [AWS Prescriptive Guidance - Using architectural decision records to streamline technical decision-making for a software development project](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/welcome.html)
+- [Pierre Pureur - Software Architecture: It Might Not Be What You Think It Is](https://www.infoq.com/articles/what-software-architecture)
+- [Oskar Dudycz - Should you throw an exception when rebuilding the state from events?](https://event-driven.io/en/should_you_throw_exception_when_rebuilding_state_from_events/)
+- [Exploring Axon Podcast - DDD, CQRS, EDA in the Front-End](https://podcasts.bcast.fm/e/r87mzl38-ddd-cqrs-eda-in-the-front-end)
+- [InfoQ - Andrew Harmel-Law - The Architecture Advice Process](https://www.infoq.com/podcasts/architecture-advice-process/)
+
+### Distributed Systems
+- [Gwen Shapira - The Magical Rebalance Protocol of Apache Kafka](https://www.youtube.com/watch?v=MmLezWRI3Ys)
+
+### Databases
+- [Alex Petrov - Algorithms behind Modern Storage Systems](https://www.youtube.com/watch?v=wxcCHvQeZ-U)
+
+### AI
+- [European Parliament Think Tank - AI and digital tools in workplace management and evaluation: An assessment of the EU’s legal framework](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2022)729516)
+
+### API
+- [Eric Wilde - What is HTTP/3 and what does it mean for APIs?](https://www.youtube.com/watch?v=FlnXJQ_TgXE)
+- [Mark Nottingham - A New Definition of HTTP](https://www.mnot.net/blog/2022/06/06/http-core)
+- [IETF - HTTP/3](https://datatracker.ietf.org/doc/html/rfc9114)
+- [Kim Lane - A Standardized, Specification-Driven API Lifecycle](https://www.infoq.com/presentations/OpenAPI-AsyncAPI-api-lifecycle)
+
+### Frontend
+- [Learn With Jason - Build an Ecommerce Site Using Stripe and Gatsby](https://www.youtube.com/watch?v=g4aCBNt5Pcg)
+
+### Edge Computing
+- [Arturo Lotito - Stretching the IoT Edge performance limits](https://techcommunity.microsoft.com/t5/internet-of-things-blog/stretching-the-iot-edge-performance-limits/ba-p/2993856)
+
+### Java
+- [InfoWorld - JDK 19: The new features in Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-new-features-in-java-19.html)
+
+### .NET
+- [Andreas Gullberg Larsen - Units.NET - Makes life working with units of measurement just a little bit better](https://github.com/angularsen/UnitsNet)
+- [Jeremy D. Miller - Marten just got better for CQRS architectures](https://jeremydmiller.com/2022/05/31/marten-just-got-better-for-cqrs-architectures/)
+- [Simon Cropp - XunitContext - Extends xUnit to expose extra context and simplify logging](https://github.com/SimonCropp/XunitContext)
+- [Marcin Budny - Comparing .NET virtual actor frameworks](https://www.etteplan.com/stories/comparing-net-virtual-actor-frameworks)
+
+### NodeJS
+- [Nexe - create a single executable out of your node.js apps ](https://github.com/nexe/nexe)
+
+### Python
+- [Event Sourcing in Python  - Python package for eventsourcing with EventStoreDB](https://github.com/pyeventsourcing/eventsourcing-eventstoredb)
+
+### Coding Life
+- [Mike Hadlow - The Configuration Complexity Clock](https://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html)
+
+### Management
+- [Docker - Building Stronger, Happier Engineering Teams with Team Topologies](https://www.docker.com/blog/building-stronger-happier-engineering-teams-with-team-topologies/)
+
+### Industry
+- [The Verge - Apple’s giving up ground in its App Store fight with Dutch regulators and Tinder](https://www.theverge.com/2022/6/10/23163277/apple-third-party-payment-rules-update-acm-dutch-dating-apps-netherlands?scrolla=5eb6d68b7fedc32c19ef33b4)
+
+### Security
+- [ArsTechnica - “Tough to forge” digital driver’s license is… easy to forge](https://arstechnica.com/information-technology/2022/05/digital-drivers-license-used-by-4m-australians-is-a-snap-to-forge)
