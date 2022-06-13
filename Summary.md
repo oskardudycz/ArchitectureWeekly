@@ -55,6 +55,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [AWS Prescriptive Guidance - Using architectural decision records to streamline technical decision-making for a software development project](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/welcome.html)
+- [Pierre Pureur - Software Architecture: It Might Not Be What You Think It Is](https://www.infoq.com/articles/what-software-architecture)
+- [Oskar Dudycz - Should you throw an exception when rebuilding the state from events?](https://event-driven.io/en/should_you_throw_exception_when_rebuilding_state_from_events/)
+- [Exploring Axon Podcast - DDD, CQRS, EDA in the Front-End](https://podcasts.bcast.fm/e/r87mzl38-ddd-cqrs-eda-in-the-front-end)
+- [InfoQ - Andrew Harmel-Law - The Architecture Advice Process](https://www.infoq.com/podcasts/architecture-advice-process/)
 - [Gregor Hohpe - Enterprise Architecture = Architecting the Enterprise?](https://www.youtube.com/watch?v=mS0AJLqmnvQ)
 - [Ralph Johnson, Joe Armstrong - the State of OOP](https://www.infoq.com/interviews/johnson-armstrong-oop/)
 - [InfoQ - Software Architecture and Design InfoQ Trends Report—April 2022](https://www.infoq.com/articles/architecture-trends-2022/)
@@ -441,6 +446,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Gwen Shapira - The Magical Rebalance Protocol of Apache Kafka](https://www.youtube.com/watch?v=MmLezWRI3Ys)
 - [Jepsen - Redpanda 21.10.1 Review](https://jepsen.io/analyses/redpanda-21.10.1)
 - [Provectus - Kafka-ui - Open-Source Web GUI for Apache Kafka Management](https://github.com/provectus/kafka-ui)
 - [BlueSky - A Self-Authenticating Social Protocol](https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol)
@@ -706,6 +712,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Learn With Jason - Build an Ecommerce Site Using Stripe and Gatsby](https://www.youtube.com/watch?v=g4aCBNt5Pcg)
 - [React Miami 2022 - Talks recordings](https://www.youtube.com/playlist?list=PL02pdjMT4gWxC3sYlCBzPBPptb6eUvIZv)
 - [Una Kravets - You might not need JavaScript](http://youmightnotneedjs.com/)
 - [DesignCourse - Learn HTML & CSS in 2022 | Crash Course](https://www.youtube.com/watch?v=gXLjWRteuWI)
@@ -763,6 +770,7 @@
 - [David Ramel - TypeScript Surges in GitHub Octoverse 2020 Report](https://visualstudiomagazine.com/articles/2020/12/03/octoverse-2020.aspx)
 
 ## Edge Computing
+- [Arturo Lotito - Stretching the IoT Edge performance limits](https://techcommunity.microsoft.com/t5/internet-of-things-blog/stretching-the-iot-edge-performance-limits/ba-p/2993856)
 - [Turing Pi 2 - Reliable, scalable, cloud-native computer for the edge](https://turingpi.com/)
 - [Discourse - Discourse on a Raspberry Pi](https://blog.discourse.org/2021/12/2021-12-07-discourse-on-a-raspberry-pi/)
 - [Chris Coyier - How to Use Cloudflare Workers and KV Storage](https://www.youtube.com/watch?v=NGk2HxV0Xkg)
@@ -806,6 +814,10 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [Eric Wilde - What is HTTP/3 and what does it mean for APIs?](https://www.youtube.com/watch?v=FlnXJQ_TgXE)
+- [Mark Nottingham - A New Definition of HTTP](https://www.mnot.net/blog/2022/06/06/http-core)
+- [IETF - HTTP/3](https://datatracker.ietf.org/doc/html/rfc9114)
+- [Kim Lane - A Standardized, Specification-Driven API Lifecycle](https://www.infoq.com/presentations/OpenAPI-AsyncAPI-api-lifecycle)
 - [Asbjørn Ulsberg - The REST And Then Some](https://www.youtube.com/watch?v=QIv9YR1bMwY)
 - [Stefan Tilkov - REST: I don't Think it Means What You Think it Does](https://www.youtube.com/watch?v=pspy1H6A3FM)
 - [Manning - APIs Conference 2021 Recordings](https://www.youtube.com/watch?v=TmeTHUAAAVQ)
@@ -831,6 +843,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Alex Petrov - Algorithms behind Modern Storage Systems](https://www.youtube.com/watch?v=wxcCHvQeZ-U)
 - [Fly.io - Free Postgres Databases](https://fly.io/blog/free-postgres/)
 - [Daniel Holt - CockroachDB vs AWS Aurora](https://dantheengineer.com/cockroachdb-vs-aws-aurora/)
 - [CockroachDB - Why CockroachDB and PostgreSQL Are Compatible](https://www.cockroachlabs.com/blog/why-postgres/)
@@ -944,6 +957,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [European Parliament Think Tank - AI and digital tools in workplace management and evaluation: An assessment of the EU’s legal framework](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2022)729516)
 - [KDNuggets - Machine Learning Cheat Sheets](https://www.kdnuggets.com/2018/09/machine-learning-cheat-sheets.html)
 - [DAIR.AI - Transformer Recipe](https://github.com/dair-ai/Transformers-Recipe)
 - [J.C. Petersona, S. Uddenberg,T.L. Griffiths, A. Todorov,J.W. Suchow - Deep models of superficial face judgments](https://www.pnas.org/doi/epdf/10.1073/pnas.2115228119)
@@ -1006,6 +1020,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Andreas Gullberg Larsen - Units.NET - Makes life working with units of measurement just a little bit better](https://github.com/angularsen/UnitsNet)
+- [Jeremy D. Miller - Marten just got better for CQRS architectures](https://jeremydmiller.com/2022/05/31/marten-just-got-better-for-cqrs-architectures/)
+- [Simon Cropp - XunitContext - Extends xUnit to expose extra context and simplify logging](https://github.com/SimonCropp/XunitContext)
+- [Marcin Budny - Comparing .NET virtual actor frameworks](https://www.etteplan.com/stories/comparing-net-virtual-actor-frameworks)
 - [Gérald Barré - Round-robin DNS support in .NET HttpClient](https://www.meziantou.net/round-robin-dns-support-in-dotnet-httpclient.htm)
 - [Uno Platform - Release 4.3 – Figma Plugin, Uno Extensions, Material Design 3 Support, New Sample App and more](https://platform.uno/blog/uno-platform-4-3-figma-plugin-uno-extensions-material-design-3-support-new-sample-app-and-more/)
 - [Khalid Abuhakmeh - Change C# Record Comparison with Source Generators](https://khalidabuhakmeh.com/change-csharp-record-comparison-with-source-generators)
@@ -1388,6 +1406,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Mike Hadlow - The Configuration Complexity Clock](https://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html)
 - [Oskar Dudycz - Why I'm leaving Event Store and getting ready for the next episode](https://event-driven.io/en/leaving_event_store/)
 - [Silvia Botros - Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html)
 - [Tim Ottinger - Managing Interruptions](https://www.industriallogic.com/blog/managing-interruptions/)
@@ -1536,6 +1555,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Docker - Building Stronger, Happier Engineering Teams with Team Topologies](https://www.docker.com/blog/building-stronger-happier-engineering-teams-with-team-topologies/)
 - [Toxic work cultures make Best Employees Quit](https://www.linkedin.com/pulse/toxic-work-cultures-make-best-employees-quit-brigette-hyacinth/)
 - [Melanie S. Brucks, Jonathan Levav - Virtual communication curbs creative idea generation](https://www.nature.com/articles/s41586-022-04643-y)
 - [Anton Stöckl - 4 reasons why 4 is the perfect team size for (agile) software development](https://medium.com/@TonyBologni/4-reasons-why-4-is-the-perfect-team-size-for-agile-software-development-8597d33f3cfe)
@@ -1580,6 +1600,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [InfoWorld - JDK 19: The new features in Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-new-features-in-java-19.html)
 - [Jim Cownie - To sched_yield() Or Not To sched_yield()?](https://cpufun.substack.com/p/to-sched_yield-or-not-to-sched_yield)
 - [Andrey Pechkurov - Scalable Readers-Writer Lock](https://puzpuzpuz.io/scalable-readers-writer-lock)
 - [Angie Jones - Free Courses](https://testautomationu.applitools.com/instructors/angie_jones.html)
@@ -1662,6 +1683,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## NodeJS
+- [Nexe - create a single executable out of your node.js apps ](https://github.com/nexe/nexe)
 - [Michael Herman - Node, gRPC, and Postgres](https://mherman.org/blog/node-grpc-postgres/)
 - [Google - WireIt - Upgrades your npm scripts to make them smarter and more efficient](https://github.com/google/wireit)
 - [NodeJS - Stream Finished, handling closed or ended NodeJS stream](https://nodejs.org/api/stream.html#streamfinishedstream-options-callback)
@@ -1727,6 +1749,7 @@
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
 
 ## Python
+- [Event Sourcing in Python  - Python package for eventsourcing with EventStoreDB](https://github.com/pyeventsourcing/eventsourcing-eventstoredb)
 - [Plotly - Dash - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.](https://github.com/plotly/dash)
 - [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
 
@@ -1759,6 +1782,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [The Verge - Apple’s giving up ground in its App Store fight with Dutch regulators and Tinder](https://www.theverge.com/2022/6/10/23163277/apple-third-party-payment-rules-update-acm-dutch-dating-apps-netherlands?scrolla=5eb6d68b7fedc32c19ef33b4)
 - [Jason Cohen - The Elephant in the room: The myth of exponential hypergrowth](https://longform.asmartbear.com/docs/exponential-growth/)
 - [Tech a break meetup - Gender inequality in tech](https://www.youtube.com/watch?v=tvlF-yLxgos)
 - [Reuters - Musk sued by Twitter investors for stock 'manipulation' during takeover bid](https://www.reuters.com/markets/deals/musk-sued-by-twitter-investors-delayed-disclosure-stake-2022-05-26)
@@ -1977,6 +2001,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [ArsTechnica - “Tough to forge” digital driver’s license is… easy to forge](https://arstechnica.com/information-technology/2022/05/digital-drivers-license-used-by-4m-australians-is-a-snap-to-forge)
 - [The Hacker News - Nearly 100,000 NPM Users' Credentials Stolen in GitHub OAuth Breach](https://thehackernews.com/2022/05/nearly-100000-npm-users-credentials.html)
 - [The Linux Foundation - The Open Source Software Security Mobilization Plan](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/OpenSSF/White%20House%20OSS%20Mobilization%20Plan.pdf?hsCtaTracking=3b79d59d-e8d3-4c69-a67b-6b87b325313c%7C7a1a8b01-65ae-4bac-b97c-071dac09a2d8)
 - [Oracle - Critical Patch Update Advisory - April 2022](https://www.oracle.com/security-alerts/cpuapr2022.html)
