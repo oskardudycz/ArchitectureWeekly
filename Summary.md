@@ -55,6 +55,9 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [B. Fan, Hy. Lim, D. G. Andersen, M. Kaminsky - Small Cache, Big Effect: Provable Load Balancing for Randomly Partitioned Cluster Services](https://www.cs.cmu.edu/~fawnproj/papers/loadbal-socc2011.pdf)
+- [Kent Beck - Outcome Over Output: Also Impact and Effort](https://medium.com/@kentbeck_7670/outcome-over-output-also-impact-and-effort-8f9eb0ce0dbb)
+- [Lutz H&uuml;hnken - Event Collaboration And Event Sourcing](https://www.reactivesystems.eu/2022/06/09/event-collaboration-event-sourcing.html)
 - [AWS Prescriptive Guidance - Using architectural decision records to streamline technical decision-making for a software development project](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/welcome.html)
 - [Pierre Pureur - Software Architecture: It Might Not Be What You Think It Is](https://www.infoq.com/articles/what-software-architecture)
 - [Oskar Dudycz - Should you throw an exception when rebuilding the state from events?](https://event-driven.io/en/should_you_throw_exception_when_rebuilding_state_from_events/)
@@ -446,6 +449,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [LinkedIn - How LinkedIn customizes Apache Kafka for 7 trillion messages per day](https://engineering.linkedin.com/blog/2019/apache-kafka-trillion-messages)
+- [Apple - Meet distributed actors in Swift](https://developer.apple.com/videos/play/wwdc2022/110356/)
 - [Gwen Shapira - The Magical Rebalance Protocol of Apache Kafka](https://www.youtube.com/watch?v=MmLezWRI3Ys)
 - [Jepsen - Redpanda 21.10.1 Review](https://jepsen.io/analyses/redpanda-21.10.1)
 - [Provectus - Kafka-ui - Open-Source Web GUI for Apache Kafka Management](https://github.com/provectus/kafka-ui)
@@ -712,6 +717,8 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [InfoQ - Angular 14 - Typed Forms and Standalone Components](https://www.infoq.com/news/2022/06/angular-14-typed-forms/)
+- [Lars Gyrup Brink Nielsen - The Angular Developer's Nx Handbook](https://leanpub.com/the-angular-developers-nx-handbook/)
 - [Learn With Jason - Build an Ecommerce Site Using Stripe and Gatsby](https://www.youtube.com/watch?v=g4aCBNt5Pcg)
 - [React Miami 2022 - Talks recordings](https://www.youtube.com/playlist?list=PL02pdjMT4gWxC3sYlCBzPBPptb6eUvIZv)
 - [Una Kravets - You might not need JavaScript](http://youmightnotneedjs.com/)
@@ -770,6 +777,7 @@
 - [David Ramel - TypeScript Surges in GitHub Octoverse 2020 Report](https://visualstudiomagazine.com/articles/2020/12/03/octoverse-2020.aspx)
 
 ## Edge Computing
+- [Timescale - How Conserv Safeguards History: Building an Environmental Monitoring and Preventive Conservation IoT Platform](https://www.timescale.com/blog/how-conserv-safeguards-history-building-an-environmental-monitoring-and-preventative-analytics-iot-platform/)
 - [Arturo Lotito - Stretching the IoT Edge performance limits](https://techcommunity.microsoft.com/t5/internet-of-things-blog/stretching-the-iot-edge-performance-limits/ba-p/2993856)
 - [Turing Pi 2 - Reliable, scalable, cloud-native computer for the edge](https://turingpi.com/)
 - [Discourse - Discourse on a Raspberry Pi](https://blog.discourse.org/2021/12/2021-12-07-discourse-on-a-raspberry-pi/)
@@ -786,6 +794,9 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [The Washington Post - The Google engineer who thinks the company’s AI has come to life](https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/)
+- [Blake Lemoine - Is LaMDA Sentient? — an Interview](https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917)
+- [Blockade - Docker-based utility for testing network failures and partitions in distributed applications](https://github.com/worstcase/blockade)
 - [Testcontainers - New milestone, new look, new release, same Testcontainers!](https://www.atomicjar.com/2022/04/new-milestone-new-look-new-release-same-testcontainers/)
 - [Alexei Ledenev - Pumba: chaos testing tool for Docker](https://github.com/alexei-led/pumba)
 - [WireMock - Mock your APIs for fast, robust and comprehensive testing](https://github.com/Adven27/grpc-wiremock)
@@ -843,6 +854,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Alex Merced - Comparison of Data Lake Table Formats (Iceberg, Hudi and Delta Lake)](https://www.dremio.com/subsurface/comparison-of-data-lake-table-formats-iceberg-hudi-and-delta-lake/)
 - [Alex Petrov - Algorithms behind Modern Storage Systems](https://www.youtube.com/watch?v=wxcCHvQeZ-U)
 - [Fly.io - Free Postgres Databases](https://fly.io/blog/free-postgres/)
 - [Daniel Holt - CockroachDB vs AWS Aurora](https://dantheengineer.com/cockroachdb-vs-aws-aurora/)
@@ -1020,6 +1032,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - Ogooreck, a sneaky testing library in BDD style](https://event-driven.io/en/ogooreck_sneaky_bdd_testing_framework/?utm_sourc=architecture_weekly)
+- [Oleksii Holub - Learning F# by Designing Your Own Language](https://www.youtube.com/watch?v=34C_7halqGw)
+- [Microsoft Docs - Code-first gRPC services and clients with .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/code-first?view=aspnetcore-6.0)
+- [Nevermore - A micro-ORM that treats SQL Server as a document store](https://github.com/OctopusDeploy/Nevermore/wiki/Quickstart)
+- [Microsoft - Microsoft closed part of source codes for C# VSCode extension](https://github.com/OmniSharp/omnisharp-vscode/issues/5276)
 - [Andreas Gullberg Larsen - Units.NET - Makes life working with units of measurement just a little bit better](https://github.com/angularsen/UnitsNet)
 - [Jeremy D. Miller - Marten just got better for CQRS architectures](https://jeremydmiller.com/2022/05/31/marten-just-got-better-for-cqrs-architectures/)
 - [Simon Cropp - XunitContext - Extends xUnit to expose extra context and simplify logging](https://github.com/SimonCropp/XunitContext)
@@ -1555,6 +1572,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Charity Majors - Advice for Engineering Managers Who Want to Climb the Ladder](https://charity.wtf/2022/06/13/advice-for-engineering-managers-who-want-to-climb-the-ladder/)
 - [Docker - Building Stronger, Happier Engineering Teams with Team Topologies](https://www.docker.com/blog/building-stronger-happier-engineering-teams-with-team-topologies/)
 - [Toxic work cultures make Best Employees Quit](https://www.linkedin.com/pulse/toxic-work-cultures-make-best-employees-quit-brigette-hyacinth/)
 - [Melanie S. Brucks, Jonathan Levav - Virtual communication curbs creative idea generation](https://www.nature.com/articles/s41586-022-04643-y)
@@ -1649,6 +1667,7 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)]
 
 ## JavaScript
+- [Miłosz Piechocki - Implementing API Polling with RxJS](https://codewithstyle.info/rxjs-polling/)
 - [js-joda - Immutable date and time library for JavaScript](https://github.com/js-joda/js-joda)
 - [Rohit Gohri - How to get ESlint and Prettier to play nice in VS Code?](https://rohit.page/blog/posts/how-to-get-prettier-eslint-play-nicely-with-vscode/)
 - [Hugh Haworth - Comparing Node JavaScript to JavaScript in the Browser](https://css-tricks.com/node-javascript-compared-to-javascript/)
@@ -1662,6 +1681,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Matt Pocock - TypeScript tips and Tricks with Matt](https://www.youtube.com/watch?v=hBk4nV7q6-w)
 - [Microsoft - Announcing TypeScript 4.7](https://devblogs.microsoft.com/typescript/announcing-typescript-4-7)
 - [Drew Colthorp - Flavoring: Flexible Nominal Typing for TypeScript](https://spin.atomicobject.com/2018/01/15/typescript-flexible-nominal-typing/)
 - [Yuriy Bogomolov - Compile-time validation of UUIDs](https://ybogomolov.me/type-level-uuid/)
@@ -1782,6 +1802,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [GeekWire - Microsoft to curb use of non-competes, drop NDAs from worker settlements, disclose salary ranges, launch civil rights audit](https://www.geekwire.com/2022/microsoft-to-end-non-competes-for-all-but-senior-execs-drop-ndas-from-employee-settlements-disclose-salary-ranges-launch-civil-rights-audit/)
 - [The Verge - Apple’s giving up ground in its App Store fight with Dutch regulators and Tinder](https://www.theverge.com/2022/6/10/23163277/apple-third-party-payment-rules-update-acm-dutch-dating-apps-netherlands?scrolla=5eb6d68b7fedc32c19ef33b4)
 - [Jason Cohen - The Elephant in the room: The myth of exponential hypergrowth](https://longform.asmartbear.com/docs/exponential-growth/)
 - [Tech a break meetup - Gender inequality in tech](https://www.youtube.com/watch?v=tvlF-yLxgos)
@@ -1913,6 +1934,7 @@
 - [Alex Ellis - Five years of Raspberry Pi Clusters](https://alexellisuk.medium.com/five-years-of-raspberry-pi-clusters-77e56e547875)
 
 ## Low level
+- [Project Stretch - Planning a Computer System](https://amturing.acm.org/Buchholz_102636426.pdf)
 - [Jane Street - Magic-trace: Diagnosing tricky performance issues easily with Intel Processor Trace](https://blog.janestreet.com/magic-trace/)
 - [Jordan Mechner - Prince of Persia Apple II Source Codes](https://github.com/jmechner/Prince-of-Persia-Apple-II)
 - [Cliff Click - Coffee Compiler Club](https://www.youtube.com/playlist?list=PL05j31Knswhn7RLk-VKHZ6RI4e9D4d-6e)
@@ -2001,6 +2023,11 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Adrian Colyer - ACIDRain: concurrency-related attacks on database backed web applications](https://blog.acolyer.org/2017/08/07/acidrain-concurrency-related-attacks-on-database-backed-web-applications/)
+- [Molly White - Is "acceptably non-dystopian" self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
+- [Wired - Smartphones Blur the Line Between Civilian and Combatant](https://www.wired.com/story/smartphones-ukraine-civilian-combatant/)
+- [ArsTechnica - Credentials for thousands of open source projects free for the taking—again!](https://arstechnica.com/information-technology/2022/06/credentials-for-thousands-of-open-source-projects-free-for-the-taking-again/)
+- [Steve Syfuhs - Understanding Windows Authentication](https://syfuhs.net/understanding-windows-auth)
 - [ArsTechnica - “Tough to forge” digital driver’s license is… easy to forge](https://arstechnica.com/information-technology/2022/05/digital-drivers-license-used-by-4m-australians-is-a-snap-to-forge)
 - [The Hacker News - Nearly 100,000 NPM Users' Credentials Stolen in GitHub OAuth Breach](https://thehackernews.com/2022/05/nearly-100000-npm-users-credentials.html)
 - [The Linux Foundation - The Open Source Software Security Mobilization Plan](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/OpenSSF/White%20House%20OSS%20Mobilization%20Plan.pdf?hsCtaTracking=3b79d59d-e8d3-4c69-a67b-6b87b325313c%7C7a1a8b01-65ae-4bac-b97c-071dac09a2d8)
