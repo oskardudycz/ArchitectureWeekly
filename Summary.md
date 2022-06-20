@@ -1612,7 +1612,7 @@
 - [CBInsights - 397 Startup Failure Post-Mortems](https://www.cbinsights.com/research/startup-failure-post-mortem/)
 - [Jeff Gothelf - There's no guarantee your product strategy will work. Here's how to de-risk it](https://jeffgothelf.com/blog/theres-no-guarantee-your-product-strategy-will-work-heres-how-to-de-risk-it/)
 - [John Cutler - 15 Behaviors of Healthy, Data-Informed Product Teams](https://amplitude.com/blog/data-informed-product-teams)
-- [Nick Tune - A Clash of Mindsets: When New Products Depend on Existing Products](https://medium.com/nick-tune-tech-strategy-blog/
+- [Nick Tune - A Clash of Mindsets: When New Products Depend on Existing Products](https://medium.com/nick-tune-tech-strategy-blog/a-clash-of-mindsets-when-new-products-depend-on-existing-products-72b4a3067c87)
 - [Oleksandr Sukholeyster - Task-Driven User Interfaces](https://www.uxmatters.com/mt/archives/2014/12/task-driven-user-interfaces.php)
 - [Sumit Gulwani - The Story of the Flash Fill Feature in Excel](https://blog.sigplan.org/2021/09/14/the-story-of-the-flash-fill-feature-in-excel/)
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
@@ -1664,7 +1664,7 @@
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
 ## JVM
-- [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)]
+- [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
 ## JavaScript
 - [Miłosz Piechocki - Implementing API Polling with RxJS](https://codewithstyle.info/rxjs-polling/)
@@ -1976,7 +1976,7 @@
 - [Yawan - Fully Functional Stack Overflow Clone, with almost every functionality](https://github.com/Yawan-1/StackOverFlow--Clone)
 - [The Verge - Google Docs is getting more Markdown support](https://www.theverge.com/2022/3/29/23002138/google-docs-markdown-support-formatting-update)
 - [Marp - Markdown Presentation Ecosystem](https://marp.app/)
-- [Thunder Client - A lightweight Rest API Client Extension for Visual Studio Code](https://marketplac
+- [Thunder Client - A lightweight Rest API Client Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 - [Ibraheem Ahmed - Modern Unix A collection of modern/faster/saner alternatives to common unix commands](https://github.com/ibraheemdev/modern-unix)
 - [GitHub - Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
 - [DevToys - Swiss Army knife for developers](https://devtoys.app/)
