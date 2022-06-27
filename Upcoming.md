@@ -1,57 +1,7 @@
 # Upcoming Links
 
-## 27th June 2022
+## 4th July 2022
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
 ---
-
-### Architecture
-- [Jessica Kerr - Systems Thinking for Developers](https://www.youtube.com/watch?v=xcQVgYzlj8k)
-- [Susanne Kaiser - Building Adaptive Systems For a Fast Flow of Change](https://www.youtube.com/watch?v=ZMWHWjnPORA)
-- [Adam Furmanek - Ordering the chaos - cleaning logs and ordering events in microservices](https://www.youtube.com/watch?v=A0jn_77eRCw)
-- [Gandalf Hudlow - The value destroying effect of arbitrary date pressure on code ](https://iism.org/article/the-value-destroying-effect-of-arbitrary-date-pressure-on-code-52)
-
-### Databases
-- [Oskar Dudycz - Unobvious things you need to know about key-value stores](https://event-driven.io/en/key-value-stores/)
-- [Azure Cosmos DB - Data modeling & partitioning: What every relational database dev needs to know](https://www.youtube.com/watch?v=utdxvAhIlcY)
-- [Amit Kapila - Logical Replication Improvements In PostgreSQL-14](https://amitkapila16.blogspot.com/2021/09/logical-replication-improvements-in.html?m=1)
-
-### DevOps
-- [Yacht - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments](https://github.com/SelfhostedPro/Yacht)
-- [Skaffold - Easy and Repeatable Kubernetes Development](https://github.com/GoogleContainerTools/skaffold)
-
-### Testing
-- [Mark Seemann - Some thoughts on naming tests](https://blog.ploeh.dk/2022/06/13/some-thoughts-on-naming-tests/)
-- [Ian Cooper - TDD Revisited](https://raw.githubusercontent.com/iancooper/Presentations/master/Kent%20Beck%20Style%20TDD%20-%20Seven%20Years%20After.pdf)
-- [James Shore - Acceptance Testing Revisited](https://www.jamesshore.com/v2/blog/2012/acceptance-testing-revisited)
-- [Aslak Hellesøy - BDD is not test automation](https://cucumber.io/blog/bdd/bdd-is-not-test-automation/)
-
-### Azure
-- [Microsoft - New API backend options in Azure Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/new-api-backend-options-in-azure-static-web-apps/ba-p/3516882)
-
-### Java
-- [Java - Structured Concurrency](https://openjdk.org/jeps/428)
-
-### .NET
-- [Sean Killeen - .NET OSS Maintainer Support Survey – The Results!](https://seankilleen.com/2022/06/announcing-net-oss-survey-results/)
-- [Jérémie Chassaing - eskv - In-memory key/value and event store, for educational purposes](https://github.com/thinkbeforecoding/eskv)
-- [Domn Werner - C# discriminated union source generator](https://github.com/domn1995/dunet)
-
-### Rust
-- [Rust - Rustlings - Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
-
-### Tools
-- [Mermaid - C4 Diagrams](https://mermaid-js.github.io/mermaid/#/c4c)
-- [MinJae Kwon - Diagrams - Diagram as Code for prototyping cloud system architectures](https://github.com/mingrammer/diagrams)
-- [Helix - A post-modern modal text editor](https://github.com/helix-editor/helix)
-
-### Coding Life
-- [Thierry de Pauw - On the Evilness of Feature Branching - A Tale of Two Teams](https://thinkinglabs.io/articles/2021/07/14/on-the-evilness-of-feature-branching-a-tale-of-two-teams.html)
-
-### Product Design
-- [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
-
-### Trivia
-- [Scientific American - Record-Breaking Voyager Spacecraft Begin to Power Down](https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/)
-- [The Hanselminutes podcast - 3D Movie Maker Forever with Foone Turing](https://hanselminutes.com/844/3d-movie-maker-forever-with-foone-turing)

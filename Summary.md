@@ -55,6 +55,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Jessica Kerr - Systems Thinking for Developers](https://www.youtube.com/watch?v=xcQVgYzlj8k)
+- [Susanne Kaiser - Building Adaptive Systems For a Fast Flow of Change](https://www.youtube.com/watch?v=ZMWHWjnPORA)
+- [Adam Furmanek - Ordering the chaos - cleaning logs and ordering events in microservices](https://www.youtube.com/watch?v=A0jn_77eRCw)
+- [Gandalf Hudlow - The value destroying effect of arbitrary date pressure on code ](https://iism.org/article/the-value-destroying-effect-of-arbitrary-date-pressure-on-code-52)
 - [B. Fan, Hy. Lim, D. G. Andersen, M. Kaminsky - Small Cache, Big Effect: Provable Load Balancing for Randomly Partitioned Cluster Services](https://www.cs.cmu.edu/~fawnproj/papers/loadbal-socc2011.pdf)
 - [Kent Beck - Outcome Over Output: Also Impact and Effort](https://medium.com/@kentbeck_7670/outcome-over-output-also-impact-and-effort-8f9eb0ce0dbb)
 - [Lutz H&uuml;hnken - Event Collaboration And Event Sourcing](https://www.reactivesystems.eu/2022/06/09/event-collaboration-event-sourcing.html)
@@ -622,6 +626,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Yacht - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments](https://github.com/SelfhostedPro/Yacht)
+- [Skaffold - Easy and Repeatable Kubernetes Development](https://github.com/GoogleContainerTools/skaffold)
 - [Ian Crosby - Kubernetes in Real Life](https://www.youtube.com/watch?v=UUt7SuG3nW4)
 - [Oskar Dudycz - A few tricks on how to set up related Docker images with docker-compose](https://event-driven.io/en/tricks_on_how_to_set_up_related_docker_images/)
 - [Stack Overflow - blackbox - Safely store secrets in Git/Mercurial/Subversion](https://github.com/StackExchange/blackbox)
@@ -794,8 +800,10 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
-- [The Washington Post - The Google engineer who thinks the company’s AI has come to life](https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/)
-- [Blake Lemoine - Is LaMDA Sentient? — an Interview](https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917)
+- [Mark Seemann - Some thoughts on naming tests](https://blog.ploeh.dk/2022/06/13/some-thoughts-on-naming-tests/)
+- [Ian Cooper - TDD Revisited](https://raw.githubusercontent.com/iancooper/Presentations/master/Kent%20Beck%20Style%20TDD%20-%20Seven%20Years%20After.pdf)
+- [James Shore - Acceptance Testing Revisited](https://www.jamesshore.com/v2/blog/2012/acceptance-testing-revisited)
+- [Aslak Hellesøy - BDD is not test automation](https://cucumber.io/blog/bdd/bdd-is-not-test-automation/)
 - [Blockade - Docker-based utility for testing network failures and partitions in distributed applications](https://github.com/worstcase/blockade)
 - [Testcontainers - New milestone, new look, new release, same Testcontainers!](https://www.atomicjar.com/2022/04/new-milestone-new-look-new-release-same-testcontainers/)
 - [Alexei Ledenev - Pumba: chaos testing tool for Docker](https://github.com/alexei-led/pumba)
@@ -854,6 +862,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Oskar Dudycz - Unobvious things you need to know about key-value stores](https://event-driven.io/en/key-value-stores/)
+- [Azure Cosmos DB - Data modeling & partitioning: What every relational database dev needs to know](https://www.youtube.com/watch?v=utdxvAhIlcY)
+- [Amit Kapila - Logical Replication Improvements In PostgreSQL-14](https://amitkapila16.blogspot.com/2021/09/logical-replication-improvements-in.html)
 - [Alex Merced - Comparison of Data Lake Table Formats (Iceberg, Hudi and Delta Lake)](https://www.dremio.com/subsurface/comparison-of-data-lake-table-formats-iceberg-hudi-and-delta-lake/)
 - [Alex Petrov - Algorithms behind Modern Storage Systems](https://www.youtube.com/watch?v=wxcCHvQeZ-U)
 - [Fly.io - Free Postgres Databases](https://fly.io/blog/free-postgres/)
@@ -969,6 +980,8 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [The Washington Post - The Google engineer who thinks the company’s AI has come to life](https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/)
+- [Blake Lemoine - Is LaMDA Sentient? — an Interview](https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917)
 - [European Parliament Think Tank - AI and digital tools in workplace management and evaluation: An assessment of the EU’s legal framework](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2022)729516)
 - [KDNuggets - Machine Learning Cheat Sheets](https://www.kdnuggets.com/2018/09/machine-learning-cheat-sheets.html)
 - [DAIR.AI - Transformer Recipe](https://github.com/dair-ai/Transformers-Recipe)
@@ -995,6 +1008,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Microsoft - New API backend options in Azure Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/new-api-backend-options-in-azure-static-web-apps/ba-p/3516882)
 - [Kai Walter - Azure Application Gateway for dummies](https://dev.to/kaiwalter/azure-application-gateway-for-dummies-dj3)
 - [Microsoft DevBlogs - Ordering Messages in Azure Service Bus](https://devblogs.microsoft.com/premier-developer/ordering-messages-in-azure-service-bus/)
 - [Andrei Dzimchuk - Implementing a priority queue on Microsoft Azure](https://dzimchuk.net/implementing-a-priority-queue-on-microsoft-azure/)
@@ -1032,6 +1046,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Sean Killeen - .NET OSS Maintainer Support Survey – The Results!](https://seankilleen.com/2022/06/announcing-net-oss-survey-results/)
+- [Jérémie Chassaing - eskv - In-memory key/value and event store, for educational purposes](https://github.com/thinkbeforecoding/eskv)
+- [Domn Werner - C# discriminated union source generator](https://github.com/domn1995/dunet)
+- [Nick Chapsas - .NET-Backend-Developer-Roadmap](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap)
 - [Oskar Dudycz - Ogooreck, a sneaky testing library in BDD style](https://event-driven.io/en/ogooreck_sneaky_bdd_testing_framework/?utm_sourc=architecture_weekly)
 - [Oleksii Holub - Learning F# by Designing Your Own Language](https://www.youtube.com/watch?v=34C_7halqGw)
 - [Microsoft Docs - Code-first gRPC services and clients with .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/code-first?view=aspnetcore-6.0)
@@ -1423,6 +1441,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Thierry de Pauw - On the Evilness of Feature Branching - A Tale of Two Teams](https://thinkinglabs.io/articles/2021/07/14/on-the-evilness-of-feature-branching-a-tale-of-two-teams.html)
 - [Mike Hadlow - The Configuration Complexity Clock](https://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html)
 - [Oskar Dudycz - Why I'm leaving Event Store and getting ready for the next episode](https://event-driven.io/en/leaving_event_store/)
 - [Silvia Botros - Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html)
@@ -1608,6 +1627,7 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 - [John Cutler - TBM 20/54: "You're Making This Too Complicated"](https://cutlefish.substack.com/p/tbm-2054-youre-making-this-too-complicated?s=w)
 - [CBInsights - 397 Startup Failure Post-Mortems](https://www.cbinsights.com/research/startup-failure-post-mortem/)
 - [Jeff Gothelf - There's no guarantee your product strategy will work. Here's how to de-risk it](https://jeffgothelf.com/blog/theres-no-guarantee-your-product-strategy-will-work-heres-how-to-de-risk-it/)
@@ -1618,6 +1638,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Java - Structured Concurrency](https://openjdk.org/jeps/428)
 - [InfoWorld - JDK 19: The new features in Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-new-features-in-java-19.html)
 - [Jim Cownie - To sched_yield() Or Not To sched_yield()?](https://cpufun.substack.com/p/to-sched_yield-or-not-to-sched_yield)
 - [Andrey Pechkurov - Scalable Readers-Writer Lock](https://puzpuzpuz.io/scalable-readers-writer-lock)
@@ -1774,6 +1795,7 @@
 - [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
 
 ## Rust
+- [Rust - Rustlings - Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
 - [Rust Blog - Rust Survey 2021 Results](https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html)
 - [Philipp Oppermann - Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 - [Amos Wenger - Some mistakes Rust doesn't catch](https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch)
@@ -1966,6 +1988,9 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Mermaid - C4 Diagrams](https://mermaid-js.github.io/mermaid/#/c4c)
+- [MinJae Kwon - Diagrams - Diagram as Code for prototyping cloud system architectures](https://github.com/mingrammer/diagrams)
+- [Helix - A post-modern modal text editor](https://github.com/helix-editor/helix)
 - [GitHub - GitHub is free for teams](https://github.blog/2020-04-14-github-is-now-free-for-teams/)
 - [Nushell - A new type of shell](https://www.nushell.sh/)
 - [Wilfred Hughes - Diffastic - a diff that understands syntax](https://difftastic.wilfred.me.uk/)
@@ -2121,6 +2146,8 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Scientific American - Record-Breaking Voyager Spacecraft Begin to Power Down](https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/)
+- [The Hanselminutes podcast - 3D Movie Maker Forever with Foone Turing](https://hanselminutes.com/844/3d-movie-maker-forever-with-foone-turing)
 - [BuzzFeed - Someone Stole Seth Green's Bored Ape, Which Was Supposed To Star In His New Show](https://www.buzzfeednews.com/article/sarahemerson/seth-green-bored-ape-stolen-tv-show)
 - [Yves Lorphelin - 31 years and about 6000 hours later](https://github.com/ylorph/RandomThoughts/blob/master/2018.06.02.After.6000.hours.and.31.years.md)
 - [Patrick Stoke - No, you’re not entitled to your opinion](https://theconversation.com/no-youre-not-entitled-to-your-opinion-9978)
