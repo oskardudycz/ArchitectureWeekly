@@ -55,6 +55,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Derek Comartin - Avoiding Batch Jobs by a message in the FUTURE](https://codeopinion.com/avoiding-batch-jobs-by-a-message-in-the-future/)
+- [Mark Seemann - Fractal Architecture](https://www.youtube.com/watch?v=t3rSCpcJzm0)
+- [Nick Tune - The Structure and Process Fallacy](https://medium.com/nick-tune-tech-strategy-blog/the-structure-and-process-fallacy-40640e844230)
+- [Kenny Baas-Schwegler - Coach your Architects in Agile Architecture!](https://xebia.com/blog/coach-your-architects-in-agile-architecture/)
 - [Jessica Kerr - Systems Thinking for Developers](https://www.youtube.com/watch?v=xcQVgYzlj8k)
 - [Susanne Kaiser - Building Adaptive Systems For a Fast Flow of Change](https://www.youtube.com/watch?v=ZMWHWjnPORA)
 - [Adam Furmanek - Ordering the chaos - cleaning logs and ordering events in microservices](https://www.youtube.com/watch?v=A0jn_77eRCw)
@@ -453,6 +457,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Cockroach Labs - Why We Run Managed CockroachDB on Kubernetes](https://www.cockroachlabs.com/blog/managed-cockroachdb-on-kubernetes/)
 - [LinkedIn - How LinkedIn customizes Apache Kafka for 7 trillion messages per day](https://engineering.linkedin.com/blog/2019/apache-kafka-trillion-messages)
 - [Apple - Meet distributed actors in Swift](https://developer.apple.com/videos/play/wwdc2022/110356/)
 - [Gwen Shapira - The Magical Rebalance Protocol of Apache Kafka](https://www.youtube.com/watch?v=MmLezWRI3Ys)
@@ -833,6 +838,8 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [Oskar Dudycz - Should you generate the client code from the API?](https://event-driven.io/en/client_code_generation/?utm_source=architecture_weekly)
+- [Julien Topçu - REST next level : Crafting business-oriented web APIs](https://www.youtube.com/watch?v=k5S3qcCFDiQ)
 - [Eric Wilde - What is HTTP/3 and what does it mean for APIs?](https://www.youtube.com/watch?v=FlnXJQ_TgXE)
 - [Mark Nottingham - A New Definition of HTTP](https://www.mnot.net/blog/2022/06/06/http-core)
 - [IETF - HTTP/3](https://datatracker.ietf.org/doc/html/rfc9114)
@@ -862,6 +869,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Pat Helland - I'm SO Glad I'm Uncoordinated: Coordination Is Increasingly Painful... What Can Be Done?](https://www.youtube.com/watch?v=E6JUA_XH_tE)
+- [Zalando: Enriching E-Commerce Search with Elasticsearch 8's k-Nearest Neighbours](https://www.youtube.com/watch?v=YthR1ROX2g8)
 - [Oskar Dudycz - Unobvious things you need to know about key-value stores](https://event-driven.io/en/key-value-stores/)
 - [Azure Cosmos DB - Data modeling & partitioning: What every relational database dev needs to know](https://www.youtube.com/watch?v=utdxvAhIlcY)
 - [Amit Kapila - Logical Replication Improvements In PostgreSQL-14](https://amitkapila16.blogspot.com/2021/09/logical-replication-improvements-in.html)
@@ -1046,6 +1055,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Tomasz Pęczek - Micro Frontends in Action With ASP.NET Core - Server-Side Routing via YARP in Azure Container Apps](https://www.tpeczek.com/2022/06/micro-frontends-in-action-with-aspnet.html)
+- [AngleSharp - The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications](https://github.com/AngleSharp/AngleSharp)
+- [Octokit.Webhooks - GitHub webhook events toolset for .NET](https://github.com/octokit/webhooks.net)
+- [Steve Sanderson - Experimental WASI SDK for .NET Core](https://github.com/SteveSandersonMS/dotnet-wasi-sdk)
 - [Sean Killeen - .NET OSS Maintainer Support Survey – The Results!](https://seankilleen.com/2022/06/announcing-net-oss-survey-results/)
 - [Jérémie Chassaing - eskv - In-memory key/value and event store, for educational purposes](https://github.com/thinkbeforecoding/eskv)
 - [Domn Werner - C# discriminated union source generator](https://github.com/domn1995/dunet)
@@ -1441,6 +1454,9 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Computer History Museum - Oral History of Dave Cutler Part 1](https://www.youtube.com/watch?v=29RkHH-psrY)
+- [Computer History Museum - Oral History of Dave Cutler Part 2](https://www.youtube.com/watch?v=SVgSLud50ss)
+- [Dev Interrupted - The Best Solution to Burnout We’ve Ever Heard | A Conversation With Slack, Netlify & Ambassador Labs](https://devinterrupted.substack.com/p/the-best-solution-to-burnout-weve)
 - [Thierry de Pauw - On the Evilness of Feature Branching - A Tale of Two Teams](https://thinkinglabs.io/articles/2021/07/14/on-the-evilness-of-feature-branching-a-tale-of-two-teams.html)
 - [Mike Hadlow - The Configuration Complexity Clock](https://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html)
 - [Oskar Dudycz - Why I'm leaving Event Store and getting ready for the next episode](https://event-driven.io/en/leaving_event_store/)
@@ -1759,6 +1775,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Byron Ruth - Rita - Toolkit for event-centric and reactive patterns leveraging NATS](https://github.com/bruth/rita)
 - [Fiber - Express inspired web framework written in Go](https://github.com/gofiber/fiber)
 - [Chris Noring - Go, from the beginning](https://leanpub.com/go-from-the-beginning)
 - [Amos Wenger - Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
@@ -1790,6 +1807,7 @@
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
 
 ## Python
+- [John Bywater - Event Sourced Building Blocks for DDD with Python](https://www.youtube.com/watch?v=U0CGZSdQ25Q)
 - [Event Sourcing in Python  - Python package for eventsourcing with EventStoreDB](https://github.com/pyeventsourcing/eventsourcing-eventstoredb)
 - [Plotly - Dash - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.](https://github.com/plotly/dash)
 - [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
@@ -1824,6 +1842,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Dustin Moris Gorski - Fund OSS through package managers](https://dusted.codes/fund-oss-through-package-managers)
+- [Software Freedom Conservancy - Give Up GitHub: The Time Has Come!](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/)
 - [GeekWire - Microsoft to curb use of non-competes, drop NDAs from worker settlements, disclose salary ranges, launch civil rights audit](https://www.geekwire.com/2022/microsoft-to-end-non-competes-for-all-but-senior-execs-drop-ndas-from-employee-settlements-disclose-salary-ranges-launch-civil-rights-audit/)
 - [The Verge - Apple’s giving up ground in its App Store fight with Dutch regulators and Tinder](https://www.theverge.com/2022/6/10/23163277/apple-third-party-payment-rules-update-acm-dutch-dating-apps-netherlands?scrolla=5eb6d68b7fedc32c19ef33b4)
 - [Jason Cohen - The Elephant in the room: The myth of exponential hypergrowth](https://longform.asmartbear.com/docs/exponential-growth/)
@@ -1988,6 +2008,9 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Upptime - Free uptime monitor and status page powered by GitHub](https://github.com/upptime/upptime)
+- [Scott Hanselman - Developing for Linux on Windows](https://www.youtube.com/watch?v=tuhzVDc0Slg)
+- [GitHub - Improve Git monorepo performance with a file system monitor](https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor)
 - [Mermaid - C4 Diagrams](https://mermaid-js.github.io/mermaid/#/c4c)
 - [MinJae Kwon - Diagrams - Diagram as Code for prototyping cloud system architectures](https://github.com/mingrammer/diagrams)
 - [Helix - A post-modern modal text editor](https://github.com/helix-editor/helix)
@@ -2048,6 +2071,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Troy Hunt - Understanding Have I Been Pwned's Use of SHA-1 and k-Anonymity](https://www.troyhunt.com/understanding-have-i-been-pwneds-use-of-sha-1-and-k-anonymity/)
+- [Ryan Badger - “Magic links” can end up in Bing search results — rendering them useless.](https://medium.com/@ryanbadger/magic-links-can-end-up-in-bing-search-results-rendering-them-useless-37def0fae994)
 - [Adrian Colyer - ACIDRain: concurrency-related attacks on database backed web applications](https://blog.acolyer.org/2017/08/07/acidrain-concurrency-related-attacks-on-database-backed-web-applications/)
 - [Molly White - Is "acceptably non-dystopian" self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
 - [Wired - Smartphones Blur the Line Between Civilian and Combatant](https://www.wired.com/story/smartphones-ukraine-civilian-combatant/)
@@ -2146,6 +2171,8 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Bridget Kromhout - in the kingdom of the blind](https://bridgetkromhout.com/blog/in-the-kingdom-of-the-blind/)
+- [ifuckinghatejira.com](https://ifuckinghatejira.com)
 - [Scientific American - Record-Breaking Voyager Spacecraft Begin to Power Down](https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/)
 - [The Hanselminutes podcast - 3D Movie Maker Forever with Foone Turing](https://hanselminutes.com/844/3d-movie-maker-forever-with-foone-turing)
 - [BuzzFeed - Someone Stole Seth Green's Bored Ape, Which Was Supposed To Star In His New Show](https://www.buzzfeednews.com/article/sarahemerson/seth-green-bored-ape-stolen-tv-show)

@@ -1,58 +1,7 @@
 # Upcoming Links
 
-## 4th July 2022
+## 11th July 2022
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
 ---
-
-### Architecture
-- [Derek Comartin - Avoiding Batch Jobs by a message in the FUTURE](https://codeopinion.com/avoiding-batch-jobs-by-a-message-in-the-future/)
-- [Mark Seemann - Fractal Architecture](https://www.youtube.com/watch?v=t3rSCpcJzm0)
-- [Nick Tune - The Structure and Process Fallacy](https://medium.com/nick-tune-tech-strategy-blog/the-structure-and-process-fallacy-40640e844230)
-- [Kenny Baas-Schwegler - Coach your Architects in Agile Architecture!](https://xebia.com/blog/coach-your-architects-in-agile-architecture/)
-
-### Distributed Systems
-- [Cockroach Labs - Why We Run Managed CockroachDB on Kubernetes](https://www.cockroachlabs.com/blog/managed-cockroachdb-on-kubernetes/)
-
-### Databases
-- [Pat Helland - I'm SO Glad I'm Uncoordinated: Coordination Is Increasingly Painful... What Can Be Done?](https://www.youtube.com/watch?v=E6JUA_XH_tE)
-- [Zalando: Enriching E-Commerce Search with Elasticsearch 8's k-Nearest Neighbours](https://www.youtube.com/watch?v=YthR1ROX2g8)
-
-### API
-- [Oskar Dudycz - Should you generate the client code from the API?](https://event-driven.io/en/client_code_generation/?utm_source=architecture_weekly)
-- [Julien Topçu - REST next level : Crafting business-oriented web APIs](https://www.youtube.com/watch?v=k5S3qcCFDiQ)
-
-### Go
-- [Byron Ruth - Rita - Toolkit for event-centric and reactive patterns leveraging NATS](https://github.com/bruth/rita)
-
-### .NET
-- [Tomasz Pęczek - Micro Frontends in Action With ASP.NET Core - Server-Side Routing via YARP in Azure Container Apps](https://www.tpeczek.com/2022/06/micro-frontends-in-action-with-aspnet.html)
-- [AngleSharp - The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications](https://github.com/AngleSharp/AngleSharp)
-- [Octokit.Webhooks - GitHub webhook events toolset for .NET](https://github.com/octokit/webhooks.net)
-- [Steve Sanderson - Experimental WASI SDK for .NET Core](https://github.com/SteveSandersonMS/dotnet-wasi-sdk)
-
-### Python
-- [John Bywater - Event Sourced Building Blocks for DDD with Python](https://www.youtube.com/watch?v=U0CGZSdQ25Q)
-
-### Tools
-- [Upptime - Free uptime monitor and status page powered by GitHub](https://github.com/upptime/upptime)
-- [Scott Hanselman - Developing for Linux on Windows](https://www.youtube.com/watch?v=tuhzVDc0Slg)
-- [GitHub - Improve Git monorepo performance with a file system monitor](https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor)
-
-### Coding Life
-- [Computer History Museum - Oral History of Dave Cutler Part 1](https://www.youtube.com/watch?v=29RkHH-psrY)
-- [Computer History Museum - Oral History of Dave Cutler Part 2](https://www.youtube.com/watch?v=SVgSLud50ss)
-- [Dev Interrupted - The Best Solution to Burnout We’ve Ever Heard | A Conversation With Slack, Netlify & Ambassador Labs](https://devinterrupted.substack.com/p/the-best-solution-to-burnout-weve)
-
-### Industry
-- [Dustin Moris Gorski - Fund OSS through package managers](https://dusted.codes/fund-oss-through-package-managers)
-- [Software Freedom Conservancy - Give Up GitHub: The Time Has Come!](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/)
-
-### Security
-- [Troy Hunt - Understanding Have I Been Pwned's Use of SHA-1 and k-Anonymity](https://www.troyhunt.com/understanding-have-i-been-pwneds-use-of-sha-1-and-k-anonymity/)
-- [Ryan Badger - “Magic links” can end up in Bing search results — rendering them useless.](https://medium.com/@ryanbadger/magic-links-can-end-up-in-bing-search-results-rendering-them-useless-37def0fae994)
-
-### Trivia
-- [Bridget Kromhout - in the kingdom of the blind](https://bridgetkromhout.com/blog/in-the-kingdom-of-the-blind/)
-- [ifuckinghatejira.com](https://ifuckinghatejira.com)
