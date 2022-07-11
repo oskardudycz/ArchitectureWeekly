@@ -24,6 +24,66 @@ There are two rules:
 
 ---
 
+## [11th July 2022](per-week/2022-07-11.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+
+---
+
+### Architecture
+- [Oskar Dudycz - Is keeping dates in UTC really the best solution?](https://event-driven.io/en/is_keeping_utc_dates_best_solution?utm_source=architecture_weekly)
+- [T. Bøgh Fangel & B. Nielsen - Event driven architecture & hyperbygrowth](https://www.youtube.com/watch?v=_8BTphHQB8c)
+- [Chris Condron - Process Managers Made Simple](https://www.youtube.com/watch?v=8dRwF_MbEMs)
+- [Martin Fowler - TolerantReader](https://martinfowler.com/bliki/TolerantReader.html)
+- [Mark Seemann - Postel's law as a profunctor](https://blog.ploeh.dk/2021/11/29/postels-law-as-a-profunctor/)
+- [Derek Comartin - What is Software Architecture?](https://www.youtube.com/watch?v=dvnZfSK4dBI)
+
+### Distributed Systems
+- [Corey Keller - How to Relieve Backpressure In Message-Based Systems](https://clearmeasure.com/backpressure-in-message-based-systems)
+- [Alyssa Wilk - HTTP/3, Including Google's Adoption, and Benefits and Challenges](https://www.getambassador.io/kubernetes-thought-leaders/http3/)
+
+### Databases
+- [Rafal Wilinski - DynamoDB Streams - The Ultimate Guide (w/ Examples)](https://dynobase.dev/dynamodb-streams/)
+
+### JavaScript
+- [bun - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one](https://github.com/oven-sh/bun)
+- [Gary Bernhardt - The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
+- [Jakub T. Jankiewicz - Wayne - Service Worker Routing library for in browser HTTP requests](https://github.com/jcubic/wayne)
+
+### Java
+- [Oskar Dudycz - Introduction to Event Sourcing in Java - Self-paced kit](https://github.com/oskardudycz/EventSourcing.JVM/tree/main/workshops/introduction-to-event-sourcing#introduction-to-event-sourcing-workshop)
+- [Fabian Stäber - How to capture Spring Boot metrics with the OpenTelemetry Java Instrumentation Agent](https://grafana.com/blog/2022/05/04/how-to-capture-spring-boot-metrics-with-the-opentelemetry-java-instrumentation-agent/)
+- [Tom Hombergs - Tracing with Spring Boot, OpenTelemetry, and Jaeger](https://reflectoring.io/spring-boot-tracing/)
+
+### Linux
+- [Bryan Lunduke - Linux Sucks 2022](https://lunduke.substack.com/p/linux-sucks-2022)
+
+### .NET
+- [Ian Russell - Essential F# (Free ebook)](https://leanpub.com/essential-fsharp)
+- [Jérémie Chassaing - F# Deciders implementation](https://gist.github.com/thinkbeforecoding/026a1d90ea2f3ea86d151b1229cad932)
+- [Manfred Steyer - Proof of Concept for an Auth Gateway for SPA](https://github.com/manfredsteyer/yarp-auth-proxy)
+- [Andrew Lock - Consuming anonymous types with DiagnosticListener in .NET 6](https://andrewlock.net/consuming-anonymous-types-with-diagnosticlistener-in-dotnet6/)
+
+### Tools
+- [Visual Studio Code - The Visual Studio Code Server](https://code.visualstudio.com/blogs/2022/07/07/vscode-server)
+
+### Coding Life
+- [The Hanselminutes podcast - Engineering Stack Overflow with Roberta Arcoverde](https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde)
+
+### Management
+- [Peter Aughton, Trond Hjorteland - An Open Systems Thinking perspective on Agile transformation](https://www.youtube.com/watch?v=gycpnj9kNV8)
+- [Runtastic - How we improved our sprints when we stopped estimating stories](https://www.runtastic.com/blog/en/no-more-estimates/)
+
+### Security
+- [Troy Hunt - Welcoming the Polish Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-polish-government-to-have-i-been-pwned/)
+- [Keto - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System"](https://github.com/ory/keto)
+- [CNET - Apple's Lockdown Mode: Why There's a New Level of Security for Your iPhone](https://www.cnet.com/tech/mobile/apples-lockdown-mode-why-theres-new-level-of-security-for-your-iphone/)
+
+### Industry
+- [Reuters - Twitter vows legal fight after Musk pulls out of $44 billion deal](https://www.reuters.com/technology/elon-musk-terminating-twitter-deal-2022-07-08)
+
+---
+
 ## [4th July 2022](per-week/2022-07-04.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.

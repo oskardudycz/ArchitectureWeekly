@@ -21,7 +21,7 @@
     - [OpenTelemetry in .NET](#opentelemetry-in-net)
     - [.NET Hot Reload removal backslash](#net-hot-reload-removal-backslash)
     - [WebAssembly](#webassembly)
-  - [Coding Life](#coding-life)
+  - [Coding Life- The Hanselminutes podcast - Engineering Stack Overflow with Roberta Arcoverde](#coding-life--the-hanselminutes-podcast---engineering-stack-overflow-with-roberta-arcoverde)
   - [Management](#management)
   - [Product Design](#product-design)
   - [Java](#java)
@@ -55,6 +55,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Is keeping dates in UTC really the best solution?](https://event-driven.io/en/is_keeping_utc_dates_best_solution?utm_source=architecture_weekly)
+- [T. Bøgh Fangel & B. Nielsen - Event driven architecture & hyperbygrowth](https://www.youtube.com/watch?v=_8BTphHQB8c)
+- [Chris Condron - Process Managers Made Simple](https://www.youtube.com/watch?v=8dRwF_MbEMs)
+- [Martin Fowler - TolerantReader](https://martinfowler.com/bliki/TolerantReader.html)
+- [Mark Seemann - Postel's law as a profunctor](https://blog.ploeh.dk/2021/11/29/postels-law-as-a-profunctor/)
+- [Derek Comartin - What is Software Architecture?](https://www.youtube.com/watch?v=dvnZfSK4dBI)
 - [Derek Comartin - Avoiding Batch Jobs by a message in the FUTURE](https://codeopinion.com/avoiding-batch-jobs-by-a-message-in-the-future/)
 - [Mark Seemann - Fractal Architecture](https://www.youtube.com/watch?v=t3rSCpcJzm0)
 - [Nick Tune - The Structure and Process Fallacy](https://medium.com/nick-tune-tech-strategy-blog/the-structure-and-process-fallacy-40640e844230)
@@ -457,6 +463,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Corey Keller - How to Relieve Backpressure In Message-Based Systems](https://clearmeasure.com/backpressure-in-message-based-systems)
+- [Alyssa Wilk - HTTP/3, Including Google's Adoption, and Benefits and Challenges](https://www.getambassador.io/kubernetes-thought-leaders/http3/)
 - [Cockroach Labs - Why We Run Managed CockroachDB on Kubernetes](https://www.cockroachlabs.com/blog/managed-cockroachdb-on-kubernetes/)
 - [LinkedIn - How LinkedIn customizes Apache Kafka for 7 trillion messages per day](https://engineering.linkedin.com/blog/2019/apache-kafka-trillion-messages)
 - [Apple - Meet distributed actors in Swift](https://developer.apple.com/videos/play/wwdc2022/110356/)
@@ -869,6 +877,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Rafal Wilinski - DynamoDB Streams - The Ultimate Guide (w/ Examples)](https://dynobase.dev/dynamodb-streams/)
 - [Pat Helland - I'm SO Glad I'm Uncoordinated: Coordination Is Increasingly Painful... What Can Be Done?](https://www.youtube.com/watch?v=E6JUA_XH_tE)
 - [Zalando: Enriching E-Commerce Search with Elasticsearch 8's k-Nearest Neighbours](https://www.youtube.com/watch?v=YthR1ROX2g8)
 - [Oskar Dudycz - Unobvious things you need to know about key-value stores](https://event-driven.io/en/key-value-stores/)
@@ -1055,6 +1064,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Ian Russell - Essential F# (Free ebook)](https://leanpub.com/essential-fsharp)
+- [Jérémie Chassaing - F# Deciders implementation](https://gist.github.com/thinkbeforecoding/026a1d90ea2f3ea86d151b1229cad932)
+- [Manfred Steyer - Proof of Concept for an Auth Gateway for SPA](https://github.com/manfredsteyer/yarp-auth-proxy)
+- [Andrew Lock - Consuming anonymous types with DiagnosticListener in .NET 6](https://andrewlock.net/consuming-anonymous-types-with-diagnosticlistener-in-dotnet6/)
 - [Tomasz Pęczek - Micro Frontends in Action With ASP.NET Core - Server-Side Routing via YARP in Azure Container Apps](https://www.tpeczek.com/2022/06/micro-frontends-in-action-with-aspnet.html)
 - [AngleSharp - The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications](https://github.com/AngleSharp/AngleSharp)
 - [Octokit.Webhooks - GitHub webhook events toolset for .NET](https://github.com/octokit/webhooks.net)
@@ -1453,7 +1466,8 @@
 - [Radu Matei - Getting started with NodeJS and the WebAssembly System Interface](https://radu-matei.com/blog/nodejs-wasi/)
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
-## Coding Life
+## Coding Life- [The Hanselminutes podcast - Engineering Stack Overflow with Roberta Arcoverde](https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde)
+
 - [Computer History Museum - Oral History of Dave Cutler Part 1](https://www.youtube.com/watch?v=29RkHH-psrY)
 - [Computer History Museum - Oral History of Dave Cutler Part 2](https://www.youtube.com/watch?v=SVgSLud50ss)
 - [Dev Interrupted - The Best Solution to Burnout We’ve Ever Heard | A Conversation With Slack, Netlify & Ambassador Labs](https://devinterrupted.substack.com/p/the-best-solution-to-burnout-weve)
@@ -1607,6 +1621,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Peter Aughton, Trond Hjorteland - An Open Systems Thinking perspective on Agile transformation](https://www.youtube.com/watch?v=gycpnj9kNV8)
+- [Runtastic - How we improved our sprints when we stopped estimating stories](https://www.runtastic.com/blog/en/no-more-estimates/)
 - [Charity Majors - Advice for Engineering Managers Who Want to Climb the Ladder](https://charity.wtf/2022/06/13/advice-for-engineering-managers-who-want-to-climb-the-ladder/)
 - [Docker - Building Stronger, Happier Engineering Teams with Team Topologies](https://www.docker.com/blog/building-stronger-happier-engineering-teams-with-team-topologies/)
 - [Toxic work cultures make Best Employees Quit](https://www.linkedin.com/pulse/toxic-work-cultures-make-best-employees-quit-brigette-hyacinth/)
@@ -1654,6 +1670,9 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Oskar Dudycz - Introduction to Event Sourcing in Java - Self-paced kit](https://github.com/oskardudycz/EventSourcing.JVM/tree/main/workshops/introduction-to-event-sourcing#introduction-to-event-sourcing-workshop)
+- [Fabian Stäber - How to capture Spring Boot metrics with the OpenTelemetry Java Instrumentation Agent](https://grafana.com/blog/2022/05/04/how-to-capture-spring-boot-metrics-with-the-opentelemetry-java-instrumentation-agent/)
+- [Tom Hombergs - Tracing with Spring Boot, OpenTelemetry, and Jaeger](https://reflectoring.io/spring-boot-tracing/)
 - [Java - Structured Concurrency](https://openjdk.org/jeps/428)
 - [InfoWorld - JDK 19: The new features in Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-new-features-in-java-19.html)
 - [Jim Cownie - To sched_yield() Or Not To sched_yield()?](https://cpufun.substack.com/p/to-sched_yield-or-not-to-sched_yield)
@@ -1704,6 +1723,9 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
 ## JavaScript
+- [bun - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one](https://github.com/oven-sh/bun)
+- [Gary Bernhardt - The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
+- [Jakub T. Jankiewicz - Wayne - Service Worker Routing library for in browser HTTP requests](https://github.com/jcubic/wayne)
 - [Miłosz Piechocki - Implementing API Polling with RxJS](https://codewithstyle.info/rxjs-polling/)
 - [js-joda - Immutable date and time library for JavaScript](https://github.com/js-joda/js-joda)
 - [Rohit Gohri - How to get ESlint and Prettier to play nice in VS Code?](https://rohit.page/blog/posts/how-to-get-prettier-eslint-play-nicely-with-vscode/)
@@ -1842,6 +1864,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Reuters - Twitter vows legal fight after Musk pulls out of $44 billion deal](https://www.reuters.com/technology/elon-musk-terminating-twitter-deal-2022-07-08)
 - [Dustin Moris Gorski - Fund OSS through package managers](https://dusted.codes/fund-oss-through-package-managers)
 - [Software Freedom Conservancy - Give Up GitHub: The Time Has Come!](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/)
 - [GeekWire - Microsoft to curb use of non-competes, drop NDAs from worker settlements, disclose salary ranges, launch civil rights audit](https://www.geekwire.com/2022/microsoft-to-end-non-competes-for-all-but-senior-execs-drop-ndas-from-employee-settlements-disclose-salary-ranges-launch-civil-rights-audit/)
@@ -1994,6 +2017,7 @@
 - [Geoff Huston - Another year of the transition to IPv6](https://blog.apnic.net/2022/02/21/another-year-of-the-transition-to-ipv6/)
 
 ## Linux
+- [Bryan Lunduke - Linux Sucks 2022](https://lunduke.substack.com/p/linux-sucks-2022)
 - [Asahi Linux - A project and community with the goal of porting Linux to Apple Silicon Macs](https://asahilinux.org/about/)
 
 ## Windows
@@ -2008,6 +2032,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Visual Studio Code - The Visual Studio Code Server](https://code.visualstudio.com/blogs/2022/07/07/vscode-server)
 - [Upptime - Free uptime monitor and status page powered by GitHub](https://github.com/upptime/upptime)
 - [Scott Hanselman - Developing for Linux on Windows](https://www.youtube.com/watch?v=tuhzVDc0Slg)
 - [GitHub - Improve Git monorepo performance with a file system monitor](https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor)
@@ -2071,6 +2096,9 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Troy Hunt - Welcoming the Polish Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-polish-government-to-have-i-been-pwned/)
+- [Keto - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System"](https://github.com/ory/keto)
+- [CNET - Apple's Lockdown Mode: Why There's a New Level of Security for Your iPhone](https://www.cnet.com/tech/mobile/apples-lockdown-mode-why-theres-new-level-of-security-for-your-iphone/)
 - [Troy Hunt - Understanding Have I Been Pwned's Use of SHA-1 and k-Anonymity](https://www.troyhunt.com/understanding-have-i-been-pwneds-use-of-sha-1-and-k-anonymity/)
 - [Ryan Badger - “Magic links” can end up in Bing search results — rendering them useless.](https://medium.com/@ryanbadger/magic-links-can-end-up-in-bing-search-results-rendering-them-useless-37def0fae994)
 - [Adrian Colyer - ACIDRain: concurrency-related attacks on database backed web applications](https://blog.acolyer.org/2017/08/07/acidrain-concurrency-related-attacks-on-database-backed-web-applications/)
