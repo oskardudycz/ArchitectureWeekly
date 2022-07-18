@@ -21,7 +21,7 @@
     - [OpenTelemetry in .NET](#opentelemetry-in-net)
     - [.NET Hot Reload removal backslash](#net-hot-reload-removal-backslash)
     - [WebAssembly](#webassembly)
-  - [Coding Life- The Hanselminutes podcast - Engineering Stack Overflow with Roberta Arcoverde](#coding-life--the-hanselminutes-podcast---engineering-stack-overflow-with-roberta-arcoverde)
+  - [Coding Life](#coding-life)
   - [Management](#management)
   - [Product Design](#product-design)
   - [Java](#java)
@@ -33,6 +33,7 @@
   - [Erlang](#erlang)
   - [Haskell](#haskell)
   - [Go](#go)
+    - [Google Cloud](#google-cloud)
   - [Kotlin](#kotlin)
   - [PHP](#php)
   - [Python](#python)
@@ -55,6 +56,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Neal Ford - Granularity and Communication Tradeoffs in Microservices](https://www.youtube.com/watch?v=OyNSFJp8564)
+- [Z. Zhang, M. K. Ramanathan, P. Raj, and A. Parwal, T. Sherwood, M. Chabbi - CRISP: Critical Path Analysis of Large-Scale Microservice Architectures](https://www.usenix.org/conference/atc22/presentation/zhang-zhizhou)
+- [Oskar Dudycz - Event-driven distributed processes by example](https://event-driven.io/pl/event_driven_distributed_processes_by_example/?utm_source=architecture_weekly)
+- [Andrzej Ludwikowski - Event Sourcing - what could possibly go wrong?](https://www.youtube.com/watch?v=_V3C-e0gKoI)
 - [Oskar Dudycz - Is keeping dates in UTC really the best solution?](https://event-driven.io/en/is_keeping_utc_dates_best_solution?utm_source=architecture_weekly)
 - [T. Bøgh Fangel & B. Nielsen - Event driven architecture & hyperbygrowth](https://www.youtube.com/watch?v=_8BTphHQB8c)
 - [Chris Condron - Process Managers Made Simple](https://www.youtube.com/watch?v=8dRwF_MbEMs)
@@ -463,6 +468,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [SoftwareMill - Kafka Visualization](https://softwaremill.com/kafka-visualisation/)
+- [Antón Rodríguez - Monitoring Kafka without instrumentation using eBPF](https://www.confluent.io/events/kafka-summit-london-2022/monitoring-kafka-without-instrumentation-using-ebpf/)
 - [Corey Keller - How to Relieve Backpressure In Message-Based Systems](https://clearmeasure.com/backpressure-in-message-based-systems)
 - [Alyssa Wilk - HTTP/3, Including Google's Adoption, and Benefits and Challenges](https://www.getambassador.io/kubernetes-thought-leaders/http3/)
 - [Cockroach Labs - Why We Run Managed CockroachDB on Kubernetes](https://www.cockroachlabs.com/blog/managed-cockroachdb-on-kubernetes/)
@@ -639,6 +646,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Adrian Smijulj - GitHub Actions - Workflows as Code](https://github.com/webiny/github-actions-wac)
 - [Yacht - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments](https://github.com/SelfhostedPro/Yacht)
 - [Skaffold - Easy and Repeatable Kubernetes Development](https://github.com/GoogleContainerTools/skaffold)
 - [Ian Crosby - Kubernetes in Real Life](https://www.youtube.com/watch?v=UUt7SuG3nW4)
@@ -877,6 +885,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Daniel Palma - High-performance open-source Data Lakehouse at home](https://medium.com/@danthelion/high-performance-open-source-data-lakehouse-at-home-56c8d7fa87b5)
+- [Replibyte - Seed your development database with real data](https://github.com/Qovery/Replibyte)
 - [Rafal Wilinski - DynamoDB Streams - The Ultimate Guide (w/ Examples)](https://dynobase.dev/dynamodb-streams/)
 - [Pat Helland - I'm SO Glad I'm Uncoordinated: Coordination Is Increasingly Painful... What Can Be Done?](https://www.youtube.com/watch?v=E6JUA_XH_tE)
 - [Zalando: Enriching E-Commerce Search with Elasticsearch 8's k-Nearest Neighbours](https://www.youtube.com/watch?v=YthR1ROX2g8)
@@ -998,6 +1008,8 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Sayash Kapoor, Arvind Narayanan - Leakage and the Reproducibility Crisis in ML-based Science](https://reproducible.cs.princeton.edu/)
+- [Simon Willison - Using GPT-3 to explain how code works](https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/)
 - [The Washington Post - The Google engineer who thinks the company’s AI has come to life](https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/)
 - [Blake Lemoine - Is LaMDA Sentient? — an Interview](https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917)
 - [European Parliament Think Tank - AI and digital tools in workplace management and evaluation: An assessment of the EU’s legal framework](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2022)729516)
@@ -1018,6 +1030,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [AWS Compute Blog - Simplifying serverless best practices with AWS Lambda Powertools for TypeScript](https://aws.amazon.com/blogs/compute/simplifying-serverless-best-practices-with-aws-lambda-powertools-for-typescript/)
 - [Real World Crypto conference  - Shay Gueron - AWS key management service KMS](https://www.youtube.com/watch?v=WEJ451rmhk4)
 - [CDK Day - CDK Day May 2022 Recordings - Track 1](https://www.youtube.com/watch?v=_kY7o3De_9A)
 - [Daniel Schroeder - IAM Floyd - AWS IAM policy statement generator with fluent interface](https://github.com/udondan/iam-floyd)
@@ -1064,6 +1077,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Dina Bogdan - Intro to Virtual Actors by Microsoft Orleans](https://bogdan-dina03.medium.com/intro-to-virtual-actors-by-microsoft-orleans-6ae3264f138d)
+- [Microsoft - Announcing Rate Limiting for .NET](https://devblogs.microsoft.com/dotnet/announcing-rate-limiting-for-dotnet/)
+- [Marc Gravell - Unusual optimizations; ref foreach and ref returns](https://blog.marcgravell.com/2022/05/unusual-optimizations-ref-foreach-and.html)
+- [Khalid Abuhakmeh - EF Core and Minimal API sample for multi-tenancy example using global filters](https://github.com/khalidabuhakmeh/EntityFrameworkCoreMultiTenancy)
 - [Ian Russell - Essential F# (Free ebook)](https://leanpub.com/essential-fsharp)
 - [Jérémie Chassaing - F# Deciders implementation](https://gist.github.com/thinkbeforecoding/026a1d90ea2f3ea86d151b1229cad932)
 - [Manfred Steyer - Proof of Concept for an Auth Gateway for SPA](https://github.com/manfredsteyer/yarp-auth-proxy)
@@ -1458,6 +1475,7 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [Colin Breck - Why Am I Excited About WebAssembly?](https://blog.colinbreck.com/why-am-i-excited-about-webassembly/)
 - [The State of WebAssembly - 2021/2022](https://platform.uno/blog/the-state-of-webassembly-2021-and-2022/)
 - [Pay Attention to WebAssembly](https://harshal.sheth.io/2022/01/31/webassembly.html)
 - [Pyodide - Python with the scientific stack, compiled to WebAssembly](https://github.com/pyodide/pyodide)
@@ -1466,8 +1484,9 @@
 - [Radu Matei - Getting started with NodeJS and the WebAssembly System Interface](https://radu-matei.com/blog/nodejs-wasi/)
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
-## Coding Life- [The Hanselminutes podcast - Engineering Stack Overflow with Roberta Arcoverde](https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde)
-
+## Coding Life
+- [Nicolas Dao - What you need to know to choose an open source license](https://gist.github.com/nicolasdao/a7adda51f2f185e8d2700e1573d8a633)
+- [The Hanselminutes podcast - Engineering Stack Overflow with Roberta Arcoverde](https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde)
 - [Computer History Museum - Oral History of Dave Cutler Part 1](https://www.youtube.com/watch?v=29RkHH-psrY)
 - [Computer History Museum - Oral History of Dave Cutler Part 2](https://www.youtube.com/watch?v=SVgSLud50ss)
 - [Dev Interrupted - The Best Solution to Burnout We’ve Ever Heard | A Conversation With Slack, Netlify & Ambassador Labs](https://devinterrupted.substack.com/p/the-best-solution-to-burnout-weve)
@@ -1621,6 +1640,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Paweł Huryn - Watch Out, Waterfall Ahead! The Truth About SAFe](https://huryn.medium.com/the-truth-about-safe-the-agile-release-train-just-derailed-76c34c86a80d)
+- [CA Technologies - The Impact of Agile. Quantified.](https://docs.broadcom.com/doc/the-impact-of-agile-quantified)
 - [Peter Aughton, Trond Hjorteland - An Open Systems Thinking perspective on Agile transformation](https://www.youtube.com/watch?v=gycpnj9kNV8)
 - [Runtastic - How we improved our sprints when we stopped estimating stories](https://www.runtastic.com/blog/en/no-more-estimates/)
 - [Charity Majors - Advice for Engineering Managers Who Want to Climb the Ladder](https://charity.wtf/2022/06/13/advice-for-engineering-managers-who-want-to-climb-the-ladder/)
@@ -1797,6 +1818,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Egon Elbre - lensm - Go assembly and source viewer](https://github.com/loov/lensm)
 - [Byron Ruth - Rita - Toolkit for event-centric and reactive patterns leveraging NATS](https://github.com/bruth/rita)
 - [Fiber - Express inspired web framework written in Go](https://github.com/gofiber/fiber)
 - [Chris Noring - Go, from the beginning](https://leanpub.com/go-from-the-beginning)
@@ -1820,6 +1842,9 @@
 - [Peter Bourgon - Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/)
 - [Robert Pająk - Lessons Learned after 1 year of programming in Go as a C# developer](https://pajak.home.blog/2020/02/28/lessons-learned-after-1-year-of-programming-in-go-as-a-c-developer)
 
+### Google Cloud
+- [InfoWorld - Google Cloud targets high performance workloads with Arm-based VMs and Batch job scheduling](https://www.infoworld.com/article/3666527/google-cloud-adds-arm-based-vms-and-automated-job-scheduling.html)
+
 ## Kotlin
 - [Johan Haleby - Pragmatic Event Sourcing with Pure Functions](https://www.youtube.com/watch?v=YJvHbtuX250)
 - [Duncan McGregor - Java to Kotlin Gilded Rose](https://www.youtube.com/playlist?list=PL1ssMPpyqocjo6kkNCg-ncTyAW0nECPmq)
@@ -1835,6 +1860,8 @@
 - [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
 
 ## Rust
+- [Dorian Scheidt - Improving “Extract Function” in Rust Analyzer](https://dorianlistens.com/2022/07/improving-extract-function-in-rust-analyzer/)
+- [Gaëtan Renaudeau - Plottable Era: (I) Primitive](https://github.com/gre/gre/tree/master/doodles/plottable-era-primitive)
 - [Rust - Rustlings - Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
 - [Rust Blog - Rust Survey 2021 Results](https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html)
 - [Philipp Oppermann - Writing an OS in Rust](https://github.com/phil-opp/blog_os)
@@ -1864,6 +1891,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [TechTarget - What the Broadcom-VMware acquisition means for cloud users](https://www.techtarget.com/searchcloudcomputing/opinion/What-the-Broadcom-VMware-acquisition-means-for-cloud-users)
 - [Reuters - Twitter vows legal fight after Musk pulls out of $44 billion deal](https://www.reuters.com/technology/elon-musk-terminating-twitter-deal-2022-07-08)
 - [Dustin Moris Gorski - Fund OSS through package managers](https://dusted.codes/fund-oss-through-package-managers)
 - [Software Freedom Conservancy - Give Up GitHub: The Time Has Come!](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/)
@@ -2199,6 +2227,8 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Gunnar Morling - Ten Tips to Make Conference Talks Suck Less](https://www.morling.dev/blog/ten-tips-make-conference-talks-suck-less/)
+- [The Verge - BMW starts selling heated seat subscriptions for $18 a month](https://www.theverge.com/2022/7/12/23204950/bmw-subscriptions-microtransactions-heated-seats-feature)
 - [Bridget Kromhout - in the kingdom of the blind](https://bridgetkromhout.com/blog/in-the-kingdom-of-the-blind/)
 - [ifuckinghatejira.com](https://ifuckinghatejira.com)
 - [Scientific American - Record-Breaking Voyager Spacecraft Begin to Power Down](https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/)
