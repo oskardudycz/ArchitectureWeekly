@@ -5,3 +5,56 @@
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
 ---
+
+### Architecture
+- [Oskar Dudycz - How to effectively compose your business logic](https://event-driven.io/en/how_to_effectively_compose_your_business_logic/)
+- [Anton Stöckl - Event Sourcing: Why Kafka is not suitable as an Event Store](https://medium.com/@TonyBologni/event-sourcing-why-kafka-is-not-suitable-as-an-event-store-796e5d9ab63c)
+- [David Boike - Let's talk about Kafka](https://particular.net/blog/lets-talk-about-kafka)
+- [Bob Nystrom - Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
+- [Tony Hoare - Null References: The Billion Dollar Mistake](https://www.youtube.com/watch?v=ybrQvs4x0Ps)
+- [Byron Ruth - Implementing an event store on NATS: Design](https://www.byronruth.com/implementing-an-event-store-on-nats-part-2/)
+- [InfoQ - Susanne Kaiser on DDD, Wardley Mapping, & Team Topologies](https://soundcloud.com/infoq-channel/interview-susanne-kaiser)
+
+### Distributed Systems
+- [The Register - Google, Oracle cloud servers wilt in UK heatwave, take down websites](https://www.theregister.com/2022/07/19/google_oracle_cloud/)
+
+### Databases
+- [Oren Eini - Efficiency all the way to Out of Memory error](https://ayende.com/blog/197825-C/production-postmortem-efficiency-all-the-way-to-out-of-memory-error)
+
+## API
+- [HTMX - How Did REST Come To Mean The Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
+
+### Frontend
+- [Yves Goeleven - Building offline Progressive Web Apps](https://www.goeleven.com/guides/building-offline-progressive-web-apps/)
+
+### AI
+- [Jeremy Howard -  Practical Deep Learning for Coders](https://course.fast.ai)
+- [Emmanuel Raj - Engineering MLOps](https://azure.microsoft.com/en-us/resources/engineering-mlops/)
+
+### Java
+- [OpenJDK - Project Amber](https://openjdk.org/projects/amber/)
+
+### .NET
+- [Daniel Marbach - Performance tricks I learned from contributing to open source .NET packages](https://www.youtube.com/watch?v=ztABfkJozXQ)
+- [NDepend - Visual Studio vs. Jetbrains Rider Performance](https://blog.ndepend.com/visual-studio-vs-jetbrains-rider-performance/)
+- [.NET Rocks! - WASM Everywhere with Steve Sanderson](https://dotnetrocks.com/?show=1801)
+- [Brian Surowiec - dotnet-run-script - A dotnet tool to run arbitrary commands from a project's "scripts" object](https://github.com/xt0rted/dotnet-run-script)
+
+### Go
+- [Karan Pratap Singh - Go Course](https://github.com/karanpratapsingh/go-course)
+
+### JavaScript
+- [Shawn Wang - Bun and Deno: New Runtimes for the Third Age of JavaScript](https://www.youtube.com/watch?v=O7KVEwNau6w)
+
+### NodeJS
+- [Software Engineering Daily - Remix with Ryan Florence](https://softwareengineeringdaily.com/2022/07/22/remix-with-ryan-florence/)
+
+### Coding Life
+- [Martin Fowler - Advocate, educator, and authorial stance](https://martinfowler.com/articles/authorial-stance.html)
+
+### Security
+- [Bruce Schneier - Facebook Is Now Encrypting Links to Prevent URL Stripping](https://www.schneier.com/blog/archives/2022/07/facebook-is-now-encrypting-links-to-prevent-url-stripping.html)
+- [The Citizen Lab - GeckoSpy - Pegasus Spyware Used Against Thailand’s Pro-Democracy Movement](https://citizenlab.ca/2022/07/geckospy-pegasus-spyware-used-against-thailands-pro-democracy-movement/)
+
+### Trivia
+- [Maxim Gumin - MarkovJunior - Probabilistic language based on pattern matching and constraint propagation](https://github.com/mxgmn/MarkovJunior)
