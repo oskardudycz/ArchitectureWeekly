@@ -56,6 +56,13 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - How to effectively compose your business logic](https://event-driven.io/en/how_to_effectively_compose_your_business_logic/)
+- [Anton Stöckl - Event Sourcing: Why Kafka is not suitable as an Event Store](https://medium.com/@TonyBologni/event-sourcing-why-kafka-is-not-suitable-as-an-event-store-796e5d9ab63c)
+- [David Boike - Let's talk about Kafka](https://particular.net/blog/lets-talk-about-kafka)
+- [Bob Nystrom - Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
+- [Tony Hoare - Null References: The Billion Dollar Mistake](https://www.youtube.com/watch?v=ybrQvs4x0Ps)
+- [Byron Ruth - Implementing an event store on NATS: Design](https://www.byronruth.com/implementing-an-event-store-on-nats-part-2/)
+- [InfoQ - Susanne Kaiser on DDD, Wardley Mapping, & Team Topologies](https://soundcloud.com/infoq-channel/interview-susanne-kaiser)
 - [Neal Ford - Granularity and Communication Tradeoffs in Microservices](https://www.youtube.com/watch?v=OyNSFJp8564)
 - [Z. Zhang, M. K. Ramanathan, P. Raj, and A. Parwal, T. Sherwood, M. Chabbi - CRISP: Critical Path Analysis of Large-Scale Microservice Architectures](https://www.usenix.org/conference/atc22/presentation/zhang-zhizhou)
 - [Oskar Dudycz - Event-driven distributed processes by example](https://event-driven.io/pl/event_driven_distributed_processes_by_example/?utm_source=architecture_weekly)
@@ -468,6 +475,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [The Register - Google, Oracle cloud servers wilt in UK heatwave, take down websites](https://www.theregister.com/2022/07/19/google_oracle_cloud/)
 - [SoftwareMill - Kafka Visualization](https://softwaremill.com/kafka-visualisation/)
 - [Antón Rodríguez - Monitoring Kafka without instrumentation using eBPF](https://www.confluent.io/events/kafka-summit-london-2022/monitoring-kafka-without-instrumentation-using-ebpf/)
 - [Corey Keller - How to Relieve Backpressure In Message-Based Systems](https://clearmeasure.com/backpressure-in-message-based-systems)
@@ -744,6 +752,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Yves Goeleven - Building offline Progressive Web Apps](https://www.goeleven.com/guides/building-offline-progressive-web-apps/)
 - [InfoQ - Angular 14 - Typed Forms and Standalone Components](https://www.infoq.com/news/2022/06/angular-14-typed-forms/)
 - [Lars Gyrup Brink Nielsen - The Angular Developer's Nx Handbook](https://leanpub.com/the-angular-developers-nx-handbook/)
 - [Learn With Jason - Build an Ecommerce Site Using Stripe and Gatsby](https://www.youtube.com/watch?v=g4aCBNt5Pcg)
@@ -854,6 +863,7 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [HTMX - How Did REST Come To Mean The Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
 - [Oskar Dudycz - Should you generate the client code from the API?](https://event-driven.io/en/client_code_generation/?utm_source=architecture_weekly)
 - [Julien Topçu - REST next level : Crafting business-oriented web APIs](https://www.youtube.com/watch?v=k5S3qcCFDiQ)
 - [Eric Wilde - What is HTTP/3 and what does it mean for APIs?](https://www.youtube.com/watch?v=FlnXJQ_TgXE)
@@ -885,6 +895,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Oren Eini - Efficiency all the way to Out of Memory error](https://ayende.com/blog/197825-C/production-postmortem-efficiency-all-the-way-to-out-of-memory-error)
 - [Daniel Palma - High-performance open-source Data Lakehouse at home](https://medium.com/@danthelion/high-performance-open-source-data-lakehouse-at-home-56c8d7fa87b5)
 - [Replibyte - Seed your development database with real data](https://github.com/Qovery/Replibyte)
 - [Rafal Wilinski - DynamoDB Streams - The Ultimate Guide (w/ Examples)](https://dynobase.dev/dynamodb-streams/)
@@ -1008,6 +1019,8 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Jeremy Howard -  Practical Deep Learning for Coders](https://course.fast.ai)
+- [Emmanuel Raj - Engineering MLOps](https://azure.microsoft.com/en-us/resources/engineering-mlops/)
 - [Sayash Kapoor, Arvind Narayanan - Leakage and the Reproducibility Crisis in ML-based Science](https://reproducible.cs.princeton.edu/)
 - [Simon Willison - Using GPT-3 to explain how code works](https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/)
 - [The Washington Post - The Google engineer who thinks the company’s AI has come to life](https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/)
@@ -1077,6 +1090,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Daniel Marbach - Performance tricks I learned from contributing to open source .NET packages](https://www.youtube.com/watch?v=ztABfkJozXQ)
+- [NDepend - Visual Studio vs. Jetbrains Rider Performance](https://blog.ndepend.com/visual-studio-vs-jetbrains-rider-performance/)
+- [.NET Rocks! - WASM Everywhere with Steve Sanderson](https://dotnetrocks.com/?show=1801)
+- [Brian Surowiec - dotnet-run-script - A dotnet tool to run arbitrary commands from a project's "scripts" object](https://github.com/xt0rted/dotnet-run-script)
 - [Dina Bogdan - Intro to Virtual Actors by Microsoft Orleans](https://bogdan-dina03.medium.com/intro-to-virtual-actors-by-microsoft-orleans-6ae3264f138d)
 - [Microsoft - Announcing Rate Limiting for .NET](https://devblogs.microsoft.com/dotnet/announcing-rate-limiting-for-dotnet/)
 - [Marc Gravell - Unusual optimizations; ref foreach and ref returns](https://blog.marcgravell.com/2022/05/unusual-optimizations-ref-foreach-and.html)
@@ -1485,6 +1502,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Martin Fowler - Advocate, educator, and authorial stance](https://martinfowler.com/articles/authorial-stance.html)
 - [Nicolas Dao - What you need to know to choose an open source license](https://gist.github.com/nicolasdao/a7adda51f2f185e8d2700e1573d8a633)
 - [The Hanselminutes podcast - Engineering Stack Overflow with Roberta Arcoverde](https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde)
 - [Computer History Museum - Oral History of Dave Cutler Part 1](https://www.youtube.com/watch?v=29RkHH-psrY)
@@ -1691,6 +1709,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [OpenJDK - Project Amber](https://openjdk.org/projects/amber/)
 - [Oskar Dudycz - Introduction to Event Sourcing in Java - Self-paced kit](https://github.com/oskardudycz/EventSourcing.JVM/tree/main/workshops/introduction-to-event-sourcing#introduction-to-event-sourcing-workshop)
 - [Fabian Stäber - How to capture Spring Boot metrics with the OpenTelemetry Java Instrumentation Agent](https://grafana.com/blog/2022/05/04/how-to-capture-spring-boot-metrics-with-the-opentelemetry-java-instrumentation-agent/)
 - [Tom Hombergs - Tracing with Spring Boot, OpenTelemetry, and Jaeger](https://reflectoring.io/spring-boot-tracing/)
@@ -1744,6 +1763,7 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
 ## JavaScript
+- [Shawn Wang - Bun and Deno: New Runtimes for the Third Age of JavaScript](https://www.youtube.com/watch?v=O7KVEwNau6w)
 - [bun - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one](https://github.com/oven-sh/bun)
 - [Gary Bernhardt - The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 - [Jakub T. Jankiewicz - Wayne - Service Worker Routing library for in browser HTTP requests](https://github.com/jcubic/wayne)
@@ -1783,6 +1803,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## NodeJS
+- [Software Engineering Daily - Remix with Ryan Florence](https://softwareengineeringdaily.com/2022/07/22/remix-with-ryan-florence/)
 - [Nexe - create a single executable out of your node.js apps ](https://github.com/nexe/nexe)
 - [Michael Herman - Node, gRPC, and Postgres](https://mherman.org/blog/node-grpc-postgres/)
 - [Google - WireIt - Upgrades your npm scripts to make them smarter and more efficient](https://github.com/google/wireit)
@@ -1818,6 +1839,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Karan Pratap Singh - Go Course](https://github.com/karanpratapsingh/go-course)
 - [Egon Elbre - lensm - Go assembly and source viewer](https://github.com/loov/lensm)
 - [Byron Ruth - Rita - Toolkit for event-centric and reactive patterns leveraging NATS](https://github.com/bruth/rita)
 - [Fiber - Express inspired web framework written in Go](https://github.com/gofiber/fiber)
@@ -2124,6 +2146,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Bruce Schneier - Facebook Is Now Encrypting Links to Prevent URL Stripping](https://www.schneier.com/blog/archives/2022/07/facebook-is-now-encrypting-links-to-prevent-url-stripping.html)
+- [The Citizen Lab - GeckoSpy - Pegasus Spyware Used Against Thailand’s Pro-Democracy Movement](https://citizenlab.ca/2022/07/geckospy-pegasus-spyware-used-against-thailands-pro-democracy-movement/)
 - [Troy Hunt - Welcoming the Polish Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-polish-government-to-have-i-been-pwned/)
 - [Keto - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System"](https://github.com/ory/keto)
 - [CNET - Apple's Lockdown Mode: Why There's a New Level of Security for Your iPhone](https://www.cnet.com/tech/mobile/apples-lockdown-mode-why-theres-new-level-of-security-for-your-iphone/)
@@ -2227,6 +2251,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Maxim Gumin - MarkovJunior - Probabilistic language based on pattern matching and constraint propagation](https://github.com/mxgmn/MarkovJunior)
 - [Gunnar Morling - Ten Tips to Make Conference Talks Suck Less](https://www.morling.dev/blog/ten-tips-make-conference-talks-suck-less/)
 - [The Verge - BMW starts selling heated seat subscriptions for $18 a month](https://www.theverge.com/2022/7/12/23204950/bmw-subscriptions-microtransactions-heated-seats-feature)
 - [Bridget Kromhout - in the kingdom of the blind](https://bridgetkromhout.com/blog/in-the-kingdom-of-the-blind/)
