@@ -5,3 +5,56 @@
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
 ---
+
+### Architecture
+- [DDDEU - A Commune in the Ivory Tower? - A New Approach to Architecture](https://github.com/dddeu/2022-advice-process-keynote)
+- [Miki Pokryvailo - Shipping multi-tenant SaaS using Postgres Row-Level Security](https://www.thenile.dev/blog/multi-tenant-rls)
+- [Jessica Kerr - To share the work, share the decisions](https://jessitron.com/2022/02/01/to-share-the-work-share/)
+- [Michael Plöd - Context Maps - a deep dive](https://www.youtube.com/watch?v=VjtMt689ql8)
+- [Mathias Verraes - Bandwidth and Context Mapping](https://verraes.net/2014/01/bandwidth-and-context-mapping/)
+- [Simon Brown - Visualising software architecture with the C4 model](https://www.youtube.com/watch?v=x2-rSnhpw0g)
+- [Alicja Halamska, Dawid Kubicki - Exploring GraphQL’s performance tradeoffs](https://blog.allegro.tech/2022/06/graphql-perf-tradeoffs.html)
+
+### Databases
+- [Greg Young - Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
+
+
+### DevOps
+- [Kristof Kowalski - otelgen - A tool to generate synthetic OpenTelemetry logs, metrics and traces](https://github.com/krzko/otelgen)
+
+### Functional Programming
+- [Cassidy Williams - Functional Programming 101](https://github.com/readme/guides/functional-programming-basics)
+
+### C++
+- [Google - Carbon Language: An experimental successor to C++](https://github.com/carbon-language/carbon-lang)
+- [Maslow's Inferno - Unreal Engine Tutorials](https://www.youtube.com/playlist?list=PLSeWTho026lPuv5rzSCo8CAUVFzIlMz1A)
+
+### .NET
+- [Oskar Dudycz - Union types in C#](https://event-driven.io/en/union_types_in_csharp/)
+- [Jeremy D. Miller - Projecting Marten Events to a Flat Table](https://jeremydmiller.com/2022/07/25/projecting-marten-events-to-a-flat-table/)
+- [Christophe Nasarre - Digging into the CLR Diagnostics IPC Protocol in C#](https://chnasarre.medium.com/digging-into-the-clr-diagnostics-ipc-protocol-in-c-4d4cbe57826c)
+- [Khalid Abuhakmeh - Entity Framework Core with PostgreSQL and Timescale](https://github.com/khalidabuhakmeh/TimescaleAndEntityFrameworkCore)
+- [FSharp Companies - Community curated list of companies that use F# ](https://github.com/fsprojects/fsharp-companies)
+
+### Coding Life
+- [Marcin Kern - Does business care about programming languages?](https://ritenrg.com/blog/does-business-care-about-programming-languages)
+
+### Management
+- [GitHub - Planning next to your code – GitHub Projects is now generally available](https://github.blog/2022-07-27-planning-next-to-your-code-github-projects-is-now-generally-available/)
+
+### Product Design
+- [Phil Haack - Lessons From a Startup Pivot](https://haacked.com/archive/2022/07/25/lessons-from-the-pivot/)
+
+### Industry
+- [TechPays.com - Information about salaries in tech industry](https://techpays.com/)
+- [Cindy Sridharan - Why Success Is Often Elusive at the Highest Echelons](https://copyconstruct.medium.com/why-success-is-often-elusive-at-the-highest-echelons-3e02e4dd3e7f)
+- [Mashable - Slack finally realized that Slack makes permanent remote work possible](https://mashable.com/article/slack-remote-work-permanent-coronavirus)
+
+### Security
+- [Indent - Indent for Tailscale](https://indent.com/blog/tailscale)
+- [Chinmayi Sharma - Open-Source Security: How Digital Infrastructure Is Built on a House of Cards](https://www.lawfareblog.com/open-source-security-how-digital-infrastructure-built-house-cards)
+
+### Trivia
+- [type-signature.com - Who Wants to Be a Millionaire - but with types ](https://type-signature.com/)
+- [Giscuss - A comment system powered by GitHub Discussions](https://github.com/giscus/giscus)
+- [1x Engineer](https://1x.engineer/)
