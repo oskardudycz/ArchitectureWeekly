@@ -56,6 +56,13 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Alicja Halamska, Dawid Kubicki - Exploring GraphQL’s performance tradeoffs](https://blog.allegro.tech/2022/06/graphql-perf-tradeoffs.html)
+- [Miki Pokryvailo - Shipping multi-tenant SaaS using Postgres Row-Level Security](https://www.thenile.dev/blog/multi-tenant-rls)
+- [Jessica Kerr - To share the work, share the decisions](https://jessitron.com/2022/02/01/to-share-the-work-share/)
+- [Michael Plöd - Context Maps - a deep dive](https://www.youtube.com/watch?v=VjtMt689ql8)
+- [Mathias Verraes - Bandwidth and Context Mapping](https://verraes.net/2014/01/bandwidth-and-context-mapping/)
+- [Simon Brown - Visualising software architecture with the C4 model](https://www.youtube.com/watch?v=x2-rSnhpw0g)
+- [DDDEU - A Commune in the Ivory Tower? - A New Approach to Architecture](https://github.com/dddeu/2022-advice-process-keynote)
 - [Oskar Dudycz - How to effectively compose your business logic](https://event-driven.io/en/how_to_effectively_compose_your_business_logic/)
 - [Anton Stöckl - Event Sourcing: Why Kafka is not suitable as an Event Store](https://medium.com/@TonyBologni/event-sourcing-why-kafka-is-not-suitable-as-an-event-store-796e5d9ab63c)
 - [David Boike - Let's talk about Kafka](https://particular.net/blog/lets-talk-about-kafka)
@@ -654,6 +661,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Kristof Kowalski - otelgen - A tool to generate synthetic OpenTelemetry logs, metrics and traces](https://github.com/krzko/otelgen)
 - [Adrian Smijulj - GitHub Actions - Workflows as Code](https://github.com/webiny/github-actions-wac)
 - [Yacht - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments](https://github.com/SelfhostedPro/Yacht)
 - [Skaffold - Easy and Repeatable Kubernetes Development](https://github.com/GoogleContainerTools/skaffold)
@@ -895,6 +903,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Greg Young - Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
 - [Oren Eini - Efficiency all the way to Out of Memory error](https://ayende.com/blog/197825-C/production-postmortem-efficiency-all-the-way-to-out-of-memory-error)
 - [Daniel Palma - High-performance open-source Data Lakehouse at home](https://medium.com/@danthelion/high-performance-open-source-data-lakehouse-at-home-56c8d7fa87b5)
 - [Replibyte - Seed your development database with real data](https://github.com/Qovery/Replibyte)
@@ -1066,6 +1075,8 @@
 - [InfoWorld - Simon Bisson - Jumping into Azure Arc Data Services](https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.amp.html)
 
 ## C++
+- [Google - Carbon Language: An experimental successor to C++](https://github.com/carbon-language/carbon-lang)
+- [Maslow's Inferno - Unreal Engine Tutorials](https://www.youtube.com/playlist?list=PLSeWTho026lPuv5rzSCo8CAUVFzIlMz1A)
 - [Jonathan Müller - Technique: Compile Time Code Generation and Optimization](https://www.foonathan.net/2022/01/compile-time-codegen/)
 - [Andrei Alexandrescu - Speed Is Found In The Minds of People](https://www.youtube.com/watch?v=FJJTYQYB1JQ)
 
@@ -1074,6 +1085,7 @@
 - [Brett Rowberry - An F# Dev's Perspective on Clojure](https://brettrowberry.hashnode.dev/an-f-devs-perspective-on-clojure)
 
 ## Functional Programming
+- [Cassidy Williams - Functional Programming 101](https://github.com/readme/guides/functional-programming-basics)
 - [CaSE Podcast - Eric Normand on Functional Thinking](https://www.case-podcast.org/45-eric-normand-on-functional-thinking)
 - [Mark Seemann - A conditional sandwich example](https://blog.ploeh.dk/2022/02/14/a-conditional-sandwich-example/)
 - [Oleksii Holub - Pure-Impure Segregation Principle](https://tyrrrz.me/blog/pure-impure-segregation-principle#:~:text=interleaved%20impurities)
@@ -1090,6 +1102,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - Union types in C#](https://event-driven.io/en/union_types_in_csharp/)
+- [Jeremy D. Miller - Projecting Marten Events to a Flat Table](https://jeremydmiller.com/2022/07/25/projecting-marten-events-to-a-flat-table/)
+- [Christophe Nasarre - Digging into the CLR Diagnostics IPC Protocol in C#](https://chnasarre.medium.com/digging-into-the-clr-diagnostics-ipc-protocol-in-c-4d4cbe57826c)
+- [Khalid Abuhakmeh - Entity Framework Core with PostgreSQL and Timescale](https://github.com/khalidabuhakmeh/TimescaleAndEntityFrameworkCore)
+- [FSharp Companies - Community curated list of companies that use F# ](https://github.com/fsprojects/fsharp-companies)
 - [Daniel Marbach - Performance tricks I learned from contributing to open source .NET packages](https://www.youtube.com/watch?v=ztABfkJozXQ)
 - [NDepend - Visual Studio vs. Jetbrains Rider Performance](https://blog.ndepend.com/visual-studio-vs-jetbrains-rider-performance/)
 - [.NET Rocks! - WASM Everywhere with Steve Sanderson](https://dotnetrocks.com/?show=1801)
@@ -1502,6 +1519,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Marcin Kern - Does business care about programming languages?](https://ritenrg.com/blog/does-business-care-about-programming-languages)
 - [Martin Fowler - Advocate, educator, and authorial stance](https://martinfowler.com/articles/authorial-stance.html)
 - [Nicolas Dao - What you need to know to choose an open source license](https://gist.github.com/nicolasdao/a7adda51f2f185e8d2700e1573d8a633)
 - [The Hanselminutes podcast - Engineering Stack Overflow with Roberta Arcoverde](https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde)
@@ -1658,6 +1676,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [GitHub - Planning next to your code – GitHub Projects is now generally available](https://github.blog/2022-07-27-planning-next-to-your-code-github-projects-is-now-generally-available/)
 - [Paweł Huryn - Watch Out, Waterfall Ahead! The Truth About SAFe](https://huryn.medium.com/the-truth-about-safe-the-agile-release-train-just-derailed-76c34c86a80d)
 - [CA Technologies - The Impact of Agile. Quantified.](https://docs.broadcom.com/doc/the-impact-of-agile-quantified)
 - [Peter Aughton, Trond Hjorteland - An Open Systems Thinking perspective on Agile transformation](https://www.youtube.com/watch?v=gycpnj9kNV8)
@@ -1698,6 +1717,7 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [Phil Haack - Lessons From a Startup Pivot](https://haacked.com/archive/2022/07/25/lessons-from-the-pivot/)
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 - [John Cutler - TBM 20/54: "You're Making This Too Complicated"](https://cutlefish.substack.com/p/tbm-2054-youre-making-this-too-complicated?s=w)
 - [CBInsights - 397 Startup Failure Post-Mortems](https://www.cbinsights.com/research/startup-failure-post-mortem/)
@@ -1913,6 +1933,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [TechPays.com - Information about salaries in tech industry](https://techpays.com/)
+- [Cindy Sridharan - Why Success Is Often Elusive at the Highest Echelons](https://copyconstruct.medium.com/why-success-is-often-elusive-at-the-highest-echelons-3e02e4dd3e7f)
+- [Mashable - Slack finally realized that Slack makes permanent remote work possible](https://mashable.com/article/slack-remote-work-permanent-coronavirus)
 - [TechTarget - What the Broadcom-VMware acquisition means for cloud users](https://www.techtarget.com/searchcloudcomputing/opinion/What-the-Broadcom-VMware-acquisition-means-for-cloud-users)
 - [Reuters - Twitter vows legal fight after Musk pulls out of $44 billion deal](https://www.reuters.com/technology/elon-musk-terminating-twitter-deal-2022-07-08)
 - [Dustin Moris Gorski - Fund OSS through package managers](https://dusted.codes/fund-oss-through-package-managers)
@@ -2146,6 +2169,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Indent - Indent for Tailscale](https://indent.com/blog/tailscale)
+- [Chinmayi Sharma - Open-Source Security: How Digital Infrastructure Is Built on a House of Cards](https://www.lawfareblog.com/open-source-security-how-digital-infrastructure-built-house-cards)
 - [Bruce Schneier - Facebook Is Now Encrypting Links to Prevent URL Stripping](https://www.schneier.com/blog/archives/2022/07/facebook-is-now-encrypting-links-to-prevent-url-stripping.html)
 - [The Citizen Lab - GeckoSpy - Pegasus Spyware Used Against Thailand’s Pro-Democracy Movement](https://citizenlab.ca/2022/07/geckospy-pegasus-spyware-used-against-thailands-pro-democracy-movement/)
 - [Troy Hunt - Welcoming the Polish Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-polish-government-to-have-i-been-pwned/)
@@ -2251,6 +2276,9 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [type-signature.com - Who Wants to Be a Millionaire - but with types ](https://type-signature.com/)
+- [Giscuss - A comment system powered by GitHub Discussions](https://github.com/giscus/giscus)
+- [1x Engineer](https://1x.engineer/)
 - [Maxim Gumin - MarkovJunior - Probabilistic language based on pattern matching and constraint propagation](https://github.com/mxgmn/MarkovJunior)
 - [Gunnar Morling - Ten Tips to Make Conference Talks Suck Less](https://www.morling.dev/blog/ten-tips-make-conference-talks-suck-less/)
 - [The Verge - BMW starts selling heated seat subscriptions for $18 a month](https://www.theverge.com/2022/7/12/23204950/bmw-subscriptions-microtransactions-heated-seats-feature)
