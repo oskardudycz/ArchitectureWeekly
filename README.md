@@ -24,6 +24,68 @@ There are two rules:
 
 ---
 
+## [8th August 2022](per-week/2022-08-08.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+
+---
+
+### Architecture
+- [Gregor Hohpe - Mastering the Architecture Mindset](https://www.youtube.com/watch?v=FSKIWtRAPzc)
+- [Trond Hjorteland - Good Fences Make Good Neighbours](https://www.youtube.com/watch?v=l9z8DMvDMBw)
+- [Pete Hodgson - Why Intuitive Troubleshooting Has Stopped Working for You](https://www.honeycomb.io/blog/why-intuitive-troubleshooting-stopped-working/)
+- [Jérémie Chassaing - Event Sourcing vs Command Sourcing](https://thinkbeforecoding.com/post/2013/07/28/Event-Sourcing-vs-Command-Sourcing)
+
+### Databases
+- [AWS - Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service](https://www.usenix.org/system/files/atc22-elhemali.pdf)
+- [Alex DeBrie - Key Takeaways from the DynamoDB Paper](https://www.alexdebrie.com/posts/dynamodb-paper/)
+
+### DevOps
+- [Steven Giesel - Git-Flow, GitHub-Flow, Gitlab-Flow and Trunk Based Development explained](https://steven-giesel.com/blogPost/ff50f268-c0bf-44d8-a5b8-41554ab50ba8)
+
+### Frontend
+- [Luis Aviles - Routing Management with LitElement and TypeScript](https://www.thisdot.co/blog/routing-management-with-litelement)
+- [Angular - Minko Gechev - 4 Runtime Performance Optimizations](https://www.youtube.com/watch?v=f8sA-i6gkGQ)
+
+### Go
+- [Go Blog - Go 1.19 is released!](https://go.dev/blog/go1.19)
+
+### .NET
+- [On .NET Live - LINQ to GraphQL: Query GraphQL with LINQ syntax with Giorgi Dalakishvili](https://www.youtube.com/watch?v=hGKecjAKAZI)
+- [EfficientDynamoDB - High-performance C# DynamoDb library](https://github.com/AllocZero/EfficientDynamoDb)
+- [AWSLabs - AWS Lambda Powertools for .NET - A suite of utilities for AWS Lambda Functions that makes tracing with AWS X-Ray, structured logging and creating custom metrics asynchronously easier](https://github.com/awslabs/aws-lambda-powertools-dotnet)
+- [FluentMermaid - Mermaid.js fluent api for .NET](https://github.com/wowbios/FluentMermaid)
+- [Hirotada Kobayashi - PlantUmlClassDiagramGenerator - This is a generator to create a class-diagram of PlantUML from the C# source code](https://github.com/pierre3/PlantUmlClassDiagramGenerator)
+
+### NodeJS
+- [Oskar Dudycz - Straightforward Event Sourcing with TypeScript and NodeJS](https://event-driven.io/en/type_script_node_Js_event_sourcing/)
+
+### Rust
+- [Aleksey Kladov - Almost Rules](https://matklad.github.io/2022/07/10/almost-rules.html)
+- [SourceGear Rust - Rust extension for Visual Studio](https://github.com/sourcegear/rust-vs-extension)
+
+### WebAssembly
+- [Gavin Ray - A Quarkus app that allows deploying WASM & and other language functions as API handlers at runtime, using GraalVM](https://github.com/GavinRay97/polyglot-wasm-faas)
+
+### Coding Life
+- [Sebastian Gebski - A tech career advice: learn to set pieces](https://no-kill-switch.ghost.io/a-tech-career-advice-learn-to-set-pieces/)
+
+### Management
+- [Lucas F. Costa - Why long-term plans don't work and how to fix them](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
+- [Guy Dickinson - Skills as a System](https://www.linkedin.com/pulse/skills-system-guy-dickinson/)
+- [N. Meslec, I. Aggarwal, P.L. Curseu - The Insensitive Ruins It All: Compositional and Compilational Influences of Social Sensitivity on Collective Intelligence in Groups](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00676/full)
+
+### Product Design
+- [Jason Beres - Why DesignOps Matters: How to Improve Your Design Processes](https://www.infoq.com/articles/designops-improve-process)
+
+### Industry
+- [Machable - How fraudulent DMCA takedowns censored a prominent cryptocurrency critic on Substack](https://mashable.com/article/dmca-copyright-cryptocurrency-substack)
+
+### Trivia
+- [Richard Feynman - Names Don't Constitute Knowledge](https://www.youtube.com/watch?v=lFIYKmos3-s)
+
+---
+
 ## [1st August 2022](per-week/2022-08-01.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.

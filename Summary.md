@@ -56,6 +56,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Gregor Hohpe - Mastering the Architecture Mindset](https://www.youtube.com/watch?v=FSKIWtRAPzc)
+- [Trond Hjorteland - Good Fences Make Good Neighbours](https://www.youtube.com/watch?v=l9z8DMvDMBw)
+- [Pete Hodgson - Why Intuitive Troubleshooting Has Stopped Working for You](https://www.honeycomb.io/blog/why-intuitive-troubleshooting-stopped-working/)
+- [Jérémie Chassaing - Event Sourcing vs Command Sourcing](https://thinkbeforecoding.com/post/2013/07/28/Event-Sourcing-vs-Command-Sourcing)
 - [Alicja Halamska, Dawid Kubicki - Exploring GraphQL’s performance tradeoffs](https://blog.allegro.tech/2022/06/graphql-perf-tradeoffs.html)
 - [Miki Pokryvailo - Shipping multi-tenant SaaS using Postgres Row-Level Security](https://www.thenile.dev/blog/multi-tenant-rls)
 - [Jessica Kerr - To share the work, share the decisions](https://jessitron.com/2022/02/01/to-share-the-work-share/)
@@ -661,6 +665,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Steven Giesel - Git-Flow, GitHub-Flow, Gitlab-Flow and Trunk Based Development explained](https://steven-giesel.com/blogPost/ff50f268-c0bf-44d8-a5b8-41554ab50ba8)
 - [Kristof Kowalski - otelgen - A tool to generate synthetic OpenTelemetry logs, metrics and traces](https://github.com/krzko/otelgen)
 - [Adrian Smijulj - GitHub Actions - Workflows as Code](https://github.com/webiny/github-actions-wac)
 - [Yacht - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments](https://github.com/SelfhostedPro/Yacht)
@@ -760,6 +765,8 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Luis Aviles - Routing Management with LitElement and TypeScript](https://www.thisdot.co/blog/routing-management-with-litelement)
+- [Angular - Minko Gechev - 4 Runtime Performance Optimizations](https://www.youtube.com/watch?v=f8sA-i6gkGQ)
 - [Yves Goeleven - Building offline Progressive Web Apps](https://www.goeleven.com/guides/building-offline-progressive-web-apps/)
 - [InfoQ - Angular 14 - Typed Forms and Standalone Components](https://www.infoq.com/news/2022/06/angular-14-typed-forms/)
 - [Lars Gyrup Brink Nielsen - The Angular Developer's Nx Handbook](https://leanpub.com/the-angular-developers-nx-handbook/)
@@ -903,6 +910,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [AWS - Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service](https://www.usenix.org/system/files/atc22-elhemali.pdf)
+- [Alex DeBrie - Key Takeaways from the DynamoDB Paper](https://www.alexdebrie.com/posts/dynamodb-paper/)
 - [Greg Young - Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
 - [Oren Eini - Efficiency all the way to Out of Memory error](https://ayende.com/blog/197825-C/production-postmortem-efficiency-all-the-way-to-out-of-memory-error)
 - [Daniel Palma - High-performance open-source Data Lakehouse at home](https://medium.com/@danthelion/high-performance-open-source-data-lakehouse-at-home-56c8d7fa87b5)
@@ -1102,6 +1111,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [On .NET Live - LINQ to GraphQL: Query GraphQL with LINQ syntax with Giorgi Dalakishvili](https://www.youtube.com/watch?v=hGKecjAKAZI)
+- [EfficientDynamoDB - High-performance C# DynamoDb library](https://github.com/AllocZero/EfficientDynamoDb)
+- [AWSLabs - AWS Lambda Powertools for .NET - A suite of utilities for AWS Lambda Functions that makes tracing with AWS X-Ray, structured logging and creating custom metrics asynchronously easier](https://github.com/awslabs/aws-lambda-powertools-dotnet)
+- [FluentMermaid - Mermaid.js fluent api for .NET](https://github.com/wowbios/FluentMermaid)
+- [Hirotada Kobayashi - PlantUmlClassDiagramGenerator - This is a generator to create a class-diagram of PlantUML from the C# source code](https://github.com/pierre3/PlantUmlClassDiagramGenerator)
 - [Oskar Dudycz - Union types in C#](https://event-driven.io/en/union_types_in_csharp/)
 - [Jeremy D. Miller - Projecting Marten Events to a Flat Table](https://jeremydmiller.com/2022/07/25/projecting-marten-events-to-a-flat-table/)
 - [Christophe Nasarre - Digging into the CLR Diagnostics IPC Protocol in C#](https://chnasarre.medium.com/digging-into-the-clr-diagnostics-ipc-protocol-in-c-4d4cbe57826c)
@@ -1509,6 +1523,7 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [Gavin Ray - A Quarkus app that allows deploying WASM & and other language functions as API handlers at runtime, using GraalVM](https://github.com/GavinRay97/polyglot-wasm-faas)
 - [Colin Breck - Why Am I Excited About WebAssembly?](https://blog.colinbreck.com/why-am-i-excited-about-webassembly/)
 - [The State of WebAssembly - 2021/2022](https://platform.uno/blog/the-state-of-webassembly-2021-and-2022/)
 - [Pay Attention to WebAssembly](https://harshal.sheth.io/2022/01/31/webassembly.html)
@@ -1519,6 +1534,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Sebastian Gebski - A tech career advice: learn to set pieces](https://no-kill-switch.ghost.io/a-tech-career-advice-learn-to-set-pieces/)
 - [Marcin Kern - Does business care about programming languages?](https://ritenrg.com/blog/does-business-care-about-programming-languages)
 - [Martin Fowler - Advocate, educator, and authorial stance](https://martinfowler.com/articles/authorial-stance.html)
 - [Nicolas Dao - What you need to know to choose an open source license](https://gist.github.com/nicolasdao/a7adda51f2f185e8d2700e1573d8a633)
@@ -1676,6 +1692,9 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Lucas F. Costa - Why long-term plans don't work and how to fix them](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
+- [Guy Dickinson - Skills as a System](https://www.linkedin.com/pulse/skills-system-guy-dickinson/)
+- [N. Meslec, I. Aggarwal, P.L. Curseu - The Insensitive Ruins It All: Compositional and Compilational Influences of Social Sensitivity on Collective Intelligence in Groups](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00676/full)
 - [GitHub - Planning next to your code – GitHub Projects is now generally available](https://github.blog/2022-07-27-planning-next-to-your-code-github-projects-is-now-generally-available/)
 - [Paweł Huryn - Watch Out, Waterfall Ahead! The Truth About SAFe](https://huryn.medium.com/the-truth-about-safe-the-agile-release-train-just-derailed-76c34c86a80d)
 - [CA Technologies - The Impact of Agile. Quantified.](https://docs.broadcom.com/doc/the-impact-of-agile-quantified)
@@ -1717,6 +1736,7 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [Jason Beres - Why DesignOps Matters: How to Improve Your Design Processes](https://www.infoq.com/articles/designops-improve-process)
 - [Phil Haack - Lessons From a Startup Pivot](https://haacked.com/archive/2022/07/25/lessons-from-the-pivot/)
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 - [John Cutler - TBM 20/54: "You're Making This Too Complicated"](https://cutlefish.substack.com/p/tbm-2054-youre-making-this-too-complicated?s=w)
@@ -1823,6 +1843,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## NodeJS
+- [Oskar Dudycz - Straightforward Event Sourcing with TypeScript and NodeJS](https://event-driven.io/en/type_script_node_Js_event_sourcing/)
 - [Software Engineering Daily - Remix with Ryan Florence](https://softwareengineeringdaily.com/2022/07/22/remix-with-ryan-florence/)
 - [Nexe - create a single executable out of your node.js apps ](https://github.com/nexe/nexe)
 - [Michael Herman - Node, gRPC, and Postgres](https://mherman.org/blog/node-grpc-postgres/)
@@ -1859,6 +1880,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Go Blog - Go 1.19 is released!](https://go.dev/blog/go1.19)
 - [Karan Pratap Singh - Go Course](https://github.com/karanpratapsingh/go-course)
 - [Egon Elbre - lensm - Go assembly and source viewer](https://github.com/loov/lensm)
 - [Byron Ruth - Rita - Toolkit for event-centric and reactive patterns leveraging NATS](https://github.com/bruth/rita)
@@ -1902,6 +1924,8 @@
 - [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
 
 ## Rust
+- [Aleksey Kladov - Almost Rules](https://matklad.github.io/2022/07/10/almost-rules.html)
+- [SourceGear Rust - Rust extension for Visual Studio](https://github.com/sourcegear/rust-vs-extension)
 - [Dorian Scheidt - Improving “Extract Function” in Rust Analyzer](https://dorianlistens.com/2022/07/improving-extract-function-in-rust-analyzer/)
 - [Gaëtan Renaudeau - Plottable Era: (I) Primitive](https://github.com/gre/gre/tree/master/doodles/plottable-era-primitive)
 - [Rust - Rustlings - Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
@@ -1933,6 +1957,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Machable - How fraudulent DMCA takedowns censored a prominent cryptocurrency critic on Substack](https://mashable.com/article/dmca-copyright-cryptocurrency-substack)
 - [TechPays.com - Information about salaries in tech industry](https://techpays.com/)
 - [Cindy Sridharan - Why Success Is Often Elusive at the Highest Echelons](https://copyconstruct.medium.com/why-success-is-often-elusive-at-the-highest-echelons-3e02e4dd3e7f)
 - [Mashable - Slack finally realized that Slack makes permanent remote work possible](https://mashable.com/article/slack-remote-work-permanent-coronavirus)
@@ -2276,6 +2301,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Richard Feynman - Names Don't Constitute Knowledge](https://www.youtube.com/watch?v=lFIYKmos3-s)
 - [type-signature.com - Who Wants to Be a Millionaire - but with types ](https://type-signature.com/)
 - [Giscuss - A comment system powered by GitHub Discussions](https://github.com/giscus/giscus)
 - [1x Engineer](https://1x.engineer/)
