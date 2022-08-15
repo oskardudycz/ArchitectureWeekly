@@ -56,6 +56,13 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [InfoQ - Panel: the True Bottleneck in Software Engineering - Cognitive Load](https://www.infoq.com/presentations/software-engineering-bottleneck-cognitive-load)
+- [Jeremy D. Miller - Putting SOLID into Perspective](https://jeremydmiller.com/2022/08/10/putting-solid-into-perspective/)
+- [Oskar Dudycz - Why are we afraid of our decisions?](https://event-driven.io/en/why_are_we_afraid_of_our_decisions/)
+- [Maciej "MJ" Jedrzejewski - Story 2: Call it microservices…or distributed modules?](https://meaboutsoftware.com/2022/02/07/story-2-call-it-microservices-or-distributed-modules)
+- [Damian Płaza - Organization-Driven Design](https://talesfrom.dev/blog/organization-driven-design)
+- [W3C - Decentralized Identifiers](https://www.w3.org/TR/did-core)
+- [Nick Tune, Kacper Gunia - Independent Value Streams with Domain-Driven Design](https://www.youtube.com/playlist?list=PLYTh9n7QJnzQUl2pcmvd6VKBqXkKAnlyF)
 - [Gregor Hohpe - Mastering the Architecture Mindset](https://www.youtube.com/watch?v=FSKIWtRAPzc)
 - [Trond Hjorteland - Good Fences Make Good Neighbours](https://www.youtube.com/watch?v=l9z8DMvDMBw)
 - [Pete Hodgson - Why Intuitive Troubleshooting Has Stopped Working for You](https://www.honeycomb.io/blog/why-intuitive-troubleshooting-stopped-working/)
@@ -486,6 +493,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Tsviatko Yovtchev - SQS FIFO Queues: Message Ordering and Exactly-Once Processing Guaranteed?](https://ably.com/blog/sqs-fifo-queues-message-ordering-and-exactly-once-processing-guaranteed)
+- [Carl Mastrangelo - Why Does gRPC Insist on Trailers?](https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers)
 - [The Register - Google, Oracle cloud servers wilt in UK heatwave, take down websites](https://www.theregister.com/2022/07/19/google_oracle_cloud/)
 - [SoftwareMill - Kafka Visualization](https://softwaremill.com/kafka-visualisation/)
 - [Antón Rodríguez - Monitoring Kafka without instrumentation using eBPF](https://www.confluent.io/events/kafka-summit-london-2022/monitoring-kafka-without-instrumentation-using-ebpf/)
@@ -665,6 +674,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Colima - container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
+- [InfoQ - Are Recursive Serverless Functions the Biggest Billing Risk on the Cloud?](https://www.infoq.com/news/2022/08/recursive-serverless-functions/)
 - [Steven Giesel - Git-Flow, GitHub-Flow, Gitlab-Flow and Trunk Based Development explained](https://steven-giesel.com/blogPost/ff50f268-c0bf-44d8-a5b8-41554ab50ba8)
 - [Kristof Kowalski - otelgen - A tool to generate synthetic OpenTelemetry logs, metrics and traces](https://github.com/krzko/otelgen)
 - [Adrian Smijulj - GitHub Actions - Workflows as Code](https://github.com/webiny/github-actions-wac)
@@ -765,6 +776,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Jamie Turner - Let's use Convex with SolidJS!](https://www.youtube.com/watch?v=5Gck3MsGl5Y)
 - [Luis Aviles - Routing Management with LitElement and TypeScript](https://www.thisdot.co/blog/routing-management-with-litelement)
 - [Angular - Minko Gechev - 4 Runtime Performance Optimizations](https://www.youtube.com/watch?v=f8sA-i6gkGQ)
 - [Yves Goeleven - Building offline Progressive Web Apps](https://www.goeleven.com/guides/building-offline-progressive-web-apps/)
@@ -910,6 +922,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Alex Garcia - Introducing sqlite-http: A SQLite extension for making HTTP requests](https://observablehq.com/@asg017/introducing-sqlite-http)
 - [AWS - Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service](https://www.usenix.org/system/files/atc22-elhemali.pdf)
 - [Alex DeBrie - Key Takeaways from the DynamoDB Paper](https://www.alexdebrie.com/posts/dynamodb-paper/)
 - [Greg Young - Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
@@ -1094,6 +1107,7 @@
 - [Brett Rowberry - An F# Dev's Perspective on Clojure](https://brettrowberry.hashnode.dev/an-f-devs-perspective-on-clojure)
 
 ## Functional Programming
+- [John De Goes - What Functional Programming Can Learn From Object-Oriented Programming](https://www.youtube.com/watch?v=9hAcW2oMl6M)
 - [Cassidy Williams - Functional Programming 101](https://github.com/readme/guides/functional-programming-basics)
 - [CaSE Podcast - Eric Normand on Functional Thinking](https://www.case-podcast.org/45-eric-normand-on-functional-thinking)
 - [Mark Seemann - A conditional sandwich example](https://blog.ploeh.dk/2022/02/14/a-conditional-sandwich-example/)
@@ -1111,6 +1125,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Layla - Building a Topic Exchange with RabbitMQ and .NET 6](https://tanzu.vmware.com/developer/blog/building-topic-exchange-rabbitmq-dotnet6/)
+- [Filip Wojnarowski - dotnet script - Run C# scripts from the .NET CLI](https://github.com/filipw/dotnet-script)
+- [Explore Entity Framework quickly](https://beta-efplayground.massivepixel.co/)
+- [Maarten Balliauw - Happy 5th birthday, Rider 🥳](https://blog.jetbrains.com/dotnet/2022/08/03/happy-5th-birthday-rider/)
 - [On .NET Live - LINQ to GraphQL: Query GraphQL with LINQ syntax with Giorgi Dalakishvili](https://www.youtube.com/watch?v=hGKecjAKAZI)
 - [EfficientDynamoDB - High-performance C# DynamoDb library](https://github.com/AllocZero/EfficientDynamoDb)
 - [AWSLabs - AWS Lambda Powertools for .NET - A suite of utilities for AWS Lambda Functions that makes tracing with AWS X-Ray, structured logging and creating custom metrics asynchronously easier](https://github.com/awslabs/aws-lambda-powertools-dotnet)
@@ -1534,6 +1552,12 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Birgitta Böckeler, Nina Siessegger - On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
+- [Woody Zuill - Mob Programming and the Power of Flow](https://www.youtube.com/watch?v=28S4CVkYhWA)
+- [Anjuan Simmons - Lending Privilege](https://www.youtube.com/watch?v=mg70_BesZ1Y)
+- [Dennis Doomen - How I keep my Git source control history clean](https://www.continuousimprover.com/2020/03/keep-source-control-history-clean.html)
+- [Matt Rickard - Commit Messages Don’t Matter](https://matt-rickard.com/commit-messages-dont-matter)
+- [Bret Cameron - Why the Dunning-Kruger Curves You’ve Seen Are Wrong](https://medium.com/curious/why-the-dunning-kruger-curves-youve-seen-are-wrong-beb944668aef)
 - [Sebastian Gebski - A tech career advice: learn to set pieces](https://no-kill-switch.ghost.io/a-tech-career-advice-learn-to-set-pieces/)
 - [Marcin Kern - Does business care about programming languages?](https://ritenrg.com/blog/does-business-care-about-programming-languages)
 - [Martin Fowler - Advocate, educator, and authorial stance](https://martinfowler.com/articles/authorial-stance.html)
@@ -1749,6 +1773,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Java Platform Evolution](https://dev.java/evolution/)
 - [OpenJDK - Project Amber](https://openjdk.org/projects/amber/)
 - [Oskar Dudycz - Introduction to Event Sourcing in Java - Self-paced kit](https://github.com/oskardudycz/EventSourcing.JVM/tree/main/workshops/introduction-to-event-sourcing#introduction-to-event-sourcing-workshop)
 - [Fabian Stäber - How to capture Spring Boot metrics with the OpenTelemetry Java Instrumentation Agent](https://grafana.com/blog/2022/05/04/how-to-capture-spring-boot-metrics-with-the-opentelemetry-java-instrumentation-agent/)
@@ -1880,6 +1905,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Sqlc - Compile SQL to type-safe code](https://sqlc.dev/)
 - [Go Blog - Go 1.19 is released!](https://go.dev/blog/go1.19)
 - [Karan Pratap Singh - Go Course](https://github.com/karanpratapsingh/go-course)
 - [Egon Elbre - lensm - Go assembly and source viewer](https://github.com/loov/lensm)
@@ -1957,6 +1983,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Bloomberg - Apple Slows Pace of Dealmaking Even as Its Tech Peers Plow Ahead](https://www.bloomberg.com/news/articles/2022-08-08/apple-slows-pace-of-dealmaking-even-as-its-tech-peers-plow-ahead)
+- [Business Insider - Mark Zuckerberg told Meta staff he's upping performance goals to get rid of employees who 'shouldn't be here,' report says](https://www.businessinsider.com/mark-zuckerberg-upping-goals-thin-out-meta-staff-2022-7)
 - [Machable - How fraudulent DMCA takedowns censored a prominent cryptocurrency critic on Substack](https://mashable.com/article/dmca-copyright-cryptocurrency-substack)
 - [TechPays.com - Information about salaries in tech industry](https://techpays.com/)
 - [Cindy Sridharan - Why Success Is Often Elusive at the Highest Echelons](https://copyconstruct.medium.com/why-success-is-often-elusive-at-the-highest-echelons-3e02e4dd3e7f)
@@ -2194,6 +2222,9 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Programming With Style - How I Hacked my Car](https://programmingwithstyle.com/posts/howihackedmycar/)
+- [ArsTechnica - North Korea-backed hackers have a clever way to read your Gmail](https://arstechnica.com/information-technology/2022/08/north-korea-backed-hackers-have-a-clever-way-to-read-your-gmail/)
+- [Twilio - Incident Report: Employee and Customer Account Compromise](https://www.twilio.com/blog/august-2022-social-engineering-attack)
 - [Indent - Indent for Tailscale](https://indent.com/blog/tailscale)
 - [Chinmayi Sharma - Open-Source Security: How Digital Infrastructure Is Built on a House of Cards](https://www.lawfareblog.com/open-source-security-how-digital-infrastructure-built-house-cards)
 - [Bruce Schneier - Facebook Is Now Encrypting Links to Prevent URL Stripping](https://www.schneier.com/blog/archives/2022/07/facebook-is-now-encrypting-links-to-prevent-url-stripping.html)
