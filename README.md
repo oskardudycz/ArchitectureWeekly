@@ -24,6 +24,68 @@ There are two rules:
 
 ---
 
+## [29th August 2022](per-week/2022-08-29.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+
+---
+
+### Architecture
+- [Jimmy Bogard - Domain-Driven Refactoring](https://www.youtube.com/watch?v=gxgKgMvPH9I)
+- [Derek Comartin - Data Partitioning! Don't let growth SLOW you down!](https://www.youtube.com/watch?v=_zRXJuW7W98)
+- [LaunchDarkly - Evolving Global Flag Delivery - Flag Delivery at Edge](https://launchdarkly.com/blog/flag-delivery-at-edge/)
+- [Herberto Graça - DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
+
+### Distributed Systems
+- [Shiju Varghese - Building Distributed Event Streaming Systems In Go With NATS JetStream](https://shijuvar.medium.com/building-distributed-event-streaming-systems-in-go-with-nats-jetstream-3938e6dc7a13)
+- [Instagram Engineering - Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
+- [Universally Unique Lexicographically Sortable Identifier - The canonical spec for ulid](https://github.com/ulid/spec)
+
+### Datbases
+- [Kevin Sookocheff  - Write-ahead logging and the ARIES crash recovery algorithm. How do databases recover from failure?](https://sookocheff.com/post/databases/write-ahead-logging/)
+- [Andrzej Ludwikowski - Reactive Event Sourcing benchmarks, part 1: PostgreSQL](https://softwaremill.com/reactive-event-sourcing-benchmarks-part-1-postgresql/)
+- [LiteFS - FUSE-based file system for replicating SQLite databases across a cluster of machines](https://github.com/superfly/litefs)
+- [Justin Graf - PostgreSQL and Financial Calculations - Part One](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-one/)
+
+### Frontend
+- [Virtual Domain-Driven Design - Domain-Driven Frontend with Francesco Strazzullo](https://www.youtube.com/watch?v=gX_Nx1vqeBQ)
+- [Mauro Servienti - Designing a UI for Microservices](https://www.youtube.com/watch?v=AxWGAiIg7_0)
+- [Microsoft - Fluid Framework - Library for building distributed, real-time collaborative web applications](https://github.com/microsoft/FluidFramework)
+
+### AI
+- [João Pedro - Machine Learning Streaming with Kafka, Debezium, and BentoML](https://towardsdatascience.com/machine-learning-streaming-with-kafka-debezium-and-bentoml-c5f3996afe8f)
+- [The Register - GitHub Copilot may be perfect for cheating CompSci programming exercises](https://www.theregister.com/2022/08/19/copilot_github_students/)
+
+### Azure
+- [Kamil Mrzygłód - ACE (Azure Cost Estimator) - automated cost estimations for ARM Templates & Biceps](https://github.com/TheCloudTheory/arm-estimator)
+- [Azure - The Azure SaaS Development Kit (ASDK) - provides a reference architecture, deployable reference implementation and tools to help developers, startups, ISVs and Enterprises deliver their applications as a SaaS service. A platform for platform creators.](https://github.com/Azure/azure-saas)
+
+### .NET
+- [Tomasz Pęczek - Micro Frontends in Action With ASP.NET Core - Composition via Blazor WebAssembly Based Web Components](https://www.tpeczek.com/2022/08/micro-frontends-in-action-with-aspnet.html?m=1)
+- [Mads Torgersen - The functional journey of C#](https://www.youtube.com/watch?v=CLKZ7ZgVido)
+- [Microsoft - Announcing built-in container support for the .NET SDK](https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/)
+- [Patrick Smacchia - C# 11 Raw String Literals Explained](https://blog.ndepend.com/c-11-raw-string-literals-explained/)
+
+### NodeJS
+- [Zod - TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)
+
+### Coding Life
+- [Oskar Dudycz - How playing on guitar can help you to be a better developer?](https://event-driven.io/en/how_playing_on_guitar_helps_in_being_better_developer/)
+
+### Management
+- [Emily Nakashima - An Engineering Manager's Bill of Rights (and Responsibilities)](https://www.honeycomb.io/blog/an-engineering-managers-bill-of-rights-and-responsibilities/)
+- [Continuous Delivery - Agile & Scrum Don't Work | Allen Holub In The Engineering Room](https://www.youtube.com/watch?v=hxXmTnb3mFU)
+- [Scrum Sessions Podcast - Episode 01 with special guest Dr. Jeff Sutherland](https://www.youtube.com/watch?v=O7jMczM-4k8)
+
+### Security
+- [CNN - Ex-Twitter exec blows the whistle, alleging reckless and negligent cybersecurity policies](https://edition.cnn.com/2022/08/23/tech/twitter-whistleblower-peiter-zatko-security/index.html)
+- [Microsoft - MagicWeb: NOBELIUM’s post-compromise trick to authenticate as anyone](https://www.microsoft.com/security/blog/2022/08/24/magicweb-nobeliums-post-compromise-trick-to-authenticate-as-anyone/)
+
+### Trivia
+- [Gergely Orosz - Becoming a Full-Time Creator as a Software Engineer: Controversial Advice](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/)
+
+---
+
 ## [22nd August 2022](per-week/2022-08-22.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.

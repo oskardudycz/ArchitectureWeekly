@@ -56,6 +56,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Jimmy Bogard - Domain-Driven Refactoring](https://www.youtube.com/watch?v=gxgKgMvPH9I)
+- [Derek Comartin - Data Partitioning! Don't let growth SLOW you down!](https://www.youtube.com/watch?v=_zRXJuW7W98)
+- [LaunchDarkly - Evolving Global Flag Delivery - Flag Delivery at Edge](https://launchdarkly.com/blog/flag-delivery-at-edge/)
+- [Herberto Graça - DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 - [Rebecca Wirf-Brock - Responsibility-Driven Design](https://www.wirfs-brock.com/PDFs/A_Brief-Tour-of-RDD.pdf)
 - [David Bryant Copeland - A Framework for Product Design Beyond the Happy Path](https://naildrivin5.com/blog/2022/08/15/product-design-beyond-the-happy-path.html)
 - [Hillel Wayne - I have complicated feelings about TDD](https://buttondown.email/hillelwayne/archive/i-have-complicated-feelings-about-tdd-8403/)
@@ -502,6 +506,9 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Shiju Varghese - Building Distributed Event Streaming Systems In Go With NATS JetStream](https://shijuvar.medium.com/building-distributed-event-streaming-systems-in-go-with-nats-jetstream-3938e6dc7a13)
+- [Instagram Engineering - Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
+- [Universally Unique Lexicographically Sortable Identifier - The canonical spec for ulid](https://github.com/ulid/spec)
 - [Allen Helton - Starting Over With Purpose - My Serverless Adventure](https://www.readysetcloud.io/blog/allen.helton/starting-over-with-purpose/)
 - [Tsviatko Yovtchev - SQS FIFO Queues: Message Ordering and Exactly-Once Processing Guaranteed?](https://ably.com/blog/sqs-fifo-queues-message-ordering-and-exactly-once-processing-guaranteed)
 - [Carl Mastrangelo - Why Does gRPC Insist on Trailers?](https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers)
@@ -788,6 +795,9 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Virtual Domain-Driven Design - Domain-Driven Frontend with Francesco Strazzullo](https://www.youtube.com/watch?v=gX_Nx1vqeBQ)
+- [Mauro Servienti - Designing a UI for Microservices](https://www.youtube.com/watch?v=AxWGAiIg7_0)
+- [Microsoft - Fluid Framework - Library for building distributed, real-time collaborative web applications](https://github.com/microsoft/FluidFramework)
 - [Kent C. Dodds - When to break up a component into multiple components](https://kentcdodds.com/blog/when-to-break-up-a-component-into-multiple-components)
 - [SnoopForms - The Open-source Typeform Alternative](https://snoopforms.com)
 - [Jamie Turner - Let's use Convex with SolidJS!](https://www.youtube.com/watch?v=5Gck3MsGl5Y)
@@ -937,6 +947,10 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Kevin Sookocheff  - Write-ahead logging and the ARIES crash recovery algorithm. How do databases recover from failure?](https://sookocheff.com/post/databases/write-ahead-logging/)
+- [Andrzej Ludwikowski - Reactive Event Sourcing benchmarks, part 1: PostgreSQL](https://softwaremill.com/reactive-event-sourcing-benchmarks-part-1-postgresql/)
+- [LiteFS - FUSE-based file system for replicating SQLite databases across a cluster of machines](https://github.com/superfly/litefs)
+- [Justin Graf - PostgreSQL and Financial Calculations - Part One](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-one/)
 - [CrunchyData - Learn Postgres at the Playground](https://www.crunchydata.com/blog/learn-postgres-at-the-playground)
 - [Alex Garcia - Introducing sqlite-http: A SQLite extension for making HTTP requests](https://observablehq.com/@asg017/introducing-sqlite-http)
 - [AWS - Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service](https://www.usenix.org/system/files/atc22-elhemali.pdf)
@@ -1066,6 +1080,8 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [João Pedro - Machine Learning Streaming with Kafka, Debezium, and BentoML](https://towardsdatascience.com/machine-learning-streaming-with-kafka-debezium-and-bentoml-c5f3996afe8f)
+- [The Register - GitHub Copilot may be perfect for cheating CompSci programming exercises](https://www.theregister.com/2022/08/19/copilot_github_students/)
 - [Jeremy Howard -  Practical Deep Learning for Coders](https://course.fast.ai)
 - [Emmanuel Raj - Engineering MLOps](https://azure.microsoft.com/en-us/resources/engineering-mlops/)
 - [Sayash Kapoor, Arvind Narayanan - Leakage and the Reproducibility Crisis in ML-based Science](https://reproducible.cs.princeton.edu/)
@@ -1099,6 +1115,8 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Kamil Mrzygłód - ACE (Azure Cost Estimator) - automated cost estimations for ARM Templates & Biceps](https://github.com/TheCloudTheory/arm-estimator)
+- [Azure - The Azure SaaS Development Kit (ASDK) - provides a reference architecture, deployable reference implementation and tools to help developers, startups, ISVs and Enterprises deliver their applications as a SaaS service. A platform for platform creators.](https://github.com/Azure/azure-saas)
 - [Microsoft - Windows Authentication for Azure AD principals for SQL Managed Instance is now Generally Available](https://techcommunity.microsoft.com/t5/azure-sql-blog/windows-authentication-for-azure-ad-principals-for-sql-managed/ba-p/3600690)
 - [Microsoft - New API backend options in Azure Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/new-api-backend-options-in-azure-static-web-apps/ba-p/3516882)
 - [Kai Walter - Azure Application Gateway for dummies](https://dev.to/kaiwalter/azure-application-gateway-for-dummies-dj3)
@@ -1143,6 +1161,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Tomasz Pęczek - Micro Frontends in Action With ASP.NET Core - Composition via Blazor WebAssembly Based Web Components](https://www.tpeczek.com/2022/08/micro-frontends-in-action-with-aspnet.html?m=1)
+- [Mads Torgersen - The functional journey of C#](https://www.youtube.com/watch?v=CLKZ7ZgVido)
+- [Microsoft - Announcing built-in container support for the .NET SDK](https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/)
+- [Patrick Smacchia - C# 11 Raw String Literals Explained](https://blog.ndepend.com/c-11-raw-string-literals-explained/)
 - [Ubuntu - Microsoft and Canonical announce native .NET availability in Ubuntu 22.04 hosts and containers](https://ubuntu.com/blog/install-dotnet-on-ubuntu)
 - [Oskar Dudycz - Pragmatic Event Sourcing in .NET With Marten](https://www.youtube.com/watch?v=Lc2zV8KA16A)
 - [Jeremy D. Miller - Event Sourcing and CQRS with Marten](https://www.youtube.com/watch?v=XaztVpahD1k)
@@ -1573,6 +1595,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Oskar Dudycz - How playing on guitar can help you to be a better developer?](https://event-driven.io/en/how_playing_on_guitar_helps_in_being_better_developer/)
 - [Jessica Kerr - Those pesky pull request reviews](https://jessitron.com/2021/03/27/those-pesky-pull-request-reviews/)
 - [Birgitta Böckeler, Nina Siessegger - On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
 - [Woody Zuill - Mob Programming and the Power of Flow](https://www.youtube.com/watch?v=28S4CVkYhWA)
@@ -1738,6 +1761,9 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Emily Nakashima - An Engineering Manager's Bill of Rights (and Responsibilities)](https://www.honeycomb.io/blog/an-engineering-managers-bill-of-rights-and-responsibilities/)
+- [Continuous Delivery - Agile & Scrum Don't Work | Allen Holub In The Engineering Room](https://www.youtube.com/watch?v=hxXmTnb3mFU)
+- [Scrum Sessions Podcast - Episode 01 with special guest Dr. Jeff Sutherland](https://www.youtube.com/watch?v=O7jMczM-4k8)
 - [Lucas F. Costa - Why long-term plans don't work and how to fix them](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
 - [Guy Dickinson - Skills as a System](https://www.linkedin.com/pulse/skills-system-guy-dickinson/)
 - [N. Meslec, I. Aggarwal, P.L. Curseu - The Insensitive Ruins It All: Compositional and Compilational Influences of Social Sensitivity on Collective Intelligence in Groups](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00676/full)
@@ -1891,6 +1917,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## NodeJS
+- [Zod - TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)
 - [Oskar Dudycz - Straightforward Event Sourcing with TypeScript and NodeJS](https://event-driven.io/en/type_script_node_Js_event_sourcing/)
 - [Software Engineering Daily - Remix with Ryan Florence](https://softwareengineeringdaily.com/2022/07/22/remix-with-ryan-florence/)
 - [Nexe - create a single executable out of your node.js apps ](https://github.com/nexe/nexe)
@@ -2248,6 +2275,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [CNN - Ex-Twitter exec blows the whistle, alleging reckless and negligent cybersecurity policies](https://edition.cnn.com/2022/08/23/tech/twitter-whistleblower-peiter-zatko-security/index.html)
+- [Microsoft - MagicWeb: NOBELIUM’s post-compromise trick to authenticate as anyone](https://www.microsoft.com/security/blog/2022/08/24/magicweb-nobeliums-post-compromise-trick-to-authenticate-as-anyone/)
 - [CSO - Google Cloud blocks largest HTTPS DDoS attack ever](https://www.csoonline.com/article/3670748/google-cloud-blocks-largest-https-ddos-attack-ever.html)
 - [Programming With Style - How I Hacked my Car](https://programmingwithstyle.com/posts/howihackedmycar/)
 - [ArsTechnica - North Korea-backed hackers have a clever way to read your Gmail](https://arstechnica.com/information-technology/2022/08/north-korea-backed-hackers-have-a-clever-way-to-read-your-gmail/)
@@ -2359,6 +2388,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Gergely Orosz - Becoming a Full-Time Creator as a Software Engineer: Controversial Advice](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/)
 - [Seattle Times - For Gravity Payments CEO, social media was bullhorn and way to lure women](https://www.seattletimes.com/business/for-gravity-payments-ceo-social-media-was-bullhorn-and-way-to-lure-women/)
 - [Susan Cain - The power of introverts](https://www.ted.com/talks/susan_cain_the_power_of_introverts)
 - [Richard Feynman - Names Don't Constitute Knowledge](https://www.youtube.com/watch?v=lFIYKmos3-s)
