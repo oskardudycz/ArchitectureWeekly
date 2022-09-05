@@ -41,7 +41,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Instagram Engineering - Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
 - [Universally Unique Lexicographically Sortable Identifier - The canonical spec for ulid](https://github.com/ulid/spec)
 
-### Datbases
+### Databases
 - [Kevin Sookocheff  - Write-ahead logging and the ARIES crash recovery algorithm. How do databases recover from failure?](https://sookocheff.com/post/databases/write-ahead-logging/)
 - [Andrzej Ludwikowski - Reactive Event Sourcing benchmarks, part 1: PostgreSQL](https://softwaremill.com/reactive-event-sourcing-benchmarks-part-1-postgresql/)
 - [LiteFS - FUSE-based file system for replicating SQLite databases across a cluster of machines](https://github.com/superfly/litefs)
@@ -194,7 +194,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Java Platform Evolution](https://dev.java/evolution/)
 
 ### .NET
-- [Layla - Building a Topic Exchange with RabbitMQ and .NET 6](https://tanzu.vmware.com/developer/blog/building-topic-exchange-rabbitmq-dotnet6/)
+- [Layla Porter - Building a Topic Exchange with RabbitMQ and .NET 6](https://tanzu.vmware.com/developer/blog/building-topic-exchange-rabbitmq-dotnet6/)
 - [Filip Wojnarowski - dotnet script - Run C# scripts from the .NET CLI](https://github.com/filipw/dotnet-script)
 - [Explore Entity Framework quickly](https://beta-efplayground.massivepixel.co/)
 - [Maarten Balliauw - Happy 5th birthday, Rider 🥳](https://blog.jetbrains.com/dotnet/2022/08/03/happy-5th-birthday-rider/)
@@ -997,7 +997,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ### .NET
 - [.NET Blog - YARP 1.1 is here with new requested reverse proxy features](https://devblogs.microsoft.com/dotnet/yarp-reverse-proxy-1-1-release/)
 - [Aaron Stannard - An Overview of Distributed Tracing with OpenTelemetry in .NET 6](https://aaronstannard.com/opentelemetry-dotnet6/)
-- [Andrew W. Lock - Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/)
+- [Andrew Lock - Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/)
 - [Oleksii Nikiforov - Creating and Using HTTP Client SDKs in .NET 6](https://www.infoq.com/articles/creating-http-sdks-dotnet-6)
 
 ### NodeJS
