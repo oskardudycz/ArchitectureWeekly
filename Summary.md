@@ -56,6 +56,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Scott Wlaschin - Designing with Capabilities](https://www.youtube.com/watch?v=fi1FsDW1QeY)
+- [Christoph Knauf - Architecture documentation as code with Structurizr and Asciidoctor. Part 1: Workflow and tooling](https://blog.codecentric.de/en/2022/08/architecture-documentation-docs-as-code-structurizr-asciidoctor/)
+- [Iain Cambridge - GDPR For Developers By Example](https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example)
+- [Alberto Brandolini - Collaborative Process Modelling with EventStorming](https://medium.com/@ziobrando/collaborative-process-modelling-with-eventstorming-17ed363650c0)
+- [Happy Path Programming Podcast - The End of Ivory Tower Architecture with Andrew Harmel-Law](https://anchor.fm/happypathprogramming/episodes/68-The-End-of-Ivory-Tower-Architecture-with-Andrew-Harmel-Law-e1nae6t)
+- [Peter Royal - Event Sourced Business Applications](https://www.youtube.com/watch?v=z2qMgCCbsBs)
 - [Jimmy Bogard - Domain-Driven Refactoring](https://www.youtube.com/watch?v=gxgKgMvPH9I)
 - [Derek Comartin - Data Partitioning! Don't let growth SLOW you down!](https://www.youtube.com/watch?v=_zRXJuW7W98)
 - [LaunchDarkly - Evolving Global Flag Delivery - Flag Delivery at Edge](https://launchdarkly.com/blog/flag-delivery-at-edge/)
@@ -691,6 +697,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Meadowrun - Kubernetes Was Never Designed for Batch Jobs](https://betterprogramming.pub/kubernetes-was-never-designed-for-batch-jobs-f59be376a338)
+- [How to manage multiple environments with Terraform](https://blog.gruntwork.io/how-to-manage-multiple-environments-with-terraform-32c7bc5d692)
+- [Jason Kulatunga - Running Cron in Docker](https://blog.thesparktree.com/cron-in-docker)
 - [Jose Adan Ortiz - Awesome Cloud Native Trainings](https://github.com/joseadanof/awesome-cloudnative-trainings)
 - [StackBlitz - WebContainer](https://github.com/stackblitz/webcontainer-core)
 - [Colima - container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
@@ -881,6 +890,8 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Jakub Pilimon, Layla Porter - Write More Maintainable, Testable Code with Dependency Injection](https://tanzu.vmware.com/developer/blog/write-more-maintainable-testable-code-with-dependency-injection/)
+- [Marco Behler - Load Testing: An Unorthodox Guide](https://www.marcobehler.com/guides/load-testing)
 - [James Shore - Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/blog/2018/testing-without-mocks)
 - [Mark Seemann - Some thoughts on naming tests](https://blog.ploeh.dk/2022/06/13/some-thoughts-on-naming-tests/)
 - [Ian Cooper - TDD Revisited](https://raw.githubusercontent.com/iancooper/Presentations/master/Kent%20Beck%20Style%20TDD%20-%20Seven%20Years%20After.pdf)
@@ -1080,6 +1091,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Simon Willison - Stable Diffusion is a really big deal](https://simonwillison.net/2022/Aug/29/stable-diffusion)
 - [João Pedro - Machine Learning Streaming with Kafka, Debezium, and BentoML](https://towardsdatascience.com/machine-learning-streaming-with-kafka-debezium-and-bentoml-c5f3996afe8f)
 - [The Register - GitHub Copilot may be perfect for cheating CompSci programming exercises](https://www.theregister.com/2022/08/19/copilot_github_students/)
 - [Jeremy Howard -  Practical Deep Learning for Coders](https://course.fast.ai)
@@ -1161,6 +1173,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - Slim your aggregates with Event Sourcing!](https://event-driven.io/en/slim_your_entities_with_event_sourcing/?utm_source=architecture_weekly)
+- [Jon P. Smith - A .NET distributed cache with a ~25 nanosecond read time!](https://www.thereformedprogrammer.net/a-net-distributed-cache-with-a-25-nanosecond-read-time)
+- [Andrew Lock - Using CancellationTokens in ASP.NET Core minimal APIs](https://andrewlock.net/using-cancellationtokens-in-asp-net-core-minimal-apis/)
+- [Microsoft - Performance Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/performance_improvements_in_net_7/)
 - [Tomasz Pęczek - Micro Frontends in Action With ASP.NET Core - Composition via Blazor WebAssembly Based Web Components](https://www.tpeczek.com/2022/08/micro-frontends-in-action-with-aspnet.html?m=1)
 - [Mads Torgersen - The functional journey of C#](https://www.youtube.com/watch?v=CLKZ7ZgVido)
 - [Microsoft - Announcing built-in container support for the .NET SDK](https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/)
@@ -1584,6 +1600,7 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [Second State - Running JavaScript in WebAssembly with WasmEdge](https://www.secondstate.io/articles/run-javascript-in-webassembly-with-wasmedge/)
 - [Gavin Ray - A Quarkus app that allows deploying WASM & and other language functions as API handlers at runtime, using GraalVM](https://github.com/GavinRay97/polyglot-wasm-faas)
 - [Colin Breck - Why Am I Excited About WebAssembly?](https://blog.colinbreck.com/why-am-i-excited-about-webassembly/)
 - [The State of WebAssembly - 2021/2022](https://platform.uno/blog/the-state-of-webassembly-2021-and-2022/)
@@ -1595,6 +1612,9 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Dylan Beattie - Plain Text](https://www.youtube.com/watch?v=gd5uJ7Nlvvo)
+- [Joe Dunleavy - Contributing to open source - taking the dive](https://blog.scottlogic.com/2022/08/26/contributing-to-open-source-taking-the-dive.html)
+- [Amir Rachum - How to pick a starter project that'll make someone quit](https://amir.rachum.com/blog/2022/08/07/starter-project/)
 - [Oskar Dudycz - How playing on guitar can help you to be a better developer?](https://event-driven.io/en/how_playing_on_guitar_helps_in_being_better_developer/)
 - [Jessica Kerr - Those pesky pull request reviews](https://jessitron.com/2021/03/27/those-pesky-pull-request-reviews/)
 - [Birgitta Böckeler, Nina Siessegger - On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
@@ -2031,10 +2051,14 @@
 - [Programming Methods Laboratory EPFL - Monadic Reflection](https://github.com/lampepfl/monadic-reflection)
 
 ## Swift
+- [Swift - Moving “The Swift Programming Language” book to open source](https://forums.swift.org/t/moving-the-swift-programming-language-book-to-open-source/59989)
 - [Swift - Introducing Swift Distributed Actors](https://swift.org/blog/distributed-actors/)
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Protocol - Cloudflare tries to ignore the world](https://www.protocol.com/newsletters/protocol-enterprise/cloudflare-kiwi-farms-microsoft-licensing)
+- [Cloudflare - The Mistake that Caused 1.1.1.3 to Block LGBTQIA+ Sites Today](https://blog.cloudflare.com/the-mistake-that-caused-1-1-1-3-to-block-lgbtqia-sites-today/)
+- [Cloudflare - Blocking Kiwifarms](https://blog.cloudflare.com/kiwifarms-blocked/)
 - [Bloomberg - Apple Slows Pace of Dealmaking Even as Its Tech Peers Plow Ahead](https://www.bloomberg.com/news/articles/2022-08-08/apple-slows-pace-of-dealmaking-even-as-its-tech-peers-plow-ahead)
 - [Business Insider - Mark Zuckerberg told Meta staff he's upping performance goals to get rid of employees who 'shouldn't be here,' report says](https://www.businessinsider.com/mark-zuckerberg-upping-goals-thin-out-meta-staff-2022-7)
 - [Machable - How fraudulent DMCA takedowns censored a prominent cryptocurrency critic on Substack](https://mashable.com/article/dmca-copyright-cryptocurrency-substack)
@@ -2163,6 +2187,7 @@
 - [Corey Quinn - How to Compete with AWS](https://www.lastweekinaws.com/blog/how-to-compete-with-aws/)
 
 ## Hardware
+- [The Guardian - Why Japan’s war on disks could prove to be another flop](https://www.theguardian.com/world/2022/sep/01/japan-digital-minister-declares-war-on-floppy-discs)
 - [Raymond Chen - Janet Jackson had the power to crash laptop computers](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
 - [Endgaget - Microsoft's Project Volterra is a mini PC for ARM developers](https://www.engadget.com/project-volterra-announced-180123291.html?guccounter=1)
 - [Singularity Hub - Moore’s Law: Scientists Just Made a Graphene Transistor Gate the Width of an Atom](https://singularityhub.com/2022/03/13/moores-law-scientists-just-made-a-graphene-transistor-gate-the-width-of-an-atom/)
@@ -2211,6 +2236,8 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [GitHub - Release Radar · August 2022 Edition](https://github.blog/2022-09-02-release-radar-aug-2022/)
+- [ASCIIFlow - A client-side only web based application for drawing ASCII diagrams](https://github.com/lewish/asciiflow)
 - [Visual Studio Code - The Visual Studio Code Server](https://code.visualstudio.com/blogs/2022/07/07/vscode-server)
 - [Upptime - Free uptime monitor and status page powered by GitHub](https://github.com/upptime/upptime)
 - [Scott Hanselman - Developing for Linux on Windows](https://www.youtube.com/watch?v=tuhzVDc0Slg)
@@ -2275,6 +2302,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [AWSGoat - A Damn Vulnerable AWS Infrastructure](https://github.com/ine-labs/AWSGoat)
+- [Daniel Stenberg - A bug that was 23 years old or not](https://daniel.haxx.se/blog/2022/09/05/a-bug-that-was-23-years-old-or-not/)
 - [CNN - Ex-Twitter exec blows the whistle, alleging reckless and negligent cybersecurity policies](https://edition.cnn.com/2022/08/23/tech/twitter-whistleblower-peiter-zatko-security/index.html)
 - [Microsoft - MagicWeb: NOBELIUM’s post-compromise trick to authenticate as anyone](https://www.microsoft.com/security/blog/2022/08/24/magicweb-nobeliums-post-compromise-trick-to-authenticate-as-anyone/)
 - [CSO - Google Cloud blocks largest HTTPS DDoS attack ever](https://www.csoonline.com/article/3670748/google-cloud-blocks-largest-https-ddos-attack-ever.html)
@@ -2388,6 +2417,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Praneet Rohida - The production ratio and the difference between information, knowledge, and wisdom](https://blog.praneet.dev/the-production-ratio)
 - [Gergely Orosz - Becoming a Full-Time Creator as a Software Engineer: Controversial Advice](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/)
 - [Seattle Times - For Gravity Payments CEO, social media was bullhorn and way to lure women](https://www.seattletimes.com/business/for-gravity-payments-ceo-social-media-was-bullhorn-and-way-to-lure-women/)
 - [Susan Cain - The power of introverts](https://www.ted.com/talks/susan_cain_the_power_of_introverts)

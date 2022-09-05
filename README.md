@@ -31,6 +31,70 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ### Architecture
+- [Scott Wlaschin - Designing with Capabilities](https://www.youtube.com/watch?v=fi1FsDW1QeY)
+- [Christoph Knauf - Architecture documentation as code with Structurizr and Asciidoctor. Part 1: Workflow and tooling](https://blog.codecentric.de/en/2022/08/architecture-documentation-docs-as-code-structurizr-asciidoctor/)
+- [Iain Cambridge - GDPR For Developers By Example](https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example)
+- [Alberto Brandolini - Collaborative Process Modelling with EventStorming](https://medium.com/@ziobrando/collaborative-process-modelling-with-eventstorming-17ed363650c0)
+- [Happy Path Programming Podcast - The End of Ivory Tower Architecture with Andrew Harmel-Law](https://anchor.fm/happypathprogramming/episodes/68-The-End-of-Ivory-Tower-Architecture-with-Andrew-Harmel-Law-e1nae6t)
+- [Peter Royal - Event Sourced Business Applications](https://www.youtube.com/watch?v=z2qMgCCbsBs)
+
+### DevOps
+- [Meadowrun - Kubernetes Was Never Designed for Batch Jobs](https://betterprogramming.pub/kubernetes-was-never-designed-for-batch-jobs-f59be376a338)
+- [How to manage multiple environments with Terraform](https://blog.gruntwork.io/how-to-manage-multiple-environments-with-terraform-32c7bc5d692)
+- [Jason Kulatunga - Running Cron in Docker](https://blog.thesparktree.com/cron-in-docker)
+
+### Testing
+- [Jakub Pilimon, Layla Porter - Write More Maintainable, Testable Code with Dependency Injection](https://tanzu.vmware.com/developer/blog/write-more-maintainable-testable-code-with-dependency-injection/)
+- [Marco Behler - Load Testing: An Unorthodox Guide](https://www.marcobehler.com/guides/load-testing)
+
+### AI
+- [Simon Willison - Stable Diffusion is a really big deal](https://simonwillison.net/2022/Aug/29/stable-diffusion)
+
+### Hardware
+- [The Guardian - Why Japan’s war on disks could prove to be another flop](https://www.theguardian.com/world/2022/sep/01/japan-digital-minister-declares-war-on-floppy-discs)
+
+### .NET
+- [Oskar Dudycz - Slim your aggregates with Event Sourcing!](https://event-driven.io/en/slim_your_entities_with_event_sourcing/?utm_source=architecture_weekly)
+- [Jon P. Smith - A .NET distributed cache with a ~25 nanosecond read time!](https://www.thereformedprogrammer.net/a-net-distributed-cache-with-a-25-nanosecond-read-time)
+- [Andrew Lock - Using CancellationTokens in ASP.NET Core minimal APIs](https://andrewlock.net/using-cancellationtokens-in-asp-net-core-minimal-apis/)
+- [Microsoft - Performance Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/performance_improvements_in_net_7/)
+
+### Swift
+- [Swift - Moving “The Swift Programming Language” book to open source](https://forums.swift.org/t/moving-the-swift-programming-language-book-to-open-source/59989)
+
+### Tools
+- [GitHub - Release Radar · August 2022 Edition](https://github.blog/2022-09-02-release-radar-aug-2022/)
+- [ASCIIFlow - A client-side only web based application for drawing ASCII diagrams](https://github.com/lewish/asciiflow)
+
+### WebAssembly
+- [Second State - Running JavaScript in WebAssembly with WasmEdge](https://www.secondstate.io/articles/run-javascript-in-webassembly-with-wasmedge/)
+
+### Coding Life
+- [Dylan Beattie - Plain Text](https://www.youtube.com/watch?v=gd5uJ7Nlvvo)
+- [Joe Dunleavy - Contributing to open source - taking the dive](https://blog.scottlogic.com/2022/08/26/contributing-to-open-source-taking-the-dive.html)
+- [Amir Rachum - How to pick a starter project that'll make someone quit](https://amir.rachum.com/blog/2022/08/07/starter-project/)
+
+### Industry
+- [Protocol - Cloudflare tries to ignore the world](https://www.protocol.com/newsletters/protocol-enterprise/cloudflare-kiwi-farms-microsoft-licensing)
+- [Cloudflare - The Mistake that Caused 1.1.1.3 to Block LGBTQIA+ Sites Today](https://blog.cloudflare.com/the-mistake-that-caused-1-1-1-3-to-block-lgbtqia-sites-today/)
+- [Cloudflare - Blocking Kiwifarms](https://blog.cloudflare.com/kiwifarms-blocked/)
+
+### Security
+- [AWSGoat - A Damn Vulnerable AWS Infrastructure](https://github.com/ine-labs/AWSGoat)
+- [Daniel Stenberg - A bug that was 23 years old or not](https://daniel.haxx.se/blog/2022/09/05/a-bug-that-was-23-years-old-or-not/)
+
+### Trivia
+- [Praneet Rohida - The production ratio and the difference between information, knowledge, and wisdom](https://blog.praneet.dev/the-production-ratio)
+
+---
+
+## [29th August 2022](per-week/2022-08-29.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+
+---
+
+### Architecture
 - [Jimmy Bogard - Domain-Driven Refactoring](https://www.youtube.com/watch?v=gxgKgMvPH9I)
 - [Derek Comartin - Data Partitioning! Don't let growth SLOW you down!](https://www.youtube.com/watch?v=_zRXJuW7W98)
 - [LaunchDarkly - Evolving Global Flag Delivery - Flag Delivery at Edge](https://launchdarkly.com/blog/flag-delivery-at-edge/)
