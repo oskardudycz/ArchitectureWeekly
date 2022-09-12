@@ -1450,7 +1450,6 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [MDN - HTTP conditional requests](https://developer.mozilla.org/en-US/docs/Web/HTTP/Conditional_requests)
 - [Mathias Verraes - Eventsourcing Patterns: Multi-temporal Events](https://verraes.net/2022/03/multi-temporal-events/)
 - [Kevin Swiber - What is API Observability?](https://hackernoon.com/what-is-api-observability)
-- [Andrew Harmel-Law - Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
 - [Hugo Rocha - Solving Concurrency in Event-Driven Microservices](https://itnext.io/solving-concurrency-in-event-driven-microservices-79bbc13b597c)
 - [CNCF - The maintainer's toolkit: Must-know resources for CNCF projects](https://www.cncf.io/blog/2022/03/10/the-maintainers-toolkit-must-know-resources-for-cncf-projects/)
 
