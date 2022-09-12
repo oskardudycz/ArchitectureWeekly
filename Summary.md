@@ -56,6 +56,13 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Stefan Tilkov - "Good Enough" Architecture](https://www.youtube.com/watch?v=PzEox3szeRc)
+- [Derek Comartin - Does CAP Theorem apply to Microservices?](https://codeopinion.com/does-cap-theorem-apply-to-microservices/)
+- [Poul-Henning Kamp - You're Doing It Wrong. Think you've mastered the art of server performance? Think again.](https://queue.acm.org/detail.cfm?id=1814327)
+- [Spotify - Software Visualization — Challenge, Accepted](https://engineering.atspotify.com/2022/07/software-visualization-challenge-accepted/)
+- [Joel Parker Henderson - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
+- [Kevlin Henney - Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks](https://www.youtube.com/watch?v=FyCYva9DhsI)
+- [Anton Stöckl - Event Sourcing explained](https://medium.com/@TonyBologni/event-sourcing-explained-b19ccaa93ae4)
 - [Scott Wlaschin - Designing with Capabilities](https://www.youtube.com/watch?v=fi1FsDW1QeY)
 - [Christoph Knauf - Architecture documentation as code with Structurizr and Asciidoctor. Part 1: Workflow and tooling](https://blog.codecentric.de/en/2022/08/architecture-documentation-docs-as-code-structurizr-asciidoctor/)
 - [Iain Cambridge - GDPR For Developers By Example](https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example)
@@ -192,7 +199,6 @@
 - [MDN - HTTP conditional requests](https://developer.mozilla.org/en-US/docs/Web/HTTP/Conditional_requests)
 - [Mathias Verraes - Eventsourcing Patterns: Multi-temporal Events](https://verraes.net/2022/03/multi-temporal-events/)
 - [Kevin Swiber - What is API Observability?](https://hackernoon.com/what-is-api-observability)
-- [Andrew Harmel-Law - Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
 - [Hugo Rocha - Solving Concurrency in Event-Driven Microservices](https://itnext.io/solving-concurrency-in-event-driven-microservices-79bbc13b597c)
 - [CNCF - The maintainer's toolkit: Must-know resources for CNCF projects](https://www.cncf.io/blog/2022/03/10/the-maintainers-toolkit-must-know-resources-for-cncf-projects/)
 - [The 6 Figure Developer Podcast - Fundamentals of Software Architecture with Neal Ford](https://6figuredev.com/podcast/fundamentals-of-software-architecture-with-neal-ford)
@@ -512,6 +518,9 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Eliran Wolf - How we cut data costs by more than 60% by leveraging a multi-cloud strategy](https://medium.com/dcode-consulting/how-we-cut-data-costs-by-more-than-90-by-leveraging-a-multi-cloud-strategy-6962287edcc)
+- [Ryan Rodemoyer - What I Wish Someone Would Have Told Me About Using Rabbitmq Before It Was Too Late](https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/)
+
 - [Shiju Varghese - Building Distributed Event Streaming Systems In Go With NATS JetStream](https://shijuvar.medium.com/building-distributed-event-streaming-systems-in-go-with-nats-jetstream-3938e6dc7a13)
 - [Instagram Engineering - Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
 - [Universally Unique Lexicographically Sortable Identifier - The canonical spec for ulid](https://github.com/ulid/spec)
@@ -697,6 +706,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Sumo Logic - OpenTelemetry Workshop](https://github.com/SumoLogic-Labs/opentelemetry-workshop)
 - [Meadowrun - Kubernetes Was Never Designed for Batch Jobs](https://betterprogramming.pub/kubernetes-was-never-designed-for-batch-jobs-f59be376a338)
 - [How to manage multiple environments with Terraform](https://blog.gruntwork.io/how-to-manage-multiple-environments-with-terraform-32c7bc5d692)
 - [Jason Kulatunga - Running Cron in Docker](https://blog.thesparktree.com/cron-in-docker)
@@ -890,6 +900,7 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [NBomber - Enterprise Examples](https://github.com/PragmaticFlow/NBomber.Enterprise.Examples)
 - [Jakub Pilimon, Layla Porter - Write More Maintainable, Testable Code with Dependency Injection](https://tanzu.vmware.com/developer/blog/write-more-maintainable-testable-code-with-dependency-injection/)
 - [Marco Behler - Load Testing: An Unorthodox Guide](https://www.marcobehler.com/guides/load-testing)
 - [James Shore - Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/blog/2018/testing-without-mocks)
@@ -958,6 +969,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Ben Johnson - How the SQLite Virtual Machine Works](https://fly.io/blog/sqlite-virtual-machine/)
 - [Kevin Sookocheff  - Write-ahead logging and the ARIES crash recovery algorithm. How do databases recover from failure?](https://sookocheff.com/post/databases/write-ahead-logging/)
 - [Andrzej Ludwikowski - Reactive Event Sourcing benchmarks, part 1: PostgreSQL](https://softwaremill.com/reactive-event-sourcing-benchmarks-part-1-postgresql/)
 - [LiteFS - FUSE-based file system for replicating SQLite databases across a cluster of machines](https://github.com/superfly/litefs)
@@ -1091,6 +1103,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Willem Meints - How to deploy Airflow with Kubernetes and GIT](https://fizzylogic.nl/2022/09/08/deploy-airflow-with-kubernetes-and-git)
 - [Simon Willison - Stable Diffusion is a really big deal](https://simonwillison.net/2022/Aug/29/stable-diffusion)
 - [João Pedro - Machine Learning Streaming with Kafka, Debezium, and BentoML](https://towardsdatascience.com/machine-learning-streaming-with-kafka-debezium-and-bentoml-c5f3996afe8f)
 - [The Register - GitHub Copilot may be perfect for cheating CompSci programming exercises](https://www.theregister.com/2022/08/19/copilot_github_students/)
@@ -1155,6 +1168,7 @@
 - [Brett Rowberry - An F# Dev's Perspective on Clojure](https://brettrowberry.hashnode.dev/an-f-devs-perspective-on-clojure)
 
 ## Functional Programming
+- [Alexis King - Hackett: a metaprogrammable Haskell](https://www.youtube.com/watch?app=desktop&v=5QQdI3P7MdY)
 - [John De Goes - What Functional Programming Can Learn From Object-Oriented Programming](https://www.youtube.com/watch?v=9hAcW2oMl6M)
 - [Cassidy Williams - Functional Programming 101](https://github.com/readme/guides/functional-programming-basics)
 - [CaSE Podcast - Eric Normand on Functional Thinking](https://www.case-podcast.org/45-eric-normand-on-functional-thinking)
@@ -1173,6 +1187,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - Event Versioning with Marten](https://event-driven.io/en/event_versioning_with_marten/?utm_source=architecture_weekly)
+- [Jeremy D. Miller - Developing Error Handling Strategies for Asynchronous Messaging](https://jeremydmiller.com/2022/09/06/developing-error-handling-strategies-for-asynchronous-messaging/)
+- [Oleg Kyrylchuk - Twelve C# 11 Features](https://blog.okyrylchuk.dev/twelve-csharp-11-features)
+- [Khalid Abuhakmeh - Playwright tests with XUnit](https://gist.github.com/khalidabuhakmeh/cfc0e3ba6b311b8a9ca3154fd5086a6a)
+- [David Fowler - A sample plugin model for ASP.NET Core applications](https://github.com/davidfowl/WebApplicationPlugins)
 - [Oskar Dudycz - Slim your aggregates with Event Sourcing!](https://event-driven.io/en/slim_your_entities_with_event_sourcing/?utm_source=architecture_weekly)
 - [Jon P. Smith - A .NET distributed cache with a ~25 nanosecond read time!](https://www.thereformedprogrammer.net/a-net-distributed-cache-with-a-25-nanosecond-read-time)
 - [Andrew Lock - Using CancellationTokens in ASP.NET Core minimal APIs](https://andrewlock.net/using-cancellationtokens-in-asp-net-core-minimal-apis/)
@@ -1612,6 +1631,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Gunnar Morling - The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
+- [MTDV - Every Programmer Should Know - A collection of (mostly) technical things every software developer should know about](https://github.com/mtdvio/every-programmer-should-know)
 - [Dylan Beattie - Plain Text](https://www.youtube.com/watch?v=gd5uJ7Nlvvo)
 - [Joe Dunleavy - Contributing to open source - taking the dive](https://blog.scottlogic.com/2022/08/26/contributing-to-open-source-taking-the-dive.html)
 - [Amir Rachum - How to pick a starter project that'll make someone quit](https://amir.rachum.com/blog/2022/08/07/starter-project/)
@@ -1937,6 +1958,8 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## NodeJS
+- [S(n) - Mailing - Build, test, send emails with React](https://github.com/sofn-xyz/mailing)
+- [ESLint - ESLint's new config system, Part 1: Background](https://eslint.org/blog/2022/08/new-config-system-part-1/)
 - [Zod - TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)
 - [Oskar Dudycz - Straightforward Event Sourcing with TypeScript and NodeJS](https://event-driven.io/en/type_script_node_Js_event_sourcing/)
 - [Software Engineering Daily - Remix with Ryan Florence](https://softwareengineeringdaily.com/2022/07/22/remix-with-ryan-florence/)
@@ -2020,6 +2043,7 @@
 - [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
 
 ## Rust
+- [Async Raft - An implementation of the Raft distributed consensus protocol using the Tokio framework](https://github.com/async-raft/async-raft)
 - [Dhghomon - Rust for Fsharpers and F# for Rustaceans](https://github.com/Dhghomon/rust-fsharp)
 - [Aleksey Kladov - Almost Rules](https://matklad.github.io/2022/07/10/almost-rules.html)
 - [SourceGear Rust - Rust extension for Visual Studio](https://github.com/sourcegear/rust-vs-extension)
@@ -2056,6 +2080,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Lightbend - Why We Are Changing the License for Akka](https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka)
+- [The Register - Open source biz sick of FOSS community exploitation overhauls software rights](https://www.theregister.com/2022/09/08/open_source_biz_sick_of/)
+- [Heroku - Heroku’s Next Chapter](https://blog.heroku.com/next-chapter)
 - [Protocol - Cloudflare tries to ignore the world](https://www.protocol.com/newsletters/protocol-enterprise/cloudflare-kiwi-farms-microsoft-licensing)
 - [Cloudflare - The Mistake that Caused 1.1.1.3 to Block LGBTQIA+ Sites Today](https://blog.cloudflare.com/the-mistake-that-caused-1-1-1-3-to-block-lgbtqia-sites-today/)
 - [Cloudflare - Blocking Kiwifarms](https://blog.cloudflare.com/kiwifarms-blocked/)
@@ -2302,6 +2329,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Visual Studio Magazine - Electron-Based App Vulnerabilities Hit VS Code, Microsoft Teams](https://visualstudiomagazine.com/articles/2022/08/19/electron-bugs.aspx)
 - [AWSGoat - A Damn Vulnerable AWS Infrastructure](https://github.com/ine-labs/AWSGoat)
 - [Daniel Stenberg - A bug that was 23 years old or not](https://daniel.haxx.se/blog/2022/09/05/a-bug-that-was-23-years-old-or-not/)
 - [CNN - Ex-Twitter exec blows the whistle, alleging reckless and negligent cybersecurity policies](https://edition.cnn.com/2022/08/23/tech/twitter-whistleblower-peiter-zatko-security/index.html)
@@ -2417,6 +2445,8 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Alex Soojung-Kim Pang - Winston Churchill on “painting as a pastime”](https://www.strategy.rest/?p=425)
+- [MyOwnClone - Quake 1 port to Apple Watch](https://www.youtube.com/watch?v=cPC2o262TfQ)
 - [Praneet Rohida - The production ratio and the difference between information, knowledge, and wisdom](https://blog.praneet.dev/the-production-ratio)
 - [Gergely Orosz - Becoming a Full-Time Creator as a Software Engineer: Controversial Advice](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/)
 - [Seattle Times - For Gravity Payments CEO, social media was bullhorn and way to lure women](https://www.seattletimes.com/business/for-gravity-payments-ceo-social-media-was-bullhorn-and-way-to-lure-women/)

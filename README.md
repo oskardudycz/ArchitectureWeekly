@@ -24,7 +24,73 @@ There are two rules:
 
 ---
 
-## [29th August 2022](per-week/2022-08-29.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+## [12th August 2022](per-week/2022-09-12.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+
+---
+
+### Architecture
+- [Stefan Tilkov - "Good Enough" Architecture](https://www.youtube.com/watch?v=PzEox3szeRc)
+- [Derek Comartin - Does CAP Theorem apply to Microservices?](https://codeopinion.com/does-cap-theorem-apply-to-microservices/)
+- [Poul-Henning Kamp - You're Doing It Wrong. Think you've mastered the art of server performance? Think again.](https://queue.acm.org/detail.cfm?id=1814327)
+- [Spotify - Software Visualization — Challenge, Accepted](https://engineering.atspotify.com/2022/07/software-visualization-challenge-accepted/)
+- [Joel Parker Henderson - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
+- [Kevlin Henney - Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks](https://www.youtube.com/watch?v=FyCYva9DhsI)
+- [Anton Stöckl - Event Sourcing explained](https://medium.com/@TonyBologni/event-sourcing-explained-b19ccaa93ae4)
+
+### Distributed Systems
+- [Eliran Wolf - How we cut data costs by more than 60% by leveraging a multi-cloud strategy](https://medium.com/dcode-consulting/how-we-cut-data-costs-by-more-than-90-by-leveraging-a-multi-cloud-strategy-6962287edcc)
+- [Ryan Rodemoyer - What I Wish Someone Would Have Told Me About Using Rabbitmq Before It Was Too Late](https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/)
+
+### DevOps
+- [Sumo Logic - OpenTelemetry Workshop](https://github.com/SumoLogic-Labs/opentelemetry-workshop)
+
+### Database
+- [Ben Johnson - How the SQLite Virtual Machine Works](https://fly.io/blog/sqlite-virtual-machine/)
+
+### Testing
+- [NBomber - Enterprise Examples](https://github.com/PragmaticFlow/NBomber.Enterprise.Examples)
+
+### AI
+- [Willem Meints - How to deploy Airflow with Kubernetes and GIT](https://fizzylogic.nl/2022/09/08/deploy-airflow-with-kubernetes-and-git)
+
+### Functional Programming
+- [Alexis King - Hackett: a metaprogrammable Haskell](https://www.youtube.com/watch?app=desktop&v=5QQdI3P7MdY)
+
+### .NET
+- [Oskar Dudycz - Event Versioning with Marten](https://event-driven.io/en/event_versioning_with_marten/?utm_source=architecture_weekly)
+- [Jeremy D. Miller - Developing Error Handling Strategies for Asynchronous Messaging](https://jeremydmiller.com/2022/09/06/developing-error-handling-strategies-for-asynchronous-messaging/)
+- [Oleg Kyrylchuk - Twelve C# 11 Features](https://blog.okyrylchuk.dev/twelve-csharp-11-features)
+- [Khalid Abuhakmeh - Playwright tests with XUnit](https://gist.github.com/khalidabuhakmeh/cfc0e3ba6b311b8a9ca3154fd5086a6a)
+- [David Fowler - A sample plugin model for ASP.NET Core applications](https://github.com/davidfowl/WebApplicationPlugins)
+
+### NodeJS
+- [S(n) - Mailing - Build, test, send emails with React](https://github.com/sofn-xyz/mailing)
+- [ESLint - ESLint's new config system, Part 1: Background](https://eslint.org/blog/2022/08/new-config-system-part-1/)
+
+### Rust
+- [Async Raft - An implementation of the Raft distributed consensus protocol using the Tokio framework](https://github.com/async-raft/async-raft)
+
+### Coding Life
+- [Gunnar Morling - The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
+- [MTDV - Every Programmer Should Know - A collection of (mostly) technical things every software developer should know about](https://github.com/mtdvio/every-programmer-should-know)
+
+### Industry
+- [Lightbend - Why We Are Changing the License for Akka](https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka)
+- [The Register - Open source biz sick of FOSS community exploitation overhauls software rights](https://www.theregister.com/2022/09/08/open_source_biz_sick_of/)
+- [Heroku - Heroku’s Next Chapter](https://blog.heroku.com/next-chapter)
+
+### Security
+- [Visual Studio Magazine - Electron-Based App Vulnerabilities Hit VS Code, Microsoft Teams](https://visualstudiomagazine.com/articles/2022/08/19/electron-bugs.aspx)
+
+### Trivia
+- [Alex Soojung-Kim Pang - Winston Churchill on “painting as a pastime”](https://www.strategy.rest/?p=425)
+- [MyOwnClone - Quake 1 port to Apple Watch](https://www.youtube.com/watch?v=cPC2o262TfQ)
+
+---
+
+## [5th September 2022](per-week/2022-09-05.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
