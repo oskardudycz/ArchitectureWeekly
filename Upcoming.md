@@ -1,64 +1,9 @@
 # Upcoming Links
 
-## 19th September 2022
+## 26th September 2022
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
 ---
 
 ### Architecture
-- [Neal Ford - Architecture. The Hard Parts](https://www.youtube.com/watch?v=v55IV8IhwKM)
-- [Gergely Orosz - Companies Using RFCs or Design Docs and Examples of These](https://blog.pragmaticengineer.com/rfcs-and-design-docs/)
-- [Orta Therox - Why we added an RFC process to Artsy](https://artsy.github.io/blog/2019/04/11/on-an-rfcs-process/)
-- [Mauro Servienti - Autonomy probably doesn't mean what you think it means](https://milestone.topics.it/2022/09/05/autonomy.html)
-- [Gregor Hohpe - The Architect Elevator: Connecting Penthouse and Engine](https://www.youtube.com/watch?v=Zq2VcRZmz78)
-- [Nathan Peck - Microservice Principles: Smart Endpoints and Dumb Pipes](https://medium.com/@nathankpeck/microservice-principles-smart-endpoints-and-dumb-pipes-5691d410700f)
-- [Kristopher Sandoval - What Does ‘Smart Endpoints and Dumb Pipes’ Mean?](https://nordicapis.com/what-does-smart-endpoints-and-dumb-pipes-mean/)
-- [Susanne Kaiser - Architecture for Flow with Wardley Mapping, DDD, and Team Topologies](https://www.youtube.com/watch?v=qKLnlaWKkb4)
-
-### Databases
-- [SurrealDB - A scalable, distributed, collaborative, document-graph database, for the realtime web](https://surrealdb.com)
-
-### DevOps
-- [Zalando - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes](https://github.com/zalando/postgres-operator)
-- [CrunchyData - Crunchy Postgres Operator for Kubernetes](https://www.crunchydata.com/products/crunchy-postgresql-for-kubernetes)
-- [Michael Staib - GraphQL Observability with Elastic and OpenTelemetry](https://www.youtube.com/watch?v=Retjj8_O9JE)
-
-### Testing
-- [Mikael Vesavuori - TripleCheck CLI — The easiest and fastest way to do contract testing](https://github.com/mikaelvesavuori/triplecheck-cli)
-
-### Tools
-- [Structurizr DSL - Allows you to create multiple diagrams based upon the C4 model, in multiple output formats, from a single DSL source file](https://structurizr.com/dsl)
-- [Context Mapper - A Modeling Framework for Strategic Domain-driven Design](https://contextmapper.org/)
-- [Asciidoctor - A fast text processor & publishing toolchain for converting AsciiDoc to HTML5, DocBook & more](https://asciidoctor.org/)
-
-### Go
-- [Google Cloud Blog - Why I love Go](https://cloud.google.com/blog/products/application-modernization/why-david-yach-loves-go)
-
-### JVM
-- [Gradle - A Better Way to Use Gradle With Github Actions](https://blog.gradle.org/gh-actions)
-
-### .NET
-- [Szymon Kulec - A Gentle Introduction To Low-Level Concurrency In .NET](https://www.youtube.com/watch?v=dtUrG--oMLo)
-- [Bryan Hogan - .NET 7 Custom Runtime for AWS Lambda](https://nodogmablog.bryanhogan.net/2022/08/dotnet-7-custom-runtime-for-aws-lambda/)
-- [Dariusz Woźniak - List of Automated Testing (TDD/BDD/ATDD/SBE) Tools and Frameworks for .NET](https://github.com/dariusz-wozniak/List-of-Testing-Tools-and-Frameworks-for-.NET)
-- [Mark Seemann - ASP.NET validation revisited](https://blog.ploeh.dk/2022/08/15/aspnet-validation-revisited/)
-
-### Rust
-- [Amos Wenger - Rust modules vs files](https://fasterthanli.me/articles/rust-modules-vs-files)
-
-### Coding Life
-- [Oskar Dudycz - It doesn't have to be toxic at work](https://event-driven.io/en/it_doesnt_have_to_be_toxic_at_work/)
-- [Emily Nakashima - Power Bends Light](https://honkathon.com/2019-08-18-power-bends-light/)
-- [James Clear - How to be More Productive and Eliminate Time Wasting Activities by Using the “Eisenhower Box”](https://jamesclear.com/eisenhower-box)
-
-### Management
-- [Alfonso Franco - Team topology: 6 “first principles” for product leaders](https://uxdesign.cc/team-topology-6-first-principles-for-product-leaders-9b0dd55408ce)
-
-### Industry
-- [PCMag - 'No One Is Profitable': GPU Mining Faces Dark Days After Ethereum Merge](https://www.pcmag.com/news/no-one-is-profitable-gpu-mining-faces-dark-days-after-ethereum-merge)
-
-### Security
-- [TechCrunch - Uber investigating cybersecurity incident after hacker breaches its internal network](https://techcrunch.com/2022/09/16/uber-internal-network-hack/)
-- [Cybernews - Revolut breach: personal and banking data exposed](https://cybernews.com/news/revolut-banking-data-exposed/)
-- [The Verge - A utility company locked thousands of customers out of their smart thermostats in Colorado](https://www.theverge.com/2022/9/5/23337864/xcel-locked-out-customers-smart-thermostats-colorado-heatwave)

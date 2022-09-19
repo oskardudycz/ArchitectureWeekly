@@ -56,6 +56,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Neal Ford - Architecture. The Hard Parts](https://www.youtube.com/watch?v=v55IV8IhwKM)
+- [Gergely Orosz - Companies Using RFCs or Design Docs and Examples of These](https://blog.pragmaticengineer.com/rfcs-and-design-docs/)
+- [Orta Therox - Why we added an RFC process to Artsy](https://artsy.github.io/blog/2019/04/11/on-an-rfcs-process/)
+- [Mauro Servienti - Autonomy probably doesn't mean what you think it means](https://milestone.topics.it/2022/09/05/autonomy.html)
+- [Gregor Hohpe - The Architect Elevator: Connecting Penthouse and Engine](https://www.youtube.com/watch?v=Zq2VcRZmz78)
+- [Nathan Peck - Microservice Principles: Smart Endpoints and Dumb Pipes](https://medium.com/@nathankpeck/microservice-principles-smart-endpoints-and-dumb-pipes-5691d410700f)
+- [Kristopher Sandoval - What Does ‘Smart Endpoints and Dumb Pipes’ Mean?](https://nordicapis.com/what-does-smart-endpoints-and-dumb-pipes-mean/)
+- [Susanne Kaiser - Architecture for Flow with Wardley Mapping, DDD, and Team Topologies](https://www.youtube.com/watch?v=qKLnlaWKkb4)
 - [Stefan Tilkov - "Good Enough" Architecture](https://www.youtube.com/watch?v=PzEox3szeRc)
 - [Derek Comartin - Does CAP Theorem apply to Microservices?](https://codeopinion.com/does-cap-theorem-apply-to-microservices/)
 - [Poul-Henning Kamp - You're Doing It Wrong. Think you've mastered the art of server performance? Think again.](https://queue.acm.org/detail.cfm?id=1814327)
@@ -706,6 +714,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Zalando - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes](https://github.com/zalando/postgres-operator)
+- [CrunchyData - Crunchy Postgres Operator for Kubernetes](https://www.crunchydata.com/products/crunchy-postgresql-for-kubernetes)
+- [Michael Staib - GraphQL Observability with Elastic and OpenTelemetry](https://www.youtube.com/watch?v=Retjj8_O9JE)
 - [Sumo Logic - OpenTelemetry Workshop](https://github.com/SumoLogic-Labs/opentelemetry-workshop)
 - [Meadowrun - Kubernetes Was Never Designed for Batch Jobs](https://betterprogramming.pub/kubernetes-was-never-designed-for-batch-jobs-f59be376a338)
 - [How to manage multiple environments with Terraform](https://blog.gruntwork.io/how-to-manage-multiple-environments-with-terraform-32c7bc5d692)
@@ -900,6 +911,7 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Mikael Vesavuori - TripleCheck CLI — The easiest and fastest way to do contract testing](https://github.com/mikaelvesavuori/triplecheck-cli)
 - [NBomber - Enterprise Examples](https://github.com/PragmaticFlow/NBomber.Enterprise.Examples)
 - [Jakub Pilimon, Layla Porter - Write More Maintainable, Testable Code with Dependency Injection](https://tanzu.vmware.com/developer/blog/write-more-maintainable-testable-code-with-dependency-injection/)
 - [Marco Behler - Load Testing: An Unorthodox Guide](https://www.marcobehler.com/guides/load-testing)
@@ -969,6 +981,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [SurrealDB - A scalable, distributed, collaborative, document-graph database, for the realtime web](https://surrealdb.com)
 - [Ben Johnson - How the SQLite Virtual Machine Works](https://fly.io/blog/sqlite-virtual-machine/)
 - [Kevin Sookocheff  - Write-ahead logging and the ARIES crash recovery algorithm. How do databases recover from failure?](https://sookocheff.com/post/databases/write-ahead-logging/)
 - [Andrzej Ludwikowski - Reactive Event Sourcing benchmarks, part 1: PostgreSQL](https://softwaremill.com/reactive-event-sourcing-benchmarks-part-1-postgresql/)
@@ -1187,6 +1200,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Szymon Kulec - A Gentle Introduction To Low-Level Concurrency In .NET](https://www.youtube.com/watch?v=dtUrG--oMLo)
+- [Bryan Hogan - .NET 7 Custom Runtime for AWS Lambda](https://nodogmablog.bryanhogan.net/2022/08/dotnet-7-custom-runtime-for-aws-lambda/)
+- [Dariusz Woźniak - List of Automated Testing (TDD/BDD/ATDD/SBE) Tools and Frameworks for .NET](https://github.com/dariusz-wozniak/List-of-Testing-Tools-and-Frameworks-for-.NET)
+- [Mark Seemann - ASP.NET validation revisited](https://blog.ploeh.dk/2022/08/15/aspnet-validation-revisited/)
 - [Oskar Dudycz - Event Versioning with Marten](https://event-driven.io/en/event_versioning_with_marten/?utm_source=architecture_weekly)
 - [Jeremy D. Miller - Developing Error Handling Strategies for Asynchronous Messaging](https://jeremydmiller.com/2022/09/06/developing-error-handling-strategies-for-asynchronous-messaging/)
 - [Oleg Kyrylchuk - Twelve C# 11 Features](https://blog.okyrylchuk.dev/twelve-csharp-11-features)
@@ -1631,6 +1648,9 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Oskar Dudycz - It doesn't have to be toxic at work](https://event-driven.io/en/it_doesnt_have_to_be_toxic_at_work/)
+- [Emily Nakashima - Power Bends Light](https://honkathon.com/2019-08-18-power-bends-light/)
+- [James Clear - How to be More Productive and Eliminate Time Wasting Activities by Using the “Eisenhower Box”](https://jamesclear.com/eisenhower-box)
 - [Gunnar Morling - The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 - [MTDV - Every Programmer Should Know - A collection of (mostly) technical things every software developer should know about](https://github.com/mtdvio/every-programmer-should-know)
 - [Dylan Beattie - Plain Text](https://www.youtube.com/watch?v=gd5uJ7Nlvvo)
@@ -1802,6 +1822,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Alfonso Franco - Team topology: 6 “first principles” for product leaders](https://uxdesign.cc/team-topology-6-first-principles-for-product-leaders-9b0dd55408ce)
 - [Emily Nakashima - An Engineering Manager's Bill of Rights (and Responsibilities)](https://www.honeycomb.io/blog/an-engineering-managers-bill-of-rights-and-responsibilities/)
 - [Continuous Delivery - Agile & Scrum Don't Work | Allen Holub In The Engineering Room](https://www.youtube.com/watch?v=hxXmTnb3mFU)
 - [Scrum Sessions Podcast - Episode 01 with special guest Dr. Jeff Sutherland](https://www.youtube.com/watch?v=O7jMczM-4k8)
@@ -1914,6 +1935,7 @@
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
 ## JVM
+- [Gradle - A Better Way to Use Gradle With Github Actions](https://blog.gradle.org/gh-actions)
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
 ## JavaScript
@@ -1998,6 +2020,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Google Cloud Blog - Why I love Go](https://cloud.google.com/blog/products/application-modernization/why-david-yach-loves-go)
 - [Sqlc - Compile SQL to type-safe code](https://sqlc.dev/)
 - [Go Blog - Go 1.19 is released!](https://go.dev/blog/go1.19)
 - [Karan Pratap Singh - Go Course](https://github.com/karanpratapsingh/go-course)
@@ -2043,6 +2066,7 @@
 - [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
 
 ## Rust
+- [Amos Wenger - Rust modules vs files](https://fasterthanli.me/articles/rust-modules-vs-files)
 - [Async Raft - An implementation of the Raft distributed consensus protocol using the Tokio framework](https://github.com/async-raft/async-raft)
 - [Dhghomon - Rust for Fsharpers and F# for Rustaceans](https://github.com/Dhghomon/rust-fsharp)
 - [Aleksey Kladov - Almost Rules](https://matklad.github.io/2022/07/10/almost-rules.html)
@@ -2080,6 +2104,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [PCMag - 'No One Is Profitable': GPU Mining Faces Dark Days After Ethereum Merge](https://www.pcmag.com/news/no-one-is-profitable-gpu-mining-faces-dark-days-after-ethereum-merge)
 - [Lightbend - Why We Are Changing the License for Akka](https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka)
 - [The Register - Open source biz sick of FOSS community exploitation overhauls software rights](https://www.theregister.com/2022/09/08/open_source_biz_sick_of/)
 - [Heroku - Heroku’s Next Chapter](https://blog.heroku.com/next-chapter)
@@ -2263,6 +2288,9 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Structurizr DSL - Allows you to create multiple diagrams based upon the C4 model, in multiple output formats, from a single DSL source file](https://structurizr.com/dsl)
+- [Context Mapper - A Modeling Framework for Strategic Domain-driven Design](https://contextmapper.org/)
+- [Asciidoctor - A fast text processor & publishing toolchain for converting AsciiDoc to HTML5, DocBook & more](https://asciidoctor.org/)
 - [GitHub - Release Radar · August 2022 Edition](https://github.blog/2022-09-02-release-radar-aug-2022/)
 - [ASCIIFlow - A client-side only web based application for drawing ASCII diagrams](https://github.com/lewish/asciiflow)
 - [Visual Studio Code - The Visual Studio Code Server](https://code.visualstudio.com/blogs/2022/07/07/vscode-server)
@@ -2329,6 +2357,9 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [TechCrunch - Uber investigating cybersecurity incident after hacker breaches its internal network](https://techcrunch.com/2022/09/16/uber-internal-network-hack/)
+- [Cybernews - Revolut breach: personal and banking data exposed](https://cybernews.com/news/revolut-banking-data-exposed/)
+- [The Verge - A utility company locked thousands of customers out of their smart thermostats in Colorado](https://www.theverge.com/2022/9/5/23337864/xcel-locked-out-customers-smart-thermostats-colorado-heatwave)
 - [Visual Studio Magazine - Electron-Based App Vulnerabilities Hit VS Code, Microsoft Teams](https://visualstudiomagazine.com/articles/2022/08/19/electron-bugs.aspx)
 - [AWSGoat - A Damn Vulnerable AWS Infrastructure](https://github.com/ine-labs/AWSGoat)
 - [Daniel Stenberg - A bug that was 23 years old or not](https://daniel.haxx.se/blog/2022/09/05/a-bug-that-was-23-years-old-or-not/)
