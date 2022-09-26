@@ -56,6 +56,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Nathan Schutta - Thinking Architecturally](https://www.youtube.com/watch?app=desktop&v=IGOV3-um0CQ)
+- [Edward Z. Yang - Bugs and Battleships](http://blog.ezyang.com/2011/12/bugs-and-battleships/)
+- [Adam Tal - First make the change easy, then make the easy change](https://www.adamtal.me/2019/05/first-make-the-change-easy-then-make-the-easy-change)
+- [Benek Lisefski - The pros and cons of Big Design Up Front — and what I do instead](https://www.freecodecamp.org/news/the-pros-and-cons-of-big-design-up-front-and-what-i-do-instead-375f00542dec/)
+- [Forrest Brazeal - The cloud billing risk that scares me most as a developer](https://cloudirregular.substack.com/p/the-cloud-billing-risk-that-scares)
+- [Stefan Tilkov: Why software architects fail – and what to do about it](https://www.youtube.com/watch?v=AkYDsiRVqno)
+- [Ralph Kimball - Design Tip #51: Latest Thinking On Time Dimension Tables](https://www.kimballgroup.com/2004/02/design-tip-51-latest-thinking-on-time-dimension-tables/)
+- [Changing How You Decide Which Problems To Solve](https://www.svpg.com/changing-how-you-decide-which-problems-to-solve/)
 - [Neal Ford - Architecture. The Hard Parts](https://www.youtube.com/watch?v=v55IV8IhwKM)
 - [Gergely Orosz - Companies Using RFCs or Design Docs and Examples of These](https://blog.pragmaticengineer.com/rfcs-and-design-docs/)
 - [Orta Therox - Why we added an RFC process to Artsy](https://artsy.github.io/blog/2019/04/11/on-an-rfcs-process/)
@@ -714,6 +722,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [NGINX - Cloud Native DevOps with Kubernetes, 2nd Edition](https://www.nginx.com/resources/library/cloud-native-devops-with-kubernetes/)
 - [Zalando - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes](https://github.com/zalando/postgres-operator)
 - [CrunchyData - Crunchy Postgres Operator for Kubernetes](https://www.crunchydata.com/products/crunchy-postgresql-for-kubernetes)
 - [Michael Staib - GraphQL Observability with Elastic and OpenTelemetry](https://www.youtube.com/watch?v=Retjj8_O9JE)
@@ -825,6 +834,8 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Myles Braithwaite - Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators)
+- [Nathaniel - Why your website should be under 14kB in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 - [Virtual Domain-Driven Design - Domain-Driven Frontend with Francesco Strazzullo](https://www.youtube.com/watch?v=gX_Nx1vqeBQ)
 - [Mauro Servienti - Designing a UI for Microservices](https://www.youtube.com/watch?v=AxWGAiIg7_0)
 - [Microsoft - Fluid Framework - Library for building distributed, real-time collaborative web applications](https://github.com/microsoft/FluidFramework)
@@ -911,6 +922,7 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Steve Freeman - Test Smell: Everything is mocked](http://www.mockobjects.com/2007/04/test-smell-everything-is-mocked.html)
 - [Mikael Vesavuori - TripleCheck CLI — The easiest and fastest way to do contract testing](https://github.com/mikaelvesavuori/triplecheck-cli)
 - [NBomber - Enterprise Examples](https://github.com/PragmaticFlow/NBomber.Enterprise.Examples)
 - [Jakub Pilimon, Layla Porter - Write More Maintainable, Testable Code with Dependency Injection](https://tanzu.vmware.com/developer/blog/write-more-maintainable-testable-code-with-dependency-injection/)
@@ -981,6 +993,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Robert Treat - Logical Replication...LIVE!](https://www.youtube.com/watch?v=YpsJu2mtBKA)
+- [Dmitry Narizhnykh - PostgreSQL Change Data Capture and Golang Sample Code](https://hackernoon.com/postgresql-change-data-capture-and-golang-sample-code)
+- [Andrzej Ludwikowski - Reactive Event Sourcing benchmarks, part 2: PostgreSQL](https://softwaremill.com/reactive-event-sourcing-benchmarks-part-2-postgresql/)
 - [SurrealDB - A scalable, distributed, collaborative, document-graph database, for the realtime web](https://surrealdb.com)
 - [Ben Johnson - How the SQLite Virtual Machine Works](https://fly.io/blog/sqlite-virtual-machine/)
 - [Kevin Sookocheff  - Write-ahead logging and the ARIES crash recovery algorithm. How do databases recover from failure?](https://sookocheff.com/post/databases/write-ahead-logging/)
@@ -1200,6 +1215,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Martin Thwaites - Distributed Tracing in .NET 6 using OpenTelemetry](https://www.youtube.com/watch?v=3JnMfJM9K0c)
+- [Michal Strehovský - PublishAotCompressed - Compresses the publish AOT compilation result](https://github.com/MichalStrehovsky/PublishAotCompressed)
+- [Microsoft - Announcing .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-rc-1/)
+- [dnSkpyEx - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy](https://github.com/dnSpyEx/dnSpy)
 - [Szymon Kulec - A Gentle Introduction To Low-Level Concurrency In .NET](https://www.youtube.com/watch?v=dtUrG--oMLo)
 - [Bryan Hogan - .NET 7 Custom Runtime for AWS Lambda](https://nodogmablog.bryanhogan.net/2022/08/dotnet-7-custom-runtime-for-aws-lambda/)
 - [Dariusz Woźniak - List of Automated Testing (TDD/BDD/ATDD/SBE) Tools and Frameworks for .NET](https://github.com/dariusz-wozniak/List-of-Testing-Tools-and-Frameworks-for-.NET)
@@ -1822,6 +1841,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Oskar Dudycz - On the importance of setting boundaries in team management](https://event-driven.io/en/on_the_importance_of_shaping_the_boundaries_in_team_management?utm_source=architecture_weekly)
+- [Ben Matthews - Does high velocity lead to burnout? That may be the wrong question to ask](https://stackoverflow.blog/2022/08/22/does-high-velocity-lead-to-burnout-that-may-be-the-wrong-question-to-ask/)
 - [Alfonso Franco - Team topology: 6 “first principles” for product leaders](https://uxdesign.cc/team-topology-6-first-principles-for-product-leaders-9b0dd55408ce)
 - [Emily Nakashima - An Engineering Manager's Bill of Rights (and Responsibilities)](https://www.honeycomb.io/blog/an-engineering-managers-bill-of-rights-and-responsibilities/)
 - [Continuous Delivery - Agile & Scrum Don't Work | Allen Holub In The Engineering Room](https://www.youtube.com/watch?v=hxXmTnb3mFU)
@@ -1870,6 +1891,7 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [Varun Cheedalla - Microsoft Kin—The Billion Dollar Smartphone Disaster](https://medium.com/techtalkers/microsoft-kin-the-billion-dollar-smartphone-disaster-982043c52f91)
 - [Jason Beres - Why DesignOps Matters: How to Improve Your Design Processes](https://www.infoq.com/articles/designops-improve-process)
 - [Phil Haack - Lessons From a Startup Pivot](https://haacked.com/archive/2022/07/25/lessons-from-the-pivot/)
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
@@ -1883,6 +1905,9 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [InfoQ - Java 19 Delivers Features for Projects Loom, Panama and Amber](https://www.infoq.com/news/2022/09/java19-released/)
+- [Deepu K Sasidharan - What the Heck Is Project Loom for Java?](https://foojay.io/today/what-the-heck-is-project-loom-for-java/)
+- [Roman Elizarov — Structured concurrency](https://www.youtube.com/watch?v=Mj5P47F6nJg)
 - [Java Platform Evolution](https://dev.java/evolution/)
 - [OpenJDK - Project Amber](https://openjdk.org/projects/amber/)
 - [Oskar Dudycz - Introduction to Event Sourcing in Java - Self-paced kit](https://github.com/oskardudycz/EventSourcing.JVM/tree/main/workshops/introduction-to-event-sourcing#introduction-to-event-sourcing-workshop)
@@ -1958,6 +1983,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [TypeScript Tips - A collection of useful tips that you wish you knew when you started using TypeScript](https://www.totaltypescript.com/tips)
 - [Matt Pocock - TypeScript tips and Tricks with Matt](https://www.youtube.com/watch?v=hBk4nV7q6-w)
 - [Microsoft - Announcing TypeScript 4.7](https://devblogs.microsoft.com/typescript/announcing-typescript-4-7)
 - [Drew Colthorp - Flavoring: Flexible Nominal Typing for TypeScript](https://spin.atomicobject.com/2018/01/15/typescript-flexible-nominal-typing/)
@@ -2104,6 +2130,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [InformationWeek - Growth Slows for Cloud Giants AWS, GCP, Microsoft Azure](https://www.informationweek.com/cloud/cloud-giants-see-growth-slow-in-q2-remain-optimistic-longterm)
+- [Business Insider - The 'last man' selling floppy-disks says airlines continue to make orders for the ancient storage technology](https://www.businessinsider.com/last-floppy-disk-seller-airlines-still-order-storage-2022-9)
+- [Slate - Could the Internet Archive Go Out Like Napster?](https://slate.com/technology/2022/09/internet-archive-national-emergency-library-lawsuit.html)
 - [PCMag - 'No One Is Profitable': GPU Mining Faces Dark Days After Ethereum Merge](https://www.pcmag.com/news/no-one-is-profitable-gpu-mining-faces-dark-days-after-ethereum-merge)
 - [Lightbend - Why We Are Changing the License for Akka](https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka)
 - [The Register - Open source biz sick of FOSS community exploitation overhauls software rights](https://www.theregister.com/2022/09/08/open_source_biz_sick_of/)
@@ -2277,6 +2306,7 @@
 - [Asahi Linux - A project and community with the goal of porting Linux to Apple Silicon Macs](https://asahilinux.org/about/)
 
 ## Windows
+- [Azure Academy - Windows 11 Tabs](https://www.youtube.com/watch?av=p3CYEJCunlE)
 - [Valentin-Gabriel Radu - ExplorerPatcher - This project aims to bring back a productive working environment on Windows 11](https://github.com/valinet/ExplorerPatcher)
 - [Robert C. Maehl - Why Not Win11 - Detection Script to help identify why your PC isn't Windows 11 ready](https://github.com/rcmaehl/WhyNotWin11)
 - [NTDEV - State of the Windows, part 2: Did Windows 10 slow down with each feature update?](https://ntdotdev.wordpress.com/2021/02/21/state-of-the-windows-part-2-did-windows-10-slow-down-with-each-feature-update/)
