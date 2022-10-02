@@ -56,6 +56,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Nick Tune - Domain-Driven Design and Team Topologies for Product-led Organizations](https://www.youtube.com/watch?v=5GLSBAYPSvo)
+- [Ian Cooper - Managing Asynchronous APIs](https://www.youtube.com/watch?v=OjBB7_jdm5w)
+- [Jon Skeet - Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
+- [Anton Stöckl - Hexagonal Architecture: Structuring a project and the influence of granularity](https://medium.com/@TonyBologni/hexagonal-architecture-structuring-a-project-and-the-influence-of-granularity-df4e0851ab5c)
+- [Vaughn Vernon - Modeling Uncertainty](https://www.youtube.com/watch?v=uhZx7Pim_tc)
+- [Yves Reynhout - Domain Modelling](https://www.youtube.com/watch?v=tjiuDQbkRFY)
 - [Nathan Schutta - Thinking Architecturally](https://www.youtube.com/watch?app=desktop&v=IGOV3-um0CQ)
 - [Edward Z. Yang - Bugs and Battleships](http://blog.ezyang.com/2011/12/bugs-and-battleships/)
 - [Adam Tal - First make the change easy, then make the easy change](https://www.adamtal.me/2019/05/first-make-the-change-easy-then-make-the-easy-change)
@@ -722,6 +728,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Mike Long - Does the GitOps Emperor Have No Clothes?](https://thenewstack.io/does-the-gitops-emperor-have-no-clothes/)
 - [NGINX - Cloud Native DevOps with Kubernetes, 2nd Edition](https://www.nginx.com/resources/library/cloud-native-devops-with-kubernetes/)
 - [Zalando - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes](https://github.com/zalando/postgres-operator)
 - [CrunchyData - Crunchy Postgres Operator for Kubernetes](https://www.crunchydata.com/products/crunchy-postgresql-for-kubernetes)
@@ -834,6 +841,8 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [HTTP Archive - Web Almanac 2022. Annual state of the web report](https://almanac.httparchive.org/en/2022/)
+- [P. Schmitt - Big Techday 22: Future of the Frontend: The End of Single-Page Applications?](https://www.youtube.com/watch?v=etbyN1zyY1M)
 - [Myles Braithwaite - Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators)
 - [Nathaniel - Why your website should be under 14kB in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 - [Virtual Domain-Driven Design - Domain-Driven Frontend with Francesco Strazzullo](https://www.youtube.com/watch?v=gX_Nx1vqeBQ)
@@ -993,6 +1002,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Kasey Speakman - Event Storage in Postgres, Multi-tenant](https://dev.to/kspeakman/event-storage-in-postgres-multi-tenant-25hc)
+- [Amit Kapila - Logical Replication Improvements In PostgreSQL-14](https://amitkapila16.blogspot.com/2021/09/logical-replication-improvements-in.html)
 - [Robert Treat - Logical Replication...LIVE!](https://www.youtube.com/watch?v=YpsJu2mtBKA)
 - [Dmitry Narizhnykh - PostgreSQL Change Data Capture and Golang Sample Code](https://hackernoon.com/postgresql-change-data-capture-and-golang-sample-code)
 - [Andrzej Ludwikowski - Reactive Event Sourcing benchmarks, part 2: PostgreSQL](https://softwaremill.com/reactive-event-sourcing-benchmarks-part-2-postgresql/)
@@ -1131,6 +1142,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Waxy - AI Data Laundering: How Academic and Nonprofit Researchers Shield Tech Companies from Accountability](https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/)
 - [Willem Meints - How to deploy Airflow with Kubernetes and GIT](https://fizzylogic.nl/2022/09/08/deploy-airflow-with-kubernetes-and-git)
 - [Simon Willison - Stable Diffusion is a really big deal](https://simonwillison.net/2022/Aug/29/stable-diffusion)
 - [João Pedro - Machine Learning Streaming with Kafka, Debezium, and BentoML](https://towardsdatascience.com/machine-learning-streaming-with-kafka-debezium-and-bentoml-c5f3996afe8f)
@@ -1159,6 +1171,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Bite-Sized Serverless - Serverless Messaging: Latency Compared](https://bitesizedserverless.com/bite/serverless-messaging-latency-compared/)
 - [AWS Compute Blog - Simplifying serverless best practices with AWS Lambda Powertools for TypeScript](https://aws.amazon.com/blogs/compute/simplifying-serverless-best-practices-with-aws-lambda-powertools-for-typescript/)
 - [Real World Crypto conference  - Shay Gueron - AWS key management service KMS](https://www.youtube.com/watch?v=WEJ451rmhk4)
 - [CDK Day - CDK Day May 2022 Recordings - Track 1](https://www.youtube.com/watch?v=_kY7o3De_9A)
@@ -1215,6 +1228,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Daniel Marbach - How we achieved 5X faster pipeline execution by removing closure allocations](https://particular.net/blog/pipeline-and-closure-allocations)
+- [Microsoft - Microsoft Teams’ Infrastructure and Azure Communication Services’ Journey to .NET 6](https://devblogs.microsoft.com/dotnet/microsoft-teams-infrastructure-and-azure-communication-services-journey-to-dotnet-6/)
+- [Irina Scurtu - Embracing gRPC in .NET](https://www.youtube.com/watch?v=9AGKH1VKuW0)
+- [Steve Lorello - Probabilistic Data Structures](https://github.com/slorello89/ProbabilisticDataStructures)
 - [Martin Thwaites - Distributed Tracing in .NET 6 using OpenTelemetry](https://www.youtube.com/watch?v=3JnMfJM9K0c)
 - [Michal Strehovský - PublishAotCompressed - Compresses the publish AOT compilation result](https://github.com/MichalStrehovsky/PublishAotCompressed)
 - [Microsoft - Announcing .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-rc-1/)
@@ -1667,6 +1684,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Oskar Dudycz - Dive a bit deeper, look a bit wider](https://event-driven.io/en/dive_a_bit_deeper_look_a_bit_wider/)
+- [Szymon Kulec - One software developer with two jobs](https://blog.scooletz.com/2022/09/26/two-jobs-one-fte-software-developer)
 - [Oskar Dudycz - It doesn't have to be toxic at work](https://event-driven.io/en/it_doesnt_have_to_be_toxic_at_work/)
 - [Emily Nakashima - Power Bends Light](https://honkathon.com/2019-08-18-power-bends-light/)
 - [James Clear - How to be More Productive and Eliminate Time Wasting Activities by Using the “Eisenhower Box”](https://jamesclear.com/eisenhower-box)
@@ -1841,6 +1860,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Charity Majors - The Hierarchy Is Bullshit (And Bad For Business)](https://charity.wtf/2022/09/23/the-hierarchy-is-bullshit-and-bad-for-business/)
+- [Google - Are you an Elite DevOps performer? Find out with the Four Keys Project](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)
 - [Oskar Dudycz - On the importance of setting boundaries in team management](https://event-driven.io/en/on_the_importance_of_shaping_the_boundaries_in_team_management?utm_source=architecture_weekly)
 - [Ben Matthews - Does high velocity lead to burnout? That may be the wrong question to ask](https://stackoverflow.blog/2022/08/22/does-high-velocity-lead-to-burnout-that-may-be-the-wrong-question-to-ask/)
 - [Alfonso Franco - Team topology: 6 “first principles” for product leaders](https://uxdesign.cc/team-topology-6-first-principles-for-product-leaders-9b0dd55408ce)
@@ -1905,6 +1926,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Auth0 - Micro Frontends for Java Microservices](https://auth0.com/blog/micro-frontends-for-java-microservices/)
 - [InfoQ - Java 19 Delivers Features for Projects Loom, Panama and Amber](https://www.infoq.com/news/2022/09/java19-released/)
 - [Deepu K Sasidharan - What the Heck Is Project Loom for Java?](https://foojay.io/today/what-the-heck-is-project-loom-for-java/)
 - [Roman Elizarov — Structured concurrency](https://www.youtube.com/watch?v=Mj5P47F6nJg)
@@ -1983,6 +2005,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Microsoft - Ten Years of TypeScript](https://devblogs.microsoft.com/typescript/ten-years-of-typescript/)
 - [TypeScript Tips - A collection of useful tips that you wish you knew when you started using TypeScript](https://www.totaltypescript.com/tips)
 - [Matt Pocock - TypeScript tips and Tricks with Matt](https://www.youtube.com/watch?v=hBk4nV7q6-w)
 - [Microsoft - Announcing TypeScript 4.7](https://devblogs.microsoft.com/typescript/announcing-typescript-4-7)
@@ -2130,6 +2153,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Pew Research Center - Teens, Social Media and Technology 2022](https://www.pewresearch.org/internet/2022/08/10/teens-social-media-and-technology-2022/)
 - [InformationWeek - Growth Slows for Cloud Giants AWS, GCP, Microsoft Azure](https://www.informationweek.com/cloud/cloud-giants-see-growth-slow-in-q2-remain-optimistic-longterm)
 - [Business Insider - The 'last man' selling floppy-disks says airlines continue to make orders for the ancient storage technology](https://www.businessinsider.com/last-floppy-disk-seller-airlines-still-order-storage-2022-9)
 - [Slate - Could the Internet Archive Go Out Like Napster?](https://slate.com/technology/2022/09/internet-archive-national-emergency-library-lawsuit.html)
@@ -2318,6 +2342,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [GitHub - Git’s database internals I: packed object store](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/)
 - [Structurizr DSL - Allows you to create multiple diagrams based upon the C4 model, in multiple output formats, from a single DSL source file](https://structurizr.com/dsl)
 - [Context Mapper - A Modeling Framework for Strategic Domain-driven Design](https://contextmapper.org/)
 - [Asciidoctor - A fast text processor & publishing toolchain for converting AsciiDoc to HTML5, DocBook & more](https://asciidoctor.org/)
@@ -2387,6 +2412,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Connor Tumbleson - Someone is pretending to be me](https://connortumbleson.com/2022/09/19/someone-is-pretending-to-be-me/)
 - [TechCrunch - Uber investigating cybersecurity incident after hacker breaches its internal network](https://techcrunch.com/2022/09/16/uber-internal-network-hack/)
 - [Cybernews - Revolut breach: personal and banking data exposed](https://cybernews.com/news/revolut-banking-data-exposed/)
 - [The Verge - A utility company locked thousands of customers out of their smart thermostats in Colorado](https://www.theverge.com/2022/9/5/23337864/xcel-locked-out-customers-smart-thermostats-colorado-heatwave)
@@ -2506,6 +2532,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Mike Rother - Teaching Scientific Thinking is Important Work](https://www.youtube.com/watch?v=p_WHlBhq0xw)
 - [Alex Soojung-Kim Pang - Winston Churchill on “painting as a pastime”](https://www.strategy.rest/?p=425)
 - [MyOwnClone - Quake 1 port to Apple Watch](https://www.youtube.com/watch?v=cPC2o262TfQ)
 - [Praneet Rohida - The production ratio and the difference between information, knowledge, and wisdom](https://blog.praneet.dev/the-production-ratio)
