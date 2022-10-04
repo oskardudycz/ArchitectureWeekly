@@ -8,4 +8,4 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ### Python
 
-https://blog.szymonmiks.pl/p/optimistic-locking-with-python/
+[Optimistic locking with Python](https://blog.szymonmiks.pl/p/optimistic-locking-with-python/)
