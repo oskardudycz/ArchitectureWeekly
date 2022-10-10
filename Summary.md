@@ -56,6 +56,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Uwe Friedrichsen - The right dose of resilience](https://www.ufried.com/blog/right_dose_of_resilience/)
+- [Richard Cook - Resilience In Complex Adaptive Systems](https://www.youtube.com/watch?v=PGLYEDpNu60)
+- [Christopher Alexander - Patterns in Architecture](https://www.youtube.com/watch?v=98LdFA-_zfA)
+- [Jimmy Bogard - Domain-Driven Refactoring](https://www.youtube.com/watch?v=gxgKgMvPH9I)
 - [Nick Tune - Domain-Driven Design and Team Topologies for Product-led Organizations](https://www.youtube.com/watch?v=5GLSBAYPSvo)
 - [Ian Cooper - Managing Asynchronous APIs](https://www.youtube.com/watch?v=OjBB7_jdm5w)
 - [Jon Skeet - Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
@@ -540,6 +544,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [The InfoQ eMag: Modern Data Architectures, Pipelines, & Streams](https://www.infoq.com/minibooks/modern-data-architectures/)
+- [Confluent - What’s New in Apache Kafka 3.3](https://www.confluent.io/blog/apache-kafka-3-3-0-new-features-and-updates)
 - [Eliran Wolf - How we cut data costs by more than 60% by leveraging a multi-cloud strategy](https://medium.com/dcode-consulting/how-we-cut-data-costs-by-more-than-90-by-leveraging-a-multi-cloud-strategy-6962287edcc)
 - [Ryan Rodemoyer - What I Wish Someone Would Have Told Me About Using Rabbitmq Before It Was Too Late](https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/)
 
@@ -728,6 +734,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [RedPanda - Kafka on Kubernetes: What could go wrong?](https://redpanda.com/blog/kafka-kubernetes-deployment-pros-cons)
+- [Serverless DNS - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io](https://github.com/serverless-dns/serverless-dns)
 - [Mike Long - Does the GitOps Emperor Have No Clothes?](https://thenewstack.io/does-the-gitops-emperor-have-no-clothes/)
 - [NGINX - Cloud Native DevOps with Kubernetes, 2nd Edition](https://www.nginx.com/resources/library/cloud-native-devops-with-kubernetes/)
 - [Zalando - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes](https://github.com/zalando/postgres-operator)
@@ -841,6 +849,9 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Miklos Philips - Design Principles: why a design works](https://uxdesign.cc/design-principles-why-a-design-works-a572c5d2d92d)
+- [qwik - The HTML-first framework. Instant apps of any size with ~ 1kb JS](https://github.com/BuilderIO/qwik)
+- [DaisyUI - The most popular, free and open-source Tailwind CSS component library](https://github.com/saadeghi/daisyui)
 - [HTTP Archive - Web Almanac 2022. Annual state of the web report](https://almanac.httparchive.org/en/2022/)
 - [P. Schmitt - Big Techday 22: Future of the Frontend: The End of Single-Page Applications?](https://www.youtube.com/watch?v=etbyN1zyY1M)
 - [Myles Braithwaite - Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators)
@@ -921,6 +932,7 @@
 - [Chris Coyier - How to Use Cloudflare Workers and KV Storage](https://www.youtube.com/watch?v=NGk2HxV0Xkg)
 
 ## Mobile
+- [The Linux Experiment - OPEN SOURCE your Android Phone: open source Android ROMS and apps](https://www.youtube.com/watch?v=Llrrzh6hxcA)
 - [Gergerly Orosz - 33 Engineering Challenges of Building Mobile Apps at Scale eBook & Other Learnings](https://gumroad.com/l/IuuuN)
 
 ## Performance
@@ -931,6 +943,7 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Tokopedia - GripMock - gRPC Mock Server](https://github.com/tokopedia/gripmock)
 - [Steve Freeman - Test Smell: Everything is mocked](http://www.mockobjects.com/2007/04/test-smell-everything-is-mocked.html)
 - [Mikael Vesavuori - TripleCheck CLI — The easiest and fastest way to do contract testing](https://github.com/mikaelvesavuori/triplecheck-cli)
 - [NBomber - Enterprise Examples](https://github.com/PragmaticFlow/NBomber.Enterprise.Examples)
@@ -1228,6 +1241,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - Testing business logic in Event Sourcing, and beyond!](https://event-driven.io/en/testing_event_sourcing/)
+- [Patrick Smacchia  - .NET Build Improvement: Stop Wasting Resources](https://blog.ndepend.com/net-build-improvement-stop-wasting-resources/)
+- [Ledjon Behluli - Orlean Spaces - A virtual, fully-asynchronous, Tuple Space implementation backed by Orleans.](https://github.com/ledjon-behluli/OrleanSpaces)
+- [Jonathan George - Bye bye Azure Functions, Hello Azure Container Apps: Migrating from Azure Functions to ASP.NET Core](https://endjin.com/blog/2022/09/bye-bye-azure-functions-hello-azure-container-apps-part-2-migrating-from-azure-functions-to-asp-net-core)
 - [Daniel Marbach - How we achieved 5X faster pipeline execution by removing closure allocations](https://particular.net/blog/pipeline-and-closure-allocations)
 - [Microsoft - Microsoft Teams’ Infrastructure and Azure Communication Services’ Journey to .NET 6](https://devblogs.microsoft.com/dotnet/microsoft-teams-infrastructure-and-azure-communication-services-journey-to-dotnet-6/)
 - [Irina Scurtu - Embracing gRPC in .NET](https://www.youtube.com/watch?v=9AGKH1VKuW0)
@@ -1860,6 +1877,9 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Continus Delivery - Randy Shoup - Leading Teams For Silicon Valley Tech Giants](https://www.youtube.com/watch?v=Wg-_5wbYuZQ)
+- [Laurence Tratt - UML: My Part in its Downfall](https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html)
+- [Jeff Gothelf - 3 Tools to Help You Keep Track of Your OKRs](https://jeffgothelf.com/blog/3-tools-to-help-you-keep-track-of-your-okrs/)
 - [Charity Majors - The Hierarchy Is Bullshit (And Bad For Business)](https://charity.wtf/2022/09/23/the-hierarchy-is-bullshit-and-bad-for-business/)
 - [Google - Are you an Elite DevOps performer? Find out with the Four Keys Project](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)
 - [Oskar Dudycz - On the importance of setting boundaries in team management](https://event-driven.io/en/on_the_importance_of_shaping_the_boundaries_in_team_management?utm_source=architecture_weekly)
@@ -1926,6 +1946,10 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Brian Goetz - Paving the on-ramp](https://openjdk.org/projects/amber/design-notes/on-ramp)
+- [Microsoft - How Microsoft applies Java](https://cdn.graph.office.net/prod/media/java/how-microsoft-applies-java.pdf)
+- [Brian Vermeer - Best Practices for Managing Java Dependencies](https://foojay.io/today/best-practices-for-managing-java-dependencies/)
+- [ArchUnit - A Java architecture test library, to specify and assert architecture rules in plain Java](https://github.com/TNG/ArchUnit)
 - [Auth0 - Micro Frontends for Java Microservices](https://auth0.com/blog/micro-frontends-for-java-microservices/)
 - [InfoQ - Java 19 Delivers Features for Projects Loom, Panama and Amber](https://www.infoq.com/news/2022/09/java19-released/)
 - [Deepu K Sasidharan - What the Heck Is Project Loom for Java?](https://foojay.io/today/what-the-heck-is-project-loom-for-java/)
@@ -2109,6 +2133,7 @@
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
 
 ## Python
+- [Szymon Miks - Optimistic locking with Python](https://blog.szymonmiks.pl/p/optimistic-locking-with-python/)
 - [John Bywater - Event Sourced Building Blocks for DDD with Python](https://www.youtube.com/watch?v=U0CGZSdQ25Q)
 - [Event Sourcing in Python  - Python package for eventsourcing with EventStoreDB](https://github.com/pyeventsourcing/eventsourcing-eventstoredb)
 - [Plotly - Dash - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.](https://github.com/plotly/dash)
@@ -2153,6 +2178,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Lisa Harvey-Smith - More women are studying STEM, but there are still stubborn workplace barriers](https://theconversation.com/more-women-are-studying-stem-but-there-are-still-stubborn-workplace-barriers-190839)
+- [Bloomberg - NFT Trading Volumes Collapse 97% From January Peak](https://www.bloomberg.com/news/articles/2022-09-28/nft-volumes-tumble-97-from-2022-highs-as-frenzy-fades-chart?sref=vuYGislZ)
+- [CoinDesk - It's Lonely in the Metaverse: Decentraland’s 38 Daily Active Users in a $1.3B Ecosystem](https://www.coindesk.com/web3/2022/10/07/its-lonely-in-the-metaverse-decentralands-38-daily-active-users-in-a-13b-ecosystem/)
 - [Pew Research Center - Teens, Social Media and Technology 2022](https://www.pewresearch.org/internet/2022/08/10/teens-social-media-and-technology-2022/)
 - [InformationWeek - Growth Slows for Cloud Giants AWS, GCP, Microsoft Azure](https://www.informationweek.com/cloud/cloud-giants-see-growth-slow-in-q2-remain-optimistic-longterm)
 - [Business Insider - The 'last man' selling floppy-disks says airlines continue to make orders for the ancient storage technology](https://www.businessinsider.com/last-floppy-disk-seller-airlines-still-order-storage-2022-9)
@@ -2532,6 +2560,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Abhishek Prakash - Watch Star Wars In Linux Terminal via Telnet](https://itsfoss.com/star-wars-linux/)
 - [Mike Rother - Teaching Scientific Thinking is Important Work](https://www.youtube.com/watch?v=p_WHlBhq0xw)
 - [Alex Soojung-Kim Pang - Winston Churchill on “painting as a pastime”](https://www.strategy.rest/?p=425)
 - [MyOwnClone - Quake 1 port to Apple Watch](https://www.youtube.com/watch?v=cPC2o262TfQ)
