@@ -24,6 +24,67 @@ There are two rules:
 
 ---
 
+## [107th October 2022](per-week/2022-10-17.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+
+---
+
+### Architecture
+- [Oskar Dudycz - Push-based Outbox Pattern with Postgres Logical Replication](https://event-driven.io/en/push_based_outbox_pattern_with_postgres_logical_replication/)
+- [Bret Victor - The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
+- [Adam Tornhill, Markus Borg: Code Red: The Business Impact of Code Quality -- A Quantitative Study of 39 Proprietary Production Codebases](https://www.researchgate.net/publication/359129462_Code_Red_The_Business_Impact_of_Code_Quality_--_A_Quantitative_Study_of_39_Proprietary_Production_Codebases)
+- [Oren Eini - On the critical importance of accepting and working with invalid data](https://ayende.com/blog/198370-A/on-the-critical-importance-of-accepting-and-working-with-invalid-data)
+- [Derek Comartin - Event Choreography for Loosely Coupled Workflow](https://codeopinion.com/event-choreography-for-loosely-coupled-workflow/)
+
+### Distributed Systems
+- [Netflix - Timestone: Netflix’s High-Throughput, Low-Latency Priority Queueing System with Built-in Support for Non-Parallelizable Workloads](https://netflixtechblog.com/timestone-netflixs-high-throughput-low-latency-priority-queueing-system-with-built-in-support-1abf249ba95f)
+- [Cloudflare - R2 is now Generally Available](https://blog.cloudflare.com/r2-ga/)
+- [David Boike - Sure, you can just use RabbitMQ](https://www.davidboike.dev/2017/12/sure-you-can-just-use-rabbitmq/)
+
+### Databases
+- [PostgreSQL - PostgreSQL 15 Released!](https://www.postgresql.org/about/news/postgresql-15-released-2526/)
+- [Microsoft - Distributed PostgreSQL comes to Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/distributed-postgresql-comes-to-azure-cosmos-db/)
+- [Gunnar Morling - Open-source Change Data Capture With Debezium](https://www.youtube.com/watch?v=G7TvRzPQH-U)
+- [Michael Aboagye - Improve database performance with connection pooling](https://stackoverflow.blog/2020/10/14/improve-database-performance-with-connection-pooling/)
+
+### DevOps
+- [Splunk - The State of Observability 2022](https://www.splunk.com/en_us/pdfs/gated/research/state-of-observability-2022.pdf)
+- [Digital Ocean - Kubernetes adoption journey for startups and SMBs](https://anchor.digitalocean.com/rs/113-DTN-266/images/Kubernetes-Adoption-Journey_DigitalOcean.pdf)
+- [Alex Ellis - Debug GitHub Actions with SSH and launch a cloud shell](https://www.youtube.com/watch?v=l9VuQZ4a5pc)
+- [The Unhandled Exception - Episode 41: OpenTelemetry - with Martin Thwaites](https://unhandledexceptionpodcast.com/posts/0041-opentelemetry/)
+
+### Go
+- [Konstantin Makarov - Writing your own PostgreSQL driver](https://medium.com/scum-gazeta/writing-your-own-postgresql-driver-ebd5fd6d187d)
+
+### Java
+- [Tech School - Config Gradle to generate Java code from Protobuf](https://dev.to/techschoolguru/config-gradle-to-generate-java-code-from-protobuf-1cla)
+- [JWebAssembly - Java bytecode to WebAssembly compiler](https://github.com/i-net-software/JWebAssembly)
+
+### .NET
+- [Jeremy D. Miller - Marten and Friend’s (Hopefully) Big Future!](https://jeremydmiller.com/2022/10/10/marten-and-friends-hopefully-big-future/)
+- [InfoQ - .NET Trends Report 2022](https://www.infoq.com/articles/dotnet-trends-2022)
+- [Stephen Cleary - Modern C# Techniques, Part 3: Generic Code Generation](https://blog.stephencleary.com/2022/10/modern-csharp-techniques-3-generic-code-generation.html)
+- [Mark Seemann - Refactoring a saga from the State pattern to the State monad](https://blog.ploeh.dk/2022/10/10/refactoring-a-saga-from-the-state-pattern-to-the-state-monad/)
+
+### Rust
+- [Amos Wenger - Remote development with Rust on fly.io](https://fasterthanli.me/articles/remote-development-with-rust-on-fly-io)
+
+### WebAssembly
+- [wasmtime - A fast and secure runtime for WebAssembly](https://github.com/bytecodealliance/wasmtime)
+
+### Tools
+- [Cassidy Williams - cass.run - My own lil URL shortener](https://github.com/cassidoo/cass.run)
+
+### Coding Life
+- [Software Engineering for busy parents](https://talesfrom.dev/blog/software-engineering-for-busy-parents)
+
+### Trivia
+- [Lex Friedman Podcast - John Carmack: Doom, Quake, VR, AGI, Programming, Video Games, and Rockets](https://www.youtube.com/watch?v=I845O57ZSy4)
+- [The Verge - The iPhone 14 keeps calling 911 on rollercoasters](https://www.theverge.com/2022/10/9/23395222/iphone-14-calling-911-rollercoasters-apple-crash-detection)
+
+---
+
 ## [10th October 2022](per-week/2022-10-10.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
