@@ -379,7 +379,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Khalid Abuhakmeh - Playwright tests with XUnit](https://gist.github.com/khalidabuhakmeh/cfc0e3ba6b311b8a9ca3154fd5086a6a)
 - [David Fowler - A sample plugin model for ASP.NET Core applications](https://github.com/davidfowl/WebApplicationPlugins)
 
-### NodeJS
+### Node.js
 - [S(n) - Mailing - Build, test, send emails with React](https://github.com/sofn-xyz/mailing)
 - [ESLint - ESLint's new config system, Part 1: Background](https://eslint.org/blog/2022/08/new-config-system-part-1/)
 
@@ -510,7 +510,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Microsoft - Announcing built-in container support for the .NET SDK](https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/)
 - [Patrick Smacchia - C# 11 Raw String Literals Explained](https://blog.ndepend.com/c-11-raw-string-literals-explained/)
 
-### NodeJS
+### Node.js
 - [Zod - TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)
 
 ### Coding Life
@@ -695,7 +695,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [FluentMermaid - Mermaid.js fluent api for .NET](https://github.com/wowbios/FluentMermaid)
 - [Hirotada Kobayashi - PlantUmlClassDiagramGenerator - This is a generator to create a class-diagram of PlantUML from the C# source code](https://github.com/pierre3/PlantUmlClassDiagramGenerator)
 
-### NodeJS
+### Node.js
 - [Oskar Dudycz - Straightforward Event Sourcing with TypeScript and NodeJS](https://event-driven.io/en/type_script_node_Js_event_sourcing/)
 
 ### Rust
@@ -830,7 +830,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ### JavaScript
 - [Shawn Wang - Bun and Deno: New Runtimes for the Third Age of JavaScript](https://www.youtube.com/watch?v=O7KVEwNau6w)
 
-### NodeJS
+### Node.js
 - [Software Engineering Daily - Remix with Ryan Florence](https://softwareengineeringdaily.com/2022/07/22/remix-with-ryan-florence/)
 
 ### Coding Life
@@ -1194,7 +1194,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Simon Cropp - XunitContext - Extends xUnit to expose extra context and simplify logging](https://github.com/SimonCropp/XunitContext)
 - [Marcin Budny - Comparing .NET virtual actor frameworks](https://www.etteplan.com/stories/comparing-net-virtual-actor-frameworks)
 
-### NodeJS
+### Node.js
 - [Nexe - create a single executable out of your node.js apps ](https://github.com/nexe/nexe)
 
 ### Python
@@ -1444,7 +1444,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Andrew Lock - Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/)
 - [Oleksii Nikiforov - Creating and Using HTTP Client SDKs in .NET 6](https://www.infoq.com/articles/creating-http-sdks-dotnet-6)
 
-### NodeJS
+### Node.js
 - [Michael Herman - Node, gRPC, and Postgres](https://mherman.org/blog/node-grpc-postgres/)
 
 ### TypeScript
@@ -1555,7 +1555,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Andrew Lock - Keeping up with .NET: learning about new features and APIs](https://andrewlock.net/keeping-up-with-dotnet-learning-about-new-features-and-apis)
 - [Oskar Dudycz - How to build a simple event pipeline](https://event-driven.io/en/how_to_build_simple_event_pipeline/)
 
-### NodeJS
+### Node.js
 - [Google - WireIt - Upgrades your npm scripts to make them smarter and more efficient](https://github.com/google/wireit)
 
 ### Ruby
@@ -1853,7 +1853,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Antoine Aubry - YamlDotNet - A .NET library for YAML](https://github.com/aaubry/YamlDotNet)
 - [Philipp Munin - Event debouncer helps to prevent calling the same event handler too often](https://gist.github.com/pmunin/634d8971be1e0e7b16edfd548f2a8526)
 
-### NodeJS
+### Node.js
 - [NodeJS - Stream Finished, handling closed or ended NodeJS stream](https://nodejs.org/api/stream.html#streamfinishedstream-options-callback)
 
 ### Python
@@ -2042,7 +2042,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Maoni Stephens - Diagnosing Memory Leaks](https://www.youtube.com/watch?v=ImeiUzbdMzc)
 - [Microsoft - Safe storage of app secrets in development in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-6.0&tabs=windows)
 
-### NodeJS
+### Node.js
 - [node-postgres - a collection of node.js modules for interfacing with your PostgreSQL database](https://node-postgres.com/)
 - [@databases - TypeScript clients for databases that prevent SQL Injection](https://www.atdatabases.org/)
 
@@ -2142,7 +2142,7 @@ Ukraine, stay strong!
 - [Maxime Lemaitre - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes](https://github.com/Cybermaxs/awesome-analyzers)
 - [QuestPDF - An open-source, library that can help you with generating PDF documents](https://github.com/QuestPDF/QuestPDF)
 
-### NodeJS
+### Node.js
 - [Kent C. Dodds - Why I Love Remix](https://kentcdodds.com/blog/why-i-love-remix)
 
 ### Rust
@@ -2414,7 +2414,7 @@ Ukraine, stay strong!
 - [OpenTelemetry .NET Contrib - Set of components extending functionality of the OpenTelemetry .NET SDK](https://github.com/open-telemetry/opentelemetry-dotnet-contrib)
 - [.NET Docs - Performance best practices with gRPC](https://docs.microsoft.com/en-us/aspnet/core/grpc/performance?view=aspnetcore-6.0)
 
-### NodeJS
+### Node.js
 - [Netanel Basal - Falso - All the Fake Data for All Your Real Needs](https://github.com/ngneat/falso)
 - [Faker.js - An update from the Faker team](https://fakerjs.dev/update.html)
 
@@ -2789,7 +2789,7 @@ Ukraine, stay strong!
 ### JavaScript
 - [Ramda - A practical functional library for JavaScript programmers.](https://ramdajs.com/)
 
-### NodeJS
+### Node.js
 - [Keeth Kuwahara - npm-stats-api: Node Package's Statistics API](https://github.com/kkeeth/npm-stats-api)
 - [Steven Vachon - broken-link-checker: Find broken links, missing images, etc within your HTML](https://github.com/stevenvachon/broken-link-checker)
 
@@ -2978,7 +2978,7 @@ Ukraine, stay strong!
 - [Andreas Dorfer - Option Type in C#](https://www.enterprise-software-development.eu/posts/2019/11/19/option-type.html)
 - [Andrew Lock - Improving logging performance with source generators](https://andrewlock.net/exploring-dotnet-6-part-8-improving-logging-performance-with-source-generators)
 
-### NodeJs
+### Node.js
 - [Express - Health Checks and Graceful Shutdown](https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html)
 - [Jose Arroyo Rodriguez - Implementing NodeJS HTTP Graceful Shutdown](https://blog.dashlane.com/implementing-nodejs-http-graceful-shutdown/)
 
@@ -3428,7 +3428,7 @@ Ukraine, stay strong!
 - [Mark Seemann - The Command Handler contravariant functor](https://blog.ploeh.dk/2021/09/06/the-command-handler-contravariant-functor/)
 - [Konrad Kokosa - Mobius.ILasm - Common Intermediate Language (CIL) assembler available as a library, based on Mono assembler](https://github.com/kkokosa/Mobius.ILasm)
 
-### NodeJS
+### Node.js
 - [reSolve - Full stack CQRS, DDD, Event Sourcing framework for Node.js](https://reimagined.github.io/resolve/)
 
 ### TypeScript
@@ -3939,7 +3939,7 @@ Ukraine, stay strong!
 - [Scott Hanselman - dotnet repl](https://www.hanselman.com/blog/dotnet-repl)
 - [Khalid Abuhakmeh - C# Pattern Matching Quick Guide And Examples](https://khalidabuhakmeh.com/csharp-pattern-matching-quick-guide-and-examples)
 
-### NodeJS
+### Node.js
 - [Mark Michon - Add Retries to Your API Calls](https://blog.bearer.sh/add-retry-to-api-calls-javascript-node/)
 
 ### Swift
@@ -3980,7 +3980,7 @@ Ukraine, stay strong!
 ### Java
 - [Gunnar Morling - Serverless Search for My Blog with Java, Quarkus & AWS Lambda](https://www.infoq.com/presentations/quarkus-java-serverless/)
 
-### NodeJS
+### Node.js
 - [Alvin Lal - Single thread vs child process vs worker threads vs cluster in nodejs](https://alvinlal.netlify.app/blog/single-thread-vs-child-process-vs-worker-threads-vs-cluster-in-nodejs)
 - [Alberto Gimeno - Node.js multithreading: What are Worker threads, and why do they matter?](https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10/)
 
@@ -4082,7 +4082,7 @@ Ukraine, stay strong!
 ### Go
 - [Chewxy - How To Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
 
-### NodeJS
+### Node.js
 - [Ákos Szokodi - How to Easily Set-up Node Config Following These Best Practices](https://codingsans.com/blog/node-config-best-practices)
 
 ### Windows

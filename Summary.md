@@ -2076,7 +2076,7 @@
 - [Bruno Vegreville - Expressive error handling in TypeScript and benefits for domain-driven design](https://medium.com/inato/expressive-error-handling-in-typescript-and-benefits-for-domain-driven-design-70726e061c86)
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
-## NodeJS
+## Node.js
 - [S(n) - Mailing - Build, test, send emails with React](https://github.com/sofn-xyz/mailing)
 - [ESLint - ESLint's new config system, Part 1: Background](https://eslint.org/blog/2022/08/new-config-system-part-1/)
 - [Zod - TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)
