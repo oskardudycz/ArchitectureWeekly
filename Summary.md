@@ -28,7 +28,7 @@
   - [JVM](#jvm)
   - [JavaScript](#javascript)
   - [TypeScript](#typescript)
-  - [NodeJS](#nodejs)
+  - [Node.js](#nodejs)
   - [Ruby](#ruby)
   - [Erlang](#erlang)
   - [Haskell](#haskell)
@@ -56,6 +56,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Martin Fowler - ConwaysLaw](https://martinfowler.com/bliki/ConwaysLaw.html)
+- [GitLab - What are the benefits of a microservices architecture?](https://about.gitlab.com/blog/2022/09/29/what-are-the-benefits-of-a-microservices-architecture/)
+- [Andrzej Ludwikowski - Message delivery and deduplication strategies](https://softwaremill.com/message-delivery-and-deduplication-strategies/)
+- [VirtualDDD - Exploring Techniques For Modelling Bounded Context Collaboration](https://www.youtube.com/watch?v=oj4zGj6sPDc)
+- [Thomas Pierrain - Is DDD right-wing?](https://medium.com/@tpierrain/is-ddd-right-wing-7fe88cc702c9)
 - [Oskar Dudycz - Push-based Outbox Pattern with Postgres Logical Replication](https://event-driven.io/en/push_based_outbox_pattern_with_postgres_logical_replication/)
 - [Bret Victor - The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
 - [Adam Tornhill, Markus Borg: Code Red: The Business Impact of Code Quality -- A Quantitative Study of 39 Proprietary Production Codebases](https://www.researchgate.net/publication/359129462_Code_Red_The_Business_Impact_of_Code_Quality_--_A_Quantitative_Study_of_39_Proprietary_Production_Codebases)
@@ -549,6 +554,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Jack Vanlightly - Understanding How Apache Pulsar Works](https://jack-vanlightly.com/blog/2018/10/2/understanding-how-apache-pulsar-works)
 - [Netflix - Timestone: Netflix’s High-Throughput, Low-Latency Priority Queueing System with Built-in Support for Non-Parallelizable Workloads](https://netflixtechblog.com/timestone-netflixs-high-throughput-low-latency-priority-queueing-system-with-built-in-support-1abf249ba95f)
 - [Cloudflare - R2 is now Generally Available](https://blog.cloudflare.com/r2-ga/)
 - [David Boike - Sure, you can just use RabbitMQ](https://www.davidboike.dev/2017/12/sure-you-can-just-use-rabbitmq/)
@@ -742,6 +748,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Florin Lipan - The smallest Docker image to serve static websites](https://lipanski.com/posts/smallest-docker-image-static-website)
 - [Splunk - The State of Observability 2022](https://www.splunk.com/en_us/pdfs/gated/research/state-of-observability-2022.pdf)
 - [Digital Ocean - Kubernetes adoption journey for startups and SMBs](https://anchor.digitalocean.com/rs/113-DTN-266/images/Kubernetes-Adoption-Journey_DigitalOcean.pdf)
 - [Alex Ellis - Debug GitHub Actions with SSH and launch a cloud shell](https://www.youtube.com/watch?v=l9VuQZ4a5pc)
@@ -955,6 +962,7 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Toxiproxy - A TCP proxy to simulate network and system conditions for chaos and resiliency testing](https://github.com/Shopify/toxiproxy)
 - [Tokopedia - GripMock - gRPC Mock Server](https://github.com/tokopedia/gripmock)
 - [Steve Freeman - Test Smell: Everything is mocked](http://www.mockobjects.com/2007/04/test-smell-everything-is-mocked.html)
 - [Mikael Vesavuori - TripleCheck CLI — The easiest and fastest way to do contract testing](https://github.com/mikaelvesavuori/triplecheck-cli)
@@ -1027,6 +1035,10 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Gunnar Morling - Open-source Change Data Capture With Debezium](https://www.youtube.com/watch?v=G7TvRzPQH-U)
+- [P. Bailis, A. Fekete, M.J. Franklin, A. Ghodsi, J.M. Hellerstein, I. Stoica - Coordination Avoidance in Database Systems](https://arxiv.org/pdf/1402.2237.pdf)
+- [David Rowley - Partition Elimination in PostgreSQL 11](https://www.2ndquadrant.com/en/blog/partition-elimination-postgresql-11/)
+- [PostgresPro - SQL/JSON patches committed to PostgreSQL 15!](https://postgrespro.com/blog/pgsql/5969433)
 - [PostgreSQL - PostgreSQL 15 Released!](https://www.postgresql.org/about/news/postgresql-15-released-2526/)
 - [Microsoft - Distributed PostgreSQL comes to Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/distributed-postgresql-comes-to-azure-cosmos-db/)
 - [Gunnar Morling - Open-source Change Data Capture With Debezium](https://www.youtube.com/watch?v=G7TvRzPQH-U)
@@ -1171,6 +1183,8 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Chris Schneider - Test-driven development and AI machine learning](https://www.ibm.com/garage/method/practices/reason/tdd-and-machine-learning/)
+- [Sarah Drummond - The future is what you think it is](https://sarahdrummond.medium.com/the-future-is-what-you-think-it-is-d7a54369ea32)
 - [Waxy - AI Data Laundering: How Academic and Nonprofit Researchers Shield Tech Companies from Accountability](https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/)
 - [Willem Meints - How to deploy Airflow with Kubernetes and GIT](https://fizzylogic.nl/2022/09/08/deploy-airflow-with-kubernetes-and-git)
 - [Simon Willison - Stable Diffusion is a really big deal](https://simonwillison.net/2022/Aug/29/stable-diffusion)
@@ -1257,6 +1271,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - Writing and testing business logic in F#](https://event-driven.io/en/writing_and_testing_business_logic_in_fsharp/)
+- [George Kinsman - Improving Test Observability with Fixie+Seq](https://georgekinsman.com/programming/2022/04/22/Improving-Test-Observability-Fixie-Seq.html)
+- [Martin Thwaites - Monitoring Unit Tests with OpenTelemetry in .NET](https://www.honeycomb.io/blog/monitoring-unit-tests-opentelemetry/)
+- [FsCheck - Random Testing for .NET](https://github.com/fscheck/FsCheck)
 - [Jeremy D. Miller - Marten and Friend’s (Hopefully) Big Future!](https://jeremydmiller.com/2022/10/10/marten-and-friends-hopefully-big-future/)
 - [InfoQ - .NET Trends Report 2022](https://www.infoq.com/articles/dotnet-trends-2022)
 - [Stephen Cleary - Modern C# Techniques, Part 3: Generic Code Generation](https://blog.stephencleary.com/2022/10/modern-csharp-techniques-3-generic-code-generation.html)
@@ -1899,6 +1917,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Amy Rigby - How to write a project status report that works for your team](https://blog.trello.com/how-to-write-a-project-status-report)
 - [Continus Delivery - Randy Shoup - Leading Teams For Silicon Valley Tech Giants](https://www.youtube.com/watch?v=Wg-_5wbYuZQ)
 - [Laurence Tratt - UML: My Part in its Downfall](https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html)
 - [Jeff Gothelf - 3 Tools to Help You Keep Track of Your OKRs](https://jeffgothelf.com/blog/3-tools-to-help-you-keep-track-of-your-okrs/)
@@ -1968,6 +1987,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Marcin Grzejszczak - Observability with Spring Boot 3](https://spring.io/blog/2022/10/12/observability-with-spring-boot-3)
+- [Arch Unit - A Java architecture test library, to specify and assert architecture rules in plain Java](https://github.com/TNG/ArchUnit)
 - [Tech School - Config Gradle to generate Java code from Protobuf](https://dev.to/techschoolguru/config-gradle-to-generate-java-code-from-protobuf-1cla)
 - [JWebAssembly - Java bytecode to WebAssembly compiler](https://github.com/i-net-software/JWebAssembly)
 - [Brian Goetz - Paving the on-ramp](https://openjdk.org/projects/amber/design-notes/on-ramp)
@@ -2077,6 +2098,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [Node.js - Node.js 19 is now available](https://nodejs.org/en/blog/announcements/v19-release-announce/)
 - [S(n) - Mailing - Build, test, send emails with React](https://github.com/sofn-xyz/mailing)
 - [ESLint - ESLint's new config system, Part 1: Background](https://eslint.org/blog/2022/08/new-config-system-part-1/)
 - [Zod - TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)
@@ -2204,6 +2226,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [GitHub - GitHub for Startups is generally available](https://github.blog/2022-09-22-github-for-startups-is-generally-available)
+- [Open Core Ventures - Preventing the bait and switch by open core software companies](https://opencoreventures.com/blog/2022-10-preventing-the-bait-and-switch-open-core/)
 - [Lisa Harvey-Smith - More women are studying STEM, but there are still stubborn workplace barriers](https://theconversation.com/more-women-are-studying-stem-but-there-are-still-stubborn-workplace-barriers-190839)
 - [Bloomberg - NFT Trading Volumes Collapse 97% From January Peak](https://www.bloomberg.com/news/articles/2022-09-28/nft-volumes-tumble-97-from-2022-highs-as-frenzy-fades-chart?sref=vuYGislZ)
 - [CoinDesk - It's Lonely in the Metaverse: Decentraland’s 38 Daily Active Users in a $1.3B Ecosystem](https://www.coindesk.com/web3/2022/10/07/its-lonely-in-the-metaverse-decentralands-38-daily-active-users-in-a-13b-ecosystem/)
@@ -2396,6 +2420,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Bebop - An extremely simple, fast, efficient, cross-platform serialization format](https://github.com/RainwayApp/bebop)
 - [Cassidy Williams - cass.run - My own lil URL shortener](https://github.com/cassidoo/cass.run)
 - [GitHub - Git’s database internals I: packed object store](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/)
 - [Structurizr DSL - Allows you to create multiple diagrams based upon the C4 model, in multiple output formats, from a single DSL source file](https://structurizr.com/dsl)
@@ -2467,6 +2492,9 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [InfoQ - Two New Git Vulnerabilities Affecting Local Clones and Git Shell Patched](https://www.infoq.com/news/2022/10/git-clone-shell-vulnerabilities)
+- [Dominick Baier - OAuth – the good Parts](https://www.youtube.com/watch?v=y2Psj8ACZyw)
+- [WAM BAM - Recovering Web Tokens From Office](https://blog.xpnsec.com/wam-bam/)
 - [Connor Tumbleson - Someone is pretending to be me](https://connortumbleson.com/2022/09/19/someone-is-pretending-to-be-me/)
 - [TechCrunch - Uber investigating cybersecurity incident after hacker breaches its internal network](https://techcrunch.com/2022/09/16/uber-internal-network-hack/)
 - [Cybernews - Revolut breach: personal and banking data exposed](https://cybernews.com/news/revolut-banking-data-exposed/)

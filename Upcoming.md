@@ -1,61 +1,61 @@
 # Upcoming Links
 
-# 24th October 2022
+## 31st October 2022
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
 ---
 
 ### Architecture
-- [Martin Fowler - ConwaysLaw](https://martinfowler.com/bliki/ConwaysLaw.html)
-- [GitLab - What are the benefits of a microservices architecture?](https://about.gitlab.com/blog/2022/09/29/what-are-the-benefits-of-a-microservices-architecture/)
-- [Andrzej Ludwikowski - Message delivery and deduplication strategies](https://softwaremill.com/message-delivery-and-deduplication-strategies/)
-- [VirtualDDD - Exploring Techniques For Modelling Bounded Context Collaboration](https://www.youtube.com/watch?v=oj4zGj6sPDc)
-- [Thomas Pierrain - Is DDD right-wing?](https://medium.com/@tpierrain/is-ddd-right-wing-7fe88cc702c9)
-
-### Distributed Systems
-- [Jack Vanlightly - Understanding How Apache Pulsar Works](https://jack-vanlightly.com/blog/2018/10/2/understanding-how-apache-pulsar-works)
-
-### DevOps
-- [Florin Lipan - The smallest Docker image to serve static websites](https://lipanski.com/posts/smallest-docker-image-static-website)
+- [James Hickey - Event Sourcing: Without Eventual Consistency?](https://www.jamesmichaelhickey.com/event-sourcing-eventual-consistency-isnt-necessary/)
+- [Russell Ackoff - Why Few Organizations Adopt Systems Thinking](https://thesystemsthinker.com/why-few-organizations-adopt-systems-thinking/)
+- [David Heinemeier Hansson - Why we're leaving the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0)
+- [Yves Goeleven - Software Delivery Process](https://www.goeleven.com/guides/software-delivery-process/)
+- [Mark Seemann - When to refactor](https://blog.ploeh.dk/2022/09/19/when-to-refactor/)
+- [Kurt Bittner - Architectural Frameworks, Patterns, and Tactics Are No Substitute for Making Your Own Decisions](https://www.infoq.com/articles/frameworks-require-decisions/)
+- [Thoughtworks - Technology Radar #27](https://www.thoughtworks.com/content/dam/thoughtworks/documents/radar/2022/10/tr_technology_radar_vol_27_en.pdf)
+- [Emmanuel Bernard, Clement Escoffier - Kafka: a map of traps for the enlightened dev and op](https://www.youtube.com/watch?v=paVdXL5vDzg)
 
 ### Databases
-- [Gunnar Morling - Open-source Change Data Capture With Debezium](https://www.youtube.com/watch?v=G7TvRzPQH-U)
-- [P. Bailis, A. Fekete, M.J. Franklin, A. Ghodsi, J.M. Hellerstein, I. Stoica - Coordination Avoidance in Database Systems](https://arxiv.org/pdf/1402.2237.pdf)
-- [David Rowley - Partition Elimination in PostgreSQL 11](https://www.2ndquadrant.com/en/blog/partition-elimination-postgresql-11/)
-- [PostgresPro - SQL/JSON patches committed to PostgreSQL 15!](https://postgrespro.com/blog/pgsql/5969433)
+- [Oskar Dudycz - How Postgres sequences issues can impact your messaging guarantees](https://event-driven.io/en/ordering_in_postgres_outbox/)
 
-### Testing
-- [Toxiproxy - A TCP proxy to simulate network and system conditions for chaos and resiliency testing](https://github.com/Shopify/toxiproxy)
+### AWS
+- [Matt Rickard - S3 Isn't Getting Cheaper](https://matt-rickard.com/10-years-and-s3-isnt-getting-cheaper)
+- [Alex Chan - Aurora vs. RDS: An Engineer’s Guide to Choosing a Database](https://www.lastweekinaws.com/blog/aurora-vs-rds-an-engineers-guide-to-choosing-a-database/)
+- [Avinash Vallarapu - Is Aurora PostgreSQL really faster and cheaper than RDS PostgreSQL – Benchmarking](https://www.migops.com/blog/is-aurora-postgresql-really-faster-and-cheaper-than-rds-postgresql-benchmarking/)
 
-### AI
-- [Chris Schneider - Test-driven development and AI machine learning](https://www.ibm.com/garage/method/practices/reason/tdd-and-machine-learning/)
-- [Sarah Drummond - The future is what you think it is](https://sarahdrummond.medium.com/the-future-is-what-you-think-it-is-d7a54369ea32)
+### Azure
+- [Gaurav Malhotra - Polyglot Microservices Communication Using Dapr on AKS](https://www.infoq.com/articles/polygot-microservices-dapr-aks)
+
+### Functional Programming
+- [Gjeta Gjyshinca - Monad I Love You Now Get Out Of My Type System](https://www.youtube.com/watch?v=2PxsyWqZ5dI)
 
 ### Java
-- [Marcin Grzejszczak - Observability with Spring Boot 3](https://spring.io/blog/2022/10/12/observability-with-spring-boot-3)
-- [Arch Unit - A Java architecture test library, to specify and assert architecture rules in plain Java](https://github.com/TNG/ArchUnit)
+- [picocli - a mighty tiny command line interface](https://picocli.info/)
+- [JWebAssembly - Java bytecode to WebAssembly compiler](https://github.com/i-net-software/JWebAssembly)
+- [Adam Warski - Protecting state using virtual threads](https://softwaremill.com/protecting-state-using-virtual-threads/)
+
+### Kotlin
+- [Engineering at Meta - From zero to 10 million lines of Kotlin](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/)
 
 ### .NET
-- [Oskar Dudycz - Writing and testing business logic in F#](https://event-driven.io/en/writing_and_testing_business_logic_in_fsharp/)
-- [George Kinsman - Improving Test Observability with Fixie+Seq](https://georgekinsman.com/programming/2022/04/22/Improving-Test-Observability-Fixie-Seq.html)
-- [Martin Thwaites - Monitoring Unit Tests with OpenTelemetry in .NET](https://www.honeycomb.io/blog/monitoring-unit-tests-opentelemetry/)
-- [FsCheck - Random Testing for .NET](https://github.com/fscheck/FsCheck)
-
-### Node.js
-- [Node.js - Node.js 19 is now available](https://nodejs.org/en/blog/announcements/v19-release-announce/)
+- [David Wengier - What's new in C# 11 now with less controversy!!](https://www.youtube.com/watch?v=w5MKY9rOHi4)
+- [Patrick Smacchia - Managed pointers, Span, ref struct, C#11 ref fields and the scoped keyword](https://blog.ndepend.com/managed-pointers-span-ref-struct-c11-ref-fields-and-the-scoped-keyword/)
+- [James Randall - CSharp port of Wolfenstein using the funky new language features ](https://github.com/JamesRandall/csharp-wolfenstein)
+- [Jeremy D. Miller - Using Context/Specification to better express complicated tests](https://jeremydmiller.com/2022/10/24/using-context-specification-to-better-express-complicated-tests/)
 
 ### Tools
-- [Bebop - An extremely simple, fast, efficient, cross-platform serialization format](https://github.com/RainwayApp/bebop)
+- [Smitter hane - Turn around your Git mistakes in 17 ways](https://dev.to/smitterhane/turn-around-your-git-mistakes-in-17-ways-2mn1)
+- [GitUI - Blazing fast terminal-ui for git written in rust](https://github.com/extrawurst/gitui)
+- [Tailscale - Making an SSH client the hard way](https://tailscale.com/blog/ssh-console/)
+
+### Coding Life
+- [Mark Rendle - Programming’s Greatest Mistakes](https://www.youtube.com/watch?v=YfKzJuXmZX8)
+- [Karl Sutt - How to communicate effectively as a developer](https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/)
 
 ### Management
-- [Amy Rigby - How to write a project status report that works for your team](https://blog.trello.com/how-to-write-a-project-status-report)
+- [Rob Rawson - Making remote and asynchronous work, work](https://www.infoq.com/podcasts/remote-asynchronous-work-rob-rawson)
 
 ### Industry
-- [GitHub - GitHub for Startups is generally available](https://github.blog/2022-09-22-github-for-startups-is-generally-available)
-- [Open Core Ventures - Preventing the bait and switch by open core software companies](https://opencoreventures.com/blog/2022-10-preventing-the-bait-and-switch-open-core/)
-
-### Security
-- [InfoQ - Two New Git Vulnerabilities Affecting Local Clones and Git Shell Patched](https://www.infoq.com/news/2022/10/git-clone-shell-vulnerabilities)
-- [Dominick Baier - OAuth – the good Parts](https://www.youtube.com/watch?v=y2Psj8ACZyw)
-- [WAM BAM - Recovering Web Tokens From Office](https://blog.xpnsec.com/wam-bam/)
+- [TechCrunch - Elon Musk owns Twitter: The story so far](https://techcrunch.com/2022/10/28/elon-musk-owns-twitter-the-story-so-far)
+- [The Verge - Twitter is planning to start charging $20 per month for verification](https://www.theverge.com/2022/10/30/23431931/twitter-paid-verification-elon-musk-blue-monthly-subscription)
