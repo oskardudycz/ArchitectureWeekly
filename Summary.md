@@ -56,6 +56,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [James Hickey - Event Sourcing: Without Eventual Consistency?](https://www.jamesmichaelhickey.com/event-sourcing-eventual-consistency-isnt-necessary/)
+- [Russell Ackoff - Why Few Organizations Adopt Systems Thinking](https://thesystemsthinker.com/why-few-organizations-adopt-systems-thinking/)
+- [David Heinemeier Hansson - Why we're leaving the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0)
+- [Yves Goeleven - Software Delivery Process](https://www.goeleven.com/guides/software-delivery-process/)
+- [Mark Seemann - When to refactor](https://blog.ploeh.dk/2022/09/19/when-to-refactor/)
+- [Kurt Bittner - Architectural Frameworks, Patterns, and Tactics Are No Substitute for Making Your Own Decisions](https://www.infoq.com/articles/frameworks-require-decisions/)
+- [Thoughtworks - Technology Radar #27](https://www.thoughtworks.com/content/dam/thoughtworks/documents/radar/2022/10/tr_technology_radar_vol_27_en.pdf)
+- [Emmanuel Bernard, Clement Escoffier - Kafka: a map of traps for the enlightened dev and op](https://www.youtube.com/watch?v=paVdXL5vDzg)
 - [Martin Fowler - ConwaysLaw](https://martinfowler.com/bliki/ConwaysLaw.html)
 - [GitLab - What are the benefits of a microservices architecture?](https://about.gitlab.com/blog/2022/09/29/what-are-the-benefits-of-a-microservices-architecture/)
 - [Andrzej Ludwikowski - Message delivery and deduplication strategies](https://softwaremill.com/message-delivery-and-deduplication-strategies/)
@@ -1035,6 +1043,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Oskar Dudycz - How Postgres sequences issues can impact your messaging guarantees](https://event-driven.io/en/ordering_in_postgres_outbox/)
 - [Gunnar Morling - Open-source Change Data Capture With Debezium](https://www.youtube.com/watch?v=G7TvRzPQH-U)
 - [P. Bailis, A. Fekete, M.J. Franklin, A. Ghodsi, J.M. Hellerstein, I. Stoica - Coordination Avoidance in Database Systems](https://arxiv.org/pdf/1402.2237.pdf)
 - [David Rowley - Partition Elimination in PostgreSQL 11](https://www.2ndquadrant.com/en/blog/partition-elimination-postgresql-11/)
@@ -1214,6 +1223,9 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Matt Rickard - S3 Isn't Getting Cheaper](https://matt-rickard.com/10-years-and-s3-isnt-getting-cheaper)
+- [Alex Chan - Aurora vs. RDS: An Engineer’s Guide to Choosing a Database](https://www.lastweekinaws.com/blog/aurora-vs-rds-an-engineers-guide-to-choosing-a-database/)
+- [Avinash Vallarapu - Is Aurora PostgreSQL really faster and cheaper than RDS PostgreSQL – Benchmarking](https://www.migops.com/blog/is-aurora-postgresql-really-faster-and-cheaper-than-rds-postgresql-benchmarking/)
 - [Bite-Sized Serverless - Serverless Messaging: Latency Compared](https://bitesizedserverless.com/bite/serverless-messaging-latency-compared/)
 - [AWS Compute Blog - Simplifying serverless best practices with AWS Lambda Powertools for TypeScript](https://aws.amazon.com/blogs/compute/simplifying-serverless-best-practices-with-aws-lambda-powertools-for-typescript/)
 - [Real World Crypto conference  - Shay Gueron - AWS key management service KMS](https://www.youtube.com/watch?v=WEJ451rmhk4)
@@ -1224,6 +1236,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Gaurav Malhotra - Polyglot Microservices Communication Using Dapr on AKS](https://www.infoq.com/articles/polygot-microservices-dapr-aks)
 - [Kamil Mrzygłód - ACE (Azure Cost Estimator) - automated cost estimations for ARM Templates & Biceps](https://github.com/TheCloudTheory/arm-estimator)
 - [Azure - The Azure SaaS Development Kit (ASDK) - provides a reference architecture, deployable reference implementation and tools to help developers, startups, ISVs and Enterprises deliver their applications as a SaaS service. A platform for platform creators.](https://github.com/Azure/azure-saas)
 - [Microsoft - Windows Authentication for Azure AD principals for SQL Managed Instance is now Generally Available](https://techcommunity.microsoft.com/t5/azure-sql-blog/windows-authentication-for-azure-ad-principals-for-sql-managed/ba-p/3600690)
@@ -1252,6 +1265,7 @@
 - [Brett Rowberry - An F# Dev's Perspective on Clojure](https://brettrowberry.hashnode.dev/an-f-devs-perspective-on-clojure)
 
 ## Functional Programming
+- [Gjeta Gjyshinca - Monad I Love You Now Get Out Of My Type System](https://www.youtube.com/watch?v=2PxsyWqZ5dI)
 - [Alexis King - Hackett: a metaprogrammable Haskell](https://www.youtube.com/watch?app=desktop&v=5QQdI3P7MdY)
 - [John De Goes - What Functional Programming Can Learn From Object-Oriented Programming](https://www.youtube.com/watch?v=9hAcW2oMl6M)
 - [Cassidy Williams - Functional Programming 101](https://github.com/readme/guides/functional-programming-basics)
@@ -1271,6 +1285,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [David Wengier - What's new in C# 11 now with less controversy!!](https://www.youtube.com/watch?v=w5MKY9rOHi4)
+- [Patrick Smacchia - Managed pointers, Span, ref struct, C#11 ref fields and the scoped keyword](https://blog.ndepend.com/managed-pointers-span-ref-struct-c11-ref-fields-and-the-scoped-keyword/)
+- [James Randall - CSharp port of Wolfenstein using the funky new language features ](https://github.com/JamesRandall/csharp-wolfenstein)
+- [Jeremy D. Miller - Using Context/Specification to better express complicated tests](https://jeremydmiller.com/2022/10/24/using-context-specification-to-better-express-complicated-tests/)
 - [Oskar Dudycz - Writing and testing business logic in F#](https://event-driven.io/en/writing_and_testing_business_logic_in_fsharp/)
 - [George Kinsman - Improving Test Observability with Fixie+Seq](https://georgekinsman.com/programming/2022/04/22/Improving-Test-Observability-Fixie-Seq.html)
 - [Martin Thwaites - Monitoring Unit Tests with OpenTelemetry in .NET](https://www.honeycomb.io/blog/monitoring-unit-tests-opentelemetry/)
@@ -1740,6 +1758,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Mark Rendle - Programming’s Greatest Mistakes](https://www.youtube.com/watch?v=YfKzJuXmZX8)
+- [Karl Sutt - How to communicate effectively as a developer](https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/)
 - [Damian Płaza - Software Engineering for busy parents](https://talesfrom.dev/blog/software-engineering-for-busy-parents)
 - [Oskar Dudycz - Dive a bit deeper, look a bit wider](https://event-driven.io/en/dive_a_bit_deeper_look_a_bit_wider/)
 - [Szymon Kulec - One software developer with two jobs](https://blog.scooletz.com/2022/09/26/two-jobs-one-fte-software-developer)
@@ -1917,6 +1937,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Rob Rawson - Making remote and asynchronous work, work](https://www.infoq.com/podcasts/remote-asynchronous-work-rob-rawson)
 - [Amy Rigby - How to write a project status report that works for your team](https://blog.trello.com/how-to-write-a-project-status-report)
 - [Continus Delivery - Randy Shoup - Leading Teams For Silicon Valley Tech Giants](https://www.youtube.com/watch?v=Wg-_5wbYuZQ)
 - [Laurence Tratt - UML: My Part in its Downfall](https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html)
@@ -1987,6 +2008,9 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [picocli - a mighty tiny command line interface](https://picocli.info/)
+- [JWebAssembly - Java bytecode to WebAssembly compiler](https://github.com/i-net-software/JWebAssembly)
+- [Adam Warski - Protecting state using virtual threads](https://softwaremill.com/protecting-state-using-virtual-threads/)
 - [Marcin Grzejszczak - Observability with Spring Boot 3](https://spring.io/blog/2022/10/12/observability-with-spring-boot-3)
 - [Arch Unit - A Java architecture test library, to specify and assert architecture rules in plain Java](https://github.com/TNG/ArchUnit)
 - [Tech School - Config Gradle to generate Java code from Protobuf](https://dev.to/techschoolguru/config-gradle-to-generate-java-code-from-protobuf-1cla)
@@ -2172,6 +2196,7 @@
 - [InfoWorld - Google Cloud targets high performance workloads with Arm-based VMs and Batch job scheduling](https://www.infoworld.com/article/3666527/google-cloud-adds-arm-based-vms-and-automated-job-scheduling.html)
 
 ## Kotlin
+- [Engineering at Meta - From zero to 10 million lines of Kotlin](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/)
 - [Johan Haleby - Pragmatic Event Sourcing with Pure Functions](https://www.youtube.com/watch?v=YJvHbtuX250)
 - [Duncan McGregor - Java to Kotlin Gilded Rose](https://www.youtube.com/playlist?list=PL1ssMPpyqocjo6kkNCg-ncTyAW0nECPmq)
 - [Simon Vergauwen - Functional Domain Modeling in Kotlin - Validation](https://www.47deg.com/blog/functional-domain-modeling-part-2/)
@@ -2226,6 +2251,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [TechCrunch - Elon Musk owns Twitter: The story so far](https://techcrunch.com/2022/10/28/elon-musk-owns-twitter-the-story-so-far)
+- [The Verge - Twitter is planning to start charging $20 per month for verification](https://www.theverge.com/2022/10/30/23431931/twitter-paid-verification-elon-musk-blue-monthly-subscription)
 - [GitHub - GitHub for Startups is generally available](https://github.blog/2022-09-22-github-for-startups-is-generally-available)
 - [Open Core Ventures - Preventing the bait and switch by open core software companies](https://opencoreventures.com/blog/2022-10-preventing-the-bait-and-switch-open-core/)
 - [Lisa Harvey-Smith - More women are studying STEM, but there are still stubborn workplace barriers](https://theconversation.com/more-women-are-studying-stem-but-there-are-still-stubborn-workplace-barriers-190839)
@@ -2420,6 +2447,9 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Smitter hane - Turn around your Git mistakes in 17 ways](https://dev.to/smitterhane/turn-around-your-git-mistakes-in-17-ways-2mn1)
+- [GitUI - Blazing fast terminal-ui for git written in rust](https://github.com/extrawurst/gitui)
+- [Tailscale - Making an SSH client the hard way](https://tailscale.com/blog/ssh-console/)
 - [Bebop - An extremely simple, fast, efficient, cross-platform serialization format](https://github.com/RainwayApp/bebop)
 - [Cassidy Williams - cass.run - My own lil URL shortener](https://github.com/cassidoo/cass.run)
 - [GitHub - Git’s database internals I: packed object store](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/)

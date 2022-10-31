@@ -24,6 +24,68 @@ There are two rules:
 
 ---
 
+## [31th October 2022](per-week/2022-10-31.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+
+---
+
+### Architecture
+- [James Hickey - Event Sourcing: Without Eventual Consistency?](https://www.jamesmichaelhickey.com/event-sourcing-eventual-consistency-isnt-necessary/)
+- [Russell Ackoff - Why Few Organizations Adopt Systems Thinking](https://thesystemsthinker.com/why-few-organizations-adopt-systems-thinking/)
+- [David Heinemeier Hansson - Why we're leaving the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0)
+- [Yves Goeleven - Software Delivery Process](https://www.goeleven.com/guides/software-delivery-process/)
+- [Mark Seemann - When to refactor](https://blog.ploeh.dk/2022/09/19/when-to-refactor/)
+- [Kurt Bittner - Architectural Frameworks, Patterns, and Tactics Are No Substitute for Making Your Own Decisions](https://www.infoq.com/articles/frameworks-require-decisions/)
+- [Thoughtworks - Technology Radar #27](https://www.thoughtworks.com/content/dam/thoughtworks/documents/radar/2022/10/tr_technology_radar_vol_27_en.pdf)
+- [Emmanuel Bernard, Clement Escoffier - Kafka: a map of traps for the enlightened dev and op](https://www.youtube.com/watch?v=paVdXL5vDzg)
+
+### Databases
+- [Oskar Dudycz - How Postgres sequences issues can impact your messaging guarantees](https://event-driven.io/en/ordering_in_postgres_outbox/)
+
+### AWS
+- [Matt Rickard - S3 Isn't Getting Cheaper](https://matt-rickard.com/10-years-and-s3-isnt-getting-cheaper)
+- [Alex Chan - Aurora vs. RDS: An Engineer’s Guide to Choosing a Database](https://www.lastweekinaws.com/blog/aurora-vs-rds-an-engineers-guide-to-choosing-a-database/)
+- [Avinash Vallarapu - Is Aurora PostgreSQL really faster and cheaper than RDS PostgreSQL – Benchmarking](https://www.migops.com/blog/is-aurora-postgresql-really-faster-and-cheaper-than-rds-postgresql-benchmarking/)
+
+### Azure
+- [Gaurav Malhotra - Polyglot Microservices Communication Using Dapr on AKS](https://www.infoq.com/articles/polygot-microservices-dapr-aks)
+
+### Functional Programming
+- [Gjeta Gjyshinca - Monad I Love You Now Get Out Of My Type System](https://www.youtube.com/watch?v=2PxsyWqZ5dI)
+
+### Java
+- [picocli - a mighty tiny command line interface](https://picocli.info/)
+- [JWebAssembly - Java bytecode to WebAssembly compiler](https://github.com/i-net-software/JWebAssembly)
+- [Adam Warski - Protecting state using virtual threads](https://softwaremill.com/protecting-state-using-virtual-threads/)
+
+### Kotlin
+- [Engineering at Meta - From zero to 10 million lines of Kotlin](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/)
+
+### .NET
+- [David Wengier - What's new in C# 11 now with less controversy!!](https://www.youtube.com/watch?v=w5MKY9rOHi4)
+- [Patrick Smacchia - Managed pointers, Span, ref struct, C#11 ref fields and the scoped keyword](https://blog.ndepend.com/managed-pointers-span-ref-struct-c11-ref-fields-and-the-scoped-keyword/)
+- [James Randall - CSharp port of Wolfenstein using the funky new language features ](https://github.com/JamesRandall/csharp-wolfenstein)
+- [Jeremy D. Miller - Using Context/Specification to better express complicated tests](https://jeremydmiller.com/2022/10/24/using-context-specification-to-better-express-complicated-tests/)
+
+### Tools
+- [Smitter hane - Turn around your Git mistakes in 17 ways](https://dev.to/smitterhane/turn-around-your-git-mistakes-in-17-ways-2mn1)
+- [GitUI - Blazing fast terminal-ui for git written in rust](https://github.com/extrawurst/gitui)
+- [Tailscale - Making an SSH client the hard way](https://tailscale.com/blog/ssh-console/)
+
+### Coding Life
+- [Mark Rendle - Programming’s Greatest Mistakes](https://www.youtube.com/watch?v=YfKzJuXmZX8)
+- [Karl Sutt - How to communicate effectively as a developer](https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/)
+
+### Management
+- [Rob Rawson - Making remote and asynchronous work, work](https://www.infoq.com/podcasts/remote-asynchronous-work-rob-rawson)
+
+### Industry
+- [TechCrunch - Elon Musk owns Twitter: The story so far](https://techcrunch.com/2022/10/28/elon-musk-owns-twitter-the-story-so-far)
+- [The Verge - Twitter is planning to start charging $20 per month for verification](https://www.theverge.com/2022/10/30/23431931/twitter-paid-verification-elon-musk-blue-monthly-subscription)
+
+---
+
 ## [24th October 2022](per-week/2022-10-24.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
