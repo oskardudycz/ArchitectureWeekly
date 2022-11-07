@@ -24,6 +24,130 @@ There are two rules:
 
 ---
 
+## [31th October 2022](per-week/2022-10-31.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+
+---
+
+### Architecture
+- [James Hickey - Event Sourcing: Without Eventual Consistency?](https://www.jamesmichaelhickey.com/event-sourcing-eventual-consistency-isnt-necessary/)
+- [Russell Ackoff - Why Few Organizations Adopt Systems Thinking](https://thesystemsthinker.com/why-few-organizations-adopt-systems-thinking/)
+- [David Heinemeier Hansson - Why we're leaving the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0)
+- [Yves Goeleven - Software Delivery Process](https://www.goeleven.com/guides/software-delivery-process/)
+- [Mark Seemann - When to refactor](https://blog.ploeh.dk/2022/09/19/when-to-refactor/)
+- [Kurt Bittner - Architectural Frameworks, Patterns, and Tactics Are No Substitute for Making Your Own Decisions](https://www.infoq.com/articles/frameworks-require-decisions/)
+- [Thoughtworks - Technology Radar #27](https://www.thoughtworks.com/content/dam/thoughtworks/documents/radar/2022/10/tr_technology_radar_vol_27_en.pdf)
+- [Emmanuel Bernard, Clement Escoffier - Kafka: a map of traps for the enlightened dev and op](https://www.youtube.com/watch?v=paVdXL5vDzg)
+
+### Databases
+- [Oskar Dudycz - How Postgres sequences issues can impact your messaging guarantees](https://event-driven.io/en/ordering_in_postgres_outbox/)
+
+### AWS
+- [Matt Rickard - S3 Isn't Getting Cheaper](https://matt-rickard.com/10-years-and-s3-isnt-getting-cheaper)
+- [Alex Chan - Aurora vs. RDS: An Engineer’s Guide to Choosing a Database](https://www.lastweekinaws.com/blog/aurora-vs-rds-an-engineers-guide-to-choosing-a-database/)
+- [Avinash Vallarapu - Is Aurora PostgreSQL really faster and cheaper than RDS PostgreSQL – Benchmarking](https://www.migops.com/blog/is-aurora-postgresql-really-faster-and-cheaper-than-rds-postgresql-benchmarking/)
+
+### Azure
+- [Gaurav Malhotra - Polyglot Microservices Communication Using Dapr on AKS](https://www.infoq.com/articles/polygot-microservices-dapr-aks)
+
+### Functional Programming
+- [Gjeta Gjyshinca - Monad I Love You Now Get Out Of My Type System](https://www.youtube.com/watch?v=2PxsyWqZ5dI)
+
+### Java
+- [picocli - a mighty tiny command line interface](https://picocli.info/)
+- [JWebAssembly - Java bytecode to WebAssembly compiler](https://github.com/i-net-software/JWebAssembly)
+- [Adam Warski - Protecting state using virtual threads](https://softwaremill.com/protecting-state-using-virtual-threads/)
+
+### Kotlin
+- [Engineering at Meta - From zero to 10 million lines of Kotlin](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/)
+
+### .NET
+- [David Wengier - What's new in C# 11 now with less controversy!!](https://www.youtube.com/watch?v=w5MKY9rOHi4)
+- [Patrick Smacchia - Managed pointers, Span, ref struct, C#11 ref fields and the scoped keyword](https://blog.ndepend.com/managed-pointers-span-ref-struct-c11-ref-fields-and-the-scoped-keyword/)
+- [James Randall - CSharp port of Wolfenstein using the funky new language features ](https://github.com/JamesRandall/csharp-wolfenstein)
+- [Jeremy D. Miller - Using Context/Specification to better express complicated tests](https://jeremydmiller.com/2022/10/24/using-context-specification-to-better-express-complicated-tests/)
+
+### Tools
+- [Smitter hane - Turn around your Git mistakes in 17 ways](https://dev.to/smitterhane/turn-around-your-git-mistakes-in-17-ways-2mn1)
+- [GitUI - Blazing fast terminal-ui for git written in rust](https://github.com/extrawurst/gitui)
+- [Tailscale - Making an SSH client the hard way](https://tailscale.com/blog/ssh-console/)
+
+### Coding Life
+- [Mark Rendle - Programming’s Greatest Mistakes](https://www.youtube.com/watch?v=YfKzJuXmZX8)
+- [Karl Sutt - How to communicate effectively as a developer](https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/)
+
+### Management
+- [Rob Rawson - Making remote and asynchronous work, work](https://www.infoq.com/podcasts/remote-asynchronous-work-rob-rawson)
+
+### Industry
+- [TechCrunch - Elon Musk owns Twitter: The story so far](https://techcrunch.com/2022/10/28/elon-musk-owns-twitter-the-story-so-far)
+- [The Verge - Twitter is planning to start charging $20 per month for verification](https://www.theverge.com/2022/10/30/23431931/twitter-paid-verification-elon-musk-blue-monthly-subscription)
+
+---
+
+## [24th October 2022](per-week/2022-10-24.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+
+---
+
+### Architecture
+- [Martin Fowler - ConwaysLaw](https://martinfowler.com/bliki/ConwaysLaw.html)
+- [GitLab - What are the benefits of a microservices architecture?](https://about.gitlab.com/blog/2022/09/29/what-are-the-benefits-of-a-microservices-architecture/)
+- [Andrzej Ludwikowski - Message delivery and deduplication strategies](https://softwaremill.com/message-delivery-and-deduplication-strategies/)
+- [VirtualDDD - Exploring Techniques For Modelling Bounded Context Collaboration](https://www.youtube.com/watch?v=oj4zGj6sPDc)
+- [Thomas Pierrain - Is DDD right-wing?](https://medium.com/@tpierrain/is-ddd-right-wing-7fe88cc702c9)
+
+### Distributed Systems
+- [Jack Vanlightly - Understanding How Apache Pulsar Works](https://jack-vanlightly.com/blog/2018/10/2/understanding-how-apache-pulsar-works)
+
+### DevOps
+- [Florin Lipan - The smallest Docker image to serve static websites](https://lipanski.com/posts/smallest-docker-image-static-website)
+
+### Databases
+- [Gunnar Morling - Open-source Change Data Capture With Debezium](https://www.youtube.com/watch?v=G7TvRzPQH-U)
+- [P. Bailis, A. Fekete, M.J. Franklin, A. Ghodsi, J.M. Hellerstein, I. Stoica - Coordination Avoidance in Database Systems](https://arxiv.org/pdf/1402.2237.pdf)
+- [David Rowley - Partition Elimination in PostgreSQL 11](https://www.2ndquadrant.com/en/blog/partition-elimination-postgresql-11/)
+- [PostgresPro - SQL/JSON patches committed to PostgreSQL 15!](https://postgrespro.com/blog/pgsql/5969433)
+
+### Testing
+- [Toxiproxy - A TCP proxy to simulate network and system conditions for chaos and resiliency testing](https://github.com/Shopify/toxiproxy)
+
+### AI
+- [Chris Schneider - Test-driven development and AI machine learning](https://www.ibm.com/garage/method/practices/reason/tdd-and-machine-learning/)
+- [Sarah Drummond - The future is what you think it is](https://sarahdrummond.medium.com/the-future-is-what-you-think-it-is-d7a54369ea32)
+
+### Java
+- [Marcin Grzejszczak - Observability with Spring Boot 3](https://spring.io/blog/2022/10/12/observability-with-spring-boot-3)
+- [Arch Unit - A Java architecture test library, to specify and assert architecture rules in plain Java](https://github.com/TNG/ArchUnit)
+
+### .NET
+- [Oskar Dudycz - Writing and testing business logic in F#](https://event-driven.io/en/writing_and_testing_business_logic_in_fsharp/)
+- [George Kinsman - Improving Test Observability with Fixie+Seq](https://georgekinsman.com/programming/2022/04/22/Improving-Test-Observability-Fixie-Seq.html)
+- [Martin Thwaites - Monitoring Unit Tests with OpenTelemetry in .NET](https://www.honeycomb.io/blog/monitoring-unit-tests-opentelemetry/)
+- [FsCheck - Random Testing for .NET](https://github.com/fscheck/FsCheck)
+
+### Node.js
+- [Node.js - Node.js 19 is now available](https://nodejs.org/en/blog/announcements/v19-release-announce/)
+
+### Tools
+- [Bebop - An extremely simple, fast, efficient, cross-platform serialization format](https://github.com/RainwayApp/bebop)
+
+### Management
+- [Amy Rigby - How to write a project status report that works for your team](https://blog.trello.com/how-to-write-a-project-status-report)
+
+### Industry
+- [GitHub - GitHub for Startups is generally available](https://github.blog/2022-09-22-github-for-startups-is-generally-available)
+- [Open Core Ventures - Preventing the bait and switch by open core software companies](https://opencoreventures.com/blog/2022-10-preventing-the-bait-and-switch-open-core/)
+
+### Security
+- [InfoQ - Two New Git Vulnerabilities Affecting Local Clones and Git Shell Patched](https://www.infoq.com/news/2022/10/git-clone-shell-vulnerabilities)
+- [Dominick Baier - OAuth – the good Parts](https://www.youtube.com/watch?v=y2Psj8ACZyw)
+- [WAM BAM - Recovering Web Tokens From Office](https://blog.xpnsec.com/wam-bam/)
+
+---
+
 ## [17th October 2022](per-week/2022-10-17.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
@@ -379,7 +503,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Khalid Abuhakmeh - Playwright tests with XUnit](https://gist.github.com/khalidabuhakmeh/cfc0e3ba6b311b8a9ca3154fd5086a6a)
 - [David Fowler - A sample plugin model for ASP.NET Core applications](https://github.com/davidfowl/WebApplicationPlugins)
 
-### NodeJS
+### Node.js
 - [S(n) - Mailing - Build, test, send emails with React](https://github.com/sofn-xyz/mailing)
 - [ESLint - ESLint's new config system, Part 1: Background](https://eslint.org/blog/2022/08/new-config-system-part-1/)
 
@@ -510,7 +634,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Microsoft - Announcing built-in container support for the .NET SDK](https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/)
 - [Patrick Smacchia - C# 11 Raw String Literals Explained](https://blog.ndepend.com/c-11-raw-string-literals-explained/)
 
-### NodeJS
+### Node.js
 - [Zod - TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)
 
 ### Coding Life
@@ -695,7 +819,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [FluentMermaid - Mermaid.js fluent api for .NET](https://github.com/wowbios/FluentMermaid)
 - [Hirotada Kobayashi - PlantUmlClassDiagramGenerator - This is a generator to create a class-diagram of PlantUML from the C# source code](https://github.com/pierre3/PlantUmlClassDiagramGenerator)
 
-### NodeJS
+### Node.js
 - [Oskar Dudycz - Straightforward Event Sourcing with TypeScript and NodeJS](https://event-driven.io/en/type_script_node_Js_event_sourcing/)
 
 ### Rust
@@ -830,7 +954,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ### JavaScript
 - [Shawn Wang - Bun and Deno: New Runtimes for the Third Age of JavaScript](https://www.youtube.com/watch?v=O7KVEwNau6w)
 
-### NodeJS
+### Node.js
 - [Software Engineering Daily - Remix with Ryan Florence](https://softwareengineeringdaily.com/2022/07/22/remix-with-ryan-florence/)
 
 ### Coding Life
@@ -1194,7 +1318,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Simon Cropp - XunitContext - Extends xUnit to expose extra context and simplify logging](https://github.com/SimonCropp/XunitContext)
 - [Marcin Budny - Comparing .NET virtual actor frameworks](https://www.etteplan.com/stories/comparing-net-virtual-actor-frameworks)
 
-### NodeJS
+### Node.js
 - [Nexe - create a single executable out of your node.js apps ](https://github.com/nexe/nexe)
 
 ### Python
@@ -1444,7 +1568,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Andrew Lock - Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/)
 - [Oleksii Nikiforov - Creating and Using HTTP Client SDKs in .NET 6](https://www.infoq.com/articles/creating-http-sdks-dotnet-6)
 
-### NodeJS
+### Node.js
 - [Michael Herman - Node, gRPC, and Postgres](https://mherman.org/blog/node-grpc-postgres/)
 
 ### TypeScript
@@ -1555,7 +1679,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Andrew Lock - Keeping up with .NET: learning about new features and APIs](https://andrewlock.net/keeping-up-with-dotnet-learning-about-new-features-and-apis)
 - [Oskar Dudycz - How to build a simple event pipeline](https://event-driven.io/en/how_to_build_simple_event_pipeline/)
 
-### NodeJS
+### Node.js
 - [Google - WireIt - Upgrades your npm scripts to make them smarter and more efficient](https://github.com/google/wireit)
 
 ### Ruby
@@ -1853,7 +1977,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Antoine Aubry - YamlDotNet - A .NET library for YAML](https://github.com/aaubry/YamlDotNet)
 - [Philipp Munin - Event debouncer helps to prevent calling the same event handler too often](https://gist.github.com/pmunin/634d8971be1e0e7b16edfd548f2a8526)
 
-### NodeJS
+### Node.js
 - [NodeJS - Stream Finished, handling closed or ended NodeJS stream](https://nodejs.org/api/stream.html#streamfinishedstream-options-callback)
 
 ### Python
@@ -2042,7 +2166,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Maoni Stephens - Diagnosing Memory Leaks](https://www.youtube.com/watch?v=ImeiUzbdMzc)
 - [Microsoft - Safe storage of app secrets in development in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-6.0&tabs=windows)
 
-### NodeJS
+### Node.js
 - [node-postgres - a collection of node.js modules for interfacing with your PostgreSQL database](https://node-postgres.com/)
 - [@databases - TypeScript clients for databases that prevent SQL Injection](https://www.atdatabases.org/)
 
@@ -2142,7 +2266,7 @@ Ukraine, stay strong!
 - [Maxime Lemaitre - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes](https://github.com/Cybermaxs/awesome-analyzers)
 - [QuestPDF - An open-source, library that can help you with generating PDF documents](https://github.com/QuestPDF/QuestPDF)
 
-### NodeJS
+### Node.js
 - [Kent C. Dodds - Why I Love Remix](https://kentcdodds.com/blog/why-i-love-remix)
 
 ### Rust
@@ -2414,7 +2538,7 @@ Ukraine, stay strong!
 - [OpenTelemetry .NET Contrib - Set of components extending functionality of the OpenTelemetry .NET SDK](https://github.com/open-telemetry/opentelemetry-dotnet-contrib)
 - [.NET Docs - Performance best practices with gRPC](https://docs.microsoft.com/en-us/aspnet/core/grpc/performance?view=aspnetcore-6.0)
 
-### NodeJS
+### Node.js
 - [Netanel Basal - Falso - All the Fake Data for All Your Real Needs](https://github.com/ngneat/falso)
 - [Faker.js - An update from the Faker team](https://fakerjs.dev/update.html)
 
@@ -2789,7 +2913,7 @@ Ukraine, stay strong!
 ### JavaScript
 - [Ramda - A practical functional library for JavaScript programmers.](https://ramdajs.com/)
 
-### NodeJS
+### Node.js
 - [Keeth Kuwahara - npm-stats-api: Node Package's Statistics API](https://github.com/kkeeth/npm-stats-api)
 - [Steven Vachon - broken-link-checker: Find broken links, missing images, etc within your HTML](https://github.com/stevenvachon/broken-link-checker)
 
@@ -2978,7 +3102,7 @@ Ukraine, stay strong!
 - [Andreas Dorfer - Option Type in C#](https://www.enterprise-software-development.eu/posts/2019/11/19/option-type.html)
 - [Andrew Lock - Improving logging performance with source generators](https://andrewlock.net/exploring-dotnet-6-part-8-improving-logging-performance-with-source-generators)
 
-### NodeJs
+### Node.js
 - [Express - Health Checks and Graceful Shutdown](https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html)
 - [Jose Arroyo Rodriguez - Implementing NodeJS HTTP Graceful Shutdown](https://blog.dashlane.com/implementing-nodejs-http-graceful-shutdown/)
 
@@ -3428,7 +3552,7 @@ Ukraine, stay strong!
 - [Mark Seemann - The Command Handler contravariant functor](https://blog.ploeh.dk/2021/09/06/the-command-handler-contravariant-functor/)
 - [Konrad Kokosa - Mobius.ILasm - Common Intermediate Language (CIL) assembler available as a library, based on Mono assembler](https://github.com/kkokosa/Mobius.ILasm)
 
-### NodeJS
+### Node.js
 - [reSolve - Full stack CQRS, DDD, Event Sourcing framework for Node.js](https://reimagined.github.io/resolve/)
 
 ### TypeScript
@@ -3939,7 +4063,7 @@ Ukraine, stay strong!
 - [Scott Hanselman - dotnet repl](https://www.hanselman.com/blog/dotnet-repl)
 - [Khalid Abuhakmeh - C# Pattern Matching Quick Guide And Examples](https://khalidabuhakmeh.com/csharp-pattern-matching-quick-guide-and-examples)
 
-### NodeJS
+### Node.js
 - [Mark Michon - Add Retries to Your API Calls](https://blog.bearer.sh/add-retry-to-api-calls-javascript-node/)
 
 ### Swift
@@ -3980,7 +4104,7 @@ Ukraine, stay strong!
 ### Java
 - [Gunnar Morling - Serverless Search for My Blog with Java, Quarkus & AWS Lambda](https://www.infoq.com/presentations/quarkus-java-serverless/)
 
-### NodeJS
+### Node.js
 - [Alvin Lal - Single thread vs child process vs worker threads vs cluster in nodejs](https://alvinlal.netlify.app/blog/single-thread-vs-child-process-vs-worker-threads-vs-cluster-in-nodejs)
 - [Alberto Gimeno - Node.js multithreading: What are Worker threads, and why do they matter?](https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10/)
 
@@ -4082,7 +4206,7 @@ Ukraine, stay strong!
 ### Go
 - [Chewxy - How To Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
 
-### NodeJS
+### Node.js
 - [Ákos Szokodi - How to Easily Set-up Node Config Following These Best Practices](https://codingsans.com/blog/node-config-best-practices)
 
 ### Windows
