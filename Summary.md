@@ -56,6 +56,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Never Lose Data Again - Event Sourcing to the Rescue!](https://event-driven.io/en/never_lose_data_with_event_sourcing/)
+- [Gregor Hohpe - Architecting Cloud Solutions](https://www.youtube.com/watch?v=iUTcb03QHhE)
+- [Lorna Mitchell – Designing Payloads for Event-Driven Systems](https://www.youtube.com/watch?v=EPdWMRptayY)
+- [Julian Wood - Advanced Serverless Messaging Patterns for your Applications](https://www.youtube.com/watch?v=nHbCojH2vEY)
+- [Eduards Sizovs - Simple is not easy](https://sizovs.net/2022/10/31/simple-is-not-easy/)
+- [Zach Holman - UTC is enough for everyone ...right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right)
 - [James Hickey - Event Sourcing: Without Eventual Consistency?](https://www.jamesmichaelhickey.com/event-sourcing-eventual-consistency-isnt-necessary/)
 - [Russell Ackoff - Why Few Organizations Adopt Systems Thinking](https://thesystemsthinker.com/why-few-organizations-adopt-systems-thinking/)
 - [David Heinemeier Hansson - Why we're leaving the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0)
@@ -756,6 +762,10 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Traefik - The Cloud Native Application Proxy](https://github.com/traefik/traefik)
+- [Jabe Bloom, Andrew Clay Shafer - DevOps de los Muertos](https://www.ergonautic.ly/blog/devops_de_los_muertos/)
+- [Michał Jankowski - FinOps: Saving 7k EUR/month by 5 minutes action](https://www.jankowskimichal.pl/en/2022/01/finops-saving-7k-eur-month-by-5-minutes-action/)
+- [Magsther - Awesome OpenTelemetry](https://github.com/magsther/awesome-opentelemetry)
 - [Florin Lipan - The smallest Docker image to serve static websites](https://lipanski.com/posts/smallest-docker-image-static-website)
 - [Splunk - The State of Observability 2022](https://www.splunk.com/en_us/pdfs/gated/research/state-of-observability-2022.pdf)
 - [Digital Ocean - Kubernetes adoption journey for startups and SMBs](https://anchor.digitalocean.com/rs/113-DTN-266/images/Kubernetes-Adoption-Journey_DigitalOcean.pdf)
@@ -1265,6 +1275,7 @@
 - [Brett Rowberry - An F# Dev's Perspective on Clojure](https://brettrowberry.hashnode.dev/an-f-devs-perspective-on-clojure)
 
 ## Functional Programming
+- [Felienne Hermans - Pure Functional Programming in Excel](https://www.youtube.com/watch?v=0yKf8TrLUOw)
 - [Gjeta Gjyshinca - Monad I Love You Now Get Out Of My Type System](https://www.youtube.com/watch?v=2PxsyWqZ5dI)
 - [Alexis King - Hackett: a metaprogrammable Haskell](https://www.youtube.com/watch?app=desktop&v=5QQdI3P7MdY)
 - [John De Goes - What Functional Programming Can Learn From Object-Oriented Programming](https://www.youtube.com/watch?v=9hAcW2oMl6M)
@@ -1285,6 +1296,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [.NET Conf 2022](https://www.dotnetconf.net)
+- [Dustin Moris Gorski - The type system is a programmer's best friend](https://dusted.codes/the-type-system-is-a-programmers-best-friend)
+- [Chet Husk, David Fowler - The .NET Podcast - a sample application showcasing .NET 6, ASP.NET Core, Blazor, .NET MAUI, Azure Container Apps, Orleans](https://github.com/baronfel/dotnet-podcasts)
+- [Chris Klug - Build the modular monolith first](https://www.fearofoblivion.com/build-a-modular-monolith-first)
 - [David Wengier - What's new in C# 11 now with less controversy!!](https://www.youtube.com/watch?v=w5MKY9rOHi4)
 - [Patrick Smacchia - Managed pointers, Span, ref struct, C#11 ref fields and the scoped keyword](https://blog.ndepend.com/managed-pointers-span-ref-struct-c11-ref-fields-and-the-scoped-keyword/)
 - [James Randall - CSharp port of Wolfenstein using the funky new language features ](https://github.com/JamesRandall/csharp-wolfenstein)
@@ -1758,6 +1773,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Milen Dyakov - Operational vs. Strategic DevX](https://milendyankov.com/blog/2022/10/operational_vs_strategic_devx/)
+- [Mary Thengvall - DevRel Resources](https://devrelresourc.es/)
 - [Mark Rendle - Programming’s Greatest Mistakes](https://www.youtube.com/watch?v=YfKzJuXmZX8)
 - [Karl Sutt - How to communicate effectively as a developer](https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/)
 - [Damian Płaza - Software Engineering for busy parents](https://talesfrom.dev/blog/software-engineering-for-busy-parents)
@@ -2008,6 +2025,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Jonathan Giles - Java Best Practices](https://java.jonathangiles.net/)
 - [picocli - a mighty tiny command line interface](https://picocli.info/)
 - [JWebAssembly - Java bytecode to WebAssembly compiler](https://github.com/i-net-software/JWebAssembly)
 - [Adam Warski - Protecting state using virtual threads](https://softwaremill.com/protecting-state-using-virtual-threads/)
@@ -2163,6 +2181,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Jesse Li - Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 - [Konstantin Makarov - Writing your own PostgreSQL driver](https://medium.com/scum-gazeta/writing-your-own-postgresql-driver-ebd5fd6d187d)
 - [Google Cloud Blog - Why I love Go](https://cloud.google.com/blog/products/application-modernization/why-david-yach-loves-go)
 - [Sqlc - Compile SQL to type-safe code](https://sqlc.dev/)
@@ -2212,6 +2231,7 @@
 - [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
 
 ## Rust
+- [Steadylearner - How to use gRPC with Rust Tonic and Postgres database with examples](https://dev.to/steadylearner/how-to-use-grpc-with-rust-tonic-and-postgres-database-with-examples-3dl7)
 - [Amos Wenger - Remote development with Rust on fly.io](https://fasterthanli.me/articles/remote-development-with-rust-on-fly-io)
 - [Amos Wenger - Rust modules vs files](https://fasterthanli.me/articles/rust-modules-vs-files)
 - [Async Raft - An implementation of the Raft distributed consensus protocol using the Tokio framework](https://github.com/async-raft/async-raft)
@@ -2251,6 +2271,10 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Stripe - CEO Patrick Collison's email to Stripe employees](https://stripe.com/en-gb-nl/newsroom/news/ceo-patrick-collisons-email-to-stripe-employees)
+- [Guardian - Twitter slashes nearly half its workforce as Musk admits ‘massive drop’ in revenue](https://www.theguardian.com/technology/2022/nov/04/twitter-layoffs-elon-musk-revenue-drop)
+- [Martin Fowler - Exploring Mastodon](https://martinfowler.com/articles/exploring-mastodon.html)
+- [Remix - Remixing Shopify](https://remix.run/blog/remixing-shopify)
 - [TechCrunch - Elon Musk owns Twitter: The story so far](https://techcrunch.com/2022/10/28/elon-musk-owns-twitter-the-story-so-far)
 - [The Verge - Twitter is planning to start charging $20 per month for verification](https://www.theverge.com/2022/10/30/23431931/twitter-paid-verification-elon-musk-blue-monthly-subscription)
 - [GitHub - GitHub for Startups is generally available](https://github.blog/2022-09-22-github-for-startups-is-generally-available)
@@ -2435,6 +2459,7 @@
 - [Asahi Linux - A project and community with the goal of porting Linux to Apple Silicon Macs](https://asahilinux.org/about/)
 
 ## Windows
+- [Microsoft - Power Toys - Windows system utilities to maximize productivity](https://github.com/microsoft/PowerToys)
 - [Azure Academy - Windows 11 Tabs](https://www.youtube.com/watch?av=p3CYEJCunlE)
 - [Valentin-Gabriel Radu - ExplorerPatcher - This project aims to bring back a productive working environment on Windows 11](https://github.com/valinet/ExplorerPatcher)
 - [Robert C. Maehl - Why Not Win11 - Detection Script to help identify why your PC isn't Windows 11 ready](https://github.com/rcmaehl/WhyNotWin11)
@@ -2447,6 +2472,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Home Assistant - Open source home automation that puts local control and privacy first](https://github.com/home-assistant/core)
 - [Smitter hane - Turn around your Git mistakes in 17 ways](https://dev.to/smitterhane/turn-around-your-git-mistakes-in-17-ways-2mn1)
 - [GitUI - Blazing fast terminal-ui for git written in rust](https://github.com/extrawurst/gitui)
 - [Tailscale - Making an SSH client the hard way](https://tailscale.com/blog/ssh-console/)
@@ -2522,6 +2548,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Jonathan Scott - Pegasus Spyware — Untold — Chinese Engineering — Samples 1 & 2](https://jonathandata1.medium.com/pegasus-spyware-untold-chinese-engineering-samples-1-2-e5aba2a0b20b)
 - [InfoQ - Two New Git Vulnerabilities Affecting Local Clones and Git Shell Patched](https://www.infoq.com/news/2022/10/git-clone-shell-vulnerabilities)
 - [Dominick Baier - OAuth – the good Parts](https://www.youtube.com/watch?v=y2Psj8ACZyw)
 - [WAM BAM - Recovering Web Tokens From Office](https://blog.xpnsec.com/wam-bam/)
@@ -2645,6 +2672,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Matthew Carlson - The Potatoes Of DOOM](https://hackaday.com/2020/10/13/the-potatoes-of-doom/)
 - [Lex Friedman Podcast - John Carmack: Doom, Quake, VR, AGI, Programming, Video Games, and Rockets](https://www.youtube.com/watch?v=I845O57ZSy4)
 - [The Verge - The iPhone 14 keeps calling 911 on rollercoasters](https://www.theverge.com/2022/10/9/23395222/iphone-14-calling-911-rollercoasters-apple-crash-detection)
 - [Abhishek Prakash - Watch Star Wars In Linux Terminal via Telnet](https://itsfoss.com/star-wars-linux/)

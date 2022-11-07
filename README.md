@@ -24,6 +24,68 @@ There are two rules:
 
 ---
 
+## [7th November 2022](per-week/2022-11-07.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+
+---
+
+### Architecture
+- [Oskar Dudycz - Never Lose Data Again - Event Sourcing to the Rescue!](https://event-driven.io/en/never_lose_data_with_event_sourcing/)
+- [Gregor Hohpe - Architecting Cloud Solutions](https://www.youtube.com/watch?v=iUTcb03QHhE)
+- [Lorna Mitchell – Designing Payloads for Event-Driven Systems](https://www.youtube.com/watch?v=EPdWMRptayY)
+- [Julian Wood - Advanced Serverless Messaging Patterns for your Applications](https://www.youtube.com/watch?v=nHbCojH2vEY)
+- [Eduards Sizovs - Simple is not easy](https://sizovs.net/2022/10/31/simple-is-not-easy/)
+- [Zach Holman - UTC is enough for everyone ...right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right)
+
+### DevOps
+- [Traefik - The Cloud Native Application Proxy](https://github.com/traefik/traefik)
+- [Jabe Bloom, Andrew Clay Shafer - DevOps de los Muertos](https://www.ergonautic.ly/blog/devops_de_los_muertos/)
+- [Michał Jankowski - FinOps: Saving 7k EUR/month by 5 minutes action](https://www.jankowskimichal.pl/en/2022/01/finops-saving-7k-eur-month-by-5-minutes-action/)
+- [Magsther - Awesome OpenTelemetry](https://github.com/magsther/awesome-opentelemetry)
+
+### Functional Programming
+- [Felienne Hermans - Pure Functional Programming in Excel](https://www.youtube.com/watch?v=0yKf8TrLUOw)
+
+### Go
+- [Jesse Li - Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
+
+### Java
+- [Jonathan Giles - Java Best Practices](https://java.jonathangiles.net/)
+
+### .NET
+- [.NET Conf 2022](https://www.dotnetconf.net)
+- [Dustin Moris Gorski - The type system is a programmer's best friend](https://dusted.codes/the-type-system-is-a-programmers-best-friend)
+- [Chet Husk, David Fowler - The .NET Podcast - a sample application showcasing .NET 6, ASP.NET Core, Blazor, .NET MAUI, Azure Container Apps, Orleans](https://github.com/baronfel/dotnet-podcasts)
+- [Chris Klug - Build the modular monolith first](https://www.fearofoblivion.com/build-a-modular-monolith-first)
+
+### Rust
+- [Steadylearner - How to use gRPC with Rust Tonic and Postgres database with examples](https://dev.to/steadylearner/how-to-use-grpc-with-rust-tonic-and-postgres-database-with-examples-3dl7)
+
+### Tools
+- [Home Assistant - Open source home automation that puts local control and privacy first](https://github.com/home-assistant/core)
+
+### Windows
+- [Microsoft - Power Toys - Windows system utilities to maximize productivity](https://github.com/microsoft/PowerToys)
+
+### Coding Life
+- [Milen Dyakov - Operational vs. Strategic DevX](https://milendyankov.com/blog/2022/10/operational_vs_strategic_devx/)
+- [Mary Thengvall - DevRel Resources](https://devrelresourc.es/)
+
+### Security
+- [Jonathan Scott - Pegasus Spyware — Untold — Chinese Engineering — Samples 1 & 2](https://jonathandata1.medium.com/pegasus-spyware-untold-chinese-engineering-samples-1-2-e5aba2a0b20b)
+
+### Industry
+- [Stripe - CEO Patrick Collison's email to Stripe employees](https://stripe.com/en-gb-nl/newsroom/news/ceo-patrick-collisons-email-to-stripe-employees)
+- [Guardian - Twitter slashes nearly half its workforce as Musk admits ‘massive drop’ in revenue](https://www.theguardian.com/technology/2022/nov/04/twitter-layoffs-elon-musk-revenue-drop)
+- [Martin Fowler - Exploring Mastodon](https://martinfowler.com/articles/exploring-mastodon.html)
+- [Remix - Remixing Shopify](https://remix.run/blog/remixing-shopify)
+
+### Trivia
+- [Matthew Carlson - The Potatoes Of DOOM](https://hackaday.com/2020/10/13/the-potatoes-of-doom/)
+
+---
+
 ## [31th October 2022](per-week/2022-10-31.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
