@@ -56,6 +56,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - How events can help in making the state-based approach efficient](https://event-driven.io/en/how_events_can_help_on_making_state_based_approach_efficient/?utm_source=architecture_weekly)
+- [Sam Newman, Martin Fowler - When To Use Microservices (And When Not To!)](https://www.youtube.com/watch?v=GBTdnfD6s5Q)
+- [Christin Gorman - How do our ideas about coding affect the software we create?](https://www.youtube.com/watch?v=sSee-aDjtmw)
+- [Andrew Harmel-Law - Your Organisation Viewed as a Collection of Capabilities](https://andrewharmellaw.github.io/organisation/2021/03/27/the-organisation-as-collection-of-services)
+- [Ben Hall - The Modern Observability Problem](https://failingfast.io/opentelemetry-observability/)
 - [Oskar Dudycz - Never Lose Data Again - Event Sourcing to the Rescue!](https://event-driven.io/en/never_lose_data_with_event_sourcing/)
 - [Gregor Hohpe - Architecting Cloud Solutions](https://www.youtube.com/watch?v=iUTcb03QHhE)
 - [Lorna Mitchell – Designing Payloads for Event-Driven Systems](https://www.youtube.com/watch?v=EPdWMRptayY)
@@ -762,6 +767,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Schkn - Monitoring Linux Processes using Prometheus and Grafana](https://devconnected.com/monitoring-linux-processes-using-prometheus-and-grafana/)
+- [k9s - Kubernetes CLI To Manage Your Clusters In Style!](https://k9scli.io/)
 - [Traefik - The Cloud Native Application Proxy](https://github.com/traefik/traefik)
 - [Jabe Bloom, Andrew Clay Shafer - DevOps de los Muertos](https://www.ergonautic.ly/blog/devops_de_los_muertos/)
 - [Michał Jankowski - FinOps: Saving 7k EUR/month by 5 minutes action](https://www.jankowskimichal.pl/en/2022/01/finops-saving-7k-eur-month-by-5-minutes-action/)
@@ -980,6 +987,8 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Kevlin Henney - Structure and Interpretation of Test Cases](https://www.youtube.com/watch?v=MWsk1h8pv2Q)
+- [Mark Seeman - Favor real dependencies for unit testing](https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/)
 - [Toxiproxy - A TCP proxy to simulate network and system conditions for chaos and resiliency testing](https://github.com/Shopify/toxiproxy)
 - [Tokopedia - GripMock - gRPC Mock Server](https://github.com/tokopedia/gripmock)
 - [Steve Freeman - Test Smell: Everything is mocked](http://www.mockobjects.com/2007/04/test-smell-everything-is-mocked.html)
@@ -1053,6 +1062,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Cloudflare - D1: our quest to simplify databases](https://blog.cloudflare.com/whats-new-with-d1/)
+- [Hironobu SUZUKI - Postgres Concurrency Control](https://www.interdb.jp/pg/pgsql05.html)
+- [AWS - Set up highly available PgBouncer and HAProxy with Amazon Aurora PostgreSQL readers](https://aws.amazon.com/blogs/database/set-up-highly-available-pgbouncer-and-haproxy-with-amazon-aurora-postgresql-readers/)
 - [Oskar Dudycz - How Postgres sequences issues can impact your messaging guarantees](https://event-driven.io/en/ordering_in_postgres_outbox/)
 - [Gunnar Morling - Open-source Change Data Capture With Debezium](https://www.youtube.com/watch?v=G7TvRzPQH-U)
 - [P. Bailis, A. Fekete, M.J. Franklin, A. Ghodsi, J.M. Hellerstein, I. Stoica - Coordination Avoidance in Database Systems](https://arxiv.org/pdf/1402.2237.pdf)
@@ -1233,6 +1245,8 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Kimberly Nicholls - Migrating to Aurora: easy except the bill](https://gridium.com/migrating-to-aurora-easy-except-the-bill/)
+- [AWS - Amazon Aurora I/O Cost Optimization Methodology](https://www.youtube.com/watch?v=dpLRAlEX7Lo)
 - [Matt Rickard - S3 Isn't Getting Cheaper](https://matt-rickard.com/10-years-and-s3-isnt-getting-cheaper)
 - [Alex Chan - Aurora vs. RDS: An Engineer’s Guide to Choosing a Database](https://www.lastweekinaws.com/blog/aurora-vs-rds-an-engineers-guide-to-choosing-a-database/)
 - [Avinash Vallarapu - Is Aurora PostgreSQL really faster and cheaper than RDS PostgreSQL – Benchmarking](https://www.migops.com/blog/is-aurora-postgresql-really-faster-and-cheaper-than-rds-postgresql-benchmarking/)
@@ -1296,6 +1310,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [David Ramel - Did .NET MAUI Ship Too Soon? Devs Sound Off on 'Massive Mistake'](https://visualstudiomagazine.com/articles/2022/09/29/net-maui-complaints.aspx)
+- [Collin Alpert - .NET adaptation for Java's Lombok using Source Generators](https://github.com/CollinAlpert/Lombok.NET)
+- [Mads Torgersen - Where’s C# headed?](https://www.youtube.com/watch?v=v8bqAm4aUFM)
+- [Maarten Balliauw - Profiling QuestPDF: In Pursuit of Performance](https://blog.jetbrains.com/dotnet/2022/07/27/profiling-questpdf-in-pursuit-of-performance/)
 - [.NET Conf 2022](https://www.dotnetconf.net)
 - [Dustin Moris Gorski - The type system is a programmer's best friend](https://dusted.codes/the-type-system-is-a-programmers-best-friend)
 - [Chet Husk, David Fowler - The .NET Podcast - a sample application showcasing .NET 6, ASP.NET Core, Blazor, .NET MAUI, Azure Container Apps, Orleans](https://github.com/baronfel/dotnet-podcasts)
@@ -1954,6 +1972,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Gitte Klitgaard - Feeling Safe to be Uncomfortable](https://www.youtube.com/watch?v=E93akm1WYRY)
 - [Rob Rawson - Making remote and asynchronous work, work](https://www.infoq.com/podcasts/remote-asynchronous-work-rob-rawson)
 - [Amy Rigby - How to write a project status report that works for your team](https://blog.trello.com/how-to-write-a-project-status-report)
 - [Continus Delivery - Randy Shoup - Leading Teams For Silicon Valley Tech Giants](https://www.youtube.com/watch?v=Wg-_5wbYuZQ)
@@ -2025,6 +2044,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [HikariCP - A solid, high-performance, JDBC connection pool at last](https://github.com/brettwooldridge/HikariCP)
+- [Piotr Przybył - Testing Virtual Threads](https://softwaregarden.dev/en/posts/new-java/loom/testing-virtual-threads/)
 - [Jonathan Giles - Java Best Practices](https://java.jonathangiles.net/)
 - [picocli - a mighty tiny command line interface](https://picocli.info/)
 - [JWebAssembly - Java bytecode to WebAssembly compiler](https://github.com/i-net-software/JWebAssembly)
@@ -2097,6 +2118,7 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
 ## JavaScript
+- [Protobuf-ES - A complete implementation of Protocol Buffers in TypeScript, suitable for web browsers and Node.js](https://github.com/bufbuild/protobuf-es)
 - [Deno - Big Changes Ahead for Deno](https://deno.com/blog/changes)
 - [Shawn Wang - Bun and Deno: New Runtimes for the Third Age of JavaScript](https://www.youtube.com/watch?v=O7KVEwNau6w)
 - [bun - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one](https://github.com/oven-sh/bun)
@@ -2116,6 +2138,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Jonathan Cardoso - How To Use Decorators in TypeScript](https://www.digitalocean.com/community/tutorials/how-to-use-decorators-in-typescript)
 - [Microsoft - Ten Years of TypeScript](https://devblogs.microsoft.com/typescript/ten-years-of-typescript/)
 - [TypeScript Tips - A collection of useful tips that you wish you knew when you started using TypeScript](https://www.totaltypescript.com/tips)
 - [Matt Pocock - TypeScript tips and Tricks with Matt](https://www.youtube.com/watch?v=hBk4nV7q6-w)
@@ -2181,6 +2204,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Rob Pike - The Go Programming Language and Environment](https://www.youtube.com/watch?v=YXV7sa4oM4I)
 - [Jesse Li - Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 - [Konstantin Makarov - Writing your own PostgreSQL driver](https://medium.com/scum-gazeta/writing-your-own-postgresql-driver-ebd5fd6d187d)
 - [Google Cloud Blog - Why I love Go](https://cloud.google.com/blog/products/application-modernization/why-david-yach-loves-go)
@@ -2271,6 +2295,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [.NET Rocks - David Whitney - Making Open Source Work for Everyone](https://www.dotnetrocks.com/details/1818)
+- [Heather Wilde - How to Close the Diversity Gap](https://www.youtube.com/watch?v=JQL4doMy73w)
+- [The Wall Street Journal - Facebook Parent Meta Is Preparing to Notify Employees of Large-Scale Layoffs This Week](https://www.wsj.com/articles/meta-is-preparing-to-notify-employees-of-large-scale-layoffs-this-week-11667767794)
 - [Stripe - CEO Patrick Collison's email to Stripe employees](https://stripe.com/en-gb-nl/newsroom/news/ceo-patrick-collisons-email-to-stripe-employees)
 - [Guardian - Twitter slashes nearly half its workforce as Musk admits ‘massive drop’ in revenue](https://www.theguardian.com/technology/2022/nov/04/twitter-layoffs-elon-musk-revenue-drop)
 - [Martin Fowler - Exploring Mastodon](https://martinfowler.com/articles/exploring-mastodon.html)
@@ -2672,6 +2699,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Marcin Szałomski - A migration to Mastodon](https://blog.lambdaspot.dev/a-migration-to-mastodon)
 - [Matthew Carlson - The Potatoes Of DOOM](https://hackaday.com/2020/10/13/the-potatoes-of-doom/)
 - [Lex Friedman Podcast - John Carmack: Doom, Quake, VR, AGI, Programming, Video Games, and Rockets](https://www.youtube.com/watch?v=I845O57ZSy4)
 - [The Verge - The iPhone 14 keeps calling 911 on rollercoasters](https://www.theverge.com/2022/10/9/23395222/iphone-14-calling-911-rollercoasters-apple-crash-detection)

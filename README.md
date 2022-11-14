@@ -24,6 +24,68 @@ There are two rules:
 
 ---
 
+## [14th November 2022](per-week/2022-11-14.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+
+---
+
+### Architecture
+- [Oskar Dudycz - How events can help in making the state-based approach efficient](https://event-driven.io/en/how_events_can_help_on_making_state_based_approach_efficient/?utm_source=architecture_weekly)
+- [Sam Newman, Martin Fowler - When To Use Microservices (And When Not To!)](https://www.youtube.com/watch?v=GBTdnfD6s5Q)
+- [Christin Gorman - How do our ideas about coding affect the software we create?](https://www.youtube.com/watch?v=sSee-aDjtmw)
+- [Andrew Harmel-Law - Your Organisation Viewed as a Collection of Capabilities](https://andrewharmellaw.github.io/organisation/2021/03/27/the-organisation-as-collection-of-services)
+- [Ben Hall - The Modern Observability Problem](https://failingfast.io/opentelemetry-observability/)
+
+### DevOps
+- [Schkn - Monitoring Linux Processes using Prometheus and Grafana](https://devconnected.com/monitoring-linux-processes-using-prometheus-and-grafana/)
+- [k9s - Kubernetes CLI To Manage Your Clusters In Style!](https://k9scli.io/)
+
+### Databases
+- [Cloudflare - D1: our quest to simplify databases](https://blog.cloudflare.com/whats-new-with-d1/)
+- [Hironobu SUZUKI - Postgres Concurrency Control](https://www.interdb.jp/pg/pgsql05.html)
+- [AWS - Set up highly available PgBouncer and HAProxy with Amazon Aurora PostgreSQL readers](https://aws.amazon.com/blogs/database/set-up-highly-available-pgbouncer-and-haproxy-with-amazon-aurora-postgresql-readers/)
+
+### Testing
+- [Kevlin Henney - Structure and Interpretation of Test Cases](https://www.youtube.com/watch?v=MWsk1h8pv2Q)
+- [Mark Seeman - Favor real dependencies for unit testing](https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/)
+
+### AWS
+- [Kimberly Nicholls - Migrating to Aurora: easy except the bill](https://gridium.com/migrating-to-aurora-easy-except-the-bill/)
+- [AWS - Amazon Aurora I/O Cost Optimization Methodology](https://www.youtube.com/watch?v=dpLRAlEX7Lo)
+
+### Go
+- [Rob Pike - The Go Programming Language and Environment](https://www.youtube.com/watch?v=YXV7sa4oM4I)
+
+### Java
+- [HikariCP - A solid, high-performance, JDBC connection pool at last](https://github.com/brettwooldridge/HikariCP)
+- [Piotr Przybył - Testing Virtual Threads](https://softwaregarden.dev/en/posts/new-java/loom/testing-virtual-threads/)
+
+### JavaScript
+- [Protobuf-ES - A complete implementation of Protocol Buffers in TypeScript, suitable for web browsers and Node.js](https://github.com/bufbuild/protobuf-es)
+
+### TypeScript
+- [Jonathan Cardoso - How To Use Decorators in TypeScript](https://www.digitalocean.com/community/tutorials/how-to-use-decorators-in-typescript)
+
+### .NET
+- [David Ramel - Did .NET MAUI Ship Too Soon? Devs Sound Off on 'Massive Mistake'](https://visualstudiomagazine.com/articles/2022/09/29/net-maui-complaints.aspx)
+- [Collin Alpert - .NET adaptation for Java's Lombok using Source Generators](https://github.com/CollinAlpert/Lombok.NET)
+- [Mads Torgersen - Where’s C# headed?](https://www.youtube.com/watch?v=v8bqAm4aUFM)
+- [Maarten Balliauw - Profiling QuestPDF: In Pursuit of Performance](https://blog.jetbrains.com/dotnet/2022/07/27/profiling-questpdf-in-pursuit-of-performance/)
+
+### Management
+- [Gitte Klitgaard - Feeling Safe to be Uncomfortable](https://www.youtube.com/watch?v=E93akm1WYRY)
+
+### Indurstry
+- [.NET Rocks - David Whitney - Making Open Source Work for Everyone](https://www.dotnetrocks.com/details/1818)
+- [Heather Wilde - How to Close the Diversity Gap](https://www.youtube.com/watch?v=JQL4doMy73w)
+- [The Wall Street Journal - Facebook Parent Meta Is Preparing to Notify Employees of Large-Scale Layoffs This Week](https://www.wsj.com/articles/meta-is-preparing-to-notify-employees-of-large-scale-layoffs-this-week-11667767794)
+
+### Trivia
+- [Marcin Szałomski - A migration to Mastodon](https://blog.lambdaspot.dev/a-migration-to-mastodon)
+
+---
+
 ## [7th November 2022](per-week/2022-11-07.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
