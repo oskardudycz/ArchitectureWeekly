@@ -35,6 +35,7 @@
   - [Go](#go)
     - [Google Cloud](#google-cloud)
   - [Kotlin](#kotlin)
+  - [OCaml](#ocaml)
   - [PHP](#php)
   - [Python](#python)
   - [Rust](#rust)
@@ -56,6 +57,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - How to get all messages through Postgres logical replication](https://event-driven.io/en/how_to_get_all_messages_through_postgres_logical_replication/)
+- [Zan Armstrong - Stop aggregating away the signal in your data](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/)
+- [Ricardo Ferreira - In the Land of the Sizing, the One-Partition Kafka Topic is King](https://www.youtube.com/watch?v=fMISi0mJ51g)
+- [Engineering at Meta - Move faster, wait less: Improving code review time at Meta](https://engineering.fb.com/2022/11/16/culture/meta-code-review-time-improving/)
+- [Aral Balkan - Is the fediverse about to get Fryed? (Or, “Why every toot is also a potential denial of service attack”)](https://ar.al/2022/11/09/is-the-fediverse-about-to-get-fryed-or-why-every-toot-is-also-a-potential-denial-of-service-attack/)
+- [Rafael Luque - Notes about a new software world. An eXtreme DDD approach](https://osoco.es/thoughts/2020/06/notes-about-a-new-software-world/)
 - [Oskar Dudycz - How events can help in making the state-based approach efficient](https://event-driven.io/en/how_events_can_help_on_making_state_based_approach_efficient/?utm_source=architecture_weekly)
 - [Sam Newman, Martin Fowler - When To Use Microservices (And When Not To!)](https://www.youtube.com/watch?v=GBTdnfD6s5Q)
 - [Christin Gorman - How do our ideas about coding affect the software we create?](https://www.youtube.com/watch?v=sSee-aDjtmw)
@@ -893,6 +900,8 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Minko Genchev - Angular v15 is now available!](https://blog.angular.io/angular-v15-is-now-available-df7be7f2f4c8)
+- [Addy Osmani, Sriram Krishnan - Building a Better Web - Part 1: A faster YouTube on web](https://web.dev/better-youtube-web-part1/)
 - [Miklos Philips - Design Principles: why a design works](https://uxdesign.cc/design-principles-why-a-design-works-a572c5d2d92d)
 - [qwik - The HTML-first framework. Instant apps of any size with ~ 1kb JS](https://github.com/BuilderIO/qwik)
 - [DaisyUI - The most popular, free and open-source Tailwind CSS component library](https://github.com/saadeghi/daisyui)
@@ -987,6 +996,7 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)
 - [Kevlin Henney - Structure and Interpretation of Test Cases](https://www.youtube.com/watch?v=MWsk1h8pv2Q)
 - [Mark Seeman - Favor real dependencies for unit testing](https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/)
 - [Toxiproxy - A TCP proxy to simulate network and system conditions for chaos and resiliency testing](https://github.com/Shopify/toxiproxy)
@@ -1260,6 +1270,8 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Microsoft - Azure SQL Database External REST Endpoints Integration Public Preview](https://devblogs.microsoft.com/azure-sql/azure-sql-database-external-rest-endpoints-integration-public-preview/)
+- [Microsoft - Announcing public preview of the Azure SQL trigger for Azure Function](https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-public-preview-of-the-azure-sql-trigger-for-azure/ba-p/3674068)
 - [Gaurav Malhotra - Polyglot Microservices Communication Using Dapr on AKS](https://www.infoq.com/articles/polygot-microservices-dapr-aks)
 - [Kamil Mrzygłód - ACE (Azure Cost Estimator) - automated cost estimations for ARM Templates & Biceps](https://github.com/TheCloudTheory/arm-estimator)
 - [Azure - The Azure SaaS Development Kit (ASDK) - provides a reference architecture, deployable reference implementation and tools to help developers, startups, ISVs and Enterprises deliver their applications as a SaaS service. A platform for platform creators.](https://github.com/Azure/azure-saas)
@@ -1289,6 +1301,7 @@
 - [Brett Rowberry - An F# Dev's Perspective on Clojure](https://brettrowberry.hashnode.dev/an-f-devs-perspective-on-clojure)
 
 ## Functional Programming
+- [Richard Feldman - Why Isn't Functional Programming the Norm?](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
 - [Felienne Hermans - Pure Functional Programming in Excel](https://www.youtube.com/watch?v=0yKf8TrLUOw)
 - [Gjeta Gjyshinca - Monad I Love You Now Get Out Of My Type System](https://www.youtube.com/watch?v=2PxsyWqZ5dI)
 - [Alexis King - Hackett: a metaprogrammable Haskell](https://www.youtube.com/watch?app=desktop&v=5QQdI3P7MdY)
@@ -1310,6 +1323,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jeremy D. Miller - Wolverine: Your Next Messaging Library](https://www.youtube.com/watch?v=EGwepoGG0CM)
+- [Dustin Moris Gorski - How fast is ASP.NET Core?](https://dusted.codes/how-fast-is-really-aspnet-core)
+- [JetBrains - C# support in Fleet Public Preview](https://blog.jetbrains.com/dotnet/2022/11/17/csharp-support-in-fleet/)
+- [Oleg Kyrylchuk - Twelve C# 11 Features](https://blog.okyrylchuk.dev/twelve-csharp-11-features)
 - [David Ramel - Did .NET MAUI Ship Too Soon? Devs Sound Off on 'Massive Mistake'](https://visualstudiomagazine.com/articles/2022/09/29/net-maui-complaints.aspx)
 - [Collin Alpert - .NET adaptation for Java's Lombok using Source Generators](https://github.com/CollinAlpert/Lombok.NET)
 - [Mads Torgersen - Where’s C# headed?](https://www.youtube.com/watch?v=v8bqAm4aUFM)
@@ -1778,6 +1795,7 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [Tsoding - Let's Talk About WASM and WASI](https://www.youtube.com/watch?v=2qV-1JhxWeE)
 - [wasmtime - A fast and secure runtime for WebAssembly](https://github.com/bytecodealliance/wasmtime)
 - [Second State - Running JavaScript in WebAssembly with WasmEdge](https://www.secondstate.io/articles/run-javascript-in-webassembly-with-wasmedge/)
 - [Gavin Ray - A Quarkus app that allows deploying WASM & and other language functions as API handlers at runtime, using GraalVM](https://github.com/GavinRay97/polyglot-wasm-faas)
@@ -1791,6 +1809,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Cosima Laube - Head 'n' Heart Ops - A guide to emotions without system crashes](https://www.respectandadapt.rocks/blog/leadership/Head-mind-and-Heart-integrated-together-at-work)
 - [Milen Dyakov - Operational vs. Strategic DevX](https://milendyankov.com/blog/2022/10/operational_vs_strategic_devx/)
 - [Mary Thengvall - DevRel Resources](https://devrelresourc.es/)
 - [Mark Rendle - Programming’s Greatest Mistakes](https://www.youtube.com/watch?v=YfKzJuXmZX8)
@@ -1972,6 +1991,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Audun Fauchald Strand, Truls Jørgensen - Optimizing for Fast Flow in Norway's Largest Bureaucracy](https://www.infoq.com/presentations/nav-fast-flow/)
 - [Gitte Klitgaard - Feeling Safe to be Uncomfortable](https://www.youtube.com/watch?v=E93akm1WYRY)
 - [Rob Rawson - Making remote and asynchronous work, work](https://www.infoq.com/podcasts/remote-asynchronous-work-rob-rawson)
 - [Amy Rigby - How to write a project status report that works for your team](https://blog.trello.com/how-to-write-a-project-status-report)
@@ -2118,6 +2138,7 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
 ## JavaScript
+- [Gil Tayar - Typed JavaScript? For real? The type annotations proposal and what it’s all about](https://www.youtube.com/watch?v=8EXuuLtYFY0)
 - [Protobuf-ES - A complete implementation of Protocol Buffers in TypeScript, suitable for web browsers and Node.js](https://github.com/bufbuild/protobuf-es)
 - [Deno - Big Changes Ahead for Deno](https://deno.com/blog/changes)
 - [Shawn Wang - Bun and Deno: New Runtimes for the Third Age of JavaScript](https://www.youtube.com/watch?v=O7KVEwNau6w)
@@ -2204,6 +2225,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Jeremy Clark - An overview of Go (golang) for C# developers using the CodeTour extension for Visual Studio Code](https://github.com/jeremybytes/go-for-csharp-dev)
 - [Rob Pike - The Go Programming Language and Environment](https://www.youtube.com/watch?v=YXV7sa4oM4I)
 - [Jesse Li - Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 - [Konstantin Makarov - Writing your own PostgreSQL driver](https://medium.com/scum-gazeta/writing-your-own-postgresql-driver-ebd5fd6d187d)
@@ -2243,6 +2265,9 @@
 - [Johan Haleby - Pragmatic Event Sourcing with Pure Functions](https://www.youtube.com/watch?v=YJvHbtuX250)
 - [Duncan McGregor - Java to Kotlin Gilded Rose](https://www.youtube.com/playlist?list=PL1ssMPpyqocjo6kkNCg-ncTyAW0nECPmq)
 - [Simon Vergauwen - Functional Domain Modeling in Kotlin - Validation](https://www.47deg.com/blog/functional-domain-modeling-part-2/)
+
+## OCaml
+- [Stephen Dolan, Leo White - Stack allocation for OCaml](https://www.youtube.com/watch?v=yGRn5ZIbEW8)
 
 ## PHP
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
@@ -2295,6 +2320,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Washington Post - Hundreds said to have opted to leave Twitter over Musk ultimatum](https://www.washingtonpost.com/technology/2022/11/17/twitter-musk-easing-rto-order/)
 - [.NET Rocks - David Whitney - Making Open Source Work for Everyone](https://www.dotnetrocks.com/details/1818)
 - [Heather Wilde - How to Close the Diversity Gap](https://www.youtube.com/watch?v=JQL4doMy73w)
 - [The Wall Street Journal - Facebook Parent Meta Is Preparing to Notify Employees of Large-Scale Layoffs This Week](https://www.wsj.com/articles/meta-is-preparing-to-notify-employees-of-large-scale-layoffs-this-week-11667767794)
@@ -2699,6 +2725,11 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Tomasz Nurkiewicz - Mastodon: next-generation, open source social network](https://nurkiewicz.com/90)
+- [Julia Angwin - Mastodon’s Moment](https://themarkup.org/newsletter/hello-world/mastodons-moment)
+- [Fedi.Tips - An informal, unofficial guide for non-technical people who want to use Mastodon and the wider Fediverse](https://fedi.tips/)
+- [Maarten Balliauw - Mastodon on your own domain without hosting a server](https://blog.maartenballiauw.be/post/2022/11/05/mastodon-own-donain-without-hosting-server.html)
+- [Marily Oppezzo, Daniel L. Schwartz - Give Your Ideas Some Legs: The Positive Effect of Walking on Creative Thinking](https://www.apa.org/pubs/journals/releases/xlm-a0036577.pdf)
 - [Marcin Szałomski - A migration to Mastodon](https://blog.lambdaspot.dev/a-migration-to-mastodon)
 - [Matthew Carlson - The Potatoes Of DOOM](https://hackaday.com/2020/10/13/the-potatoes-of-doom/)
 - [Lex Friedman Podcast - John Carmack: Doom, Quake, VR, AGI, Programming, Video Games, and Rockets](https://www.youtube.com/watch?v=I845O57ZSy4)

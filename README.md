@@ -24,6 +24,70 @@ There are two rules:
 
 ---
 
+## [21st November 2022](per-week/2022-11-21.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+
+---
+
+### Architecture
+- [Oskar Dudycz - How to get all messages through Postgres logical replication](https://event-driven.io/en/how_to_get_all_messages_through_postgres_logical_replication/)
+- [Zan Armstrong - Stop aggregating away the signal in your data](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/)
+- [Ricardo Ferreira - In the Land of the Sizing, the One-Partition Kafka Topic is King](https://www.youtube.com/watch?v=fMISi0mJ51g)
+- [Engineering at Meta - Move faster, wait less: Improving code review time at Meta](https://engineering.fb.com/2022/11/16/culture/meta-code-review-time-improving/)
+- [Aral Balkan - Is the fediverse about to get Fryed? (Or, “Why every toot is also a potential denial of service attack”)](https://ar.al/2022/11/09/is-the-fediverse-about-to-get-fryed-or-why-every-toot-is-also-a-potential-denial-of-service-attack/)
+- [Rafael Luque - Notes about a new software world. An eXtreme DDD approach](https://osoco.es/thoughts/2020/06/notes-about-a-new-software-world/)
+
+### Frontend
+- [Minko Genchev - Angular v15 is now available!](https://blog.angular.io/angular-v15-is-now-available-df7be7f2f4c8)
+- [Addy Osmani, Sriram Krishnan - Building a Better Web - Part 1: A faster YouTube on web](https://web.dev/better-youtube-web-part1/)
+
+### Testing
+- [Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)
+
+### Functional Programming
+- [Richard Feldman - Why Isn't Functional Programming the Norm?](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
+
+### Azure
+- [Microsoft - Azure SQL Database External REST Endpoints Integration Public Preview](https://devblogs.microsoft.com/azure-sql/azure-sql-database-external-rest-endpoints-integration-public-preview/)
+- [Microsoft - Announcing public preview of the Azure SQL trigger for Azure Function](https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-public-preview-of-the-azure-sql-trigger-for-azure/ba-p/3674068)
+
+### Go
+- [Jeremy Clark - An overview of Go (golang) for C# developers using the CodeTour extension for Visual Studio Code](https://github.com/jeremybytes/go-for-csharp-dev)
+
+### JavaScript
+- [Gil Tayar - Typed JavaScript? For real? The type annotations proposal and what it’s all about](https://www.youtube.com/watch?v=8EXuuLtYFY0)
+
+### .NET
+- [Jeremy D. Miller - Wolverine: Your Next Messaging Library](https://www.youtube.com/watch?v=EGwepoGG0CM)
+- [Dustin Moris Gorski - How fast is ASP.NET Core?](https://dusted.codes/how-fast-is-really-aspnet-core)
+- [JetBrains - C# support in Fleet Public Preview](https://blog.jetbrains.com/dotnet/2022/11/17/csharp-support-in-fleet/)
+- [Oleg Kyrylchuk - Twelve C# 11 Features](https://blog.okyrylchuk.dev/twelve-csharp-11-features)
+
+### OCaml
+- [Stephen Dolan, Leo White - Stack allocation for OCaml](https://www.youtube.com/watch?v=yGRn5ZIbEW8)
+
+### WebAssembly
+- [Tsoding - Let's Talk About WASM and WASI](https://www.youtube.com/watch?v=2qV-1JhxWeE)
+
+### Coding Life
+- [Cosima Laube - Head 'n' Heart Ops - A guide to emotions without system crashes](https://www.respectandadapt.rocks/blog/leadership/Head-mind-and-Heart-integrated-together-at-work)
+
+### Management
+- [Audun Fauchald Strand, Truls Jørgensen - Optimizing for Fast Flow in Norway's Largest Bureaucracy](https://www.infoq.com/presentations/nav-fast-flow/)
+
+### Industry
+- [Washington Post - Hundreds said to have opted to leave Twitter over Musk ultimatum](https://www.washingtonpost.com/technology/2022/11/17/twitter-musk-easing-rto-order/)
+
+### Trivia
+- [Tomasz Nurkiewicz - Mastodon: next-generation, open source social network](https://nurkiewicz.com/90)
+- [Julia Angwin - Mastodon’s Moment](https://themarkup.org/newsletter/hello-world/mastodons-moment)
+- [Fedi.Tips - An informal, unofficial guide for non-technical people who want to use Mastodon and the wider Fediverse](https://fedi.tips/)
+- [Maarten Balliauw - Mastodon on your own domain without hosting a server](https://blog.maartenballiauw.be/post/2022/11/05/mastodon-own-donain-without-hosting-server.html)
+- [Marily Oppezzo, Daniel L. Schwartz - Give Your Ideas Some Legs: The Positive Effect of Walking on Creative Thinking](https://www.apa.org/pubs/journals/releases/xlm-a0036577.pdf)
+
+---
+
 ## [14th November 2022](per-week/2022-11-14.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
