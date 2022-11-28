@@ -57,6 +57,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Mapping event type by convention](https://event-driven.io/en/how_to_map_event_type_by_convention/?utm_source=architecture_weekly)
+- [Protocol - AWS CEO: The cloud isn’t just about technology](https://www.protocol.com/enterprise/aws-adam-selipsky-cloud)
+- [Giedrius Kristinaitis - Expensive Mistake That Often Plagues Layered Architectures](https://levelup.gitconnected.com/expensive-mistake-that-often-plagues-layered-architectures-700d876afbb5)
+- [Wille Faler - Software engineering metrics that matter](https://chaordic.io/blog/software-engineering-metrics-that-matter/)
+- [Udi Dahan - Watch out for superficial invariants](https://udidahan.com/2014/11/16/watch-out-for-superficial-invariants/)
+- [Mark Seemann - Decouple to delete](https://blog.ploeh.dk/2022/11/21/decouple-to-delete/)
+- [Adam Warski - The architecture of Mastodon](https://softwaremill.com/the-architecture-of-mastodon/)
+- [Robert Laszczak - Software Dark Ages](https://threedots.tech/post/software-dark-ages/)
+- [Vladik Khononov - What Is Domain-Driven Design? Chapter 4. Context Mapping](https://www.oreilly.com/library/view/what-is-domain-driven/9781492057802/ch04.html)
 - [Oskar Dudycz - How to get all messages through Postgres logical replication](https://event-driven.io/en/how_to_get_all_messages_through_postgres_logical_replication/)
 - [Zan Armstrong - Stop aggregating away the signal in your data](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/)
 - [Ricardo Ferreira - In the Land of the Sizing, the One-Partition Kafka Topic is King](https://www.youtube.com/watch?v=fMISi0mJ51g)
@@ -580,6 +589,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Cloudflare - Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
+- [Redpanda - Reliable Message Reprocessing with Redpanda: Dead Letter Queues](https://redpanda.com/blog/reliable-message-processing-with-dead-letter-queue)
 - [Jack Vanlightly - Understanding How Apache Pulsar Works](https://jack-vanlightly.com/blog/2018/10/2/understanding-how-apache-pulsar-works)
 - [Netflix - Timestone: Netflix’s High-Throughput, Low-Latency Priority Queueing System with Built-in Support for Non-Parallelizable Workloads](https://netflixtechblog.com/timestone-netflixs-high-throughput-low-latency-priority-queueing-system-with-built-in-support-1abf249ba95f)
 - [Cloudflare - R2 is now Generally Available](https://blog.cloudflare.com/r2-ga/)
@@ -774,6 +785,10 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Trista Pan - Create Your Distributed Database on Kubernetes with Existing Monolithic Databases](https://www.infoq.com/articles/kubernetes-databases-apache-sharding-sphere/)
+- [Kris Nóva - Experimenting with Federation and Migrating Accounts](https://medium.com/@kris-nova/experimenting-with-federation-and-migrating-accounts-eae61a688c3c)
+- [SigNoz - What is Context Propagation in Distributed Tracing?](https://signoz.io/blog/context-propagation-in-distributed-tracing/)
+- [Microsoft - Announcing the .NET Virtual Monolithic Repository](https://github.com/dotnet/announcements/issues/241)
 - [Schkn - Monitoring Linux Processes using Prometheus and Grafana](https://devconnected.com/monitoring-linux-processes-using-prometheus-and-grafana/)
 - [k9s - Kubernetes CLI To Manage Your Clusters In Style!](https://k9scli.io/)
 - [Traefik - The Cloud Native Application Proxy](https://github.com/traefik/traefik)
@@ -900,6 +915,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Michael Geers - The Tractor Store - sample code from the book Micro Frontends in Action](https://github.com/naltatis/micro-frontends-in-action-code)
 - [Minko Genchev - Angular v15 is now available!](https://blog.angular.io/angular-v15-is-now-available-df7be7f2f4c8)
 - [Addy Osmani, Sriram Krishnan - Building a Better Web - Part 1: A faster YouTube on web](https://web.dev/better-youtube-web-part1/)
 - [Miklos Philips - Design Principles: why a design works](https://uxdesign.cc/design-principles-why-a-design-works-a572c5d2d92d)
@@ -996,6 +1012,7 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Kent C. Dodds - The Testing Trophy and Testing Classifications](https://kentcdodds.com/blog/the-testing-trophy-and-testing-classifications)
 - [Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)
 - [Kevlin Henney - Structure and Interpretation of Test Cases](https://www.youtube.com/watch?v=MWsk1h8pv2Q)
 - [Mark Seeman - Favor real dependencies for unit testing](https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/)
@@ -1072,6 +1089,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [AirByte - How we run database migrations with Flyway, jOOQ, and testcontainers](https://airbyte.com/blog/database-migrations-with-flyway-jooq-and-testcontainers)
+- [Riyaz Ali - SQLite Extensions - Golang library to build sqlite extensions](https://github.com/riyaz-ali/sqlite)
 - [Cloudflare - D1: our quest to simplify databases](https://blog.cloudflare.com/whats-new-with-d1/)
 - [Hironobu SUZUKI - Postgres Concurrency Control](https://www.interdb.jp/pg/pgsql05.html)
 - [AWS - Set up highly available PgBouncer and HAProxy with Amazon Aurora PostgreSQL readers](https://aws.amazon.com/blogs/database/set-up-highly-available-pgbouncer-and-haproxy-with-amazon-aurora-postgresql-readers/)
@@ -1323,6 +1342,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jason Ge - Detect and Remove Dead Code with Roslyn](https://jason-ge.medium.com/detect-and-remove-dead-code-with-roslyn-26e741b20d3c)
+- [Carlos Pons - Getting started with OpenTelemetry and distributed tracing in .NET Core](https://www.mytechramblings.com/posts/getting-started-with-opentelemetry-and-dotnet-core/)
+- [Łukasz Pyrzyk - PoC of the distributed request telemetry](https://github.com/lukasz-pyrzyk/opentelemetry-demo)
+- [Elastic - Release notes v8.0.0 for .NET Client](https://www.elastic.co/guide/en/elasticsearch/client/net-api/current/release-notes-8.0.0.html)
 - [Jeremy D. Miller - Wolverine: Your Next Messaging Library](https://www.youtube.com/watch?v=EGwepoGG0CM)
 - [Dustin Moris Gorski - How fast is ASP.NET Core?](https://dusted.codes/how-fast-is-really-aspnet-core)
 - [JetBrains - C# support in Fleet Public Preview](https://blog.jetbrains.com/dotnet/2022/11/17/csharp-support-in-fleet/)
@@ -2064,6 +2087,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Marco Codes - How to Build a Text Editor With Java](https://www.youtube.com/watch?v=kT4JYQi9w4w&list=PLIRBoI92yManB1eHCupZ6iG61qMTA9hWe)
 - [HikariCP - A solid, high-performance, JDBC connection pool at last](https://github.com/brettwooldridge/HikariCP)
 - [Piotr Przybył - Testing Virtual Threads](https://softwaregarden.dev/en/posts/new-java/loom/testing-virtual-threads/)
 - [Jonathan Giles - Java Best Practices](https://java.jonathangiles.net/)
@@ -2138,6 +2162,7 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
 ## JavaScript
+- [David Whitney - Test Driven Development in JavaScript – writing tests that don’t suck!](https://www.youtube.com/watch?v=D7LKslgwxmQ)
 - [Gil Tayar - Typed JavaScript? For real? The type annotations proposal and what it’s all about](https://www.youtube.com/watch?v=8EXuuLtYFY0)
 - [Protobuf-ES - A complete implementation of Protocol Buffers in TypeScript, suitable for web browsers and Node.js](https://github.com/bufbuild/protobuf-es)
 - [Deno - Big Changes Ahead for Deno](https://deno.com/blog/changes)
@@ -2320,6 +2345,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [The Verge - Mercedes locks faster acceleration behind a $1,200 annual paywall](https://www.theverge.com/2022/11/23/23474969/mercedes-car-subscription-faster-acceleration-feature-price) 
 - [Washington Post - Hundreds said to have opted to leave Twitter over Musk ultimatum](https://www.washingtonpost.com/technology/2022/11/17/twitter-musk-easing-rto-order/)
 - [.NET Rocks - David Whitney - Making Open Source Work for Everyone](https://www.dotnetrocks.com/details/1818)
 - [Heather Wilde - How to Close the Diversity Gap](https://www.youtube.com/watch?v=JQL4doMy73w)
@@ -2725,6 +2751,8 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Cory Doctorow - Social Quitting](https://doctorow.medium.com/social-quitting-1ce85b67b456)
+- [TechCrunch - Zoom’s adding email and calendar as it pushes harder to expand the platform](https://techcrunch.com/2022/11/08/zooms-adding-email-and-calendar-as-it-pushes-hard-to-expand-the-platform)
 - [Tomasz Nurkiewicz - Mastodon: next-generation, open source social network](https://nurkiewicz.com/90)
 - [Julia Angwin - Mastodon’s Moment](https://themarkup.org/newsletter/hello-world/mastodons-moment)
 - [Fedi.Tips - An informal, unofficial guide for non-technical people who want to use Mastodon and the wider Fediverse](https://fedi.tips/)
