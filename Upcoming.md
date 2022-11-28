@@ -22,8 +22,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
     - How to learn and plan in settings with both competition and cooperation, where agents must understand human intentions"
   - [GitHub's page for project CICERO](https://github.com/facebookresearch/diplomacy_cicero)
   - [Recording of an expert level player vs CICERO AI agent](https://www.youtube.com/watch?v=u5192bvUS7k)
-  - [5 minute guide on how to try it yourself](https://www.youtube.com/watch?v=rgoxZe-eGic)
-- The second big news is new version of the Stable Diffusion model - hugely successful open source model gets an amazing reworked version. See [official announcement](https://stability.ai/blog/stable-diffusion-v2-release) or head directly to [GitHub](https://github.com/Stability-AI/stablediffusion).
+- The second big news is new version of the Stable Diffusion model - hugely successful open source model gets an amazing reworked version. See [official announcement](https://stability.ai/blog/stable-diffusion-v2-release) or head directly to [GitHub](https://github.com/Stability-AI/stablediffusion), and a [5 minute guide on how to try it yourself](https://www.youtube.com/watch?v=rgoxZe-eGic).
 - NVidia releases Magic3D - a text-to-3D content creation model that creates 3d mesh models with textures.
   - [Project's page](https://deepimagination.cc/Magic3D/)
   - [Paper on Arxiv](https://arxiv.org/abs/2211.10440)
