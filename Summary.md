@@ -57,6 +57,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Werner Vogels - Distributed Computing Manifesto](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)
+- [Adam Dymitruk - Event Modeling Workshop](https://www.youtube.com/watch?v=gyhR5Wey6_s)
+- [Shopify - Shard Balancing: Moving Shops Confidently with Zero-Downtime at Terabyte-scale](https://shopify.engineering/mysql-database-shard-balancing-terabyte-scale)
+- [Bart de Water - Shopify’s Architecture to Handle the World’s Biggest Flash Sales](https://www.infoq.com/presentations/shopify-architecture-flash-sale/)
+- [Ben Rogojan - Realities of Being A Data Engineer — Migrations](https://medium.com/coriers/realities-of-being-a-data-engineer-migrations-3dd76c9c5357)
+- [Hazel Weakly - Scaling Mastodon: The Compendium](https://hazelweakly.me/blog/scaling-mastodon/)
+- [NBC News - Twitter down again? Blame Justin Bieber!](https://www.nbcnews.com/news/wbna37711973)
+- [Wired - How Instagram Solved Its Justin Bieber Problem](https://www.wired.com/2015/11/how-instagram-solved-its-justin-bieber-problem/)
+- [Michael Plöd - Getting modules right with Domain-driven Design](https://www.youtube.com/watch?v=Q_0XW46IlHY)
 - [Oskar Dudycz - Mapping event type by convention](https://event-driven.io/en/how_to_map_event_type_by_convention/?utm_source=architecture_weekly)
 - [Protocol - AWS CEO: The cloud isn’t just about technology](https://www.protocol.com/enterprise/aws-adam-selipsky-cloud)
 - [Giedrius Kristinaitis - Expensive Mistake That Often Plagues Layered Architectures](https://levelup.gitconnected.com/expensive-mistake-that-often-plagues-layered-architectures-700d876afbb5)
@@ -785,6 +794,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Marc-André Moreau - Free ARM server with 4 CPUs, 24GB of RAM and 200GB storage!](https://cohost.org/awakecoding/post/384627-free-arm-server-with)
+- [Phoenix Actions - Test Reporting - Displays test results from popular testing frameworks directly in GitHub](https://github.com/phoenix-actions/test-reporting)
 - [Trista Pan - Create Your Distributed Database on Kubernetes with Existing Monolithic Databases](https://www.infoq.com/articles/kubernetes-databases-apache-sharding-sphere/)
 - [Kris Nóva - Experimenting with Federation and Migrating Accounts](https://medium.com/@kris-nova/experimenting-with-federation-and-migrating-accounts-eae61a688c3c)
 - [SigNoz - What is Context Propagation in Distributed Tracing?](https://signoz.io/blog/context-propagation-in-distributed-tracing/)
@@ -1243,6 +1254,13 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Meta - CICERO: An AI agent that negotiates, persuades, and cooperates with people](https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/)
+- [Science - Human-level play in the game of Diplomacy by combining language models with strategic reasoning](https://www.science.org/doi/10.1126/science.ade9097)
+- [Meta Cicero - Code for Cicero, an AI agent that plays the game of Diplomacy with open-domain natural language negotiation](https://github.com/facebookresearch/diplomacy_cicero)
+- [DiploStrats - Expert Diplomacy Player vs CICERO AI](https://www.youtube.com/watch?v=u5192bvUS7k)
+- [Stability.ai - Stable Diffusion 2.0 Release](https://stability.ai/blog/stable-diffusion-v2-release)
+- [Rob Mulla - Stable Diffusion 2.0 with Huggingface Pipelines](https://www.youtube.com/watch?v=rgoxZe-eGic)
+- [Nvidia - Magic3D: High-Resolution Text-to-3D Content Creation](https://deepimagination.cc/Magic3D/)
 - [Chris Schneider - Test-driven development and AI machine learning](https://www.ibm.com/garage/method/practices/reason/tdd-and-machine-learning/)
 - [Sarah Drummond - The future is what you think it is](https://sarahdrummond.medium.com/the-future-is-what-you-think-it-is-d7a54369ea32)
 - [Waxy - AI Data Laundering: How Academic and Nonprofit Researchers Shield Tech Companies from Accountability](https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/)
@@ -1342,6 +1360,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - Testing asynchronous processes with a little help from .NET Channels](https://event-driven.io/en/testing_asynchronous_processes_with_a_little_help_from_dotnet_channels/?utm_source=architecture_weekly)
+- [David Fowler - Thread about details of building Minimal APIs TODO sample in .NET 7](https://twitter.com/davidfowl/status/1591480438308339712?s=20&t=11VHs3sxX1tzJCa7ITRwXg)
+- [Ben Foster - Minimal API validation with ASP.NET 7.0 Endpoint Filters](https://benfoster.io/blog/minimal-api-validation-endpoint-filters/)
+- [Steve Gordon - An Introduction to System.Threading.Channels](https://www.stevejgordon.co.uk/an-introduction-to-system-threading-channels)
 - [Jason Ge - Detect and Remove Dead Code with Roslyn](https://jason-ge.medium.com/detect-and-remove-dead-code-with-roslyn-26e741b20d3c)
 - [Carlos Pons - Getting started with OpenTelemetry and distributed tracing in .NET Core](https://www.mytechramblings.com/posts/getting-started-with-opentelemetry-and-dotnet-core/)
 - [Łukasz Pyrzyk - PoC of the distributed request telemetry](https://github.com/lukasz-pyrzyk/opentelemetry-demo)
@@ -2014,6 +2036,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Google - What improves developer productivity at google? code quality](https://dl.acm.org/doi/10.1145/3540250.3558940)
+- [Jasper Spanjaart - 20 ways to hire more women into engineering and combat the gender gap](https://totalent.eu/20-ways-to-hire-more-women-into-engineering-and-combat-the-gender-gap/)
 - [Audun Fauchald Strand, Truls Jørgensen - Optimizing for Fast Flow in Norway's Largest Bureaucracy](https://www.infoq.com/presentations/nav-fast-flow/)
 - [Gitte Klitgaard - Feeling Safe to be Uncomfortable](https://www.youtube.com/watch?v=E93akm1WYRY)
 - [Rob Rawson - Making remote and asynchronous work, work](https://www.infoq.com/podcasts/remote-asynchronous-work-rob-rawson)
@@ -2087,6 +2111,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Java Blog - Go Native with Spring Boot 3 and GraalVM](https://blogs.oracle.com/java/post/go-native-with-spring-boot-3-and-graalvm)
 - [Marco Codes - How to Build a Text Editor With Java](https://www.youtube.com/watch?v=kT4JYQi9w4w&list=PLIRBoI92yManB1eHCupZ6iG61qMTA9hWe)
 - [HikariCP - A solid, high-performance, JDBC connection pool at last](https://github.com/brettwooldridge/HikariCP)
 - [Piotr Przybył - Testing Virtual Threads](https://softwaregarden.dev/en/posts/new-java/loom/testing-virtual-threads/)
@@ -2298,6 +2323,8 @@
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
 
 ## Python
+- [Lex Friedman Podcast - Guido van Rossum: Python and the Future of Programming](https://www.youtube.com/watch?v=-DVyjdw4t9I)
+- [Szymon Miks - Hexagonal Architecture in Python](https://blog.szymonmiks.pl/p/hexagonal-architecture-in-python/)
 - [Szymon Miks - Optimistic locking with Python](https://blog.szymonmiks.pl/p/optimistic-locking-with-python/)
 - [John Bywater - Event Sourced Building Blocks for DDD with Python](https://www.youtube.com/watch?v=U0CGZSdQ25Q)
 - [Event Sourcing in Python  - Python package for eventsourcing with EventStoreDB](https://github.com/pyeventsourcing/eventsourcing-eventstoredb)
@@ -2305,6 +2332,7 @@
 - [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
 
 ## Rust
+- [Armin Ronacher - A Better Way to Borrow in Rust: Stack Tokens](https://lucumr.pocoo.org/2022/11/23/stack-tokens/)
 - [Steadylearner - How to use gRPC with Rust Tonic and Postgres database with examples](https://dev.to/steadylearner/how-to-use-grpc-with-rust-tonic-and-postgres-database-with-examples-3dl7)
 - [Amos Wenger - Remote development with Rust on fly.io](https://fasterthanli.me/articles/remote-development-with-rust-on-fly-io)
 - [Amos Wenger - Rust modules vs files](https://fasterthanli.me/articles/rust-modules-vs-files)
@@ -2345,6 +2373,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Axios - Elizabeth Holmes sentenced to 11 years in prison for Theranos fraud](https://www.axios.com/2022/11/18/elizabeth-holmes-fraud-trial-prison-sentence)
+- [Data Protection Commission - Decision in Facebook “Data Scraping” Inquiry](https://www.dataprotection.ie/en/news-media/press-releases/data-protection-commission-announces-decision-in-facebook-data-scraping-inquiry)
+- [Lioness - At SpaceX, work was taken away from me in case I “might retire or die.”](https://www.lioness.co/post/at-spacex-work-was-taken-away-from-me-in-case-i-might-retire-or-die)
 - [The Verge - Mercedes locks faster acceleration behind a $1,200 annual paywall](https://www.theverge.com/2022/11/23/23474969/mercedes-car-subscription-faster-acceleration-feature-price) 
 - [Washington Post - Hundreds said to have opted to leave Twitter over Musk ultimatum](https://www.washingtonpost.com/technology/2022/11/17/twitter-musk-easing-rto-order/)
 - [.NET Rocks - David Whitney - Making Open Source Work for Everyone](https://www.dotnetrocks.com/details/1818)
