@@ -14,6 +14,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ### Python
 
 - Lex Friedman released a great conversation with [Guido van Rossum](https://twitter.com/gvanrossum), creator of Python. As usual for Lex, a long, but really interesting conversation with an amazing guest. Recommended to watch on [YouTube](https://www.youtube.com/watch?v=-DVyjdw4t9I) or listen to on [Spotify](https://open.spotify.com/episode/4Kzh367y0yCxFe2Ywv5Qj6?si=9b412aaad1494b9f).
+- [Hexagonal Architecture in Python](https://blog.szymonmiks.pl/p/hexagonal-architecture-in-python/)
 
 ### AI & Data Science
 - The biggest news of the last week, *correct* possibly the whole year, is [Meta's CICERO](https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/), an AI agent that plays Diplomacy better than 90% of human players. A favorite game of JFK, Kissinger, and DeepMind founder Demis Hassabis. Extremely challenging, requires multiplayer collaboration, persuasion, and backstabbing!
