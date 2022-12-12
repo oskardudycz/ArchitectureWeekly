@@ -57,6 +57,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Udi Dahan - Advanced API and Integration Problems & Patterns](https://www.youtube.com/watch?v=vNouCMGP1eE&t=14s)
+- [Ian Cooper - At Least Once. Life without Two-Phase Commit](https://www.youtube.com/watch?v=_9ULo-F4nmE)
+- [Javiera Laso - Start with DDD when you have a monolith](https://www.youtube.com/watch?v=-x2CBIFC24o)
+- [Trond Hjorteland - Thriving in complexity](https://www.youtube.com/watch?v=SV5cy6J-7vI)
+- [Logz.io - Beginner’s Guide to OpenTelemetry](https://logz.io/learn/opentelemetry-guide/)
+- [Svyatoslav Kotusev - One Minute Enterprise Architecture](https://www.researchgate.net/publication/308937149_One_Minute_Enterprise_Architecture)
+- [Legacy Code Rocks Podcast - Evolving Software with João Rosa](https://www.legacycode.rocks/podcast-1/episode/27106e0d/evolving-software-with-joao-rosa)
+- [Oskar Dudycz - Share your story on Event Sourcing Live 2023](https://event-driven.io/en/share_your_story_on_event_sourcing_live/)
 - [Werner Vogels - Distributed Computing Manifesto](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)
 - [Adam Dymitruk - Event Modeling Workshop](https://www.youtube.com/watch?v=gyhR5Wey6_s)
 - [Shopify - Shard Balancing: Moving Shops Confidently with Zero-Downtime at Terabyte-scale](https://shopify.engineering/mysql-database-shard-balancing-terabyte-scale)
@@ -794,6 +802,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Cloudflare - Cloudflare servers don't own IPs anymore – so how do they connect to the Internet?](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/)
 - [Marc-André Moreau - Free ARM server with 4 CPUs, 24GB of RAM and 200GB storage!](https://cohost.org/awakecoding/post/384627-free-arm-server-with)
 - [Phoenix Actions - Test Reporting - Displays test results from popular testing frameworks directly in GitHub](https://github.com/phoenix-actions/test-reporting)
 - [Trista Pan - Create Your Distributed Database on Kubernetes with Existing Monolithic Databases](https://www.infoq.com/articles/kubernetes-databases-apache-sharding-sphere/)
@@ -1100,6 +1109,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Luis Sena - The Complete Guide to Increasing Your Elasticsearch Write Throughput and Speed](https://luis-sena.medium.com/the-complete-guide-to-increase-your-elasticsearch-write-throughput-e3da4c1f9e92)
+- [Opster - How to Improve Elasticsearch Search Performance](https://opster.com/blogs/improve-elasticsearch-search-performance/)
+- [Fabio Marini - Going multi-model with PostgreSQL and Apache AGE: experimenting with Graph Databases](https://www.fabiomarini.net/going-multi-model-with-postgresql-and-apache-age-experimenting-with-graph-databases/)
 - [AirByte - How we run database migrations with Flyway, jOOQ, and testcontainers](https://airbyte.com/blog/database-migrations-with-flyway-jooq-and-testcontainers)
 - [Riyaz Ali - SQLite Extensions - Golang library to build sqlite extensions](https://github.com/riyaz-ali/sqlite)
 - [Cloudflare - D1: our quest to simplify databases](https://blog.cloudflare.com/whats-new-with-d1/)
@@ -1254,6 +1266,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [TechCrunch - Meet Unstable Diffusion, the group trying to monetize AI porn generators](https://techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/?_guc_consent_skip=1670862542)
 - [Meta - CICERO: An AI agent that negotiates, persuades, and cooperates with people](https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/)
 - [Science - Human-level play in the game of Diplomacy by combining language models with strategic reasoning](https://www.science.org/doi/10.1126/science.ade9097)
 - [Meta Cicero - Code for Cicero, an AI agent that plays the game of Diplomacy with open-domain natural language negotiation](https://github.com/facebookresearch/diplomacy_cicero)
@@ -1360,6 +1373,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [.NET Rocks - Wolverine .NET Command and Message Bus with Jeremy Miller](https://www.dotnetrocks.com/details/1823)
+- [Steven Giesel - Frozen collections in .NET 8](https://steven-giesel.com/blogPost/34e0fd95-0b3f-40f2-ba2a-36d1d4eb5601)
+- [James Eastham - Learning GraphQL](https://github.com/jeastham1993/learning-graphql)
+- [AspNet.Security.OAuth.Providers - OAuth 2.0 social authentication providers for ASP.NET Core](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers)
 - [Oskar Dudycz - Testing asynchronous processes with a little help from .NET Channels](https://event-driven.io/en/testing_asynchronous_processes_with_a_little_help_from_dotnet_channels/?utm_source=architecture_weekly)
 - [David Fowler - Thread about details of building Minimal APIs TODO sample in .NET 7](https://twitter.com/davidfowl/status/1591480438308339712?s=20&t=11VHs3sxX1tzJCa7ITRwXg)
 - [Ben Foster - Minimal API validation with ASP.NET 7.0 Endpoint Filters](https://benfoster.io/blog/minimal-api-validation-endpoint-filters/)
@@ -1840,6 +1857,9 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [Fastly - Compute@Edge](https://docs.fastly.com/products/compute-at-edge)
+- [Vercel - Introducing support for WebAssembly at the Edge](https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge)
+- [Massimo Ferre’ - Web Assembly (on the server)](https://www.slideshare.net/mreferre/web-assembly-on-the-server)
 - [Tsoding - Let's Talk About WASM and WASI](https://www.youtube.com/watch?v=2qV-1JhxWeE)
 - [wasmtime - A fast and secure runtime for WebAssembly](https://github.com/bytecodealliance/wasmtime)
 - [Second State - Running JavaScript in WebAssembly with WasmEdge](https://www.secondstate.io/articles/run-javascript-in-webassembly-with-wasmedge/)
@@ -2111,6 +2131,9 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Karsten Silz - Spring Modulith Structures Spring Boot 3 Applications with Modules and Events](https://www.infoq.com/news/2022/11/spring-modulith-launch/)
+- [Piotr Przybył - How to (mis)use Virtual Threads](https://softwaregarden.dev/en/posts/new-java/loom/misusing-virtual-threads/)
+- [Vadym Kazulkin - Measuring Java 11 Lambda cold starts with SnapStart - Part 1 First Impressions](https://dev.to/vkazulkin/measuring-java-11-lambda-cold-starts-with-snapstart-part-1-first-impressions-30a4)
 - [Java Blog - Go Native with Spring Boot 3 and GraalVM](https://blogs.oracle.com/java/post/go-native-with-spring-boot-3-and-graalvm)
 - [Marco Codes - How to Build a Text Editor With Java](https://www.youtube.com/watch?v=kT4JYQi9w4w&list=PLIRBoI92yManB1eHCupZ6iG61qMTA9hWe)
 - [HikariCP - A solid, high-performance, JDBC connection pool at last](https://github.com/brettwooldridge/HikariCP)
@@ -2234,6 +2257,8 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [Darius Kazemi - A very simple reference implementation of an ActivityPub server using Express.js](https://github.com/dariusk/express-activitypub)
+- [Einar Nordfjord - Using EventStore with NestJS](https://nordfjord.io/2022/03/27/event-sourcing-in-nestjs-v2.html)
 - [Node.js - Node.js 19 is now available](https://nodejs.org/en/blog/announcements/v19-release-announce/)
 - [S(n) - Mailing - Build, test, send emails with React](https://github.com/sofn-xyz/mailing)
 - [ESLint - ESLint's new config system, Part 1: Background](https://eslint.org/blog/2022/08/new-config-system-part-1/)
@@ -2323,6 +2348,7 @@
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
 
 ## Python
+- [Tim Hutton - twitter-archive-parser - Python code to parse a Twitter archive and output in various ways](https://github.com/timhutton/twitter-archive-parser)
 - [Lex Friedman Podcast - Guido van Rossum: Python and the Future of Programming](https://www.youtube.com/watch?v=-DVyjdw4t9I)
 - [Szymon Miks - Hexagonal Architecture in Python](https://blog.szymonmiks.pl/p/hexagonal-architecture-in-python/)
 - [Szymon Miks - Optimistic locking with Python](https://blog.szymonmiks.pl/p/optimistic-locking-with-python/)
@@ -2582,6 +2608,8 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Amazon CodeCatalyst - Dev Environments](https://codecatalyst.aws/explore/dev-environments)
+- [Hurl - Hurl is a command line tool that runs HTTP requests defined in a simple plain text format](https://hurl.dev/)
 - [Home Assistant - Open source home automation that puts local control and privacy first](https://github.com/home-assistant/core)
 - [Smitter hane - Turn around your Git mistakes in 17 ways](https://dev.to/smitterhane/turn-around-your-git-mistakes-in-17-ways-2mn1)
 - [GitUI - Blazing fast terminal-ui for git written in rust](https://github.com/extrawurst/gitui)
@@ -2658,6 +2686,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Bleeping Computer - Docker Hub repositories hide over 1,650 malicious containers](https://www.bleepingcomputer.com/news/security/docker-hub-repositories-hide-over-1-650-malicious-containers/)
 - [Jonathan Scott - Pegasus Spyware — Untold — Chinese Engineering — Samples 1 & 2](https://jonathandata1.medium.com/pegasus-spyware-untold-chinese-engineering-samples-1-2-e5aba2a0b20b)
 - [InfoQ - Two New Git Vulnerabilities Affecting Local Clones and Git Shell Patched](https://www.infoq.com/news/2022/10/git-clone-shell-vulnerabilities)
 - [Dominick Baier - OAuth – the good Parts](https://www.youtube.com/watch?v=y2Psj8ACZyw)

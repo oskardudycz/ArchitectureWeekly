@@ -24,6 +24,65 @@ There are two rules:
 
 ---
 
+## [12th December 2022](per-week/2022-12-12.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+
+---
+
+### Architecture
+- [Udi Dahan - Advanced API and Integration Problems & Patterns](https://www.youtube.com/watch?v=vNouCMGP1eE&t=14s)
+- [Ian Cooper - At Least Once. Life without Two-Phase Commit](https://www.youtube.com/watch?v=_9ULo-F4nmE)
+- [Javiera Laso - Start with DDD when you have a monolith](https://www.youtube.com/watch?v=-x2CBIFC24o)
+- [Trond Hjorteland - Thriving in complexity](https://www.youtube.com/watch?v=SV5cy6J-7vI)
+- [Logz.io - Beginner’s Guide to OpenTelemetry](https://logz.io/learn/opentelemetry-guide/)
+- [Svyatoslav Kotusev - One Minute Enterprise Architecture](https://www.researchgate.net/publication/308937149_One_Minute_Enterprise_Architecture)
+- [Legacy Code Rocks Podcast - Evolving Software with João Rosa](https://www.legacycode.rocks/podcast-1/episode/27106e0d/evolving-software-with-joao-rosa)
+- [Oskar Dudycz - Share your story on Event Sourcing Live 2023](https://event-driven.io/en/share_your_story_on_event_sourcing_live/)
+
+### DevOps
+- [Cloudflare - Cloudflare servers don't own IPs anymore – so how do they connect to the Internet?](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/)
+
+### Databases
+- [Luis Sena - The Complete Guide to Increasing Your Elasticsearch Write Throughput and Speed](https://luis-sena.medium.com/the-complete-guide-to-increase-your-elasticsearch-write-throughput-e3da4c1f9e92)
+- [Opster - How to Improve Elasticsearch Search Performance](https://opster.com/blogs/improve-elasticsearch-search-performance/)
+- [Fabio Marini - Going multi-model with PostgreSQL and Apache AGE: experimenting with Graph Databases](https://www.fabiomarini.net/going-multi-model-with-postgresql-and-apache-age-experimenting-with-graph-databases/)
+
+### AI
+- [TechCrunch - Meet Unstable Diffusion, the group trying to monetize AI porn generators](https://techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/?_guc_consent_skip=1670862542)
+
+### Java
+- [Karsten Silz - Spring Modulith Structures Spring Boot 3 Applications with Modules and Events](https://www.infoq.com/news/2022/11/spring-modulith-launch/)
+- [Piotr Przybył - How to (mis)use Virtual Threads](https://softwaregarden.dev/en/posts/new-java/loom/misusing-virtual-threads/)
+- [Vadym Kazulkin - Measuring Java 11 Lambda cold starts with SnapStart - Part 1 First Impressions](https://dev.to/vkazulkin/measuring-java-11-lambda-cold-starts-with-snapstart-part-1-first-impressions-30a4)
+
+### .NET
+- [.NET Rocks - Wolverine .NET Command and Message Bus with Jeremy Miller](https://www.dotnetrocks.com/details/1823)
+- [Steven Giesel - Frozen collections in .NET 8](https://steven-giesel.com/blogPost/34e0fd95-0b3f-40f2-ba2a-36d1d4eb5601)
+- [James Eastham - Learning GraphQL](https://github.com/jeastham1993/learning-graphql)
+- [AspNet.Security.OAuth.Providers - OAuth 2.0 social authentication providers for ASP.NET Core](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers)
+
+### NodeJS
+- [Darius Kazemi - A very simple reference implementation of an ActivityPub server using Express.js](https://github.com/dariusk/express-activitypub)
+- [Einar Nordfjord - Using EventStore with NestJS](https://nordfjord.io/2022/03/27/event-sourcing-in-nestjs-v2.html)
+
+### Python
+- [Tim Hutton - twitter-archive-parser - Python code to parse a Twitter archive and output in various ways](https://github.com/timhutton/twitter-archive-parser)
+
+### Web Assembly
+- [Fastly - Compute@Edge](https://docs.fastly.com/products/compute-at-edge)
+- [Vercel - Introducing support for WebAssembly at the Edge](https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge)
+- [Massimo Ferre’ - Web Assembly (on the server)](https://www.slideshare.net/mreferre/web-assembly-on-the-server)
+
+### Tools
+- [Amazon CodeCatalyst - Dev Environments](https://codecatalyst.aws/explore/dev-environments)
+- [Hurl - Hurl is a command line tool that runs HTTP requests defined in a simple plain text format](https://hurl.dev/)
+
+### Security
+- [Bleeping Computer - Docker Hub repositories hide over 1,650 malicious containers](https://www.bleepingcomputer.com/news/security/docker-hub-repositories-hide-over-1-650-malicious-containers/)
+
+---
+
 ## [5th December 2022](per-week/2022-12-05.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
