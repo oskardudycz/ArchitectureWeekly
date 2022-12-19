@@ -57,6 +57,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - The magic is that there is no magic. Or how to understand design patterns.](https://event-driven.io/en/the_magic_is_that_there_is_no_magic/)
+- [Tyler Treat - Everything You Know About Latency Is Wrong](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
+- [Charles E. Leiserson et al - There’s plenty of room at the Top: What will drive computer performance after Moore’s law?](https://www.microsoft.com/en-us/research/uploads/prod/2020/11/Leiserson-et-al-Theres-plenty-of-room-at-the-top.pdf)
+- [I. Cartwright, R. Horn, J. Lewis - Patterns of Legacy Displacement. Effective modernization of legacy software systems](https://martinfowler.com/articles/patterns-legacy-displacement/)
+- [Alexey Zimarev - Aggregate pattern in Domain-Driven Design](https://medium.com/eventuous/aggregate-pattern-in-domain-driven-design-7ad823475099)
+- [Dennis van der Stelt - Dealing with eventual consistency](https://www.youtube.com/watch?v=Wy-BmhB6ty4)
 - [Udi Dahan - Advanced API and Integration Problems & Patterns](https://www.youtube.com/watch?v=vNouCMGP1eE&t=14s)
 - [Ian Cooper - At Least Once. Life without Two-Phase Commit](https://www.youtube.com/watch?v=_9ULo-F4nmE)
 - [Javiera Laso - Start with DDD when you have a monolith](https://www.youtube.com/watch?v=-x2CBIFC24o)
@@ -606,6 +612,8 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Frank Pfenning - A Rehabilitation of Message-passing Concurrency](https://www.youtube.com/watch?v=LRn_nPfti-Y)
+- [Gerard Klijs - How dumb do you want your pipes?](https://developer.axoniq.io/w/how-dumb-do-you-want-your-pipes)
 - [Cloudflare - Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
 - [Redpanda - Reliable Message Reprocessing with Redpanda: Dead Letter Queues](https://redpanda.com/blog/reliable-message-processing-with-dead-letter-queue)
 - [Jack Vanlightly - Understanding How Apache Pulsar Works](https://jack-vanlightly.com/blog/2018/10/2/understanding-how-apache-pulsar-works)
@@ -935,6 +943,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Luca Mezzalira - Server-side rendering micro-frontends – the architecture](https://aws.amazon.com/blogs/compute/server-side-rendering-micro-frontends-the-architecture/)
 - [Michael Geers - The Tractor Store - sample code from the book Micro Frontends in Action](https://github.com/naltatis/micro-frontends-in-action-code)
 - [Minko Genchev - Angular v15 is now available!](https://blog.angular.io/angular-v15-is-now-available-df7be7f2f4c8)
 - [Addy Osmani, Sriram Krishnan - Building a Better Web - Part 1: A faster YouTube on web](https://web.dev/better-youtube-web-part1/)
@@ -1032,6 +1041,7 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Michael Feathers - Making Too Much of TDD](https://michaelfeathers.typepad.com/michael_feathers_blog/2010/12/making-too-much-of-tdd.html)
 - [Kent C. Dodds - The Testing Trophy and Testing Classifications](https://kentcdodds.com/blog/the-testing-trophy-and-testing-classifications)
 - [Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)
 - [Kevlin Henney - Structure and Interpretation of Test Cases](https://www.youtube.com/watch?v=MWsk1h8pv2Q)
@@ -1109,6 +1119,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Phil Bernstein - Concurrency Control and Recovery in Database Systems](https://www.microsoft.com/en-us/research/people/philbe/book/)
+- [Anton Stöckl - Essential features of an Event Store for Event Sourcing](https://medium.com/itnext/essential-features-of-an-event-store-for-event-sourcing-13e61ca4d066)
 - [Luis Sena - The Complete Guide to Increasing Your Elasticsearch Write Throughput and Speed](https://luis-sena.medium.com/the-complete-guide-to-increase-your-elasticsearch-write-throughput-e3da4c1f9e92)
 - [Opster - How to Improve Elasticsearch Search Performance](https://opster.com/blogs/improve-elasticsearch-search-performance/)
 - [Fabio Marini - Going multi-model with PostgreSQL and Apache AGE: experimenting with Graph Databases](https://www.fabiomarini.net/going-multi-model-with-postgresql-and-apache-age-experimenting-with-graph-databases/)
@@ -1351,6 +1363,7 @@
 - [Brett Rowberry - An F# Dev's Perspective on Clojure](https://brettrowberry.hashnode.dev/an-f-devs-perspective-on-clojure)
 
 ## Functional Programming
+- [Simon Peyton Jones - Beyond Functional Programming: The Verse Programming Language](https://www.youtube.com/watch?v=832JF1o7Ck8)
 - [Richard Feldman - Why Isn't Functional Programming the Norm?](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
 - [Felienne Hermans - Pure Functional Programming in Excel](https://www.youtube.com/watch?v=0yKf8TrLUOw)
 - [Gjeta Gjyshinca - Monad I Love You Now Get Out Of My Type System](https://www.youtube.com/watch?v=2PxsyWqZ5dI)
@@ -1373,6 +1386,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Maarten Balliauw - Improved Startup Performance in Rider 2022.3](https://blog.jetbrains.com/dotnet/2022/12/01/improved-startup-performance-in-rider-2022-3/)
+- [Jorge Fioranelli - Reactive Messaging Patterns with F# and Akka.NET](https://github.com/jorgef/fsharpreactivepatterns)
+- [Martin Thwaites - Building Operable Software with TDD (but not the way you think)](https://www.youtube.com/watch?v=yVQMnQKSsh4)
+- [David Fowler - Smart load balancing for SignalR](https://github.com/davidfowl/SmartLoadBalancer)
 - [.NET Rocks - Wolverine .NET Command and Message Bus with Jeremy Miller](https://www.dotnetrocks.com/details/1823)
 - [Steven Giesel - Frozen collections in .NET 8](https://steven-giesel.com/blogPost/34e0fd95-0b3f-40f2-ba2a-36d1d4eb5601)
 - [James Eastham - Learning GraphQL](https://github.com/jeastham1993/learning-graphql)
@@ -2056,6 +2073,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Inger Dickson - "No Estimates" is not the (only) Answer or: Moving towards Predictability](https://www.thoughtworks.com/insights/blog/no-estimates-not-only-answer-or-moving-towards-predictability)
 - [Google - What improves developer productivity at google? code quality](https://dl.acm.org/doi/10.1145/3540250.3558940)
 - [Jasper Spanjaart - 20 ways to hire more women into engineering and combat the gender gap](https://totalent.eu/20-ways-to-hire-more-women-into-engineering-and-combat-the-gender-gap/)
 - [Audun Fauchald Strand, Truls Jørgensen - Optimizing for Fast Flow in Norway's Largest Bureaucracy](https://www.infoq.com/presentations/nav-fast-flow/)
@@ -2131,6 +2149,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [The New Stack - Java Usage Keeps Climbing, According to New Survey](https://thenewstack.io/java-usage-keeps-climbing-according-to-new-survey)
+- [Krzysztof Ślusarski - Finding heap memory leaks with Async-profiler](https://www.linkedin.com/pulse/javaprofilingmemory-leak-finding-heap-memory-leaks-%C5%9Blusarski/)
 - [Karsten Silz - Spring Modulith Structures Spring Boot 3 Applications with Modules and Events](https://www.infoq.com/news/2022/11/spring-modulith-launch/)
 - [Piotr Przybył - How to (mis)use Virtual Threads](https://softwaregarden.dev/en/posts/new-java/loom/misusing-virtual-threads/)
 - [Vadym Kazulkin - Measuring Java 11 Lambda cold starts with SnapStart - Part 1 First Impressions](https://dev.to/vkazulkin/measuring-java-11-lambda-cold-starts-with-snapstart-part-1-first-impressions-30a4)
@@ -2300,6 +2320,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Nicholas Jackson - Building Microservices in Go](https://github.com/nicholasjackson/building-microservices-youtube)
 - [Jeremy Clark - An overview of Go (golang) for C# developers using the CodeTour extension for Visual Studio Code](https://github.com/jeremybytes/go-for-csharp-dev)
 - [Rob Pike - The Go Programming Language and Environment](https://www.youtube.com/watch?v=YXV7sa4oM4I)
 - [Jesse Li - Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
@@ -2348,6 +2369,8 @@
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
 
 ## Python
+- [Cory Benfield - Building Protocol Libraries The Right Way](https://www.youtube.com/watch?v=7cC3_jGwl_U)
+- [Codon - A high-performance, zero-overhead, extensible Python compiler using LLVM](https://github.com/exaloop/codon)
 - [Tim Hutton - twitter-archive-parser - Python code to parse a Twitter archive and output in various ways](https://github.com/timhutton/twitter-archive-parser)
 - [Lex Friedman Podcast - Guido van Rossum: Python and the Future of Programming](https://www.youtube.com/watch?v=-DVyjdw4t9I)
 - [Szymon Miks - Hexagonal Architecture in Python](https://blog.szymonmiks.pl/p/hexagonal-architecture-in-python/)
@@ -2399,6 +2422,12 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Reuters - U.S., UK export controls hit China's access to Arm's chip designs -FT](https://www.reuters.com/technology/export-controls-hit-chinas-access-arms-chip-designs-ft-2022-12-14/)
+- [CNN - Elon Musk’s Twitter blocked links to rival Mastodon. That could raise alarms among regulators](https://edition.cnn.com/2022/12/16/tech/mastodon-twitter-links/index.html)
+- [The Verge - Elon Musk starts banning critical journalists from Twitter](https://www.theverge.com/2022/12/15/23512004/elon-musk-starts-banning-critical-journalists-from-twitter)
+- [Yahoo - Twitter suspends account of Paul Graham, a respected venture capitalist supportive of Elon Musk, after he tweets about Mastodon link](https://finance.yahoo.com/news/twitter-suspends-account-paul-graham-232754736.html)
+- [John Gruber - I Wish I Could Tell You This One Is Not All About Twitter](https://daringfireball.net/2022/12/i_wish_i_could_tell_you_this_is_not_all_about_twitter)
+- [Comics Beat - Shocker: NFT companies backing off on paying royalties](ttps://www.comicsbeat.com/shocker-nft-companies-backing-off-on-paying-royalties)
 - [Axios - Elizabeth Holmes sentenced to 11 years in prison for Theranos fraud](https://www.axios.com/2022/11/18/elizabeth-holmes-fraud-trial-prison-sentence)
 - [Data Protection Commission - Decision in Facebook “Data Scraping” Inquiry](https://www.dataprotection.ie/en/news-media/press-releases/data-protection-commission-announces-decision-in-facebook-data-scraping-inquiry)
 - [Lioness - At SpaceX, work was taken away from me in case I “might retire or die.”](https://www.lioness.co/post/at-spacex-work-was-taken-away-from-me-in-case-i-might-retire-or-die)
@@ -2811,6 +2840,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Christoph Rumpel - 12 Tips For Better Live Coding](https://christoph-rumpel.com/2021/7/12-tips-for-better-live-coding)
 - [Cory Doctorow - Social Quitting](https://doctorow.medium.com/social-quitting-1ce85b67b456)
 - [TechCrunch - Zoom’s adding email and calendar as it pushes harder to expand the platform](https://techcrunch.com/2022/11/08/zooms-adding-email-and-calendar-as-it-pushes-hard-to-expand-the-platform)
 - [Tomasz Nurkiewicz - Mastodon: next-generation, open source social network](https://nurkiewicz.com/90)
