@@ -2427,7 +2427,7 @@
 - [The Verge - Elon Musk starts banning critical journalists from Twitter](https://www.theverge.com/2022/12/15/23512004/elon-musk-starts-banning-critical-journalists-from-twitter)
 - [Yahoo - Twitter suspends account of Paul Graham, a respected venture capitalist supportive of Elon Musk, after he tweets about Mastodon link](https://finance.yahoo.com/news/twitter-suspends-account-paul-graham-232754736.html)
 - [John Gruber - I Wish I Could Tell You This One Is Not All About Twitter](https://daringfireball.net/2022/12/i_wish_i_could_tell_you_this_is_not_all_about_twitter)
-- [Comics Beat - Shocker: NFT companies backing off on paying royalties](ttps://www.comicsbeat.com/shocker-nft-companies-backing-off-on-paying-royalties)
+- [Comics Beat - Shocker: NFT companies backing off on paying royalties](https://www.comicsbeat.com/shocker-nft-companies-backing-off-on-paying-royalties)
 - [Axios - Elizabeth Holmes sentenced to 11 years in prison for Theranos fraud](https://www.axios.com/2022/11/18/elizabeth-holmes-fraud-trial-prison-sentence)
 - [Data Protection Commission - Decision in Facebook “Data Scraping” Inquiry](https://www.dataprotection.ie/en/news-media/press-releases/data-protection-commission-announces-decision-in-facebook-data-scraping-inquiry)
 - [Lioness - At SpaceX, work was taken away from me in case I “might retire or die.”](https://www.lioness.co/post/at-spacex-work-was-taken-away-from-me-in-case-i-might-retire-or-die)
