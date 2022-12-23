@@ -57,6 +57,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Explicit events serialisation in Event Sourcing](https://event-driven.io/en/explicit_events_serialisation_in_event_sourcing/)
+- [Ben Nadel - Considering Strategies For Idempotency Without Distributed Locking With Ben Darfler](https://www.bennadel.com/blog/3390-considering-strategies-for-idempotency-without-distributed-locking-with-ben-darfler.htm)
+- [Jon Chew - Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
+- [Jimmy Bogard - Refactoring Towards Resilience: Evaluating SendGrid Options](https://jimmybogard.com/refactoring-towards-resilience-evaluating-sendgrid-options/)
+- [Vladik Khononov - Tackling Complexity in CQRS](https://vladikk.com/2017/03/20/tackling-complexity-in-cqrs/)
+- [Gregor Hohpe - I Made Everything Loosely Coupled. Does My App Fall Apart?](https://www.youtube.com/watch?v=w9a7eI6BlVc)
+- [Derek Comartin - You want to use Kafka? Or do you really need a Queue?](https://www.youtube.com/watch?v=dpl4xKkPxHY)
+- [The Hanselminutes podcast - Hachyderm's Kris Nova on running a Mastodon Server](https://www.hanselminutes.com/872/hachyderms-kris-nova-on-running-a-mastodon-server)
+- [Leigh Griffin, Chris Foley - Going from Architect to Architecting: the Evolution of a Key Role](https://www.infoq.com/articles/architecture-architecting-role/)
 - [Oskar Dudycz - The magic is that there is no magic. Or how to understand design patterns.](https://event-driven.io/en/the_magic_is_that_there_is_no_magic/)
 - [Tyler Treat - Everything You Know About Latency Is Wrong](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
 - [Charles E. Leiserson et al - There’s plenty of room at the Top: What will drive computer performance after Moore’s law?](https://www.microsoft.com/en-us/research/uploads/prod/2020/11/Leiserson-et-al-Theres-plenty-of-room-at-the-top.pdf)
@@ -1278,6 +1287,8 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [ComputerWeekly - GitHub CEO: Artificial intelligence will not replace developers](https://www.computerweekly.com/news/252528476/GitHub-CEO-Artificial-intelligence-will-not-replace-developers)
+- [Parth Thakkar - Copilot Internals](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
 - [TechCrunch - Meet Unstable Diffusion, the group trying to monetize AI porn generators](https://techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/?_guc_consent_skip=1670862542)
 - [Meta - CICERO: An AI agent that negotiates, persuades, and cooperates with people](https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/)
 - [Science - Human-level play in the game of Diplomacy by combining language models with strategic reasoning](https://www.science.org/doi/10.1126/science.ade9097)
@@ -1386,6 +1397,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Tomasz Pęczek - Experimenting With .NET & WebAssembly - Running .NET Based Spin Application On WASI Node Pool in AKS](https://www.tpeczek.com/2022/12/experimenting-with-net-webassembly.html)
+- [Jeremy D. Miller - Transactional Outbox/Inbox with Wolverine and why you care](https://jeremydmiller.com/2022/12/15/transactional-outbox-inbox-with-wolverine-and-why-you-care/)
+- [Jonathan Allen - .NET 7 Adds Aggressive Garbage Collection for Kubernetes](https://www.infoq.com/news/2022/11/GCCollectionMode-Aggressive)
+- [Rob Janssen - NUlid](https://github.com/RobThree/NUlid)
 - [Maarten Balliauw - Improved Startup Performance in Rider 2022.3](https://blog.jetbrains.com/dotnet/2022/12/01/improved-startup-performance-in-rider-2022-3/)
 - [Jorge Fioranelli - Reactive Messaging Patterns with F# and Akka.NET](https://github.com/jorgef/fsharpreactivepatterns)
 - [Martin Thwaites - Building Operable Software with TDD (but not the way you think)](https://www.youtube.com/watch?v=yVQMnQKSsh4)
@@ -1891,6 +1906,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Chris Klug - I'm just trying to keep my head above water](https://www.youtube.com/watch?v=8q050zzV8oo)
+- [Connor Tumbleson - Open Source & Saying "No"](https://connortumbleson.com/2022/11/28/open-source-saying-no/)
 - [Cosima Laube - Head 'n' Heart Ops - A guide to emotions without system crashes](https://www.respectandadapt.rocks/blog/leadership/Head-mind-and-Heart-integrated-together-at-work)
 - [Milen Dyakov - Operational vs. Strategic DevX](https://milendyankov.com/blog/2022/10/operational_vs_strategic_devx/)
 - [Mary Thengvall - DevRel Resources](https://devrelresourc.es/)
@@ -2149,6 +2166,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Edoardo Vacchi - WebAssembly for the Java Geek](https://www.javaadvent.com/2022/12/webassembly-for-the-java-geek.html)
 - [The New Stack - Java Usage Keeps Climbing, According to New Survey](https://thenewstack.io/java-usage-keeps-climbing-according-to-new-survey)
 - [Krzysztof Ślusarski - Finding heap memory leaks with Async-profiler](https://www.linkedin.com/pulse/javaprofilingmemory-leak-finding-heap-memory-leaks-%C5%9Blusarski/)
 - [Karsten Silz - Spring Modulith Structures Spring Boot 3 Applications with Modules and Events](https://www.infoq.com/news/2022/11/spring-modulith-launch/)
@@ -2252,6 +2270,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Andrey Starovoyt - Behind the Scenes: Discussing One of the Most Interesting TypeScript 4.9 Features](https://www.youtube.com/watch?v=iGytn1dzXZ4)
 - [Jonathan Cardoso - How To Use Decorators in TypeScript](https://www.digitalocean.com/community/tutorials/how-to-use-decorators-in-typescript)
 - [Microsoft - Ten Years of TypeScript](https://devblogs.microsoft.com/typescript/ten-years-of-typescript/)
 - [TypeScript Tips - A collection of useful tips that you wish you knew when you started using TypeScript](https://www.totaltypescript.com/tips)
@@ -2277,6 +2296,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [ESLint - Complete rewrite of ESLint](https://github.com/eslint/eslint/discussions/16557)
 - [Darius Kazemi - A very simple reference implementation of an ActivityPub server using Express.js](https://github.com/dariusk/express-activitypub)
 - [Einar Nordfjord - Using EventStore with NestJS](https://nordfjord.io/2022/03/27/event-sourcing-in-nestjs-v2.html)
 - [Node.js - Node.js 19 is now available](https://nodejs.org/en/blog/announcements/v19-release-announce/)
@@ -2320,6 +2340,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Robert Laszczak - The Best Go framework: no framework?](https://threedots.tech/post/best-go-framework/)
 - [Nicholas Jackson - Building Microservices in Go](https://github.com/nicholasjackson/building-microservices-youtube)
 - [Jeremy Clark - An overview of Go (golang) for C# developers using the CodeTour extension for Visual Studio Code](https://github.com/jeremybytes/go-for-csharp-dev)
 - [Rob Pike - The Go Programming Language and Environment](https://www.youtube.com/watch?v=YXV7sa4oM4I)
@@ -2381,6 +2402,7 @@
 - [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
 
 ## Rust
+- [Nick Cameron - Rust in 2023](https://www.ncameron.org/blog/rust-in-2023/)
 - [Armin Ronacher - A Better Way to Borrow in Rust: Stack Tokens](https://lucumr.pocoo.org/2022/11/23/stack-tokens/)
 - [Steadylearner - How to use gRPC with Rust Tonic and Postgres database with examples](https://dev.to/steadylearner/how-to-use-grpc-with-rust-tonic-and-postgres-database-with-examples-3dl7)
 - [Amos Wenger - Remote development with Rust on fly.io](https://fasterthanli.me/articles/remote-development-with-rust-on-fly-io)
@@ -2422,6 +2444,12 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Anton Shilov - Intel Officially Introduces Pay-As-You-Go Chip Licensing](https://www.tomshardware.com/news/intel-officially-introduces-pay-as-you-go-chip-licensing)
+- [DataQuest - How AWS enabled the making of ‘Avatar: The Way of Water?’](https://www.dqindia.com/how-aws-enabled-making-avatar-way-of-water/)
+- [Fortune - How Amazon grew an awkward side project into AWS, a behemoth that’s now 4 times bigger than its original shopping business](https://fortune.com/longform/amazon-web-services-ceo-adam-selipsky-cloud-computing/)
+- [Los Angeles Times - How Amazon put Ukraine’s ‘government in a box’ — and saved its economy from Russia](https://www.latimes.com/business/story/2022-12-15/amazon-ukraine-war-cloud-data)
+- [National Post - U.S. considering ban on TikTok as experts warn China could use it for spying. What will Canada do?](https://nationalpost.com/news/world/tiktok-china-spying)
+- [Forbes - TikTok Spied On Forbes Journalists](https://www.forbes.com/sites/emilybaker-white/2022/12/22/tiktok-tracks-forbes-journalists-bytedance)
 - [Reuters - U.S., UK export controls hit China's access to Arm's chip designs -FT](https://www.reuters.com/technology/export-controls-hit-chinas-access-arms-chip-designs-ft-2022-12-14/)
 - [CNN - Elon Musk’s Twitter blocked links to rival Mastodon. That could raise alarms among regulators](https://edition.cnn.com/2022/12/16/tech/mastodon-twitter-links/index.html)
 - [The Verge - Elon Musk starts banning critical journalists from Twitter](https://www.theverge.com/2022/12/15/23512004/elon-musk-starts-banning-critical-journalists-from-twitter)
@@ -2715,6 +2743,10 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Bleeping Computer - Okta's source code stolen after GitHub repositories hacked](https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/)
+- [MrWhoseTheBoss - How THIS wallpaper kills your phone](https://www.youtube.com/watch?v=iXKvwPjCGnY)
+- [LastPass - Notice of Recent Security Incident](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/)
+- [Snyk.io - Exploring the Spring Security authorization bypass (CVE-2022-31692)](https://snyk.io/blog/spring-security-authorization-bypass-cve-2022-31692/)
 - [Bleeping Computer - Docker Hub repositories hide over 1,650 malicious containers](https://www.bleepingcomputer.com/news/security/docker-hub-repositories-hide-over-1-650-malicious-containers/)
 - [Jonathan Scott - Pegasus Spyware — Untold — Chinese Engineering — Samples 1 & 2](https://jonathandata1.medium.com/pegasus-spyware-untold-chinese-engineering-samples-1-2-e5aba2a0b20b)
 - [InfoQ - Two New Git Vulnerabilities Affecting Local Clones and Git Shell Patched](https://www.infoq.com/news/2022/10/git-clone-shell-vulnerabilities)
