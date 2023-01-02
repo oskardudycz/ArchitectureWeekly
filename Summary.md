@@ -57,6 +57,9 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Sheen Brisals - The Road To Event-Driven Architecture at LEGO](https://www.youtube.com/watch?v=_g6DA9WM7RE)
+- [eBay - Why and How eBay Pivoted to OpenTelemetry](https://tech.ebayinc.com/engineering/why-and-how-ebay-pivoted-to-opentelemetry)
+- [Paul Rayner - Virtual Event Storming](https://www.youtube.com/watch?v=mbl8r_LSJqY)
 - [Oskar Dudycz - Explicit events serialisation in Event Sourcing](https://event-driven.io/en/explicit_events_serialisation_in_event_sourcing/)
 - [Ben Nadel - Considering Strategies For Idempotency Without Distributed Locking With Ben Darfler](https://www.bennadel.com/blog/3390-considering-strategies-for-idempotency-without-distributed-locking-with-ben-darfler.htm)
 - [Jon Chew - Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
@@ -1096,6 +1099,9 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [Netflix - How Netflix Scales its API with GraphQL Federation (Part 1)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2)
+- [Microsoft - Describing a real API with Cadl: The Moostodon story](https://devblogs.microsoft.com/azure-sdk/describing-a-real-api-with-cadl-the-moostodon-story/)
+- [Asbjørn Ulsberg - REST State Machine Revisited](https://nordicapis.com/rest-state-machine-revisited/)
 - [HTMX - How Did REST Come To Mean The Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
 - [Oskar Dudycz - Should you generate the client code from the API?](https://event-driven.io/en/client_code_generation/?utm_source=architecture_weekly)
 - [Julien Topçu - REST next level : Crafting business-oriented web APIs](https://www.youtube.com/watch?v=k5S3qcCFDiQ)
@@ -1287,6 +1293,10 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Phil Wang - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM](https://github.com/lucidrains/PaLM-rlhf-pytorch)
+- [N. Perry, M. Srivastava, D. Kumar, D. Boneh - Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/abs/2211.03622)
+- [Emily M. Bender, Chirag Shah - All-knowing machines are a fantasy](https://iai.tv/articles/all-knowing-machines-are-a-fantasy-auid-2334)
+- [Research at Microsoft - 2022: A look back at a year of accelerating progress in AI](https://www.microsoft.com/en-us/research/blog/2022-a-look-back-at-a-year-of-accelerating-progress-in-ai)
 - [ComputerWeekly - GitHub CEO: Artificial intelligence will not replace developers](https://www.computerweekly.com/news/252528476/GitHub-CEO-Artificial-intelligence-will-not-replace-developers)
 - [Parth Thakkar - Copilot Internals](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
 - [TechCrunch - Meet Unstable Diffusion, the group trying to monetize AI porn generators](https://techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/?_guc_consent_skip=1670862542)
@@ -1328,6 +1338,9 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Luca Mezzalira - Evolutionary AWS Lambda functions with hexagonal architecture](https://www.youtube.com/watch?v=kRFg6fkVChQ)
+- [AWS - A closer look at AWS Lambda](https://www.youtube.com/watch?v=EplOzQqgstA)
+- [Massimo Re Ferrè - Using AWS Step Functions to mitigate code liability](https://it20.info/2022/12/using-aws-step-functions-to-mitigate-code-liability/)
 - [Kimberly Nicholls - Migrating to Aurora: easy except the bill](https://gridium.com/migrating-to-aurora-easy-except-the-bill/)
 - [AWS - Amazon Aurora I/O Cost Optimization Methodology](https://www.youtube.com/watch?v=dpLRAlEX7Lo)
 - [Matt Rickard - S3 Isn't Getting Cheaper](https://matt-rickard.com/10-years-and-s3-isnt-getting-cheaper)
@@ -1397,6 +1410,9 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [David Fowler - A multiplayer trivia game using SignalR and .NET 7](https://github.com/davidfowl/TriviaR)
+- [ISLE - A library that allows developers to perform structured logging using interpolated strings in C# 10 or later](https://github.com/fedarovich/isle)
+- [System.IO.Abstractions - Just like System.Web.Abstractions, but for System.IO. Yay for testable IO access!](https://github.com/TestableIO/System.IO.Abstractions)
 - [Tomasz Pęczek - Experimenting With .NET & WebAssembly - Running .NET Based Spin Application On WASI Node Pool in AKS](https://www.tpeczek.com/2022/12/experimenting-with-net-webassembly.html)
 - [Jeremy D. Miller - Transactional Outbox/Inbox with Wolverine and why you care](https://jeremydmiller.com/2022/12/15/transactional-outbox-inbox-with-wolverine-and-why-you-care/)
 - [Jonathan Allen - .NET 7 Adds Aggressive Garbage Collection for Kubernetes](https://www.infoq.com/news/2022/11/GCCollectionMode-Aggressive)
@@ -1906,6 +1922,10 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Oskar Dudycz - Don't be like Ebenezer Scrooge. A few words about workaholism](https://event-driven.io/en/a_few_words_about_workaholism/?utm_source=architecture_weekly)
+- [Chelsea Troy - Reviewing Pull Requests](https://chelseatroy.com/2019/12/18/reviewing-pull-requests/)
+- [Dennis Adolfi - How to become a better mentor](https://24days.in/umbraco-cms/2022/how-to-become-a-better-mentor/)
+- [Thomas Depierre - I am not a supplier](https://www.softwaremaxims.com/blog/not-a-supplier)
 - [Chris Klug - I'm just trying to keep my head above water](https://www.youtube.com/watch?v=8q050zzV8oo)
 - [Connor Tumbleson - Open Source & Saying "No"](https://connortumbleson.com/2022/11/28/open-source-saying-no/)
 - [Cosima Laube - Head 'n' Heart Ops - A guide to emotions without system crashes](https://www.respectandadapt.rocks/blog/leadership/Head-mind-and-Heart-integrated-together-at-work)
@@ -2090,6 +2110,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Software Engineering Radio - Episode 543: Jon Smart on Patterns and Anti-Patterns for Successful Software Delivery in Enterprises](https://www.se-radio.net/2022/12/episode-543-jon-smart-on-patterns-and-anti-patterns-for-successful-software-delivery-in-enterprises/)
 - [Inger Dickson - "No Estimates" is not the (only) Answer or: Moving towards Predictability](https://www.thoughtworks.com/insights/blog/no-estimates-not-only-answer-or-moving-towards-predictability)
 - [Google - What improves developer productivity at google? code quality](https://dl.acm.org/doi/10.1145/3540250.3558940)
 - [Jasper Spanjaart - 20 ways to hire more women into engineering and combat the gender gap](https://totalent.eu/20-ways-to-hire-more-women-into-engineering-and-combat-the-gender-gap/)
@@ -2166,6 +2187,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [InfoQ - Java InfoQ Trends Report - December 2022](https://www.infoq.com/articles/java-jvm-trends-2022/)
 - [Edoardo Vacchi - WebAssembly for the Java Geek](https://www.javaadvent.com/2022/12/webassembly-for-the-java-geek.html)
 - [The New Stack - Java Usage Keeps Climbing, According to New Survey](https://thenewstack.io/java-usage-keeps-climbing-according-to-new-survey)
 - [Krzysztof Ślusarski - Finding heap memory leaks with Async-profiler](https://www.linkedin.com/pulse/javaprofilingmemory-leak-finding-heap-memory-leaks-%C5%9Blusarski/)
@@ -2270,6 +2292,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Matt Pocock - Don't use Function type in TypeScript](https://www.totaltypescript.com/dont-use-function-keyword-in-typescript)
 - [Andrey Starovoyt - Behind the Scenes: Discussing One of the Most Interesting TypeScript 4.9 Features](https://www.youtube.com/watch?v=iGytn1dzXZ4)
 - [Jonathan Cardoso - How To Use Decorators in TypeScript](https://www.digitalocean.com/community/tutorials/how-to-use-decorators-in-typescript)
 - [Microsoft - Ten Years of TypeScript](https://devblogs.microsoft.com/typescript/ten-years-of-typescript/)
@@ -2340,6 +2363,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Robert Laszczak - The Go libraries that never failed us: 22 libraries you need to know](https://threedots.tech/post/list-of-recommended-libraries)
 - [Robert Laszczak - The Best Go framework: no framework?](https://threedots.tech/post/best-go-framework/)
 - [Nicholas Jackson - Building Microservices in Go](https://github.com/nicholasjackson/building-microservices-youtube)
 - [Jeremy Clark - An overview of Go (golang) for C# developers using the CodeTour extension for Visual Studio Code](https://github.com/jeremybytes/go-for-csharp-dev)
@@ -2434,6 +2458,7 @@
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
 
 ## Scala
+- [Scala - Scala Developer Survey 2022 Results](https://scala-lang.org/blog/2022/12/14/scala-developer-survey-results-2022.html)
 - [Adam Warski - Implementing Raft using a functional effect system](https://softwaremill.com/implementing-raft-using-a-functional-effect-system/)
 - [Jakub Cichy - Hands-on Kafka Streams in Scala](https://softwaremill.com/hands-on-kafka-streams-in-scala/)
 - [Programming Methods Laboratory EPFL - Monadic Reflection](https://github.com/lampepfl/monadic-reflection)
@@ -2444,6 +2469,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [The Register - Carmack quits Meta, brands it inefficient and unprepared for competition](https://www.theregister.com/2022/12/19/john_carmack_quits_meta/)
+- [Mozilla - Mozilla to explore healthy social media alternative](https://blog.mozilla.org/en/mozilla/mozilla-launch-fediverse-instance-social-media-alternative/)
 - [Anton Shilov - Intel Officially Introduces Pay-As-You-Go Chip Licensing](https://www.tomshardware.com/news/intel-officially-introduces-pay-as-you-go-chip-licensing)
 - [DataQuest - How AWS enabled the making of ‘Avatar: The Way of Water?’](https://www.dqindia.com/how-aws-enabled-making-avatar-way-of-water/)
 - [Fortune - How Amazon grew an awkward side project into AWS, a behemoth that’s now 4 times bigger than its original shopping business](https://fortune.com/longform/amazon-web-services-ceo-adam-selipsky-cloud-computing/)
@@ -2743,6 +2770,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Bleeping Computers - PyTorch discloses malicious dependency chain compromise over holidays](https://www.bleepingcomputer.com/news/security/pytorch-discloses-malicious-dependency-chain-compromise-over-holidays/)
+- [Bloomberg Law - Ransomware Needs ‘Physical’ Damage For Insurance, Ohio Court Rules](https://news.bloomberglaw.com/insurance/ransomware-needs-physical-damage-for-insurance-ohio-court-rules)
 - [Bleeping Computer - Okta's source code stolen after GitHub repositories hacked](https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/)
 - [MrWhoseTheBoss - How THIS wallpaper kills your phone](https://www.youtube.com/watch?v=iXKvwPjCGnY)
 - [LastPass - Notice of Recent Security Incident](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/)
@@ -2872,6 +2901,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Gary Trosclair - Compulsive Personality: A New and Positive Perspective](https://thehealthycompulsive.com/science-research/the-compulsive-personality-a-new-and-positive-perspective/)
 - [Christoph Rumpel - 12 Tips For Better Live Coding](https://christoph-rumpel.com/2021/7/12-tips-for-better-live-coding)
 - [Cory Doctorow - Social Quitting](https://doctorow.medium.com/social-quitting-1ce85b67b456)
 - [TechCrunch - Zoom’s adding email and calendar as it pushes harder to expand the platform](https://techcrunch.com/2022/11/08/zooms-adding-email-and-calendar-as-it-pushes-hard-to-expand-the-platform)
