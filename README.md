@@ -6038,4 +6038,4 @@ Ukraine, stay strong!
 
 - [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 
-**Architecture Weekly** is Copyright &copy; 2020-2021 [Oskar Dudycz](http://oskar-dudycz.pl) and other contributors under the [MIT license](LICENSE).
+**Architecture Weekly** is Copyright &copy; 2020-2023 [Oskar Dudycz](http://oskar-dudycz.pl) and other contributors under the [MIT license](LICENSE).
