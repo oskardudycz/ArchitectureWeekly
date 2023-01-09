@@ -7,3 +7,6 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ### Architecture
+
+### Python
+- [The outbox pattern in python](https://blog.szymonmiks.pl/p/the-outbox-pattern-in-python/)
