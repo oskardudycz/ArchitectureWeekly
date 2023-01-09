@@ -57,6 +57,16 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Ted Neward - You Want Modules, Not Microservices](http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
+- [Donella (Dana) Meadows - Lecture: Sustainable Systems](https://www.youtube.com/watch?v=vJ1STks8MUU)
+- [John Ousterhout - A Philosophy of Software Design](https://www.youtube.com/watch?v=bmSAYlu0NcY)
+- [T. Winters, T. Manshreck, H. Wright - Software Engineering at Google](https://abseil.io/resources/swe-book)
+- [Adam Tornhill - Prioritizing Technical Debt as If Time & Money Matters](https://www.youtube.com/watch?v=w9YhmMPLQ4U)
+- [Maciej "MJ" Jedrzejewski - Why Good Software Architecture Matters: The Impact on Performance and Agility](https://meaboutsoftware.com/2023/01/02/why-good-software-architecture-matters-the-impact-on-performance-and-agility/)
+- [Charles Fitzgerald - “Supercloud” RIP](https://www.platformonomics.com/2022/12/supercloud-rip/)
+- [Alistair Cockburn - Simplify Software Design (1st draft)](https://twitter.com/TotherAlistair/status/1610558326147792897)
+- [Udi Dahan - Finding Service Boundaries – illustrated in healthcare](https://www.youtube.com/watch?v=RhfyP8pEEc4)
+- [Ian Cooper - Managing Event Driven Architectures](https://www.youtube.com/watch?v=0x23k6tTU7k)
 - [Sheen Brisals - The Road To Event-Driven Architecture at LEGO](https://www.youtube.com/watch?v=_g6DA9WM7RE)
 - [eBay - Why and How eBay Pivoted to OpenTelemetry](https://tech.ebayinc.com/engineering/why-and-how-ebay-pivoted-to-opentelemetry)
 - [Paul Rayner - Virtual Event Storming](https://www.youtube.com/watch?v=mbl8r_LSJqY)
@@ -126,7 +136,7 @@
 - [Kurt Bittner - Architectural Frameworks, Patterns, and Tactics Are No Substitute for Making Your Own Decisions](https://www.infoq.com/articles/frameworks-require-decisions/)
 - [Thoughtworks - Technology Radar #27](https://www.thoughtworks.com/content/dam/thoughtworks/documents/radar/2022/10/tr_technology_radar_vol_27_en.pdf)
 - [Emmanuel Bernard, Clement Escoffier - Kafka: a map of traps for the enlightened dev and op](https://www.youtube.com/watch?v=paVdXL5vDzg)
-- [Martin Fowler - ConwaysLaw](https://martinfowler.com/bliki/ConwaysLaw.html)
+- [Martin Fowler - Conway's Law](https://martinfowler.com/bliki/Conway's Law.html)
 - [GitLab - What are the benefits of a microservices architecture?](https://about.gitlab.com/blog/2022/09/29/what-are-the-benefits-of-a-microservices-architecture/)
 - [Andrzej Ludwikowski - Message delivery and deduplication strategies](https://softwaremill.com/message-delivery-and-deduplication-strategies/)
 - [VirtualDDD - Exploring Techniques For Modelling Bounded Context Collaboration](https://www.youtube.com/watch?v=oj4zGj6sPDc)
@@ -822,6 +832,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Natan Silnitsky - Troubleshooting Kafka for 2000 Microservices at Wix](https://medium.com/wix-engineering/troubleshooting-kafka-for-2000-microservices-at-wix-986ee382fd1e)
+- [Mary Branscombe - Kubernetes for Windows](https://thenewstack.io/kubernetes/kubernetes-for-windows/)
 - [Cloudflare - Cloudflare servers don't own IPs anymore – so how do they connect to the Internet?](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/)
 - [Marc-André Moreau - Free ARM server with 4 CPUs, 24GB of RAM and 200GB storage!](https://cohost.org/awakecoding/post/384627-free-arm-server-with)
 - [Phoenix Actions - Test Reporting - Displays test results from popular testing frameworks directly in GitHub](https://github.com/phoenix-actions/test-reporting)
@@ -955,6 +967,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Szymon Chmal - The Role of Transpilers in Web Development](https://brightinventions.pl/blog/the-role-of-transpilers-in-web-development)
 - [Luca Mezzalira - Server-side rendering micro-frontends – the architecture](https://aws.amazon.com/blogs/compute/server-side-rendering-micro-frontends-the-architecture/)
 - [Michael Geers - The Tractor Store - sample code from the book Micro Frontends in Action](https://github.com/naltatis/micro-frontends-in-action-code)
 - [Minko Genchev - Angular v15 is now available!](https://blog.angular.io/angular-v15-is-now-available-df7be7f2f4c8)
@@ -1053,6 +1066,8 @@
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
 ## Testing
+- [Adam Furmanek - Testing at scale](https://www.youtube.com/watch?v=BO6qHQbKFsw)
+- [JetBrains - HTTP Client CLI – Run Requests and Tests on CI](https://blog.jetbrains.com/idea/2022/12/http-client-cli-run-requests-and-tests-on-ci/)
 - [Michael Feathers - Making Too Much of TDD](https://michaelfeathers.typepad.com/michael_feathers_blog/2010/12/making-too-much-of-tdd.html)
 - [Kent C. Dodds - The Testing Trophy and Testing Classifications](https://kentcdodds.com/blog/the-testing-trophy-and-testing-classifications)
 - [Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)
@@ -1134,6 +1149,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Oskar Dudycz - Let's build event store in one hour!](https://event-driven.io/en/lets_build_event_store_in_one_hour?utm_source=architecture_weekly)
 - [Phil Bernstein - Concurrency Control and Recovery in Database Systems](https://www.microsoft.com/en-us/research/people/philbe/book/)
 - [Anton Stöckl - Essential features of an Event Store for Event Sourcing](https://medium.com/itnext/essential-features-of-an-event-store-for-event-sourcing-13e61ca4d066)
 - [Luis Sena - The Complete Guide to Increasing Your Elasticsearch Write Throughput and Speed](https://luis-sena.medium.com/the-complete-guide-to-increase-your-elasticsearch-write-throughput-e3da4c1f9e92)
@@ -1293,6 +1309,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Meta - Teaching AI advanced mathematical reasoning](https://ai.facebook.com/blog/ai-math-theorem-proving)
 - [Phil Wang - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM](https://github.com/lucidrains/PaLM-rlhf-pytorch)
 - [N. Perry, M. Srivastava, D. Kumar, D. Boneh - Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/abs/2211.03622)
 - [Emily M. Bender, Chirag Shah - All-knowing machines are a fantasy](https://iai.tv/articles/all-knowing-machines-are-a-fantasy-auid-2334)
@@ -1356,6 +1373,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Stephane Eyskens - The Azure Networking Map](https://techcommunity.microsoft.com/t5/azure-networking-blog/the-azure-networking-map/ba-p/3706001)
 - [Microsoft - Azure SQL Database External REST Endpoints Integration Public Preview](https://devblogs.microsoft.com/azure-sql/azure-sql-database-external-rest-endpoints-integration-public-preview/)
 - [Microsoft - Announcing public preview of the Azure SQL trigger for Azure Function](https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-public-preview-of-the-azure-sql-trigger-for-azure/ba-p/3674068)
 - [Gaurav Malhotra - Polyglot Microservices Communication Using Dapr on AKS](https://www.infoq.com/articles/polygot-microservices-dapr-aks)
@@ -1410,6 +1428,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [James Shore - The Problem With Dependency Injection Frameworks](https://www.jamesshore.com/v2/blog/2023/the-problem-with-dependency-injection-frameworks)
+- [bflat - C# as you know it but with Go-inspired tooling](https://flattened.net/)
+- [David Glassborow - A brief introduction to WebAssembly in .NET and F#](https://github.com/davidglassborow/fsharp-wasm)
+- [Phillip Carter - Microsoft doesn't hate F#](https://phillipcarter.dev/posts/microsoft-doesnt-hate-fsharp/)
 - [David Fowler - A multiplayer trivia game using SignalR and .NET 7](https://github.com/davidfowl/TriviaR)
 - [Marcin Kern - Domain modelling in object-oriented and functional programming, based on C# and F#](https://www.youtube.com/watch?v=yan1YOXvAUM)
 - [ISLE - A library that allows developers to perform structured logging using interpolated strings in C# 10 or later](https://github.com/fedarovich/isle)
@@ -1923,6 +1945,9 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Scott Hanselman - Scaling Yourself](https://www.youtube.com/watch?v=FS1mnISoG7U)
+- [Kim Maida - How to Measure the Value of Developer Relations](https://maida.kim/how-to-measure-the-value-of-developer-relations/)
+- [Eric Sink - SQLitePCLRaw and open source sustainability](https://ericsink.com/entries/sqlitepclraw_sustainability.html)
 - [Oskar Dudycz - Don't be like Ebenezer Scrooge. A few words about workaholism](https://event-driven.io/en/a_few_words_about_workaholism/?utm_source=architecture_weekly)
 - [Chelsea Troy - Reviewing Pull Requests](https://chelseatroy.com/2019/12/18/reviewing-pull-requests/)
 - [Dennis Adolfi - How to become a better mentor](https://24days.in/umbraco-cms/2022/how-to-become-a-better-mentor/)
@@ -2415,6 +2440,7 @@
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
 
 ## Python
+- [Szymon Miks - The outbox pattern in python](https://blog.szymonmiks.pl/p/the-outbox-pattern-in-python/)
 - [Cory Benfield - Building Protocol Libraries The Right Way](https://www.youtube.com/watch?v=7cC3_jGwl_U)
 - [Codon - A high-performance, zero-overhead, extensible Python compiler using LLVM](https://github.com/exaloop/codon)
 - [Tim Hutton - twitter-archive-parser - Python code to parse a Twitter archive and output in various ways](https://github.com/timhutton/twitter-archive-parser)
@@ -2470,6 +2496,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Stanford News - Why are there so many tech layoffs, and why should we be worried?](https://news.stanford.edu/2022/12/05/explains-recent-tech-layoffs-worried/)
 - [The Register - Carmack quits Meta, brands it inefficient and unprepared for competition](https://www.theregister.com/2022/12/19/john_carmack_quits_meta/)
 - [Mozilla - Mozilla to explore healthy social media alternative](https://blog.mozilla.org/en/mozilla/mozilla-launch-fediverse-instance-social-media-alternative/)
 - [Anton Shilov - Intel Officially Introduces Pay-As-You-Go Chip Licensing](https://www.tomshardware.com/news/intel-officially-introduces-pay-as-you-go-chip-licensing)
@@ -2771,6 +2798,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [BleepingComputer - Google Home speakers allowed hackers to snoop on conversations](https://www.bleepingcomputer.com/news/security/google-home-speakers-allowed-hackers-to-snoop-on-conversations)
 - [Bleeping Computers - PyTorch discloses malicious dependency chain compromise over holidays](https://www.bleepingcomputer.com/news/security/pytorch-discloses-malicious-dependency-chain-compromise-over-holidays/)
 - [Bloomberg Law - Ransomware Needs ‘Physical’ Damage For Insurance, Ohio Court Rules](https://news.bloomberglaw.com/insurance/ransomware-needs-physical-damage-for-insurance-ohio-court-rules)
 - [Bleeping Computer - Okta's source code stolen after GitHub repositories hacked](https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/)
