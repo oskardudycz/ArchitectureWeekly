@@ -8,6 +8,7 @@
   - [Edge Computing](#edge-computing)
   - [Mobile](#mobile)
   - [Performance](#performance)
+  - [Compilers](#compilers)
   - [Testing](#testing)
   - [API](#api)
   - [Databases](#databases)
@@ -57,6 +58,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - How to validate business logic](https://event-driven.io/en/how_to_validate_business_logic/)
+- [Mario Bittencourt - Understanding Coupling with Event-Driven Architecture](https://medium.com/ssense-tech/understanding-coupling-with-event-driven-architecture-a6b3561b7227)
+- [Gregor Hohpe - Debugging Architect](https://architectelevator.com/transformation/debugging-architect/)
+- [Art Markman - How You Define the Problem Determines Whether You Solve It](https://hbr.org/2017/06/how-you-define-the-problem-determines-whether-you-solve-it)
+- [Patrick Roos - The Ultimate Guide To Software Architecture Documentation](https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/)
+- [Google Cloud Blog - Multicloud's moment: Everybody's doing it, but are you doing it right? Here's eight dos and don'ts](https://cloud.google.com/blog/transform/multicloud-moment-eight-dos-and-donts-for-execs-open-cloud-hybrid)
+- [Derek Comartin - Avoid batch jobs! Model the future!](https://www.youtube.com/watch?v=oKq_ZsfrFfs)
+- [Ethan Garofolo - FAA, NOTAM, and failing to learn](https://practicalmicroservices.com/posts/faa-notam-and-failing-to-learn/)
 - [Ted Neward - You Want Modules, Not Microservices](http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
 - [Donella (Dana) Meadows - Lecture: Sustainable Systems](https://www.youtube.com/watch?v=vJ1STks8MUU)
 - [John Ousterhout - A Philosophy of Software Design](https://www.youtube.com/watch?v=bmSAYlu0NcY)
@@ -832,6 +841,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Anton Yakutovich - Aggressive dependency caching in GitHub Actions](https://dev.to/drakulavich/aggressive-dependency-caching-in-github-actions-3c64)
+- [B Shyam Sundar - Exploring Docker Hub’s WASM technical preview](https://medium.com/@shyamsundarb/exploring-docker-hubs-wasm-technical-preview-76de28c3b1b4)
 - [Natan Silnitsky - Troubleshooting Kafka for 2000 Microservices at Wix](https://medium.com/wix-engineering/troubleshooting-kafka-for-2000-microservices-at-wix-986ee382fd1e)
 - [Mary Branscombe - Kubernetes for Windows](https://thenewstack.io/kubernetes/kubernetes-for-windows/)
 - [Cloudflare - Cloudflare servers don't own IPs anymore – so how do they connect to the Internet?](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/)
@@ -1065,6 +1076,9 @@
 - [Ben Schwarz - How to Plan and Deliver on Site Speed as a Team](https://calibreapp.com/blog/site-speed-improvement-framework)
 - [Geoff Langdale, Daniel Lemire - Parsing Gigabytes of JSON per Second](https://arxiv.org/pdf/1902.08318.pdf)
 
+## Compilers
+- [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
+
 ## Testing
 - [Adam Furmanek - Testing at scale](https://www.youtube.com/watch?v=BO6qHQbKFsw)
 - [JetBrains - HTTP Client CLI – Run Requests and Tests on CI](https://blog.jetbrains.com/idea/2022/12/http-client-cli-run-requests-and-tests-on-ci/)
@@ -1149,6 +1163,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Brian Sam-Bodden - Probabilistic Data Structures with Redis Bloom](https://www.youtube.com/watch?v=sNFFFHKvHpM)
 - [Oskar Dudycz - Let's build event store in one hour!](https://event-driven.io/en/lets_build_event_store_in_one_hour?utm_source=architecture_weekly)
 - [Phil Bernstein - Concurrency Control and Recovery in Database Systems](https://www.microsoft.com/en-us/research/people/philbe/book/)
 - [Anton Stöckl - Essential features of an Event Store for Event Sourcing](https://medium.com/itnext/essential-features-of-an-event-store-for-event-sourcing-13e61ca4d066)
@@ -1355,6 +1370,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [AWS - Amazon DynamoDB Labs](https://amazon-dynamodb-labs.com/?es_id=a98b6d64e8)
 - [Luca Mezzalira - Evolutionary AWS Lambda functions with hexagonal architecture](https://www.youtube.com/watch?v=kRFg6fkVChQ)
 - [AWS - A closer look at AWS Lambda](https://www.youtube.com/watch?v=EplOzQqgstA)
 - [Massimo Re Ferrè - Using AWS Step Functions to mitigate code liability](https://it20.info/2022/12/using-aws-step-functions-to-mitigate-code-liability/)
@@ -1428,6 +1444,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [TurboSharp - A command-line IDE for C#](https://github.com/Open-Inventions/TurboSharp)
+- [Kacper Drejer - How to manage feature flags in ASP.NET Core apps with Azure?](https://www.predicagroup.com/blog/feature-flags-configuration)
+- [Maarten Balliauw - Producer/consumer pipelines with System.Threading.Channels](https://blog.maartenballiauw.be/post/2020/08/26/producer-consumer-pipelines-with-system-threading-channels.html)
+- [Khalid Abuhakmeh - The Future of .NET with WASM](https://blog.jetbrains.com/dotnet/2022/12/15/the-future-of-net-with-wasm/)
 - [James Shore - The Problem With Dependency Injection Frameworks](https://www.jamesshore.com/v2/blog/2023/the-problem-with-dependency-injection-frameworks)
 - [bflat - C# as you know it but with Go-inspired tooling](https://flattened.net/)
 - [David Glassborow - A brief introduction to WebAssembly in .NET and F#](https://github.com/davidglassborow/fsharp-wasm)
@@ -1945,6 +1965,10 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Ted M. Young - Remote Learning Ensembles](https://ted.dev/articles/2022/01/15/remote-learning-ensembles/)
+- [Jessica Kerr - Velocity defeats itself. Get acceleration instead](https://jessitron.com/2022/12/22/velocity-defeats-itself-get-acceleration-instead/)
+- [Wojciech Seliga - Ten lessons I painfully learnt while moving from software](https://www.youtube.com/watch?v=ffXpiFEq1jE)
+- [Allen Helton - How I Became an AWS Serverless Hero](https://betterprogramming.pub/how-i-became-an-aws-serverless-hero-f89f718a3b4d)
 - [Scott Hanselman - Scaling Yourself](https://www.youtube.com/watch?v=FS1mnISoG7U)
 - [Kim Maida - How to Measure the Value of Developer Relations](https://maida.kim/how-to-measure-the-value-of-developer-relations/)
 - [Eric Sink - SQLitePCLRaw and open source sustainability](https://ericsink.com/entries/sqlitepclraw_sustainability.html)
@@ -2136,6 +2160,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [The Verge - Microsoft employees are getting unlimited time off](https://www.theverge.com/2023/1/11/23550470/microsoft-employees-unlimited-time-off-2023)
+- [J. de Bloom, C. J. Syrek, Jana Kühnel, T. Vahle-Hinz - POLICY AND PRACTICE REVIEWS Unlimited Paid Time Off Policies: Unlocking the Best and Unleashing the Beast](https://www.researchgate.net/publication/359437428_POLICY_AND_PRACTICE_REVIEWS_Unlimited_Paid_Time_Off_Policies_Unlocking_the_Best_and_Unleashing_the_Beast)
 - [Software Engineering Radio - Episode 543: Jon Smart on Patterns and Anti-Patterns for Successful Software Delivery in Enterprises](https://www.se-radio.net/2022/12/episode-543-jon-smart-on-patterns-and-anti-patterns-for-successful-software-delivery-in-enterprises/)
 - [Inger Dickson - "No Estimates" is not the (only) Answer or: Moving towards Predictability](https://www.thoughtworks.com/insights/blog/no-estimates-not-only-answer-or-moving-towards-predictability)
 - [Google - What improves developer productivity at google? code quality](https://dl.acm.org/doi/10.1145/3540250.3558940)
@@ -2345,6 +2371,8 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [State of JS 2022](https://2022.stateofjs.com)
+- [Sebastian Weber - Reduce maintenance effort with shared ESLint and Prettier configs](https://blog.logrocket.com/reduce-effort-shared-eslint-prettier-configs/)
 - [ESLint - Complete rewrite of ESLint](https://github.com/eslint/eslint/discussions/16557)
 - [Darius Kazemi - A very simple reference implementation of an ActivityPub server using Express.js](https://github.com/dariusk/express-activitypub)
 - [Einar Nordfjord - Using EventStore with NestJS](https://nordfjord.io/2022/03/27/event-sourcing-in-nestjs-v2.html)
@@ -2440,6 +2468,7 @@
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
 
 ## Python
+- [Vega-Altair - Declarative Visualization in Python](https://altair-viz.github.io/)
 - [Szymon Miks - The outbox pattern in python](https://blog.szymonmiks.pl/p/the-outbox-pattern-in-python/)
 - [Cory Benfield - Building Protocol Libraries The Right Way](https://www.youtube.com/watch?v=7cC3_jGwl_U)
 - [Codon - A high-performance, zero-overhead, extensible Python compiler using LLVM](https://github.com/exaloop/codon)
@@ -2496,6 +2525,11 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [CodinGame - State of Tech Hiring in 2023](https://www.codingame.com/work/codingame-and-coderpad-tech-hiring-survey-2023/)
+- [DarkReading - Biden Signs Post-Quantum Cybersecurity Guidelines Into Law](https://www.darkreading.com/risk/biden-signs-post-quantum-cybersecurity-guidelines-into-law)
+- [ArsTechnica - Twitter rival Mastodon rejects funding to preserve nonprofit status](https://arstechnica.com/tech-policy/2022/12/twitter-rival-mastodon-rejects-funding-to-preserve-nonprofit-status/)
+- [CNBC - Here’s how much money Google estimates Microsoft’s cloud business is actually losing](https://www.cnbc.com/2022/12/21/google-leaked-doc-microsoft-azure-losing-money-on-29-bln-in-revenue.html)
+- [Bloomberg - Microsoft Sinks as Downgrade Highlights Cloud-Growth Concerns](https://www.bloomberg.com/news/articles/2023-01-04/microsoft-sinks-as-downgrade-underlines-cloud-growth-concerns#.Y7W8jcIcBK8.linkedin)
 - [Stanford News - Why are there so many tech layoffs, and why should we be worried?](https://news.stanford.edu/2022/12/05/explains-recent-tech-layoffs-worried/)
 - [The Register - Carmack quits Meta, brands it inefficient and unprepared for competition](https://www.theregister.com/2022/12/19/john_carmack_quits_meta/)
 - [Mozilla - Mozilla to explore healthy social media alternative](https://blog.mozilla.org/en/mozilla/mozilla-launch-fediverse-instance-social-media-alternative/)
