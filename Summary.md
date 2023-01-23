@@ -58,6 +58,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Guide to Projections and Read Models in Event-Driven Architecture](https://event-driven.io/en/projections_and_read_models_in_event_driven_architecture/?utm_source=architecture_weekly)
+- [Glenn F. Henriksen - Building that glorious monolith. And carving it too.](https://www.youtube.com/watch?v=uOIi0K_mpUo)
+- [Herberto Graça: Making architecture explicit](https://www.youtube.com/watch?v=cqJ__1feSLc)
+- [Kenny Baas-Schwegler - Crunching 'real-life stories' with DDD & Event Storming](https://www.youtube.com/watch?v=WvkBKvMnyuc)
+- [Virtual Domain-Driven Design - Trying out online EventStorming](https://www.youtube.com/watch?v=CbPEibNUe0s)
+- [Pat Kua — Organising and Governing Evolutionary Architectures (Fitness Functions)](https://www.youtube.com/watch?v=d6hiUIz40yQ)
 - [Oskar Dudycz - How to validate business logic](https://event-driven.io/en/how_to_validate_business_logic/)
 - [Mario Bittencourt - Understanding Coupling with Event-Driven Architecture](https://medium.com/ssense-tech/understanding-coupling-with-event-driven-architecture-a6b3561b7227)
 - [Gregor Hohpe - Debugging Architect](https://architectelevator.com/transformation/debugging-architect/)
@@ -841,6 +847,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [OpenGitOps - a set of open-source standards, best practices, and community-focused education to help organizations adopt a structured, standardized approach to implementing GitOps](https://opengitops.dev/)
+- [Arek Borucki - Deploying the MongoDB Enterprise Kubernetes Operator on Google Cloud](https://www.mongodb.com/developer/products/connectors/deploying-kubernetes-operator/)
+
 - [Anton Yakutovich - Aggressive dependency caching in GitHub Actions](https://dev.to/drakulavich/aggressive-dependency-caching-in-github-actions-3c64)
 - [B Shyam Sundar - Exploring Docker Hub’s WASM technical preview](https://medium.com/@shyamsundarb/exploring-docker-hubs-wasm-technical-preview-76de28c3b1b4)
 - [Natan Silnitsky - Troubleshooting Kafka for 2000 Microservices at Wix](https://medium.com/wix-engineering/troubleshooting-kafka-for-2000-microservices-at-wix-986ee382fd1e)
@@ -1163,6 +1172,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Paul McJones - The 1995 SQL Reunion: People, Projects, and Politics](https://www.mcjones.org/System_R/SQL_Reunion_95/)
+- [Francesco Tisiot - How to JSON in PostgreSQL](https://ftisiot.net/postgresqljson/main/)
 - [Brian Sam-Bodden - Probabilistic Data Structures with Redis Bloom](https://www.youtube.com/watch?v=sNFFFHKvHpM)
 - [Oskar Dudycz - Let's build event store in one hour!](https://event-driven.io/en/lets_build_event_store_in_one_hour?utm_source=architecture_weekly)
 - [Phil Bernstein - Concurrency Control and Recovery in Database Systems](https://www.microsoft.com/en-us/research/people/philbe/book/)
@@ -1370,6 +1381,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [AWS - Generate Excel workbooks from Amazon RDS for PostgreSQL or Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/generate-excel-workbooks-from-amazon-rds-for-postgresql-or-amazon-aurora-postgresql/)
 - [AWS - Amazon DynamoDB Labs](https://amazon-dynamodb-labs.com/?es_id=a98b6d64e8)
 - [Luca Mezzalira - Evolutionary AWS Lambda functions with hexagonal architecture](https://www.youtube.com/watch?v=kRFg6fkVChQ)
 - [AWS - A closer look at AWS Lambda](https://www.youtube.com/watch?v=EplOzQqgstA)
@@ -1389,6 +1401,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Microsoft - The Azure FinOps Guide](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/the-azure-finops-guide/ba-p/3704132)
 - [Stephane Eyskens - The Azure Networking Map](https://techcommunity.microsoft.com/t5/azure-networking-blog/the-azure-networking-map/ba-p/3706001)
 - [Microsoft - Azure SQL Database External REST Endpoints Integration Public Preview](https://devblogs.microsoft.com/azure-sql/azure-sql-database-external-rest-endpoints-integration-public-preview/)
 - [Microsoft - Announcing public preview of the Azure SQL trigger for Azure Function](https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-public-preview-of-the-azure-sql-trigger-for-azure/ba-p/3674068)
@@ -1444,6 +1457,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jeremy D. Miller - Wolverine meets EF Core and Sql Server](https://jeremydmiller.com/2023/01/10/wolverine-meets-ef-core-and-sql-server/)
+- [Damian Płaza - Many faces of DDD Aggregates in F#](https://talesfrom.dev/blog/many-faces-of-ddd-aggregates-in-fsharp)
+- [Ian Cooper - Implementing the Clean Architecture in .NET Core](https://www.youtube.com/watch?v=IAcxetnsiCQ)
+- [Damien Bowden - Implementing secure Microsoft Graph application clients in ASP.NET Core](https://damienbod.com/2023/01/16/implementing-secure-microsoft-graph-application-clients-in-asp-net-core/)
 - [TurboSharp - A command-line IDE for C#](https://github.com/Open-Inventions/TurboSharp)
 - [Kacper Drejer - How to manage feature flags in ASP.NET Core apps with Azure?](https://www.predicagroup.com/blog/feature-flags-configuration)
 - [Maarten Balliauw - Producer/consumer pipelines with System.Threading.Channels](https://blog.maartenballiauw.be/post/2020/08/26/producer-consumer-pipelines-with-system-threading-channels.html)
@@ -1965,6 +1982,9 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Einar W. Høst - Death of a Craftsman](https://einarwh.wordpress.com/2020/04/05/death-of-a-craftsman/)
+- [Mark Seemann - In the long run](https://blog.ploeh.dk/2023/01/16/in-the-long-run/)
+- [Steve Wozniak - The early days](https://www.youtube.com/watch?v=PwSyjz1off4)
 - [Ted M. Young - Remote Learning Ensembles](https://ted.dev/articles/2022/01/15/remote-learning-ensembles/)
 - [Jessica Kerr - Velocity defeats itself. Get acceleration instead](https://jessitron.com/2022/12/22/velocity-defeats-itself-get-acceleration-instead/)
 - [Wojciech Seliga - Ten lessons I painfully learnt while moving from software developer to entrepreneur/CEO role](https://www.youtube.com/watch?v=ffXpiFEq1jE)
@@ -2160,6 +2180,9 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Uber - Devpod: Improving Developer Productivity at Uber with Remote Development](https://www.uber.com/en-GB/blog/devpod-improving-developer-productivity-at-uber/)
+- [Jim Little - Change Your Organization (For Peons)](https://web.archive.org/web/20130721011202/http://agile2003.agilealliance.org/files/R1Paper.pdf)
+- [Ted Neward - Where does DevRel fit on an org chart?](https://blogs.newardassociates.com/blog/2023/where-devrel-fits.html)
 - [The Verge - Microsoft employees are getting unlimited time off](https://www.theverge.com/2023/1/11/23550470/microsoft-employees-unlimited-time-off-2023)
 - [J. de Bloom, C. J. Syrek, Jana Kühnel, T. Vahle-Hinz - POLICY AND PRACTICE REVIEWS Unlimited Paid Time Off Policies: Unlocking the Best and Unleashing the Beast](https://www.researchgate.net/publication/359437428_POLICY_AND_PRACTICE_REVIEWS_Unlimited_Paid_Time_Off_Policies_Unlocking_the_Best_and_Unleashing_the_Beast)
 - [Software Engineering Radio - Episode 543: Jon Smart on Patterns and Anti-Patterns for Successful Software Delivery in Enterprises](https://www.se-radio.net/2022/12/episode-543-jon-smart-on-patterns-and-anti-patterns-for-successful-software-delivery-in-enterprises/)
@@ -2225,6 +2248,7 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [Lars Kamp - Messaging, positioning and storytelling - how to get it right for your start-up](https://findingdistribution.substack.com/p/messaging-positioning-and-storytelling)
 - [Varun Cheedalla - Microsoft Kin—The Billion Dollar Smartphone Disaster](https://medium.com/techtalkers/microsoft-kin-the-billion-dollar-smartphone-disaster-982043c52f91)
 - [Jason Beres - Why DesignOps Matters: How to Improve Your Design Processes](https://www.infoq.com/articles/designops-improve-process)
 - [Phil Haack - Lessons From a Startup Pivot](https://haacked.com/archive/2022/07/25/lessons-from-the-pivot/)
@@ -2239,7 +2263,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
-- [InfoQ - Java InfoQ Trends Report - December 2022](https://www.infoq.com/articles/java-jvm-trends-2022/)
+- [Gavin Ray - Building a PostgreSQL Wire Protocol Server using Vanilla, Modern Java 21](https://gavinray97.github.io/blog/postgres-wire-protocol-jdk-21)oQ Trends Report - December 2022](https://www.infoq.com/articles/java-jvm-trends-2022/)
 - [Edoardo Vacchi - WebAssembly for the Java Geek](https://www.javaadvent.com/2022/12/webassembly-for-the-java-geek.html)
 - [The New Stack - Java Usage Keeps Climbing, According to New Survey](https://thenewstack.io/java-usage-keeps-climbing-according-to-new-survey)
 - [Krzysztof Ślusarski - Finding heap memory leaks with Async-profiler](https://www.linkedin.com/pulse/javaprofilingmemory-leak-finding-heap-memory-leaks-%C5%9Blusarski/)
@@ -2525,6 +2549,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Frank Landymore - CNET Is Quietly Publishing Entire Articles Generated By AI](https://futurism.com/the-byte/cnet-publishing-articles-by-ai)
+- [John Voorhees - Twitter Intentionally Ends Third-Party App Developer Access to Its APIs](https://www.macstories.net/stories/twitter-intentionally-ends-third-party-app-developer-access-to-its-apis/)
 - [CodinGame - State of Tech Hiring in 2023](https://www.codingame.com/work/codingame-and-coderpad-tech-hiring-survey-2023/)
 - [DarkReading - Biden Signs Post-Quantum Cybersecurity Guidelines Into Law](https://www.darkreading.com/risk/biden-signs-post-quantum-cybersecurity-guidelines-into-law)
 - [ArsTechnica - Twitter rival Mastodon rejects funding to preserve nonprofit status](https://arstechnica.com/tech-policy/2022/12/twitter-rival-mastodon-rejects-funding-to-preserve-nonprofit-status/)
@@ -2832,6 +2858,9 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Financial Times - Chinese researchers claim to find way to break encryption using quantum computers](https://www.ft.com/content/b15680c0-cf31-448d-9eb6-b30426c29b8b)
+- [Tim Bray - Private and Public Mastodon](https://www.tbray.org/ongoing/When/202x/2022/12/30/Mastodon-Privacy-and-Search)
+- [Rob Chahin - The SSO Wall of Shame](https://sso.tax)
 - [BleepingComputer - Google Home speakers allowed hackers to snoop on conversations](https://www.bleepingcomputer.com/news/security/google-home-speakers-allowed-hackers-to-snoop-on-conversations)
 - [Bleeping Computers - PyTorch discloses malicious dependency chain compromise over holidays](https://www.bleepingcomputer.com/news/security/pytorch-discloses-malicious-dependency-chain-compromise-over-holidays/)
 - [Bloomberg Law - Ransomware Needs ‘Physical’ Damage For Insurance, Ohio Court Rules](https://news.bloomberglaw.com/insurance/ransomware-needs-physical-damage-for-insurance-ohio-court-rules)
@@ -2964,6 +2993,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Nick Cave - Chat GPT. What do you think?](https://www.theredhandfiles.com/chat-gpt-what-do-you-think/)
 - [Gary Trosclair - Compulsive Personality: A New and Positive Perspective](https://thehealthycompulsive.com/science-research/the-compulsive-personality-a-new-and-positive-perspective/)
 - [Christoph Rumpel - 12 Tips For Better Live Coding](https://christoph-rumpel.com/2021/7/12-tips-for-better-live-coding)
 - [Cory Doctorow - Social Quitting](https://doctorow.medium.com/social-quitting-1ce85b67b456)
