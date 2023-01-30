@@ -58,6 +58,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Alan Kay - Seminar on Object Oriented Programming](https://www.youtube.com/watch?v=QjJaFG63Hlo)
+- [Rebecca J. Wirfs-Brock - Principles in Practice](https://wirfs-brock.com/PDFs/PrinciplesInPractice.pdf)
+- [Andy Hunt - The Four Keys To Rapid Response Software Development](https://growsmethod.com/articles/four_keys.html)
+- [Michael Nygard, Trisha Gee - Release It!](https://www.youtube.com/watch?v=BIuBnLTMkfQ)
+- [J. B. Rainsberger - Investing Wisely in Architecture Through Refactoring](https://blog.thecodewhisperer.com/permalink/investing-wisely-in-architecture-through-refactoring)
+- [Gregor Hohpe - Are you integrating or building distributed applications?](https://www.youtube.com/watch?app=desktop&v=Zrj7RD7G24Q)
+- [Henrik Warne - There Is No Software Maintenance](https://henrikwarne.com/2023/01/07/there-is-no-software-maintenance/)
+- [Adrian Hornsby - Becoming a Better Engineer — Part 2: Empathy](https://medium.com/the-cloud-architect/skills-that-make-a-big-difference-a68d316b5954)
 - [Oskar Dudycz - Guide to Projections and Read Models in Event-Driven Architecture](https://event-driven.io/en/projections_and_read_models_in_event_driven_architecture/?utm_source=architecture_weekly)
 - [Glenn F. Henriksen - Building that glorious monolith. And carving it too.](https://www.youtube.com/watch?v=uOIi0K_mpUo)
 - [Herberto Graça: Making architecture explicit](https://www.youtube.com/watch?v=cqJ__1feSLc)
@@ -847,9 +855,11 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Greg Jacobs - Lessons Learned from Enterprise Usage of GitHub Actions](https://www.infoq.com/articles/enterprise-github-actions/)
+- [James Governor - IBM’s Inner Source transformation, scaling a DevOps culture change. Being GitHub and Slack’s biggest customer](https://redmonk.com/jgovernor/2022/11/01/ibms-inner-source-transformation-scaling-a-devops-culture-change-being-github-and-slacks-biggest-customer/)
+- [GitHub - Introducing required workflows and configuration variables to GitHub Actions](https://github.blog/2023-01-10-introducing-required-workflows-and-configuration-variables-to-github-actions/)
 - [OpenGitOps - a set of open-source standards, best practices, and community-focused education to help organizations adopt a structured, standardized approach to implementing GitOps](https://opengitops.dev/)
 - [Arek Borucki - Deploying the MongoDB Enterprise Kubernetes Operator on Google Cloud](https://www.mongodb.com/developer/products/connectors/deploying-kubernetes-operator/)
-
 - [Anton Yakutovich - Aggressive dependency caching in GitHub Actions](https://dev.to/drakulavich/aggressive-dependency-caching-in-github-actions-3c64)
 - [B Shyam Sundar - Exploring Docker Hub’s WASM technical preview](https://medium.com/@shyamsundarb/exploring-docker-hubs-wasm-technical-preview-76de28c3b1b4)
 - [Natan Silnitsky - Troubleshooting Kafka for 2000 Microservices at Wix](https://medium.com/wix-engineering/troubleshooting-kafka-for-2000-microservices-at-wix-986ee382fd1e)
@@ -987,6 +997,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [ELK - A nimble Mastodon web client](https://github.com/elk-zone/elk)
 - [Szymon Chmal - The Role of Transpilers in Web Development](https://brightinventions.pl/blog/the-role-of-transpilers-in-web-development)
 - [Luca Mezzalira - Server-side rendering micro-frontends – the architecture](https://aws.amazon.com/blogs/compute/server-side-rendering-micro-frontends-the-architecture/)
 - [Michael Geers - The Tractor Store - sample code from the book Micro Frontends in Action](https://github.com/naltatis/micro-frontends-in-action-code)
@@ -1089,6 +1100,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Ianis Triandafilov - Using Github Copilot for unit testing](https://www.strictmode.io/articles/using-github-copilot-for-testing)
 - [Adam Furmanek - Testing at scale](https://www.youtube.com/watch?v=BO6qHQbKFsw)
 - [JetBrains - HTTP Client CLI – Run Requests and Tests on CI](https://blog.jetbrains.com/idea/2022/12/http-client-cli-run-requests-and-tests-on-ci/)
 - [Michael Feathers - Making Too Much of TDD](https://michaelfeathers.typepad.com/michael_feathers_blog/2010/12/making-too-much-of-tdd.html)
@@ -1172,6 +1184,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Piotr Kisielewicz - Transactions in MongoDB](https://blog.allegro.tech/2022/12/transactions-in-mongodb.html)
 - [Paul McJones - The 1995 SQL Reunion: People, Projects, and Politics](https://www.mcjones.org/System_R/SQL_Reunion_95/)
 - [Francesco Tisiot - How to JSON in PostgreSQL](https://ftisiot.net/postgresqljson/main/)
 - [Brian Sam-Bodden - Probabilistic Data Structures with Redis Bloom](https://www.youtube.com/watch?v=sNFFFHKvHpM)
@@ -1335,6 +1348,8 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Microsoft - General availability of Azure OpenAI Service expands access to large, advanced AI models with added enterprise benefits](https://azure.microsoft.com/en-us/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/)
+- [Microsoft - Request Access to Azure OpenAI Service](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu)
 - [Meta - Teaching AI advanced mathematical reasoning](https://ai.facebook.com/blog/ai-math-theorem-proving)
 - [Phil Wang - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM](https://github.com/lucidrains/PaLM-rlhf-pytorch)
 - [N. Perry, M. Srivastava, D. Kumar, D. Boneh - Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/abs/2211.03622)
@@ -1401,6 +1416,8 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [BleepingComputer - Massive Microsoft 365 outage caused by WAN router IP change](https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-caused-by-wan-router-ip-change/)
+- [David Okeyode - State of Azure IAM 2022](https://davidokeyode.medium.com/state-of-azure-iam-2022-512e66881128)
 - [Microsoft - The Azure FinOps Guide](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/the-azure-finops-guide/ba-p/3704132)
 - [Stephane Eyskens - The Azure Networking Map](https://techcommunity.microsoft.com/t5/azure-networking-blog/the-azure-networking-map/ba-p/3706001)
 - [Microsoft - Azure SQL Database External REST Endpoints Integration Public Preview](https://devblogs.microsoft.com/azure-sql/azure-sql-database-external-rest-endpoints-integration-public-preview/)
@@ -1457,6 +1474,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Derek Comartin, Jeremy D. Miller - Event Sourcing in 1 Hour with Marten in .NET](https://www.youtube.com/watch?v=yWpuUHXLhYg)
+- [Rafał Pieńkowski - Elephants trunk - code complexity analysis](https://github.com/rafalpienkowski/elephants-trunk)
+- [Rory Reid - My MAUI impressions so far](https://rory.horse/posts/maui-impressions-so-far/)
+- [Nino Floris - Slon - A modern high performance PostgreSQL protocol implementation for .NET](https://github.com/NinoFloris/Slon)
 - [Jeremy D. Miller - Wolverine meets EF Core and Sql Server](https://jeremydmiller.com/2023/01/10/wolverine-meets-ef-core-and-sql-server/)
 - [Damian Płaza - Many faces of DDD Aggregates in F#](https://talesfrom.dev/blog/many-faces-of-ddd-aggregates-in-fsharp)
 - [Ian Cooper - Implementing the Clean Architecture in .NET Core](https://www.youtube.com/watch?v=IAcxetnsiCQ)
@@ -1982,6 +2003,9 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Oskar Dudycz - Stacking the bricks in the software development process](https://event-driven.io/en/stacking_the_bricks?utm_source=architecture_weekly)
+- [Hillel Wayne - 10 Most(ly dead) Influential Programming Languages](https://www.hillelwayne.com/post/influential-dead-languages/)
+- [Charles Desneuf - Facilitation Nightmares: How to escape a workshop not going on as planned](https://blog.charlesdesneuf.com/articles/facilitation-nightmares-how-to-escape-a-workshop-not-going-on-as-planned/)
 - [Einar W. Høst - Death of a Craftsman](https://einarwh.wordpress.com/2020/04/05/death-of-a-craftsman/)
 - [Mark Seemann - In the long run](https://blog.ploeh.dk/2023/01/16/in-the-long-run/)
 - [Steve Wozniak - The early days](https://www.youtube.com/watch?v=PwSyjz1off4)
@@ -2263,6 +2287,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Mike Roberts - AWS Lambda SnapStart - What, and Why](https://blog.symphonia.io/posts/2023-01-11_snapstart-what-why)
 - [Gavin Ray - Building a PostgreSQL Wire Protocol Server using Vanilla, Modern Java 21](https://gavinray97.github.io/blog/postgres-wire-protocol-jdk-21)oQ Trends Report - December 2022](https://www.infoq.com/articles/java-jvm-trends-2022/)
 - [Edoardo Vacchi - WebAssembly for the Java Geek](https://www.javaadvent.com/2022/12/webassembly-for-the-java-geek.html)
 - [The New Stack - Java Usage Keeps Climbing, According to New Survey](https://thenewstack.io/java-usage-keeps-climbing-according-to-new-survey)
@@ -2549,6 +2574,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Bloomberg - Shopify Tells Employees to Just Say No to Meetings](https://www.bloomberg.com/news/articles/2023-01-03/shopify-ceo-tobi-lutke-tells-employees-to-just-say-no-to-meetings)
+- [Business Insider - Google's management has reportedly issued a 'code red' amid the rising popularity of the ChatGPT AI](https://www.businessinsider.com/google-management-issues-code-red-over-chatgpt-report-2022-12?IR=T)
 - [Frank Landymore - CNET Is Quietly Publishing Entire Articles Generated By AI](https://futurism.com/the-byte/cnet-publishing-articles-by-ai)
 - [John Voorhees - Twitter Intentionally Ends Third-Party App Developer Access to Its APIs](https://www.macstories.net/stories/twitter-intentionally-ends-third-party-app-developer-access-to-its-apis/)
 - [CodinGame - State of Tech Hiring in 2023](https://www.codingame.com/work/codingame-and-coderpad-tech-hiring-survey-2023/)
@@ -2858,6 +2885,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [TechCrunch - Mailchimp says it was hacked — again](https://techcrunch.com/2023/01/18/mailchimp-hacked/?_guc_consent_skip=1675073481)
+- [PayPayl - Notice of Security Incident (2022-12-20)](https://www.documentcloud.org/documents/23578067-paypal-notice?responsive=1&title=1)
 - [Financial Times - Chinese researchers claim to find way to break encryption using quantum computers](https://www.ft.com/content/b15680c0-cf31-448d-9eb6-b30426c29b8b)
 - [Tim Bray - Private and Public Mastodon](https://www.tbray.org/ongoing/When/202x/2022/12/30/Mastodon-Privacy-and-Search)
 - [Rob Chahin - The SSO Wall of Shame](https://sso.tax)
