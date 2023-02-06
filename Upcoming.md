@@ -1,9 +1,60 @@
 # Upcoming Links
 
-## 6th January 2023
+## 6th February 2023
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
 
 ### Architecture
+- [Martin Fowler - Making Architecture Matter](https://www.youtube.com/watch?v=DngAZyWMGR0)
+- [Molly Dishman & Martin Fowler - Agile Architecture](https://www.youtube.com/watch?v=VjKYO6DP3fo)
+- [James Lewis - Team Topologies, Software Architecture & Complexity](https://www.youtube.com/watch?v=izLg4NkJQO4)
+- [Rob Smallshire - Predictive Models of Development Teams and the Systems They Build](https://sixty-north.com/blog/predictive-models-of-development-teams-and-the-systems-they-build)
+- [Isaac Abraham - Domain modelling made simple: Functions and Values](https://www.youtube.com/watch?v=9D20fKx45xI)
+
+### DevOps
+- [Bilgin Ibryam, Roland Huß - Kubernetes Patterns. Reusable Elements for Designing Cloud-Native Applications](https://www.redhat.com/rhdc/managed-files/cm-oreilly-kubernetes-patterns-ebook-f19824-201910-en_1.pdf)
+- [SigNoz - 30+ Observability User Stories](https://signoz.io/observability-user-stories)
+
+## Databases
+- [SQL Bolt - Learn SQL with simple, interactive exercises.](https://sqlbolt.com/)
+
+### Frontend
+- [Tim Deschryver - Adding OpenTelemetry to an Angular Application](https://timdeschryver.dev/blog/adding-opentelemetry-to-an-angular-application)
+
+### Testing
+- [Liran Tal - Advanced usage patterns for taking page element screenshots with Playwright](https://lirantal.com/blog/2023-01-01_advanced_usage_patterns_for_taking_element_screenshots_with_playwright/)
+### Azure
+- [Marilag Dimatulac Svennevig - Message Brokering and Event Driven Architecture on Azure](https://www.youtube.com/watch?v=6haKMxdWeZY)
+
+### JVM
+- [Sacha Coppey - GraalVM Native Image meets RISC-V](https://medium.com/graalvm/graalvm-native-image-meets-risc-v-899be38eddd9)
+
+### Node.js
+- [pgwire - PostgreSQL client library for Deno and Node.js that exposes all features of wire protocol](https://github.com/kagis/pgwire)
+### .NET
+- [Oskar Dudycz - Explicit validation in C# just got simpler!](https://event-driven.io/en/explicit_validation_in_csharp_just_got_simpler/)
+- [João Simões - Immutability and Entity Framework Core](https://medium.com/geekculture/immutability-and-entity-framework-core-60ac59919c2)
+- [David Masters - Entity Framework Core 7: Strongly Typed Ids Together With Auto-Increment Columns](https://david-masters.medium.com/entity-framework-core-7-strongly-typed-ids-together-with-auto-increment-columns-fd9715e331f3)
+- [Steven Giesel - No, No, No - Tasks are not threads and they are not for performance!](https://steven-giesel.com/blogPost/d095383f-7ea9-4419-96b8-889c6981cce0)
+
+### WebAssembly
+- [MDN - Web Assembly docs](https://developer.mozilla.org/en-US/docs/WebAssembly)
+
+### Coding Life
+- [Corecursive Podcast - Shipping Graphing Calculator With Ron Avitzur](https://corecursive.com/shipping-graphing-calculator/)
+
+### Management
+- [Andy Hunt - Why Are There So Many Misconceptions Around Agile?](https://toolshed.com/articles/2020-11-20-AgileMisconceptions.html)
+- [Ruth Malan - Technical Leadership Masterclass](https://ruthmalan.com/leadership/20221031TechnicalLeadership.pdf)
+- [Ruth Malan - Decisions](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf)
+- [Mel Conway - How do committees invent?](http://www.melconway.com/Home/pdf/committees.pdf)
+- [Strategic and Heuristic IT Management - One-way and Two-way Door Decisions](https://shit.management/one-way-and-two-way-door-decisions/)
+
+### Industry
+- [Semafor - OpenAI has hired an army of contractors to make basic coding obsolete](https://www.semafor.com/article/01/27/2023/openai-has-hired-an-army-of-contractors-to-make-basic-coding-obsolete)
+
+### Security
+- [The Citizen Lab - You Move, They Follow Uncovering Iran’s Mobile Legal Intercept System](https://citizenlab.ca/2023/01/uncovering-irans-mobile-legal-intercept-system/)
+- [ArsTechnica - ChatGPT is enabling script kiddies to write functional malware](https://arstechnica.com/information-technology/2023/01/chatgpt-is-enabling-script-kiddies-to-write-functional-malware)
