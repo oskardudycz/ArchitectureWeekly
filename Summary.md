@@ -58,6 +58,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Martin Fowler - Making Architecture Matter](https://www.youtube.com/watch?v=DngAZyWMGR0)
+- [Molly Dishman & Martin Fowler - Agile Architecture](https://www.youtube.com/watch?v=VjKYO6DP3fo)
+- [James Lewis - Team Topologies, Software Architecture & Complexity](https://www.youtube.com/watch?v=izLg4NkJQO4)
+- [Rob Smallshire - Predictive Models of Development Teams and the Systems They Build](https://sixty-north.com/blog/predictive-models-of-development-teams-and-the-systems-they-build)
+- [Isaac Abraham - Domain modelling made simple: Functions and Values](https://www.youtube.com/watch?v=9D20fKx45xI)
 - [Alan Kay - Seminar on Object Oriented Programming](https://www.youtube.com/watch?v=QjJaFG63Hlo)
 - [Rebecca J. Wirfs-Brock - Principles in Practice](https://wirfs-brock.com/PDFs/PrinciplesInPractice.pdf)
 - [Andy Hunt - The Four Keys To Rapid Response Software Development](https://growsmethod.com/articles/four_keys.html)
@@ -856,6 +861,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Bilgin Ibryam, Roland Huß - Kubernetes Patterns. Reusable Elements for Designing Cloud-Native Applications](https://www.redhat.com/rhdc/managed-files/cm-oreilly-kubernetes-patterns-ebook-f19824-201910-en_1.pdf)
+- [SigNoz - 30+ Observability User Stories](https://signoz.io/observability-user-stories)
 - [Greg Jacobs - Lessons Learned from Enterprise Usage of GitHub Actions](https://www.infoq.com/articles/enterprise-github-actions/)
 - [James Governor - IBM’s Inner Source transformation, scaling a DevOps culture change. Being GitHub and Slack’s biggest customer](https://redmonk.com/jgovernor/2022/11/01/ibms-inner-source-transformation-scaling-a-devops-culture-change-being-github-and-slacks-biggest-customer/)
 - [GitHub - Introducing required workflows and configuration variables to GitHub Actions](https://github.blog/2023-01-10-introducing-required-workflows-and-configuration-variables-to-github-actions/)
@@ -998,6 +1005,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Tim Deschryver - Adding OpenTelemetry to an Angular Application](https://timdeschryver.dev/blog/adding-opentelemetry-to-an-angular-application)
 - [ELK - A nimble Mastodon web client](https://github.com/elk-zone/elk)
 - [Szymon Chmal - The Role of Transpilers in Web Development](https://brightinventions.pl/blog/the-role-of-transpilers-in-web-development)
 - [Luca Mezzalira - Server-side rendering micro-frontends – the architecture](https://aws.amazon.com/blogs/compute/server-side-rendering-micro-frontends-the-architecture/)
@@ -1101,6 +1109,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Liran Tal - Advanced usage patterns for taking page element screenshots with Playwright](https://lirantal.com/blog/2023-01-01_advanced_usage_patterns_for_taking_element_screenshots_with_playwright/)
 - [Ianis Triandafilov - Using Github Copilot for unit testing](https://www.strictmode.io/articles/using-github-copilot-for-testing)
 - [Adam Furmanek - Testing at scale](https://www.youtube.com/watch?v=BO6qHQbKFsw)
 - [JetBrains - HTTP Client CLI – Run Requests and Tests on CI](https://blog.jetbrains.com/idea/2022/12/http-client-cli-run-requests-and-tests-on-ci/)
@@ -1185,6 +1194,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [SQL Bolt - Learn SQL with simple, interactive exercises.](https://sqlbolt.com/)
 - [Piotr Kisielewicz - Transactions in MongoDB](https://blog.allegro.tech/2022/12/transactions-in-mongodb.html)
 - [Paul McJones - The 1995 SQL Reunion: People, Projects, and Politics](https://www.mcjones.org/System_R/SQL_Reunion_95/)
 - [Francesco Tisiot - How to JSON in PostgreSQL](https://ftisiot.net/postgresqljson/main/)
@@ -1418,6 +1428,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Marilag Dimatulac Svennevig - Message Brokering and Event Driven Architecture on Azure](https://www.youtube.com/watch?v=6haKMxdWeZY)
 - [BleepingComputer - Massive Microsoft 365 outage caused by WAN router IP change](https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-caused-by-wan-router-ip-change/)
 - [David Okeyode - State of Azure IAM 2022](https://davidokeyode.medium.com/state-of-azure-iam-2022-512e66881128)
 - [Microsoft - The Azure FinOps Guide](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/the-azure-finops-guide/ba-p/3704132)
@@ -1476,6 +1487,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - Explicit validation in C# just got simpler!](https://event-driven.io/en/explicit_validation_in_csharp_just_got_simpler/)
+- [João Simões - Immutability and Entity Framework Core](https://medium.com/geekculture/immutability-and-entity-framework-core-60ac59919c2)
+- [David Masters - Entity Framework Core 7: Strongly Typed Ids Together With Auto-Increment Columns](https://david-masters.medium.com/entity-framework-core-7-strongly-typed-ids-together-with-auto-increment-columns-fd9715e331f3)
+- [Steven Giesel - No, No, No - Tasks are not threads and they are not for performance!](https://steven-giesel.com/blogPost/d095383f-7ea9-4419-96b8-889c6981cce0)
 - [Derek Comartin, Jeremy D. Miller - Event Sourcing in 1 Hour with Marten in .NET](https://www.youtube.com/watch?v=yWpuUHXLhYg)
 - [Rafał Pieńkowski - Elephants trunk - code complexity analysis](https://github.com/rafalpienkowski/elephants-trunk)
 - [Rory Reid - My MAUI impressions so far](https://rory.horse/posts/maui-impressions-so-far/)
@@ -1988,6 +2003,7 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [MDN - Web Assembly docs](https://developer.mozilla.org/en-US/docs/WebAssembly)
 - [Fastly - Compute@Edge](https://docs.fastly.com/products/compute-at-edge)
 - [Vercel - Introducing support for WebAssembly at the Edge](https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge)
 - [Massimo Ferre’ - Web Assembly (on the server)](https://www.slideshare.net/mreferre/web-assembly-on-the-server)
@@ -2005,6 +2021,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Corecursive Podcast - Shipping Graphing Calculator With Ron Avitzur](https://corecursive.com/shipping-graphing-calculator/)
 - [Oskar Dudycz - Stacking the bricks in the software development process](https://event-driven.io/en/stacking_the_bricks?utm_source=architecture_weekly)
 - [Hillel Wayne - 10 Most(ly dead) Influential Programming Languages](https://www.hillelwayne.com/post/influential-dead-languages/)
 - [Charles Desneuf - Facilitation Nightmares: How to escape a workshop not going on as planned](https://blog.charlesdesneuf.com/articles/facilitation-nightmares-how-to-escape-a-workshop-not-going-on-as-planned/)
@@ -2206,6 +2223,11 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Andy Hunt - Why Are There So Many Misconceptions Around Agile?](https://toolshed.com/articles/2020-11-20-AgileMisconceptions.html)
+- [Ruth Malan - Technical Leadership Masterclass](https://ruthmalan.com/leadership/20221031TechnicalLeadership.pdf)
+- [Ruth Malan - Decisions](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf)
+- [Mel Conway - How do committees invent?](http://www.melconway.com/Home/pdf/committees.pdf)
+- [Strategic and Heuristic IT Management - One-way and Two-way Door Decisions](https://shit.management/one-way-and-two-way-door-decisions/)
 - [Uber - Devpod: Improving Developer Productivity at Uber with Remote Development](https://www.uber.com/en-GB/blog/devpod-improving-developer-productivity-at-uber/)
 - [Jim Little - Change Your Organization (For Peons)](https://web.archive.org/web/20130721011202/http://agile2003.agilealliance.org/files/R1Paper.pdf)
 - [Ted Neward - Where does DevRel fit on an org chart?](https://blogs.newardassociates.com/blog/2023/where-devrel-fits.html)
@@ -2369,6 +2391,7 @@
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
 ## JVM
+- [Sacha Coppey - GraalVM Native Image meets RISC-V](https://medium.com/graalvm/graalvm-native-image-meets-risc-v-899be38eddd9)
 - [Gradle - A Better Way to Use Gradle With Github Actions](https://blog.gradle.org/gh-actions)
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
@@ -2422,6 +2445,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [pgwire - PostgreSQL client library for Deno and Node.js that exposes all features of wire protocol](https://github.com/kagis/pgwire)
 - [State of JS 2022](https://2022.stateofjs.com)
 - [Sebastian Weber - Reduce maintenance effort with shared ESLint and Prettier configs](https://blog.logrocket.com/reduce-effort-shared-eslint-prettier-configs/)
 - [ESLint - Complete rewrite of ESLint](https://github.com/eslint/eslint/discussions/16557)
@@ -2576,6 +2600,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Semafor - OpenAI has hired an army of contractors to make basic coding obsolete](https://www.semafor.com/article/01/27/2023/openai-has-hired-an-army-of-contractors-to-make-basic-coding-obsolete)
 - [Bloomberg - Shopify Tells Employees to Just Say No to Meetings](https://www.bloomberg.com/news/articles/2023-01-03/shopify-ceo-tobi-lutke-tells-employees-to-just-say-no-to-meetings)
 - [Business Insider - Google's management has reportedly issued a 'code red' amid the rising popularity of the ChatGPT AI](https://www.businessinsider.com/google-management-issues-code-red-over-chatgpt-report-2022-12?IR=T)
 - [Frank Landymore - CNET Is Quietly Publishing Entire Articles Generated By AI](https://futurism.com/the-byte/cnet-publishing-articles-by-ai)
@@ -2887,6 +2912,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [The Citizen Lab - You Move, They Follow Uncovering Iran’s Mobile Legal Intercept System](https://citizenlab.ca/2023/01/uncovering-irans-mobile-legal-intercept-system/)
+- [ArsTechnica - ChatGPT is enabling script kiddies to write functional malware](https://arstechnica.com/information-technology/2023/01/chatgpt-is-enabling-script-kiddies-to-write-functional-malware)
 - [TechCrunch - Mailchimp says it was hacked — again](https://techcrunch.com/2023/01/18/mailchimp-hacked/?_guc_consent_skip=1675073481)
 - [PayPayl - Notice of Security Incident (2022-12-20)](https://www.documentcloud.org/documents/23578067-paypal-notice?responsive=1&title=1)
 - [Financial Times - Chinese researchers claim to find way to break encryption using quantum computers](https://www.ft.com/content/b15680c0-cf31-448d-9eb6-b30426c29b8b)
