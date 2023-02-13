@@ -58,6 +58,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Sam Newman - Don't Call It A Platform. Down with The Platform, up with Developer Enablement](https://samnewman.io/blog/2023/02/08/dont-call-it-a-platform)
+- [Holly Cummins - Seven Ways to Fail at Microservices](https://www.infoq.com/presentations/7-microservices-anti-patterns)
+- [Mario Bittencourt - Cache me if you can: A Look at Common Caching Strategies, and how CQRS can Replace the Need in the First Place](https://medium.com/ssense-tech/cache-me-if-you-can-a-look-at-common-caching-strategies-and-how-cqrs-can-replace-the-need-in-the-65ec2b76e9e)
+- [Eric Johnson - Building next-gen applications with event-driven architectures](https://www.youtube.com/watch?v=SbL3a9YOW7s)
+- [Tomas Fernandez, Dan Ackerson - 12 Ways to Improve Your Monolith Before Transitioning to Microservices](https://semaphoreci.com/blog/monolith-microservices)
+- [Shlomi Kushchi - Serverless Doesn’t Mean DevOpsLess or NoOps](https://thenewstack.io/serverless-doesnt-mean-devopsless-or-noops/)
+- [Merrelyn Emery - The Far Reaching Effects Of The Design Principles](https://www.socialsciencethatactuallyworks.com/_files/ugd/d59011_04b830e5aa5547b38fb2228816775a29.pdf)
+- [Thomas Ploch - The One Question To Haunt Everyone: What is a DDD Aggregate?](https://www.youtube.com/watch?v=zlFqjD2LKlE)
 - [Martin Fowler - Making Architecture Matter](https://www.youtube.com/watch?v=DngAZyWMGR0)
 - [Molly Dishman & Martin Fowler - Agile Architecture](https://www.youtube.com/watch?v=VjKYO6DP3fo)
 - [James Lewis - Team Topologies, Software Architecture & Complexity](https://www.youtube.com/watch?v=izLg4NkJQO4)
@@ -860,6 +868,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Plumber - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems](https://github.com/batchcorp/plumber)
 - [Bilgin Ibryam, Roland Huß - Kubernetes Patterns. Reusable Elements for Designing Cloud-Native Applications](https://www.redhat.com/rhdc/managed-files/cm-oreilly-kubernetes-patterns-ebook-f19824-201910-en_1.pdf)
 - [SigNoz - 30+ Observability User Stories](https://signoz.io/observability-user-stories)
 - [Greg Jacobs - Lessons Learned from Enterprise Usage of GitHub Actions](https://www.infoq.com/articles/enterprise-github-actions/)
@@ -1004,6 +1013,8 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [AWS - Micro Frontends on AWS](https://github.com/aws-samples/micro-frontends-on-aws)
+- [Patrick Brosset - The truth about CSS selector performance](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/)
 - [Tim Deschryver - Adding OpenTelemetry to an Angular Application](https://timdeschryver.dev/blog/adding-opentelemetry-to-an-angular-application)
 - [ELK - A nimble Mastodon web client](https://github.com/elk-zone/elk)
 - [Szymon Chmal - The Role of Transpilers in Web Development](https://brightinventions.pl/blog/the-role-of-transpilers-in-web-development)
@@ -1108,6 +1119,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Rafał Maciak - Testing Microservices - Contract Tests](https://softwaremill.com/testing-microservices-contract-tests/)
 - [Liran Tal - Advanced usage patterns for taking page element screenshots with Playwright](https://lirantal.com/blog/2023-01-01_advanced_usage_patterns_for_taking_element_screenshots_with_playwright/)
 - [Ianis Triandafilov - Using Github Copilot for unit testing](https://www.strictmode.io/articles/using-github-copilot-for-testing)
 - [Adam Furmanek - Testing at scale](https://www.youtube.com/watch?v=BO6qHQbKFsw)
@@ -1193,6 +1205,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [AWS Database Blog - Jason Hunter - Scaling DynamoDB: How partitions, hot keys, and split for heat impact performance](https://aws.amazon.com/blogs/database/part-1-scaling-dynamodb-how-partitions-hot-keys-and-split-for-heat-impact-performance/)
 - [SQL Bolt - Learn SQL with simple, interactive exercises.](https://sqlbolt.com/)
 - [Piotr Kisielewicz - Transactions in MongoDB](https://blog.allegro.tech/2022/12/transactions-in-mongodb.html)
 - [Paul McJones - The 1995 SQL Reunion: People, Projects, and Politics](https://www.mcjones.org/System_R/SQL_Reunion_95/)
@@ -1358,6 +1371,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [MIT Technology Review - We read the paper that forced Timnit Gebru out of Google. Here’s what it says](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/)
 - [Microsoft - General availability of Azure OpenAI Service expands access to large, advanced AI models with added enterprise benefits](https://azure.microsoft.com/en-us/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/)
 - [Microsoft - Request Access to Azure OpenAI Service](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu)
 - [Meta - Teaching AI advanced mathematical reasoning](https://ai.facebook.com/blog/ai-math-theorem-proving)
@@ -1406,6 +1420,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Robert Bulmer - Storage-First pattern in AWS with API Gateway, Part 1: using S3](https://awstip.com/storage-first-pattern-in-aws-with-api-gateway-part-1-using-s3-216e20b08353)
 - [AWS - Generate Excel workbooks from Amazon RDS for PostgreSQL or Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/generate-excel-workbooks-from-amazon-rds-for-postgresql-or-amazon-aurora-postgresql/)
 - [AWS - Amazon DynamoDB Labs](https://amazon-dynamodb-labs.com/?es_id=a98b6d64e8)
 - [Luca Mezzalira - Evolutionary AWS Lambda functions with hexagonal architecture](https://www.youtube.com/watch?v=kRFg6fkVChQ)
@@ -1485,6 +1500,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - Event-driven projections in Marten explained](https://event-driven.io/en/projections_in_marten_explained/?utm_source=architecture_weekly)
+- [James Hickey - How To Structure Your .NET Solutions: Architecture And Trade-Offs](https://www.jamesmichaelhickey.com/how-to-structure-your-dot-net-solutions-design-and-trade-offs/)
+- [Gérald Barré - Meziantou.Analyzer - A Roslyn analyzer to enforce some good practices in C#](https://github.com/meziantou/Meziantou.Analyzer)
+- [Steven Sanderson - Blazor United prototype](https://www.youtube.com/watch?v=48G_CEGXZZM)
 - [Oskar Dudycz - Explicit validation in C# just got simpler!](https://event-driven.io/en/explicit_validation_in_csharp_just_got_simpler/)
 - [João Simões - Immutability and Entity Framework Core](https://medium.com/geekculture/immutability-and-entity-framework-core-60ac59919c2)
 - [David Masters - Entity Framework Core 7: Strongly Typed Ids Together With Auto-Increment Columns](https://david-masters.medium.com/entity-framework-core-7-strongly-typed-ids-together-with-auto-increment-columns-fd9715e331f3)
@@ -2221,6 +2240,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Christine Porath and Adrienne Boissy - Practice Empathy as a Team](https://hbr.org/2023/02/practice-empathy-as-a-team)
 - [Andy Hunt - Why Are There So Many Misconceptions Around Agile?](https://toolshed.com/articles/2020-11-20-AgileMisconceptions.html)
 - [Ruth Malan - Technical Leadership Masterclass](https://ruthmalan.com/leadership/20221031TechnicalLeadership.pdf)
 - [Ruth Malan - Decisions](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf)
@@ -2309,6 +2329,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Thorben Janssen - Java Records as Embeddables with Hibernate 6](https://thorben-janssen.com/java-records-embeddables-hibernate/)
+- [Cédric Champeau - Gradle’s flexibility in action](https://melix.github.io/blog//2023/gradle-synthetic-projects.html)
 - [Mike Roberts - AWS Lambda SnapStart - What, and Why](https://blog.symphonia.io/posts/2023-01-11_snapstart-what-why)
 - [Gavin Ray - Building a PostgreSQL Wire Protocol Server using Vanilla, Modern Java 21](https://gavinray97.github.io/blog/postgres-wire-protocol-jdk-21)oQ Trends Report - December 2022](https://www.infoq.com/articles/java-jvm-trends-2022/)
 - [Edoardo Vacchi - WebAssembly for the Java Geek](https://www.javaadvent.com/2022/12/webassembly-for-the-java-geek.html)
@@ -2910,6 +2932,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Tomasz Onyszko - Your keys are not your SSO](https://www.onyszko.com/your-keys-are-not-your-sso/)
+- [ArsTechnica - ChatGPT is enabling script kiddies to write functional malware](https://arstechnica.com/information-technology/2023/01/chatgpt-is-enabling-script-kiddies-to-write-functional-malware/)
 - [The Citizen Lab - You Move, They Follow Uncovering Iran’s Mobile Legal Intercept System](https://citizenlab.ca/2023/01/uncovering-irans-mobile-legal-intercept-system/)
 - [ArsTechnica - ChatGPT is enabling script kiddies to write functional malware](https://arstechnica.com/information-technology/2023/01/chatgpt-is-enabling-script-kiddies-to-write-functional-malware)
 - [TechCrunch - Mailchimp says it was hacked — again](https://techcrunch.com/2023/01/18/mailchimp-hacked/?_guc_consent_skip=1675073481)
@@ -3049,6 +3073,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Heather Murray - Transactional Analysis - Eric Berne](https://www.simplypsychology.org/transactional-analysis-eric-berne.html)
 - [Nick Cave - Chat GPT. What do you think?](https://www.theredhandfiles.com/chat-gpt-what-do-you-think/)
 - [Gary Trosclair - Compulsive Personality: A New and Positive Perspective](https://thehealthycompulsive.com/science-research/the-compulsive-personality-a-new-and-positive-perspective/)
 - [Christoph Rumpel - 12 Tips For Better Live Coding](https://christoph-rumpel.com/2021/7/12-tips-for-better-live-coding)
