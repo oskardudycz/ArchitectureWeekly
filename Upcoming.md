@@ -7,8 +7,53 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ### Architecture
+- [Sam Newman - Don't Call It A Platform. Down with The Platform, up with Developer Enablement](https://samnewman.io/blog/2023/02/08/dont-call-it-a-platform)
+- [Holly Cummins - Seven Ways to Fail at Microservices](https://www.infoq.com/presentations/7-microservices-anti-patterns)
 - [Mario Bittencourt - Cache me if you can: A Look at Common Caching Strategies, and how CQRS can Replace the Need in the First Place](https://medium.com/ssense-tech/cache-me-if-you-can-a-look-at-common-caching-strategies-and-how-cqrs-can-replace-the-need-in-the-65ec2b76e9e)
+- [Eric Johnson - Building next-gen applications with event-driven architectures](https://www.youtube.com/watch?v=SbL3a9YOW7s)
+- [Tomas Fernandez, Dan Ackerson - 12 Ways to Improve Your Monolith Before Transitioning to Microservices](https://semaphoreci.com/blog/monolith-microservices)
+- [Shlomi Kushchi - Serverless Doesn’t Mean DevOpsLess or NoOps](https://thenewstack.io/serverless-doesnt-mean-devopsless-or-noops/)
+- [Merrelyn Emery - The Far Reaching Effects Of The Design Principles](https://www.socialsciencethatactuallyworks.com/_files/ugd/d59011_04b830e5aa5547b38fb2228816775a29.pdf)
+- [Thomas Ploch - The One Question To Haunt Everyone: What is a DDD Aggregate?](https://www.youtube.com/watch?v=zlFqjD2LKlE)
+
+### DevOps
+- [Plumber - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems](https://github.com/batchcorp/plumber)
 
 ### Databases
 - [AWS Database Blog - Jason Hunter - Scaling DynamoDB: How partitions, hot keys, and split for heat impact performance](https://aws.amazon.com/blogs/database/part-1-scaling-dynamodb-how-partitions-hot-keys-and-split-for-heat-impact-performance/)
 
+### Frontend
+- [AWS - Micro Frontends on AWS](https://github.com/aws-samples/micro-frontends-on-aws)
+- [Patrick Brosset - The truth about CSS selector performance](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/)
+
+### Testing
+- [Rafał Maciak - Testing Microservices - Contract Tests](https://softwaremill.com/testing-microservices-contract-tests/)
+
+### AI
+- [MIT Technology Review - We read the paper that forced Timnit Gebru out of Google. Here’s what it says](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/)
+
+### AWS
+- [Robert Bulmer - Storage-First pattern in AWS with API Gateway, Part 1: using S3](https://awstip.com/storage-first-pattern-in-aws-with-api-gateway-part-1-using-s3-216e20b08353)
+
+### Java
+- [Thorben Janssen - Java Records as Embeddables with Hibernate 6](https://thorben-janssen.com/java-records-embeddables-hibernate/)
+- [Cédric Champeau - Gradle’s flexibility in action](https://melix.github.io/blog//2023/gradle-synthetic-projects.html)
+
+### .NET
+- [Oskar Dudycz - Event-driven projections in Marten explained](https://event-driven.io/en/projections_in_marten_explained/?utm_source=architecture_weekly)
+- [James Hickey - How To Structure Your .NET Solutions: Architecture And Trade-Offs](https://www.jamesmichaelhickey.com/how-to-structure-your-dot-net-solutions-design-and-trade-offs/)
+- [Gérald Barré - Meziantou.Analyzer - A Roslyn analyzer to enforce some good practices in C#](https://github.com/meziantou/Meziantou.Analyzer)
+- [Steven Sanderson - Blazor United prototype](https://www.youtube.com/watch?v=48G_CEGXZZM)
+
+### UX
+- [Peter Ramsey - The hidden complexity of bank cards](https://builtformars.com/case-studies/ux-banking-chapter-8)
+
+### Management
+- [Christine Porath and Adrienne Boissy - Practice Empathy as a Team](https://hbr.org/2023/02/practice-empathy-as-a-team)
+
+### Security
+- [Tomasz Onyszko - Your keys are not your SSO](https://www.onyszko.com/your-keys-are-not-your-sso/)
+- [ArsTechnica - ChatGPT is enabling script kiddies to write functional malware](https://arstechnica.com/information-technology/2023/01/chatgpt-is-enabling-script-kiddies-to-write-functional-malware/)
+
+### Trivia
+- [Heather Murray - Transactional Analysis - Eric Berne](https://www.simplypsychology.org/transactional-analysis-eric-berne.html)
