@@ -101,7 +101,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Bilgin Ibryam, Roland Huß - Kubernetes Patterns. Reusable Elements for Designing Cloud-Native Applications](https://www.redhat.com/rhdc/managed-files/cm-oreilly-kubernetes-patterns-ebook-f19824-201910-en_1.pdf)
 - [SigNoz - 30+ Observability User Stories](https://signoz.io/observability-user-stories)
 
-## Databases
+### Databases
 - [SQL Bolt - Learn SQL with simple, interactive exercises.](https://sqlbolt.com/)
 
 ### Frontend
