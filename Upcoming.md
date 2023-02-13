@@ -8,7 +8,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ### Architecture
 - [Mario Bittencourt - Cache me if you can: A Look at Common Caching Strategies, and how CQRS can Replace the Need in the First Place](https://medium.com/ssense-tech/cache-me-if-you-can-a-look-at-common-caching-strategies-and-how-cqrs-can-replace-the-need-in-the-65ec2b76e9e)
-### Databases
 
+### Databases
 - [AWS Database Blog - Jason Hunter - Scaling DynamoDB: How partitions, hot keys, and split for heat impact performance](https://aws.amazon.com/blogs/database/part-1-scaling-dynamodb-how-partitions-hot-keys-and-split-for-heat-impact-performance/)
 

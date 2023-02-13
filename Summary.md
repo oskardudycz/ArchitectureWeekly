@@ -660,7 +660,6 @@
 - [Tyron Offerman, Christoph Johann Stettina, Aske Plaat - Business capabilities: A systematic literature review and a research agenda](https://www.researchgate.net/publication/323000484_Business_capabilities_A_systematic_literature_review_and_a_research_agenda)
 - [Savvas Kleanthous - The impossibility of exactly-once delivery](https://blog.bulloak.io/post/20200917-the-impossibility-of-exactly-once/)
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
-- [Mario Bittencourt - Cache me if you can: A Look at Common Caching Strategies, and how CQRS can Replace the Need in the First Place](https://medium.com/ssense-tech/cache-me-if-you-can-a-look-at-common-caching-strategies-and-how-cqrs-can-replace-the-need-in-the-65ec2b76e9e)
 
 ## Distributed Systems
 - [Frank Pfenning - A Rehabilitation of Message-passing Concurrency](https://www.youtube.com/watch?v=LRn_nPfti-Y)
@@ -1357,7 +1356,6 @@
 - [DB-Engines - PostgreSQL is the DBMS of the Year 2020](https://db-engines.com/en/blog_post/85)
 - [Chris Hanks - Turning PostgreSQL into a queue serving 10,000 jobs per second](https://gist.github.com/chanks/7585810)
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
-- [AWS Database Blog - Jason Hunter - Scaling DynamoDB: How partitions, hot keys, and split for heat impact performance](https://aws.amazon.com/blogs/database/part-1-scaling-dynamodb-how-partitions-hot-keys-and-split-for-heat-impact-performance/)
 
 ## AI
 - [Microsoft - General availability of Azure OpenAI Service expands access to large, advanced AI models with added enterprise benefits](https://azure.microsoft.com/en-us/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/)
