@@ -58,6 +58,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Glenn Engstrand, Holly Cummins, Dave Farley - Present and Future of the Microservice Architecture](https://www.infoq.com/presentations/present-future-microservices-architecture)
+- [Fred Hebert - A Bridge Over a River Never Crossed](https://ferd.ca/a-bridge-over-a-river-never-crossed.html)
+- [Gien Verschatse - Pro-Con-Fix list, a simple tool for visualising a trade-off](https://www.selketjah.com/decision-theory/2020/05/16/pro-con-fix/)
+- [Mauro Servienti - The pitfalls of request/response over messaging](https://milestone.topics.it/2023/01/19/pitfalls-of-request-response-over-messaging.html)
+- [Jessica Kerr - Shaving the Golden Yak](https://www.youtube.com/watch?v=10Foa_lulK4)
+- [Nick Tune, Eduardo da Silva - Architecture Modernization Enabling Teams (AMET)](https://medium.com/nick-tune-tech-strategy-blog/architecture-modernization-enabling-teams-amet-23a7f867b284)
+- [Al Tenhundfeld - Where Does Complexity Go? Tesler's Law & Conceptual Compression](https://www.simplethread.com/where-does-complexity-go/)
+- [Shawn McCool - Active Record: How We Got Persistence Perfectly Wrong](https://shawnmc.cool/2023-02-13_active-record-how-we-got-persistence-perfectly-wrong)
 - [Sam Newman - Don't Call It A Platform. Down with The Platform, up with Developer Enablement](https://samnewman.io/blog/2023/02/08/dont-call-it-a-platform)
 - [Holly Cummins - Seven Ways to Fail at Microservices](https://www.infoq.com/presentations/7-microservices-anti-patterns)
 - [Mario Bittencourt - Cache me if you can: A Look at Common Caching Strategies, and how CQRS can Replace the Need in the First Place](https://medium.com/ssense-tech/cache-me-if-you-can-a-look-at-common-caching-strategies-and-how-cqrs-can-replace-the-need-in-the-65ec2b76e9e)
@@ -868,6 +876,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Gitlab CI Local - Run gitlab pipelines locally as shell executor or docker executor](https://github.com/firecow/gitlab-ci-local)
+- [Spotify - Everything you need to know about Backstage with a guide to take you step-by-step](https://backstage.spotify.com/learn/)
 - [Plumber - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems](https://github.com/batchcorp/plumber)
 - [Bilgin Ibryam, Roland Huß - Kubernetes Patterns. Reusable Elements for Designing Cloud-Native Applications](https://www.redhat.com/rhdc/managed-files/cm-oreilly-kubernetes-patterns-ebook-f19824-201910-en_1.pdf)
 - [SigNoz - 30+ Observability User Stories](https://signoz.io/observability-user-stories)
@@ -1013,6 +1023,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Honeypot - React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)
 - [AWS - Micro Frontends on AWS](https://github.com/aws-samples/micro-frontends-on-aws)
 - [Patrick Brosset - The truth about CSS selector performance](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/)
 - [Tim Deschryver - Adding OpenTelemetry to an Angular Application](https://timdeschryver.dev/blog/adding-opentelemetry-to-an-angular-application)
@@ -1205,6 +1216,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [United States PostgreSQL Association - PGConf NYC 2022](https://www.youtube.com/playlist?app=desktop&list=PLiT-kUSX8USXMSdIeV9QZTrem57h_Ksut)
 - [AWS Database Blog - Jason Hunter - Scaling DynamoDB: How partitions, hot keys, and split for heat impact performance](https://aws.amazon.com/blogs/database/part-1-scaling-dynamodb-how-partitions-hot-keys-and-split-for-heat-impact-performance/)
 - [SQL Bolt - Learn SQL with simple, interactive exercises.](https://sqlbolt.com/)
 - [Piotr Kisielewicz - Transactions in MongoDB](https://blog.allegro.tech/2022/12/transactions-in-mongodb.html)
@@ -1371,6 +1383,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [The New Yorker - ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
 - [MIT Technology Review - We read the paper that forced Timnit Gebru out of Google. Here’s what it says](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/)
 - [Microsoft - General availability of Azure OpenAI Service expands access to large, advanced AI models with added enterprise benefits](https://azure.microsoft.com/en-us/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/)
 - [Microsoft - Request Access to Azure OpenAI Service](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu)
@@ -1420,6 +1433,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Lee Gilmore - Serverless AWS CDK Pipeline Best Practices & Patterns — Part 1](https://blog.serverlessadvocate.com/serverless-aws-cdk-pipeline-best-practices-patterns-part-1-ab80962f109d)
 - [Robert Bulmer - Storage-First pattern in AWS with API Gateway, Part 1: using S3](https://awstip.com/storage-first-pattern-in-aws-with-api-gateway-part-1-using-s3-216e20b08353)
 - [AWS - Generate Excel workbooks from Amazon RDS for PostgreSQL or Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/generate-excel-workbooks-from-amazon-rds-for-postgresql-or-amazon-aurora-postgresql/)
 - [AWS - Amazon DynamoDB Labs](https://amazon-dynamodb-labs.com/?es_id=a98b6d64e8)
@@ -1500,6 +1514,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - CQRS is simpler than you think with C#11 and .NET 7!](https://www.youtube.com/watch?v=iY7LO289qnQ)
+- [Oskar Dudycz - Set up OpenTelemetry with Event Sourcing and Marten](https://event-driven.io/en/set_up_opentelemetry_wtih_event_sourcing_and_marten/)
+- [Patrick Smacchia - C# ValueTuple](https://blog.ndepend.com/c-valuetuple/)
+- [Keep Coding Podcast - Geeking out on .NET and C# with David Fowler](https://www.youtube.com/watch?v=_xlRY3j8ufk)
+- [Auth0 Blog - Test Authorization in ASP.NET Core Web APIs With the user-jwts Tool](https://auth0.com/blog/test-authorization-in-aspnet-core-webapi-with-user-jwts-tool/)
 - [Oskar Dudycz - Event-driven projections in Marten explained](https://event-driven.io/en/projections_in_marten_explained/?utm_source=architecture_weekly)
 - [James Hickey - How To Structure Your .NET Solutions: Architecture And Trade-Offs](https://www.jamesmichaelhickey.com/how-to-structure-your-dot-net-solutions-design-and-trade-offs/)
 - [Gérald Barré - Meziantou.Analyzer - A Roslyn analyzer to enforce some good practices in C#](https://github.com/meziantou/Meziantou.Analyzer)
@@ -2038,6 +2057,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Mark Seemann - A thought on workplace flexibility and asynchrony](https://blog.ploeh.dk/2023/02/20/a-thought-on-workplace-flexibility-and-asynchrony/)
+- [Rachel Andrew - Technical writing resources](https://rachelandrew.co.uk/archives/2023/01/28/technical-writing-resources/)
 - [Corecursive Podcast - Shipping Graphing Calculator With Ron Avitzur](https://corecursive.com/shipping-graphing-calculator/)
 - [Oskar Dudycz - Stacking the bricks in the software development process](https://event-driven.io/en/stacking_the_bricks?utm_source=architecture_weekly)
 - [Hillel Wayne - 10 Most(ly dead) Influential Programming Languages](https://www.hillelwayne.com/post/influential-dead-languages/)
@@ -2416,6 +2437,7 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
 ## JavaScript
+- [TC39 - ECMAScript proposal: Type Annotations](https://github.com/tc39/proposal-type-annotations)    
 - [David Whitney - Test Driven Development in JavaScript – writing tests that don’t suck!](https://www.youtube.com/watch?v=D7LKslgwxmQ)
 - [Gil Tayar - Typed JavaScript? For real? The type annotations proposal and what it’s all about](https://www.youtube.com/watch?v=8EXuuLtYFY0)
 - [Protobuf-ES - A complete implementation of Protocol Buffers in TypeScript, suitable for web browsers and Node.js](https://github.com/bufbuild/protobuf-es)
@@ -2438,6 +2460,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [TypeScript Deep Dive - Nominal Typing](https://basarat.gitbook.io/typescript/main-1/nominaltyping)
 - [Matt Pocock - Don't use Function type in TypeScript](https://www.totaltypescript.com/dont-use-function-keyword-in-typescript)
 - [Andrey Starovoyt - Behind the Scenes: Discussing One of the Most Interesting TypeScript 4.9 Features](https://www.youtube.com/watch?v=iGytn1dzXZ4)
 - [Jonathan Cardoso - How To Use Decorators in TypeScript](https://www.digitalocean.com/community/tutorials/how-to-use-decorators-in-typescript)
@@ -2465,6 +2488,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [Immutable - Immutable collections for JavaScript](https://immutable-js.com/)
 - [pgwire - PostgreSQL client library for Deno and Node.js that exposes all features of wire protocol](https://github.com/kagis/pgwire)
 - [State of JS 2022](https://2022.stateofjs.com)
 - [Sebastian Weber - Reduce maintenance effort with shared ESLint and Prettier configs](https://blog.logrocket.com/reduce-effort-shared-eslint-prettier-configs/)
@@ -2620,6 +2644,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Amazon - Update from Andy Jassy on return to office plans](https://www.aboutamazon.com/news/company-news/andy-jassy-update-on-amazon-return-to-office)
+- [The Register - Lufthansa flights grounded by major IT snafu, 'construction work' blamed](https://www.theregister.com/2023/02/15/lufthansa/)
 - [Semafor - OpenAI has hired an army of contractors to make basic coding obsolete](https://www.semafor.com/article/01/27/2023/openai-has-hired-an-army-of-contractors-to-make-basic-coding-obsolete)
 - [Bloomberg - Shopify Tells Employees to Just Say No to Meetings](https://www.bloomberg.com/news/articles/2023-01-03/shopify-ceo-tobi-lutke-tells-employees-to-just-say-no-to-meetings)
 - [Business Insider - Google's management has reportedly issued a 'code red' amid the rising popularity of the ChatGPT AI](https://www.businessinsider.com/google-management-issues-code-red-over-chatgpt-report-2022-12?IR=T)
