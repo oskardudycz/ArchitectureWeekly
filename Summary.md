@@ -58,6 +58,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Don't let Event-Driven Architecture buzzwords fool you](https://event-driven.io/en/dont_let_event_driven_architecture_buzzwords_fool_you/?utm_source=architecture_weekly)
+- [Milen Dyankov - Demystifying "event” related software concepts and methodologies](https://www.youtube.com/watch?v=gkMFm1VVxyI)
+- [Tech Lead Journal Podcast - Software Architecture: From Fundamentals to the Hard Parts - Neal Ford](https://techleadjournal.dev/episodes/120/)
+- [Kent Beck - Scaling Extreme Programming: Dependencies](https://tidyfirst.substack.com/p/scaling-extreme-programming-dependencies)
+- [GitHub - Move Fast and Fix Things](https://github.blog/2015-12-15-move-fast/)
+- [Alexey Zimarev - You don't need an Event Sourcing framework. Or do you?](https://www.youtube.com/watch?v=qYGKqm7CmFM)
+- [Mathias Verraes - Eventsourcing Patterns: Multi-temporal Events](https://verraes.net/2022/03/multi-temporal-events/)
+- [Martin Fowler - Errant Architectures](https://www.drdobbs.com/errant-architectures/184414966)
+- [Gara Mohamed - DDD in action: a cohesive mechanism from trenches](https://medium.com/@gara.mohamed/ddd-in-action-a-cohesive-mechanism-from-trenches-c697d738c968)
 - [Glenn Engstrand, Holly Cummins, Dave Farley - Present and Future of the Microservice Architecture](https://www.infoq.com/presentations/present-future-microservices-architecture)
 - [Fred Hebert - A Bridge Over a River Never Crossed](https://ferd.ca/a-bridge-over-a-river-never-crossed.html)
 - [Gien Verschatse - Pro-Con-Fix list, a simple tool for visualising a trade-off](https://www.selketjah.com/decision-theory/2020/05/16/pro-con-fix/)
@@ -876,6 +885,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Kacper Gunia - Organizing VCS Repositories by Domain: An Effective Alternative for Mono and Multi Repos](https://domaincentric.net/blog/organizing-vcs-repositories-by-domain)
 - [Gitlab CI Local - Run gitlab pipelines locally as shell executor or docker executor](https://github.com/firecow/gitlab-ci-local)
 - [Spotify - Everything you need to know about Backstage with a guide to take you step-by-step](https://backstage.spotify.com/learn/)
 - [Plumber - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems](https://github.com/batchcorp/plumber)
@@ -1023,6 +1033,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Juntao QIU - Modularizing React Applications with Established UI Patterns](https://martinfowler.com/articles/modularizing-react-apps.html)
 - [Honeypot - React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)
 - [AWS - Micro Frontends on AWS](https://github.com/aws-samples/micro-frontends-on-aws)
 - [Patrick Brosset - The truth about CSS selector performance](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/)
@@ -1130,6 +1141,8 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Andrzej Krzywda - Unit tests vs class tests](https://blog.arkency.com/2014/09/unit-tests-vs-class-tests/)
+- [Urs Enzler - TDD Perspectives: Trade-offs and impact of functional programming](https://www.youtube.com/watch?v=JcKLqX8wuR4)
 - [Rafał Maciak - Testing Microservices - Contract Tests](https://softwaremill.com/testing-microservices-contract-tests/)
 - [Liran Tal - Advanced usage patterns for taking page element screenshots with Playwright](https://lirantal.com/blog/2023-01-01_advanced_usage_patterns_for_taking_element_screenshots_with_playwright/)
 - [Ianis Triandafilov - Using Github Copilot for unit testing](https://www.strictmode.io/articles/using-github-copilot-for-testing)
@@ -1216,6 +1229,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [DataStax - ACID Transactions Are Coming To Apache Cassandra: Here's Why We're Excited](https://hackernoon.com/acid-transactions-are-coming-to-apache-cassandra-heres-why-were-excited)
+- [Vlad Mihalcea - YugabyteDB Architecture](https://vladmihalcea.com/yugabytedb-architecture/)
 - [United States PostgreSQL Association - PGConf NYC 2022](https://www.youtube.com/playlist?app=desktop&list=PLiT-kUSX8USXMSdIeV9QZTrem57h_Ksut)
 - [AWS Database Blog - Jason Hunter - Scaling DynamoDB: How partitions, hot keys, and split for heat impact performance](https://aws.amazon.com/blogs/database/part-1-scaling-dynamodb-how-partitions-hot-keys-and-split-for-heat-impact-performance/)
 - [SQL Bolt - Learn SQL with simple, interactive exercises.](https://sqlbolt.com/)
@@ -1383,6 +1398,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [GPTZero - AI Detector](https://gptzero.me/)
 - [The New Yorker - ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
 - [MIT Technology Review - We read the paper that forced Timnit Gebru out of Google. Here’s what it says](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/)
 - [Microsoft - General availability of Azure OpenAI Service expands access to large, advanced AI models with added enterprise benefits](https://azure.microsoft.com/en-us/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/)
@@ -1514,6 +1530,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jeremy D. Miller - Wolverine’s New HTTP Endpoint Model](https://jeremydmiller.com/2023/02/14/wolverines-new-http-endpoint-model/)
+- [Laurent Kempé - Refactoring huge C# code base in minutes ](https://laurentkempe.com/2023/02/20/refactoring-huge-csharp-code-base-in-minutes/)
+- [Jean-Pierre Seini - Route handler filters in .NET 7](https://www.alwaysdeveloping.net/dailydrop/2022/08/24-route-filter/)
+- [Steven Giesel - Frozen collections in .NET 8](https://steven-giesel.com/blogPost/34e0fd95-0b3f-40f2-ba2a-36d1d4eb5601)
 - [Oskar Dudycz - CQRS is simpler than you think with C#11 and .NET 7!](https://www.youtube.com/watch?v=iY7LO289qnQ)
 - [Oskar Dudycz - Set up OpenTelemetry with Event Sourcing and Marten](https://event-driven.io/en/set_up_opentelemetry_wtih_event_sourcing_and_marten/)
 - [Patrick Smacchia - C# ValueTuple](https://blog.ndepend.com/c-valuetuple/)
@@ -2432,6 +2452,7 @@
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
 ## JVM
+- [Spring - From Spring Native to Spring Boot 3](https://spring.io/blog/2023/02/23/from-spring-native-to-spring-boot-3)
 - [Sacha Coppey - GraalVM Native Image meets RISC-V](https://medium.com/graalvm/graalvm-native-image-meets-risc-v-899be38eddd9)
 - [Gradle - A Better Way to Use Gradle With Github Actions](https://blog.gradle.org/gh-actions)
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
@@ -2644,6 +2665,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Denis Pushkarev - core-js So, what's next?](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md)
+- [CNBC - Three decades after inventing the web, Tim Berners-Lee has some ideas on how to fix it](https://www.youtube.com/watch?v=DBB_LMepuQ4)
+- [ComputerWorld.com - Amazon denies claims hiring freeze is slowing AWS sustainability work](https://www.computerweekly.com/news/365531874/Amazon-denies-claims-hiring-freeze-is-slowing-AWS-sustainability-work)
 - [Amazon - Update from Andy Jassy on return to office plans](https://www.aboutamazon.com/news/company-news/andy-jassy-update-on-amazon-return-to-office)
 - [The Register - Lufthansa flights grounded by major IT snafu, 'construction work' blamed](https://www.theregister.com/2023/02/15/lufthansa/)
 - [Semafor - OpenAI has hired an army of contractors to make basic coding obsolete](https://www.semafor.com/article/01/27/2023/openai-has-hired-an-army-of-contractors-to-make-basic-coding-obsolete)
@@ -2958,6 +2982,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Troy Hunt - Down the Cloudflare / Stripe / OWASP Rabbit Hole: A Tale of 6 Rabbits Deep](https://www.troyhunt.com/down-the-cloudflare-stripe-owasp-rabbit-hole-a-tale-of-6-rabbits-deep/)
+- [SpiceDB - Open Source, Google Zanzibar-inspired fine-grained permissions database](https://github.com/authzed/spicedb)
 - [Tomasz Onyszko - Your keys are not your SSO](https://www.onyszko.com/your-keys-are-not-your-sso/)
 - [ArsTechnica - ChatGPT is enabling script kiddies to write functional malware](https://arstechnica.com/information-technology/2023/01/chatgpt-is-enabling-script-kiddies-to-write-functional-malware/)
 - [The Citizen Lab - You Move, They Follow Uncovering Iran’s Mobile Legal Intercept System](https://citizenlab.ca/2023/01/uncovering-irans-mobile-legal-intercept-system/)
@@ -3099,6 +3125,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Infinite-Storage-Glitch - Lets you use YouTube as cloud storage for ANY files, not just video ](https://github.com/DvorakDwarf/Infinite-Storage-Glitch)
 - [Heather Murray - Transactional Analysis - Eric Berne](https://www.simplypsychology.org/transactional-analysis-eric-berne.html)
 - [Nick Cave - Chat GPT. What do you think?](https://www.theredhandfiles.com/chat-gpt-what-do-you-think/)
 - [Gary Trosclair - Compulsive Personality: A New and Positive Perspective](https://thehealthycompulsive.com/science-research/the-compulsive-personality-a-new-and-positive-perspective/)
