@@ -1,9 +1,56 @@
 # Upcoming Links
 
-## 20th February 2023
+## 27th February 2023
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
 
 ### Architecture
+- [Oskar Dudycz - Don't let Event-Driven Architecture buzzwords fool you](https://event-driven.io/en/dont_let_event_driven_architecture_buzzwords_fool_you/?utm_source=architecture_weekly)
+- [Milen Dyankov - Demystifying "event” related software concepts and methodologies](https://www.youtube.com/watch?v=gkMFm1VVxyI)
+- [Tech Lead Journal Podcast - Software Architecture: From Fundamentals to the Hard Parts - Neal Ford](https://techleadjournal.dev/episodes/120/)
+- [Kent Beck - Scaling Extreme Programming: Dependencies](https://tidyfirst.substack.com/p/scaling-extreme-programming-dependencies)
+- [GitHub - Move Fast and Fix Things](https://github.blog/2015-12-15-move-fast/)
+- [Alexey Zimarev - You don't need an Event Sourcing framework. Or do you?](https://www.youtube.com/watch?v=qYGKqm7CmFM)
+- [Mathias Verraes - Eventsourcing Patterns: Multi-temporal Events](https://verraes.net/2022/03/multi-temporal-events/)
+- [Martin Fowler - Errant Architectures](https://www.drdobbs.com/errant-architectures/184414966)
+- [Gara Mohamed - DDD in action: a cohesive mechanism from trenches](https://medium.com/@gara.mohamed/ddd-in-action-a-cohesive-mechanism-from-trenches-c697d738c968)
+
+### Databases
+- [DataStax - ACID Transactions Are Coming To Apache Cassandra: Here's Why We're Excited](https://hackernoon.com/acid-transactions-are-coming-to-apache-cassandra-heres-why-were-excited)
+- [Vlad Mihalcea - YugabyteDB Architecture](https://vladmihalcea.com/yugabytedb-architecture/)
+
+### DevOps
+- [Kacper Gunia - Organizing VCS Repositories by Domain: An Effective Alternative for Mono and Multi Repos](https://domaincentric.net/blog/organizing-vcs-repositories-by-domain)
+
+### Testing
+- [Andrzej Krzywda - Unit tests vs class tests](https://blog.arkency.com/2014/09/unit-tests-vs-class-tests/)
+- [Urs Enzler - TDD Perspectives: Trade-offs and impact of functional programming](https://www.youtube.com/watch?v=JcKLqX8wuR4)
+
+### Frontend
+- [Juntao QIU - Modularizing React Applications with Established UI Patterns](https://martinfowler.com/articles/modularizing-react-apps.html)
+
+### AI
+- [GPTZero - AI Detector](https://gptzero.me/)
+
+### JVM
+- [Spring - From Spring Native to Spring Boot 3](https://spring.io/blog/2023/02/23/from-spring-native-to-spring-boot-3)
+
+### .NET
+- [Jeremy D. Miller - Wolverine’s New HTTP Endpoint Model](https://jeremydmiller.com/2023/02/14/wolverines-new-http-endpoint-model/)
+- [Laurent Kempé - Refactoring huge C# code base in minutes ](https://laurentkempe.com/2023/02/20/refactoring-huge-csharp-code-base-in-minutes/)
+- [Jean-Pierre Seini - Route handler filters in .NET 7](https://www.alwaysdeveloping.net/dailydrop/2022/08/24-route-filter/)
+- [Steven Giesel - Frozen collections in .NET 8](https://steven-giesel.com/blogPost/34e0fd95-0b3f-40f2-ba2a-36d1d4eb5601)
+
+### Industry
+- [Denis Pushkarev - core-js So, what's next?](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md)
+- [CNBC - Three decades after inventing the web, Tim Berners-Lee has some ideas on how to fix it](https://www.youtube.com/watch?v=DBB_LMepuQ4)
+- [ComputerWorld.com - Amazon denies claims hiring freeze is slowing AWS sustainability work](https://www.computerweekly.com/news/365531874/Amazon-denies-claims-hiring-freeze-is-slowing-AWS-sustainability-work)
+
+### Security
+- [Troy Hunt - Down the Cloudflare / Stripe / OWASP Rabbit Hole: A Tale of 6 Rabbits Deep](https://www.troyhunt.com/down-the-cloudflare-stripe-owasp-rabbit-hole-a-tale-of-6-rabbits-deep/)
+- [SpiceDB - Open Source, Google Zanzibar-inspired fine-grained permissions database](https://github.com/authzed/spicedb)
+
+### Trivia
+- [Infinite-Storage-Glitch - Lets you use YouTube as cloud storage for ANY files, not just video ](https://github.com/DvorakDwarf/Infinite-Storage-Glitch)
