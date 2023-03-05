@@ -58,6 +58,13 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Jean-Philippe Dutrève - Messaging Patterns : Flow, SAGA, Messaging Gateway and Observability With RabbitMQ Exchange to Exchange Bindings](https://jdutreve.medium.com/a-java-implementation-of-integrated-microservices-aka-the-ambassador-architecture-3999fa313318)
+- [Solace - Results from the Industry's First Event-Driven Architecture Survey](https://solace.com/event-driven-architecture-statistics)
+- [Alan Kay - Power of Simplicity](https://www.youtube.com/watch?v=NdSD07U5uBs)
+- [Uwe Friedrichsen - The tail at scale](https://www.ufried.com/blog/tail_at_scale/)
+- [Dirk Fahland - Multi Dimensional Process Analysis](https://www.youtube.com/watch?v=X2CjOb4Usug)
+- [Shishir Mehrotra, Matt Hudson - Eigenquestions: The Art of Framing Problems](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems)
+- [Andrea Sonea - How open is Open Banking](https://www.youtube.com/watch?v=yqMDoWVZYw8)
 - [Oskar Dudycz - Don't let Event-Driven Architecture buzzwords fool you](https://event-driven.io/en/dont_let_event_driven_architecture_buzzwords_fool_you/?utm_source=architecture_weekly)
 - [Milen Dyankov - Demystifying "event” related software concepts and methodologies](https://www.youtube.com/watch?v=gkMFm1VVxyI)
 - [Tech Lead Journal Podcast - Software Architecture: From Fundamentals to the Hard Parts - Neal Ford](https://techleadjournal.dev/episodes/120/)
@@ -687,6 +694,9 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Kyle Kingsbury - Call Me Maybe: Carly Rae Jepsen and the Perils of Network Partitions](https://www.youtube.com/watch?v=vFDjTd9G6Xo)
+- [Google - Introducing Service Weaver: A Framework for Writing Distributed Applications](https://opensource.googleblog.com/2023/03/introducing-service-weaver-framework-for-writing-distributed-applications.html)
+- [Gunnar Morling - O Kafka, Where Art Thou?](https://www.morling.dev/blog/kafka-where-art-thou/)
 - [Frank Pfenning - A Rehabilitation of Message-passing Concurrency](https://www.youtube.com/watch?v=LRn_nPfti-Y)
 - [Gerard Klijs - How dumb do you want your pipes?](https://developer.axoniq.io/w/how-dumb-do-you-want-your-pipes)
 - [Cloudflare - Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/)
@@ -1141,6 +1151,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Josh Armitage - Serverless Testing, Local Considered Harmful? True Cloud Native Testing](https://medium.com/contino-engineering/serverless-testing-local-considered-harmful-cf6d3f940d36)
 - [Andrzej Krzywda - Unit tests vs class tests](https://blog.arkency.com/2014/09/unit-tests-vs-class-tests/)
 - [Urs Enzler - TDD Perspectives: Trade-offs and impact of functional programming](https://www.youtube.com/watch?v=JcKLqX8wuR4)
 - [Rafał Maciak - Testing Microservices - Contract Tests](https://softwaremill.com/testing-microservices-contract-tests/)
@@ -1398,6 +1409,10 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [OpenAI - Introducing ChatGPT and Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
+- [Corecursive Podcast - The History and Mystery Of Eliza With Jeff Shrager](https://corecursive.com/eliza-with-jeff-shrager/)
+- [Petar Veličković - Everything is Connected: Graph Neural Networks](https://arxiv.org/abs/2301.08210)
+- [The Verge - Snapchat is releasing its own AI chatbot powered by ChatGPT](https://www.theverge.com/2023/2/27/23614959/snapchat-my-ai-chatbot-chatgpt-openai-plus-subscription)
 - [GPTZero - AI Detector](https://gptzero.me/)
 - [The New Yorker - ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
 - [MIT Technology Review - We read the paper that forced Timnit Gebru out of Google. Here’s what it says](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/)
@@ -1449,6 +1464,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Andy Blackledge - Enterprise Integration Patterns with Serverless and CDK](https://aws.hashnode.com/enterprise-integration-patterns-with-serverless-and-cdk)
 - [Lee Gilmore - Serverless AWS CDK Pipeline Best Practices & Patterns — Part 1](https://blog.serverlessadvocate.com/serverless-aws-cdk-pipeline-best-practices-patterns-part-1-ab80962f109d)
 - [Robert Bulmer - Storage-First pattern in AWS with API Gateway, Part 1: using S3](https://awstip.com/storage-first-pattern-in-aws-with-api-gateway-part-1-using-s3-216e20b08353)
 - [AWS - Generate Excel workbooks from Amazon RDS for PostgreSQL or Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/generate-excel-workbooks-from-amazon-rds-for-postgresql-or-amazon-aurora-postgresql/)
@@ -1530,6 +1546,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [.NET Frontend Day 2023 - Full conference recording](https://www.youtube.com/watch?v=ToJLcBd4U-c)
+- [Aaron Stannard - Backpressure Explained](https://www.youtube.com/watch?v=0KYoIvrM9VY)
+- [Jannik Buschke - F# event sourcing with Marten](https://www.jannikbuschke.de/blog/fsharp-marten/)
+- [Sergio Pedri - PolySharp - provides generated, source-only polyfills for C# language features, to easily use all runtime-agnostic features downlevel](https://github.com/Sergio0694/PolySharp)
 - [Jeremy D. Miller - Wolverine’s New HTTP Endpoint Model](https://jeremydmiller.com/2023/02/14/wolverines-new-http-endpoint-model/)
 - [Laurent Kempé - Refactoring huge C# code base in minutes ](https://laurentkempe.com/2023/02/20/refactoring-huge-csharp-code-base-in-minutes/)
 - [Jean-Pierre Seini - Route handler filters in .NET 7](https://www.alwaysdeveloping.net/dailydrop/2022/08/24-route-filter/)
@@ -2059,6 +2079,7 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [Matt Butcher, Radu Matei - The Six Ways of Optimizing WebAssembly](https://www.infoq.com/articles/six-ways-optimize-webassembly/)
 - [MDN - Web Assembly docs](https://developer.mozilla.org/en-US/docs/WebAssembly)
 - [Fastly - Compute@Edge](https://docs.fastly.com/products/compute-at-edge)
 - [Vercel - Introducing support for WebAssembly at the Edge](https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge)
@@ -2077,6 +2098,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Minko Gechev - leetcode problems I solved to prepare for my Google interview](https://github.com/mgechev/google-interview-preparation-problems)
 - [Mark Seemann - A thought on workplace flexibility and asynchrony](https://blog.ploeh.dk/2023/02/20/a-thought-on-workplace-flexibility-and-asynchrony/)
 - [Rachel Andrew - Technical writing resources](https://rachelandrew.co.uk/archives/2023/01/28/technical-writing-resources/)
 - [Corecursive Podcast - Shipping Graphing Calculator With Ron Avitzur](https://corecursive.com/shipping-graphing-calculator/)
@@ -2281,6 +2303,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Jason Yip - My critique of “the Spotify Model”](https://jchyip.medium.com/my-critique-of-the-spotify-model-part-1-197d335ef7af)
+- [Henrik Ståhl - The Scrum Fallacy](https://bootcamp.uxdesign.cc/scrum-is-just-as-bad-as-safe-ac4f1d0f1193)
 - [Christine Porath and Adrienne Boissy - Practice Empathy as a Team](https://hbr.org/2023/02/practice-empathy-as-a-team)
 - [Andy Hunt - Why Are There So Many Misconceptions Around Agile?](https://toolshed.com/articles/2020-11-20-AgileMisconceptions.html)
 - [Ruth Malan - Technical Leadership Masterclass](https://ruthmalan.com/leadership/20221031TechnicalLeadership.pdf)
@@ -2458,6 +2482,7 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
 ## JavaScript
+- [Oskar Dudycz - Fun with serial JSON](https://event-driven.io/en/fun_with_json_serialisation/?utm_source=architecture_weekly)
 - [TC39 - ECMAScript proposal: Type Annotations](https://github.com/tc39/proposal-type-annotations)    
 - [David Whitney - Test Driven Development in JavaScript – writing tests that don’t suck!](https://www.youtube.com/watch?v=D7LKslgwxmQ)
 - [Gil Tayar - Typed JavaScript? For real? The type annotations proposal and what it’s all about](https://www.youtube.com/watch?v=8EXuuLtYFY0)
@@ -2608,6 +2633,7 @@
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
 
 ## Python
+- [RaySQL - Distributed SQL Query Engine in Python using Ray](https://github.com/datafusion-contrib/ray-sql)
 - [Vega-Altair - Declarative Visualization in Python](https://altair-viz.github.io/)
 - [Szymon Miks - The outbox pattern in python](https://blog.szymonmiks.pl/p/the-outbox-pattern-in-python/)
 - [Cory Benfield - Building Protocol Libraries The Right Way](https://www.youtube.com/watch?v=7cC3_jGwl_U)
@@ -2654,6 +2680,7 @@
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
 
 ## Scala
+- [MOIA Engineering - How to use a Rust lib inside the Scala app](https://moiadev.medium.com/how-to-use-a-rust-lib-inside-the-scala-app-932637c47784)
 - [Scala - Scala Developer Survey 2022 Results](https://scala-lang.org/blog/2022/12/14/scala-developer-survey-results-2022.html)
 - [Adam Warski - Implementing Raft using a functional effect system](https://softwaremill.com/implementing-raft-using-a-functional-effect-system/)
 - [Jakub Cichy - Hands-on Kafka Streams in Scala](https://softwaremill.com/hands-on-kafka-streams-in-scala/)
@@ -2665,6 +2692,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Hired - 2023 State of Software Engineers](https://pages.hired.email/rs/289-SIY-439/images/Hired_2023%20State%20of%20Software%20Engineers.pdf)
+- [Divya Mohan - The DevRel influencer trend. And why DevRel != tech influencer.](https://divya-mohan0209.medium.com/the-devrel-influencer-trend-a6e8d618683e)
 - [Denis Pushkarev - core-js So, what's next?](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md)
 - [CNBC - Three decades after inventing the web, Tim Berners-Lee has some ideas on how to fix it](https://www.youtube.com/watch?v=DBB_LMepuQ4)
 - [ComputerWorld.com - Amazon denies claims hiring freeze is slowing AWS sustainability work](https://www.computerweekly.com/news/365531874/Amazon-denies-claims-hiring-freeze-is-slowing-AWS-sustainability-work)
