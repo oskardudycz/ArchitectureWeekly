@@ -58,6 +58,18 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - How to model event-sourced systems efficiently](https://www.youtube.com/watch?v=gG6DGmYKk4I)
+- [Natan Silnitsky - How Wix Accelerated Open Platform Dev with Standardized APIs & Schemas](https://medium.com/wix-engineering/how-wix-accelerated-open-platform-dev-with-standardized-apis-schemas-e4fbbf25f5d8)
+- [Joel Spolsky - The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
+- [Greg Young - The Bizarre Mating Ritual Of The Whipnose Seadevil](https://www.youtube.com/watch?v=gpam7RGPFk8)
+- [Richard I. Cook - How Complex Systems Fail](https://how.complexsystems.fail/)
+- [Michael Feathers - Unconditional Code](https://www.youtube.com/watch?v=AnZ0uTOerUI)
+- [The New Stack - How Discord Migrated Trillions of Messages to ScyllaDB](https://thenewstack.io/how-discord-migrated-trillions-of-messages-to-scylladb/)
+- [Discord - How Discord Supercharges Network Disks for Extreme Low Latency](https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency)
+- [Discord - How Discord Stores Billions of Messages](https://discord.com/blog/how-discord-stores-billions-of-messages)
+- [Manas Chaudhari, Piyush Gupta - Building Pubsub for 50M concurrent socket connections](https://blog.hotstar.com/building-pubsub-for-50m-concurrent-socket-connections-5506e3c3dabf)
+- [Fran Mendez - Designing Event-Driven Architectures Using the AsyncAPI Specification](https://www.infoq.com/presentations/event-driven-asyncapi)
+- [checkcheckzz - System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview)
 - [Jean-Philippe Dutrève - Messaging Patterns : Flow, SAGA, Messaging Gateway and Observability With RabbitMQ Exchange to Exchange Bindings](https://jdutreve.medium.com/a-java-implementation-of-integrated-microservices-aka-the-ambassador-architecture-3999fa313318)
 - [Solace - Results from the Industry's First Event-Driven Architecture Survey](https://solace.com/event-driven-architecture-statistics)
 - [Alan Kay - Power of Simplicity](https://www.youtube.com/watch?v=NdSD07U5uBs)
@@ -1205,6 +1217,7 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [eBay - API Evolution Is a Challenge. Could Contract Testing Be the Solution?](https://tech.ebayinc.com/engineering/api-evolution-with-confidence-a-case-study-of-contract-testing-adoption-at-ebay/)
 - [Netflix - How Netflix Scales its API with GraphQL Federation (Part 1)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2)
 - [Microsoft - Describing a real API with Cadl: The Moostodon story](https://devblogs.microsoft.com/azure-sdk/describing-a-real-api-with-cadl-the-moostodon-story/)
 - [Asbjørn Ulsberg - REST State Machine Revisited](https://nordicapis.com/rest-state-machine-revisited/)
@@ -1409,6 +1422,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Intelligencer - You Are Not a Parrot And a chatbot is not a human. And a linguist named Emily M. Bender is very worried what will happen when we forget this](https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html)
 - [OpenAI - Introducing ChatGPT and Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
 - [Corecursive Podcast - The History and Mystery Of Eliza With Jeff Shrager](https://corecursive.com/eliza-with-jeff-shrager/)
 - [Petar Veličković - Everything is Connected: Graph Neural Networks](https://arxiv.org/abs/2301.08210)
@@ -1464,6 +1478,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [AWS - Understanding Amazon SQS and AWS Lambda Event Source Mapping for Efficient Message Processing](https://aws.amazon.com/pt/blogs/apn/understanding-amazon-sqs-and-aws-lambda-event-source-mapping-for-efficient-message-processing)
 - [Andy Blackledge - Enterprise Integration Patterns with Serverless and CDK](https://aws.hashnode.com/enterprise-integration-patterns-with-serverless-and-cdk)
 - [Lee Gilmore - Serverless AWS CDK Pipeline Best Practices & Patterns — Part 1](https://blog.serverlessadvocate.com/serverless-aws-cdk-pipeline-best-practices-patterns-part-1-ab80962f109d)
 - [Robert Bulmer - Storage-First pattern in AWS with API Gateway, Part 1: using S3](https://awstip.com/storage-first-pattern-in-aws-with-api-gateway-part-1-using-s3-216e20b08353)
@@ -1546,6 +1561,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - How to handle multiple commands in the same transaction](https://event-driven.io/en/simple_transactional_command_orchestration/?utm_source=architecture_weekly)
+- [Stephen Cleary - There Is No Thread](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)
+- [LEGO - The AsyncAPI.NET SDK contains a useful object model for AsyncAPI documents in .NET](https://github.com/LEGO/AsyncAPI.NET)
+- [Damian Edwards, David Fowler - Why your ASP.NET Core application won't scale](https://www.youtube.com/watch?v=J-xqz_ZM9Wg)
 - [.NET Frontend Day 2023 - Full conference recording](https://www.youtube.com/watch?v=ToJLcBd4U-c)
 - [Aaron Stannard - Backpressure Explained](https://www.youtube.com/watch?v=0KYoIvrM9VY)
 - [Jannik Buschke - F# event sourcing with Marten](https://www.jannikbuschke.de/blog/fsharp-marten/)
@@ -2098,6 +2117,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Markus Voelter - On the drawbacks of standard templates, process and ceremony](https://www.linkedin.com/pulse/drawbacks-standard-templates-process-ceremony-markus-voelter/)
 - [Minko Gechev - leetcode problems I solved to prepare for my Google interview](https://github.com/mgechev/google-interview-preparation-problems)
 - [Mark Seemann - A thought on workplace flexibility and asynchrony](https://blog.ploeh.dk/2023/02/20/a-thought-on-workplace-flexibility-and-asynchrony/)
 - [Rachel Andrew - Technical writing resources](https://rachelandrew.co.uk/archives/2023/01/28/technical-writing-resources/)
@@ -2303,6 +2323,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Trond Hjorteland - Agile is not working: the IT industry is a “patchwork of contradictions and confusions”](https://www.linkedin.com/pulse/agile-working-industry-patchwork-contradictions-trond-hjorteland)
 - [Jason Yip - My critique of “the Spotify Model”](https://jchyip.medium.com/my-critique-of-the-spotify-model-part-1-197d335ef7af)
 - [Henrik Ståhl - The Scrum Fallacy](https://bootcamp.uxdesign.cc/scrum-is-just-as-bad-as-safe-ac4f1d0f1193)
 - [Christine Porath and Adrienne Boissy - Practice Empathy as a Team](https://hbr.org/2023/02/practice-empathy-as-a-team)
@@ -2394,6 +2415,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Michael Redlich - JDK 20 and JDK 21: What We Know So Far](https://www.infoq.com/news/2023/03/java-20-so-far/)
 - [Thorben Janssen - Java Records as Embeddables with Hibernate 6](https://thorben-janssen.com/java-records-embeddables-hibernate/)
 - [Cédric Champeau - Gradle’s flexibility in action](https://melix.github.io/blog//2023/gradle-synthetic-projects.html)
 - [Mike Roberts - AWS Lambda SnapStart - What, and Why](https://blog.symphonia.io/posts/2023-01-11_snapstart-what-why)
@@ -2506,6 +2528,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [io-ts - Runtime type system for IO decoding/encoding](https://gcanti.github.io/io-ts/)
 - [TypeScript Deep Dive - Nominal Typing](https://basarat.gitbook.io/typescript/main-1/nominaltyping)
 - [Matt Pocock - Don't use Function type in TypeScript](https://www.totaltypescript.com/dont-use-function-keyword-in-typescript)
 - [Andrey Starovoyt - Behind the Scenes: Discussing One of the Most Interesting TypeScript 4.9 Features](https://www.youtube.com/watch?v=iGytn1dzXZ4)
@@ -2534,6 +2557,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [AVA - Node.js test runner that lets you develop with confidence](https://github.com/avajs/ava)
 - [Immutable - Immutable collections for JavaScript](https://immutable-js.com/)
 - [pgwire - PostgreSQL client library for Deno and Node.js that exposes all features of wire protocol](https://github.com/kagis/pgwire)
 - [State of JS 2022](https://2022.stateofjs.com)
@@ -2680,6 +2704,7 @@
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
 
 ## Scala
+- [Adam Warski - Effects: To Be Or Not To Be](https://www.youtube.com/watch?v=sDnNjtkoUV)
 - [MOIA Engineering - How to use a Rust lib inside the Scala app](https://moiadev.medium.com/how-to-use-a-rust-lib-inside-the-scala-app-932637c47784)
 - [Scala - Scala Developer Survey 2022 Results](https://scala-lang.org/blog/2022/12/14/scala-developer-survey-results-2022.html)
 - [Adam Warski - Implementing Raft using a functional effect system](https://softwaremill.com/implementing-raft-using-a-functional-effect-system/)
@@ -2692,6 +2717,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Lian Buan - Insidious, expensive: The massive, hidden cost of keeping women offline](https://www.rappler.com/newsbreak/in-depth/massive-hidden-cost-keeping-women-offline-digital-gender-divide/)
+- [The Verge - Microsoft makes Outlook for Mac free to use](https://www.theverge.com/2023/3/6/23626922/microsoft-outlook-mac-free-app)
+- [XDA - HP blocks third-party ink with new firmware update](https://www.xda-developers.com/hp-blocks-third-party-ink/)
 - [Hired - 2023 State of Software Engineers](https://pages.hired.email/rs/289-SIY-439/images/Hired_2023%20State%20of%20Software%20Engineers.pdf)
 - [Divya Mohan - The DevRel influencer trend. And why DevRel != tech influencer.](https://divya-mohan0209.medium.com/the-devrel-influencer-trend-a6e8d618683e)
 - [Denis Pushkarev - core-js So, what's next?](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md)
@@ -3154,6 +3182,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Bramus Van Damme - YAML: The Norway Problem](https://www.bram.us/2022/01/11/yaml-the-norway-problem/)
 - [Infinite-Storage-Glitch - Lets you use YouTube as cloud storage for ANY files, not just video ](https://github.com/DvorakDwarf/Infinite-Storage-Glitch)
 - [Heather Murray - Transactional Analysis - Eric Berne](https://www.simplypsychology.org/transactional-analysis-eric-berne.html)
 - [Nick Cave - Chat GPT. What do you think?](https://www.theredhandfiles.com/chat-gpt-what-do-you-think/)
