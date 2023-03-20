@@ -58,6 +58,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Levels.fyi - How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html)
+- [Patrick McKenzie - The infrastructure behind ATMs](https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/)
+- [Jacopo Romei - EventStorming from the trenches](https://www.youtube.com/watch?v=viJfh8ayTvc)
+- [Barry O'Reilly - An Introduction to Residuality Theory](https://www.youtube.com/watch?v=MZytZW_k-9Y)
+- [StackOverflow Blog - After the buzz fades: What our data tells us about emerging technology sentiment](https://stackoverflow.blog/2023/03/09/after-the-buzz-fades-what-our-data-tells-us-about-emerging-technology-sentiment/)
+- [Paolo Banfi - EventSourcing & CQRS: a light introduction](https://www.youtube.com/watch?v=nwzxyfsubyM)
 - [Oskar Dudycz - How to model event-sourced systems efficiently](https://www.youtube.com/watch?v=gG6DGmYKk4I)
 - [Natan Silnitsky - How Wix Accelerated Open Platform Dev with Standardized APIs & Schemas](https://medium.com/wix-engineering/how-wix-accelerated-open-platform-dev-with-standardized-apis-schemas-e4fbbf25f5d8)
 - [Joel Spolsky - The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
@@ -907,6 +913,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Charity Majors - Deploys Are the WRONG Way to Change User Experience](https://www.honeycomb.io/blog/deploys-wrong-way-change-user-experience)
 - [Kacper Gunia - Organizing VCS Repositories by Domain: An Effective Alternative for Mono and Multi Repos](https://domaincentric.net/blog/organizing-vcs-repositories-by-domain)
 - [Gitlab CI Local - Run gitlab pipelines locally as shell executor or docker executor](https://github.com/firecow/gitlab-ci-local)
 - [Spotify - Everything you need to know about Backstage with a guide to take you step-by-step](https://backstage.spotify.com/learn/)
@@ -1163,6 +1170,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Mike Bland - Test Mercenaries](https://mike-bland.com/2012/07/10/test-mercenaries.html)
 - [Josh Armitage - Serverless Testing, Local Considered Harmful? True Cloud Native Testing](https://medium.com/contino-engineering/serverless-testing-local-considered-harmful-cf6d3f940d36)
 - [Andrzej Krzywda - Unit tests vs class tests](https://blog.arkency.com/2014/09/unit-tests-vs-class-tests/)
 - [Urs Enzler - TDD Perspectives: Trade-offs and impact of functional programming](https://www.youtube.com/watch?v=JcKLqX8wuR4)
@@ -1253,6 +1261,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Gunnar Morling - The Wonders of Postgres Logical Decoding Messages](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/)
+- [Gwen Shapira - Things DBs Don't Do - But Should](https://www.thenile.dev/blog/things-dbs-dont-do)
+- [Philip O'Toole - 9 years of open-source database development](https://www.philipotoole.com/9-years-of-open-source-database-development-the-design-docs)
 - [DataStax - ACID Transactions Are Coming To Apache Cassandra: Here's Why We're Excited](https://hackernoon.com/acid-transactions-are-coming-to-apache-cassandra-heres-why-were-excited)
 - [Vlad Mihalcea - YugabyteDB Architecture](https://vladmihalcea.com/yugabytedb-architecture/)
 - [United States PostgreSQL Association - PGConf NYC 2022](https://www.youtube.com/playlist?app=desktop&list=PLiT-kUSX8USXMSdIeV9QZTrem57h_Ksut)
@@ -1422,6 +1433,8 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Google - A new era for AI and Google Workspace](https://workspace.google.com/blog/product-announcements/generative-ai)
+- [InfoQ - Google AI Updates Universal Speech Model to Scale Automatic Speech Recognition beyond 100 Languages](https://www.infoq.com/news/2023/03/google-ai-usm)
 - [Intelligencer - You Are Not a Parrot And a chatbot is not a human. And a linguist named Emily M. Bender is very worried what will happen when we forget this](https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html)
 - [OpenAI - Introducing ChatGPT and Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
 - [Corecursive Podcast - The History and Mystery Of Eliza With Jeff Shrager](https://corecursive.com/eliza-with-jeff-shrager/)
@@ -1478,6 +1491,8 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Zied Ben Tahar - Building an AI powered and Serverless meal planner with OpenAI, AWS Step functions, AWS Lambda and CDK](https://levelup.gitconnected.com/building-an-ai-powered-and-serverless-meal-planner-with-openai-aws-step-functions-aws-lambda-ce45c45794cc)
+- [AWS - EKS Workshop - Practical exercises to learn about Amazon Elastic Kubernetes Service](https://www.eksworkshop.com/)
 - [AWS - Understanding Amazon SQS and AWS Lambda Event Source Mapping for Efficient Message Processing](https://aws.amazon.com/pt/blogs/apn/understanding-amazon-sqs-and-aws-lambda-event-source-mapping-for-efficient-message-processing)
 - [Andy Blackledge - Enterprise Integration Patterns with Serverless and CDK](https://aws.hashnode.com/enterprise-integration-patterns-with-serverless-and-cdk)
 - [Lee Gilmore - Serverless AWS CDK Pipeline Best Practices & Patterns — Part 1](https://blog.serverlessadvocate.com/serverless-aws-cdk-pipeline-best-practices-patterns-part-1-ab80962f109d)
@@ -1561,6 +1576,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - Projecting Marten events to Elasticsearch](https://event-driven.io/en/projecting_from_marten_to_elasticsearch/)
+- [Stephen Toub - How Async/Await Really Works in C#](https://devblogs.microsoft.com/dotnet/how-async-await-really-works/)
+- [João Antunes - Mapping ASP.NET Core minimal API endpoints with C# source generators](https://blog.codingmilitia.com/2023/01/31/mapping-aspnet-core-minimal-api-endpoints-with-csharp-source-generators/)
+- [Steve Gordon - An Introduction to Elasticsearch for .NET Developers](https://www.youtube.com/watch?v=_mbsMKymGjk)
+- [Steven Giesel - How to write your own cron Job scheduler in ASP.NET Core (like Quartz, Hangfire, ...)](https://steven-giesel.com/blogPost/fb1ce2ab-dd27-43ed-aaab-077adf2d15cd)
 - [Oskar Dudycz - How to handle multiple commands in the same transaction](https://event-driven.io/en/simple_transactional_command_orchestration/?utm_source=architecture_weekly)
 - [Stephen Cleary - There Is No Thread](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)
 - [LEGO - The AsyncAPI.NET SDK contains a useful object model for AsyncAPI documents in .NET](https://github.com/LEGO/AsyncAPI.NET)
@@ -2117,6 +2137,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [David Golden - How to mentor software engineers](https://xdg.me/mentor-engineers/)
 - [Markus Voelter - On the drawbacks of standard templates, process and ceremony](https://www.linkedin.com/pulse/drawbacks-standard-templates-process-ceremony-markus-voelter/)
 - [Minko Gechev - leetcode problems I solved to prepare for my Google interview](https://github.com/mgechev/google-interview-preparation-problems)
 - [Mark Seemann - A thought on workplace flexibility and asynchrony](https://blog.ploeh.dk/2023/02/20/a-thought-on-workplace-flexibility-and-asynchrony/)
@@ -2323,6 +2344,9 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Aino Corry - Retrospectives Antipatterns](https://martinfowler.com/articles/retrospective-antipatterns.html)
+- [Trond Hjorteland - Sociotechnical Systems Design for the “Digital Coal Mines”](https://www.youtube.com/watch?v=E_arLvvv7hA)
+- [Harvard Business Review - How Chinese Companies Are Reinventing Management](https://hbr.org/2023/03/how-chinese-companies-are-reinventing-management)
 - [Trond Hjorteland - Agile is not working: the IT industry is a “patchwork of contradictions and confusions”](https://www.linkedin.com/pulse/agile-working-industry-patchwork-contradictions-trond-hjorteland)
 - [Jason Yip - My critique of “the Spotify Model”](https://jchyip.medium.com/my-critique-of-the-spotify-model-part-1-197d335ef7af)
 - [Henrik Ståhl - The Scrum Fallacy](https://bootcamp.uxdesign.cc/scrum-is-just-as-bad-as-safe-ac4f1d0f1193)
@@ -2504,6 +2528,7 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
 ## JavaScript
+- [Jason Godesky - When JavaScript Fails](https://scribe.rip/@jason.godesky/when-javascript-fails-52eef47e90db)
 - [Oskar Dudycz - Fun with serial JSON](https://event-driven.io/en/fun_with_json_serialisation/?utm_source=architecture_weekly)
 - [TC39 - ECMAScript proposal: Type Annotations](https://github.com/tc39/proposal-type-annotations)    
 - [David Whitney - Test Driven Development in JavaScript – writing tests that don’t suck!](https://www.youtube.com/watch?v=D7LKslgwxmQ)
@@ -2528,6 +2553,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Microsoft - Announcing TypeScript 5.0](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/)
 - [io-ts - Runtime type system for IO decoding/encoding](https://gcanti.github.io/io-ts/)
 - [TypeScript Deep Dive - Nominal Typing](https://basarat.gitbook.io/typescript/main-1/nominaltyping)
 - [Matt Pocock - Don't use Function type in TypeScript](https://www.totaltypescript.com/dont-use-function-keyword-in-typescript)
@@ -2717,6 +2743,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Gergely Orosz - The Collapse of Silicon Valley Bank](https://newsletter.pragmaticengineer.com/p/the-collapse-of-silicon-valley-bank)
+- [Gergely Orosz - Amazon doubling down on RTO (return to office)](https://blog.pragmaticengineer.com/amazon-return-to-office/)
+- [OnVoard - Our production servers was suspended by Google Cloud](https://www.onvoard.com/blog/our-production-servers-was-suspended-by-google-cloud)
 - [Lian Buan - Insidious, expensive: The massive, hidden cost of keeping women offline](https://www.rappler.com/newsbreak/in-depth/massive-hidden-cost-keeping-women-offline-digital-gender-divide/)
 - [The Verge - Microsoft makes Outlook for Mac free to use](https://www.theverge.com/2023/3/6/23626922/microsoft-outlook-mac-free-app)
 - [XDA - HP blocks third-party ink with new firmware update](https://www.xda-developers.com/hp-blocks-third-party-ink/)
