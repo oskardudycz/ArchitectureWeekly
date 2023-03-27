@@ -58,6 +58,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Kevin Grüneberg - Migrating 125.000 users from Auth0 to Supabase](https://kevcodez.medium.com/migrating-125-000-users-from-auth0-to-supabase-81c0568de307)
+- [Vladik Khononov - Untangling Microservices, or Balancing Complexity in Distributed Systems](https://vladikk.com/2020/04/09/untangling-microservices/)
+- [Derek Comartin - The Challenge of Microservices: UI Composition](https://codeopinion.com/the-challenge-of-microservices-ui-composition/)
+- [George Candea, Armando Fox - Crash-Only Software](https://dslab.epfl.ch/pubs/crashonly.pdf)
+- [Ryan Marsh - Event Storm to Production Supergraph: a Domain-Driven Design Approach to GraphQL](https://www.xolv.io/blog/articles/event-storm-to-production-supergraph-a-domain-driven-design-approach-to-graphql/)
+- [Rocco Scaramuzzi - Event-Driven Microservice Architecture, don’t use only events but use commands too!](https://medium.com/rocco-scaramuzzi-tech/event-driven-microservice-architecture-dont-use-only-events-but-use-commands-too-b8694d370436)
+- [Tomek Stolarczyk - Design Level Event Storming with examples!](https://mrpicky.dev/design-level-event-storming-with-examples/)
+- [Artur Wojnar - Why make a decomposition of the monolith database?](https://arturwojnar.dev/why-make-a-decomposition-of-the-monolith-database-f91aea41af6c)
+- [The TOGAF standard - a framework for Enterprise Architecture](https://pubs.opengroup.org/architecture/togaf92-doc/arch/)
 - [Levels.fyi - How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html)
 - [Patrick McKenzie - The infrastructure behind ATMs](https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/)
 - [Jacopo Romei - EventStorming from the trenches](https://www.youtube.com/watch?v=viJfh8ayTvc)
@@ -913,6 +922,10 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Docker - We apologize. We did a terrible job announcing the end of Docker Free Teams.](https://www.docker.com/blog/we-apologize-we-did-a-terrible-job-announcing-the-end-of-docker-free-teams/)
+- [Alex Ellis - Docker is deleting Open Source organisations - what you need to know](https://blog.alexellis.io/docker-is-deleting-open-source-images/)
+- [John Reilly - Lighthouse meet GitHub Actions](https://johnnyreilly.com/lighthouse-meet-github-actions)
+- [GitHub - We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 - [Charity Majors - Deploys Are the WRONG Way to Change User Experience](https://www.honeycomb.io/blog/deploys-wrong-way-change-user-experience)
 - [Kacper Gunia - Organizing VCS Repositories by Domain: An Effective Alternative for Mono and Multi Repos](https://domaincentric.net/blog/organizing-vcs-repositories-by-domain)
 - [Gitlab CI Local - Run gitlab pipelines locally as shell executor or docker executor](https://github.com/firecow/gitlab-ci-local)
@@ -1062,6 +1075,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Miško Hevery - Signals vs. Observables, what's all the fuss about?](https://www.builder.io/blog/signals-vs-observables)
 - [Juntao QIU - Modularizing React Applications with Established UI Patterns](https://martinfowler.com/articles/modularizing-react-apps.html)
 - [Honeypot - React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)
 - [AWS - Micro Frontends on AWS](https://github.com/aws-samples/micro-frontends-on-aws)
@@ -1433,6 +1447,11 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Stephen Wolfram - What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+- [The Verge - OpenAI co-founder on company’s past approach to openly sharing research: ‘We were wrong’](https://www.theverge.com/2023/3/15/23640180/openai-gpt-4-launch-closed-research-ilya-sutskever-interview)
+- [Ted Neward - AI-generated Applications](http://blogs.newardassociates.com/blog/2023/ai-writing-code.html)
+- [David Boyne - Implementing an event-driven serverless story generation application with ChatGPT and DALL-E](https://aws.amazon.com/blogs/compute/implementing-an-event-driven-serverless-story-generation-application-with-chatgpt-and-dall-e/)
+- [GitHub - GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience)
 - [Google - A new era for AI and Google Workspace](https://workspace.google.com/blog/product-announcements/generative-ai)
 - [InfoQ - Google AI Updates Universal Speech Model to Scale Automatic Speech Recognition beyond 100 Languages](https://www.infoq.com/news/2023/03/google-ai-usm)
 - [Intelligencer - You Are Not a Parrot And a chatbot is not a human. And a linguist named Emily M. Bender is very worried what will happen when we forget this](https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html)
@@ -1576,6 +1595,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - Ensuring uniqueness in Marten event store](https://event-driven.io/en/unique_constraint_in_marten_event_store/?utm_source=architecture_weekly)
+- [Steve Sanderson - DotNetIsolator: an experimental package for running .NET code in an isolated sandbox](https://www.youtube.com/watch?v=5u1UaqkPZbg)
+- [Meysam Hadeli - Problem Details in .Net 7](https://meysamhadeli.com/problem-details-in-dotnet-7)
+- [Andrew Lock - Understanding the .NET ecosystem: The evolution of .NET into .NET 7](https://andrewlock.net/understanding-the-dotnet-ecosystem-the-evolution-of-dotnet-into-dotnet-7/)
 - [Oskar Dudycz - Projecting Marten events to Elasticsearch](https://event-driven.io/en/projecting_from_marten_to_elasticsearch/)
 - [Stephen Toub - How Async/Await Really Works in C#](https://devblogs.microsoft.com/dotnet/how-async-await-really-works/)
 - [João Antunes - Mapping ASP.NET Core minimal API endpoints with C# source generators](https://blog.codingmilitia.com/2023/01/31/mapping-aspnet-core-minimal-api-endpoints-with-csharp-source-generators/)
@@ -2118,6 +2141,7 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [The NewStack - WebAssembly: 5 Predictions for 2023](https://thenewstack.io/webassembly-5-predictions-for-2023/)
 - [Matt Butcher, Radu Matei - The Six Ways of Optimizing WebAssembly](https://www.infoq.com/articles/six-ways-optimize-webassembly/)
 - [MDN - Web Assembly docs](https://developer.mozilla.org/en-US/docs/WebAssembly)
 - [Fastly - Compute@Edge](https://docs.fastly.com/products/compute-at-edge)
@@ -2137,6 +2161,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Dave Anderson - 10 Traits of Successful Junior Software Engineer](https://www.scarletink.com/10-traits-of-successful-junior-software-engineers/)
 - [David Golden - How to mentor software engineers](https://xdg.me/mentor-engineers/)
 - [Markus Voelter - On the drawbacks of standard templates, process and ceremony](https://www.linkedin.com/pulse/drawbacks-standard-templates-process-ceremony-markus-voelter/)
 - [Minko Gechev - leetcode problems I solved to prepare for my Google interview](https://github.com/mgechev/google-interview-preparation-problems)
@@ -2344,6 +2369,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Jeff Paton - The New User Story Backlog is a Map](https://www.jpattonassociates.com/the-new-backlog/)
+- [Brent M. Jensen - The Combined Engineering Software Model](https://testastic.wordpress.com/2016/01/03/the-combined-engineering-software-model/)
 - [Aino Corry - Retrospectives Antipatterns](https://martinfowler.com/articles/retrospective-antipatterns.html)
 - [Trond Hjorteland - Sociotechnical Systems Design for the “Digital Coal Mines”](https://www.youtube.com/watch?v=E_arLvvv7hA)
 - [Harvard Business Review - How Chinese Companies Are Reinventing Management](https://hbr.org/2023/03/how-chinese-companies-are-reinventing-management)
@@ -2583,6 +2610,10 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [LogRocket - WebSockets tutorial: How to go real-time with Node and React](https://blog.logrocket.com/websocket-tutorial-real-time-node-react/)
+- [Jamie Munro - How to Make a Real-Time Sports Application Using Node.js](https://code.tutsplus.com/tutorials/real-time-sports-application-using-nodejs--cms-30594)
+- [Node Distributed Lock - Enables distributed locking for sequencing actions across node applications](https://github.com/ndustrialio/node-distributed-lock)
+- [Colin Diesh - You may not need a bundler for your NPM library](https://cmdcolin.github.io/posts/2022-05-27-youmaynotneedabundler)
 - [AVA - Node.js test runner that lets you develop with confidence](https://github.com/avajs/ava)
 - [Immutable - Immutable collections for JavaScript](https://immutable-js.com/)
 - [pgwire - PostgreSQL client library for Deno and Node.js that exposes all features of wire protocol](https://github.com/kagis/pgwire)
@@ -3211,6 +3242,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Marcus Raitner - On the Wise Use of Our Insultingly Short Lifespan](https://raitner.de/en/2023/02/on-the-wise-use-of-our-insultingly-short-lifespan/)
 - [Bramus Van Damme - YAML: The Norway Problem](https://www.bram.us/2022/01/11/yaml-the-norway-problem/)
 - [Infinite-Storage-Glitch - Lets you use YouTube as cloud storage for ANY files, not just video ](https://github.com/DvorakDwarf/Infinite-Storage-Glitch)
 - [Heather Murray - Transactional Analysis - Eric Berne](https://www.simplypsychology.org/transactional-analysis-eric-berne.html)

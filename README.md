@@ -24,6 +24,66 @@ There are two rules:
 
 ---
 
+## [27th March 2023](per-week/2023-03-27.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
+
+---
+
+### Architecture
+- [Kevin Grüneberg - Migrating 125.000 users from Auth0 to Supabase](https://kevcodez.medium.com/migrating-125-000-users-from-auth0-to-supabase-81c0568de307)
+- [Vladik Khononov - Untangling Microservices, or Balancing Complexity in Distributed Systems](https://vladikk.com/2020/04/09/untangling-microservices/)
+- [Derek Comartin - The Challenge of Microservices: UI Composition](https://codeopinion.com/the-challenge-of-microservices-ui-composition/)
+- [George Candea, Armando Fox - Crash-Only Software](https://dslab.epfl.ch/pubs/crashonly.pdf)
+- [Ryan Marsh - Event Storm to Production Supergraph: a Domain-Driven Design Approach to GraphQL](https://www.xolv.io/blog/articles/event-storm-to-production-supergraph-a-domain-driven-design-approach-to-graphql/)
+- [Rocco Scaramuzzi - Event-Driven Microservice Architecture, don’t use only events but use commands too!](https://medium.com/rocco-scaramuzzi-tech/event-driven-microservice-architecture-dont-use-only-events-but-use-commands-too-b8694d370436)
+- [Tomek Stolarczyk - Design Level Event Storming with examples!](https://mrpicky.dev/design-level-event-storming-with-examples/)
+- [Artur Wojnar - Why make a decomposition of the monolith database?](https://arturwojnar.dev/why-make-a-decomposition-of-the-monolith-database-f91aea41af6c)
+- [The TOGAF standard - a framework for Enterprise Architecture](https://pubs.opengroup.org/architecture/togaf92-doc/arch/)
+
+### DevOps
+- [Docker - We apologize. We did a terrible job announcing the end of Docker Free Teams.](https://www.docker.com/blog/we-apologize-we-did-a-terrible-job-announcing-the-end-of-docker-free-teams/)
+- [Alex Ellis - Docker is deleting Open Source organisations - what you need to know](https://blog.alexellis.io/docker-is-deleting-open-source-images/)
+- [John Reilly - Lighthouse meet GitHub Actions](https://johnnyreilly.com/lighthouse-meet-github-actions)
+- [GitHub - We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
+
+### Frontend
+- [Miško Hevery - Signals vs. Observables, what's all the fuss about?](https://www.builder.io/blog/signals-vs-observables)
+
+### AI
+- [Stephen Wolfram - What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+- [The Verge - OpenAI co-founder on company’s past approach to openly sharing research: ‘We were wrong’](https://www.theverge.com/2023/3/15/23640180/openai-gpt-4-launch-closed-research-ilya-sutskever-interview)
+- [Ted Neward - AI-generated Applications](http://blogs.newardassociates.com/blog/2023/ai-writing-code.html)
+- [David Boyne - Implementing an event-driven serverless story generation application with ChatGPT and DALL-E](https://aws.amazon.com/blogs/compute/implementing-an-event-driven-serverless-story-generation-application-with-chatgpt-and-dall-e/)
+- [GitHub - GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience)
+
+### .NET
+- [Oskar Dudycz - Ensuring uniqueness in Marten event store](https://event-driven.io/en/unique_constraint_in_marten_event_store/?utm_source=architecture_weekly)
+- [Steve Sanderson - DotNetIsolator: an experimental package for running .NET code in an isolated sandbox](https://www.youtube.com/watch?v=5u1UaqkPZbg)
+- [Meysam Hadeli - Problem Details in .Net 7](https://meysamhadeli.com/problem-details-in-dotnet-7)
+- [Andrew Lock - Understanding the .NET ecosystem: The evolution of .NET into .NET 7](https://andrewlock.net/understanding-the-dotnet-ecosystem-the-evolution-of-dotnet-into-dotnet-7/)
+
+### Node.js
+- [LogRocket - WebSockets tutorial: How to go real-time with Node and React](https://blog.logrocket.com/websocket-tutorial-real-time-node-react/)
+- [Jamie Munro - How to Make a Real-Time Sports Application Using Node.js](https://code.tutsplus.com/tutorials/real-time-sports-application-using-nodejs--cms-30594)
+- [Node Distributed Lock - Enables distributed locking for sequencing actions across node applications](https://github.com/ndustrialio/node-distributed-lock)
+- [Colin Diesh - You may not need a bundler for your NPM library](https://cmdcolin.github.io/posts/2022-05-27-youmaynotneedabundler)
+
+### WebAssembly
+- [The NewStack - WebAssembly: 5 Predictions for 2023](https://thenewstack.io/webassembly-5-predictions-for-2023/)
+
+### Coding Life
+- [Dave Anderson - 10 Traits of Successful Junior Software Engineer](https://www.scarletink.com/10-traits-of-successful-junior-software-engineers/)
+
+### Management
+- [Jeff Paton - The New User Story Backlog is a Map](https://www.jpattonassociates.com/the-new-backlog/)
+- [Brent M. Jensen - The Combined Engineering Software Model](https://testastic.wordpress.com/2016/01/03/the-combined-engineering-software-model/)
+
+### Trivia
+- [Marcus Raitner - On the Wise Use of Our Insultingly Short Lifespan](https://raitner.de/en/2023/02/on-the-wise-use-of-our-insultingly-short-lifespan/)
+
+---
+
 ## [20th March 2023](per-week/2023-03-20.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
