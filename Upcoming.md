@@ -7,3 +7,13 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ### Architecture
+- [Scott Mansfield - Caching at Netflix: The Hidden Microservice](https://www.youtube.com/watch?v=Rzdxgx3RC0Q)
+
+### AI
+- [Oskar Dudycz - ChatGPT, revolution or not?](https://event-driven.io/en/chat_gpt_revolution_or_not/?utm_source=architecture_weekly)
+
+### .NET
+- [Microsoft - API to provide the current system time](https://github.com/dotnet/runtime/issues/36617)
+
+### Coding Life
+- [Alexander Zeitler - I'm printing out websites - and why you might want to do it too](https://alexanderzeitler.com/articles/printing-out-websites/)
