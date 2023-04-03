@@ -58,6 +58,13 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Scott Mansfield - Caching at Netflix: The Hidden Microservice](https://www.youtube.com/watch?v=Rzdxgx3RC0Q)
+- [Troy Hunt - To Infinity and Beyond, with Cloudflare Cache Reserve](https://www.troyhunt.com/to-infinity-and-beyond-with-cloudflare-cache-reserve/)
+- [Grygoriy Gonchar - A Simple Framework for Architectural Decisions](https://www.infoq.com/articles/framework-architectural-decisions/)
+- [IcePanel - Architecture decision records (ADRs)](https://icepanel.io/blog/2023-03-29-architecture-decision-records-adrs)
+- [Microsoft - Microsoft Teams: Advantages of the new architecture](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-teams-advantages-of-the-new-architecture/ba-p/3775704)
+- [Zalando - Tech Radar](https://opensource.zalando.com/tech-radar/)
+- [Charity Majors - Architects, Anti-Patterns, and Organizational Fuckery](https://charity.wtf/2023/03/09/architects-anti-patterns-and-organizational-fuckery/)
 - [Kevin Grüneberg - Migrating 125.000 users from Auth0 to Supabase](https://kevcodez.medium.com/migrating-125-000-users-from-auth0-to-supabase-81c0568de307)
 - [Vladik Khononov - Untangling Microservices, or Balancing Complexity in Distributed Systems](https://vladikk.com/2020/04/09/untangling-microservices/)
 - [Derek Comartin - The Challenge of Microservices: UI Composition](https://codeopinion.com/the-challenge-of-microservices-ui-composition/)
@@ -922,6 +929,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Avdi Grimm - Reproducible Development with Containers - Free Online Course](https://graceful.dev/courses/devcontainers/)
 - [Docker - We apologize. We did a terrible job announcing the end of Docker Free Teams.](https://www.docker.com/blog/we-apologize-we-did-a-terrible-job-announcing-the-end-of-docker-free-teams/)
 - [Alex Ellis - Docker is deleting Open Source organisations - what you need to know](https://blog.alexellis.io/docker-is-deleting-open-source-images/)
 - [John Reilly - Lighthouse meet GitHub Actions](https://johnnyreilly.com/lighthouse-meet-github-actions)
@@ -1075,6 +1083,8 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Kent C. Dodds - React Server Components with Dan Abramov, Joe Savona](https://www.youtube.com/watch?v=h7tur48JSaw)
+- [The Prime Time - React is Holding Me Hostage!!!](https://www.youtube.com/watch?v=zi0ZspvoLuo)
 - [Miško Hevery - Signals vs. Observables, what's all the fuss about?](https://www.builder.io/blog/signals-vs-observables)
 - [Juntao QIU - Modularizing React Applications with Established UI Patterns](https://martinfowler.com/articles/modularizing-react-apps.html)
 - [Honeypot - React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)
@@ -1184,6 +1194,8 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Kamil Grzybek - Automated Tests: The Why](https://www.kamilgrzybek.com/blog/posts/automated-tests-the-why)
+- [Chelsea Troy - Testing: A Heuristic Hunting Conversation with Rebecca Wirfs-Brock](https://chelseatroy.com/2023/03/22/testing-a-heuristic-hunting-conversation-with-rebecca-wirfs-brock/)
 - [Mike Bland - Test Mercenaries](https://mike-bland.com/2012/07/10/test-mercenaries.html)
 - [Josh Armitage - Serverless Testing, Local Considered Harmful? True Cloud Native Testing](https://medium.com/contino-engineering/serverless-testing-local-considered-harmful-cf6d3f940d36)
 - [Andrzej Krzywda - Unit tests vs class tests](https://blog.arkency.com/2014/09/unit-tests-vs-class-tests/)
@@ -1239,6 +1251,7 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [Optic - Track your API changes without writing YAML by hand](https://www.useoptic.com/cli)
 - [eBay - API Evolution Is a Challenge. Could Contract Testing Be the Solution?](https://tech.ebayinc.com/engineering/api-evolution-with-confidence-a-case-study-of-contract-testing-adoption-at-ebay/)
 - [Netflix - How Netflix Scales its API with GraphQL Federation (Part 1)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2)
 - [Microsoft - Describing a real API with Cadl: The Moostodon story](https://devblogs.microsoft.com/azure-sdk/describing-a-real-api-with-cadl-the-moostodon-story/)
@@ -1275,6 +1288,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Google - Run AlloyDB anywhere - in your data center, your laptop, or in any cloud](https://cloud.google.com/blog/products/databases/run-alloydb-anywhere?trk=feed_main-feed-card_feed-article-content)
+- [Citus - Distributed PostgreSQL as an extension](https://github.com/citusdata/citus)
 - [Gunnar Morling - The Wonders of Postgres Logical Decoding Messages](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/)
 - [Gwen Shapira - Things DBs Don't Do - But Should](https://www.thenile.dev/blog/things-dbs-dont-do)
 - [Philip O'Toole - 9 years of open-source database development](https://www.philipotoole.com/9-years-of-open-source-database-development-the-design-docs)
@@ -1447,6 +1462,9 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Oskar Dudycz - ChatGPT, revolution or not?](https://event-driven.io/en/chat_gpt_revolution_or_not/?utm_source=architecture_weekly)
+- [ZeroHedge - Italy Bans OpenAI's ChatGPT Over Privacy Concerns](https://www.zerohedge.com/technology/italy-bans-openais-chatgpt-over-privacy-concerns)
+- [TechCrunch - Microsoft lays off an ethical AI team as it doubles down on OpenAI](https://techcrunch.com/2023/03/13/microsoft-lays-off-an-ethical-ai-team-as-it-doubles-down-on-openai)
 - [Stephen Wolfram - What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 - [The Verge - OpenAI co-founder on company’s past approach to openly sharing research: ‘We were wrong’](https://www.theverge.com/2023/3/15/23640180/openai-gpt-4-launch-closed-research-ilya-sutskever-interview)
 - [Ted Neward - AI-generated Applications](http://blogs.newardassociates.com/blog/2023/ai-writing-code.html)
@@ -1510,6 +1528,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [The Burning Monk - The Old Faithful: Why SSM Parameter Store still reigns over Secrets Manager](https://theburningmonk.com/2023/03/the-old-faithful-why-ssm-parameter-store-still-reigns-over-secrets-manager)
 - [Zied Ben Tahar - Building an AI powered and Serverless meal planner with OpenAI, AWS Step functions, AWS Lambda and CDK](https://levelup.gitconnected.com/building-an-ai-powered-and-serverless-meal-planner-with-openai-aws-step-functions-aws-lambda-ce45c45794cc)
 - [AWS - EKS Workshop - Practical exercises to learn about Amazon Elastic Kubernetes Service](https://www.eksworkshop.com/)
 - [AWS - Understanding Amazon SQS and AWS Lambda Event Source Mapping for Efficient Message Processing](https://aws.amazon.com/pt/blogs/apn/understanding-amazon-sqs-and-aws-lambda-event-source-mapping-for-efficient-message-processing)
@@ -1595,6 +1614,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Adam Furmanek - Implementing async with coroutines and fibers - project Loom in C#](https://www.youtube.com/watch?v=4JrrRaWMzQI)
+- [Conner Phillis - Sequential GUIDs in Entity Framework Core Might Not Be Sequential](https://dev.to/connerphillis/sequential-guids-in-entity-framework-core-might-not-be-sequential-3408)
+- [Microsoft - API to provide the current system time](https://github.com/dotnet/runtime/issues/36617)
+- [Cezary Piątek - WireMock.NET - Introduction](https://cezarypiatek.github.io/post/mocking-outgoing-http-requests-p1)
 - [Oskar Dudycz - Ensuring uniqueness in Marten event store](https://event-driven.io/en/unique_constraint_in_marten_event_store/?utm_source=architecture_weekly)
 - [Steve Sanderson - DotNetIsolator: an experimental package for running .NET code in an isolated sandbox](https://www.youtube.com/watch?v=5u1UaqkPZbg)
 - [Meysam Hadeli - Problem Details in .Net 7](https://meysamhadeli.com/problem-details-in-dotnet-7)
@@ -2161,6 +2184,9 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Joel Spolsky - Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+- [Nick Brown - The many flaws of flow efficiency](https://medium.com/asos-techblog/the-many-flaws-in-flow-efficiency-bc7845ba4c9)
+- [Alexander Zeitler - I'm printing out websites - and why you might want to do it too](https://alexanderzeitler.com/articles/printing-out-websites/)
 - [Dave Anderson - 10 Traits of Successful Junior Software Engineer](https://www.scarletink.com/10-traits-of-successful-junior-software-engineers/)
 - [David Golden - How to mentor software engineers](https://xdg.me/mentor-engineers/)
 - [Markus Voelter - On the drawbacks of standard templates, process and ceremony](https://www.linkedin.com/pulse/drawbacks-standard-templates-process-ceremony-markus-voelter/)
@@ -2369,6 +2395,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Matt Wynne, Steve Tooke - Slicing User Stories for Agile Teams](https://maven.com/levain/slicing-user-stories-for-agile-teams)
 - [Jeff Paton - The New User Story Backlog is a Map](https://www.jpattonassociates.com/the-new-backlog/)
 - [Brent M. Jensen - The Combined Engineering Software Model](https://testastic.wordpress.com/2016/01/03/the-combined-engineering-software-model/)
 - [Aino Corry - Retrospectives Antipatterns](https://martinfowler.com/articles/retrospective-antipatterns.html)
@@ -3099,6 +3126,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [OWASP - Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs/)
 - [Troy Hunt - Down the Cloudflare / Stripe / OWASP Rabbit Hole: A Tale of 6 Rabbits Deep](https://www.troyhunt.com/down-the-cloudflare-stripe-owasp-rabbit-hole-a-tale-of-6-rabbits-deep/)
 - [SpiceDB - Open Source, Google Zanzibar-inspired fine-grained permissions database](https://github.com/authzed/spicedb)
 - [Tomasz Onyszko - Your keys are not your SSO](https://www.onyszko.com/your-keys-are-not-your-sso/)
