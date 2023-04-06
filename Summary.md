@@ -58,6 +58,13 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Justin Smith - The Three R’s of Enterprise Security: Rotate, Repave, and Repair](https://tanzu.vmware.com/content/blog/the-three-r-s-of-enterprise-security-rotate-repave-and-repair)
+- [Giridhar Manepalli - Clocks and Causality - Ordering Events in Distributed Systems](https://www.exhypothesi.com/clocks-and-causality)
+- [George Ball - Billions of Messages Per Minute Over TCP/IP](https://www.infoq.com/articles/billions-messages-minute)
+- [Raphael Moutard - GraphQL: From Excitement to Deception](https://betterprogramming.pub/graphql-from-excitement-to-deception-f81f7c95b7cf)
+- [Lutz Huehnken - Events, Workflows, Sagas? Keep Your Event-driven Architecture Sane](https://www.youtube.com/watch?v=Uv1GOrZWpBM)
+- [Weronika Łabaj - To DDD or not to DDD? Domain modelling case study](https://www.youtube.com/watch?v=X5_VIi3K7aA)
+- [Ivan Garcia Sainz-Aja - API-First with AsyncAPI](https://medium.com/@ivangsa/api-first-with-asyncapi-e197ecab9e73)
 - [Scott Mansfield - Caching at Netflix: The Hidden Microservice](https://www.youtube.com/watch?v=Rzdxgx3RC0Q)
 - [Troy Hunt - To Infinity and Beyond, with Cloudflare Cache Reserve](https://www.troyhunt.com/to-infinity-and-beyond-with-cloudflare-cache-reserve/)
 - [Grygoriy Gonchar - A Simple Framework for Architectural Decisions](https://www.infoq.com/articles/framework-architectural-decisions/)
@@ -929,6 +936,12 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Cloudflare - How Cloudflare runs Prometheus at scale](https://blog.cloudflare.com/how-cloudflare-runs-prometheus-at-scale/)
+- [Slack - Tracing Notifications](https://slack.engineering/tracing-notifications)
+- [The NewStack - Platform Engineering Is Not about Building Fancy UIs](https://thenewstack.io/platform-engineering-is-not-about-building-fancy-uis/)
+- [Nigel Poulton - WebAssembly on Kubernetes: everything you need to know](https://nigelpoulton.com/webassembly-on-kubernetes-everything-you-need-to-know/)
+- [kustomize - lets you customize raw, template-free YAML files for multiple purposes, leaving the original YAML untouched and usable as is](https://github.com/kubernetes-sigs/kustomize)
+- [Alex Soto - Article Series: Developing Apache Kafka applications on Kubernetes](https://www.infoq.com/articles/series-apache-kafka-streams/)
 - [Avdi Grimm - Reproducible Development with Containers - Free Online Course](https://graceful.dev/courses/devcontainers/)
 - [Docker - We apologize. We did a terrible job announcing the end of Docker Free Teams.](https://www.docker.com/blog/we-apologize-we-did-a-terrible-job-announcing-the-end-of-docker-free-teams/)
 - [Alex Ellis - Docker is deleting Open Source organisations - what you need to know](https://blog.alexellis.io/docker-is-deleting-open-source-images/)
@@ -1083,6 +1096,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Angular - RFC: Angular Signals](https://github.com/angular/angular/discussions/49685)
 - [Kent C. Dodds - React Server Components with Dan Abramov, Joe Savona](https://www.youtube.com/watch?v=h7tur48JSaw)
 - [The Prime Time - React is Holding Me Hostage!!!](https://www.youtube.com/watch?v=zi0ZspvoLuo)
 - [Miško Hevery - Signals vs. Observables, what's all the fuss about?](https://www.builder.io/blog/signals-vs-observables)
@@ -1288,6 +1302,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Philipp Krenn - Elasticsearch Under the Hood](https://www.youtube.com/watch?v=cpsgAQFkhCE)
+- [Supabase - Postgres WASM by Snaplet and Supabase](https://supabase.com/blog/postgres-wasm)
+- [Paul Ramsey - Generate Unlimited Crypto Using Postgres!](https://www.crunchydata.com/blog/postgres-pgcrypto)
 - [Google - Run AlloyDB anywhere - in your data center, your laptop, or in any cloud](https://cloud.google.com/blog/products/databases/run-alloydb-anywhere?trk=feed_main-feed-card_feed-article-content)
 - [Citus - Distributed PostgreSQL as an extension](https://github.com/citusdata/citus)
 - [Gunnar Morling - The Wonders of Postgres Logical Decoding Messages](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/)
@@ -1528,6 +1545,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [AWS - Visualize and create your serverless workloads with AWS Application Composer](https://aws.amazon.com/blogs/compute/visualize-and-create-your-serverless-workloads-with-aws-application-composer/)
 - [The Burning Monk - The Old Faithful: Why SSM Parameter Store still reigns over Secrets Manager](https://theburningmonk.com/2023/03/the-old-faithful-why-ssm-parameter-store-still-reigns-over-secrets-manager)
 - [Zied Ben Tahar - Building an AI powered and Serverless meal planner with OpenAI, AWS Step functions, AWS Lambda and CDK](https://levelup.gitconnected.com/building-an-ai-powered-and-serverless-meal-planner-with-openai-aws-step-functions-aws-lambda-ce45c45794cc)
 - [AWS - EKS Workshop - Practical exercises to learn about Amazon Elastic Kubernetes Service](https://www.eksworkshop.com/)
@@ -1614,6 +1632,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jeremy D. Miller - Compound Handlers in Wolverine](https://jeremydmiller.com/2023/03/07/compound-handlers-in-wolverine/)
+- [CliWrap - Library for running command-line processes](https://github.com/Tyrrrz/CliWrap)
+- [Shawn Shi - Optimizing Long-Running Tasks with Background Services and SignalR Notifications](https://medium.com/geekculture/complete-long-running-tasks-in-the-background-and-notify-clients-in-real-time-asynchronously-19849f06279e)
+- [Jeremy Likness - Improvements to auth and identity in ASP.NET Core 8](https://devblogs.microsoft.com/dotnet/improvements-auth-identity-aspnetcore-8)
 - [Adam Furmanek - Implementing async with coroutines and fibers - project Loom in C#](https://www.youtube.com/watch?v=4JrrRaWMzQI)
 - [Conner Phillis - Sequential GUIDs in Entity Framework Core Might Not Be Sequential](https://dev.to/connerphillis/sequential-guids-in-entity-framework-core-might-not-be-sequential-3408)
 - [Microsoft - API to provide the current system time](https://github.com/dotnet/runtime/issues/36617)
@@ -2184,6 +2206,9 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Martin Fowler - Slack](https://martinfowler.com/bliki/Slack.html)
+- [Randall Koutnik - Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)
+- [Gergerly Orosz - How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)
 - [Joel Spolsky - Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 - [Nick Brown - The many flaws of flow efficiency](https://medium.com/asos-techblog/the-many-flaws-in-flow-efficiency-bc7845ba4c9)
 - [Alexander Zeitler - I'm printing out websites - and why you might want to do it too](https://alexanderzeitler.com/articles/printing-out-websites/)
@@ -2607,6 +2632,8 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Matt Pocock - Typescript Generics Workshop](https://github.com/total-typescript/typescript-generics-workshop)
+- [tRPC - Move fast and break nothing. End-to-end typesafe APIs made easy](https://github.com/trpc/trpc)
 - [Microsoft - Announcing TypeScript 5.0](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/)
 - [io-ts - Runtime type system for IO decoding/encoding](https://gcanti.github.io/io-ts/)
 - [TypeScript Deep Dive - Nominal Typing](https://basarat.gitbook.io/typescript/main-1/nominaltyping)
@@ -2788,6 +2815,7 @@
 - [Erik Sink - Llama Rust SDK preview 0.1.3](https://ericsink.com/entries/llama_rust_013.html)
 
 ## Scala
+- [Adam Warski - Go-like channels using project Loom and Scala](https://softwaremill.com/go-like-channels-using-project-loom-and-scala/)
 - [Adam Warski - Effects: To Be Or Not To Be](https://www.youtube.com/watch?v=sDnNjtkoUV)
 - [MOIA Engineering - How to use a Rust lib inside the Scala app](https://moiadev.medium.com/how-to-use-a-rust-lib-inside-the-scala-app-932637c47784)
 - [Scala - Scala Developer Survey 2022 Results](https://scala-lang.org/blog/2022/12/14/scala-developer-survey-results-2022.html)
@@ -2801,6 +2829,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [PC Magazine - Elon Musk Tweet Broke Federal Labor Laws, US Court Rules](https://www.pcmag.com/news/elon-musk-tweet-broke-federal-labor-laws-us-court-rules)
 - [Gergely Orosz - The Collapse of Silicon Valley Bank](https://newsletter.pragmaticengineer.com/p/the-collapse-of-silicon-valley-bank)
 - [Gergely Orosz - Amazon doubling down on RTO (return to office)](https://blog.pragmaticengineer.com/amazon-return-to-office/)
 - [OnVoard - Our production servers was suspended by Google Cloud](https://www.onvoard.com/blog/our-production-servers-was-suspended-by-google-cloud)
@@ -3126,6 +3155,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Wiz - BingBang: AAD misconfiguration led to Bing.com results manipulation and account takeover](https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration)
 - [OWASP - Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs/)
 - [Troy Hunt - Down the Cloudflare / Stripe / OWASP Rabbit Hole: A Tale of 6 Rabbits Deep](https://www.troyhunt.com/down-the-cloudflare-stripe-owasp-rabbit-hole-a-tale-of-6-rabbits-deep/)
 - [SpiceDB - Open Source, Google Zanzibar-inspired fine-grained permissions database](https://github.com/authzed/spicedb)
