@@ -1,59 +1,9 @@
 # Upcoming Links
 
-## 10th April 2023
+## 17th April 2023
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
 
 ### Architecture
-- [Justin Smith - The Three R’s of Enterprise Security: Rotate, Repave, and Repair](https://tanzu.vmware.com/content/blog/the-three-r-s-of-enterprise-security-rotate-repave-and-repair)
-- [Giridhar Manepalli - Clocks and Causality - Ordering Events in Distributed Systems](https://www.exhypothesi.com/clocks-and-causality)
-- [George Ball - Billions of Messages Per Minute Over TCP/IP](https://www.infoq.com/articles/billions-messages-minute)
-- [Raphael Moutard - GraphQL: From Excitement to Deception](https://betterprogramming.pub/graphql-from-excitement-to-deception-f81f7c95b7cf)
-- [Lutz Huehnken - Events, Workflows, Sagas? Keep Your Event-driven Architecture Sane](https://www.youtube.com/watch?v=Uv1GOrZWpBM)
-- [Weronika Łabaj - To DDD or not to DDD? Domain modelling case study](https://www.youtube.com/watch?v=X5_VIi3K7aA)
-- [Ivan Garcia Sainz-Aja - API-First with AsyncAPI](https://medium.com/@ivangsa/api-first-with-asyncapi-e197ecab9e73)
-
-### DevOps
-- [Cloudflare - How Cloudflare runs Prometheus at scale](https://blog.cloudflare.com/how-cloudflare-runs-prometheus-at-scale/)
-- [Slack - Tracing Notifications](https://slack.engineering/tracing-notifications)
-- [The NewStack - Platform Engineering Is Not about Building Fancy UIs](https://thenewstack.io/platform-engineering-is-not-about-building-fancy-uis/)
-- [Nigel Poulton - WebAssembly on Kubernetes: everything you need to know](https://nigelpoulton.com/webassembly-on-kubernetes-everything-you-need-to-know/)
-- [kustomize - lets you customize raw, template-free YAML files for multiple purposes, leaving the original YAML untouched and usable as is](https://github.com/kubernetes-sigs/kustomize)
-- [Alex Soto - Article Series: Developing Apache Kafka applications on Kubernetes](https://www.infoq.com/articles/series-apache-kafka-streams/)
-
-### Databases
-- [Philipp Krenn - Elasticsearch Under the Hood](https://www.youtube.com/watch?v=cpsgAQFkhCE)
-- [Supabase - Postgres WASM by Snaplet and Supabase](https://supabase.com/blog/postgres-wasm)
-- [Paul Ramsey - Generate Unlimited Crypto Using Postgres!](https://www.crunchydata.com/blog/postgres-pgcrypto)
-
-### Frontend
-- [Angular - RFC: Angular Signals](https://github.com/angular/angular/discussions/49685)
-
-### AWS
-- [AWS - Visualize and create your serverless workloads with AWS Application Composer](https://aws.amazon.com/blogs/compute/visualize-and-create-your-serverless-workloads-with-aws-application-composer/)
-
-### .NET
-- [Jeremy D. Miller - Compound Handlers in Wolverine](https://jeremydmiller.com/2023/03/07/compound-handlers-in-wolverine/)
-- [CliWrap - Library for running command-line processes](https://github.com/Tyrrrz/CliWrap)
-- [Shawn Shi - Optimizing Long-Running Tasks with Background Services and SignalR Notifications](https://medium.com/geekculture/complete-long-running-tasks-in-the-background-and-notify-clients-in-real-time-asynchronously-19849f06279e)
-- [Jeremy Likness - Improvements to auth and identity in ASP.NET Core 8](https://devblogs.microsoft.com/dotnet/improvements-auth-identity-aspnetcore-8)
-
-### Scala
-- [Adam Warski - Go-like channels using project Loom and Scala](https://softwaremill.com/go-like-channels-using-project-loom-and-scala/)
-
-### TypeScript
-- [Matt Pocock - Typescript Generics Workshop](https://github.com/total-typescript/typescript-generics-workshop)
-- [tRPC - Move fast and break nothing. End-to-end typesafe APIs made easy](https://github.com/trpc/trpc)
-
-### Coding Life
-- [Martin Fowler - Slack](https://martinfowler.com/bliki/Slack.html)
-- [Randall Koutnik - Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)
-- [Gergerly Orosz - How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)
-
-### Industry
-- [PC Magazine - Elon Musk Tweet Broke Federal Labor Laws, US Court Rules](https://www.pcmag.com/news/elon-musk-tweet-broke-federal-labor-laws-us-court-rules)
-
-### Security
-- [Wiz - BingBang: AAD misconfiguration led to Bing.com results manipulation and account takeover](https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration)
