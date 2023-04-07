@@ -58,6 +58,7 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Event stores are key-value databases, and why that matters](https://event-driven.io/en/event_stores_are_key_value_stores/?utm_source=architecture_weekly)
 - [Justin Smith - The Three R’s of Enterprise Security: Rotate, Repave, and Repair](https://tanzu.vmware.com/content/blog/the-three-r-s-of-enterprise-security-rotate-repave-and-repair)
 - [Giridhar Manepalli - Clocks and Causality - Ordering Events in Distributed Systems](https://www.exhypothesi.com/clocks-and-causality)
 - [George Ball - Billions of Messages Per Minute Over TCP/IP](https://www.infoq.com/articles/billions-messages-minute)
