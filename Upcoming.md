@@ -7,3 +7,6 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ### Architecture
+
+- [The Power of Value Objects](https://vimeo.com/13549100)
+- [DDD Aggregates: Consistency Boundary](https://www.jamesmichaelhickey.com/consistency-boundary/)
