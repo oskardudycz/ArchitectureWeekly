@@ -58,6 +58,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Vladik Khononov - The Fractal Geometry of Software Design](https://www.youtube.com/watch?v=1ZyR_tgGTp8)
+- [Uber - Revolutionizing Money Movements at Scale with Strong Data Consistency](https://www.uber.com/en-RS/blog/money-scale-strong-data/)
+- [InfoQ - Software Architecture and Design InfoQ Trends Report - April 2023](https://www.infoq.com/articles/architecture-trends-2023/)
+- [CoRecursive Podcast - JSON vs XML With Douglas Crockford ](https://corecursive.com/json-vs-xml-douglas-crockford/)
 - [Oskar Dudycz - Event stores are key-value databases, and why that matters](https://event-driven.io/en/event_stores_are_key_value_stores/?utm_source=architecture_weekly)
 - [Justin Smith - The Three R’s of Enterprise Security: Rotate, Repave, and Repair](https://tanzu.vmware.com/content/blog/the-three-r-s-of-enterprise-security-rotate-repave-and-repair)
 - [Giridhar Manepalli - Clocks and Causality - Ordering Events in Distributed Systems](https://www.exhypothesi.com/clocks-and-causality)
@@ -937,6 +941,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Last Week in AWS - LocalStack: Why Local Development for Cloud Workloads Makes Sense](https://www.lastweekinaws.com/blog/localstack-why-local-development-for-cloud-workloads-makes-sense/)
+- [Swyx - The End of Localhost](https://dx.tips/the-end-of-localhost)
+- [CNCF - Platforms White Paper](https://tag-app-delivery.cncf.io/whitepapers/platforms/)
 - [Cloudflare - How Cloudflare runs Prometheus at scale](https://blog.cloudflare.com/how-cloudflare-runs-prometheus-at-scale/)
 - [Slack - Tracing Notifications](https://slack.engineering/tracing-notifications)
 - [The NewStack - Platform Engineering Is Not about Building Fancy UIs](https://thenewstack.io/platform-engineering-is-not-about-building-fancy-uis/)
@@ -1097,6 +1104,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Google - Chrome ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
 - [Angular - RFC: Angular Signals](https://github.com/angular/angular/discussions/49685)
 - [Kent C. Dodds - React Server Components with Dan Abramov, Joe Savona](https://www.youtube.com/watch?v=h7tur48JSaw)
 - [The Prime Time - React is Holding Me Hostage!!!](https://www.youtube.com/watch?v=zi0ZspvoLuo)
@@ -1303,6 +1311,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Oskar Dudycz - Postgres Superpowers in Practice](https://event-driven.io/en/postgres_superpowers/)
+- [Alex Chi - LSM in a Week - A tutorial of building an LSM-Tree storage engine in a week!](https://github.com/skyzh/mini-lsm)
+- [Lokhesh Ujhoodha - You can now run Machine Learning on EventStoreDB through MindsDB](https://everythingtech.dev/2023/04/you-can-now-run-machine-learning-on-eventstoredb-through-mindsdb/)
 - [Philipp Krenn - Elasticsearch Under the Hood](https://www.youtube.com/watch?v=cpsgAQFkhCE)
 - [Supabase - Postgres WASM by Snaplet and Supabase](https://supabase.com/blog/postgres-wasm)
 - [Paul Ramsey - Generate Unlimited Crypto Using Postgres!](https://www.crunchydata.com/blog/postgres-pgcrypto)
@@ -1480,6 +1491,10 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Zach Blumenfeld - Graph Machine Learning: An Overview](https://towardsdatascience.com/graph-machine-learning-an-overview-c996e53fab90)
+- [Microsoft - JARVIS - a system to connect LLMs with ML community](https://github.com/microsoft/JARVIS)
+- [Multiplex - How You Can Install A ChatGPT-like Personal AI On Your Own Computer And Run It With No Internet.](https://readmultiplex.com/2023/04/11/how-you-can-install-a-chatgpt-like-personal-ai-on-your-own-computer-and-run-it-with-no-internet/)
+- [Auto-GPT - An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Significant-Gravitas/Auto-GPT)
 - [Oskar Dudycz - ChatGPT, revolution or not?](https://event-driven.io/en/chat_gpt_revolution_or_not/?utm_source=architecture_weekly)
 - [ZeroHedge - Italy Bans OpenAI's ChatGPT Over Privacy Concerns](https://www.zerohedge.com/technology/italy-bans-openais-chatgpt-over-privacy-concerns)
 - [TechCrunch - Microsoft lays off an ethical AI team as it doubles down on OpenAI](https://techcrunch.com/2023/03/13/microsoft-lays-off-an-ethical-ai-team-as-it-doubles-down-on-openai)
@@ -1546,6 +1561,9 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Alexander Butt-Piercey - Event Sourcing with Ruby and AWS Serverless Technologies - Part One: Design](https://apiercey.github.io/posts/event-sourcing-using-ruby-and-aws-serverless-technologies/design/)
+- [Yan Cui - Return large objects with AWS Lambda’s new Streaming Response](https://lumigo.io/blog/return-large-objects-with-aws-lambdas-new-streaming-response/)
+- [Serverless Spy - CDK-based library for writing elegant, fast-executing integration tests on AWS serverless architecture and an additional web console to monitor events in real time](https://github.com/ServerlessLife/serverless-spy)
 - [AWS - Visualize and create your serverless workloads with AWS Application Composer](https://aws.amazon.com/blogs/compute/visualize-and-create-your-serverless-workloads-with-aws-application-composer/)
 - [The Burning Monk - The Old Faithful: Why SSM Parameter Store still reigns over Secrets Manager](https://theburningmonk.com/2023/03/the-old-faithful-why-ssm-parameter-store-still-reigns-over-secrets-manager)
 - [Zied Ben Tahar - Building an AI powered and Serverless meal planner with OpenAI, AWS Step functions, AWS Lambda and CDK](https://levelup.gitconnected.com/building-an-ai-powered-and-serverless-meal-planner-with-openai-aws-step-functions-aws-lambda-ce45c45794cc)
@@ -1574,6 +1592,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Microsoft - The Azure Solution Architect Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-solution-architect-map/ba-p/689700?WT.mc_id=DT-MVP-5001664)
 - [Marilag Dimatulac Svennevig - Message Brokering and Event Driven Architecture on Azure](https://www.youtube.com/watch?v=6haKMxdWeZY)
 - [BleepingComputer - Massive Microsoft 365 outage caused by WAN router IP change](https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-caused-by-wan-router-ip-change/)
 - [David Okeyode - State of Azure IAM 2022](https://davidokeyode.medium.com/state-of-azure-iam-2022-512e66881128)
@@ -1633,6 +1652,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Microsoft - Check out new C# 12 preview features!](https://devblogs.microsoft.com/dotnet/check-out-csharp-12-preview/)
+- [NetArchTest - A fluent API for .Net that can enforce architectural rules in unit tests](https://github.com/BenMorris/NetArchTest)
+- [Stephen Cleary - Structured concurrency support for C#](https://github.com/StephenCleary/StructuredConcurrency)
+- [Microsoft - Get started with OpenAI in .NET](https://devblogs.microsoft.com/dotnet/getting-started-azure-openai-dotnet/)
 - [Jeremy D. Miller - Compound Handlers in Wolverine](https://jeremydmiller.com/2023/03/07/compound-handlers-in-wolverine/)
 - [CliWrap - Library for running command-line processes](https://github.com/Tyrrrz/CliWrap)
 - [Shawn Shi - Optimizing Long-Running Tasks with Background Services and SignalR Notifications](https://medium.com/geekculture/complete-long-running-tasks-in-the-background-and-notify-clients-in-real-time-asynchronously-19849f06279e)
@@ -2421,6 +2444,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Peaksys Engineering - Why we have decided not to use SAFe® anymore](https://medium.com/peaksys-engineering/why-we-have-decided-not-to-use-safe-anymore-c8eb7eb0d8a6)
 - [Matt Wynne, Steve Tooke - Slicing User Stories for Agile Teams](https://maven.com/levain/slicing-user-stories-for-agile-teams)
 - [Jeff Paton - The New User Story Backlog is a Map](https://www.jpattonassociates.com/the-new-backlog/)
 - [Brent M. Jensen - The Combined Engineering Software Model](https://testastic.wordpress.com/2016/01/03/the-combined-engineering-software-model/)
@@ -2519,6 +2543,9 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Tobi Ajila - Rapid Startup of Your Cloud-Native Java Applications without Compromise](https://www.infoq.com/articles/rapid-startup-of-your-cloud-native-java)
+- [Inside Java - JDK 20 - Sip of Java](https://inside.java/2023/04/01/sip074/)
+- [Devoxx - Java Developer Roadmap](https://github.com/devoxx/JavaRoadmap)
 - [Michael Redlich - JDK 20 and JDK 21: What We Know So Far](https://www.infoq.com/news/2023/03/java-20-so-far/)
 - [Thorben Janssen - Java Records as Embeddables with Hibernate 6](https://thorben-janssen.com/java-records-embeddables-hibernate/)
 - [Cédric Champeau - Gradle’s flexibility in action](https://melix.github.io/blog//2023/gradle-synthetic-projects.html)
@@ -2830,6 +2857,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Comprehensive - How much are tech companies paying for talent?](https://www.comprehensive.io/)
+- [The Washington Post - Twitter targets its rival Substack, forcing well-known journalists to choose](https://www.washingtonpost.com/technology/2023/04/07/twitter-substack-taibbi-musk-split/)
 - [PC Magazine - Elon Musk Tweet Broke Federal Labor Laws, US Court Rules](https://www.pcmag.com/news/elon-musk-tweet-broke-federal-labor-laws-us-court-rules)
 - [Gergely Orosz - The Collapse of Silicon Valley Bank](https://newsletter.pragmaticengineer.com/p/the-collapse-of-silicon-valley-bank)
 - [Gergely Orosz - Amazon doubling down on RTO (return to office)](https://blog.pragmaticengineer.com/amazon-return-to-office/)
@@ -3156,6 +3185,11 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Auth0 - Zanzibar Academy - A Globally Distributed Authorization System](https://zanzibar.academy/)
+- [OpenFGA - Relationship-based access control made fast, scalable, and easy to use](https://openfga.dev/)
+- [The Washington Post - Discord member details how documents leaked from closed chat group](https://www.washingtonpost.com/national-security/2023/04/12/discord-leaked-documents/)
+- [Zero Day - Leaked Pentagon Document Claims Russian Hacktivists Breached Canadian Gas Pipeline Company](https://zetter.substack.com/p/leaked-pentagon-document-claims-russian)
+- [Business Today - Samsung employees accidentally leaked company secrets via ChatGPT: Here’s what happened](https://www.businesstoday.in/technology/news/story/samsung-employees-accidentally-leaked-company-secrets-via-chatgpt-heres-what-happened-376375-2023-04-06)
 - [Wiz - BingBang: AAD misconfiguration led to Bing.com results manipulation and account takeover](https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration)
 - [OWASP - Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs/)
 - [Troy Hunt - Down the Cloudflare / Stripe / OWASP Rabbit Hole: A Tale of 6 Rabbits Deep](https://www.troyhunt.com/down-the-cloudflare-stripe-owasp-rabbit-hole-a-tale-of-6-rabbits-deep/)
