@@ -1561,7 +1561,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
-- [Alexander Butt-Piercey - Event Sourcing with Ruby and AWS Serverless Technologies - Part One: Design](https://apiercey.github.io/posts/event-sourcing-using-ruby-and-aws-serverless-technologies/design/)
+- [Alexander Butt-Piercey - Event Sourcing with Ruby and AWS Serverless Technologies - Part One: Design](https://apiercey.github.io/posts/event-sourcing-using-ruby-and-aws-serverless-technologies/system-design/)
 - [Yan Cui - Return large objects with AWS Lambda’s new Streaming Response](https://lumigo.io/blog/return-large-objects-with-aws-lambdas-new-streaming-response/)
 - [Serverless Spy - CDK-based library for writing elegant, fast-executing integration tests on AWS serverless architecture and an additional web console to monitor events in real time](https://github.com/ServerlessLife/serverless-spy)
 - [AWS - Visualize and create your serverless workloads with AWS Application Composer](https://aws.amazon.com/blogs/compute/visualize-and-create-your-serverless-workloads-with-aws-application-composer/)

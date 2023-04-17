@@ -56,7 +56,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Auto-GPT - An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Significant-Gravitas/Auto-GPT)
 
 ### AWS
-- [Alexander Butt-Piercey - Event Sourcing with Ruby and AWS Serverless Technologies - Part One: Design](https://apiercey.github.io/posts/event-sourcing-using-ruby-and-aws-serverless-technologies/design/)
+- [Alexander Butt-Piercey - Event Sourcing with Ruby and AWS Serverless Technologies - Part One: Design](https://apiercey.github.io/posts/event-sourcing-using-ruby-and-aws-serverless-technologies/system-design/)
 - [Yan Cui - Return large objects with AWS Lambda’s new Streaming Response](https://lumigo.io/blog/return-large-objects-with-aws-lambdas-new-streaming-response/)
 - [Serverless Spy - CDK-based library for writing elegant, fast-executing integration tests on AWS serverless architecture and an additional web console to monitor events in real time](https://github.com/ServerlessLife/serverless-spy)
 
