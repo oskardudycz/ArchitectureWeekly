@@ -58,6 +58,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Slack - Technology Lifecycle](https://slack.engineering/technology-lifecycle/)
+- [Sam Rose - Load Balancing](https://samwho.dev/load-balancing/)
+- [Paulius Jurcys - What is the Value of Your Data?](https://towardsdatascience.com/what-is-the-value-of-your-data-9341cd019b4d)
+- [Dan Bergh Johnsson - The Power of Value - Power Use of Value Objects in Domain Driven Design](https://vimeo.com/13549100)
+- [James Hickey - DDD Aggregates: Consistency Boundary](https://www.jamesmichaelhickey.com/consistency-boundary/)
+- [Amin Khansari - A Migration Journey](https://dev.to/akhansari/a-migration-journey-4kc4)
+- [Tobias Mende - The Inverse Conway Manoeuvre in Existing Systems – It does not work!](https://unblocked.engineering/blog/the-inverse-conway-manoeuvre-in-existing-systems/)
+- [JSON Schema Store - A collection of JSON schema files including full API](https://github.com/SchemaStore/schemastore)
 - [Vladik Khononov - The Fractal Geometry of Software Design](https://www.youtube.com/watch?v=1ZyR_tgGTp8)
 - [Uber - Revolutionizing Money Movements at Scale with Strong Data Consistency](https://www.uber.com/en-RS/blog/money-scale-strong-data/)
 - [InfoQ - Software Architecture and Design InfoQ Trends Report - April 2023](https://www.infoq.com/articles/architecture-trends-2023/)
@@ -941,6 +949,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [The NewStack - Survey Shows Companies Moving away from DIY Kubernetes](https://thenewstack.io/survey-shows-companies-moving-away-from-diy-kubernetes)
+- [Open Telemetry - Announcing the Elastic Common Schema (ECS) and OpenTelemetry Semantic Convention Convergence](https://opentelemetry.io/blog/2023/ecs-otel-semconv-convergence/)
 - [Last Week in AWS - LocalStack: Why Local Development for Cloud Workloads Makes Sense](https://www.lastweekinaws.com/blog/localstack-why-local-development-for-cloud-workloads-makes-sense/)
 - [Swyx - The End of Localhost](https://dx.tips/the-end-of-localhost)
 - [CNCF - Platforms White Paper](https://tag-app-delivery.cncf.io/whitepapers/platforms/)
@@ -1104,6 +1114,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [wgpu - Safe and portable GPU abstraction in Rust, implementing WebGPU API.](https://github.com/gfx-rs/wgpu)
 - [Google - Chrome ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
 - [Angular - RFC: Angular Signals](https://github.com/angular/angular/discussions/49685)
 - [Kent C. Dodds - React Server Components with Dan Abramov, Joe Savona](https://www.youtube.com/watch?v=h7tur48JSaw)
@@ -1217,6 +1228,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Mark Seemann - An abstract example of refactoring from interaction-based to property-based testing](https://blog.ploeh.dk/2023/04/03/an-abstract-example-of-refactoring-from-interaction-based-to-property-based-testing/)
 - [Kamil Grzybek - Automated Tests: The Why](https://www.kamilgrzybek.com/blog/posts/automated-tests-the-why)
 - [Chelsea Troy - Testing: A Heuristic Hunting Conversation with Rebecca Wirfs-Brock](https://chelseatroy.com/2023/03/22/testing-a-heuristic-hunting-conversation-with-rebecca-wirfs-brock/)
 - [Mike Bland - Test Mercenaries](https://mike-bland.com/2012/07/10/test-mercenaries.html)
@@ -1311,6 +1323,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [dbdev: PostgreSQL Package Manager](https://supabase.com/blog/dbdev)
+- [SupaBase - Supabase Wrappers, a Postgres FDW framework written in Rust](https://supabase.com/blog/postgres-foreign-data-wrappers-rust)
 - [Oskar Dudycz - Postgres Superpowers in Practice](https://event-driven.io/en/postgres_superpowers/)
 - [Alex Chi - LSM in a Week - A tutorial of building an LSM-Tree storage engine in a week!](https://github.com/skyzh/mini-lsm)
 - [Lokhesh Ujhoodha - You can now run Machine Learning on EventStoreDB through MindsDB](https://everythingtech.dev/2023/04/you-can-now-run-machine-learning-on-eventstoredb-through-mindsdb/)
@@ -1491,6 +1505,9 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [AWS - Announcing New Tools for Building with Generative AI on AWS](https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/)
+- [Semantic Kernel - Integrate cutting-edge LLM technology quickly and easily into your apps](https://github.com/microsoft/semantic-kernel)
+- [Danah Boyd - Resisting Deterministic Thinking](https://zephoria.medium.com/resisting-deterministic-thinking-52ef8d78248c)
 - [Zach Blumenfeld - Graph Machine Learning: An Overview](https://towardsdatascience.com/graph-machine-learning-an-overview-c996e53fab90)
 - [Microsoft - JARVIS - a system to connect LLMs with ML community](https://github.com/microsoft/JARVIS)
 - [Multiplex - How You Can Install A ChatGPT-like Personal AI On Your Own Computer And Run It With No Internet.](https://readmultiplex.com/2023/04/11/how-you-can-install-a-chatgpt-like-personal-ai-on-your-own-computer-and-run-it-with-no-internet/)
@@ -1592,6 +1609,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Azure Cost CLI - CLI tool to perform cost analysis on your Azure subscription](https://github.com/mivano/azure-cost-cli)
 - [Microsoft - The Azure Solution Architect Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-solution-architect-map/ba-p/689700?WT.mc_id=DT-MVP-5001664)
 - [Marilag Dimatulac Svennevig - Message Brokering and Event Driven Architecture on Azure](https://www.youtube.com/watch?v=6haKMxdWeZY)
 - [BleepingComputer - Massive Microsoft 365 outage caused by WAN router IP change](https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-caused-by-wan-router-ip-change/)
@@ -1652,6 +1670,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - Publishing read model changes from Marten](https://event-driven.io/en/publishing_read_model_changes_from_marten/?utm_source=architecture_weekly)
+- [VaultSharp - A comprehensive cross-platform .NET Library for HashiCorp's Vault](https://github.com/rajanadar/VaultSharp)
+- [DistributedLock - A .NET library for distributed synchronization](https://github.com/madelson/DistributedLock)
+- [João Antunes - Contract first OpenAPI development (but still use Swagger UI with ASP.NET Core)](https://blog.codingmilitia.com/2023/04/02/contract-first-openapi-development-but-still-use-swagger-ui-with-asp.net-core/)
+- [AWS - AWS Microservice Extractor for .NET](https://aws.amazon.com/microservice-extractor)
 - [Microsoft - Check out new C# 12 preview features!](https://devblogs.microsoft.com/dotnet/check-out-csharp-12-preview/)
 - [NetArchTest - A fluent API for .Net that can enforce architectural rules in unit tests](https://github.com/BenMorris/NetArchTest)
 - [Stephen Cleary - Structured concurrency support for C#](https://github.com/StephenCleary/StructuredConcurrency)
@@ -2444,6 +2467,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Bertrand Mayer - Object Success](https://bertrandmeyer.com/SUCCESS/)
 - [Peaksys Engineering - Why we have decided not to use SAFe® anymore](https://medium.com/peaksys-engineering/why-we-have-decided-not-to-use-safe-anymore-c8eb7eb0d8a6)
 - [Matt Wynne, Steve Tooke - Slicing User Stories for Agile Teams](https://maven.com/levain/slicing-user-stories-for-agile-teams)
 - [Jeff Paton - The New User Story Backlog is a Map](https://www.jpattonassociates.com/the-new-backlog/)
@@ -2543,6 +2567,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Gunnar Morling - Getting Started With Java Development in 2023 — An Opinionated Guide](https://www.morling.dev/blog/getting-started-with-java-development-2023/)
+- [Roni Dover - Not Your Grandfather’s Logs — A Java Library’s New Approach To Observability](https://foojay.io/today/not-your-grandfathers-logs-a-java-librarys-new-approach-to-observability/)
 - [Tobi Ajila - Rapid Startup of Your Cloud-Native Java Applications without Compromise](https://www.infoq.com/articles/rapid-startup-of-your-cloud-native-java)
 - [Inside Java - JDK 20 - Sip of Java](https://inside.java/2023/04/01/sip074/)
 - [Devoxx - Java Developer Roadmap](https://github.com/devoxx/JavaRoadmap)
@@ -2635,6 +2661,7 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
 ## JavaScript
+- [Ryan Dahl - Deno: The JavaScript Runtime for the Serverless Era](https://www.youtube.com/watch?v=VDKJ1rSj-NI)
 - [Jason Godesky - When JavaScript Fails](https://scribe.rip/@jason.godesky/when-javascript-fails-52eef47e90db)
 - [Oskar Dudycz - Fun with serial JSON](https://event-driven.io/en/fun_with_json_serialisation/?utm_source=architecture_weekly)
 - [TC39 - ECMAScript proposal: Type Annotations](https://github.com/tc39/proposal-type-annotations)    
@@ -2857,6 +2884,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [The Wall Street Journal - Lyft to Cut at Least 1,200 Jobs in New Round of Layoffs to Reduce Costs](https://www.wsj.com/articles/lyft-to-cut-at-least-1-200-jobs-in-new-round-of-layoffs-to-reduce-costs-da423e53)
+- [Europa Data Protection Board - Finnish SA: Administrative fine on Viking Line for unlawful processing of employees' health data](https://edpb.europa.eu/news/national-news/2023/finnish-sa-administrative-fine-viking-line-unlawful-processing-employees_en)
 - [Comprehensive - How much are tech companies paying for talent?](https://www.comprehensive.io/)
 - [The Washington Post - Twitter targets its rival Substack, forcing well-known journalists to choose](https://www.washingtonpost.com/technology/2023/04/07/twitter-substack-taibbi-musk-split/)
 - [PC Magazine - Elon Musk Tweet Broke Federal Labor Laws, US Court Rules](https://www.pcmag.com/news/elon-musk-tweet-broke-federal-labor-laws-us-court-rules)
@@ -3107,6 +3136,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Julien Lengrand-Lambert - Replacing Postman with the JetBrains HTTP Client](https://foojay.io/today/replacing-postman-with-the-jetbrains-http-client/)
 - [Amazon CodeCatalyst - Dev Environments](https://codecatalyst.aws/explore/dev-environments)
 - [Hurl - Hurl is a command line tool that runs HTTP requests defined in a simple plain text format](https://hurl.dev/)
 - [Home Assistant - Open source home automation that puts local control and privacy first](https://github.com/home-assistant/core)
