@@ -8,8 +8,17 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ### Architecture
 - [Slack - Technology Lifecycle](https://slack.engineering/technology-lifecycle/)
+- [Sam Rose - Load Balancing](https://samwho.dev/load-balancing/)
+- [Paulius Jurcys - What is the Value of Your Data?](https://towardsdatascience.com/what-is-the-value-of-your-data-9341cd019b4d)
 - [Dan Bergh Johnsson - The Power of Value - Power Use of Value Objects in Domain Driven Design](https://vimeo.com/13549100)
 - [James Hickey - DDD Aggregates: Consistency Boundary](https://www.jamesmichaelhickey.com/consistency-boundary/)
+- [Amin Khansari - A Migration Journey](https://dev.to/akhansari/a-migration-journey-4kc4)
+- [Tobias Mende - The Inverse Conway Manoeuvre in Existing Systems – It does not work!](https://unblocked.engineering/blog/the-inverse-conway-manoeuvre-in-existing-systems/)
+- [JSON Schema Store - A collection of JSON schema files including full API](https://github.com/SchemaStore/schemastore)
+
+### DevOps
+- [The NewStack - Survey Shows Companies Moving away from DIY Kubernetes](https://thenewstack.io/survey-shows-companies-moving-away-from-diy-kubernetes)
+- [Open Telemetry - Announcing the Elastic Common Schema (ECS) and OpenTelemetry Semantic Convention Convergence](https://opentelemetry.io/blog/2023/ecs-otel-semconv-convergence/)
 
 ### Databases
 - [dbdev: PostgreSQL Package Manager](https://supabase.com/blog/dbdev)
@@ -23,11 +32,31 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ### AI
 - [AWS - Announcing New Tools for Building with Generative AI on AWS](https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/)
+- [Semantic Kernel - Integrate cutting-edge LLM technology quickly and easily into your apps](https://github.com/microsoft/semantic-kernel)
 - [Danah Boyd - Resisting Deterministic Thinking](https://zephoria.medium.com/resisting-deterministic-thinking-52ef8d78248c)
+
+### Azure
+- [Azure Cost CLI - CLI tool to perform cost analysis on your Azure subscription](https://github.com/mivano/azure-cost-cli)
+
+### Java
+- [Gunnar Morling - Getting Started With Java Development in 2023 — An Opinionated Guide](https://www.morling.dev/blog/getting-started-with-java-development-2023/)
+- [Roni Dover - Not Your Grandfather’s Logs — A Java Library’s New Approach To Observability](https://foojay.io/today/not-your-grandfathers-logs-a-java-librarys-new-approach-to-observability/)
+
+### JavaScript
+- [Ryan Dahl - Deno: The JavaScript Runtime for the Serverless Era](https://www.youtube.com/watch?v=VDKJ1rSj-NI)
 
 ### .NET
 - [VaultSharp - A comprehensive cross-platform .NET Library for HashiCorp's Vault](https://github.com/rajanadar/VaultSharp)
+- [DistributedLock - A .NET library for distributed synchronization](https://github.com/madelson/DistributedLock)
 - [João Antunes - Contract first OpenAPI development (but still use Swagger UI with ASP.NET Core)](https://blog.codingmilitia.com/2023/04/02/contract-first-openapi-development-but-still-use-swagger-ui-with-asp.net-core/)
+- [AWS - AWS Microservice Extractor for .NET](https://aws.amazon.com/microservice-extractor)
+
+### Tools
+- [Julien Lengrand-Lambert - Replacing Postman with the JetBrains HTTP Client](https://foojay.io/today/replacing-postman-with-the-jetbrains-http-client/)
 
 ### Management
 - [Bertrand Mayer - Object Success](https://bertrandmeyer.com/SUCCESS/)
+
+### Industry
+- [The Wall Street Journal - Lyft to Cut at Least 1,200 Jobs in New Round of Layoffs to Reduce Costs](https://www.wsj.com/articles/lyft-to-cut-at-least-1-200-jobs-in-new-round-of-layoffs-to-reduce-costs-da423e53)
+- [Europa Data Protection Board - Finnish SA: Administrative fine on Viking Line for unlawful processing of employees' health data](https://edpb.europa.eu/news/national-news/2023/finnish-sa-administrative-fine-viking-line-unlawful-processing-employees_en)
