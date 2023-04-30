@@ -58,6 +58,19 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [The NewStack - Google Cloud Services Hit by Outage in Paris](https://thenewstack.io/google-cloud-services-hit-by-outage-in-paris/)
+- [Google - Cloud incident status 2023-04-25](https://status.cloud.google.com/incidents/dS9ps52MUnxQfyDGPfkY)
+- [DataCenterDynamics - OVHcloud's data center fire: One year on, what do we know?](https://www.datacenterdynamics.com/en/opinions/ovhclouds-data-center-fire-one-year-on-what-do-we-know/)
+- [Slack - Real-time Messaging](https://slack.engineering/real-time-messaging/)
+- [ThoughtWorks - Technology Radar #28](https://www.thoughtworks.com/content/dam/thoughtworks/documents/radar/2023/04/tr_technology_radar_vol_28_en.pdf)
+- [WunderGraph - Is GraphQL dying? 2023 Trend Analysis of REST, GraphQL, OpenAPI, SOAP, gRPC and tRPC](https://wundergraph.com/blog/graphql_rest_openapi_trend_analysis_2023)
+- [Prequel - SQL Maxis: Why We Ditched RabbitMQ And Replaced It With A Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
+- [Gregor Hohpe - Programming without a stack trace: When abstractions become illusions](https://architectelevator.com/architecture/stacktrace-abstraction/)
+- [Martin Fowler - FeatureToggle](https://martinfowler.com/bliki/FeatureToggle.html)
+- [Pete Hodgson - Feature Toggles (aka Feature Flags)](https://martinfowler.com/articles/feature-toggles.html)
+- [Valerii Udonov - Domain-Driven Design: building the Right thing Right](https://valerii-udodov.com/posts/domain-driven-design/)
+- [InfoQ - EventMesh Serverless Platform Promoted to Apache Top-Level Project](https://www.infoq.com/news/2023/04/eventmesh-serverless)
+- [InfoQ - AWS Updates the Well-Architected Framework](https://www.infoq.com/news/2023/04/aws-well-architected-framework/)
 - [Slack - Technology Lifecycle](https://slack.engineering/technology-lifecycle/)
 - [Sam Rose - Load Balancing](https://samwho.dev/load-balancing/)
 - [Paulius Jurcys - What is the Value of Your Data?](https://towardsdatascience.com/what-is-the-value-of-your-data-9341cd019b4d)
@@ -1114,6 +1127,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Debbie O'Brien - Adding analytics to your Nuxt site](https://debbie.codes/blog/nuxt-analytics/)
 - [wgpu - Safe and portable GPU abstraction in Rust, implementing WebGPU API.](https://github.com/gfx-rs/wgpu)
 - [Google - Chrome ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
 - [Angular - RFC: Angular Signals](https://github.com/angular/angular/discussions/49685)
@@ -1228,6 +1242,12 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Oskar Dudycz - How to test event-driven projections](https://event-driven.io/en/testing_event_driven_projections/?utm_source=architecture_weekly)
+- [Michael Feathers - Characterization Testing](https://michaelfeathers.silvrback.com/characterization-testing)
+- [Tracetest - Generate end-to-end tests automatically from your traces. For QA, Dev, & Ops.](https://tracetest.io/)
+- [Oskar Dudycz - How to test event-driven projections](https://event-driven.io/en/testing_event_driven_projections/?utm_source=architecture_weekly)
+- [Michael Feathers - Characterization Testing](https://michaelfeathers.silvrback.com/characterization-testing)
+- [Tracetest - Generate end-to-end tests automatically from your traces. For QA, Dev, & Ops.](https://tracetest.io/)
 - [Mark Seemann - An abstract example of refactoring from interaction-based to property-based testing](https://blog.ploeh.dk/2023/04/03/an-abstract-example-of-refactoring-from-interaction-based-to-property-based-testing/)
 - [Kamil Grzybek - Automated Tests: The Why](https://www.kamilgrzybek.com/blog/posts/automated-tests-the-why)
 - [Chelsea Troy - Testing: A Heuristic Hunting Conversation with Rebecca Wirfs-Brock](https://chelseatroy.com/2023/03/22/testing-a-heuristic-hunting-conversation-with-rebecca-wirfs-brock/)
@@ -1323,6 +1343,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Datomic - Datomic is Free](https://blog.datomic.com/2023/04/datomic-is-free.html)
+- [Turso - Turso is an edge-hosted, distributed database based on libSQL](https://turso.tech/)
+- [libSQL - a fork of SQLite that is both Open Source, and Open Contributions.](https://github.com/libsql/libsql)
 - [dbdev: PostgreSQL Package Manager](https://supabase.com/blog/dbdev)
 - [SupaBase - Supabase Wrappers, a Postgres FDW framework written in Rust](https://supabase.com/blog/postgres-foreign-data-wrappers-rust)
 - [Oskar Dudycz - Postgres Superpowers in Practice](https://event-driven.io/en/postgres_superpowers/)
@@ -1505,6 +1528,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [ML YouTube Courses - Discover the latest machine learning / AI courses on YouTube.](https://github.com/dair-ai/ML-YouTube-Courses)
 - [AWS - Announcing New Tools for Building with Generative AI on AWS](https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/)
 - [Semantic Kernel - Integrate cutting-edge LLM technology quickly and easily into your apps](https://github.com/microsoft/semantic-kernel)
 - [Danah Boyd - Resisting Deterministic Thinking](https://zephoria.medium.com/resisting-deterministic-thinking-52ef8d78248c)
@@ -1670,6 +1694,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Microsoft - Secure your .NET cloud apps with rootless Linux Containers](https://devblogs.microsoft.com/dotnet/securing-containers-with-rootless/)
+- [Luce Carter - Zero to Document Hero - Intro to MongoDB and .NET](https://www.youtube.com/watch?v=5s3CpxjvlrY)
+- [Kevin Gosse - Writing a .NET profiler in C# — Part 3](https://minidump.net/writing-a-net-profiler-in-c-part-3-7d2c59fc017f)
+- [Christian Nagel - Web API Updates with .NET 8](https://csharp.christiannagel.com/2023/04/19/api-dotnet8/)
 - [Oskar Dudycz - Publishing read model changes from Marten](https://event-driven.io/en/publishing_read_model_changes_from_marten/?utm_source=architecture_weekly)
 - [VaultSharp - A comprehensive cross-platform .NET Library for HashiCorp's Vault](https://github.com/rajanadar/VaultSharp)
 - [DistributedLock - A .NET library for distributed synchronization](https://github.com/madelson/DistributedLock)
@@ -2233,6 +2261,7 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [The NewStack - Will JavaScript Become the Most Popular WebAssembly Language?](https://thenewstack.io/will-javascript-become-the-most-popular-webassembly-language/)
 - [The NewStack - WebAssembly: 5 Predictions for 2023](https://thenewstack.io/webassembly-5-predictions-for-2023/)
 - [Matt Butcher, Radu Matei - The Six Ways of Optimizing WebAssembly](https://www.infoq.com/articles/six-ways-optimize-webassembly/)
 - [MDN - Web Assembly docs](https://developer.mozilla.org/en-US/docs/WebAssembly)
@@ -2253,6 +2282,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [T.R. Tulili, A. Capiluppi, A. Rastogi - Burnout in software engineering: A systematic mapping study](https://www.sciencedirect.com/science/article/pii/S0950584922002257)
 - [Martin Fowler - Slack](https://martinfowler.com/bliki/Slack.html)
 - [Randall Koutnik - Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)
 - [Gergerly Orosz - How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)
@@ -2884,6 +2914,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Wired - Stack Overflow Will Charge AI Giants for Training Data](https://www.wired.com/story/stack-overflow-will-charge-ai-giants-for-training-data/)
 - [The Wall Street Journal - Lyft to Cut at Least 1,200 Jobs in New Round of Layoffs to Reduce Costs](https://www.wsj.com/articles/lyft-to-cut-at-least-1-200-jobs-in-new-round-of-layoffs-to-reduce-costs-da423e53)
 - [Europa Data Protection Board - Finnish SA: Administrative fine on Viking Line for unlawful processing of employees' health data](https://edpb.europa.eu/news/national-news/2023/finnish-sa-administrative-fine-viking-line-unlawful-processing-employees_en)
 - [Comprehensive - How much are tech companies paying for talent?](https://www.comprehensive.io/)
@@ -3136,6 +3167,8 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Motion Canvas - Visualize Complex Ideas Programmatically](https://github.com/motion-canvas/motion-canvas)
+- [Mega-Linter - analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.](https://github.com/oxsecurity/megalinter)
 - [Julien Lengrand-Lambert - Replacing Postman with the JetBrains HTTP Client](https://foojay.io/today/replacing-postman-with-the-jetbrains-http-client/)
 - [Amazon CodeCatalyst - Dev Environments](https://codecatalyst.aws/explore/dev-environments)
 - [Hurl - Hurl is a command line tool that runs HTTP requests defined in a simple plain text format](https://hurl.dev/)
@@ -3215,6 +3248,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [TechCrunch - Mullvad VPN maker says police tried to raid its offices but couldn’t find any user data](https://www.theverge.com/2023/4/21/23692580/mullvad-vpn-raid-sweden-police)
 - [Auth0 - Zanzibar Academy - A Globally Distributed Authorization System](https://zanzibar.academy/)
 - [OpenFGA - Relationship-based access control made fast, scalable, and easy to use](https://openfga.dev/)
 - [The Washington Post - Discord member details how documents leaked from closed chat group](https://www.washingtonpost.com/national-security/2023/04/12/discord-leaked-documents/)

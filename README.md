@@ -24,6 +24,67 @@ There are two rules:
 
 ---
 
+## [1st May 2023](per-week/2023-05-01.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
+
+---
+
+### Architecture
+- [The NewStack - Google Cloud Services Hit by Outage in Paris](https://thenewstack.io/google-cloud-services-hit-by-outage-in-paris/)
+- [Google - Cloud incident status 2023-04-25](https://status.cloud.google.com/incidents/dS9ps52MUnxQfyDGPfkY)
+- [DataCenterDynamics - OVHcloud's data center fire: One year on, what do we know?](https://www.datacenterdynamics.com/en/opinions/ovhclouds-data-center-fire-one-year-on-what-do-we-know/)
+- [Slack - Real-time Messaging](https://slack.engineering/real-time-messaging/)
+- [ThoughtWorks - Technology Radar #28](https://www.thoughtworks.com/content/dam/thoughtworks/documents/radar/2023/04/tr_technology_radar_vol_28_en.pdf)
+- [WunderGraph - Is GraphQL dying? 2023 Trend Analysis of REST, GraphQL, OpenAPI, SOAP, gRPC and tRPC](https://wundergraph.com/blog/graphql_rest_openapi_trend_analysis_2023)
+- [Prequel - SQL Maxis: Why We Ditched RabbitMQ And Replaced It With A Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
+- [Gregor Hohpe - Programming without a stack trace: When abstractions become illusions](https://architectelevator.com/architecture/stacktrace-abstraction/)
+- [Martin Fowler - FeatureToggle](https://martinfowler.com/bliki/FeatureToggle.html)
+- [Pete Hodgson - Feature Toggles (aka Feature Flags)](https://martinfowler.com/articles/feature-toggles.html)
+- [Valerii Udonov - Domain-Driven Design: building the Right thing Right](https://valerii-udodov.com/posts/domain-driven-design/)
+- [InfoQ - EventMesh Serverless Platform Promoted to Apache Top-Level Project](https://www.infoq.com/news/2023/04/eventmesh-serverless)
+- [InfoQ - AWS Updates the Well-Architected Framework](https://www.infoq.com/news/2023/04/aws-well-architected-framework/)
+
+### Databases
+- [Datomic - Datomic is Free](https://blog.datomic.com/2023/04/datomic-is-free.html)
+- [Turso - Turso is an edge-hosted, distributed database based on libSQL](https://turso.tech/)
+- [libSQL - a fork of SQLite that is both Open Source, and Open Contributions.](https://github.com/libsql/libsql)
+
+### Frontend
+- [Debbie O'Brien - Adding analytics to your Nuxt site](https://debbie.codes/blog/nuxt-analytics/)
+
+### Testing
+- [Oskar Dudycz - How to test event-driven projections](https://event-driven.io/en/testing_event_driven_projections/?utm_source=architecture_weekly)
+- [Michael Feathers - Characterization Testing](https://michaelfeathers.silvrback.com/characterization-testing)
+- [Tracetest - Generate end-to-end tests automatically from your traces. For QA, Dev, & Ops.](https://tracetest.io/)
+
+### AI
+- [ML YouTube Courses - Discover the latest machine learning / AI courses on YouTube.](https://github.com/dair-ai/ML-YouTube-Courses)
+
+### .NET
+- [Microsoft - Secure your .NET cloud apps with rootless Linux Containers](https://devblogs.microsoft.com/dotnet/securing-containers-with-rootless/)
+- [Luce Carter - Zero to Document Hero - Intro to MongoDB and .NET](https://www.youtube.com/watch?v=5s3CpxjvlrY)
+- [Kevin Gosse - Writing a .NET profiler in C# — Part 3](https://minidump.net/writing-a-net-profiler-in-c-part-3-7d2c59fc017f)
+- [Christian Nagel - Web API Updates with .NET 8](https://csharp.christiannagel.com/2023/04/19/api-dotnet8/)
+
+### Tools
+- [Motion Canvas - Visualize Complex Ideas Programmatically](https://github.com/motion-canvas/motion-canvas)
+- [Mega-Linter - analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.](https://github.com/oxsecurity/megalinter)
+
+### WebAssembly
+- [The NewStack - Will JavaScript Become the Most Popular WebAssembly Language?](https://thenewstack.io/will-javascript-become-the-most-popular-webassembly-language/)
+
+### Coding Life
+- [T.R. Tulili, A. Capiluppi, A. Rastogi - Burnout in software engineering: A systematic mapping study](https://www.sciencedirect.com/science/article/pii/S0950584922002257)
+
+### Industry
+- [Wired - Stack Overflow Will Charge AI Giants for Training Data](https://www.wired.com/story/stack-overflow-will-charge-ai-giants-for-training-data/)
+
+### Security
+- [TechCrunch - Mullvad VPN maker says police tried to raid its offices but couldn’t find any user data](https://www.theverge.com/2023/4/21/23692580/mullvad-vpn-raid-sweden-police)
+
+---
+
 ## [24th April 2023](per-week/2023-04-24.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
