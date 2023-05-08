@@ -1246,7 +1246,6 @@
 - [Michael Feathers - Characterization Testing](https://michaelfeathers.silvrback.com/characterization-testing)
 - [Tracetest - Generate end-to-end tests automatically from your traces. For QA, Dev, & Ops.](https://tracetest.io/)
 - [Oskar Dudycz - How to test event-driven projections](https://event-driven.io/en/testing_event_driven_projections/?utm_source=architecture_weekly)
-- [Michael Feathers - Characterization Testing](https://michaelfeathers.silvrback.com/characterization-testing)
 - [Tracetest - Generate end-to-end tests automatically from your traces. For QA, Dev, & Ops.](https://tracetest.io/)
 - [Mark Seemann - An abstract example of refactoring from interaction-based to property-based testing](https://blog.ploeh.dk/2023/04/03/an-abstract-example-of-refactoring-from-interaction-based-to-property-based-testing/)
 - [Kamil Grzybek - Automated Tests: The Why](https://www.kamilgrzybek.com/blog/posts/automated-tests-the-why)
