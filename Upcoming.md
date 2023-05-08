@@ -1,62 +1,9 @@
 # Upcoming Links
 
-## 8th May 2023
+## 15th May 2023
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
 
 ### Architecture
-- [Amazon Prime Video Tech - Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
-- [Adrian Cockcroft - So many bad takes — What is there to learn from the Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
-- [Werner Vogels - Monoliths are not dinosaurs](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html)
-- [James Shore - Rethinking Scaling](https://www.youtube.com/watch?v=VOMKAa_tmQ0)
-- [The Jim Rutt Show - Dave Snowden on Managing Complexity in Times of Crisis](https://www.jimruttshow.com/dave-snowden-2/)
-- [Michelle Ufford - Whoops, the numbers are wrong! Scaling data quality @ Netflix](https://www.youtube.com/watch?v=fXHdeBnpXrg)
-- [Sara Pellegrini, Milan Savić - The aggregate is dead. Long live the aggregate!](https://www.youtube.com/watch?v=0iP65Durhbs)
-- [A. Harmel-Law, D. Montalion, M. Rozinsky, G. Thiyagarajan, D. Young - A Commune in the Ivory Tower? - A New Approach to Architecture](https://www.youtube.com/watch?v=ogv4lUOtMb0)
-
-### DevOps
-- [cilium - eBPF-based Networking, Security, and Observability](https://github.com/cilium/cilium)
-
-### Databases
-- [Oskar Dudycz - General strategy for migrating relational data to document-based](https://event-driven.io/en/strategy_on_migrating_relational_data_to_document_based/)
-- [S. Sarkar, N. Dayan, M. Athanassoulis - The LSM Design Space and its Read Optimizations](https://cs-people.bu.edu/mathan/publications/icde23-tutorial.pdf)
-
-### Frontend
-- [Angular Master Podcast 38 - Minko Gechev on Angular 17+](https://www.youtube.com/watch?v=aXfCNbU-9EY&t=3s)
-
-### Linux
-- [ZDNet - Linux Kernel 6.3 is released with some major new features](https://www.zdnet.com/article/linux-kernel-6-3-is-released-with-some-major-new-features/)
-
-### .NET
-- [Jeremy D. Miller - Twisting PostgreSQL into a Document Db and Event Store](https://www.youtube.com/watch?v=rrWweRReLZM)
-- [Edwin van Wijk - Dapr workshop](https://github.com/edwinvw/dapr-workshop)
-- [Microsoft - ASP.NET Core Route Tooling Enhancements in .NET 8](https://devblogs.microsoft.com/dotnet/aspnet-core-route-tooling-dotnet-8/)
-- [Oren Eini - Fight for every byte it takes series](https://ayende.com/blog/posts/series/199329-B/fight-for-every-byte-it-takes)
-
-### Node.js
-- [Fast Node Manager (fnm) -  Fast and simple Node.js version manager, built in Rust](https://github.com/Schniz/fnm)
-
-### Tools
-- [Fusuma - A tool that makes slides with Markdown easily](https://github.com/hiroppy/fusuma)
-- [phind - The AI search engine for developers](https://www.phind.com/)
-
-### Coding Life
-- [Martin Fowler - An example of preparatory refactoring](https://martinfowler.com/articles/preparatory-refactoring-example.html)
-- [Woody Zuill - Practical Refactoring](https://www.youtube.com/watch?app=desktop&v=aWiwDdx_rdo)
-
-### Management
-- [Charity Majors - The Engineer/Manager Pendulum](https://www.infoq.com/presentations/hands-on-coding-managers)
-
-### Security
-- [The Wired - The Untold Story of the Boldest Supply-Chain Hack Ever](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever)
-
-### Industry
-- [Dylan Patel - Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
-- [Yahoo - OpenAI Is Losing a Flabbergasting Amount of Money on ChatGPT](https://news.yahoo.com/openai-losing-flabbergasting-amount-money-120238659.html)
-- [MIT - OpenAI’s hunger for data is coming back to bite it](https://www.technologyreview.com/2023/04/19/1071789/openais-hunger-for-data-is-coming-back-to-bite-it/)
-- [ArsTechnica - Warning of AI’s danger, pioneer Geoffrey Hinton quits Google to speak freely](https://arstechnica.com/information-technology/2023/05/warning-of-ais-danger-pioneer-geoffrey-hinton-quits-google-to-speak-freely)
-
-### Trivia
-- [Mark Manson - How to Take Risks](https://markmanson.net/risk)

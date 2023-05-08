@@ -58,6 +58,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Amazon Prime Video Tech - Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
+- [Adrian Cockcroft - So many bad takes — What is there to learn from the Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
+- [Werner Vogels - Monoliths are not dinosaurs](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html)
+- [James Shore - Rethinking Scaling](https://www.youtube.com/watch?v=VOMKAa_tmQ0)
+- [The Jim Rutt Show - Dave Snowden on Managing Complexity in Times of Crisis](https://www.jimruttshow.com/dave-snowden-2/)
+- [Michelle Ufford - Whoops, the numbers are wrong! Scaling data quality @ Netflix](https://www.youtube.com/watch?v=fXHdeBnpXrg)
+- [Sara Pellegrini, Milan Savić - The aggregate is dead. Long live the aggregate!](https://www.youtube.com/watch?v=0iP65Durhbs)
+- [A. Harmel-Law, D. Montalion, M. Rozinsky, G. Thiyagarajan, D. Young - A Commune in the Ivory Tower? - A New Approach to Architecture](https://www.youtube.com/watch?v=ogv4lUOtMb0)
 - [The NewStack - Google Cloud Services Hit by Outage in Paris](https://thenewstack.io/google-cloud-services-hit-by-outage-in-paris/)
 - [Google - Cloud incident status 2023-04-25](https://status.cloud.google.com/incidents/dS9ps52MUnxQfyDGPfkY)
 - [DataCenterDynamics - OVHcloud's data center fire: One year on, what do we know?](https://www.datacenterdynamics.com/en/opinions/ovhclouds-data-center-fire-one-year-on-what-do-we-know/)
@@ -962,6 +970,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [cilium - eBPF-based Networking, Security, and Observability](https://github.com/cilium/cilium)
 - [The NewStack - Survey Shows Companies Moving away from DIY Kubernetes](https://thenewstack.io/survey-shows-companies-moving-away-from-diy-kubernetes)
 - [Open Telemetry - Announcing the Elastic Common Schema (ECS) and OpenTelemetry Semantic Convention Convergence](https://opentelemetry.io/blog/2023/ecs-otel-semconv-convergence/)
 - [Last Week in AWS - LocalStack: Why Local Development for Cloud Workloads Makes Sense](https://www.lastweekinaws.com/blog/localstack-why-local-development-for-cloud-workloads-makes-sense/)
@@ -1127,6 +1136,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Angular Master Podcast 38 - Minko Gechev on Angular 17+](https://www.youtube.com/watch?v=aXfCNbU-9EY&t=3s)
 - [Debbie O'Brien - Adding analytics to your Nuxt site](https://debbie.codes/blog/nuxt-analytics/)
 - [wgpu - Safe and portable GPU abstraction in Rust, implementing WebGPU API.](https://github.com/gfx-rs/wgpu)
 - [Google - Chrome ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
@@ -1342,6 +1352,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Oskar Dudycz - General strategy for migrating relational data to document-based](https://event-driven.io/en/strategy_on_migrating_relational_data_to_document_based/)
+- [S. Sarkar, N. Dayan, M. Athanassoulis - The LSM Design Space and its Read Optimizations](https://cs-people.bu.edu/mathan/publications/icde23-tutorial.pdf)
 - [Datomic - Datomic is Free](https://blog.datomic.com/2023/04/datomic-is-free.html)
 - [Turso - Turso is an edge-hosted, distributed database based on libSQL](https://turso.tech/)
 - [libSQL - a fork of SQLite that is both Open Source, and Open Contributions.](https://github.com/libsql/libsql)
@@ -1693,6 +1705,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jeremy D. Miller - Twisting PostgreSQL into a Document Db and Event Store](https://www.youtube.com/watch?v=rrWweRReLZM)
+- [Edwin van Wijk - Dapr workshop](https://github.com/edwinvw/dapr-workshop)
+- [Microsoft - ASP.NET Core Route Tooling Enhancements in .NET 8](https://devblogs.microsoft.com/dotnet/aspnet-core-route-tooling-dotnet-8/)
+- [Oren Eini - Fight for every byte it takes series](https://ayende.com/blog/posts/series/199329-B/fight-for-every-byte-it-takes)
 - [Microsoft - Secure your .NET cloud apps with rootless Linux Containers](https://devblogs.microsoft.com/dotnet/securing-containers-with-rootless/)
 - [Luce Carter - Zero to Document Hero - Intro to MongoDB and .NET](https://www.youtube.com/watch?v=5s3CpxjvlrY)
 - [Kevin Gosse - Writing a .NET profiler in C# — Part 3](https://minidump.net/writing-a-net-profiler-in-c-part-3-7d2c59fc017f)
@@ -2281,6 +2297,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Martin Fowler - An example of preparatory refactoring](https://martinfowler.com/articles/preparatory-refactoring-example.html)
+- [Woody Zuill - Practical Refactoring](https://www.youtube.com/watch?app=desktop&v=aWiwDdx_rdo)
 - [T.R. Tulili, A. Capiluppi, A. Rastogi - Burnout in software engineering: A systematic mapping study](https://www.sciencedirect.com/science/article/pii/S0950584922002257)
 - [Martin Fowler - Slack](https://martinfowler.com/bliki/Slack.html)
 - [Randall Koutnik - Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)
@@ -2496,6 +2514,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Charity Majors - The Engineer/Manager Pendulum](https://www.infoq.com/presentations/hands-on-coding-managers)
 - [Bertrand Mayer - Object Success](https://bertrandmeyer.com/SUCCESS/)
 - [Peaksys Engineering - Why we have decided not to use SAFe® anymore](https://medium.com/peaksys-engineering/why-we-have-decided-not-to-use-safe-anymore-c8eb7eb0d8a6)
 - [Matt Wynne, Steve Tooke - Slicing User Stories for Agile Teams](https://maven.com/levain/slicing-user-stories-for-agile-teams)
@@ -2748,6 +2767,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [Fast Node Manager (fnm) -  Fast and simple Node.js version manager, built in Rust](https://github.com/Schniz/fnm)
 - [LogRocket - WebSockets tutorial: How to go real-time with Node and React](https://blog.logrocket.com/websocket-tutorial-real-time-node-react/)
 - [Jamie Munro - How to Make a Real-Time Sports Application Using Node.js](https://code.tutsplus.com/tutorials/real-time-sports-application-using-nodejs--cms-30594)
 - [Node Distributed Lock - Enables distributed locking for sequencing actions across node applications](https://github.com/ndustrialio/node-distributed-lock)
@@ -2913,6 +2933,10 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Dylan Patel - Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
+- [Yahoo - OpenAI Is Losing a Flabbergasting Amount of Money on ChatGPT](https://news.yahoo.com/openai-losing-flabbergasting-amount-money-120238659.html)
+- [MIT - OpenAI’s hunger for data is coming back to bite it](https://www.technologyreview.com/2023/04/19/1071789/openais-hunger-for-data-is-coming-back-to-bite-it/)
+- [ArsTechnica - Warning of AI’s danger, pioneer Geoffrey Hinton quits Google to speak freely](https://arstechnica.com/information-technology/2023/05/warning-of-ais-danger-pioneer-geoffrey-hinton-quits-google-to-speak-freely)
 - [Wired - Stack Overflow Will Charge AI Giants for Training Data](https://www.wired.com/story/stack-overflow-will-charge-ai-giants-for-training-data/)
 - [The Wall Street Journal - Lyft to Cut at Least 1,200 Jobs in New Round of Layoffs to Reduce Costs](https://www.wsj.com/articles/lyft-to-cut-at-least-1-200-jobs-in-new-round-of-layoffs-to-reduce-costs-da423e53)
 - [Europa Data Protection Board - Finnish SA: Administrative fine on Viking Line for unlawful processing of employees' health data](https://edpb.europa.eu/news/national-news/2023/finnish-sa-administrative-fine-viking-line-unlawful-processing-employees_en)
@@ -3149,6 +3173,7 @@
 - [Geoff Huston - Another year of the transition to IPv6](https://blog.apnic.net/2022/02/21/another-year-of-the-transition-to-ipv6/)
 
 ## Linux
+- [ZDNet - Linux Kernel 6.3 is released with some major new features](https://www.zdnet.com/article/linux-kernel-6-3-is-released-with-some-major-new-features/)
 - [Bryan Lunduke - Linux Sucks 2022](https://lunduke.substack.com/p/linux-sucks-2022)
 - [Asahi Linux - A project and community with the goal of porting Linux to Apple Silicon Macs](https://asahilinux.org/about/)
 
@@ -3166,6 +3191,8 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Fusuma - A tool that makes slides with Markdown easily](https://github.com/hiroppy/fusuma)
+- [phind - The AI search engine for developers](https://www.phind.com/)
 - [Motion Canvas - Visualize Complex Ideas Programmatically](https://github.com/motion-canvas/motion-canvas)
 - [Mega-Linter - analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.](https://github.com/oxsecurity/megalinter)
 - [Julien Lengrand-Lambert - Replacing Postman with the JetBrains HTTP Client](https://foojay.io/today/replacing-postman-with-the-jetbrains-http-client/)
@@ -3247,6 +3274,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [The Wired - The Untold Story of the Boldest Supply-Chain Hack Ever](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever)
 - [TechCrunch - Mullvad VPN maker says police tried to raid its offices but couldn’t find any user data](https://www.theverge.com/2023/4/21/23692580/mullvad-vpn-raid-sweden-police)
 - [Auth0 - Zanzibar Academy - A Globally Distributed Authorization System](https://zanzibar.academy/)
 - [OpenFGA - Relationship-based access control made fast, scalable, and easy to use](https://openfga.dev/)
@@ -3398,6 +3426,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Mark Manson - How to Take Risks](https://markmanson.net/risk)
 - [Marcus Raitner - On the Wise Use of Our Insultingly Short Lifespan](https://raitner.de/en/2023/02/on-the-wise-use-of-our-insultingly-short-lifespan/)
 - [Bramus Van Damme - YAML: The Norway Problem](https://www.bram.us/2022/01/11/yaml-the-norway-problem/)
 - [Infinite-Storage-Glitch - Lets you use YouTube as cloud storage for ANY files, not just video ](https://github.com/DvorakDwarf/Infinite-Storage-Glitch)
