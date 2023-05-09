@@ -6,4 +6,4 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ---
 
-### Architecture
+[How to test an API request to the external system](https://blog.szymonmiks.pl/p/how-to-test-an-api-request-to-the-external-system/)
