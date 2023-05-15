@@ -58,6 +58,16 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Gergely Orosz - Datadog’s $65M/year customer mystery solved](https://newsletter.pragmaticengineer.com/p/the-scoop-47)
+- [Motley Fool Transcribing - Datadog (DDOG) Q1 2023 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2023/05/04/datadog-ddog-q1-2023-earnings-call-transcript/)
+- [Netflix - Migrating Critical Traffic At Scale with No Downtime — Part 1](https://netflixtechblog.com/migrating-critical-traffic-at-scale-with-no-downtime-part-1-ba1c7a1c7835)
+- [Luca Mezzalira - Microfrontends Anti-Patterns: Seven Years in the Trenches](https://www.infoq.com/presentations/microfrontend-antipattern)
+- [Derek Comartin - Avoid batch jobs! Model the future!](https://www.youtube.com/watch?v=oKq_ZsfrFfs)
+- [Yan Cui - Is serverless overpriced? What can we learn from the PrimeVideo team?](https://theburningmonk.com/2023/05/is-serverless-overpriced-what-can-we-learn-from-the-primevideo-team/)
+- [Camille Fournier - Avoiding the Rewrite Trap](https://skamille.medium.com/avoiding-the-rewrite-trap-b1283b8dd39e)
+- [Eberhard Wolff - Why You Might Fail with DDD](https://www.youtube.com/watch?v=dHF7Llmt2Pc)
+- [Hany Elemary - Customer Experience APIs: The missing layer](https://medium.com/navalia/customer-experience-apis-the-missing-layer-58ecb93faa4b)
+- [Amy Hupe - How to write sh*t documentation](https://www.youtube.com/watch?v=z7p60pe7U5o)
 - [Amazon Prime Video Tech - Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
 - [Adrian Cockcroft - So many bad takes — What is there to learn from the Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
 - [Werner Vogels - Monoliths are not dinosaurs](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html)
@@ -970,6 +980,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Natalie Arellano, Aidan Delaney - Customizing Your Buildpacks Build – Yes You Can!](https://www.youtube.com/watch?v=ZrxAyk1-pSs)
+- [Google - Autopilot is now GKE’s default mode of operation — here’s what that means for you](https://cloud.google.com/blog/products/containers-kubernetes/gke-autopilot-is-now-default-mode-of-cluster-operation/)
 - [cilium - eBPF-based Networking, Security, and Observability](https://github.com/cilium/cilium)
 - [The NewStack - Survey Shows Companies Moving away from DIY Kubernetes](https://thenewstack.io/survey-shows-companies-moving-away-from-diy-kubernetes)
 - [Open Telemetry - Announcing the Elastic Common Schema (ECS) and OpenTelemetry Semantic Convention Convergence](https://opentelemetry.io/blog/2023/ecs-otel-semconv-convergence/)
@@ -1352,6 +1364,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [PostgREST - A standalone web server that turns your PostgreSQL database directly into a RESTful API](https://postgrest.org)
+- [data-diff - Compare tables within or across databases](https://github.com/datafold/data-diff)
 - [Oskar Dudycz - General strategy for migrating relational data to document-based](https://event-driven.io/en/strategy_on_migrating_relational_data_to_document_based/)
 - [S. Sarkar, N. Dayan, M. Athanassoulis - The LSM Design Space and its Read Optimizations](https://cs-people.bu.edu/mathan/publications/icde23-tutorial.pdf)
 - [Datomic - Datomic is Free](https://blog.datomic.com/2023/04/datomic-is-free.html)
@@ -1705,6 +1719,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jake Scott - Deploy a Serverless API Using .NET NativeAOT](https://jakejscott.com/deploy-a-serverless-api-using-net-nativeaot)
+- [Norm Micro-ORM - High performance micro-ORM database mapper and modernized Dapper replacement for .NET Standard 2.1 and higher](https://github.com/vb-consulting/Norm.net)
+- [BlobHelper - BlobHelper is a common, consistent storage interface for Microsoft Azure, Amazon S3, Komodo, Kvpbase, and local filesystem written in C#](https://github.com/jchristn/BlobHelper)
+- [ChatGPT - A ChatGPT C# client for MacOS, Windows, Linux, Android, iOS and Browser. Powered by Avalonia UI framework.](https://github.com/wieslawsoltes/ChatGPT)
 - [Jeremy D. Miller - Twisting PostgreSQL into a Document Db and Event Store](https://www.youtube.com/watch?v=rrWweRReLZM)
 - [Edwin van Wijk - Dapr workshop](https://github.com/edwinvw/dapr-workshop)
 - [Microsoft - ASP.NET Core Route Tooling Enhancements in .NET 8](https://devblogs.microsoft.com/dotnet/aspnet-core-route-tooling-dotnet-8/)
@@ -2297,6 +2315,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Oskar Dudycz - A few notes on running open source project after Marten v6 release](https://event-driven.io/en/a_few_notes_on_running_open_source_project/?utm_source=architecture_weekly)
+- [Mike Melanson - How ‘open’ should your open source be?](https://github.com/readme/featured/how-open-is-open-source)
 - [Martin Fowler - An example of preparatory refactoring](https://martinfowler.com/articles/preparatory-refactoring-example.html)
 - [Woody Zuill - Practical Refactoring](https://www.youtube.com/watch?app=desktop&v=aWiwDdx_rdo)
 - [T.R. Tulili, A. Capiluppi, A. Rastogi - Burnout in software engineering: A systematic mapping study](https://www.sciencedirect.com/science/article/pii/S0950584922002257)
@@ -2514,6 +2534,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Ben Kuhn - Some mistakes I made as a new manager](https://www.benkuhn.net/newmgr/)
 - [Charity Majors - The Engineer/Manager Pendulum](https://www.infoq.com/presentations/hands-on-coding-managers)
 - [Bertrand Mayer - Object Success](https://bertrandmeyer.com/SUCCESS/)
 - [Peaksys Engineering - Why we have decided not to use SAFe® anymore](https://medium.com/peaksys-engineering/why-we-have-decided-not-to-use-safe-anymore-c8eb7eb0d8a6)
@@ -2615,6 +2636,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Reflectoring.io - Structured Logging with Spring Boot and Amazon CloudWatch](https://reflectoring.io/struct-log-with-cloudwatch-tutorial/)
 - [Gunnar Morling - Getting Started With Java Development in 2023 — An Opinionated Guide](https://www.morling.dev/blog/getting-started-with-java-development-2023/)
 - [Roni Dover - Not Your Grandfather’s Logs — A Java Library’s New Approach To Observability](https://foojay.io/today/not-your-grandfathers-logs-a-java-librarys-new-approach-to-observability/)
 - [Tobi Ajila - Rapid Startup of Your Cloud-Native Java Applications without Compromise](https://www.infoq.com/articles/rapid-startup-of-your-cloud-native-java)
@@ -2933,6 +2955,11 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [CNBC - Shopify offloads logistics business to Flexport](https://www.cnbc.com/2023/05/04/shopify-offloads-logistics-business-to-flexport.html)
+- [IT Brew - Senate takes action on open-source vulnerabilities in wake of 2022 Log4j attack](https://www.itbrew.com/stories/2023/04/28/senate-takes-action-on-open-source-vulnerabilities-in-wake-of-2022-log4j-attack)
+- [BBC - Ex-Uber security chief sentenced over covering up hack](https://www.bbc.com/news/technology-65497186)
+- [The Byte - IBM Replacing 7,800 Human Jobs With AI, Including Human Resources](https://futurism.com/the-byte/ibm-replacing-humans-ai)
+- [Fortune - Leaked email from Microsoft CEO says salaried staff will not get raises this year due to macroeconomic conditions](https://fortune.com/2023/05/10/microrosft-cuts-annual-salary-leaked-email-satya-nadella/)
 - [Dylan Patel - Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 - [Yahoo - OpenAI Is Losing a Flabbergasting Amount of Money on ChatGPT](https://news.yahoo.com/openai-losing-flabbergasting-amount-money-120238659.html)
 - [MIT - OpenAI’s hunger for data is coming back to bite it](https://www.technologyreview.com/2023/04/19/1071789/openais-hunger-for-data-is-coming-back-to-bite-it/)
@@ -3191,6 +3218,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [GitHub - GitHub code search is generally available](https://github.blog/2023-05-08-github-code-search-is-generally-available/)
 - [Fusuma - A tool that makes slides with Markdown easily](https://github.com/hiroppy/fusuma)
 - [phind - The AI search engine for developers](https://www.phind.com/)
 - [Motion Canvas - Visualize Complex Ideas Programmatically](https://github.com/motion-canvas/motion-canvas)
@@ -3274,6 +3302,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [SonaType - State of the Software Supply Chain](https://www.sonatype.com/resources/2023-software-supply-chain-report)
+- [Bleeping Computer - Discord discloses data breach after support agent got hacked](https://www.bleepingcomputer.com/news/security/discord-discloses-data-breach-after-support-agent-got-hacked/)
 - [The Wired - The Untold Story of the Boldest Supply-Chain Hack Ever](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever)
 - [TechCrunch - Mullvad VPN maker says police tried to raid its offices but couldn’t find any user data](https://www.theverge.com/2023/4/21/23692580/mullvad-vpn-raid-sweden-police)
 - [Auth0 - Zanzibar Academy - A Globally Distributed Authorization System](https://zanzibar.academy/)
@@ -3426,6 +3456,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Upraise - Output Vs Outcome: Top 10 Differences](https://upraise.io/blog/output-vs-outcome-top-10-differences/)
 - [Mark Manson - How to Take Risks](https://markmanson.net/risk)
 - [Marcus Raitner - On the Wise Use of Our Insultingly Short Lifespan](https://raitner.de/en/2023/02/on-the-wise-use-of-our-insultingly-short-lifespan/)
 - [Bramus Van Damme - YAML: The Norway Problem](https://www.bram.us/2022/01/11/yaml-the-norway-problem/)
