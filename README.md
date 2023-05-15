@@ -329,7 +329,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ### Coding Life
 - [Martin Fowler - Slack](https://martinfowler.com/bliki/Slack.html)
 - [Randall Koutnik - Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)
-- [Gergerly Orosz - How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)
+- [Gergely Orosz - How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)
 
 ### Industry
 - [PC Magazine - Elon Musk Tweet Broke Federal Labor Laws, US Court Rules](https://www.pcmag.com/news/elon-musk-tweet-broke-federal-labor-laws-us-court-rules)
@@ -3441,7 +3441,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ### DevOps
 - [The Register - At last, Atlassian sees an end to its outage ... in two weeks](https://www.theregister.com/2022/04/11/atlassian_outage_backups/)
-- [Gergerly Orosz - The Scoop: Inside the Longest Atlassian Outage of All Time](https://newsletter.pragmaticengineer.com/p/scoop-atlassian)
+- [Gergely Orosz - The Scoop: Inside the Longest Atlassian Outage of All Time](https://newsletter.pragmaticengineer.com/p/scoop-atlassian)
 - [Tomasz Brzoza - Managing complex configurations in large scale environments](https://medium.com/nordcloud-engineering/managing-complex-configurations-in-large-scale-environments-5bc6bfc009d5)
 - [Logz.io - The Complete Guide to the ELK Stack](https://logz.io/learn/complete-guide-elk-stack/)
 - [Mike Rogers - Testing Logstash configuration with JSON input/output](https://medium.com/@mikerogers1357/testing-logstash-configuration-with-json-input-output-9b781962cc2)
@@ -7042,7 +7042,7 @@ Ukraine, stay strong!
 - [React - Introducing Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
 
 ### Mobile
-- [Gergerly Orosz - 33 Engineering Challenges of Building Mobile Apps at Scale eBook & Other Learnings](https://gumroad.com/l/IuuuN)
+- [Gergely Orosz - 33 Engineering Challenges of Building Mobile Apps at Scale eBook & Other Learnings](https://gumroad.com/l/IuuuN)
 
 ### Testing
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
@@ -7122,7 +7122,7 @@ Ukraine, stay strong!
 ### Distributed Systems
 - [Miia Niemelä - Lessons learned from combining SQS and Lambda in a data project](https://data.solita.fi/lessons-learned-from-combining-sqs-and-lambda-in-a-data-project/)
 - [Adam Warski - Evaluating persistent, replicated message queues (2020 edition)](https://softwaremill.com/mqperf/)
-- [Gergerly Oros - Operating a Large, Distributed System in a Reliable Way: Practices I Learned](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/)
+- [Gergely Oros - Operating a Large, Distributed System in a Reliable Way: Practices I Learned](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/)
 - [Jimmy Bogard - Building End-to-End Diagnostics: ActivitySource and OpenTelemetry 1.0](https://jimmybogard.com/building-end-to-end-diagnostics-activitysource-and-open)
 - [Kevin Sookocheff - Dissecting SQS FIFO Queues — Does Ordered and Exactly Once Messaging Really Exist?](https://sookocheff.com/post/messaging/dissecting-sqs-fifo-queues/)
 
@@ -7131,7 +7131,7 @@ Ukraine, stay strong!
 
 ### Coding Life
 - [Joel Spolsky - Don't Let Architecture Astronauts Scare You](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you)
-- [Gergerly Oros - What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/)
+- [Gergely Oros - What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/)
 - [Dominik Jeske - Pull Requests](https://dominikjeske.github.io/pull-requests)
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
