@@ -58,6 +58,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Is the audit log a proper architecture driver for Event Sourcing?](https://event-driven.io/en/audit_log_event_sourcing/?utm_source=architecture_weekly)
+- [Suhail Patel - Banking on Thousands of Microservices](https://www.infoq.com/articles/cassandra-kubernetes-microservices/)
+- [Marc Brooker - Open and Closed, Omission and Collapse](https://brooker.co.za/blog/2023/05/10/open-closed.html)
+- [J.B. Rainsberger - Surviving Your Inevitable Agile Transition](https://www.youtube.com/watch?v=UQOmGiv7rUk)
+- [Rebecca Wirf-Brock - Getting out of your ruts](https://wirfs-brock.com/blog/2023/05/04/getting-out-of-your-ruts/)
+- [Matthew Skelton, Nick Tune - Independent Service Heuristics](https://www.youtube.com/watch?v=q8hwkDyL6Zs)
+- [Robert Yokota - Understanding JSON Schema Compatibility](https://yokota.blog/2021/03/29/understanding-json-schema-compatibility/)
+- [Adrian Hornsby - Respecting What Came Before, Premature Optimization, the Pitfalls of Sensationalism and Technology Enthusiasm](https://medium.com/the-cloud-architect/respecting-what-came-before-premature-optimization-the-pitfalls-of-sensationalism-and-technology-fae0c7826808)
+- [Kevlin Henney - The SOLID Design Principles Deconstructed](https://www.youtube.com/watch?v=tMW08JkFrBA)
 - [Gergely Orosz - Datadog’s $65M/year customer mystery solved](https://newsletter.pragmaticengineer.com/p/datadogs-65myear-customer-mystery)
 - [Motley Fool Transcribing - Datadog (DDOG) Q1 2023 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2023/05/04/datadog-ddog-q1-2023-earnings-call-transcript/)
 - [Netflix - Migrating Critical Traffic At Scale with No Downtime — Part 1](https://netflixtechblog.com/migrating-critical-traffic-at-scale-with-no-downtime-part-1-ba1c7a1c7835)
@@ -979,6 +988,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Elif Samedin, Andrei Buzoianu - Terraform check{} Block - define assertions based on data source values to verify the state of the infrastructure](https://unfriendlygrinch.info/posts/terraform-check-block/)
 - [Natalie Arellano, Aidan Delaney - Customizing Your Buildpacks Build – Yes You Can!](https://www.youtube.com/watch?v=ZrxAyk1-pSs)
 - [Google - Autopilot is now GKE’s default mode of operation — here’s what that means for you](https://cloud.google.com/blog/products/containers-kubernetes/gke-autopilot-is-now-default-mode-of-cluster-operation/)
 - [cilium - eBPF-based Networking, Security, and Observability](https://github.com/cilium/cilium)
@@ -1147,6 +1157,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Shopify - 3 ways to find your worst JavaScript offenders for page load](https://performance.shopify.com/blogs/blog/3-ways-to-find-your-worst-javascript-offenders-for-page-load)
 - [Angular Master Podcast 38 - Minko Gechev on Angular 17+](https://www.youtube.com/watch?v=aXfCNbU-9EY&t=3s)
 - [Debbie O'Brien - Adding analytics to your Nuxt site](https://debbie.codes/blog/nuxt-analytics/)
 - [wgpu - Safe and portable GPU abstraction in Rust, implementing WebGPU API.](https://github.com/gfx-rs/wgpu)
@@ -1263,6 +1274,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Michael Feathers - The Flawed Theory Behind Unit Testing](https://michaelfeathers.typepad.com/michael_feathers_blog/2008/06/the-flawed-theo.html)
 - [Oskar Dudycz - How to test event-driven projections](https://event-driven.io/en/testing_event_driven_projections/?utm_source=architecture_weekly)
 - [Michael Feathers - Characterization Testing](https://michaelfeathers.silvrback.com/characterization-testing)
 - [Tracetest - Generate end-to-end tests automatically from your traces. For QA, Dev, & Ops.](https://tracetest.io/)
@@ -1552,6 +1564,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [BYTE Magazine - Volume 06 Number 09 (1981) - Artificial Intelligence](https://archive.org/details/byte-magazine-1981-09/mode/2up)
 - [ML YouTube Courses - Discover the latest machine learning / AI courses on YouTube.](https://github.com/dair-ai/ML-YouTube-Courses)
 - [AWS - Announcing New Tools for Building with Generative AI on AWS](https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/)
 - [Semantic Kernel - Integrate cutting-edge LLM technology quickly and easily into your apps](https://github.com/microsoft/semantic-kernel)
@@ -1657,6 +1670,8 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Microsoft - Collection for Cloud Native New Year 2023](https://learn.microsoft.com/en-us/users/nityan/collections/xz6ehr3z7o7e1q?WT.mc_id=javascript-74010-ninarasi)
+- [Alicja Kucharczyk, Adam Wołk - Multi-tenant Saas apps made simple on Azure Cosmos DB for PostgreSQL](https://www.youtube.com/watch?v=ZRmoFjhT08U)
 - [Azure Cost CLI - CLI tool to perform cost analysis on your Azure subscription](https://github.com/mivano/azure-cost-cli)
 - [Microsoft - The Azure Solution Architect Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-solution-architect-map/ba-p/689700?WT.mc_id=DT-MVP-5001664)
 - [Marilag Dimatulac Svennevig - Message Brokering and Event Driven Architecture on Azure](https://www.youtube.com/watch?v=6haKMxdWeZY)
@@ -1718,6 +1733,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jeremy D. Miller - Marten V6 is Out! And the road to Wolverine 1.0](https://jeremydmiller.com/2023/05/11/marten-v6-is-out-and-the-road-to-wolverine-1-0/)
+- [Rick Strahl - Implementing Two-Factor Auth using an Authenticator App in ASP.NET](https://weblog.west-wind.com/posts/2023/May/17/Implementing-TwoFactor-Auth-using-an-Authenticator-app-in-ASPNET)
+- [JetBrains - C# Support in Fleet: Solution View, Unit Testing, and More!](https://blog.jetbrains.com/dotnet/2023/05/04/csharp-support-in-fleet-solution-view-unit-testing-and-more/)
+- [Microsoft - Learn how to modernize your .NET apps from the pros!](https://devblogs.microsoft.com/dotnet/learn-how-to-modernize-your-dotnet-apps/)
 - [Jake Scott - Deploy a Serverless API Using .NET NativeAOT](https://jakejscott.com/deploy-a-serverless-api-using-net-nativeaot)
 - [Norm Micro-ORM - High performance micro-ORM database mapper and modernized Dapper replacement for .NET Standard 2.1 and higher](https://github.com/vb-consulting/Norm.net)
 - [BlobHelper - BlobHelper is a common, consistent storage interface for Microsoft Azure, Amazon S3, Komodo, Kvpbase, and local filesystem written in C#](https://github.com/jchristn/BlobHelper)
@@ -2533,6 +2552,9 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Dan North - Patterns of Effective Teams](https://www.youtube.com/watch?v=lvs7VEsQzKY)
+- [S. E. Dreyfus, H. L. Dreyfus - A five-stage model of the mental activities involved in directed skill acquisition](https://apps.dtic.mil/sti/pdfs/ADA084551.pdf)
+- [Dave Farley - Kent Beck On AGILE vs WATERFALL](https://www.youtube.com/watch?v=J4ihLROXzPk)
 - [Ben Kuhn - Some mistakes I made as a new manager](https://www.benkuhn.net/newmgr/)
 - [Charity Majors - The Engineer/Manager Pendulum](https://www.infoq.com/presentations/hands-on-coding-managers)
 - [Bertrand Mayer - Object Success](https://bertrandmeyer.com/SUCCESS/)
@@ -2620,6 +2642,8 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [Zalando - Discovering & launching products in Zalando SE by Stefano Rinaldi](https://www.linkedin.com/events/discovering-launchingproductsin7058105004435365888/comments/)
+- [Sam McAfee - This Agile Hammer Doesn't Work For New Product Development](https://www.linkedin.com/pulse/agile-hammer-doesnt-work-new-product-development-sam-mcafee)
 - [Lars Kamp - Messaging, positioning and storytelling - how to get it right for your start-up](https://findingdistribution.substack.com/p/messaging-positioning-and-storytelling)
 - [Varun Cheedalla - Microsoft Kin—The Billion Dollar Smartphone Disaster](https://medium.com/techtalkers/microsoft-kin-the-billion-dollar-smartphone-disaster-982043c52f91)
 - [Jason Beres - Why DesignOps Matters: How to Improve Your Design Processes](https://www.infoq.com/articles/designops-improve-process)
@@ -2635,6 +2659,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Holly Cummins - Contract testing with Pact and Quarkus](https://www.youtube.com/watch?v=4xoJmz6bWB4)
+- [Oracle - Announcing Graal Cloud Native](https://blogs.oracle.com/java/post/announcing-graal-cloud-native-gcn)
 - [Reflectoring.io - Structured Logging with Spring Boot and Amazon CloudWatch](https://reflectoring.io/struct-log-with-cloudwatch-tutorial/)
 - [Gunnar Morling - Getting Started With Java Development in 2023 — An Opinionated Guide](https://www.morling.dev/blog/getting-started-with-java-development-2023/)
 - [Roni Dover - Not Your Grandfather’s Logs — A Java Library’s New Approach To Observability](https://foojay.io/today/not-your-grandfathers-logs-a-java-librarys-new-approach-to-observability/)
@@ -2893,6 +2919,7 @@
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
 
 ## Python
+- [Szymon Miks - How to test an API request to the external system](https://blog.szymonmiks.pl/p/how-to-test-an-api-request-to-the-external-system/)
 - [RaySQL - Distributed SQL Query Engine in Python using Ray](https://github.com/datafusion-contrib/ray-sql)
 - [Vega-Altair - Declarative Visualization in Python](https://altair-viz.github.io/)
 - [Szymon Miks - The outbox pattern in python](https://blog.szymonmiks.pl/p/the-outbox-pattern-in-python/)
@@ -3301,6 +3328,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Forbes - Apple And Google Team Up To Stop Unwanted AirTag Tracking](https://www.forbes.com/sites/kateoflahertyuk/2023/05/08/apple-and-google-team-up-to-stop-unwanted-airtag-tracking/)
+- [Forbes - OpenAI CEO Sam Altman says the remote work ‘experiment’ was a mistake—and ‘it’s over’](https://fortune.com/2023/05/05/openai-ceo-sam-altman-remote-work-mistake-return-to-office/)
 - [SonaType - State of the Software Supply Chain](https://www.sonatype.com/resources/2023-software-supply-chain-report)
 - [Bleeping Computer - Discord discloses data breach after support agent got hacked](https://www.bleepingcomputer.com/news/security/discord-discloses-data-breach-after-support-agent-got-hacked/)
 - [The Wired - The Untold Story of the Boldest Supply-Chain Hack Ever](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever)
