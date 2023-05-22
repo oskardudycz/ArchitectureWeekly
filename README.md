@@ -24,6 +24,67 @@ There are two rules:
 
 ---
 
+## [15th May 2023](per-week/2023-05-15.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
+
+---
+
+### Architecture
+- [Gergely Orosz - Datadog’s $65M/year customer mystery solved](https://newsletter.pragmaticengineer.com/p/datadogs-65myear-customer-mystery)
+- [Motley Fool Transcribing - Datadog (DDOG) Q1 2023 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2023/05/04/datadog-ddog-q1-2023-earnings-call-transcript/)
+- [Netflix - Migrating Critical Traffic At Scale with No Downtime — Part 1](https://netflixtechblog.com/migrating-critical-traffic-at-scale-with-no-downtime-part-1-ba1c7a1c7835)
+- [Luca Mezzalira - Microfrontends Anti-Patterns: Seven Years in the Trenches](https://www.infoq.com/presentations/microfrontend-antipattern)
+- [Derek Comartin - Avoid batch jobs! Model the future!](https://www.youtube.com/watch?v=oKq_ZsfrFfs)
+- [Yan Cui - Is serverless overpriced? What can we learn from the PrimeVideo team?](https://theburningmonk.com/2023/05/is-serverless-overpriced-what-can-we-learn-from-the-primevideo-team/)
+- [Camille Fournier - Avoiding the Rewrite Trap](https://skamille.medium.com/avoiding-the-rewrite-trap-b1283b8dd39e)
+- [Eberhard Wolff - Why You Might Fail with DDD](https://www.youtube.com/watch?v=dHF7Llmt2Pc)
+- [Hany Elemary - Customer Experience APIs: The missing layer](https://medium.com/navalia/customer-experience-apis-the-missing-layer-58ecb93faa4b)
+- [Amy Hupe - How to write sh*t documentation](https://www.youtube.com/watch?v=z7p60pe7U5o)
+
+### DevOps
+- [Natalie Arellano, Aidan Delaney - Customizing Your Buildpacks Build – Yes You Can!](https://www.youtube.com/watch?v=ZrxAyk1-pSs)
+- [Google - Autopilot is now GKE’s default mode of operation — here’s what that means for you](https://cloud.google.com/blog/products/containers-kubernetes/gke-autopilot-is-now-default-mode-of-cluster-operation/)
+
+### Databases
+- [PostgREST - A standalone web server that turns your PostgreSQL database directly into a RESTful API](https://postgrest.org)
+- [data-diff - Compare tables within or across databases](https://github.com/datafold/data-diff)
+
+### Java
+- [Reflectoring.io - Structured Logging with Spring Boot and Amazon CloudWatch](https://reflectoring.io/struct-log-with-cloudwatch-tutorial/)
+
+### .NET
+- [Jake Scott - Deploy a Serverless API Using .NET NativeAOT](https://jakejscott.com/deploy-a-serverless-api-using-net-nativeaot)
+- [Norm Micro-ORM - High performance micro-ORM database mapper and modernized Dapper replacement for .NET Standard 2.1 and higher](https://github.com/vb-consulting/Norm.net)
+- [BlobHelper - BlobHelper is a common, consistent storage interface for Microsoft Azure, Amazon S3, Komodo, Kvpbase, and local filesystem written in C#](https://github.com/jchristn/BlobHelper)
+- [ChatGPT - A ChatGPT C# client for MacOS, Windows, Linux, Android, iOS and Browser. Powered by Avalonia UI framework.](https://github.com/wieslawsoltes/ChatGPT)
+
+### Tools
+- [GitHub - GitHub code search is generally available](https://github.blog/2023-05-08-github-code-search-is-generally-available/)
+
+### Coding Life
+- [Oskar Dudycz - A few notes on running open source project after Marten v6 release](https://event-driven.io/en/a_few_notes_on_running_open_source_project/?utm_source=architecture_weekly)
+- [Mike Melanson - How ‘open’ should your open source be?](https://github.com/readme/featured/how-open-is-open-source)
+
+### Management
+- [Ben Kuhn - Some mistakes I made as a new manager](https://www.benkuhn.net/newmgr/)
+
+### Industry
+- [CNBC - Shopify offloads logistics business to Flexport](https://www.cnbc.com/2023/05/04/shopify-offloads-logistics-business-to-flexport.html)
+- [IT Brew - Senate takes action on open-source vulnerabilities in wake of 2022 Log4j attack](https://www.itbrew.com/stories/2023/04/28/senate-takes-action-on-open-source-vulnerabilities-in-wake-of-2022-log4j-attack)
+- [BBC - Ex-Uber security chief sentenced over covering up hack](https://www.bbc.com/news/technology-65497186)
+- [The Byte - IBM Replacing 7,800 Human Jobs With AI, Including Human Resources](https://futurism.com/the-byte/ibm-replacing-humans-ai)
+- [Fortune - Leaked email from Microsoft CEO says salaried staff will not get raises this year due to macroeconomic conditions](https://fortune.com/2023/05/10/microrosft-cuts-annual-salary-leaked-email-satya-nadella/)
+
+### Security
+- [SonaType - State of the Software Supply Chain](https://www.sonatype.com/resources/2023-software-supply-chain-report)
+- [Bleeping Computer - Discord discloses data breach after support agent got hacked](https://www.bleepingcomputer.com/news/security/discord-discloses-data-breach-after-support-agent-got-hacked/)
+
+### Trivia
+- [Upraise - Output Vs Outcome: Top 10 Differences](https://upraise.io/blog/output-vs-outcome-top-10-differences/)
+
+---
+
 ## [8th May 2023](per-week/2023-05-08.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
@@ -329,7 +390,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ### Coding Life
 - [Martin Fowler - Slack](https://martinfowler.com/bliki/Slack.html)
 - [Randall Koutnik - Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)
-- [Gergerly Orosz - How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)
+- [Gergely Orosz - How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)
 
 ### Industry
 - [PC Magazine - Elon Musk Tweet Broke Federal Labor Laws, US Court Rules](https://www.pcmag.com/news/elon-musk-tweet-broke-federal-labor-laws-us-court-rules)
@@ -3441,7 +3502,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ### DevOps
 - [The Register - At last, Atlassian sees an end to its outage ... in two weeks](https://www.theregister.com/2022/04/11/atlassian_outage_backups/)
-- [Gergerly Orosz - The Scoop: Inside the Longest Atlassian Outage of All Time](https://newsletter.pragmaticengineer.com/p/scoop-atlassian)
+- [Gergely Orosz - The Scoop: Inside the Longest Atlassian Outage of All Time](https://newsletter.pragmaticengineer.com/p/scoop-atlassian)
 - [Tomasz Brzoza - Managing complex configurations in large scale environments](https://medium.com/nordcloud-engineering/managing-complex-configurations-in-large-scale-environments-5bc6bfc009d5)
 - [Logz.io - The Complete Guide to the ELK Stack](https://logz.io/learn/complete-guide-elk-stack/)
 - [Mike Rogers - Testing Logstash configuration with JSON input/output](https://medium.com/@mikerogers1357/testing-logstash-configuration-with-json-input-output-9b781962cc2)
@@ -7042,7 +7103,7 @@ Ukraine, stay strong!
 - [React - Introducing Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
 
 ### Mobile
-- [Gergerly Orosz - 33 Engineering Challenges of Building Mobile Apps at Scale eBook & Other Learnings](https://gumroad.com/l/IuuuN)
+- [Gergely Orosz - 33 Engineering Challenges of Building Mobile Apps at Scale eBook & Other Learnings](https://gumroad.com/l/IuuuN)
 
 ### Testing
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
@@ -7122,7 +7183,7 @@ Ukraine, stay strong!
 ### Distributed Systems
 - [Miia Niemelä - Lessons learned from combining SQS and Lambda in a data project](https://data.solita.fi/lessons-learned-from-combining-sqs-and-lambda-in-a-data-project/)
 - [Adam Warski - Evaluating persistent, replicated message queues (2020 edition)](https://softwaremill.com/mqperf/)
-- [Gergerly Oros - Operating a Large, Distributed System in a Reliable Way: Practices I Learned](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/)
+- [Gergely Oros - Operating a Large, Distributed System in a Reliable Way: Practices I Learned](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/)
 - [Jimmy Bogard - Building End-to-End Diagnostics: ActivitySource and OpenTelemetry 1.0](https://jimmybogard.com/building-end-to-end-diagnostics-activitysource-and-open)
 - [Kevin Sookocheff - Dissecting SQS FIFO Queues — Does Ordered and Exactly Once Messaging Really Exist?](https://sookocheff.com/post/messaging/dissecting-sqs-fifo-queues/)
 
@@ -7131,7 +7192,7 @@ Ukraine, stay strong!
 
 ### Coding Life
 - [Joel Spolsky - Don't Let Architecture Astronauts Scare You](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you)
-- [Gergerly Oros - What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/)
+- [Gergely Oros - What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/)
 - [Dominik Jeske - Pull Requests](https://dominikjeske.github.io/pull-requests)
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
