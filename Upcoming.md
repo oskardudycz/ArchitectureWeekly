@@ -7,54 +7,6 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ### Architecture
-- [Gergely Orosz - Datadog’s $65M/year customer mystery solved](https://newsletter.pragmaticengineer.com/p/datadogs-65myear-customer-mystery)
-- [Motley Fool Transcribing - Datadog (DDOG) Q1 2023 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2023/05/04/datadog-ddog-q1-2023-earnings-call-transcript/)
-- [Netflix - Migrating Critical Traffic At Scale with No Downtime — Part 1](https://netflixtechblog.com/migrating-critical-traffic-at-scale-with-no-downtime-part-1-ba1c7a1c7835)
-- [Luca Mezzalira - Microfrontends Anti-Patterns: Seven Years in the Trenches](https://www.infoq.com/presentations/microfrontend-antipattern)
-- [Derek Comartin - Avoid batch jobs! Model the future!](https://www.youtube.com/watch?v=oKq_ZsfrFfs)
-- [Yan Cui - Is serverless overpriced? What can we learn from the PrimeVideo team?](https://theburningmonk.com/2023/05/is-serverless-overpriced-what-can-we-learn-from-the-primevideo-team/)
-- [Camille Fournier - Avoiding the Rewrite Trap](https://skamille.medium.com/avoiding-the-rewrite-trap-b1283b8dd39e)
-- [Eberhard Wolff - Why You Might Fail with DDD](https://www.youtube.com/watch?v=dHF7Llmt2Pc)
-- [Hany Elemary - Customer Experience APIs: The missing layer](https://medium.com/navalia/customer-experience-apis-the-missing-layer-58ecb93faa4b)
-- [Amy Hupe - How to write sh*t documentation](https://www.youtube.com/watch?v=z7p60pe7U5o)
 
-### DevOps
-- [Natalie Arellano, Aidan Delaney - Customizing Your Buildpacks Build – Yes You Can!](https://www.youtube.com/watch?v=ZrxAyk1-pSs)
-- [Google - Autopilot is now GKE’s default mode of operation — here’s what that means for you](https://cloud.google.com/blog/products/containers-kubernetes/gke-autopilot-is-now-default-mode-of-cluster-operation/)
-
-### Databases
-- [PostgREST - A standalone web server that turns your PostgreSQL database directly into a RESTful API](https://postgrest.org)
-- [data-diff - Compare tables within or across databases](https://github.com/datafold/data-diff)
-
-### Java
-- [Reflectoring.io - Structured Logging with Spring Boot and Amazon CloudWatch](https://reflectoring.io/struct-log-with-cloudwatch-tutorial/)
-
-### .NET
-- [Jake Scott - Deploy a Serverless API Using .NET NativeAOT](https://jakejscott.com/deploy-a-serverless-api-using-net-nativeaot)
-- [Norm Micro-ORM - High performance micro-ORM database mapper and modernized Dapper replacement for .NET Standard 2.1 and higher](https://github.com/vb-consulting/Norm.net)
-- [BlobHelper - BlobHelper is a common, consistent storage interface for Microsoft Azure, Amazon S3, Komodo, Kvpbase, and local filesystem written in C#](https://github.com/jchristn/BlobHelper)
-- [ChatGPT - A ChatGPT C# client for MacOS, Windows, Linux, Android, iOS and Browser. Powered by Avalonia UI framework.](https://github.com/wieslawsoltes/ChatGPT)
-
-### Tools
-- [GitHub - GitHub code search is generally available](https://github.blog/2023-05-08-github-code-search-is-generally-available/)
-
-### Coding Life
-- [Oskar Dudycz - A few notes on running open source project after Marten v6 release](https://event-driven.io/en/a_few_notes_on_running_open_source_project/?utm_source=architecture_weekly)
-- [Mike Melanson - How ‘open’ should your open source be?](https://github.com/readme/featured/how-open-is-open-source)
-
-### Management
-- [Ben Kuhn - Some mistakes I made as a new manager](https://www.benkuhn.net/newmgr/)
-
-### Industry
-- [CNBC - Shopify offloads logistics business to Flexport](https://www.cnbc.com/2023/05/04/shopify-offloads-logistics-business-to-flexport.html)
-- [IT Brew - Senate takes action on open-source vulnerabilities in wake of 2022 Log4j attack](https://www.itbrew.com/stories/2023/04/28/senate-takes-action-on-open-source-vulnerabilities-in-wake-of-2022-log4j-attack)
-- [BBC - Ex-Uber security chief sentenced over covering up hack](https://www.bbc.com/news/technology-65497186)
-- [The Byte - IBM Replacing 7,800 Human Jobs With AI, Including Human Resources](https://futurism.com/the-byte/ibm-replacing-humans-ai)
-- [Fortune - Leaked email from Microsoft CEO says salaried staff will not get raises this year due to macroeconomic conditions](https://fortune.com/2023/05/10/microrosft-cuts-annual-salary-leaked-email-satya-nadella/)
-
-### Security
-- [SonaType - State of the Software Supply Chain](https://www.sonatype.com/resources/2023-software-supply-chain-report)
-- [Bleeping Computer - Discord discloses data breach after support agent got hacked](https://www.bleepingcomputer.com/news/security/discord-discloses-data-breach-after-support-agent-got-hacked/)
-
-### Trivia
-- [Upraise - Output Vs Outcome: Top 10 Differences](https://upraise.io/blog/output-vs-outcome-top-10-differences/)
+### Python
+- [How to test an API request to the external system](https://blog.szymonmiks.pl/p/how-to-test-an-api-request-to-the-external-system/)
