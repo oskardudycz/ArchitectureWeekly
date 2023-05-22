@@ -7,10 +7,54 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ### Architecture
+- [Oskar Dudycz - Is the audit log a proper architecture driver for Event Sourcing?](https://event-driven.io/en/audit_log_event_sourcing/?utm_source=architecture_weekly)
+- [Suhail Patel - Banking on Thousands of Microservices](https://www.infoq.com/articles/cassandra-kubernetes-microservices/)
+- [Marc Brooker - Open and Closed, Omission and Collapse](https://brooker.co.za/blog/2023/05/10/open-closed.html)
+- [J.B. Rainsberger - Surviving Your Inevitable Agile Transition](https://www.youtube.com/watch?v=UQOmGiv7rUk)
+- [Rebecca Wirf-Brock - Getting out of your ruts](https://wirfs-brock.com/blog/2023/05/04/getting-out-of-your-ruts/)
+- [Matthew Skelton, Nick Tune - Independent Service Heuristics](https://www.youtube.com/watch?v=q8hwkDyL6Zs)
+- [Robert Yokota - Understanding JSON Schema Compatibility](https://yokota.blog/2021/03/29/understanding-json-schema-compatibility/)
+- [Adrian Hornsby - Respecting What Came Before, Premature Optimization, the Pitfalls of Sensationalism and Technology Enthusiasm](https://medium.com/the-cloud-architect/respecting-what-came-before-premature-optimization-the-pitfalls-of-sensationalism-and-technology-fae0c7826808)
+- [Kevlin Henney - The SOLID Design Principles Deconstructed](https://www.youtube.com/watch?v=tMW08JkFrBA)
 
 ### DevOps
-- [Terraform check{} Block - define assertions based on data source values to verify the state of the infrastructure](https://unfriendlygrinch.info/posts/terraform-check-block/)
+- [Elif Samedin, Andrei Buzoianu - Terraform check{} Block - define assertions based on data source values to verify the state of the infrastructure](https://unfriendlygrinch.info/posts/terraform-check-block/)
+
+### Testing
+- [Michael Feathers - The Flawed Theory Behind Unit Testing](https://michaelfeathers.typepad.com/michael_feathers_blog/2008/06/the-flawed-theo.html)
+
+### Frontend
+- [Shopify - 3 ways to find your worst JavaScript offenders for page load](https://performance.shopify.com/blogs/blog/3-ways-to-find-your-worst-javascript-offenders-for-page-load)
+
+### AI
+- [BYTE Magazine - Volume 06 Number 09 (1981) - Artificial Intelligence](https://archive.org/details/byte-magazine-1981-09/mode/2up)
+
+### Azure
+- [Microsoft - Collection for Cloud Native New Year 2023](https://learn.microsoft.com/en-us/users/nityan/collections/xz6ehr3z7o7e1q?WT.mc_id=javascript-74010-ninarasi)
+- [Alicja Kucharczyk, Adam Wołk - Multi-tenant Saas apps made simple on Azure Cosmos DB for PostgreSQL](https://www.youtube.com/watch?v=ZRmoFjhT08U)
+
+### Java
+- [Holly Cummins - Contract testing with Pact and Quarkus](https://www.youtube.com/watch?v=4xoJmz6bWB4)
+- [Oracle - Announcing Graal Cloud Native](https://blogs.oracle.com/java/post/announcing-graal-cloud-native-gcn)
+
+### .NET
+- [Jeremy D. Miller - Marten V6 is Out! And the road to Wolverine 1.0](https://jeremydmiller.com/2023/05/11/marten-v6-is-out-and-the-road-to-wolverine-1-0/)
+- [Rick Strahl - Implementing Two-Factor Auth using an Authenticator App in ASP.NET](https://weblog.west-wind.com/posts/2023/May/17/Implementing-TwoFactor-Auth-using-an-Authenticator-app-in-ASPNET)
+- [JetBrains - C# Support in Fleet: Solution View, Unit Testing, and More!](https://blog.jetbrains.com/dotnet/2023/05/04/csharp-support-in-fleet-solution-view-unit-testing-and-more/)
+- [Microsoft - Learn how to modernize your .NET apps from the pros!](https://devblogs.microsoft.com/dotnet/learn-how-to-modernize-your-dotnet-apps/)
 
 ### Python
-- [How to test an API request to the external system](https://blog.szymonmiks.pl/p/how-to-test-an-api-request-to-the-external-system/)
+- [Szymon Miks - How to test an API request to the external system](https://blog.szymonmiks.pl/p/how-to-test-an-api-request-to-the-external-system/)
 
+### Management
+- [Dan North - Patterns of Effective Teams](https://www.youtube.com/watch?v=lvs7VEsQzKY)
+- [S. E. Dreyfus, H. L. Dreyfus - A five-stage model of the mental activities involved in directed skill acquisition](https://apps.dtic.mil/sti/pdfs/ADA084551.pdf)
+- [Dave Farley - Kent Beck On AGILE vs WATERFALL](https://www.youtube.com/watch?v=J4ihLROXzPk)
+
+### Product Design
+- [Zalando - Discovering & launching products in Zalando SE by Stefano Rinaldi](https://www.linkedin.com/events/discovering-launchingproductsin7058105004435365888/comments/)
+- [Sam McAfee - This Agile Hammer Doesn't Work For New Product Development](https://www.linkedin.com/pulse/agile-hammer-doesnt-work-new-product-development-sam-mcafee)
+
+### Security
+- [Forbes - Apple And Google Team Up To Stop Unwanted AirTag Tracking](https://www.forbes.com/sites/kateoflahertyuk/2023/05/08/apple-and-google-team-up-to-stop-unwanted-airtag-tracking/)
+- [Forbes - OpenAI CEO Sam Altman says the remote work ‘experiment’ was a mistake—and ‘it’s over’](https://fortune.com/2023/05/05/openai-ceo-sam-altman-remote-work-mistake-return-to-office/)

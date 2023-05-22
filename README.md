@@ -35,7 +35,6 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Motley Fool Transcribing - Datadog (DDOG) Q1 2023 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2023/05/04/datadog-ddog-q1-2023-earnings-call-transcript/)
 - [Netflix - Migrating Critical Traffic At Scale with No Downtime — Part 1](https://netflixtechblog.com/migrating-critical-traffic-at-scale-with-no-downtime-part-1-ba1c7a1c7835)
 - [Luca Mezzalira - Microfrontends Anti-Patterns: Seven Years in the Trenches](https://www.infoq.com/presentations/microfrontend-antipattern)
-- [Derek Comartin - Avoid batch jobs! Model the future!](https://www.youtube.com/watch?v=oKq_ZsfrFfs)
 - [Yan Cui - Is serverless overpriced? What can we learn from the PrimeVideo team?](https://theburningmonk.com/2023/05/is-serverless-overpriced-what-can-we-learn-from-the-primevideo-team/)
 - [Camille Fournier - Avoiding the Rewrite Trap](https://skamille.medium.com/avoiding-the-rewrite-trap-b1283b8dd39e)
 - [Eberhard Wolff - Why You Might Fail with DDD](https://www.youtube.com/watch?v=dHF7Llmt2Pc)
@@ -6528,7 +6527,7 @@ Ukraine, stay strong!
 - [Jake Miller - An Exploration of JSON Interoperability Vulnerabilities](https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities)
 - [Vladik Khononov - Models and bounded contexts](https://twitter.com/vladikk/status/1335947978482339841)
 - [W. Lloyd, M.J. Freedman, M. Kaminsky, D.G. Andersen - Don't Settle for Eventual Consistency](https://queue.acm.org/detail.cfm?id=2610533)
-- [AOSA - The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+- [AOSA - The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 
 ### Distributed Systems
 - [Murat Demirbas - Foundational Distributed Systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
