@@ -58,6 +58,16 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - How to deal with privacy and GDPR in Event-Sourced systems](https://www.youtube.com/watch?v=7NGlYgobTyY)
+- [Oskar Dudycz - Anti-patterns in event modelling - I'll just add one more field](https://event-driven.io/en/i_will_just_add_one_more_field/?utm_source=architecture_weekly)
+- [StackOverflow Blog - Are clouds having their on-prem moment?](https://stackoverflow.blog/2023/02/20/are-companies-shifting-away-from-public-clouds)
+- [Netflix - ABAC on SpiceDB: Enabling Netflix’s Complex Identity Types](https://netflixtechblog.com/abac-on-spicedb-enabling-netflixs-complex-identity-types-c118f374fa89)
+- [Gergely Orosz - Inside Datadog’s $5M Outage (Real-World Engineering Challenges #8)](https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage)
+- [Laila Bougria - Message processing failed! But what's the root cause?](https://www.youtube.com/watch?v=zvqJmhJkPfE)
+- [Aritra Das - Error Handling in Event-Driven Systems](https://levelup.gitconnected.com/error-handling-in-event-driven-systems-1f0a7ef2cfb7)
+- [João Rosa, Trond Hjorteland - Intentional Architecture](https://www.youtube.com/watch?v=8fP7_WDUZ2Q)
+- [Simon Brown - C4 Models as Code](https://www.youtube.com/watch?v=f7i2wxQVffk)
+- [Herbert A. Simon - The Architecture of Complexity](https://www2.econ.iastate.edu/tesfatsi/ArchitectureOfComplexity.HSimon1962.pdf)
 - [Oskar Dudycz - Is the audit log a proper architecture driver for Event Sourcing?](https://event-driven.io/en/audit_log_event_sourcing/?utm_source=architecture_weekly)
 - [Suhail Patel - Banking on Thousands of Microservices](https://www.infoq.com/articles/cassandra-kubernetes-microservices/)
 - [Marc Brooker - Open and Closed, Omission and Collapse](https://brooker.co.za/blog/2023/05/10/open-closed.html)
@@ -988,6 +998,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Confluent - Kora: The Cloud Native Engine for Apache Kafka](https://www.confluent.io/blog/cloud-native-data-streaming-kafka-engine/)
+- [Giorgio Sironi - I just want to run a container...](https://www.giorgiosironi.com/2023/05/i-just-want-to-run-container.html)
 - [Elif Samedin, Andrei Buzoianu - Terraform check{} Block - define assertions based on data source values to verify the state of the infrastructure](https://unfriendlygrinch.info/posts/terraform-check-block/)
 - [Natalie Arellano, Aidan Delaney - Customizing Your Buildpacks Build – Yes You Can!](https://www.youtube.com/watch?v=ZrxAyk1-pSs)
 - [Google - Autopilot is now GKE’s default mode of operation — here’s what that means for you](https://cloud.google.com/blog/products/containers-kubernetes/gke-autopilot-is-now-default-mode-of-cluster-operation/)
@@ -1157,6 +1169,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Angular Blog - Angular v16 is here!](https://blog.angular.io/angular-v16-is-here-4d7a28ec680d)
 - [Shopify - 3 ways to find your worst JavaScript offenders for page load](https://performance.shopify.com/blogs/blog/3-ways-to-find-your-worst-javascript-offenders-for-page-load)
 - [Angular Master Podcast 38 - Minko Gechev on Angular 17+](https://www.youtube.com/watch?v=aXfCNbU-9EY&t=3s)
 - [Debbie O'Brien - Adding analytics to your Nuxt site](https://debbie.codes/blog/nuxt-analytics/)
@@ -1274,6 +1287,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Piotr Przybył - Integration tests are needed and simple](https://softwaregarden.dev/en/talks/integration-tests-are-needed-and-simple/)
 - [Michael Feathers - The Flawed Theory Behind Unit Testing](https://michaelfeathers.typepad.com/michael_feathers_blog/2008/06/the-flawed-theo.html)
 - [Oskar Dudycz - How to test event-driven projections](https://event-driven.io/en/testing_event_driven_projections/?utm_source=architecture_weekly)
 - [Michael Feathers - Characterization Testing](https://michaelfeathers.silvrback.com/characterization-testing)
@@ -1564,6 +1578,9 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Santa Fe Institute - Workshop on AI and the Barrier of Meaning](https://www.youtube.com/playlist?app=desktop&list=PLZlVBTf7N6GpOCwMH-TIhwrUwV8YJMANM)
+- [The Guardian - ‘There was all sorts of toxic behaviour’: Timnit Gebru on her sacking by Google, AI’s dangers and big tech’s biases](https://www.theguardian.com/lifeandstyle/2023/may/22/there-was-all-sorts-of-toxic-behaviour-timnit-gebru-on-her-sacking-by-google-ais-dangers-and-big-techs-biases)
+- [Vice - Debt Collectors Want To Use AI Chatbots To Hustle People For Money](https://www.vice.com/en/article/bvjmm5/debt-collectors-want-to-use-ai-chatbots-to-hustle-people-for-money)
 - [BYTE Magazine - Volume 06 Number 09 (1981) - Artificial Intelligence](https://archive.org/details/byte-magazine-1981-09/mode/2up)
 - [ML YouTube Courses - Discover the latest machine learning / AI courses on YouTube.](https://github.com/dair-ai/ML-YouTube-Courses)
 - [AWS - Announcing New Tools for Building with Generative AI on AWS](https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/)
@@ -1670,6 +1687,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Microsoft - Microsoft Build Book of News](https://news.microsoft.com/build-2023-book-of-news/)
 - [Microsoft - Collection for Cloud Native New Year 2023](https://learn.microsoft.com/en-us/users/nityan/collections/xz6ehr3z7o7e1q?WT.mc_id=javascript-74010-ninarasi)
 - [Alicja Kucharczyk, Adam Wołk - Multi-tenant Saas apps made simple on Azure Cosmos DB for PostgreSQL](https://www.youtube.com/watch?v=ZRmoFjhT08U)
 - [Azure Cost CLI - CLI tool to perform cost analysis on your Azure subscription](https://github.com/mivano/azure-cost-cli)
@@ -1733,6 +1751,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Richard Campbell - The History of .NET](https://www.youtube.com/watch?v=h7DzdygieHs)
+- [Steven Gordon - Concurrent Hosted Service Start and Stop in .NET 8](https://www.stevejgordon.co.uk/concurrent-hosted-service-start-and-stop-in-dotnet-8)
+- [Microsoft - ASP.NET Core updates in .NET 8 Preview 4](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-4/)
+- [Microsoft - .NET at Microsoft Build 2023](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oV0mbay2wxFS_ZVRg6cxjdM)
 - [Jeremy D. Miller - Marten V6 is Out! And the road to Wolverine 1.0](https://jeremydmiller.com/2023/05/11/marten-v6-is-out-and-the-road-to-wolverine-1-0/)
 - [Rick Strahl - Implementing Two-Factor Auth using an Authenticator App in ASP.NET](https://weblog.west-wind.com/posts/2023/May/17/Implementing-TwoFactor-Auth-using-an-Authenticator-app-in-ASPNET)
 - [JetBrains - C# Support in Fleet: Solution View, Unit Testing, and More!](https://blog.jetbrains.com/dotnet/2023/05/04/csharp-support-in-fleet-solution-view-unit-testing-and-more/)
@@ -2333,6 +2355,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Martin Thompson - Aeron – Proof of the benefits of open development](https://www.gresearch.com/blog/article/aeron-proof-of-the-benefits-of-open-development/)
 - [Oskar Dudycz - A few notes on running open source project after Marten v6 release](https://event-driven.io/en/a_few_notes_on_running_open_source_project/?utm_source=architecture_weekly)
 - [Mike Melanson - How ‘open’ should your open source be?](https://github.com/readme/featured/how-open-is-open-source)
 - [Martin Fowler - An example of preparatory refactoring](https://martinfowler.com/articles/preparatory-refactoring-example.html)
@@ -2659,6 +2682,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Josh Long - Bootiful Spring Boot 3](https://www.youtube.com/watch?v=-PZLG4UEoVQ)
+- [Szymon Przebierowski - Do you still need testcontainers with Spring Boot 3.1?](https://softwaremill.com/do-you-still-need-testcontainers-with-spring-boot-3-1/)
 - [Holly Cummins - Contract testing with Pact and Quarkus](https://www.youtube.com/watch?v=4xoJmz6bWB4)
 - [Oracle - Announcing Graal Cloud Native](https://blogs.oracle.com/java/post/announcing-graal-cloud-native-gcn)
 - [Reflectoring.io - Structured Logging with Spring Boot and Amazon CloudWatch](https://reflectoring.io/struct-log-with-cloudwatch-tutorial/)
@@ -2919,6 +2944,7 @@
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
 
 ## Python
+- [KDNuggets - Pandas AI: The Generative AI Python Library](https://www.kdnuggets.com/2023/05/pandas-ai-generative-ai-python-library.html)
 - [Szymon Miks - How to test an API request to the external system](https://blog.szymonmiks.pl/p/how-to-test-an-api-request-to-the-external-system/)
 - [RaySQL - Distributed SQL Query Engine in Python using Ray](https://github.com/datafusion-contrib/ray-sql)
 - [Vega-Altair - Declarative Visualization in Python](https://altair-viz.github.io/)
@@ -2935,6 +2961,7 @@
 - [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
 
 ## Rust
+- [Jonathan Turner - Why I left Rust](https://www.jntrnr.com/why-i-left-rust/)
 - [Nick Cameron - Rust in 2023](https://www.ncameron.org/blog/rust-in-2023/)
 - [Armin Ronacher - A Better Way to Borrow in Rust: Stack Tokens](https://lucumr.pocoo.org/2022/11/23/stack-tokens/)
 - [Steadylearner - How to use gRPC with Rust Tonic and Postgres database with examples](https://dev.to/steadylearner/how-to-use-grpc-with-rust-tonic-and-postgres-database-with-examples-3dl7)
@@ -2981,6 +3008,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Flexera - IT Spending by Industry](https://www.flexera.com/blog/technology-value-optimization/it-spending-by-industry/)
 - [CNBC - Shopify offloads logistics business to Flexport](https://www.cnbc.com/2023/05/04/shopify-offloads-logistics-business-to-flexport.html)
 - [IT Brew - Senate takes action on open-source vulnerabilities in wake of 2022 Log4j attack](https://www.itbrew.com/stories/2023/04/28/senate-takes-action-on-open-source-vulnerabilities-in-wake-of-2022-log4j-attack)
 - [BBC - Ex-Uber security chief sentenced over covering up hack](https://www.bbc.com/news/technology-65497186)
@@ -3328,6 +3356,9 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [The Verge - Online age verification is coming, and privacy is on the chopping block](https://www.theverge.com/23721306/online-age-verification-privacy-laws-child-safety)
+- [CNN - Meta slapped with record $1.3 billion EU fine over data privacy](https://edition.cnn.com/2023/05/22/tech/meta-facebook-data-privacy-eu-fine/index.html)
+- [BBC News - ChatGPT-maker U-turns on threat to leave EU over AI law](https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65708114.amp)
 - [Forbes - Apple And Google Team Up To Stop Unwanted AirTag Tracking](https://www.forbes.com/sites/kateoflahertyuk/2023/05/08/apple-and-google-team-up-to-stop-unwanted-airtag-tracking/)
 - [Forbes - OpenAI CEO Sam Altman says the remote work ‘experiment’ was a mistake—and ‘it’s over’](https://fortune.com/2023/05/05/openai-ceo-sam-altman-remote-work-mistake-return-to-office/)
 - [SonaType - State of the Software Supply Chain](https://www.sonatype.com/resources/2023-software-supply-chain-report)
