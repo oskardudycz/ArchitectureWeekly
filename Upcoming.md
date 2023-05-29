@@ -5,3 +5,60 @@
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
+
+### Architecture
+- [Oskar Dudycz - How to deal with privacy and GDPR in Event-Sourced systems](https://www.youtube.com/watch?v=7NGlYgobTyY)
+- [Oskar Dudycz - Anti-patterns in event modelling - I'll just add one more field](https://event-driven.io/en/i_will_just_add_one_more_field/?utm_source=architecture_weekly)
+- [StackOverflow Blog - Are clouds having their on-prem moment?](https://stackoverflow.blog/2023/02/20/are-companies-shifting-away-from-public-clouds)
+- [Netflix - ABAC on SpiceDB: Enabling Netflix’s Complex Identity Types](https://netflixtechblog.com/abac-on-spicedb-enabling-netflixs-complex-identity-types-c118f374fa89)
+- [Gergely Orosz - Inside Datadog’s $5M Outage (Real-World Engineering Challenges #8)](https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage)
+- [Laila Bougria - Message processing failed! But what's the root cause?](https://www.youtube.com/watch?v=zvqJmhJkPfE)
+- [Aritra Das - Error Handling in Event-Driven Systems](https://levelup.gitconnected.com/error-handling-in-event-driven-systems-1f0a7ef2cfb7)
+- [João Rosa, Trond Hjorteland - Intentional Architecture](https://www.youtube.com/watch?v=8fP7_WDUZ2Q)
+- [Simon Brown - C4 Models as Code](https://www.youtube.com/watch?v=f7i2wxQVffk)
+- [Herbert A. Simon - The Architecture of Complexity](https://www2.econ.iastate.edu/tesfatsi/ArchitectureOfComplexity.HSimon1962.pdf)
+
+### DevOps
+- [Confluent - Kora: The Cloud Native Engine for Apache Kafka](https://www.confluent.io/blog/cloud-native-data-streaming-kafka-engine/)
+- [Giorgio Sironi - I just want to run a container...](https://www.giorgiosironi.com/2023/05/i-just-want-to-run-container.html)
+
+### Frontend
+- [Angular Blog - Angular v16 is here!](https://blog.angular.io/angular-v16-is-here-4d7a28ec680d)
+
+### Testing
+- [Piotr Przybył - Integration tests are needed and simple](https://softwaregarden.dev/en/talks/integration-tests-are-needed-and-simple/)
+
+### AI
+- [Santa Fe Institute - Workshop on AI and the Barrier of Meaning](https://www.youtube.com/playlist?app=desktop&list=PLZlVBTf7N6GpOCwMH-TIhwrUwV8YJMANM)
+- [The Guardian - ‘There was all sorts of toxic behaviour’: Timnit Gebru on her sacking by Google, AI’s dangers and big tech’s biases](https://www.theguardian.com/lifeandstyle/2023/may/22/there-was-all-sorts-of-toxic-behaviour-timnit-gebru-on-her-sacking-by-google-ais-dangers-and-big-techs-biases)
+- [Vice - Debt Collectors Want To Use AI Chatbots To Hustle People For Money](https://www.vice.com/en/article/bvjmm5/debt-collectors-want-to-use-ai-chatbots-to-hustle-people-for-money)
+
+### Azure
+- [Microsoft - Microsoft Build Book of News](https://news.microsoft.com/build-2023-book-of-news/)
+
+### Java
+- [Josh Long - Bootiful Spring Boot 3](https://www.youtube.com/watch?v=-PZLG4UEoVQ)
+- [Szymon Przebierowski - Do you still need testcontainers with Spring Boot 3.1?](https://softwaremill.com/do-you-still-need-testcontainers-with-spring-boot-3-1/)
+
+### .NET
+- [Richard Campbell - The History of .NET](https://www.youtube.com/watch?v=h7DzdygieHs)
+- [Steven Gordon - Concurrent Hosted Service Start and Stop in .NET 8](https://www.stevejgordon.co.uk/concurrent-hosted-service-start-and-stop-in-dotnet-8)
+- [Microsoft - ASP.NET Core updates in .NET 8 Preview 4](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-4/)
+- [Microsoft - .NET at Microsoft Build 2023](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oV0mbay2wxFS_ZVRg6cxjdM)
+
+### Python
+- [KDNuggets - Pandas AI: The Generative AI Python Library](https://www.kdnuggets.com/2023/05/pandas-ai-generative-ai-python-library.html)
+
+### Rust
+- [Jonathan Turner - Why I left Rust](https://www.jntrnr.com/why-i-left-rust/)
+
+### Coding Life
+- [Martin Thompson - Aeron – Proof of the benefits of open development](https://www.gresearch.com/blog/article/aeron-proof-of-the-benefits-of-open-development/)
+
+### Industry
+- [Flexera - IT Spending by Industry](https://www.flexera.com/blog/technology-value-optimization/it-spending-by-industry/)
+
+### Security
+- [The Verge - Online age verification is coming, and privacy is on the chopping block](https://www.theverge.com/23721306/online-age-verification-privacy-laws-child-safety)
+- [CNN - Meta slapped with record $1.3 billion EU fine over data privacy](https://edition.cnn.com/2023/05/22/tech/meta-facebook-data-privacy-eu-fine/index.html)
+- [BBC News - ChatGPT-maker U-turns on threat to leave EU over AI law](https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65708114.amp)
