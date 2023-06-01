@@ -58,6 +58,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - The Holy Graal syndrome](https://event-driven.io/en/holy_graal_syndrome?utm_source=architecture_weekly)
+- [Barry O'Reilly - Residuality Theory, random simulation, and attractor networks](https://www.sciencedirect.com/science/article/pii/S1877050922004975)
+- [Andreas Öhlund, David Boike - Using anti-requirements to find system boundaries](https://particular.net/blog/antirequirements)
+- [João Antunes - From domain events to infrastructure - thinking out loud about possible approaches I don’t hate](https://blog.codingmilitia.com/2023/05/16/from-domain-events-to-infrastructure-thinking-out-loud-about-possible-approaches-i-dont-hate/)
+- [Facundo Agriel - Magic Pocket: Dropbox’s Exabyte-Scale Blob Storage System](https://www.infoq.com/articles/dropbox-magic-pocket-exabyte-storage/)
+- [Frank Leymann - Transactions in a Microservice World](https://wso2.com/whitepapers/transactions-in-a-microservice-world/)
+- [Business Rule Group - The Business Rules Manifesto](https://www.businessrulesgroup.org/brmanifesto.htm)
+- [Holly Cummins - Cloud Chaos & Microservices Mayhem](https://www.youtube.com/watch?v=zJiUNKXZA1E)
+- [Domenic Cassini - Why is Kafka not Ideal for Event Sourcing?](https://dcassisi.com/2023/05/06/why-is-kafka-not-ideal-for-event-sourcing/)
 - [Oskar Dudycz - How to deal with privacy and GDPR in Event-Sourced systems](https://www.youtube.com/watch?v=7NGlYgobTyY)
 - [Oskar Dudycz - Anti-patterns in event modelling - I'll just add one more field](https://event-driven.io/en/i_will_just_add_one_more_field/?utm_source=architecture_weekly)
 - [StackOverflow Blog - Are clouds having their on-prem moment?](https://stackoverflow.blog/2023/02/20/are-companies-shifting-away-from-public-clouds)
@@ -998,6 +1007,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [David Rant - How Not to Use the DORA Metrics to Measure DevOps Performance](https://www.infoq.com/articles/dora-metrics-anti-patterns/)
+- [Jim Barton - Sidecars, eBPF and the Future of Service Mesh](https://www.infoq.com/presentations/service-mesh-ebpf)
+- [Eugene Khyst - Set up Nginx and Let’s Encrypt with Docker Compose in less than 3 minutes with a Docker Compose project](https://github.com/evgeniy-khist/letsencrypt-docker-compose/)
 - [Confluent - Kora: The Cloud Native Engine for Apache Kafka](https://www.confluent.io/blog/cloud-native-data-streaming-kafka-engine/)
 - [Giorgio Sironi - I just want to run a container...](https://www.giorgiosironi.com/2023/05/i-just-want-to-run-container.html)
 - [Elif Samedin, Andrei Buzoianu - Terraform check{} Block - define assertions based on data source values to verify the state of the infrastructure](https://unfriendlygrinch.info/posts/terraform-check-block/)
@@ -1287,6 +1299,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [LastMinute.com - Impacts of contract tests in our microservice architecture](https://technology.lastminute.com/impacts-of-contract-tests-in-a-microservice-architecture/)
 - [Piotr Przybył - Integration tests are needed and simple](https://softwaregarden.dev/en/talks/integration-tests-are-needed-and-simple/)
 - [Michael Feathers - The Flawed Theory Behind Unit Testing](https://michaelfeathers.typepad.com/michael_feathers_blog/2008/06/the-flawed-theo.html)
 - [Oskar Dudycz - How to test event-driven projections](https://event-driven.io/en/testing_event_driven_projections/?utm_source=architecture_weekly)
@@ -1389,6 +1402,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Zalando - Patroni - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes](https://github.com/zalando/patroni)
+- [Lokhesh Ujhoodha - Save time scavenging with EventStoreDB v22.10](https://www.eventstore.com/blog/save-time-scavenging-eventstoredb-v22.10)
 - [PostgREST - A standalone web server that turns your PostgreSQL database directly into a RESTful API](https://postgrest.org)
 - [data-diff - Compare tables within or across databases](https://github.com/datafold/data-diff)
 - [Oskar Dudycz - General strategy for migrating relational data to document-based](https://event-driven.io/en/strategy_on_migrating_relational_data_to_document_based/)
@@ -1578,6 +1593,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Phillip Carter - All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
 - [Santa Fe Institute - Workshop on AI and the Barrier of Meaning](https://www.youtube.com/playlist?app=desktop&list=PLZlVBTf7N6GpOCwMH-TIhwrUwV8YJMANM)
 - [The Guardian - ‘There was all sorts of toxic behaviour’: Timnit Gebru on her sacking by Google, AI’s dangers and big tech’s biases](https://www.theguardian.com/lifeandstyle/2023/may/22/there-was-all-sorts-of-toxic-behaviour-timnit-gebru-on-her-sacking-by-google-ais-dangers-and-big-techs-biases)
 - [Vice - Debt Collectors Want To Use AI Chatbots To Hustle People For Money](https://www.vice.com/en/article/bvjmm5/debt-collectors-want-to-use-ai-chatbots-to-hustle-people-for-money)
@@ -1656,6 +1672,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [James Eastham - Build Asynchronous API's using the Storage First Pattern & the AWS CDK](https://www.youtube.com/watch?v=E7M2WKM4O8Q)
 - [Alexander Butt-Piercey - Event Sourcing with Ruby and AWS Serverless Technologies - Part One: Design](https://apiercey.github.io/posts/event-sourcing-using-ruby-and-aws-serverless-technologies/system-design/)
 - [Yan Cui - Return large objects with AWS Lambda’s new Streaming Response](https://lumigo.io/blog/return-large-objects-with-aws-lambdas-new-streaming-response/)
 - [Serverless Spy - CDK-based library for writing elegant, fast-executing integration tests on AWS serverless architecture and an additional web console to monitor events in real time](https://github.com/ServerlessLife/serverless-spy)
@@ -1687,6 +1704,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Microsoft - Announcing Materialized Views for Azure Cosmos DB for NoSQL (Preview)](https://devblogs.microsoft.com/cosmosdb/announcing-materialized-view-feature-for-azure-cosmos-db-nosql-preview/)
 - [Microsoft - Microsoft Build Book of News](https://news.microsoft.com/build-2023-book-of-news/)
 - [Microsoft - Collection for Cloud Native New Year 2023](https://learn.microsoft.com/en-us/users/nityan/collections/xz6ehr3z7o7e1q?WT.mc_id=javascript-74010-ninarasi)
 - [Alicja Kucharczyk, Adam Wołk - Multi-tenant Saas apps made simple on Azure Cosmos DB for PostgreSQL](https://www.youtube.com/watch?v=ZRmoFjhT08U)
@@ -1751,6 +1769,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Stefan Pölz - How To Test C# Unit Tests With Mutation Testing](https://www.youtube.com/watch?v=9BoKyeZapLs)
+- [Khalid Abuhakmeh - Introduction to ASP.NET Core Minimal APIs](https://blog.jetbrains.com/dotnet/2023/04/25/introduction-to-asp-net-core-minimal-apis/)
+- [Suminda Niroshan - Using .Net X509 Certificates to Sign Images and Documents (C# .Net)](https://medium.com/swlh/using-net-x509-certificates-to-sign-images-and-documents-c-net-c09838707508)
+- [Andres Lopes - Creating a simple real-time chat with .NET Core, ReactJS and SignalR](https://medium.com/swlh/creating-a-simple-real-time-chat-with-net-core-reactjs-and-signalr-6367dcadd2c6)
 - [Richard Campbell - The History of .NET](https://www.youtube.com/watch?v=h7DzdygieHs)
 - [Steven Gordon - Concurrent Hosted Service Start and Stop in .NET 8](https://www.stevejgordon.co.uk/concurrent-hosted-service-start-and-stop-in-dotnet-8)
 - [Microsoft - ASP.NET Core updates in .NET 8 Preview 4](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-4/)
@@ -2575,6 +2597,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Plane - Open-source, self-hosted project planning tool](https://github.com/makeplane/plane)
 - [Dan North - Patterns of Effective Teams](https://www.youtube.com/watch?v=lvs7VEsQzKY)
 - [S. E. Dreyfus, H. L. Dreyfus - A five-stage model of the mental activities involved in directed skill acquisition](https://apps.dtic.mil/sti/pdfs/ADA084551.pdf)
 - [Dave Farley - Kent Beck On AGILE vs WATERFALL](https://www.youtube.com/watch?v=J4ihLROXzPk)
@@ -2682,6 +2705,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Shaun Smith - GraalVM Native Image — Faster, Smarter, Leaner](https://www.youtube.com/watch?v=sI-zXYLKzfk)
+- [Harish Kumar - Easy Implementation of GDPR with Aspect Oriented Programming](https://www.infoq.com/articles/gdpr-with-spring-and-aop)
 - [Josh Long - Bootiful Spring Boot 3](https://www.youtube.com/watch?v=-PZLG4UEoVQ)
 - [Szymon Przebierowski - Do you still need testcontainers with Spring Boot 3.1?](https://softwaremill.com/do-you-still-need-testcontainers-with-spring-boot-3-1/)
 - [Holly Cummins - Contract testing with Pact and Quarkus](https://www.youtube.com/watch?v=4xoJmz6bWB4)
@@ -2839,6 +2864,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [Turbo - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. ](https://github.com/vercel/turbo)
 - [Fast Node Manager (fnm) -  Fast and simple Node.js version manager, built in Rust](https://github.com/Schniz/fnm)
 - [LogRocket - WebSockets tutorial: How to go real-time with Node and React](https://blog.logrocket.com/websocket-tutorial-real-time-node-react/)
 - [Jamie Munro - How to Make a Real-Time Sports Application Using Node.js](https://code.tutsplus.com/tutorials/real-time-sports-application-using-nodejs--cms-30594)
@@ -3008,6 +3034,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Harvard Business Review - Rethink What You “Know” About High-Achieving Women](https://hbr.org/2014/12/rethink-what-you-know-about-high-achieving-women)
+- [Jensen Huang - NVIDIA Keynote at COMPUTEX 2023](https://www.youtube.com/watch?v=fHwmLOYJU_w)
+- [Federal Trade Comission - FTC and DOJ Charge Amazon with Violating Children’s Privacy Law by Keeping Kids’ Alexa Voice Recordings Forever and Undermining Parents’ Deletion Requests](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-doj-charge-amazon-violating-childrens-privacy-law-keeping-kids-alexa-voice-recordings-forever)
 - [Flexera - IT Spending by Industry](https://www.flexera.com/blog/technology-value-optimization/it-spending-by-industry/)
 - [CNBC - Shopify offloads logistics business to Flexport](https://www.cnbc.com/2023/05/04/shopify-offloads-logistics-business-to-flexport.html)
 - [IT Brew - Senate takes action on open-source vulnerabilities in wake of 2022 Log4j attack](https://www.itbrew.com/stories/2023/04/28/senate-takes-action-on-open-source-vulnerabilities-in-wake-of-2022-log4j-attack)
