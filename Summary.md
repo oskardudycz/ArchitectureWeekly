@@ -66,7 +66,7 @@
 - [Frank Leymann - Transactions in a Microservice World](https://wso2.com/whitepapers/transactions-in-a-microservice-world/)
 - [Business Rule Group - The Business Rules Manifesto](https://www.businessrulesgroup.org/brmanifesto.htm)
 - [Holly Cummins - Cloud Chaos & Microservices Mayhem](https://www.youtube.com/watch?v=zJiUNKXZA1E)
-- [Domenic Cassini - Why is Kafka not Ideal for Event Sourcing?](https://dcassisi.com/2023/05/06/why-is-kafka-not-ideal-for-event-sourcing/)
+- [Domenic Cassisi - Why is Kafka not Ideal for Event Sourcing?](https://dcassisi.com/2023/05/06/why-is-kafka-not-ideal-for-event-sourcing/)
 - [Oskar Dudycz - How to deal with privacy and GDPR in Event-Sourced systems](https://www.youtube.com/watch?v=7NGlYgobTyY)
 - [Oskar Dudycz - Anti-patterns in event modelling - I'll just add one more field](https://event-driven.io/en/i_will_just_add_one_more_field/?utm_source=architecture_weekly)
 - [StackOverflow Blog - Are clouds having their on-prem moment?](https://stackoverflow.blog/2023/02/20/are-companies-shifting-away-from-public-clouds)
