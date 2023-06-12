@@ -58,6 +58,13 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Matt Boyle - Tales of Kafka at Cloudflare: Lessons Learnt on the Way to 1 Trillion Messages](https://www.infoq.com/articles/kafka-clusters-cloudflare/)
+- [The NewStack - API Management Is a Commodity: What’s Next?](https://thenewstack.io/api-management-is-a-commodity-whats-next/)
+- [Cat Swetel - Democratizing Strategy: An Intro to Wardley Maps](https://www.youtube.com/watch?v=RCcXwcG2YXo)
+- [Nick Tune - EventStorming Modelling Tips to Facilitate Microservice Design](https://medium.com/nick-tune-tech-strategy-blog/eventstorming-modelling-tips-to-facilitate-microservice-design-1b1b0b838efc)
+- [Sebastian Gebski - Unicorn's baby steps: what should you know as a 1st-time startup CTO](https://www.youtube.com/watch?v=-4xZS_hhPl0)
+- [Olena Kutsenko - Using Apache Kafka and OpenSearch to explore Mastodon](https://www.youtube.com/watch?v=B-X5LCwEIjw)
+- [InfoQ - Eric Evans Interviews Greg Young on the Architecture of a Large Transaction System](https://www.infoq.com/interviews/Architecture-Eric-Evans-Interviews-Greg-Young/)
 - [Oskar Dudycz - The Holy Graal syndrome](https://event-driven.io/en/holy_graal_syndrome?utm_source=architecture_weekly)
 - [Barry O'Reilly - Residuality Theory, random simulation, and attractor networks](https://www.sciencedirect.com/science/article/pii/S1877050922004975)
 - [Andreas Öhlund, David Boike - Using anti-requirements to find system boundaries](https://particular.net/blog/antirequirements)
@@ -1299,6 +1306,8 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Ted M. Young - I'm Done with Unit and Integration Tests](https://ted.dev/articles/2023/04/02/i-m-done-with-unit-and-integration-tests/)
+- [Mathias Verraes - EventSourcing Testing Patterns](https://verraes.net/2023/05/eventsourcing-testing-patterns/)
 - [LastMinute.com - Impacts of contract tests in our microservice architecture](https://technology.lastminute.com/impacts-of-contract-tests-in-a-microservice-architecture/)
 - [Piotr Przybył - Integration tests are needed and simple](https://softwaregarden.dev/en/talks/integration-tests-are-needed-and-simple/)
 - [Michael Feathers - The Flawed Theory Behind Unit Testing](https://michaelfeathers.typepad.com/michael_feathers_blog/2008/06/the-flawed-theo.html)
@@ -1402,6 +1411,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Hans-Jürgen Schönig - PostgreSQL performance tips you have never seen before](https://www.youtube.com/watch?v=m8ogrogKjXo)
 - [Zalando - Patroni - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes](https://github.com/zalando/patroni)
 - [Lokhesh Ujhoodha - Save time scavenging with EventStoreDB v22.10](https://www.eventstore.com/blog/save-time-scavenging-eventstoredb-v22.10)
 - [PostgREST - A standalone web server that turns your PostgreSQL database directly into a RESTful API](https://postgrest.org)
@@ -1593,6 +1603,8 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Google - Generative AI learning path](https://www.cloudskillsboost.google/journeys/118)
+- [LocalAI - Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware.](https://github.com/go-skynet/LocalAI)
 - [Phillip Carter - All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
 - [Santa Fe Institute - Workshop on AI and the Barrier of Meaning](https://www.youtube.com/playlist?app=desktop&list=PLZlVBTf7N6GpOCwMH-TIhwrUwV8YJMANM)
 - [The Guardian - ‘There was all sorts of toxic behaviour’: Timnit Gebru on her sacking by Google, AI’s dangers and big tech’s biases](https://www.theguardian.com/lifeandstyle/2023/may/22/there-was-all-sorts-of-toxic-behaviour-timnit-gebru-on-her-sacking-by-google-ais-dangers-and-big-techs-biases)
@@ -1672,6 +1684,9 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Yan Cui - Are Lambda-to-Lambda calls really so bad?](https://theburningmonk.com/2020/07/are-lambda-to-lambda-calls-really-so-bad/)
+- [Marc Brooker - Container Loading in AWS Lambda](https://brooker.co.za/blog/2023/05/23/snapshot-loading.html)
+- [M. Brooker, M. Danilov, C. Greenwood, P. Piwonka - On-demand Container Loading in AWS Lambda](https://arxiv.org/pdf/2305.13162.pdf)
 - [James Eastham - Build Asynchronous API's using the Storage First Pattern & the AWS CDK](https://www.youtube.com/watch?v=E7M2WKM4O8Q)
 - [Alexander Butt-Piercey - Event Sourcing with Ruby and AWS Serverless Technologies - Part One: Design](https://apiercey.github.io/posts/event-sourcing-using-ruby-and-aws-serverless-technologies/system-design/)
 - [Yan Cui - Return large objects with AWS Lambda’s new Streaming Response](https://lumigo.io/blog/return-large-objects-with-aws-lambdas-new-streaming-response/)
@@ -1769,6 +1784,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Cecil Phillip - Building payment flows with Stripe and Azure](https://www.youtube.com/watch?v=ud_3fEY24U4)
+- [Andrew Lock - Using Octokit.GraphQL to interact with the GitHub discussions API](https://andrewlock.net/using-octokit-graphql-to-interact-with-the-github-discussions-api/)
+- [Jeremy D. Miller - I’m doing it my way. Finally. God help me.](https://jeremydmiller.com/2023/06/05/im-doing-it-my-way-finally-god-help-me/)
+- [Isaac Levin - Doing More with SSR Blazor in .NET 8](https://www.youtube.com/watch?v=TD60BQxcCWQ)
 - [Stefan Pölz - How To Test C# Unit Tests With Mutation Testing](https://www.youtube.com/watch?v=9BoKyeZapLs)
 - [Khalid Abuhakmeh - Introduction to ASP.NET Core Minimal APIs](https://blog.jetbrains.com/dotnet/2023/04/25/introduction-to-asp-net-core-minimal-apis/)
 - [Suminda Niroshan - Using .Net X509 Certificates to Sign Images and Documents (C# .Net)](https://medium.com/swlh/using-net-x509-certificates-to-sign-images-and-documents-c-net-c09838707508)
@@ -2377,6 +2396,11 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Oskar Dudycz - A few words on communication](https://event-driven.io/en/a_few_words_on_communication/?utm_source=architecture_weekly)
+- [Dan North - Seek First to Understand](https://dannorth.net/2023/05/09/seek-first-to-understand/)
+- [Dave Farley - Rockstar Developers Are THE WORST Developers](https://www.youtube.com/watch?v=mVY2rFninp8)
+- [Monday Morning Data Chat - The Art of Developer Relations w/ Tim Berglund](https://overcast.fm/+wcMpaVvPQ)
+- [Sam Aaron - Sonic Pi - BEAM Up The VJ!](https://www.youtube.com/watch?v=UqWtYHjPOIs)
 - [Martin Thompson - Aeron – Proof of the benefits of open development](https://www.gresearch.com/blog/article/aeron-proof-of-the-benefits-of-open-development/)
 - [Oskar Dudycz - A few notes on running open source project after Marten v6 release](https://event-driven.io/en/a_few_notes_on_running_open_source_project/?utm_source=architecture_weekly)
 - [Mike Melanson - How ‘open’ should your open source be?](https://github.com/readme/featured/how-open-is-open-source)
@@ -2597,6 +2621,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [A. Noda, M. Storey, N. Forsgren, M. Greiler - DevEx: What Actually Drives Productivity](https://queue.acm.org/detail.cfm?id=3595878)
+- [Ron Jeffries - Developers Should Abandon Agile](https://ronjeffries.com/articles/018-01ff/abandon-1/)
 - [Plane - Open-source, self-hosted project planning tool](https://github.com/makeplane/plane)
 - [Dan North - Patterns of Effective Teams](https://www.youtube.com/watch?v=lvs7VEsQzKY)
 - [S. E. Dreyfus, H. L. Dreyfus - A five-stage model of the mental activities involved in directed skill acquisition](https://apps.dtic.mil/sti/pdfs/ADA084551.pdf)
@@ -2800,12 +2826,14 @@
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
 ## JVM
+- [Graeme Rocher - Micronaut 3 & GraalVM Deep Dive](https://www.youtube.com/watch?v=eMSRaOLfdNw)
 - [Spring - From Spring Native to Spring Boot 3](https://spring.io/blog/2023/02/23/from-spring-native-to-spring-boot-3)
 - [Sacha Coppey - GraalVM Native Image meets RISC-V](https://medium.com/graalvm/graalvm-native-image-meets-risc-v-899be38eddd9)
 - [Gradle - A Better Way to Use Gradle With Github Actions](https://blog.gradle.org/gh-actions)
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
 ## JavaScript
+- [Fly.io Blog - The JavaScript Ecosystem Is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
 - [Ryan Dahl - Deno: The JavaScript Runtime for the Serverless Era](https://www.youtube.com/watch?v=VDKJ1rSj-NI)
 - [Jason Godesky - When JavaScript Fails](https://scribe.rip/@jason.godesky/when-javascript-fails-52eef47e90db)
 - [Oskar Dudycz - Fun with serial JSON](https://event-driven.io/en/fun_with_json_serialisation/?utm_source=architecture_weekly)
@@ -3034,6 +3062,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Bloomberg - Scaling the Practice of Architecture, ConversationallySEC Sues Binance and CEO Zhao for Breaking Securities Rules](https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rules)
+- [The Verge - Google Wallet is getting custom cards and state IDs this month](https://www.theverge.com/2023/6/1/23745168/google-wallet-state-id-drivers-license-custom-cards)
 - [Harvard Business Review - Rethink What You “Know” About High-Achieving Women](https://hbr.org/2014/12/rethink-what-you-know-about-high-achieving-women)
 - [Jensen Huang - NVIDIA Keynote at COMPUTEX 2023](https://www.youtube.com/watch?v=fHwmLOYJU_w)
 - [Federal Trade Comission - FTC and DOJ Charge Amazon with Violating Children’s Privacy Law by Keeping Kids’ Alexa Voice Recordings Forever and Undermining Parents’ Deletion Requests](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-doj-charge-amazon-violating-childrens-privacy-law-keeping-kids-alexa-voice-recordings-forever)
@@ -3385,6 +3415,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [CSO - ChatGPT creates mutating malware that evades detection by EDR](https://www.csoonline.com/article/3698516/chatgpt-creates-mutating-malware-that-evades-detection-by-edr.html)
 - [The Verge - Online age verification is coming, and privacy is on the chopping block](https://www.theverge.com/23721306/online-age-verification-privacy-laws-child-safety)
 - [CNN - Meta slapped with record $1.3 billion EU fine over data privacy](https://edition.cnn.com/2023/05/22/tech/meta-facebook-data-privacy-eu-fine/index.html)
 - [BBC News - ChatGPT-maker U-turns on threat to leave EU over AI law](https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65708114.amp)
