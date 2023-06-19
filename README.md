@@ -24,6 +24,70 @@ There are two rules:
 
 ---
 
+## [19th June 2023](per-week/2023-06-19.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
+
+---
+
+### Architecture
+- [StackOverflow - 2023 Developer Survey results](https://stackoverflow.blog/2023/06/13/developer-survey-results-are-in/)
+- [Matthew Foster - Linking Modular Architecture to Development Teams](https://martinfowler.com/articles/linking-modular-arch.html)
+- [Mark Seemann - On doing katas](https://blog.ploeh.dk/2020/01/13/on-doing-katas/)
+- [William Brander - Top 5 techniques for building the worst microservice system ever](https://www.youtube.com/watch?v=88_LUw1Wwe4)
+- [Eduardo da Silva - Sociotechnical Architecture: co-designing technical & organizational architecture to maximize impact](https://www.youtube.com/watch?v=ekMPm78KFj0)
+- [Confluent - Kafka Summit Videos](https://www.confluent.io/events/kafka-summit-london-2023/)
+- [EDA Summit - Videos](https://edasummit.com/categories/architects/)
+- [Peter Ritchie - HTTP and ETag Header Fields](https://blog.peterritchie.com/posts/http-and-etag-header-fields)
+
+### DevOps
+- [Jan Kammerath - How Kubernetes And Kafka Will Get You Fired](https://medium.com/@jankammerath/how-kubernetes-and-kafka-will-get-you-fired-a6dccbd36c77)
+
+### Databases
+- [The NewStack - Vector Search Is Coming to Apache Cassandra](https://thenewstack.io/vector-search-is-coming-to-apache-cassandra)
+- [Workable Tech Blog - Postgres — Live Table Partitioning](https://engineering.workable.com/postgres-live-partitioning-of-existing-tables-15a99c16b291)
+
+### AI
+- [Center for AI Safety - Statement on AI Risk](https://www.safe.ai/statement-on-ai-risk)
+- [Technomancers.ai - Japan Goes All In: Copyright Doesn’t Apply To AI Training](https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/)
+- [AutoTrain - A no-code tool for training state-of-the-art models for Natural Language Processing (NLP) tasks, for Computer Vision (CV) tasks, and for Speech tasks and even for Tabular tasks.](https://huggingface.co/docs/autotrain/index)
+- [Humanloop - OpenAI’s plans according to Sam Altman](https://web.archive.org/web/20230601023647/https://humanloop.com/blog/openai-plans)
+
+### AWS
+- [Justin Pirtle - Scalable serverless event-driven architectures with SNS, SQS & Lambda](https://www.youtube.com/watch?v=8zysQqxgj0I)
+
+### Azure
+- [Microsoft - Announcing Azure Monitor OpenTelemetry Distro](https://devblogs.microsoft.com/dotnet/azure-monitor-opentelemetry-distro/)
+
+### Java
+- [Brian Goetz - Design document on nullability and value types](https://mail.openjdk.org/pipermail/valhalla-spec-observers/2023-May/002243.html)
+
+### JavaScript
+- [The Cloudflare - A Community Group for Web-interoperable JavaScript runtimes](https://blog.cloudflare.com/introducing-the-wintercg/)
+- [Code with Hugo - Mocking/stubbing the current Date in Jest tests](https://codewithhugo.com/mocking-the-current-date-in-jest-tests/)
+- [Josh Goldberg - Configuring ESLint, Prettier, and TypeScript Together](https://blog.joshuakgoldberg.com/configuring-eslint-prettier-and-typescript-together/)
+
+### .NET
+- [Jeremy D. Miller - Wolverine 1.0 is Out!](https://jeremydmiller.com/2023/06/18/wolverine-1-0-is-out/)
+- [Rachel Appel - Blazor Essentials](https://www.jetbrains.com/dotnet/guide/tutorials/blazor-essentials)
+- [Chris Klug - Introduction to Actor-based Development with Project Orleans](https://www.youtube.com/watch?v=-NdkAW_NAb8)
+- [Stefan Pölz - Let's Code an incremental source generator with Roslyn](https://www.youtube.com/watch?v=iOp3mN933Og)
+
+### Coding Life
+- [Oskar Dudycz - Recap of Event Sourcing Live 2023](https://event-driven.io/en/event_sourcing_live_2023/?utm_source=architecture_weekly)
+
+### Management
+- [Harvard Business Review - Remote Work Should Be (Mostly) Asynchronous](https://hbr.org/2021/12/remote-work-should-be-mostly-asynchronous)
+- [Dan North -  Why Agile Doesn't Scale & What You Can Do About It](https://www.youtube.com/watch?v=F4b_MckXea0)
+
+### Security
+- [Vittorio Bertocci - Signing Out and Session Management in 2023](https://www.youtube.com/watch?v=96m7DDQBW0U)
+
+### Trivia
+- [Programmers are also human - Interview with an Emacs Enthusiast in 2023](https://www.youtube.com/watch?v=urcL86UpqZc)
+
+---
+
 ## [12th June 2023](per-week/2023-06-12.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).

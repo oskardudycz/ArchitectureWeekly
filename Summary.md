@@ -58,6 +58,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [StackOverflow - 2023 Developer Survey results](https://stackoverflow.blog/2023/06/13/developer-survey-results-are-in/)
+- [Matthew Foster - Linking Modular Architecture to Development Teams](https://martinfowler.com/articles/linking-modular-arch.html)
+- [Mark Seemann - On doing katas](https://blog.ploeh.dk/2020/01/13/on-doing-katas/)
+- [William Brander - Top 5 techniques for building the worst microservice system ever](https://www.youtube.com/watch?v=88_LUw1Wwe4)
+- [Eduardo da Silva - Sociotechnical Architecture: co-designing technical & organizational architecture to maximize impact](https://www.youtube.com/watch?v=ekMPm78KFj0)
+- [Confluent - Kafka Summit Videos](https://www.confluent.io/events/kafka-summit-london-2023/)
+- [EDA Summit - Videos](https://edasummit.com/categories/architects/)
+- [Peter Ritchie - HTTP and ETag Header Fields](https://blog.peterritchie.com/posts/http-and-etag-header-fields)
 - [Matt Boyle - Tales of Kafka at Cloudflare: Lessons Learnt on the Way to 1 Trillion Messages](https://www.infoq.com/articles/kafka-clusters-cloudflare/)
 - [The NewStack - API Management Is a Commodity: What’s Next?](https://thenewstack.io/api-management-is-a-commodity-whats-next/)
 - [Cat Swetel - Democratizing Strategy: An Intro to Wardley Maps](https://www.youtube.com/watch?v=RCcXwcG2YXo)
@@ -1014,6 +1022,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Jan Kammerath - How Kubernetes And Kafka Will Get You Fired](https://medium.com/@jankammerath/how-kubernetes-and-kafka-will-get-you-fired-a6dccbd36c77)
 - [David Rant - How Not to Use the DORA Metrics to Measure DevOps Performance](https://www.infoq.com/articles/dora-metrics-anti-patterns/)
 - [Jim Barton - Sidecars, eBPF and the Future of Service Mesh](https://www.infoq.com/presentations/service-mesh-ebpf)
 - [Eugene Khyst - Set up Nginx and Let’s Encrypt with Docker Compose in less than 3 minutes with a Docker Compose project](https://github.com/evgeniy-khist/letsencrypt-docker-compose/)
@@ -1411,6 +1420,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [The NewStack - Vector Search Is Coming to Apache Cassandra](https://thenewstack.io/vector-search-is-coming-to-apache-cassandra)
+- [Workable Tech Blog - Postgres — Live Table Partitioning](https://engineering.workable.com/postgres-live-partitioning-of-existing-tables-15a99c16b291)
 - [Hans-Jürgen Schönig - PostgreSQL performance tips you have never seen before](https://www.youtube.com/watch?v=m8ogrogKjXo)
 - [Zalando - Patroni - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes](https://github.com/zalando/patroni)
 - [Lokhesh Ujhoodha - Save time scavenging with EventStoreDB v22.10](https://www.eventstore.com/blog/save-time-scavenging-eventstoredb-v22.10)
@@ -1603,6 +1614,10 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Center for AI Safety - Statement on AI Risk](https://www.safe.ai/statement-on-ai-risk)
+- [Technomancers.ai - Japan Goes All In: Copyright Doesn’t Apply To AI Training](https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/)
+- [AutoTrain - A no-code tool for training state-of-the-art models for Natural Language Processing (NLP) tasks, for Computer Vision (CV) tasks, and for Speech tasks and even for Tabular tasks.](https://huggingface.co/docs/autotrain/index)
+- [Humanloop - OpenAI’s plans according to Sam Altman](https://web.archive.org/web/20230601023647/https://humanloop.com/blog/openai-plans)
 - [Google - Generative AI learning path](https://www.cloudskillsboost.google/journeys/118)
 - [LocalAI - Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware.](https://github.com/go-skynet/LocalAI)
 - [Phillip Carter - All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
@@ -1684,6 +1699,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Justin Pirtle - Scalable serverless event-driven architectures with SNS, SQS & Lambda](https://www.youtube.com/watch?v=8zysQqxgj0I)
 - [Yan Cui - Are Lambda-to-Lambda calls really so bad?](https://theburningmonk.com/2020/07/are-lambda-to-lambda-calls-really-so-bad/)
 - [Marc Brooker - Container Loading in AWS Lambda](https://brooker.co.za/blog/2023/05/23/snapshot-loading.html)
 - [M. Brooker, M. Danilov, C. Greenwood, P. Piwonka - On-demand Container Loading in AWS Lambda](https://arxiv.org/pdf/2305.13162.pdf)
@@ -1719,6 +1735,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Microsoft - Announcing Azure Monitor OpenTelemetry Distro](https://devblogs.microsoft.com/dotnet/azure-monitor-opentelemetry-distro/)
 - [Microsoft - Announcing Materialized Views for Azure Cosmos DB for NoSQL (Preview)](https://devblogs.microsoft.com/cosmosdb/announcing-materialized-view-feature-for-azure-cosmos-db-nosql-preview/)
 - [Microsoft - Microsoft Build Book of News](https://news.microsoft.com/build-2023-book-of-news/)
 - [Microsoft - Collection for Cloud Native New Year 2023](https://learn.microsoft.com/en-us/users/nityan/collections/xz6ehr3z7o7e1q?WT.mc_id=javascript-74010-ninarasi)
@@ -1784,6 +1801,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jeremy D. Miller - Wolverine 1.0 is Out!](https://jeremydmiller.com/2023/06/18/wolverine-1-0-is-out/)
+- [Rachel Appel - Blazor Essentials](https://www.jetbrains.com/dotnet/guide/tutorials/blazor-essentials)
+- [Chris Klug - Introduction to Actor-based Development with Project Orleans](https://www.youtube.com/watch?v=-NdkAW_NAb8)
+- [Stefan Pölz - Let's Code an incremental source generator with Roslyn](https://www.youtube.com/watch?v=iOp3mN933Og)
 - [Cecil Phillip - Building payment flows with Stripe and Azure](https://www.youtube.com/watch?v=ud_3fEY24U4)
 - [Andrew Lock - Using Octokit.GraphQL to interact with the GitHub discussions API](https://andrewlock.net/using-octokit-graphql-to-interact-with-the-github-discussions-api/)
 - [Jeremy D. Miller - I’m doing it my way. Finally. God help me.](https://jeremydmiller.com/2023/06/05/im-doing-it-my-way-finally-god-help-me/)
@@ -2396,6 +2417,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Oskar Dudycz - Recap of Event Sourcing Live 2023](https://event-driven.io/en/event_sourcing_live_2023/?utm_source=architecture_weekly)
 - [Oskar Dudycz - A few words on communication](https://event-driven.io/en/a_few_words_on_communication/?utm_source=architecture_weekly)
 - [Dan North - Seek First to Understand](https://dannorth.net/2023/05/09/seek-first-to-understand/)
 - [Dave Farley - Rockstar Developers Are THE WORST Developers](https://www.youtube.com/watch?v=mVY2rFninp8)
@@ -2621,6 +2643,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Harvard Business Review - Remote Work Should Be (Mostly) Asynchronous](https://hbr.org/2021/12/remote-work-should-be-mostly-asynchronous)
+- [Dan North -  Why Agile Doesn't Scale & What You Can Do About It](https://www.youtube.com/watch?v=F4b_MckXea0)
 - [A. Noda, M. Storey, N. Forsgren, M. Greiler - DevEx: What Actually Drives Productivity](https://queue.acm.org/detail.cfm?id=3595878)
 - [Ron Jeffries - Developers Should Abandon Agile](https://ronjeffries.com/articles/018-01ff/abandon-1/)
 - [Plane - Open-source, self-hosted project planning tool](https://github.com/makeplane/plane)
@@ -2731,6 +2755,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Brian Goetz - Design document on nullability and value types](https://mail.openjdk.org/pipermail/valhalla-spec-observers/2023-May/002243.html)
 - [Shaun Smith - GraalVM Native Image — Faster, Smarter, Leaner](https://www.youtube.com/watch?v=sI-zXYLKzfk)
 - [Harish Kumar - Easy Implementation of GDPR with Aspect Oriented Programming](https://www.infoq.com/articles/gdpr-with-spring-and-aop)
 - [Josh Long - Bootiful Spring Boot 3](https://www.youtube.com/watch?v=-PZLG4UEoVQ)
@@ -2833,6 +2858,9 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
 ## JavaScript
+- [The Cloudflare - A Community Group for Web-interoperable JavaScript runtimes](https://blog.cloudflare.com/introducing-the-wintercg/)
+- [Code with Hugo - Mocking/stubbing the current Date in Jest tests](https://codewithhugo.com/mocking-the-current-date-in-jest-tests/)
+- [Josh Goldberg - Configuring ESLint, Prettier, and TypeScript Together](https://blog.joshuakgoldberg.com/configuring-eslint-prettier-and-typescript-together/)
 - [Fly.io Blog - The JavaScript Ecosystem Is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
 - [Ryan Dahl - Deno: The JavaScript Runtime for the Serverless Era](https://www.youtube.com/watch?v=VDKJ1rSj-NI)
 - [Jason Godesky - When JavaScript Fails](https://scribe.rip/@jason.godesky/when-javascript-fails-52eef47e90db)
@@ -3415,6 +3443,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Vittorio Bertocci - Signing Out and Session Management in 2023](https://www.youtube.com/watch?v=96m7DDQBW0U)
 - [CSO - ChatGPT creates mutating malware that evades detection by EDR](https://www.csoonline.com/article/3698516/chatgpt-creates-mutating-malware-that-evades-detection-by-edr.html)
 - [The Verge - Online age verification is coming, and privacy is on the chopping block](https://www.theverge.com/23721306/online-age-verification-privacy-laws-child-safety)
 - [CNN - Meta slapped with record $1.3 billion EU fine over data privacy](https://edition.cnn.com/2023/05/22/tech/meta-facebook-data-privacy-eu-fine/index.html)
@@ -3575,6 +3604,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Programmers are also human - Interview with an Emacs Enthusiast in 2023](https://www.youtube.com/watch?v=urcL86UpqZc)
 - [Upraise - Output Vs Outcome: Top 10 Differences](https://upraise.io/blog/output-vs-outcome-top-10-differences/)
 - [Mark Manson - How to Take Risks](https://markmanson.net/risk)
 - [Marcus Raitner - On the Wise Use of Our Insultingly Short Lifespan](https://raitner.de/en/2023/02/on-the-wise-use-of-our-insultingly-short-lifespan/)
