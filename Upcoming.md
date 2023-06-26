@@ -5,3 +5,59 @@
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
+
+### Architecture
+- [Aaron Stannard - High Optionality Programming: Architectural Choices That Mitigate Technical Debt](https://www.youtube.com/watch?v=yV97QwC5gnE)
+- [Kim Waldén - Reversibility in software engineering](http://www.bon-method.com/computer_annotated.pdf)
+- [Simon Brown - Risk Storming](https://riskstorming.com/)
+- [InfoQ - The Evolution of Evolutionary Architecture with Rebecca Parsons](https://www.infoq.com/podcasts/evolutionary-architecture-evolution/)
+- [Andrew Ayer - The Story Behind Last Week's Let's Encrypt Downtime](https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime)
+- [Mihir Sathe - Load Balancing: The Intuition Behind the Power of Two Random Choices](https://medium.com/@mihsathe/load-balancing-the-intuition-behind-the-power-of-two-random-choices-6de2e139ac2f)
+- [Gergely Orosz - Yes, You Should Estimate Software Projects](https://blog.pragmaticengineer.com/yes-you-should-estimate/)
+- [Avanscoperta - Team Topologies: A chat with Manuel Pais and Alberto Brandolini](https://www.youtube.com/watch?v=onTNIEBZfQY)
+- [Robert Virding, Francesco Cesarini - Concurrency Oriented Programming in a Modern World](https://www.youtube.com/watch?v=AvA97AB8cAA)
+
+### DevOps
+- [Johnson Okorie - Running Kafka in Kubernetes, Part 1: Why we migrated our Kafka clusters to Kubernetes](https://medium.com/wise-engineering/running-kafka-in-kubernetes-part-1-why-we-migrated-our-kafka-clusters-to-kubernetes-722101a2e751)
+- [Nigel Poulton - WebAssembly on Kubernetes: everything you need to know](https://nigelpoulton.com/webassembly-on-kubernetes-everything-you-need-to-know/)
+
+### Distributed Systems
+- [Danica Fine - A Kafka Client’s Request: There and Back Again](https://www.youtube.com/watch?v=8NrK69WrRq0)
+
+### Frontend
+- [angular-auth-oidc-client - Angular Lib for OpenID Connect & OAuth2](https://github.com/damienbod/angular-auth-oidc-client/)
+
+### AI
+- [Microsoft - Introducing Azure OpenAI Service On Your Data in Public Preview](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/introducing-azure-openai-service-on-your-data-in-public-preview/ba-p/3847000)
+- [GitHub - How to use GitHub Copilot: Prompts, tips, and use cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
+
+### AWS
+- [Be a Better Dev - AWS SQS vs SNS vs Eventbridge – When to Use What?](https://beabetterdev.com/2021/09/10/aws-sqs-vs-sns-vs-eventbridge/)
+
+### Go
+- [Ben E. C. Boyter - How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/)
+
+### Java
+- [Otavio Santana - Exploring Java Records beyond Data Transfer Objects](https://www.infoq.com/articles/exploring-java-records)
+
+### .NET
+- [GRPC-Mock-Server - Super fast, platform independent, standalone component for mocking GRPC services using WireMock.NET stubbing engine](https://github.com/cezarypiatek/GRPC-Mock-Server)
+- [KafkaFlow - .NET framework to create Kafka based applications, simple to use and extend.](https://farfetch.github.io/kafkaflow/docs/)
+- [LLamaSharp - .NET Binding for llama.cpp](https://github.com/SciSharp/LLamaSharp)
+- [Jeremy D. Miller - Critter Stack Multi-Tenancy](https://jeremydmiller.com/2023/06/22/critter-stack-multi-tenancy/) 
+
+### Coding Life
+- [Nick Tune, Mike Rozinsky & Dan Young - Designing and Facilitating Better Workshops](https://www.youtube.com/watch?v=pa1axIs2Dco)
+- [Nat Bennett - What was special about Pivotal?](https://www.simplermachines.com/mr-reciprocity/)
+- [Just Josh - Best Laptop for Programming in 2023: ULTIMATE Guide](https://www.youtube.com/watch?v=ZmQCGskcrjI)
+
+### Management
+- [Jade Rubick - A detailed look at FAST agile -- a practice well worth your time](https://www.rubick.com/fast-agile)
+- [HR Brew - HubSpot says remote employees are more engaged, just as productive](https://www.hr-brew.com/stories/hubspot-remote-employee-engagement-productivity)
+
+### Industry
+- [Time - OpenAI Lobbied the E.U. to Water Down AI Regulation](https://time.com/6288245/openai-eu-lobbying-ai-act/)
+- [The Register - After giving us .zip, Google Domains to shut down, will be flogged off to Squarespace](https://www.theregister.com/2023/06/18/google_domains_shutting_down/)
+
+### Security
+- [Microsoft - IoT devices and Linux-based systems targeted by OpenSSH trojan campaign](https://www.microsoft.com/en-us/security/blog/2023/06/22/iot-devices-and-linux-based-systems-targeted-by-openssh-trojan-campaign/)
