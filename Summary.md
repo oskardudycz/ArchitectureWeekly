@@ -58,6 +58,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Follow the money to get a better design](https://event-driven.io/en/follow_the_money/)
+- [Mark Schwartz - Should You Prioritize?](https://aws.amazon.com/blogs/enterprise-strategy/should-you-prioritize/)
+- [Mark Seemann - When is an implementation detail an implementation detail?](https://blog.ploeh.dk/2023/06/19/when-is-an-implementation-detail-an-implementation-detail/)
+- [Jeremy Miller - A Contrarian View of Software Architecture](https://www.youtube.com/watch?v=ttYQzHPe5s4)
+- [Mikael Vesavuori - Designing a Next-Level EventCatalog Setup for Event-Driven Architectures](https://mikaelvesavuori.medium.com/designing-a-next-level-eventcatalog-setup-for-event-driven-architectures-754c0fd37691)
+- [Dave Anderson - The Amazon Working Backward Process for Engineering](https://www.scarletink.com/the-amazon-working-backward-process-for-engineering/)
+- [Dave Gray - Pre-Mortem](https://gamestorming.com/pre-mortem/)
+- [Mauro Servienti - What if my command was rejected?](https://milestone.topics.it/2023/06/27/reject-commands.html)
+- [Damian Płaza - Concept maps](https://talesfrom.dev/blog/concept-maps)
 - [Oskar Dudycz - Removability over Maintainability](https://event-driven.io/en/removability_over_maintainability/?utm_source=architecture_weekly)
 - [Aaron Stannard - High Optionality Programming: Architectural Choices That Mitigate Technical Debt](https://www.youtube.com/watch?v=yV97QwC5gnE)
 - [Kim Waldén - Reversibility in software engineering](http://www.bon-method.com/computer_annotated.pdf)
@@ -1033,6 +1042,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Ken Scambler - Replatform in a Year or Die: The Tale of a Turnaround](https://www.youtube.com/watch?v=6EplPhk9uOs)
+- [Dave Farley - Don’t Get Caught In The Platform Engineering Hype](https://www.youtube.com/watch?v=wXyNHngEN-s)
 - [Johnson Okorie - Running Kafka in Kubernetes, Part 1: Why we migrated our Kafka clusters to Kubernetes](https://medium.com/wise-engineering/running-kafka-in-kubernetes-part-1-why-we-migrated-our-kafka-clusters-to-kubernetes-722101a2e751)
 - [Nigel Poulton - WebAssembly on Kubernetes: everything you need to know](https://nigelpoulton.com/webassembly-on-kubernetes-everything-you-need-to-know/)
 - [Jan Kammerath - How Kubernetes And Kafka Will Get You Fired](https://medium.com/@jankammerath/how-kubernetes-and-kafka-will-get-you-fired-a6dccbd36c77)
@@ -1210,6 +1221,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Nicholas Ray - 300ms Faster: Reducing Wikipedia's Total Blocking Time](https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/)
 - [angular-auth-oidc-client - Angular Lib for OpenID Connect & OAuth2](https://github.com/damienbod/angular-auth-oidc-client/)
 - [Angular Blog - Angular v16 is here!](https://blog.angular.io/angular-v16-is-here-4d7a28ec680d)
 - [Shopify - 3 ways to find your worst JavaScript offenders for page load](https://performance.shopify.com/blogs/blog/3-ways-to-find-your-worst-javascript-offenders-for-page-load)
@@ -1434,6 +1446,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [MongoDB - Introducing Atlas Stream Processing - Simplifying the Path to Reactive, Responsive, Event-Driven Apps](https://www.mongodb.com/blog/post/introducing-atlas-stream-processing-simplifying-path-reactive-responsive-even-driven-apps)
+- [Tom Asel - Wardley Maps and Graphdatabases](https://tangible-concepts.de/wardley-maps-and-graphdatabases)
 - [The NewStack - Vector Search Is Coming to Apache Cassandra](https://thenewstack.io/vector-search-is-coming-to-apache-cassandra)
 - [Workable Tech Blog - Postgres — Live Table Partitioning](https://engineering.workable.com/postgres-live-partitioning-of-existing-tables-15a99c16b291)
 - [Hans-Jürgen Schönig - PostgreSQL performance tips you have never seen before](https://www.youtube.com/watch?v=m8ogrogKjXo)
@@ -1628,6 +1642,7 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Databricks - Introducing English as the New Programming Language for Apache Spark](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark)
 - [Microsoft - Introducing Azure OpenAI Service On Your Data in Public Preview](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/introducing-azure-openai-service-on-your-data-in-public-preview/ba-p/3847000)
 - [GitHub - How to use GitHub Copilot: Prompts, tips, and use cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
 - [Center for AI Safety - Statement on AI Risk](https://www.safe.ai/statement-on-ai-risk)
@@ -1818,6 +1833,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Daniel Marbach - Performance tricks I learned from contributing to open source .NET packages](https://www.youtube.com/watch?v=pGgsFW7kDKI)
+- [Steven Sanderson - Experiments with the new WASI workload in .NET 8 Preview 4](https://www.youtube.com/watch?v=gKX-cdqnb8I)
+- [Hamilton - The State of F#](https://hamy.xyz/labs/2023-06-state-of-fsharp)
+- [pgvector-dotnet - pgvector support for C#](https://github.com/pgvector/pgvector-dotnet)
 - [GRPC-Mock-Server - Super fast, platform independent, standalone component for mocking GRPC services using WireMock.NET stubbing engine](https://github.com/cezarypiatek/GRPC-Mock-Server)
 - [KafkaFlow - .NET framework to create Kafka based applications, simple to use and extend.](https://farfetch.github.io/kafkaflow/docs/)
 - [LLamaSharp - .NET Binding for llama.cpp](https://github.com/SciSharp/LLamaSharp)
@@ -2417,6 +2436,7 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [Peter Malmgren - Getting data in and out of WASI modules](https://petermalmgren.com/serverside-wasm-data/)
 - [The NewStack - Will JavaScript Become the Most Popular WebAssembly Language?](https://thenewstack.io/will-javascript-become-the-most-popular-webassembly-language/)
 - [The NewStack - WebAssembly: 5 Predictions for 2023](https://thenewstack.io/webassembly-5-predictions-for-2023/)
 - [Matt Butcher, Radu Matei - The Six Ways of Optimizing WebAssembly](https://www.infoq.com/articles/six-ways-optimize-webassembly/)
@@ -2781,6 +2801,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [David Vlijmincx - Introduction and pitfalls of Java's new concurrency model](https://www.youtube.com/watch?v=UjzLaVI87mA)
+- [Bruno Borges - Secrets of Performance Tuning Java on Kubernetes](https://www.youtube.com/watch?v=wApqCjHWF8Q)
 - [Otavio Santana - Exploring Java Records beyond Data Transfer Objects](https://www.infoq.com/articles/exploring-java-records)
 - [Brian Goetz - Design document on nullability and value types](https://mail.openjdk.org/pipermail/valhalla-spec-observers/2023-May/002243.html)
 - [Shaun Smith - GraalVM Native Image — Faster, Smarter, Leaner](https://www.youtube.com/watch?v=sI-zXYLKzfk)
@@ -2915,6 +2937,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [InfoWorld - Microsoft’s DeviceScript brings TypeScript to IoT](https://www.infoworld.com/article/3699136/microsoft-devicescript-brings-typescript-to-iot.html)
 - [Matt Pocock - Typescript Generics Workshop](https://github.com/total-typescript/typescript-generics-workshop)
 - [tRPC - Move fast and break nothing. End-to-end typesafe APIs made easy](https://github.com/trpc/trpc)
 - [Microsoft - Announcing TypeScript 5.0](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/)
@@ -3118,6 +3141,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Andy Baio - Twitter bug causes self-DDOS tied to Elon Musk’s emergency blocks and rate limits: "It's amateur hour"](https://waxy.org/2023/07/twitter-bug-causes-self-ddos-possibly-causing-elon-musks-emergency-blocks-and-rate-limits-its-amateur-hour/)
+- [The Guardian - Twitter applies reading limit after users report issues with platform](https://www.theguardian.com/technology/2023/jul/01/twitter-applies-reading-limit-after-users-report-issues-with-platform)
 - [Time - OpenAI Lobbied the E.U. to Water Down AI Regulation](https://time.com/6288245/openai-eu-lobbying-ai-act/)
 - [The Register - After giving us .zip, Google Domains to shut down, will be flogged off to Squarespace](https://www.theregister.com/2023/06/18/google_domains_shutting_down/)
 - [Bloomberg - Scaling the Practice of Architecture, ConversationallySEC Sues Binance and CEO Zhao for Breaking Securities Rules](https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rules)
@@ -3473,6 +3498,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Darcy Clarke - The massive bug at the heart of the npm ecosystem](https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem)
 - [Microsoft - IoT devices and Linux-based systems targeted by OpenSSH trojan campaign](https://www.microsoft.com/en-us/security/blog/2023/06/22/iot-devices-and-linux-based-systems-targeted-by-openssh-trojan-campaign/)
 - [Vittorio Bertocci - Signing Out and Session Management in 2023](https://www.youtube.com/watch?v=96m7DDQBW0U)
 - [CSO - ChatGPT creates mutating malware that evades detection by EDR](https://www.csoonline.com/article/3698516/chatgpt-creates-mutating-malware-that-evades-detection-by-edr.html)
@@ -3635,6 +3661,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [The NewStack - Programmer Fired for Automating Job, Playing Games At Work for Six Years](https://thenewstack.io/cs-grad-automates-job-plays-games-work-six-years/)
 - [Programmers are also human - Interview with an Emacs Enthusiast in 2023](https://www.youtube.com/watch?v=urcL86UpqZc)
 - [Upraise - Output Vs Outcome: Top 10 Differences](https://upraise.io/blog/output-vs-outcome-top-10-differences/)
 - [Mark Manson - How to Take Risks](https://markmanson.net/risk)
