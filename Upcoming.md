@@ -6,3 +6,53 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ---
 
+### Architecture
+- [Oskar Dudycz - Facts and Myths about CQRS](https://www.youtube.com/watch?v=9COWKz1E32w)
+- [Udi Dahan - CQRS pitfalls and patterns](https://www.youtube.com/watch?v=Lw04HRF8ies)
+- [Derek Comartin - Building a system that Junior Developers can be productive in](https://www.youtube.com/watch?v=S0zC0u5tIx8)
+- [LinkedIn - Upscaling LinkedIn's Profile Datastore While Reducing Costs](https://engineering.linkedin.com/blog/2023/upscaling-profile-datastore-while-reducing-costs)
+- [Gradle - How Gradle cut AWS storage costs by 75% using S3](https://gradle.com/blog/how-gradle-cut-aws-storage-costs-by-75-percent-using-s3/)
+- [Rebecca Wirfs-Brock, Alan McKean - Object Design. Roles, Responsibilities, and Collaborations](https://ptgmedia.pearsoncmg.com/imprint_downloads/informit/op/9780201379433_objectdesign.pdf)
+- [Aardling - Video Tutorial: A Deep Dive into Domain Modelling](https://aardling.eu/en/insights/video-deep-dive-into-domain-modelling)
+- [Uwe Friedrichsen - Let’s (not) break up the monolith - Part 1](https://www.ufried.com/blog/break_up_the_monolith_1/)
+- [Mihir Sathe - Load Balancing: A Counterintuitive Improvement to the Best-of-K Algorithm](https://medium.com/@mihsathe/load-balancing-a-very-counterintuitive-improvement-to-the-best-of-k-algorithm-608ffbdb7c8a)
+
+### DevOps
+- [Tamás Sallai - How to provide information about the backend environment to frontend clients](https://advancedweb.hu/how-to-provide-information-about-the-backend-environment-to-frontend-clients/)
+
+### AI
+- [OpenAI - GPT-4 API general availability and deprecation of older models in the Completions API](https://openai.com/blog/gpt-4-api-general-availability)
+- [Google - Announcing the first Machine Unlearning Challenge](https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
+- [Duolingo - How Duolingo uses AI to create lessons faster](https://blog.duolingo.com/large-language-model-duolingo-lessons)
+- [Vice - Researchers Use AI to Generate Images Based on People's Brain Activity](https://www.vice.com/en/article/wxje8n/researchers-use-ai-to-generate-images-based-on-peoples-brain-activity)
+- [Gizmodo - The Vatican Releases Its Own AI Ethics Handbook](https://gizmodo.com/pope-francis-vatican-releases-ai-ethics-1850583076)
+
+### JavaScript
+- [JavaScript Mastery - Next.js 13 Full Course 2023](https://www.youtube.com/watch?v=wm5gMKuwSYk)
+- [Codevolution - Next.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH)
+- [Astro - The all-in-one web framework designed for speed](https://github.com/withastro/astro)
+- [Addy Osmani - The Cost Of JavaScript - 2023](https://www.youtube.com/watch?v=ZKH3DLT4BKw)
+- [Damien Guard - Email form sender with Nuxt3, Cloudflare, Brevo & reCAPTCHA](https://damieng.com/blog/2023/06/04/send-email-with-nuxt3-cloudflare-and-brevo/)
+
+### .NET
+- [Oskar Dudycz - Vertical Slices in practice](https://event-driven.io/en/-vertical_slices_in_practice/?utm_source=architecture_weekly)
+- [Tim Deschryver - Treat your .NET Minimal API Endpoint as the application layer](https://timdeschryver.dev/blog/treat-your-net-minimal-api-endpoint-as-the-application-layer)
+- [Evolve - Database migration tool for .NET and .NET Core projects. Inspired by Flyway](https://github.com/lecaillon/Evolve)
+- [AWS - Introducing the AWS .NET Distributed Cache Provider for DynamoDB (Preview)](https://aws.amazon.com/blogs/developer/introducing-the-aws-net-distributed-cache-provider-for-dynamodb-preview/)
+- [Nick Chapsas - JetBrains Rider Gets a ChatGPT-like AI Assistant!](https://www.youtube.com/watch?v=ENOSv9q4Usg)
+
+### WebAssembly
+- [Dan Gohman - The World of WASI](https://www.youtube.com/watch?v=nOkzmOapiSY)
+- [The Linux Foundation - How WASI Makes Containerization More Efficient](https://training.linuxfoundation.org/blog/how-wasi-makes-containerization-more-efficient/)
+
+### Coding Life
+- [J. B. Rainsberger - Not Only X, But Also Y](https://blog.jbrains.ca/permalink/not-only-x-but-also-y)
+
+### Industry
+- [TechRadar - Intel is biggest loser as cloud giant splashes billions of dollars on rivals](https://www.techradar.com/pro/intel-is-biggest-loser-as-cloud-giant-splashes-billions-of-dollars-on-rivals)
+- [Mastodon - What to know about Threads](https://blog.joinmastodon.org/2023/07/what-to-know-about-threads/)
+- [Gergely Orosz - Twitter vs Instagram Threads: two different approaches to throttling](https://blog.pragmaticengineer.com/twitter-vs-instagram-threads/)
+- [Apple Insider - Goldman Sachs may be trying to get out of its Apple Card deal](https://appleinsider.com/articles/23/06/30/goldman-sachs-may-be-trying-to-get-out-of-its-apple-card-deal)
+
+### Security
+- [Termageddon - Usage of Google Fonts violates GDPR](https://termageddon.com/google-fonts-violates-gdpr/)
