@@ -58,6 +58,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Facts and Myths about CQRS](https://www.youtube.com/watch?v=9COWKz1E32w)
+- [Udi Dahan - CQRS pitfalls and patterns](https://www.youtube.com/watch?v=Lw04HRF8ies)
+- [Derek Comartin - Building a system that Junior Developers can be productive in](https://www.youtube.com/watch?v=S0zC0u5tIx8)
+- [LinkedIn - Upscaling LinkedIn's Profile Datastore While Reducing Costs](https://engineering.linkedin.com/blog/2023/upscaling-profile-datastore-while-reducing-costs)
+- [Gradle - How Gradle cut AWS storage costs by 75% using S3](https://gradle.com/blog/how-gradle-cut-aws-storage-costs-by-75-percent-using-s3/)
+- [Rebecca Wirfs-Brock, Alan McKean - Object Design. Roles, Responsibilities, and Collaborations](https://ptgmedia.pearsoncmg.com/imprint_downloads/informit/op/9780201379433_objectdesign.pdf)
+- [Aardling - Video Tutorial: A Deep Dive into Domain Modelling](https://aardling.eu/en/insights/video-deep-dive-into-domain-modelling)
+- [Uwe Friedrichsen - Let’s (not) break up the monolith - Part 1](https://www.ufried.com/blog/break_up_the_monolith_1/)
+- [Mihir Sathe - Load Balancing: A Counterintuitive Improvement to the Best-of-K Algorithm](https://medium.com/@mihsathe/load-balancing-a-very-counterintuitive-improvement-to-the-best-of-k-algorithm-608ffbdb7c8a)
 - [Oskar Dudycz - Follow the money to get a better design](https://event-driven.io/en/follow_the_money/)
 - [Mark Schwartz - Should You Prioritize?](https://aws.amazon.com/blogs/enterprise-strategy/should-you-prioritize/)
 - [Mark Seemann - When is an implementation detail an implementation detail?](https://blog.ploeh.dk/2023/06/19/when-is-an-implementation-detail-an-implementation-detail/)
@@ -1042,6 +1051,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Tamás Sallai - How to provide information about the backend environment to frontend clients](https://advancedweb.hu/how-to-provide-information-about-the-backend-environment-to-frontend-clients/)
 - [Ken Scambler - Replatform in a Year or Die: The Tale of a Turnaround](https://www.youtube.com/watch?v=6EplPhk9uOs)
 - [Dave Farley - Don’t Get Caught In The Platform Engineering Hype](https://www.youtube.com/watch?v=wXyNHngEN-s)
 - [Johnson Okorie - Running Kafka in Kubernetes, Part 1: Why we migrated our Kafka clusters to Kubernetes](https://medium.com/wise-engineering/running-kafka-in-kubernetes-part-1-why-we-migrated-our-kafka-clusters-to-kubernetes-722101a2e751)
@@ -1642,6 +1652,11 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [OpenAI - GPT-4 API general availability and deprecation of older models in the Completions API](https://openai.com/blog/gpt-4-api-general-availability)
+- [Google - Announcing the first Machine Unlearning Challenge](https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
+- [Duolingo - How Duolingo uses AI to create lessons faster](https://blog.duolingo.com/large-language-model-duolingo-lessons)
+- [Vice - Researchers Use AI to Generate Images Based on People's Brain Activity](https://www.vice.com/en/article/wxje8n/researchers-use-ai-to-generate-images-based-on-peoples-brain-activity)
+- [Gizmodo - The Vatican Releases Its Own AI Ethics Handbook](https://gizmodo.com/pope-francis-vatican-releases-ai-ethics-1850583076)
 - [Databricks - Introducing English as the New Programming Language for Apache Spark](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark)
 - [Microsoft - Introducing Azure OpenAI Service On Your Data in Public Preview](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/introducing-azure-openai-service-on-your-data-in-public-preview/ba-p/3847000)
 - [GitHub - How to use GitHub Copilot: Prompts, tips, and use cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
@@ -1833,6 +1848,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - Vertical Slices in practice](https://event-driven.io/en/-vertical_slices_in_practice/?utm_source=architecture_weekly)
+- [Tim Deschryver - Treat your .NET Minimal API Endpoint as the application layer](https://timdeschryver.dev/blog/treat-your-net-minimal-api-endpoint-as-the-application-layer)
+- [Evolve - Database migration tool for .NET and .NET Core projects. Inspired by Flyway](https://github.com/lecaillon/Evolve)
+- [AWS - Introducing the AWS .NET Distributed Cache Provider for DynamoDB (Preview)](https://aws.amazon.com/blogs/developer/introducing-the-aws-net-distributed-cache-provider-for-dynamodb-preview/)
+- [Nick Chapsas - JetBrains Rider Gets a ChatGPT-like AI Assistant!](https://www.youtube.com/watch?v=ENOSv9q4Usg)
 - [Daniel Marbach - Performance tricks I learned from contributing to open source .NET packages](https://www.youtube.com/watch?v=pGgsFW7kDKI)
 - [Steven Sanderson - Experiments with the new WASI workload in .NET 8 Preview 4](https://www.youtube.com/watch?v=gKX-cdqnb8I)
 - [Hamilton - The State of F#](https://hamy.xyz/labs/2023-06-state-of-fsharp)
@@ -2436,6 +2456,8 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [Dan Gohman - The World of WASI](https://www.youtube.com/watch?v=nOkzmOapiSY)
+- [The Linux Foundation - How WASI Makes Containerization More Efficient](https://training.linuxfoundation.org/blog/how-wasi-makes-containerization-more-efficient/)
 - [Peter Malmgren - Getting data in and out of WASI modules](https://petermalmgren.com/serverside-wasm-data/)
 - [The NewStack - Will JavaScript Become the Most Popular WebAssembly Language?](https://thenewstack.io/will-javascript-become-the-most-popular-webassembly-language/)
 - [The NewStack - WebAssembly: 5 Predictions for 2023](https://thenewstack.io/webassembly-5-predictions-for-2023/)
@@ -2458,6 +2480,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [J. B. Rainsberger - Not Only X, But Also Y](https://blog.jbrains.ca/permalink/not-only-x-but-also-y)
 - [Nick Tune, Mike Rozinsky & Dan Young - Designing and Facilitating Better Workshops](https://www.youtube.com/watch?v=pa1axIs2Dco)
 - [Nat Bennett - What was special about Pivotal?](https://www.simplermachines.com/mr-reciprocity/)
 - [Just Josh - Best Laptop for Programming in 2023: ULTIMATE Guide](https://www.youtube.com/watch?v=ZmQCGskcrjI)
@@ -2907,6 +2930,11 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
 ## JavaScript
+- [JavaScript Mastery - Next.js 13 Full Course 2023](https://www.youtube.com/watch?v=wm5gMKuwSYk)
+- [Codevolution - Next.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH)
+- [Astro - The all-in-one web framework designed for speed](https://github.com/withastro/astro)
+- [Addy Osmani - The Cost Of JavaScript - 2023](https://www.youtube.com/watch?v=ZKH3DLT4BKw)
+- [Damien Guard - Email form sender with Nuxt3, Cloudflare, Brevo & reCAPTCHA](https://damieng.com/blog/2023/06/04/send-email-with-nuxt3-cloudflare-and-brevo/)
 - [The Cloudflare - A Community Group for Web-interoperable JavaScript runtimes](https://blog.cloudflare.com/introducing-the-wintercg/)
 - [Code with Hugo - Mocking/stubbing the current Date in Jest tests](https://codewithhugo.com/mocking-the-current-date-in-jest-tests/)
 - [Josh Goldberg - Configuring ESLint, Prettier, and TypeScript Together](https://blog.joshuakgoldberg.com/configuring-eslint-prettier-and-typescript-together/)
@@ -3141,6 +3169,10 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [TechRadar - Intel is biggest loser as cloud giant splashes billions of dollars on rivals](https://www.techradar.com/pro/intel-is-biggest-loser-as-cloud-giant-splashes-billions-of-dollars-on-rivals)
+- [Mastodon - What to know about Threads](https://blog.joinmastodon.org/2023/07/what-to-know-about-threads/)
+- [Gergely Orosz - Twitter vs Instagram Threads: two different approaches to throttling](https://blog.pragmaticengineer.com/twitter-vs-instagram-threads/)
+- [Apple Insider - Goldman Sachs may be trying to get out of its Apple Card deal](https://appleinsider.com/articles/23/06/30/goldman-sachs-may-be-trying-to-get-out-of-its-apple-card-deal)
 - [Andy Baio - Twitter bug causes self-DDOS tied to Elon Musk’s emergency blocks and rate limits: "It's amateur hour"](https://waxy.org/2023/07/twitter-bug-causes-self-ddos-possibly-causing-elon-musks-emergency-blocks-and-rate-limits-its-amateur-hour/)
 - [The Guardian - Twitter applies reading limit after users report issues with platform](https://www.theguardian.com/technology/2023/jul/01/twitter-applies-reading-limit-after-users-report-issues-with-platform)
 - [Time - OpenAI Lobbied the E.U. to Water Down AI Regulation](https://time.com/6288245/openai-eu-lobbying-ai-act/)
@@ -3498,6 +3530,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Termageddon - Usage of Google Fonts violates GDPR](https://termageddon.com/google-fonts-violates-gdpr/)
 - [Darcy Clarke - The massive bug at the heart of the npm ecosystem](https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem)
 - [Microsoft - IoT devices and Linux-based systems targeted by OpenSSH trojan campaign](https://www.microsoft.com/en-us/security/blog/2023/06/22/iot-devices-and-linux-based-systems-targeted-by-openssh-trojan-campaign/)
 - [Vittorio Bertocci - Signing Out and Session Management in 2023](https://www.youtube.com/watch?v=96m7DDQBW0U)
