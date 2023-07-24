@@ -58,6 +58,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Yelp - Rebuilding a Cassandra cluster using Yelp’s Data Pipeline](https://engineeringblog.yelp.com/2023/01/rebuilding-a-cassandra-cluster-using-yelps-data-pipeline.html)
+- [LinkedIn - LinkedIn Integrates Protocol Buffers With Rest.li for Improved Microservices Performance](https://engineering.linkedin.com/blog/2023/linkedin-integrates-protocol-buffers-with-rest-li-for-improved-m)
+- [A. Streets, K. Dziublinski, A. Harmel-Law - Decentralizing the Practice of Architecture at Xapo Bank](https://martinfowler.com/articles/xapo-architecture-experience.html)
+- [George Fairbanks - Intellectual control](https://www.youtube.com/watch?v=Zs5UJqgu0tY)
+- [Yan Cui - “Even simple serverless applications have complex architecture diagrams”, so what?](https://theburningmonk.com/2020/11/even-simple-serverless-applications-have-complex-architecture-diagrams-so-what/)
+- [Mathias Verraes, Rebecca Wirfs-Brock - Surfacing Worldviews in Design](https://verraes.net/2023/07/surfacing-worldviews-in-design/)
 - [.NET Rocks - Scaling a Monolith with Derek Comartin](https://www.dotnetrocks.com/details/1853)
 - [Vlad Khononov - Balancing Coupling in Software Design](https://www.youtube.com/watch?v=eQOM-UrNTS4)
 - [Mark Seemann - Validation and business rules](https://blog.ploeh.dk/2023/06/26/validation-and-business-rules/)
@@ -1056,6 +1062,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [InfoQ - DevOps and Cloud InfoQ Trends Report – July 2023](https://www.infoq.com/articles/cloud-devops-trends-2023)
+- [Andrew Clay Shafer - More Buzzwords Won't Help: The Long History of DevOps Failures](https://www.youtube.com/watch?v=C8hma_YSBX0)
 - [OrbStack - Fast, light, simple Docker containers & Linux machines for macOS](https://orbstack.dev/)
 - [Tamás Sallai - How to provide information about the backend environment to frontend clients](https://advancedweb.hu/how-to-provide-information-about-the-backend-environment-to-frontend-clients/)
 - [Ken Scambler - Replatform in a Year or Die: The Tale of a Turnaround](https://www.youtube.com/watch?v=6EplPhk9uOs)
@@ -1237,6 +1245,8 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Mike Pearson - Signals make Angular MUCH easier](https://www.youtube.com/watch?v=FRCpN62LyyM)
+- [Matan Borenkraout - Testing Library: everybody uses it, but nobody understands it](https://www.youtube.com/watch?v=jNAMdsbdvlI)
 - [Theo - t3․gg - From 0 to prod for $0 (Next.js, tRPC, TypeScript, Tailwind, Prisma & More)](https://www.youtube.com/watch?v=YkOSUVzOAA4)
 - [Nicholas Ray - 300ms Faster: Reducing Wikipedia's Total Blocking Time](https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/)
 - [angular-auth-oidc-client - Angular Lib for OpenID Connect & OAuth2](https://github.com/damienbod/angular-auth-oidc-client/)
@@ -1463,6 +1473,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [The Hanselminutes Podcast - All the Performance with RavenDB's Oren Eini](https://hanselminutes.com/901/all-the-performance-with-ravendbs-oren-eini)
 - [Developer Voices - The Evolution of Databases and the Future of Database Technology (with Ben Stopford)](https://www.youtube.com/watch?v=9JVPq_fbXVs)
 - [MongoDB - Introducing Atlas Stream Processing - Simplifying the Path to Reactive, Responsive, Event-Driven Apps](https://www.mongodb.com/blog/post/introducing-atlas-stream-processing-simplifying-path-reactive-responsive-even-driven-apps)
 - [Tom Asel - Wardley Maps and Graphdatabases](https://tangible-concepts.de/wardley-maps-and-graphdatabases)
@@ -1660,6 +1671,8 @@
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
 ## AI
+- [Meta AI - Llama 2: Open Foundation and Fine-Tuned Chat Models](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)
+- [Fortune - Over just a few months, ChatGPT went from correctly answering a simple math problem 98% of the time to just 2%, study finds](https://fortune.com/2023/07/19/chatgpt-accuracy-stanford-study/)
 - [GPT Engineer - Specify what you want it to build, the AI asks for clarification, and then builds it](https://github.com/AntonOsika/gpt-engineer)
 - [MIT Technology Review - ChatGPT can turn bad writers into better ones](https://www.technologyreview.com/2023/07/13/1076199/chatgpt-can-turn-bad-writers-into-better-ones/)
 - [OpenAI - GPT-4 API general availability and deprecation of older models in the Completions API](https://openai.com/blog/gpt-4-api-general-availability)
@@ -1794,6 +1807,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Tomasz Pęczek - DevOps Practices for Azure Infrastructure - Continuous Delivery & Continuous Deployment](https://www.tpeczek.com/2023/06/devops-practices-for-azure_27.html)
 - [Microsoft - Announcing Azure Monitor OpenTelemetry Distro](https://devblogs.microsoft.com/dotnet/azure-monitor-opentelemetry-distro/)
 - [Microsoft - Announcing Materialized Views for Azure Cosmos DB for NoSQL (Preview)](https://devblogs.microsoft.com/cosmosdb/announcing-materialized-view-feature-for-azure-cosmos-db-nosql-preview/)
 - [Microsoft - Microsoft Build Book of News](https://news.microsoft.com/build-2023-book-of-news/)
@@ -1860,6 +1874,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - How to set global setting for XUnit tests](https://event-driven.io/en/xunit_global_settings/?utm_source=architecture_weekly)
+- [Jeremy D. Miller - A-Frame Architecture with Wolverine](https://jeremydmiller.com/2023/07/19/a-frame-architecture-with-wolverine/)
+- [Thomas Heijtink - CancellationTokens 2.0](https://tom-heijtink.medium.com/cancellationtokens-2-0-90f47d6a5b74)
+- [Johnny Hooyberghs - Building a Game with .NET and Orleans](https://www.youtube.com/watch?v=xDpQt1RNHvw)
+- [grate - SQL scripts migration runner](https://erikbra.github.io/grate/)
 - [Oskar Dudycz - How to create a Docker image for the Marten application](https://event-driven.io/en/marten_and_docker/)
 - [Matthew MacDonald - Introducing C#12's Future Features](https://medium.com/young-coder/introducing-c-12s-future-features-dba08439c92e)
 - [David Fowler - A sample showing how to setup ASP.NET Core Identity API endpoints for authentication](https://github.com/davidfowl/IdentityEndpointsSample)
@@ -2473,6 +2492,7 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [Edoardo Vacchi - WebAssembly from the inside out](https://www.youtube.com/watch?v=93NL17DYNQs)
 - [Dan Gohman - The World of WASI](https://www.youtube.com/watch?v=nOkzmOapiSY)
 - [The Linux Foundation - How WASI Makes Containerization More Efficient](https://training.linuxfoundation.org/blog/how-wasi-makes-containerization-more-efficient/)
 - [Peter Malmgren - Getting data in and out of WASI modules](https://petermalmgren.com/serverside-wasm-data/)
@@ -2730,6 +2750,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Aleix Morgadas - Interim Platform Team](https://learnings.aleixmorgadas.dev/p/interim-platform-team)
+- [New Relic - Thoughts About Mob Programming From a Manager’s Perspective](https://newrelic.com/blog/best-practices/mob-programming-managers)
 - [Emily Nakashima - On Becoming a VP of Engineering, Part 1: The Path to VP](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1)
 - [John Cutler - TBM 231: Productivity (The Clash)](https://cutlefish.substack.com/p/tbm-231-productivity-the-clash)
 - [Jade Rubick - A detailed look at FAST agile -- a practice well worth your time](https://www.rubick.com/fast-agile)
@@ -2829,6 +2851,7 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [Domagoj Pavlešić - Sessionize: From idea to 100.000 speakers, and beyond!](https://www.youtube.com/watch?v=NuzCoPxedMU)
 - [Zalando - Discovering & launching products in Zalando SE by Stefano Rinaldi](https://www.linkedin.com/events/discovering-launchingproductsin7058105004435365888/comments/)
 - [Sam McAfee - This Agile Hammer Doesn't Work For New Product Development](https://www.linkedin.com/pulse/agile-hammer-doesnt-work-new-product-development-sam-mcafee)
 - [Lars Kamp - Messaging, positioning and storytelling - how to get it right for your start-up](https://findingdistribution.substack.com/p/messaging-positioning-and-storytelling)
@@ -2846,6 +2869,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Micronaut - Micronaut Framework 4.0.0 Released!](https://micronaut.io/2023/07/14/micronaut-framework-4-0-0-released/)
 - [Chris Seaton - Ten Things You Can Do With GraalVM](https://gist.github.com/chrisseaton/535e0e80ea19803d5529c623c6beb921)
 - [Andrzej Ludwikowski - Introducing Kalix Workflow Component](https://www.kalix.io/developer/blog/introducing-kalix-workflow-component)
 - [David Vlijmincx - Introduction and pitfalls of Java's new concurrency model](https://www.youtube.com/watch?v=UjzLaVI87mA)
@@ -3193,6 +3217,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [CNN Bussiness - ‘Time is money’: Shopify calculator shows how much unnecessary meetings really cost the company](https://edition.cnn.com/2023/07/12/tech/shopify-meeting-cost-calculator/index.html)
+- [The Deep Dive - Shopify Employee Breaks NDA To Reveal Firm Quietly Replacing Laid Off Workers With AI](https://thedeepdive.ca/shopify-employee-breaks-nda-to-reveal-firm-quietly-replacing-laid-off-workers-with-ai/)
 - [The Verge - Evernote has laid off most of its US staff and will move most operations to Europe](https://www.theverge.com/2023/7/9/23789012/evernote-layoff-us-staff-bending-spoons-note-taking-app)
 - [AI News - Databricks acquires LLM pioneer MosaicML for $1.3B](https://www.artificialintelligence-news.com/2023/06/28/databricks-acquires-llm-pioneer-mosaicml-for-1-3b/)
 - [The Washington Post - ChatGPT loses users for first time, shaking faith in AI revolution](https://www.washingtonpost.com/technology/2023/07/07/chatgpt-users-decline-future-ai-openai/)
@@ -3722,6 +3748,10 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [The Washington Post - Kevin Mitnick, hacker and fugitive turned security consultant, dies at 59](https://www.washingtonpost.com/obituaries/2023/07/20/kevin-mitnick-hacker-dies/)
+- [Paul Graham - How to Do Great Work](http://paulgraham.com/greatwork.html)
+- [Werner Vogels - A few words on taking notes](https://www.allthingsdistributed.com/2023/06/a-few-words-on-taking-notes.html)
+- [Paul Graham - How to Do Great Work](http://paulgraham.com/greatwork.html)
 - [PC Magazine - Thumbs-Up Emoji Is Valid as a Signature in Contracts, Canadian Court Says](https://www.pcmag.com/news/canadian-court-thumbs-up-emoji-valid-as-signature)
 - [The NewStack - Programmer Fired for Automating Job, Playing Games At Work for Six Years](https://thenewstack.io/cs-grad-automates-job-plays-games-work-six-years/)
 - [Programmers are also human - Interview with an Emacs Enthusiast in 2023](https://www.youtube.com/watch?v=urcL86UpqZc)

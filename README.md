@@ -24,7 +24,73 @@ There are two rules:
 
 ---
 
-## [17th July 2023](per-week/2023-07-10.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+## [24th July 2023](per-week/2023-07-24.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
+
+---
+
+### Architecture
+- [Yelp - Rebuilding a Cassandra cluster using Yelp’s Data Pipeline](https://engineeringblog.yelp.com/2023/01/rebuilding-a-cassandra-cluster-using-yelps-data-pipeline.html)
+- [LinkedIn - LinkedIn Integrates Protocol Buffers With Rest.li for Improved Microservices Performance](https://engineering.linkedin.com/blog/2023/linkedin-integrates-protocol-buffers-with-rest-li-for-improved-m)
+- [A. Streets, K. Dziublinski, A. Harmel-Law - Decentralizing the Practice of Architecture at Xapo Bank](https://martinfowler.com/articles/xapo-architecture-experience.html)
+- [George Fairbanks - Intellectual control](https://www.youtube.com/watch?v=Zs5UJqgu0tY)
+- [Yan Cui - “Even simple serverless applications have complex architecture diagrams”, so what?](https://theburningmonk.com/2020/11/even-simple-serverless-applications-have-complex-architecture-diagrams-so-what/)
+- [Mathias Verraes, Rebecca Wirfs-Brock - Surfacing Worldviews in Design](https://verraes.net/2023/07/surfacing-worldviews-in-design/)
+
+### DevOps
+- [InfoQ - DevOps and Cloud InfoQ Trends Report – July 2023](https://www.infoq.com/articles/cloud-devops-trends-2023)
+- [Andrew Clay Shafer - More Buzzwords Won't Help: The Long History of DevOps Failures](https://www.youtube.com/watch?v=C8hma_YSBX0)
+
+### Databases
+- [The Hanselminutes Podcast - All the Performance with RavenDB's Oren Eini](https://hanselminutes.com/901/all-the-performance-with-ravendbs-oren-eini)
+
+### Frontend
+- [Mike Pearson - Signals make Angular MUCH easier](https://www.youtube.com/watch?v=FRCpN62LyyM)
+- [Matan Borenkraout - Testing Library: everybody uses it, but nobody understands it](https://www.youtube.com/watch?v=jNAMdsbdvlI)
+
+### AI
+- [Meta AI - Llama 2: Open Foundation and Fine-Tuned Chat Models](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)
+- [Fortune - Over just a few months, ChatGPT went from correctly answering a simple math problem 98% of the time to just 2%, study finds](https://fortune.com/2023/07/19/chatgpt-accuracy-stanford-study/)
+
+### Azure
+- [Tomasz Pęczek - DevOps Practices for Azure Infrastructure - Continuous Delivery & Continuous Deployment](https://www.tpeczek.com/2023/06/devops-practices-for-azure_27.html)
+
+### Java
+- [Micronaut - Micronaut Framework 4.0.0 Released!](https://micronaut.io/2023/07/14/micronaut-framework-4-0-0-released/)
+
+### .NET
+- [Oskar Dudycz - How to set global setting for XUnit tests](https://event-driven.io/en/xunit_global_settings/?utm_source=architecture_weekly)
+- [Jeremy D. Miller - A-Frame Architecture with Wolverine](https://jeremydmiller.com/2023/07/19/a-frame-architecture-with-wolverine/)
+- [Thomas Heijtink - CancellationTokens 2.0](https://tom-heijtink.medium.com/cancellationtokens-2-0-90f47d6a5b74)
+- [Johnny Hooyberghs - Building a Game with .NET and Orleans](https://www.youtube.com/watch?v=xDpQt1RNHvw)
+- [grate - SQL scripts migration runner](https://erikbra.github.io/grate/)
+
+### WebAssembly
+- [Edoardo Vacchi - WebAssembly from the inside out](https://www.youtube.com/watch?v=93NL17DYNQs)
+
+### Coding Life
+- [Paul Graham - How to Do Great Work](http://paulgraham.com/greatwork.html)
+
+### Management
+- [Aleix Morgadas - Interim Platform Team](https://learnings.aleixmorgadas.dev/p/interim-platform-team)
+- [New Relic - Thoughts About Mob Programming From a Manager’s Perspective](https://newrelic.com/blog/best-practices/mob-programming-managers)
+
+### Product Design
+- [Domagoj Pavlešić - Sessionize: From idea to 100.000 speakers, and beyond!](https://www.youtube.com/watch?v=NuzCoPxedMU)
+
+### Industry
+- [CNN Bussiness - ‘Time is money’: Shopify calculator shows how much unnecessary meetings really cost the company](https://edition.cnn.com/2023/07/12/tech/shopify-meeting-cost-calculator/index.html)
+- [The Deep Dive - Shopify Employee Breaks NDA To Reveal Firm Quietly Replacing Laid Off Workers With AI](https://thedeepdive.ca/shopify-employee-breaks-nda-to-reveal-firm-quietly-replacing-laid-off-workers-with-ai/)
+
+### Trivia
+- [The Washington Post - Kevin Mitnick, hacker and fugitive turned security consultant, dies at 59](https://www.washingtonpost.com/obituaries/2023/07/20/kevin-mitnick-hacker-dies/)
+- [Werner Vogels - A few words on taking notes](https://www.allthingsdistributed.com/2023/06/a-few-words-on-taking-notes.html)
+- [Paul Graham - How to Do Great Work](http://paulgraham.com/greatwork.html)
+
+---
+
+## [17th July 2023](per-week/2023-07-17.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
