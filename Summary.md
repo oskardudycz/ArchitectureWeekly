@@ -12,6 +12,7 @@
   - [Testing](#testing)
   - [API](#api)
   - [Databases](#databases)
+  - [Data Science](#data-science)
   - [AI](#ai)
   - [AWS](#aws)
   - [Azure](#azure)
@@ -58,6 +59,13 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Wix - The Great Migration - How We Migrated All of Our Premium Subscriptions](https://www.wix.engineering/post/the-great-migration-how-we-migrated-all-of-our-premium-subscriptions)
+- [Werner Vogels - Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
+- [Yves Reynhout - Trench Talk: Evolving a Model](https://www.youtube.com/watch?v=7StN-vNjRSw)
+- [Esther Schindler - Guidelines for keeping pace with innovation and tech adoption](https://www.oreilly.com/content/guidelines-for-keeping-pace-with-innovation-and-tech-adoption/)
+- [Rodrigo Branas - Hexagonal Architecture (Ports and Adapters) with Alistair Cockburn](https://www.youtube.com/watch?v=AOIWUPjal60)
+- [Alistair Cockburn - Hexagonal Architecture ( Ports & Adapters ) The 2023 version slides](https://alistaircockburn.com/Hexagonal%20Budapest%2023-05-18.pdf)
+- [J. B. Rainsberger - How TDD Seems To Go Against Agility](https://blog.jbrains.ca/permalink/how-tdd-seems-to-go-against-agility)
 - [Yelp - Rebuilding a Cassandra cluster using Yelp’s Data Pipeline](https://engineeringblog.yelp.com/2023/01/rebuilding-a-cassandra-cluster-using-yelps-data-pipeline.html)
 - [LinkedIn - LinkedIn Integrates Protocol Buffers With Rest.li for Improved Microservices Performance](https://engineering.linkedin.com/blog/2023/linkedin-integrates-protocol-buffers-with-rest-li-for-improved-m)
 - [A. Streets, K. Dziublinski, A. Harmel-Law - Decentralizing the Practice of Architecture at Xapo Bank](https://martinfowler.com/articles/xapo-architecture-experience.html)
@@ -1062,6 +1070,12 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Gregor Hohpe - Cloud Automation à la DDD: From stringly typed to affordances](https://architectelevator.com/cloud/ddd-technical-domains/)
+- [Pete Hodgson - How platform teams get stuff done](https://martinfowler.com/articles/platform-teams-stuff-done.html)
+- [Last week in AWS - Breaking: AWS Begins Charging For Public IPv4 Addresses](https://www.lastweekinaws.com/blog/breaking-aws-begins-charging-for-public-ipv4-addresses/)
+- [Steampipe - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required](https://github.com/turbot/steampipe)
+- [Reddit - Is MyGet gone for good?](https://www.reddit.com/r/dotnet/comments/159yigd/is_myget_gone_for_good/)
+- [Feedz.io - Package Hosting and Distribution](https://feedz.io/)
 - [InfoQ - DevOps and Cloud InfoQ Trends Report – July 2023](https://www.infoq.com/articles/cloud-devops-trends-2023)
 - [Andrew Clay Shafer - More Buzzwords Won't Help: The Long History of DevOps Failures](https://www.youtube.com/watch?v=C8hma_YSBX0)
 - [OrbStack - Fast, light, simple Docker containers & Linux machines for macOS](https://orbstack.dev/)
@@ -1245,6 +1259,9 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Dave Rupert - If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
+- [Rob Eisenberg - A Few DOM Reminders](https://eisenbergeffect.medium.com/a-few-dom-reminders-2a0f18e40804)
+- [Dan Abramov - Leaving Facebook thread](https://twitter.com/dan_abramov/status/1682029195843739649)
 - [Mike Pearson - Signals make Angular MUCH easier](https://www.youtube.com/watch?v=FRCpN62LyyM)
 - [Matan Borenkraout - Testing Library: everybody uses it, but nobody understands it](https://www.youtube.com/watch?v=jNAMdsbdvlI)
 - [Theo - t3․gg - From 0 to prod for $0 (Next.js, tRPC, TypeScript, Tailwind, Prisma & More)](https://www.youtube.com/watch?v=YkOSUVzOAA4)
@@ -1436,6 +1453,7 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [Insomnia - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC](https://insomnia.rest/)
 - [Optic - Track your API changes without writing YAML by hand](https://www.useoptic.com/cli)
 - [eBay - API Evolution Is a Challenge. Could Contract Testing Be the Solution?](https://tech.ebayinc.com/engineering/api-evolution-with-confidence-a-case-study-of-contract-testing-adoption-at-ebay/)
 - [Netflix - How Netflix Scales its API with GraphQL Federation (Part 1)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2)
@@ -1670,7 +1688,11 @@
 - [Chris Hanks - Turning PostgreSQL into a queue serving 10,000 jobs per second](https://gist.github.com/chanks/7585810)
 - [AWS Database Blog - Zoran Ivanovic - Implementing priority queueing with Amazon DynamoDB](https://aws.amazon.com/blogs/database/implementing-priority-queueing-with-amazon-dynamodb/)
 
+## Data Science
+- [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
+
 ## AI
+- [AWS - Generative AI with Large Language Models (Free Course)](https://www.coursera.org/learn/generative-ai-with-llms)
 - [Meta AI - Llama 2: Open Foundation and Fine-Tuned Chat Models](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)
 - [Fortune - Over just a few months, ChatGPT went from correctly answering a simple math problem 98% of the time to just 2%, study finds](https://fortune.com/2023/07/19/chatgpt-accuracy-stanford-study/)
 - [GPT Engineer - Specify what you want it to build, the AI asks for clarification, and then builds it](https://github.com/AntonOsika/gpt-engineer)
@@ -1768,6 +1790,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [AWS - Announcing preview of JSON protocol support for Amazon SQS](https://aws.amazon.com/about-aws/whats-new/2023/07/json-protocol-support-amazon-sqs/)
 - [AJ Stuyvenberg - Understanding AWS Lambda Proactive Initialization](https://aaronstuyvenberg.com/posts/understanding-proactive-initialization)
 - [Yan Cui - A self-healing Lambda function that adapts its throughput based on performance](https://theburningmonk.com/2019/05/a-self-healing-kinesis-function-that-adapts-its-throughput-based-on-performance/)
 - [Be a Better Dev - AWS SQS vs SNS vs Eventbridge – When to Use What?](https://beabetterdev.com/2021/09/10/aws-sqs-vs-sns-vs-eventbridge/)
@@ -1874,6 +1897,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - How to scale out Marten](https://event-driven.io/en/scaling_out_marten/?utm_source=architecture_weekly)
+- [James Newton-King - ASP.NET Core Grafana dashboards](https://github.com/JamesNK/aspnetcore-grafana)
+- [Joshua Jesper Krægpøth Ryder - The Future Is Here! WebAssembly for .NET Developers](https://www.youtube.com/watch?v=jkve_v1Xxak)
+- [Tim Deschryver - Entity framework features I wish I knew earlier](https://timdeschryver.dev/blog/entity-framework-features-i-wish-i-knew-earlier)
+- [Peter Ritchie - ETags in ASP.NET Core](https://blog.peterritchie.com/posts/etags-in-aspdotnet-core)
 - [Oskar Dudycz - How to set global setting for XUnit tests](https://event-driven.io/en/xunit_global_settings/?utm_source=architecture_weekly)
 - [Jeremy D. Miller - A-Frame Architecture with Wolverine](https://jeremydmiller.com/2023/07/19/a-frame-architecture-with-wolverine/)
 - [Thomas Heijtink - CancellationTokens 2.0](https://tom-heijtink.medium.com/cancellationtokens-2-0-90f47d6a5b74)
@@ -2517,6 +2545,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Linus Åkesson - A case against syntax highlighting](https://www.linusakesson.net/programming/syntaxhighlighting/)
+- [Being Human Podcast - Leaving Facebook - Kent Beck](https://www.youtube.com/watch?v=fH4gqsIYzyE)
 - [Justin Searls - The looming demise of the 10x developer](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/)
 - [Jason Lengstorf - Clean as you go](https://www.learnwithjason.dev/blog/clean-as-you-go)
 - [Dennis Doomen - What you can learn from an open-source project with 250 million downloads](https://www.youtube.com/watch?v=hgWHfNki5AI)
@@ -2750,6 +2780,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Phil Calçado - Attention is All A Manager Needs](https://philcalcado.com/2023/07/21/attention_is_all_a_manager_needs.html)
 - [Aleix Morgadas - Interim Platform Team](https://learnings.aleixmorgadas.dev/p/interim-platform-team)
 - [New Relic - Thoughts About Mob Programming From a Manager’s Perspective](https://newrelic.com/blog/best-practices/mob-programming-managers)
 - [Emily Nakashima - On Becoming a VP of Engineering, Part 1: The Path to VP](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1)
@@ -2971,6 +3002,7 @@
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
 ## JVM
+- [Ionut Balosin - Analyzing JVM Energy Consumption for JDK 17: An Empirical Study](https://ionutbalosin.com/2023/07/analyzing-jvm-energy-consumption-for-jdk-17-an-empirical-study/)
 - [Graeme Rocher - Micronaut 3 & GraalVM Deep Dive](https://www.youtube.com/watch?v=eMSRaOLfdNw)
 - [Spring - From Spring Native to Spring Boot 3](https://spring.io/blog/2023/02/23/from-spring-native-to-spring-boot-3)
 - [Sacha Coppey - GraalVM Native Image meets RISC-V](https://medium.com/graalvm/graalvm-native-image-meets-risc-v-899be38eddd9)
@@ -3141,6 +3173,7 @@
 - [InfoWorld - Google Cloud targets high performance workloads with Arm-based VMs and Batch job scheduling](https://www.infoworld.com/article/3666527/google-cloud-adds-arm-based-vms-and-automated-job-scheduling.html)
 
 ## Kotlin
+- [JetBrains - Kotlin 1.9.0 Released](https://blog.jetbrains.com/kotlin/2023/07/kotlin-1-9-0-released/)
 - [Engineering at Meta - From zero to 10 million lines of Kotlin](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/)
 - [Johan Haleby - Pragmatic Event Sourcing with Pure Functions](https://www.youtube.com/watch?v=YJvHbtuX250)
 - [Duncan McGregor - Java to Kotlin Gilded Rose](https://www.youtube.com/playlist?list=PL1ssMPpyqocjo6kkNCg-ncTyAW0nECPmq)
@@ -3217,6 +3250,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Michelle Coventry - Compensation Decoded: Tech leader salaries at early-stage startups](https://blog.creandum.com/compensation-decoded-tech-leader-salaries-at-early-stage-startups-7faf5465d5b4)
+- [CNBC - Microsoft shares dip after quarterly revenue guidance misses expectations](https://www.cnbc.com/2023/07/25/microsoft-msft-q4-earnings-report-2023.html)
 - [CNN Bussiness - ‘Time is money’: Shopify calculator shows how much unnecessary meetings really cost the company](https://edition.cnn.com/2023/07/12/tech/shopify-meeting-cost-calculator/index.html)
 - [The Deep Dive - Shopify Employee Breaks NDA To Reveal Firm Quietly Replacing Laid Off Workers With AI](https://thedeepdive.ca/shopify-employee-breaks-nda-to-reveal-firm-quietly-replacing-laid-off-workers-with-ai/)
 - [The Verge - Evernote has laid off most of its US staff and will move most operations to Europe](https://www.theverge.com/2023/7/9/23789012/evernote-layoff-us-staff-bending-spoons-note-taking-app)
@@ -3748,6 +3783,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Heather Downing - Imposter Syndrome: Overcoming Self-Doubt in Success](https://www.youtube.com/watch?v=atYHKU0VJQE)
 - [The Washington Post - Kevin Mitnick, hacker and fugitive turned security consultant, dies at 59](https://www.washingtonpost.com/obituaries/2023/07/20/kevin-mitnick-hacker-dies/)
 - [Paul Graham - How to Do Great Work](http://paulgraham.com/greatwork.html)
 - [Werner Vogels - A few words on taking notes](https://www.allthingsdistributed.com/2023/06/a-few-words-on-taking-notes.html)

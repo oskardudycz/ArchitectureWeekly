@@ -24,6 +24,75 @@ There are two rules:
 
 ---
 
+## [31st July 2023](per-week/2023-07-31.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
+
+---
+
+### Architecture
+- [Wix - The Great Migration - How We Migrated All of Our Premium Subscriptions](https://www.wix.engineering/post/the-great-migration-how-we-migrated-all-of-our-premium-subscriptions)
+- [Werner Vogels - Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
+- [Yves Reynhout - Trench Talk: Evolving a Model](https://www.youtube.com/watch?v=7StN-vNjRSw)
+- [Esther Schindler - Guidelines for keeping pace with innovation and tech adoption](https://www.oreilly.com/content/guidelines-for-keeping-pace-with-innovation-and-tech-adoption/)
+- [Rodrigo Branas - Hexagonal Architecture (Ports and Adapters) with Alistair Cockburn](https://www.youtube.com/watch?v=AOIWUPjal60)
+- [Alistair Cockburn - Hexagonal Architecture ( Ports & Adapters ) The 2023 version slides](https://alistaircockburn.com/Hexagonal%20Budapest%2023-05-18.pdf)
+- [J. B. Rainsberger - How TDD Seems To Go Against Agility](https://blog.jbrains.ca/permalink/how-tdd-seems-to-go-against-agility)
+
+### DevOps
+- [Gregor Hohpe - Cloud Automation à la DDD: From stringly typed to affordances](https://architectelevator.com/cloud/ddd-technical-domains/)
+- [Pete Hodgson - How platform teams get stuff done](https://martinfowler.com/articles/platform-teams-stuff-done.html)
+- [Last week in AWS - Breaking: AWS Begins Charging For Public IPv4 Addresses](https://www.lastweekinaws.com/blog/breaking-aws-begins-charging-for-public-ipv4-addresses/)
+- [Steampipe - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required](https://github.com/turbot/steampipe)
+- [Reddit - Is MyGet gone for good?](https://www.reddit.com/r/dotnet/comments/159yigd/is_myget_gone_for_good/)
+- [Feedz.io - Package Hosting and Distribution](https://feedz.io/)
+
+### Frontend
+- [Dave Rupert - If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
+- [Rob Eisenberg - A Few DOM Reminders](https://eisenbergeffect.medium.com/a-few-dom-reminders-2a0f18e40804)
+- [Dan Abramov - Leaving Facebook thread](https://twitter.com/dan_abramov/status/1682029195843739649)
+
+### API
+- [Insomnia - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC](https://insomnia.rest/)
+
+### AI
+- [AWS - Generative AI with Large Language Models (Free Course)](https://www.coursera.org/learn/generative-ai-with-llms)
+
+### Data Science
+- [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
+
+### AWS
+- [AWS - Announcing preview of JSON protocol support for Amazon SQS](https://aws.amazon.com/about-aws/whats-new/2023/07/json-protocol-support-amazon-sqs/)
+
+### JVM
+- [Ionut Balosin - Analyzing JVM Energy Consumption for JDK 17: An Empirical Study](https://ionutbalosin.com/2023/07/analyzing-jvm-energy-consumption-for-jdk-17-an-empirical-study/)
+
+### Kotlin
+- [JetBrains - Kotlin 1.9.0 Released](https://blog.jetbrains.com/kotlin/2023/07/kotlin-1-9-0-released/)
+
+### .NET
+- [Oskar Dudycz - How to scale out Marten](https://event-driven.io/en/scaling_out_marten/?utm_source=architecture_weekly)
+- [James Newton-King - ASP.NET Core Grafana dashboards](https://github.com/JamesNK/aspnetcore-grafana)
+- [Joshua Jesper Krægpøth Ryder - The Future Is Here! WebAssembly for .NET Developers](https://www.youtube.com/watch?v=jkve_v1Xxak)
+- [Tim Deschryver - Entity framework features I wish I knew earlier](https://timdeschryver.dev/blog/entity-framework-features-i-wish-i-knew-earlier)
+- [Peter Ritchie - ETags in ASP.NET Core](https://blog.peterritchie.com/posts/etags-in-aspdotnet-core)
+
+### Coding Life
+- [Linus Åkesson - A case against syntax highlighting](https://www.linusakesson.net/programming/syntaxhighlighting/)
+- [Being Human Podcast - Leaving Facebook - Kent Beck](https://www.youtube.com/watch?v=fH4gqsIYzyE)
+
+### Management
+- [Phil Calçado - Attention is All A Manager Needs](https://philcalcado.com/2023/07/21/attention_is_all_a_manager_needs.html)
+
+### Industry
+- [Michelle Coventry - Compensation Decoded: Tech leader salaries at early-stage startups](https://blog.creandum.com/compensation-decoded-tech-leader-salaries-at-early-stage-startups-7faf5465d5b4)
+- [CNBC - Microsoft shares dip after quarterly revenue guidance misses expectations](https://www.cnbc.com/2023/07/25/microsoft-msft-q4-earnings-report-2023.html)
+
+### Trivia
+- [Heather Downing - Imposter Syndrome: Overcoming Self-Doubt in Success](https://www.youtube.com/watch?v=atYHKU0VJQE)
+
+---
+
 ## [24th July 2023](per-week/2023-07-24.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
