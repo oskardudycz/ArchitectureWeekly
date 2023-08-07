@@ -6,6 +6,8 @@ Hi! My name is [Oskar Dudycz](https://github.com/oskardudycz). I created this re
 
 📧 https://www.architecture-weekly.com/ - Subscribe and get Architecture Weekly to your mailbox each Monday! 
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 See also [Summary](Summary.md) of all links.
 
 ## Contributing
@@ -25,6 +27,8 @@ There are two rules:
 ---
 
 ## [7th August 2023](per-week/2023-08-07.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -88,6 +92,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [31st July 2023](per-week/2023-07-31.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -158,6 +164,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [24th July 2023](per-week/2023-07-24.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -224,6 +232,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [17th July 2023](per-week/2023-07-17.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -287,6 +297,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [10th July 2023](per-week/2023-07-10.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -346,6 +358,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [3rd July 2023](per-week/2023-07-03.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -404,6 +418,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [26th June 2023](per-week/2023-06-26.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -470,6 +486,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [19th June 2023](per-week/2023-06-19.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -534,6 +552,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [12th June 2023](per-week/2023-06-12.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -597,6 +617,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [5th June 2023](per-week/2023-06-05.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -657,6 +679,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [29th May 2023](per-week/2023-05-29.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -723,6 +747,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [22nd May 2023](per-week/2023-05-22.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -784,6 +810,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [15th May 2023](per-week/2023-05-15.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -843,6 +871,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [8th May 2023](per-week/2023-05-08.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -907,6 +937,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [1st May 2023](per-week/2023-05-01.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -967,6 +999,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [24th April 2023](per-week/2023-04-24.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -1031,6 +1065,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [17th April 2023](per-week/2023-04-17.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -1098,6 +1134,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [10th April 2023](per-week/2023-04-10.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -1159,6 +1197,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [3rd April 2023](per-week/2023-04-03.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -1218,6 +1258,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [27th March 2023](per-week/2023-03-27.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -1279,6 +1321,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [20th March 2023](per-week/2023-03-20.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -1339,6 +1383,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [13th March 2023](per-week/2023-03-13.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -1403,6 +1449,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [6th March 2023](per-week/2023-03-06.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -1466,6 +1514,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [27th February 2023](per-week/2023-02-27.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -1522,6 +1572,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [20th February 2023](per-week/2023-02-20.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -1584,6 +1636,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [13th February 2023](per-week/2023-02-13.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -1643,6 +1697,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [6th February 2023](per-week/2023-02-06.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -1705,6 +1761,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [30th January 2023](per-week/2023-01-30.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -1766,6 +1824,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [23rd January 2023](per-week/2023-01-23.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -1831,6 +1891,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [16th January 2023](per-week/2023-01-16.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -1891,6 +1953,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [9th January 2023](per-week/2023-01-09.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -1950,6 +2014,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [2nd January 2023](per-week/2023-01-02.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -2018,6 +2084,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [26th December 2022](per-week/2022-12-26.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -2079,6 +2147,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [19th December 2022](per-week/2022-12-19.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -2144,6 +2214,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [12th December 2022](per-week/2022-12-12.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -2202,6 +2274,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [5th December 2022](per-week/2022-12-05.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -2264,6 +2338,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [28th November 2022](per-week/2022-11-28.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -2321,6 +2397,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [21st November 2022](per-week/2022-11-21.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -2386,6 +2464,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [14th November 2022](per-week/2022-11-14.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -2447,6 +2527,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [7th November 2022](per-week/2022-11-07.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -2510,6 +2592,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [31th October 2022](per-week/2022-10-31.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -2571,6 +2655,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [24th October 2022](per-week/2022-10-24.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -2634,6 +2720,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [17th October 2022](per-week/2022-10-17.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -2695,6 +2783,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [10th October 2022](per-week/2022-10-10.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
  
 ---
@@ -2755,6 +2845,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [3rd October 2022](per-week/2022-10-03.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -2821,6 +2913,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [26th September 2022](per-week/2022-09-26.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -2882,6 +2976,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [19th September 2022](per-week/2022-09-19.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -2947,6 +3043,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [12th September 2022](per-week/2022-09-12.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -3014,6 +3112,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [5th September 2022](per-week/2022-09-05.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -3078,6 +3178,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [29th August 2022](per-week/2022-08-29.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -3139,6 +3241,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [22nd August 2022](per-week/2022-08-22.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -3209,6 +3313,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [15th August 2022](per-week/2022-08-15.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -3272,6 +3378,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [8th August 2022](per-week/2022-08-08.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -3334,6 +3442,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [1st August 2022](per-week/2022-08-01.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -3393,6 +3503,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [25th July 2022](per-week/2022-07-25.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -3454,6 +3566,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [18th July 2022](per-week/2022-07-18.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -3520,6 +3634,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [11th July 2022](per-week/2022-07-11.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -3580,6 +3696,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [4th July 2022](per-week/2022-07-04.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -3639,6 +3757,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [27th June 2022](per-week/2022-06-27.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -3697,6 +3817,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [20th June 2022](per-week/2022-06-20.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -3761,6 +3883,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [13th June 2022](per-week/2022-06-13.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -3823,6 +3947,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ## [6th June 2022](per-week/2022-06-06.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -3888,6 +4014,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [30th May 2022](per-week/2022-05-30.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -3951,6 +4079,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [23rd May 2022](per-week/2022-05-23.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -4012,6 +4142,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [16th May 2022](per-week/2022-05-16.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
@@ -4069,6 +4201,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [9th May 2022](per-week/2022-05-09.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ### Architecture
@@ -4125,6 +4259,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---- 
 
 ## [2nd May 2022](per-week/2022-05-02.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -4186,6 +4322,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [25th April 2022](per-week/2022-04-25.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ----
@@ -4245,6 +4383,8 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---- 
 
 ## [18th April 2022](per-week/2022-04-18.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
@@ -4307,7 +4447,9 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [11th April 2022](per-week/2022-04-11.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
-**Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+****[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
 ---- 
 
@@ -4368,7 +4510,9 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [4th April 2022](per-week/2022-04-04.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
-**Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+****[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
 ---- 
 
@@ -4430,7 +4574,9 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [28th March 2022](per-week/2022-03-28.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
-**Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+****[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
 ---- 
 
@@ -4493,7 +4639,9 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [21st March 2022](per-week/2022-03-21.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
-**Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+****[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
 ---- 
 
@@ -4554,7 +4702,9 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [14th March 2022](per-week/2022-03-14.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
-**Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+****[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
 ---- 
 
@@ -4616,7 +4766,9 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ## [7th March 2022](per-week/2022-03-07.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
-**Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
+****[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help.** You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://redcross.org.ua/en/), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/). You may also consider joining [Tech for Ukraine](https://techtotherescue.org/tech/tech-for-ukraine) initiative.
 
 ### Architecture
 - [Jakub Nabrdalik - What I wish I knew when I started designing systems years ago](https://www.youtube.com/watch?v=1HJJhGHC2A4)
