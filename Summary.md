@@ -59,6 +59,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [David Whitney - Intentional Code - Minimalism in a World of Dogmatic Design](https://www.youtube.com/watch?v=vw2XffPmlYo)
+- [Netflix - Migrating Netflix to GraphQL Safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72)
+- [Nathaniel Schutta - Should That Be a Microservice? Keep These Six Factors in Mind](https://tanzu.vmware.com/content/blog/should-that-be-a-microservice-keep-these-six-factors-in-mind)
+- [João Antunes - Enforce conventions (but don't go overboard) with architecture tests](https://blog.codingmilitia.com/2023/07/28/enforce-conventions-but-dont-go-overboard-with-architecture-tests/)
 - [Wix - The Great Migration - How We Migrated All of Our Premium Subscriptions](https://www.wix.engineering/post/the-great-migration-how-we-migrated-all-of-our-premium-subscriptions)
 - [Werner Vogels - Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
 - [Yves Reynhout - Trench Talk: Evolving a Model](https://www.youtube.com/watch?v=7StN-vNjRSw)
@@ -1070,6 +1074,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Oskar Dudycz - A simple way to configure integration tests pipeline](https://event-driven.io/en/configure_ci_for_integration_tests/?utm_source=architecture_weekly)
+- [Netflix - Ensuring the Successful Launch of Ads on Netflix](https://netflixtechblog.com/ensuring-the-successful-launch-of-ads-on-netflix-f99490fdf1ba)
 - [Gregor Hohpe - Cloud Automation à la DDD: From stringly typed to affordances](https://architectelevator.com/cloud/ddd-technical-domains/)
 - [Pete Hodgson - How platform teams get stuff done](https://martinfowler.com/articles/platform-teams-stuff-done.html)
 - [Last week in AWS - Breaking: AWS Begins Charging For Public IPv4 Addresses](https://www.lastweekinaws.com/blog/breaking-aws-begins-charging-for-public-ipv4-addresses/)
@@ -1259,6 +1265,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Luca Mezzalira - Micro-Frontends in AWS](https://www.youtube.com/watch?v=Wn1Cj7785i8)
 - [Dave Rupert - If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
 - [Rob Eisenberg - A Few DOM Reminders](https://eisenbergeffect.medium.com/a-few-dom-reminders-2a0f18e40804)
 - [Dan Abramov - Leaving Facebook thread](https://twitter.com/dan_abramov/status/1682029195843739649)
@@ -1453,6 +1460,8 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [IETF - RFC 9457 - Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc9457.html)
+- [Darshan Shivashankar - Adopting an API Maturity Model to Accelerate Innovation](https://www.infoq.com/articles/api-maturity-model/)
 - [Insomnia - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC](https://insomnia.rest/)
 - [Optic - Track your API changes without writing YAML by hand](https://www.useoptic.com/cli)
 - [eBay - API Evolution Is a Challenge. Could Contract Testing Be the Solution?](https://tech.ebayinc.com/engineering/api-evolution-with-confidence-a-case-study-of-contract-testing-adoption-at-ebay/)
@@ -1692,6 +1701,7 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [StackOverflow - Announcing OverflowAI](https://stackoverflow.blog/2023/07/27/announcing-overflowai/)
 - [AWS - Generative AI with Large Language Models (Free Course)](https://www.coursera.org/learn/generative-ai-with-llms)
 - [Meta AI - Llama 2: Open Foundation and Fine-Tuned Chat Models](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)
 - [Fortune - Over just a few months, ChatGPT went from correctly answering a simple math problem 98% of the time to just 2%, study finds](https://fortune.com/2023/07/19/chatgpt-accuracy-stanford-study/)
@@ -1897,6 +1907,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jeremy D. Miller - Understanding Endpoints in Wolverine Messaging](https://jeremydmiller.com/2023/08/03/understanding-endpoints-in-wolverine-messaging/)
+- [Andre Hofmeister - How to create and manage unit test Test Containers resources (best practices)](https://github.com/testcontainers/testcontainers-dotnet/discussions/438)
+- [PublicApiGenerator - Project to generate a public API of an assembly or type (useful for semantic versioning)](https://github.com/PublicApiGenerator/PublicApiGenerator)
+- [Michael Staib - Building modern applications with GraphQL 2023 and beyond in ASP.NET Core 7](https://www.youtube.com/watch?v=2sTLr2q-JFc)
 - [Oskar Dudycz - How to scale out Marten](https://event-driven.io/en/scaling_out_marten/?utm_source=architecture_weekly)
 - [James Newton-King - ASP.NET Core Grafana dashboards](https://github.com/JamesNK/aspnetcore-grafana)
 - [Joshua Jesper Krægpøth Ryder - The Future Is Here! WebAssembly for .NET Developers](https://www.youtube.com/watch?v=jkve_v1Xxak)
@@ -2545,6 +2559,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Naval - You Won’t Get Rich Renting Out Your Time](https://nav.al/renting-time)
+- [Kelsey Hightower - Even the best rides come to an end](https://changelog.com/friends/6)
 - [Linus Åkesson - A case against syntax highlighting](https://www.linusakesson.net/programming/syntaxhighlighting/)
 - [Being Human Podcast - Leaving Facebook - Kent Beck](https://www.youtube.com/watch?v=fH4gqsIYzyE)
 - [Justin Searls - The looming demise of the 10x developer](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/)
@@ -2780,6 +2796,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Martin Fowler - TwoPizzaTeam](https://martinfowler.com/bliki/TwoPizzaTeam.html)
 - [Phil Calçado - Attention is All A Manager Needs](https://philcalcado.com/2023/07/21/attention_is_all_a_manager_needs.html)
 - [Aleix Morgadas - Interim Platform Team](https://learnings.aleixmorgadas.dev/p/interim-platform-team)
 - [New Relic - Thoughts About Mob Programming From a Manager’s Perspective](https://newrelic.com/blog/best-practices/mob-programming-managers)
@@ -3002,6 +3019,7 @@
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
 ## JVM
+- [GraalVM - New GraalVM release](https://www.youtube.com/watch?v=lWhEg-6DqM0)
 - [Ionut Balosin - Analyzing JVM Energy Consumption for JDK 17: An Empirical Study](https://ionutbalosin.com/2023/07/analyzing-jvm-energy-consumption-for-jdk-17-an-empirical-study/)
 - [Graeme Rocher - Micronaut 3 & GraalVM Deep Dive](https://www.youtube.com/watch?v=eMSRaOLfdNw)
 - [Spring - From Spring Native to Spring Boot 3](https://spring.io/blog/2023/02/23/from-spring-native-to-spring-boot-3)
@@ -3045,6 +3063,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Michael Arnaldi - Introduction to Effect](https://www.youtube.com/watch?v=zrNr3JVUc8I)
 - [InfoWorld - Microsoft’s DeviceScript brings TypeScript to IoT](https://www.infoworld.com/article/3699136/microsoft-devicescript-brings-typescript-to-iot.html)
 - [Matt Pocock - Typescript Generics Workshop](https://github.com/total-typescript/typescript-generics-workshop)
 - [tRPC - Move fast and break nothing. End-to-end typesafe APIs made easy](https://github.com/trpc/trpc)
@@ -3250,6 +3269,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [It's FOSS - Google's New Web Environment Integrity Proposal Dismissed by Brave, Mozilla, and Vivaldi](https://news.itsfoss.com/google-controversial-tracker/)
+- [TechDirt - Google’s Plan To DRM The Web Goes Against Everything Google Once Stood For](https://www.techdirt.com/2023/08/02/googles-plan-to-drm-the-web-goes-against-everything-google-once-stood-for/)
+- [CNBC - Amazon reports blowout profit, beats on sales and issues optimistic guidance](https://www.cnbc.com/2023/08/03/amazon-amzn-q2-earnings-report-2023.html)
 - [Michelle Coventry - Compensation Decoded: Tech leader salaries at early-stage startups](https://blog.creandum.com/compensation-decoded-tech-leader-salaries-at-early-stage-startups-7faf5465d5b4)
 - [CNBC - Microsoft shares dip after quarterly revenue guidance misses expectations](https://www.cnbc.com/2023/07/25/microsoft-msft-q4-earnings-report-2023.html)
 - [CNN Bussiness - ‘Time is money’: Shopify calculator shows how much unnecessary meetings really cost the company](https://edition.cnn.com/2023/07/12/tech/shopify-meeting-cost-calculator/index.html)
@@ -3482,6 +3504,7 @@
 - [Corey Quinn - How to Compete with AWS](https://www.lastweekinaws.com/blog/how-to-compete-with-aws/)
 
 ## Hardware
+- [Tom's Hardware - China's ByteDance Has Gobbled Up $1 Billion of Nvidia GPUs for AI This Year](https://www.tomshardware.com/news/chinas-bytedance-has-gobbled-up-dollar1-billion-of-nvidia-gpus-for-ai-this-year)
 - [The Guardian - Why Japan’s war on disks could prove to be another flop](https://www.theguardian.com/world/2022/sep/01/japan-digital-minister-declares-war-on-floppy-discs)
 - [Raymond Chen - Janet Jackson had the power to crash laptop computers](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
 - [Endgaget - Microsoft's Project Volterra is a mini PC for ARM developers](https://www.engadget.com/project-volterra-announced-180123291.html?guccounter=1)
@@ -3534,6 +3557,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [HyperSwitch - An Open Source Financial Switch to make Payments fast, reliable and affordable](https://github.com/juspay/hyperswitch)
 - [GitHub - GitHub code search is generally available](https://github.blog/2023-05-08-github-code-search-is-generally-available/)
 - [Fusuma - A tool that makes slides with Markdown easily](https://github.com/hiroppy/fusuma)
 - [phind - The AI search engine for developers](https://www.phind.com/)
@@ -3618,6 +3642,9 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Microsoft - Microsoft comes under blistering criticism for “grossly irresponsible” security](https://arstechnica.com/security/2023/08/microsoft-cloud-security-blasted-for-its-culture-of-toxic-obfuscation)
+- [OWASP - OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+- [Nick Frichette - Evading Logging in the Cloud Disrupting and Bypassing AWS CloudTrail](https://www.youtube.com/watch?v=61C_lEQ5qNM)
 - [Microsoft Security - Analysis of Storm-0558 techniques for unauthorized email access](https://www.microsoft.com/en-us/security/blog/2023/07/14/analysis-of-storm-0558-techniques-for-unauthorized-email-access/)
 - [Termageddon - Usage of Google Fonts violates GDPR](https://termageddon.com/google-fonts-violates-gdpr/)
 - [Darcy Clarke - The massive bug at the heart of the npm ecosystem](https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem)

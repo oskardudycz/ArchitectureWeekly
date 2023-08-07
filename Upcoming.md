@@ -1,62 +1,9 @@
 # Upcoming Links
 
-## 7th August 2023
+## 14th August 2023
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
 
 ### Architecture
-- [David Whitney - Intentional Code - Minimalism in a World of Dogmatic Design](https://www.youtube.com/watch?v=vw2XffPmlYo)
-- [Netflix - Migrating Netflix to GraphQL Safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72)
-- [Nathaniel Schutta - Should That Be a Microservice? Keep These Six Factors in Mind](https://tanzu.vmware.com/content/blog/should-that-be-a-microservice-keep-these-six-factors-in-mind)
-- [João Antunes - Enforce conventions (but don't go overboard) with architecture tests](https://blog.codingmilitia.com/2023/07/28/enforce-conventions-but-dont-go-overboard-with-architecture-tests/)
-
-### API
-- [IETF - RFC 9457 - Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc9457.html)
-- [Darshan Shivashankar - Adopting an API Maturity Model to Accelerate Innovation](https://www.infoq.com/articles/api-maturity-model/)
-
-### DevOps
-- [Oskar Dudycz - A simple way to configure integration tests pipeline](https://event-driven.io/en/configure_ci_for_integration_tests/?utm_source=architecture_weekly)
-- [Netflix - Ensuring the Successful Launch of Ads on Netflix](https://netflixtechblog.com/ensuring-the-successful-launch-of-ads-on-netflix-f99490fdf1ba)
-
-### Frontend
-- [Luca Mezzalira - Micro-Frontends in AWS](https://www.youtube.com/watch?v=Wn1Cj7785i8)
-
-### AI
-- [StackOverflow - Announcing OverflowAI](https://stackoverflow.blog/2023/07/27/announcing-overflowai/)
-
-### JVM
-- [GraalVM - New GraalVM release](https://www.youtube.com/watch?v=lWhEg-6DqM0)
-
-### .NET
-- [Jeremy D. Miller - Understanding Endpoints in Wolverine Messaging](https://jeremydmiller.com/2023/08/03/understanding-endpoints-in-wolverine-messaging/)
-- [Andre Hofmeister - How to create and manage unit test Test Containers resources (best practices)](https://github.com/testcontainers/testcontainers-dotnet/discussions/438)
-- [PublicApiGenerator - Project to generate a public API of an assembly or type (useful for semantic versioning)](https://github.com/PublicApiGenerator/PublicApiGenerator)
-- [Michael Staib - Building modern applications with GraphQL 2023 and beyond in ASP.NET Core 7](https://www.youtube.com/watch?v=2sTLr2q-JFc)
-
-### TypeScript
-- [Michael Arnaldi - Introduction to Effect](https://www.youtube.com/watch?v=zrNr3JVUc8I)
-
-### Hardware
-- [Tom's Hardware - China's ByteDance Has Gobbled Up $1 Billion of Nvidia GPUs for AI This Year](https://www.tomshardware.com/news/chinas-bytedance-has-gobbled-up-dollar1-billion-of-nvidia-gpus-for-ai-this-year)
-
-### Tools
-- [HyperSwitch - An Open Source Financial Switch to make Payments fast, reliable and affordable](https://github.com/juspay/hyperswitch)
-
-### Coding Life
-- [Naval - You Won’t Get Rich Renting Out Your Time](https://nav.al/renting-time)
-- [Kelsey Hightower - Even the best rides come to an end](https://changelog.com/friends/6)
-
-### Management
-- [Martin Fowler - TwoPizzaTeam](https://martinfowler.com/bliki/TwoPizzaTeam.html)
-
-### Industry
-- [It's FOSS - Google's New Web Environment Integrity Proposal Dismissed by Brave, Mozilla, and Vivaldi](https://news.itsfoss.com/google-controversial-tracker/)
-- [TechDirt - Google’s Plan To DRM The Web Goes Against Everything Google Once Stood For](https://www.techdirt.com/2023/08/02/googles-plan-to-drm-the-web-goes-against-everything-google-once-stood-for/)
-- [CNBC - Amazon reports blowout profit, beats on sales and issues optimistic guidance](https://www.cnbc.com/2023/08/03/amazon-amzn-q2-earnings-report-2023.html)
-
-### Security
-- [Microsoft - Microsoft comes under blistering criticism for “grossly irresponsible” security](https://arstechnica.com/security/2023/08/microsoft-cloud-security-blasted-for-its-culture-of-toxic-obfuscation)
-- [OWASP - OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-- [Nick Frichette - Evading Logging in the Cloud Disrupting and Bypassing AWS CloudTrail](https://www.youtube.com/watch?v=61C_lEQ5qNM)
