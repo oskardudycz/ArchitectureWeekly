@@ -26,6 +26,67 @@ There are two rules:
 
 ---
 
+## [14th August 2023](per-week/2023-08-14.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
+
+---
+
+### Architecture
+- [Gregor Hohpe - Application Architecture as Code](https://architectelevator.com/cloud/iac-architecture-as-code/)
+- [Cloudflare - Performance isolation in a multi-tenant database environment](https://blog.cloudflare.com/performance-isolation-in-a-multi-tenant-database-environment/)
+- [Uber - Announcing Cadence 1.0: The Powerful Workflow Platform Built for Scale and Reliability](https://www.uber.com/en-GB/blog/announcing-cadence/)
+- [Rebecca Parsons — Building Evolutionary Architectures: Principles and Practices](https://www.youtube.com/watch?v=PQBlyAxPje0)
+- [Ivan Padabed - The Purpose of Architecture](https://medium.com/system5-dev/the-purpose-of-architecture-ae9552e548d7)
+- [Sandro Mancuso - Mocking as a Design Tool](https://www.codurance.com/publications/2018/10/18/mocking-as-a-design-tool)
+- [Lexi Mattick & Hack Club - Putting the “You” in CPU](https://cpu.land/)
+- [Greg Young - Event Sourcing and Post/Pre Dated Transactions](https://web.archive.org/web/20141016034850/http://codebetter.com/gregyoung/2014/03/02/event-sourcing-and-postpre-dated-transactions/)
+
+### Databases
+- [Elastic - Unveiling Elasticsearch Query Language (ES|QL)](https://www.elastic.co/blog/elasticsearch-query-language-esql)
+- [Streamstone - Event store for Azure Table Storage](https://github.com/yevhen/Streamstone)
+
+### AI 
+- [Stack Overflow - Ask like a human: Implementing semantic search on Stack Overflow](https://stackoverflow.blog/2023/07/31/ask-like-a-human-implementing-semantic-search-on-stack-overflow)
+
+### Azure
+- [Thomas Maurer - Prepare your Azure Cloud Environment with the Cloud Adoption Framework](https://www.thomasmaurer.ch/2023/07/prepare-your-azure-cloud-environment-with-the-cloud-adoption-framework/)
+
+### Java
+- [Billy Korando - To Java 21 and Beyond!](https://www.youtube.com/watch?v=470InxVt5es)
+- [A N M Bazlur Rahman - Preparing for JDK 21: A Comprehensive Overview of Key Features and Enhancements](https://foojay.io/today/preparing-for-jdk-21-a-comprehensive-overview-of-key-features-and-enhancements/)
+- [Marco Codes - How To Approach Dependency Management in Java](https://www.youtube.com/watch?v=6GJAjDcFHTo)
+
+### .NET
+- [Sean Killeen - On Moq and our Part in the OSS Sustainability Social Contract](https://seankilleen.com/2023/08/on-moq-and-our-part-in-the-oss-sustainability-social-contract/)
+- [Jeremy D. Miller - Using Sql Server as a Message Queue with Wolverine](https://jeremydmiller.com/2023/08/13/using-sql-server-as-a-message-queue-with-wolverine)
+- [Aaron Stannard - We're Rewriting Sdkbin](https://aaronstannard.com/sdkbin-rewrite/)
+- [Andrew Lock - Comparing WebApplication.CreateBuilder() to the new CreateSlimBuilder() method](https://andrewlock.net/exploring-the-dotnet-8-preview-comparing-createbuilder-to-the-new-createslimbuilder-method/)
+
+### WebAssembly
+- [Radu Matei - Towards sockets and networking in WebAssembly and WASI](https://radu-matei.com/blog/towards-sockets-networking-wasi/)
+
+### Coding Life
+- [Danah Boyd - Deskilling on the Job](https://www.zephoria.org/thoughts/archives/2023/04/21/deskilling-on-the-job.html)
+
+### Product Design
+- [Paweł Huryn - MVP: Everything You Need to Know. MVP vs. MMP vs. MLP](https://huryn.substack.com/p/mvp-everything-you-need-to-know-mvp)
+
+### Industry
+- [The Register - Germany to subsidize Intel €10B for 'Silicon Junction' fab](https://www.theregister.com/2023/06/19/germany_to_subsidize_intel_10bn/)
+- [Reuters - Intel spends $33 billion in Germany in landmark expansion](https://www.reuters.com/technology/berlin-sign-agreement-with-intel-after-chip-plant-talks-2023-06-19/)
+- [HashiCorp - HashiCorp adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)
+- [The Guardian - Norway to fine Meta $98,500 a day over user privacy breach from 14 August](https://www.theguardian.com/technology/2023/aug/07/norway-meta-fine-user-privacy-breach-targeted-ads)
+- [Gizmodo - CNET Deletes Thousands of Old Articles to Game Google Search](https://gizmodo.com/cnet-deletes-thousands-old-articles-google-search-seo-1850721475)
+
+### Security
+- [Independent - Bots are better than humans at cracking ‘Are you a robot?’ Captcha tests, study finds](https://www.independent.co.uk/tech/captcha-test-bots-better-humans-b2389998.html)
+- [OpenAI - Disabling GPTBot](https://platform.openai.com/docs/gptbot/disallowing-gptbot)
+
+---
+
 ## [7th August 2023](per-week/2023-08-07.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 **[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**

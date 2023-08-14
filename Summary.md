@@ -59,6 +59,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Gregor Hohpe - Application Architecture as Code](https://architectelevator.com/cloud/iac-architecture-as-code/)
+- [Cloudflare - Performance isolation in a multi-tenant database environment](https://blog.cloudflare.com/performance-isolation-in-a-multi-tenant-database-environment/)
+- [Uber - Announcing Cadence 1.0: The Powerful Workflow Platform Built for Scale and Reliability](https://www.uber.com/en-GB/blog/announcing-cadence/)
+- [Rebecca Parsons — Building Evolutionary Architectures: Principles and Practices](https://www.youtube.com/watch?v=PQBlyAxPje0)
+- [Ivan Padabed - The Purpose of Architecture](https://medium.com/system5-dev/the-purpose-of-architecture-ae9552e548d7)
+- [Sandro Mancuso - Mocking as a Design Tool](https://www.codurance.com/publications/2018/10/18/mocking-as-a-design-tool)
+- [Lexi Mattick & Hack Club - Putting the “You” in CPU](https://cpu.land/)
+- [Greg Young - Event Sourcing and Post/Pre Dated Transactions](https://web.archive.org/web/20141016034850/http://codebetter.com/gregyoung/2014/03/02/event-sourcing-and-postpre-dated-transactions/)
 - [David Whitney - Intentional Code - Minimalism in a World of Dogmatic Design](https://www.youtube.com/watch?v=vw2XffPmlYo)
 - [Netflix - Migrating Netflix to GraphQL Safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72)
 - [Nathaniel Schutta - Should That Be a Microservice? Keep These Six Factors in Mind](https://tanzu.vmware.com/content/blog/should-that-be-a-microservice-keep-these-six-factors-in-mind)
@@ -1500,6 +1508,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Elastic - Unveiling Elasticsearch Query Language (ES|QL)](https://www.elastic.co/blog/elasticsearch-query-language-esql)
+- [Streamstone - Event store for Azure Table Storage](https://github.com/yevhen/Streamstone)
 - [The Hanselminutes Podcast - All the Performance with RavenDB's Oren Eini](https://hanselminutes.com/901/all-the-performance-with-ravendbs-oren-eini)
 - [Developer Voices - The Evolution of Databases and the Future of Database Technology (with Ben Stopford)](https://www.youtube.com/watch?v=9JVPq_fbXVs)
 - [MongoDB - Introducing Atlas Stream Processing - Simplifying the Path to Reactive, Responsive, Event-Driven Apps](https://www.mongodb.com/blog/post/introducing-atlas-stream-processing-simplifying-path-reactive-responsive-even-driven-apps)
@@ -1701,6 +1711,7 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [Stack Overflow - Ask like a human: Implementing semantic search on Stack Overflow](https://stackoverflow.blog/2023/07/31/ask-like-a-human-implementing-semantic-search-on-stack-overflow)
 - [StackOverflow - Announcing OverflowAI](https://stackoverflow.blog/2023/07/27/announcing-overflowai/)
 - [AWS - Generative AI with Large Language Models (Free Course)](https://www.coursera.org/learn/generative-ai-with-llms)
 - [Meta AI - Llama 2: Open Foundation and Fine-Tuned Chat Models](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)
@@ -1840,6 +1851,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Thomas Maurer - Prepare your Azure Cloud Environment with the Cloud Adoption Framework](https://www.thomasmaurer.ch/2023/07/prepare-your-azure-cloud-environment-with-the-cloud-adoption-framework/)
 - [Tomasz Pęczek - DevOps Practices for Azure Infrastructure - Continuous Delivery & Continuous Deployment](https://www.tpeczek.com/2023/06/devops-practices-for-azure_27.html)
 - [Microsoft - Announcing Azure Monitor OpenTelemetry Distro](https://devblogs.microsoft.com/dotnet/azure-monitor-opentelemetry-distro/)
 - [Microsoft - Announcing Materialized Views for Azure Cosmos DB for NoSQL (Preview)](https://devblogs.microsoft.com/cosmosdb/announcing-materialized-view-feature-for-azure-cosmos-db-nosql-preview/)
@@ -1907,6 +1919,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Sean Killeen - On Moq and our Part in the OSS Sustainability Social Contract](https://seankilleen.com/2023/08/on-moq-and-our-part-in-the-oss-sustainability-social-contract/)
+- [Jeremy D. Miller - Using Sql Server as a Message Queue with Wolverine](https://jeremydmiller.com/2023/08/13/using-sql-server-as-a-message-queue-with-wolverine)
+- [Aaron Stannard - We're Rewriting Sdkbin](https://aaronstannard.com/sdkbin-rewrite/)
+- [Andrew Lock - Comparing WebApplication.CreateBuilder() to the new CreateSlimBuilder() method](https://andrewlock.net/exploring-the-dotnet-8-preview-comparing-createbuilder-to-the-new-createslimbuilder-method/)
 - [Jeremy D. Miller - Understanding Endpoints in Wolverine Messaging](https://jeremydmiller.com/2023/08/03/understanding-endpoints-in-wolverine-messaging/)
 - [Andre Hofmeister - How to create and manage unit test Test Containers resources (best practices)](https://github.com/testcontainers/testcontainers-dotnet/discussions/438)
 - [PublicApiGenerator - Project to generate a public API of an assembly or type (useful for semantic versioning)](https://github.com/PublicApiGenerator/PublicApiGenerator)
@@ -2534,6 +2550,7 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [Radu Matei - Towards sockets and networking in WebAssembly and WASI](https://radu-matei.com/blog/towards-sockets-networking-wasi/)
 - [Edoardo Vacchi - WebAssembly from the inside out](https://www.youtube.com/watch?v=93NL17DYNQs)
 - [Dan Gohman - The World of WASI](https://www.youtube.com/watch?v=nOkzmOapiSY)
 - [The Linux Foundation - How WASI Makes Containerization More Efficient](https://training.linuxfoundation.org/blog/how-wasi-makes-containerization-more-efficient/)
@@ -2559,6 +2576,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Danah Boyd - Deskilling on the Job](https://www.zephoria.org/thoughts/archives/2023/04/21/deskilling-on-the-job.html)
 - [Naval - You Won’t Get Rich Renting Out Your Time](https://nav.al/renting-time)
 - [Kelsey Hightower - Even the best rides come to an end](https://changelog.com/friends/6)
 - [Linus Åkesson - A case against syntax highlighting](https://www.linusakesson.net/programming/syntaxhighlighting/)
@@ -2899,6 +2917,7 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [Paweł Huryn - MVP: Everything You Need to Know. MVP vs. MMP vs. MLP](https://huryn.substack.com/p/mvp-everything-you-need-to-know-mvp)
 - [Domagoj Pavlešić - Sessionize: From idea to 100.000 speakers, and beyond!](https://www.youtube.com/watch?v=NuzCoPxedMU)
 - [Zalando - Discovering & launching products in Zalando SE by Stefano Rinaldi](https://www.linkedin.com/events/discovering-launchingproductsin7058105004435365888/comments/)
 - [Sam McAfee - This Agile Hammer Doesn't Work For New Product Development](https://www.linkedin.com/pulse/agile-hammer-doesnt-work-new-product-development-sam-mcafee)
@@ -2917,6 +2936,9 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Billy Korando - To Java 21 and Beyond!](https://www.youtube.com/watch?v=470InxVt5es)
+- [A N M Bazlur Rahman - Preparing for JDK 21: A Comprehensive Overview of Key Features and Enhancements](https://foojay.io/today/preparing-for-jdk-21-a-comprehensive-overview-of-key-features-and-enhancements/)
+- [Marco Codes - How To Approach Dependency Management in Java](https://www.youtube.com/watch?v=6GJAjDcFHTo)
 - [Micronaut - Micronaut Framework 4.0.0 Released!](https://micronaut.io/2023/07/14/micronaut-framework-4-0-0-released/)
 - [Chris Seaton - Ten Things You Can Do With GraalVM](https://gist.github.com/chrisseaton/535e0e80ea19803d5529c623c6beb921)
 - [Andrzej Ludwikowski - Introducing Kalix Workflow Component](https://www.kalix.io/developer/blog/introducing-kalix-workflow-component)
@@ -3269,6 +3291,11 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [The Register - Germany to subsidize Intel €10B for 'Silicon Junction' fab](https://www.theregister.com/2023/06/19/germany_to_subsidize_intel_10bn/)
+- [Reuters - Intel spends $33 billion in Germany in landmark expansion](https://www.reuters.com/technology/berlin-sign-agreement-with-intel-after-chip-plant-talks-2023-06-19/)
+- [HashiCorp - HashiCorp adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)
+- [The Guardian - Norway to fine Meta $98,500 a day over user privacy breach from 14 August](https://www.theguardian.com/technology/2023/aug/07/norway-meta-fine-user-privacy-breach-targeted-ads)
+- [Gizmodo - CNET Deletes Thousands of Old Articles to Game Google Search](https://gizmodo.com/cnet-deletes-thousands-old-articles-google-search-seo-1850721475)
 - [It's FOSS - Google's New Web Environment Integrity Proposal Dismissed by Brave, Mozilla, and Vivaldi](https://news.itsfoss.com/google-controversial-tracker/)
 - [TechDirt - Google’s Plan To DRM The Web Goes Against Everything Google Once Stood For](https://www.techdirt.com/2023/08/02/googles-plan-to-drm-the-web-goes-against-everything-google-once-stood-for/)
 - [CNBC - Amazon reports blowout profit, beats on sales and issues optimistic guidance](https://www.cnbc.com/2023/08/03/amazon-amzn-q2-earnings-report-2023.html)
@@ -3642,6 +3669,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Independent - Bots are better than humans at cracking ‘Are you a robot?’ Captcha tests, study finds](https://www.independent.co.uk/tech/captcha-test-bots-better-humans-b2389998.html)
+- [OpenAI - Disabling GPTBot](https://platform.openai.com/docs/gptbot/disallowing-gptbot)
 - [Microsoft - Microsoft comes under blistering criticism for “grossly irresponsible” security](https://arstechnica.com/security/2023/08/microsoft-cloud-security-blasted-for-its-culture-of-toxic-obfuscation)
 - [OWASP - OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 - [Nick Frichette - Evading Logging in the Cloud Disrupting and Bypassing AWS CloudTrail](https://www.youtube.com/watch?v=61C_lEQ5qNM)
