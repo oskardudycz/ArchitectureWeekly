@@ -9,3 +9,6 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ### Architecture
+
+### Python
+- [How to implement CommandBus in Python](https://blog.szymonmiks.pl/p/how-to-implement-commandbus-in-python/)
