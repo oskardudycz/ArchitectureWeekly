@@ -59,6 +59,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Event transformations, a tool to keep our processes loosely coupled](https://event-driven.io/en/event_transformations_and_loosely_coupling/)
+- [Vivek Juneja - In the shoes of Nick Tune and David Gebhardt to talk about Architecture Modernization](https://www.youtube.com/watch?v=7jjSi-tWkQw)
+- [Software Engineering Radio - Casey Muratori on Clean Code, Horrible Performance?](https://www.se-radio.net/2023/08/se-radio-577-casey-muratori-on-clean-code-horrible-performance/)
+- [Casey Muratori - "Clean" Code, Horrible Performance](https://www.computerenhance.com/p/clean-code-horrible-performance)
+- [CodeFoo - Casey Muratori is wrong about clean code (but he's also right)](https://blog.codef00.com/2023/04/13/casey-muratori-is-wrong-about-clean-code)
 - [Oskar Dudycz - Prototyping, an underestimated design skill](https://event-driven.io/en/prototype_underestimated_design_skill/)
 - [.NET Rocks - Minimal Architecture with Jeremy Miller](https://www.dotnetrocks.com/details/1860)
 - [Google - Developer Productivity for Humans, Part 4: Build Latency, Predictability, and Developer Productivity](https://www.computer.org/csdl/magazine/so/2023/04/10176199/1OAJyfknInm)
@@ -898,6 +903,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Fabrice Harbulot, Quang Minh Tran - Zero traffic cost for Kafka consumers](https://engineering.grab.com/zero-traffic-cost)
 - [WarpStream - A Kafka compatible data streaming platform built directly on top of S3](https://www.warpstream.com/)
 - [Danica Fine - A Kafka Client’s Request: There and Back Again](https://www.youtube.com/watch?v=8NrK69WrRq0)
 - [Kyle Kingsbury - Call Me Maybe: Carly Rae Jepsen and the Perils of Network Partitions](https://www.youtube.com/watch?v=vFDjTd9G6Xo)
@@ -1293,6 +1299,9 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Theo - The Truth About HTMX](https://www.youtube.com/watch?v=NA5Fcgs_viU)
+- [Kevin Mas Ruiz - The conjunction of the web](https://dev.to/kmruiz/the-conjunction-of-the-web-2anf)
+- [ThePrimeTime - The Truth About HTMX](https://www.youtube.com/watch?v=2hMrk7A8Wf0)
 - [Nolan Lawson - Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
 - [Luca Mezzalira - Micro-Frontends in AWS](https://www.youtube.com/watch?v=Wn1Cj7785i8)
 - [Dave Rupert - If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
@@ -1421,6 +1430,8 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Nubank - Why We Killed Our End-to-End Test Suit](https://building.nubank.com.br/why-we-killed-our-end-to-end-test-suite/)
+- [A. Kolsky, S. Bain, M. Guernsey - Redefining Test-Driven Development, Pt. 1](http://www.sustainabletdd.com/2011/11/redefining-test-driven-development-pt-1.html)
 - [Ted M. Young - I'm Done with Unit and Integration Tests](https://ted.dev/articles/2023/04/02/i-m-done-with-unit-and-integration-tests/)
 - [Mathias Verraes - EventSourcing Testing Patterns](https://verraes.net/2023/05/eventsourcing-testing-patterns/)
 - [LastMinute.com - Impacts of contract tests in our microservice architecture](https://technology.lastminute.com/impacts-of-contract-tests-in-a-microservice-architecture/)
@@ -1529,6 +1540,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [OnGres - Performance Benchmark Postgresql/MongoDB](https://info.enterprisedb.com/rs/069-ALB-339/images/PostgreSQL_MongoDB_Benchmark-WhitepaperFinal.pdf)
 - [Craig Kerstiens - When Did Postgres Become Cool?](https://www.crunchydata.com/blog/when-did-postgres-become-cool)
 - [Bowei Chen - Aggregation Placement — An Adaptive Query Optimization for Snowflake](https://medium.com/snowflake/aggregation-placement-an-adaptive-query-optimization-for-snowflake-ab1e2c6af2e4)
 - [Elastic - Unveiling Elasticsearch Query Language (ES|QL)](https://www.elastic.co/blog/elasticsearch-query-language-esql)
@@ -1734,6 +1746,8 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [TechCrunch - OpenAI launches a ChatGPT plan for enterprise customers](https://techcrunch.com/2023/08/28/openai-launches-a-chatgpt-plan-for-enterprise-customers)
+- [Stephen King - My Books Were Used to Train AI](https://www.theatlantic.com/books/archive/2023/08/stephen-king-books-ai-writing/675088/)
 - [D. G. Widder, S. West, M. Whittaker - Open (For Business): Big Tech, Concentrated Power, and the Political Economy of Open AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4543807)
 - [OpenAI - GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates)
 - [Yan Cui - Is AWS Bedrock the OpenAI killer?](https://www.youtube.com/watch?v=jxL5Zk12JUE)
@@ -1914,6 +1928,7 @@
 - [InfoWorld - Simon Bisson - Jumping into Azure Arc Data Services](https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.amp.html)
 
 ## C++
+- [Jimmy Hartzell - C++ Papercuts](https://www.thecodedmessage.com/posts/c++-papercuts/)
 - [Google - Carbon Language: An experimental successor to C++](https://github.com/carbon-language/carbon-lang)
 - [Maslow's Inferno - Unreal Engine Tutorials](https://www.youtube.com/playlist?list=PLSeWTho026lPuv5rzSCo8CAUVFzIlMz1A)
 - [Jonathan Müller - Technique: Compile Time Code Generation and Optimization](https://www.foonathan.net/2022/01/compile-time-codegen/)
@@ -1948,6 +1963,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Microsoft - Visual Studio for Mac Retirement Announcement](https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-retirement-announcement)
+- [Tim Deschryver - Implementing a Feature Flag-based Endpoint Filter](https://timdeschryver.dev/blog/implementing-a-feature-flag-based-endpoint-filter?trk=feed_main-feed-card_feed-article-content)
+- [Khalid Abuhakmeh - .NET 8 AOT Support with Database Access](https://github.com/khalidabuhakmeh/native-aot-dotnet-eight)
+- [Andrew Lock - Form binding in minimal APIs](https://andrewlock.net/exploring-the-dotnet-8-preview-form-binding-in-minimal-apis/)
 - [Chris Woodruff - ASP.NET Web API Workshop](https://cwoodruff.github.io/web-api-workshop/)
 - [João Antunes - "Parse, don't validate" and other type safety driven shenanigans (plus a C# wishlist)](https://blog.codingmilitia.com/2023/08/17/parse-dont-validate-and-other-type-safety-driven-shenanigans-plus-a-csharp-wishlist/)
 - [Khalid Abuhakmeh - .NET 8 Interceptors](https://khalidabuhakmeh.com/dotnet-8-interceptors)
@@ -2588,6 +2607,7 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [wasmCloud - Simple, secure, distributed application development using WebAssembly actors and capability providers](https://github.com/wasmCloud/wasmCloud)
 - [Radu Matei - Towards sockets and networking in WebAssembly and WASI](https://radu-matei.com/blog/towards-sockets-networking-wasi/)
 - [Edoardo Vacchi - WebAssembly from the inside out](https://www.youtube.com/watch?v=93NL17DYNQs)
 - [Dan Gohman - The World of WASI](https://www.youtube.com/watch?v=nOkzmOapiSY)
@@ -2614,6 +2634,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [CodeOpinion - How I became a software architect... (or not)](https://www.youtube.com/watch?v=6j-PyJ1tFn8)
+- [Jeremy D. Miller - How I started in software development](https://jeremydmiller.com/2023/09/01/how-i-started-in-software-development/)
 - [Marta Firlej - Becoming More Assertive: How to Express Yourself, Give Feedback, and Set Boundaries](https://www.infoq.com/articles/becoming-more-assertive/)
 - [Hila Fox - How To Become a Go-To Person](https://medium.com/augury-research-and-development/how-to-become-a-go-to-person-1ab7a80f25f4)
 - [Danah Boyd - Deskilling on the Job](https://www.zephoria.org/thoughts/archives/2023/04/21/deskilling-on-the-job.html)
@@ -2854,6 +2876,10 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [McKinsey - Yes, you can measure software developer productivity](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/yes-you-can-measure-software-developer-productivity)
+- [Gergely Orosz - Measuring developer productivity? A response to McKinsey](https://tidyfirst.substack.com/p/measuring-developer-productivity)
+- [Kent Beck - Measuring developer productivity? A response to McKinsey](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity)
+- [Martin Fowler - CannotMeasureProductivity](https://martinfowler.com/bliki/CannotMeasureProductivity.html)
 - [Cat Hicks - Sense of Belonging and Software Teams](https://www.drcathicks.com/post/sense-of-belonging-and-software-teams) 
 - [Dror Poleg - Remote Is Not Enough](https://www.drorpoleg.com/remote-is-not-enough/)
 - [Martin Fowler - TwoPizzaTeam](https://martinfowler.com/bliki/TwoPizzaTeam.html)
@@ -2981,6 +3007,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Spring - Tackling the OAuth2 Client component model in Spring Security](https://spring.io/blog/2023/08/22/tackling-the-oauth2-client-component-model-in-spring-security)
 - [Piotr Przybył - Don't look at virtual threads, or else...!](https://softwaregarden.dev/en/posts/new-java/loom/dont-look-at-virtual-threads)
 - [Microsoft - Introducing Semantic Kernel for Java](https://devblogs.microsoft.com/semantic-kernel/introducing-semantic-kernel-for-java/)
 - [Krzysztof Ślusarski - JVM internals basics - Stop-the-world phase (safepoints) - how it works?](https://krzysztofslusarski.github.io/2020/11/13/stw.html)
@@ -3223,6 +3250,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [The Go Blog - Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
 - [Ben E. C. Boyter - How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/)
 - [Robert Laszczak - The Go libraries that never failed us: 22 libraries you need to know](https://threedots.tech/post/list-of-recommended-libraries)
 - [Robert Laszczak - The Best Go framework: no framework?](https://threedots.tech/post/best-go-framework/)
@@ -3276,6 +3304,7 @@
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
 
 ## Python
+- [Szymon Miks - How to implement CommandBus in Python](https://blog.szymonmiks.pl/p/how-to-implement-commandbus-in-python/)
 - [Microsoft - Announcing Python in Excel: Combining the power of Python and the flexibility of Excel.](https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439)
 - [KDNuggets - Pandas AI: The Generative AI Python Library](https://www.kdnuggets.com/2023/05/pandas-ai-generative-ai-python-library.html)
 - [Szymon Miks - How to test an API request to the external system](https://blog.szymonmiks.pl/p/how-to-test-an-api-request-to-the-external-system/)
@@ -3341,6 +3370,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Oren Eini - The role of GitHub in paying for Open Source Software](https://ayende.com/blog/199937-C/the-role-of-github-in-paying-for-open-source-software)
+- [Reuters - Meta's Canada news ban fails to dent Facebook usage](https://www.reuters.com/technology/metas-canada-news-ban-fails-dent-facebook-usage-2023-08-29/)
+- [The Verge - Spotify reportedly has a $38 million white noise problem](https://www.theverge.com/2023/8/17/23836403/spotify-podcasts-white-noise-algorithmproblem)
 - [Reuters - South Korea to toughen punishments for technology leaks in chips, displays](https://www.reuters.com/technology/south-korea-toughen-punishments-technology-leaks-chips-displays-2023-08-28)
 - [The Guardian - How can you tell remote work is over? Zoom has ordered employees back to the office](https://www.theguardian.com/commentisfree/2023/aug/08/remote-work-over-zoom-ordered-employees-back-to-office)
 - [CNBC - Amazon is seeing some employees quit instead of moving to a new state as part of relocation mandate](https://www.cnbc.com/2023/08/22/amazon-employees-are-quitting-after-they-were-told-to-relocate-states.html)
