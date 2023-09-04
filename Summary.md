@@ -59,6 +59,24 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Prototyping, an underestimated design skill](https://event-driven.io/en/prototype_underestimated_design_skill/)
+- [.NET Rocks - Minimal Architecture with Jeremy Miller](https://www.dotnetrocks.com/details/1860)
+- [Google - Developer Productivity for Humans, Part 4: Build Latency, Predictability, and Developer Productivity](https://www.computer.org/csdl/magazine/so/2023/04/10176199/1OAJyfknInm)
+- [Troy Hunt - Fighting API Bots with Cloudflare's Invisible Turnstile](https://www.troyhunt.com/fighting-api-bots-with-cloudflares-invisible-turnstile/)
+- [Tomasz Nurkiewicz - Better Call Fallback: Designing resilient services](https://www.youtube.com/watch?v=qAnNqEvcRso)
+- [Wired - The Cloud Is a Prison. Can the Local-First Software Movement Set Us Free?](https://www.wired.com/story/the-cloud-is-a-prison-can-the-local-first-software-movement-set-us-free/)
+- [Trond Hjorteland - Open Sociotechnical Systems Thinking](https://www.youtube.com/watch?v=f9ywr8Mo9k4)
+- [Rob Hornby - We’ve gone Backstage — This is how we use it on our Digital Platform](https://medium.com/john-lewis-software-engineering/weve-gone-backstage-this-is-how-we-use-it-on-our-digital-platform-b299cd4acb24)
+- [Kevlin Henney - Gilding the Rose: Refactoring-Driven Development](https://www.youtube.com/watch?v=kTcDBYCpj7Q)
+- [Vaughn Vernon - Reactive DDD: Modeling Uncertainty](https://kalele.io/reactive-ddd-modeling-uncertainty/)
+- [Jonas Bonér - Designing Event-first Microservices](https://www.youtube.com/watch?v=jJqgOqC69Ig)
+- [Oskar Dudycz - Behaviour-Driven Design is more than tests](https://event-driven.io/en/behaviour_driven_design_is_not_about_tests/?utm_source=architecture_weekly)
+- [Natan Silnitsky - Lessons learned from working with 2000 event-driven microservices](https://www.youtube.com/watch?v=y1rgKdN7Bv4)
+- [Sofia Tania, Stefania Stefansdottir - Surging cloud and managed services costs outpacing customer growth](https://martinfowler.com/articles/bottlenecks-of-scaleups/04-costs.html#ReducePhase)
+- [Fred Moyer - Techniques for SLOs and Error Budgets at Scale](https://www.youtube.com/watch?v=c8Tjbmq66UU)
+- [Gojko Adzic  - You're Testing WHAT?](https://www.youtube.com/watch?v=5_IW7npQk9k)
+- [Ying Liang - From use cases to classes: a way of building object model with UML](https://www.inf.ufpr.br/lmperes/2019_2/ci167/material_aula/transparencias/UML/from_use_case_to_classes.pdf)
+- [Thierry Malanga - EventStorming – Model your business domain as a team](https://thierrymalanga.com/2023/08/eventstorming-model-your-business-domain-as-a-team/)
 - [Gregor Hohpe - Application Architecture as Code](https://architectelevator.com/cloud/iac-architecture-as-code/)
 - [Cloudflare - Performance isolation in a multi-tenant database environment](https://blog.cloudflare.com/performance-isolation-in-a-multi-tenant-database-environment/)
 - [Uber - Announcing Cadence 1.0: The Powerful Workflow Platform Built for Scale and Reliability](https://www.uber.com/en-GB/blog/announcing-cadence/)
@@ -880,6 +898,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [WarpStream - A Kafka compatible data streaming platform built directly on top of S3](https://www.warpstream.com/)
 - [Danica Fine - A Kafka Client’s Request: There and Back Again](https://www.youtube.com/watch?v=8NrK69WrRq0)
 - [Kyle Kingsbury - Call Me Maybe: Carly Rae Jepsen and the Perils of Network Partitions](https://www.youtube.com/watch?v=vFDjTd9G6Xo)
 - [Google - Introducing Service Weaver: A Framework for Writing Distributed Applications](https://opensource.googleblog.com/2023/03/introducing-service-weaver-framework-for-writing-distributed-applications.html)
@@ -1082,6 +1101,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [OpenTF - The OpenTF Manifesto](https://opentf.org/)
 - [Oskar Dudycz - A simple way to configure integration tests pipeline](https://event-driven.io/en/configure_ci_for_integration_tests/?utm_source=architecture_weekly)
 - [Netflix - Ensuring the Successful Launch of Ads on Netflix](https://netflixtechblog.com/ensuring-the-successful-launch-of-ads-on-netflix-f99490fdf1ba)
 - [Gregor Hohpe - Cloud Automation à la DDD: From stringly typed to affordances](https://architectelevator.com/cloud/ddd-technical-domains/)
@@ -1273,6 +1293,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Nolan Lawson - Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
 - [Luca Mezzalira - Micro-Frontends in AWS](https://www.youtube.com/watch?v=Wn1Cj7785i8)
 - [Dave Rupert - If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
 - [Rob Eisenberg - A Few DOM Reminders](https://eisenbergeffect.medium.com/a-few-dom-reminders-2a0f18e40804)
@@ -1508,6 +1529,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Craig Kerstiens - When Did Postgres Become Cool?](https://www.crunchydata.com/blog/when-did-postgres-become-cool)
+- [Bowei Chen - Aggregation Placement — An Adaptive Query Optimization for Snowflake](https://medium.com/snowflake/aggregation-placement-an-adaptive-query-optimization-for-snowflake-ab1e2c6af2e4)
 - [Elastic - Unveiling Elasticsearch Query Language (ES|QL)](https://www.elastic.co/blog/elasticsearch-query-language-esql)
 - [Streamstone - Event store for Azure Table Storage](https://github.com/yevhen/Streamstone)
 - [The Hanselminutes Podcast - All the Performance with RavenDB's Oren Eini](https://hanselminutes.com/901/all-the-performance-with-ravendbs-oren-eini)
@@ -1711,6 +1734,10 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [D. G. Widder, S. West, M. Whittaker - Open (For Business): Big Tech, Concentrated Power, and the Political Economy of Open AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4543807)
+- [OpenAI - GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates)
+- [Yan Cui - Is AWS Bedrock the OpenAI killer?](https://www.youtube.com/watch?v=jxL5Zk12JUE)
+- [ArsTechnica - An Iowa school district is using ChatGPT to decide which books to ban](https://arstechnica.com/information-technology/2023/08/an-iowa-school-district-is-using-chatgpt-to-decide-which-books-to-ban/)
 - [Stack Overflow - Ask like a human: Implementing semantic search on Stack Overflow](https://stackoverflow.blog/2023/07/31/ask-like-a-human-implementing-semantic-search-on-stack-overflow)
 - [StackOverflow - Announcing OverflowAI](https://stackoverflow.blog/2023/07/27/announcing-overflowai/)
 - [AWS - Generative AI with Large Language Models (Free Course)](https://www.coursera.org/learn/generative-ai-with-llms)
@@ -1811,6 +1838,8 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [AWS - Introducing the vector engine for Amazon OpenSearch Serverless, now in preview](https://aws.amazon.com/blogs/big-data/introducing-the-vector-engine-for-amazon-opensearch-serverless-now-in-preview/)
+- [Renato Losio - Mountpoint for Amazon S3 Now GA to Access Bucket Like Local File System](https://www.infoq.com/news/2023/08/mountpoint-amazon-s3-ga)
 - [AWS - Announcing preview of JSON protocol support for Amazon SQS](https://aws.amazon.com/about-aws/whats-new/2023/07/json-protocol-support-amazon-sqs/)
 - [AJ Stuyvenberg - Understanding AWS Lambda Proactive Initialization](https://aaronstuyvenberg.com/posts/understanding-proactive-initialization)
 - [Yan Cui - A self-healing Lambda function that adapts its throughput based on performance](https://theburningmonk.com/2019/05/a-self-healing-kinesis-function-that-adapts-its-throughput-based-on-performance/)
@@ -1919,6 +1948,15 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Chris Woodruff - ASP.NET Web API Workshop](https://cwoodruff.github.io/web-api-workshop/)
+- [João Antunes - "Parse, don't validate" and other type safety driven shenanigans (plus a C# wishlist)](https://blog.codingmilitia.com/2023/08/17/parse-dont-validate-and-other-type-safety-driven-shenanigans-plus-a-csharp-wishlist/)
+- [Khalid Abuhakmeh - .NET 8 Interceptors](https://khalidabuhakmeh.com/dotnet-8-interceptors)
+- [Node API for .NET: JavaScript + .NET Interop - Advanced interoperability between .NET and JavaScript in the same process.](https://github.com/microsoft/node-api-dotnet)
+- [Oskar Dudycz, Jeremy D. Miller - Simplify your architecture with Wolverine](https://www.youtube.com/watch?v=b-rxOLzevqQ)
+- [Damien Bod - Securing APIs using ASP.NET Core and OAuth 2.0 DPoP](https://damienbod.com/2023/08/14/securing-apis-using-asp-net-core-and-oauth-2-0-dpop/)
+- [On .NET Live with James Hickey - Scheduling & Queuing Background Jobs In .NET With Coravel](https://www.youtube.com/watch?v=3HXTqHobo34)
+- [Dennis Frühauff - Best practices for OpenTelemetry in .NET](https://dateo-software.de/blog/improve-your-applications-observability-with-custom-health-checks)
+- [Daniel Cazzulino - SponsorLink: feedback and moving forward](https://www.cazzulino.com/sponsorlink-feedback.html)
 - [Sean Killeen - On Moq and our Part in the OSS Sustainability Social Contract](https://seankilleen.com/2023/08/on-moq-and-our-part-in-the-oss-sustainability-social-contract/)
 - [Jeremy D. Miller - Using Sql Server as a Message Queue with Wolverine](https://jeremydmiller.com/2023/08/13/using-sql-server-as-a-message-queue-with-wolverine)
 - [Aaron Stannard - We're Rewriting Sdkbin](https://aaronstannard.com/sdkbin-rewrite/)
@@ -2576,6 +2614,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Marta Firlej - Becoming More Assertive: How to Express Yourself, Give Feedback, and Set Boundaries](https://www.infoq.com/articles/becoming-more-assertive/)
+- [Hila Fox - How To Become a Go-To Person](https://medium.com/augury-research-and-development/how-to-become-a-go-to-person-1ab7a80f25f4)
 - [Danah Boyd - Deskilling on the Job](https://www.zephoria.org/thoughts/archives/2023/04/21/deskilling-on-the-job.html)
 - [Naval - You Won’t Get Rich Renting Out Your Time](https://nav.al/renting-time)
 - [Kelsey Hightower - Even the best rides come to an end](https://changelog.com/friends/6)
@@ -2814,6 +2854,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Cat Hicks - Sense of Belonging and Software Teams](https://www.drcathicks.com/post/sense-of-belonging-and-software-teams) 
+- [Dror Poleg - Remote Is Not Enough](https://www.drorpoleg.com/remote-is-not-enough/)
 - [Martin Fowler - TwoPizzaTeam](https://martinfowler.com/bliki/TwoPizzaTeam.html)
 - [Phil Calçado - Attention is All A Manager Needs](https://philcalcado.com/2023/07/21/attention_is_all_a_manager_needs.html)
 - [Aleix Morgadas - Interim Platform Team](https://learnings.aleixmorgadas.dev/p/interim-platform-team)
@@ -2917,6 +2959,9 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [Sam McAfee - The “One Big Customer” Trap](https://medium.com/startup-patterns/the-one-big-customer-trap-99b31311305a)
+- [Teresa Torres - Opportunity Solution Trees: Visualize Your Thinking](https://www.producttalk.org/opportunity-solution-tree/)
+- [Sarah Taraporewalla - Creating an integrated business and technology strategy](https://martinfowler.com/articles/creating-integrated-tech-strategy.html)
 - [Paweł Huryn - MVP: Everything You Need to Know. MVP vs. MMP vs. MLP](https://huryn.substack.com/p/mvp-everything-you-need-to-know-mvp)
 - [Domagoj Pavlešić - Sessionize: From idea to 100.000 speakers, and beyond!](https://www.youtube.com/watch?v=NuzCoPxedMU)
 - [Zalando - Discovering & launching products in Zalando SE by Stefano Rinaldi](https://www.linkedin.com/events/discovering-launchingproductsin7058105004435365888/comments/)
@@ -2936,6 +2981,9 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Piotr Przybył - Don't look at virtual threads, or else...!](https://softwaregarden.dev/en/posts/new-java/loom/dont-look-at-virtual-threads)
+- [Microsoft - Introducing Semantic Kernel for Java](https://devblogs.microsoft.com/semantic-kernel/introducing-semantic-kernel-for-java/)
+- [Krzysztof Ślusarski - JVM internals basics - Stop-the-world phase (safepoints) - how it works?](https://krzysztofslusarski.github.io/2020/11/13/stw.html)
 - [Billy Korando - To Java 21 and Beyond!](https://www.youtube.com/watch?v=470InxVt5es)
 - [A N M Bazlur Rahman - Preparing for JDK 21: A Comprehensive Overview of Key Features and Enhancements](https://foojay.io/today/preparing-for-jdk-21-a-comprehensive-overview-of-key-features-and-enhancements/)
 - [Marco Codes - How To Approach Dependency Management in Java](https://www.youtube.com/watch?v=6GJAjDcFHTo)
@@ -3119,6 +3167,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [SuperTest - Super-agent driven library for testing node.js HTTP servers using a fluent API](https://github.com/ladjs/supertest)
 - [Turbo - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. ](https://github.com/vercel/turbo)
 - [Fast Node Manager (fnm) -  Fast and simple Node.js version manager, built in Rust](https://github.com/Schniz/fnm)
 - [LogRocket - WebSockets tutorial: How to go real-time with Node and React](https://blog.logrocket.com/websocket-tutorial-real-time-node-react/)
@@ -3227,6 +3276,7 @@
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
 
 ## Python
+- [Microsoft - Announcing Python in Excel: Combining the power of Python and the flexibility of Excel.](https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439)
 - [KDNuggets - Pandas AI: The Generative AI Python Library](https://www.kdnuggets.com/2023/05/pandas-ai-generative-ai-python-library.html)
 - [Szymon Miks - How to test an API request to the external system](https://blog.szymonmiks.pl/p/how-to-test-an-api-request-to-the-external-system/)
 - [RaySQL - Distributed SQL Query Engine in Python using Ray](https://github.com/datafusion-contrib/ray-sql)
@@ -3291,6 +3341,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Reuters - South Korea to toughen punishments for technology leaks in chips, displays](https://www.reuters.com/technology/south-korea-toughen-punishments-technology-leaks-chips-displays-2023-08-28)
+- [The Guardian - How can you tell remote work is over? Zoom has ordered employees back to the office](https://www.theguardian.com/commentisfree/2023/aug/08/remote-work-over-zoom-ordered-employees-back-to-office)
+- [CNBC - Amazon is seeing some employees quit instead of moving to a new state as part of relocation mandate](https://www.cnbc.com/2023/08/22/amazon-employees-are-quitting-after-they-were-told-to-relocate-states.html)
 - [The Register - Germany to subsidize Intel €10B for 'Silicon Junction' fab](https://www.theregister.com/2023/06/19/germany_to_subsidize_intel_10bn/)
 - [Reuters - Intel spends $33 billion in Germany in landmark expansion](https://www.reuters.com/technology/berlin-sign-agreement-with-intel-after-chip-plant-talks-2023-06-19/)
 - [HashiCorp - HashiCorp adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)
@@ -3669,6 +3722,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Michael Bahr - Your OIDC Deployments From Public Repositories May Be At Risk](https://bahr.dev/2023/08/23/secure-oidc-public-github-repos/)
+- [MIT Technology Review - China is escalating its war on kids’ screen time](https://www.technologyreview.com/2023/08/09/1077567/china-children-screen-time-regulation/)
 - [Independent - Bots are better than humans at cracking ‘Are you a robot?’ Captcha tests, study finds](https://www.independent.co.uk/tech/captcha-test-bots-better-humans-b2389998.html)
 - [OpenAI - Disabling GPTBot](https://platform.openai.com/docs/gptbot/disallowing-gptbot)
 - [Microsoft - Microsoft comes under blistering criticism for “grossly irresponsible” security](https://arstechnica.com/security/2023/08/microsoft-cloud-security-blasted-for-its-culture-of-toxic-obfuscation)
@@ -3839,6 +3894,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [INNOQ Deutschland mourns the loss of its co-founder and CEO, Stefan Tilkov](https://www.innoq.com/en/stefan-tilkov/)
 - [Heather Downing - Imposter Syndrome: Overcoming Self-Doubt in Success](https://www.youtube.com/watch?v=atYHKU0VJQE)
 - [The Washington Post - Kevin Mitnick, hacker and fugitive turned security consultant, dies at 59](https://www.washingtonpost.com/obituaries/2023/07/20/kevin-mitnick-hacker-dies/)
 - [Paul Graham - How to Do Great Work](http://paulgraham.com/greatwork.html)
