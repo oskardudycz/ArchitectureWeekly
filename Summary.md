@@ -59,6 +59,13 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - My journey from Aggregates to Functional Composition](https://event-driven.io/en/my_journey_from_aggregates/?utm_source=architecture_weekly)
+- [Virtual DDD - Fireside chat: Orchestration and choreography with Laila Bougria & Udi Dahan](https://go.particular.net/oskardudycz/firesidechat)
+- [Colm MacCárthaigh - Workload isolation using shuffle-sharding](https://aws.amazon.com/builders-library/workload-isolation-using-shuffle-sharding/)
+- [Kevin Hoffman - Documentation-First Event Sourcing with Concordance, wasmCloud, and Event Catalog](https://cosmonic.com/blog/engineering/document-first-development-es)
+- [Yan Cui - Hexagonal architecture: the what, why and when?](https://www.youtube.com/watch?v=qGp66Oc3zTg)
+- [Dariusz Gafka - YOLO Message-Driven Architecture](https://blog.devgenius.io/yolo-message-driven-architecture-e97a26392709)
+- [Domain Driven Design United States - Launch Final](https://www.youtube.com/watch?v=Sl_CZD7Qo5A)
 - [Oskar Dudycz - Event transformations, a tool to keep our processes loosely coupled](https://event-driven.io/en/event_transformations_and_loosely_coupling/)
 - [Vivek Juneja - In the shoes of Nick Tune and David Gebhardt to talk about Architecture Modernization](https://www.youtube.com/watch?v=7jjSi-tWkQw)
 - [Software Engineering Radio - Casey Muratori on Clean Code, Horrible Performance?](https://www.se-radio.net/2023/08/se-radio-577-casey-muratori-on-clean-code-horrible-performance/)
@@ -1107,6 +1114,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Netflix - Zero Configuration Service Mesh with On-Demand Cluster Discovery](https://netflixtechblog.com/zero-configuration-service-mesh-with-on-demand-cluster-discovery-ac6483b52a51)
 - [OpenTF - The OpenTF Manifesto](https://opentf.org/)
 - [Oskar Dudycz - A simple way to configure integration tests pipeline](https://event-driven.io/en/configure_ci_for_integration_tests/?utm_source=architecture_weekly)
 - [Netflix - Ensuring the Successful Launch of Ads on Netflix](https://netflixtechblog.com/ensuring-the-successful-launch-of-ads-on-netflix-f99490fdf1ba)
@@ -1299,6 +1307,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Josh Comeau - Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
 - [Theo - The Truth About HTMX](https://www.youtube.com/watch?v=NA5Fcgs_viU)
 - [Kevin Mas Ruiz - The conjunction of the web](https://dev.to/kmruiz/the-conjunction-of-the-web-2anf)
 - [ThePrimeTime - The Truth About HTMX](https://www.youtube.com/watch?v=2hMrk7A8Wf0)
@@ -1746,6 +1755,8 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [Microsoft - Microsoft announces new Copilot Copyright Commitment for customers](https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/)
+- [Jessica Kerr - A Developer’s Starting Point for Integrating with LLMs](https://jessitron.com/2023/09/04/a-developers-guide-to-integrating-with-llms/)
 - [TechCrunch - OpenAI launches a ChatGPT plan for enterprise customers](https://techcrunch.com/2023/08/28/openai-launches-a-chatgpt-plan-for-enterprise-customers)
 - [Stephen King - My Books Were Used to Train AI](https://www.theatlantic.com/books/archive/2023/08/stephen-king-books-ai-writing/675088/)
 - [D. G. Widder, S. West, M. Whittaker - Open (For Business): Big Tech, Concentrated Power, and the Political Economy of Open AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4543807)
@@ -1852,6 +1863,8 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [AWS - AWS Step Functions launches enhanced error handling](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-step-functions-enhanced-error-handling/)
+- [Yan Cui - Step Functions: combine Standard and Express workflows for fun & profit](https://theburningmonk.com/2023/09/combine-standard-and-express-workflows-for-fun-profit/)
 - [AWS - Introducing the vector engine for Amazon OpenSearch Serverless, now in preview](https://aws.amazon.com/blogs/big-data/introducing-the-vector-engine-for-amazon-opensearch-serverless-now-in-preview/)
 - [Renato Losio - Mountpoint for Amazon S3 Now GA to Access Bucket Like Local File System](https://www.infoq.com/news/2023/08/mountpoint-amazon-s3-ga)
 - [AWS - Announcing preview of JSON protocol support for Amazon SQS](https://aws.amazon.com/about-aws/whats-new/2023/07/json-protocol-support-amazon-sqs/)
@@ -1894,6 +1907,8 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Tomasz Pęczek - Deploying a Dapr Sidecar to Azure Container Instances](https://www.tpeczek.com/2023/09/deploying-dapr-sidecar-to-azure.html)
+- [Microsoft - Introducing a New Flexible Way of Bringing Identities from Any Source into Microsoft Entra ID!](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-a-new-flexible-way-of-bringing-identities-from-any/ba-p/2466927)
 - [Thomas Maurer - Prepare your Azure Cloud Environment with the Cloud Adoption Framework](https://www.thomasmaurer.ch/2023/07/prepare-your-azure-cloud-environment-with-the-cloud-adoption-framework/)
 - [Tomasz Pęczek - DevOps Practices for Azure Infrastructure - Continuous Delivery & Continuous Deployment](https://www.tpeczek.com/2023/06/devops-practices-for-azure_27.html)
 - [Microsoft - Announcing Azure Monitor OpenTelemetry Distro](https://devblogs.microsoft.com/dotnet/azure-monitor-opentelemetry-distro/)
@@ -1963,6 +1978,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [João Antunes - Observing .NET microservices with OpenTelemetry - logs, traces and metrics](https://blog.codingmilitia.com/2023/09/05/observing-dotnet-microservices-with-opentelemetry-logs-traces-metrics/)
+- [FluentDocker - Use docker, docker-compose local and remote in tests and your .NET core/full framework apps via a FluentAPI ](https://github.com/mariotoffia/FluentDocker)
+- [Jimmy Bogard - Tales from the .NET Migration Trenches - Empty Proxy](https://www.jimmybogard.com/tales-from-the-net-migration-trenches-empty-proxy/)
+- [Oren Eini - Not all O(1) operations are considered equal](https://ayende.com/blog/200033-B/not-all-o-1-operations-are-considered-equal)
 - [Microsoft - Visual Studio for Mac Retirement Announcement](https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-retirement-announcement)
 - [Tim Deschryver - Implementing a Feature Flag-based Endpoint Filter](https://timdeschryver.dev/blog/implementing-a-feature-flag-based-endpoint-filter?trk=feed_main-feed-card_feed-article-content)
 - [Khalid Abuhakmeh - .NET 8 AOT Support with Database Access](https://github.com/khalidabuhakmeh/native-aot-dotnet-eight)
@@ -2634,6 +2653,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Emily Bache - REFACTORING: What You Need To Know | Guided Learning Hour](https://www.youtube.com/watch?v=K7xSsNpeM8I)
 - [CodeOpinion - How I became a software architect... (or not)](https://www.youtube.com/watch?v=6j-PyJ1tFn8)
 - [Jeremy D. Miller - How I started in software development](https://jeremydmiller.com/2023/09/01/how-i-started-in-software-development/)
 - [Marta Firlej - Becoming More Assertive: How to Express Yourself, Give Feedback, and Set Boundaries](https://www.infoq.com/articles/becoming-more-assertive/)
@@ -2876,6 +2896,12 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Harward Business Review - How to Build a Blameless Work Culture](https://hbr.org/2023/05/how-to-build-a-blameless-work-culture)
+- [Dave Farley - My Response To The NONSENSE McKinsey Article On Developer Productivity](https://www.youtube.com/watch?v=yuUBZ1pByzM)
+- [Dan North - The Worst Programmer I Know](https://dannorth.net/2023/09/02/the-worst-programmer/)
+- [Kent Beck - Measuring developer productivity? A response to McKinsey, Part 2](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity-part-2)
+- [Gergely Orosz - Measuring developer productivity? A response to McKinsey 2](https://tidyfirst.substack.com/p/measuring-developer-productivity-440)
+- [Dan North - Blink Estimation](https://dannorth.net/2013/08/08/blink-estimation/)
 - [McKinsey - Yes, you can measure software developer productivity](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/yes-you-can-measure-software-developer-productivity)
 - [Gergely Orosz - Measuring developer productivity? A response to McKinsey](https://tidyfirst.substack.com/p/measuring-developer-productivity)
 - [Kent Beck - Measuring developer productivity? A response to McKinsey](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity)
@@ -2985,6 +3011,7 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [Jason Cohen - Never say “no,” but rarely say “yes.”](https://longform.asmartbear.com/say-yes/)
 - [Sam McAfee - The “One Big Customer” Trap](https://medium.com/startup-patterns/the-one-big-customer-trap-99b31311305a)
 - [Teresa Torres - Opportunity Solution Trees: Visualize Your Thinking](https://www.producttalk.org/opportunity-solution-tree/)
 - [Sarah Taraporewalla - Creating an integrated business and technology strategy](https://martinfowler.com/articles/creating-integrated-tech-strategy.html)
@@ -3007,6 +3034,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Heinz M. Kabutz - Virtual Threads and Parallel Streams](https://www.javaspecialists.eu/archive/Issue311-Virtual-Threads-and-Parallel-Streams.html)
 - [Spring - Tackling the OAuth2 Client component model in Spring Security](https://spring.io/blog/2023/08/22/tackling-the-oauth2-client-component-model-in-spring-security)
 - [Piotr Przybył - Don't look at virtual threads, or else...!](https://softwaregarden.dev/en/posts/new-java/loom/dont-look-at-virtual-threads)
 - [Microsoft - Introducing Semantic Kernel for Java](https://devblogs.microsoft.com/semantic-kernel/introducing-semantic-kernel-for-java/)
@@ -3125,6 +3153,9 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
 ## JavaScript
+- [Bun - Bun 1.0 released](https://bun.sh/blog/bun-v1.0)
+- [Snyk - Node.js vs. Deno vs. Bun: JavaScript runtime comparison](https://snyk.io/blog/javascript-runtime-compare-node-deno-bun/)
+- [Theo - Bun Is Better Than I Hoped](https://www.youtube.com/watch?v=dQkv5C-Lfkw)
 - [JavaScript Mastery - Next.js 13 Full Course 2023](https://www.youtube.com/watch?v=wm5gMKuwSYk)
 - [Codevolution - Next.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH)
 - [Astro - The all-in-one web framework designed for speed](https://github.com/withastro/astro)
@@ -3323,6 +3354,7 @@
 - [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
 
 ## Rust
+- [GitHub - Why Rust is the most admired language among developers](https://github.blog/2023-08-30-why-rust-is-the-most-admired-language-among-developers)
 - [Jonathan Turner - Why I left Rust](https://www.jntrnr.com/why-i-left-rust/)
 - [Nick Cameron - Rust in 2023](https://www.ncameron.org/blog/rust-in-2023/)
 - [Armin Ronacher - A Better Way to Borrow in Rust: Stack Tokens](https://lucumr.pocoo.org/2022/11/23/stack-tokens/)
@@ -3754,6 +3786,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Octa - We're Living in a Passwordless World](https://developer.okta.com/blog/2023/08/30/passwordless-authentication)
 - [Michael Bahr - Your OIDC Deployments From Public Repositories May Be At Risk](https://bahr.dev/2023/08/23/secure-oidc-public-github-repos/)
 - [MIT Technology Review - China is escalating its war on kids’ screen time](https://www.technologyreview.com/2023/08/09/1077567/china-children-screen-time-regulation/)
 - [Independent - Bots are better than humans at cracking ‘Are you a robot?’ Captcha tests, study finds](https://www.independent.co.uk/tech/captcha-test-bots-better-humans-b2389998.html)
