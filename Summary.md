@@ -2857,7 +2857,7 @@
 - [Kevlin Henney - 1968](https://www.youtube.com/watch?app=desktop&v=J1aUhAxfjy8)
 - [Chris Allen - Why Johnny Can't Code Good](https://www.youtube.com/watch?v=2xyZeovFqCA)
 - [Emily Bache - Proportion of Women Programmers](https://coding-is-like-cooking.info/2017/04/proportion-of-women-programmers/)
-- [Ardalis - New Software Project Checklist](https://ardalis.com/new-software-project-checklist/)
+- [Steve "Ardalis" Smith - New Software Project Checklist](https://ardalis.com/new-software-project-checklist/)
 - [Patrick McKenzie - Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 - [Cyrille Martraire - Interviewing Domain Experts: Heuristics from the trenches](https://vimeo.com/167722763)
 - [Nick Tune - The Importance of a Great Developer Experience](https://medium.com/nick-tune-tech-strategy-blog/the-importance-of-a-great-developer-experience-40567abc0e9a)
