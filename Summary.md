@@ -59,6 +59,13 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Oops I did it again, or how to update past data in Event Sourcing](https://event-driven.io/en/how_to_update_past_data_in_event_sourcing/?utm_source=architecture_weekly)
+- [Yves Reynhout - The Workflow Pattern](https://blog.bittacklr.be/the-workflow-pattern.html)
+- [Ryan Shriver - Domain-Driven Cloud: Aligning Your Cloud Architecture to Your Business Model](https://www.infoq.com/articles/domain-driven-cloud/)
+- [Derek Comartin - Alternative to the Outbox Pattern? Not so fast](https://www.youtube.com/watch?v=cuQ9zuNF1cI)
+- [Mark Schwartz - Everyone is Busy: Who Has Time to Transform?](https://aws.amazon.com/blogs/enterprise-strategy/everyone-is-busy-who-has-time-to-transform/)
+- [Alex Russell - A Management Maturity Model for Performance](https://infrequently.org/2022/05/performance-management-maturity/)
+- [Rob Eisenberg - Yo Ho Ho and a Bottle of RUM](https://eisenbergeffect.medium.com/yo-ho-ho-and-a-bottle-of-rum-39d0d5b2ed24)
 - [Humble Bundle - Software Architecture O'Reilly book bundle](https://www.humblebundle.com/books/software-architecture-oreilly-books)
 - [D4Debugging - Application Caching Strategies](https://dfordebugging.wordpress.com/2022/08/17/database-caching-strategies/)
 - [The InfoQ Pocast- Roi Ravhon on FinOps, Application Unit Economics, and Cloud Cost Optimization](https://www.infoq.com/podcasts/finops-cloud-cost-optimization)
@@ -1120,6 +1127,10 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Seth Eliot - Any Day Can Be Prime Day: How Amazon.com Search Uses Chaos Engineering to Handle Over 84K Requests Per Second](https://community.aws/posts/how-search-uses-chaos-engineering)
+- [GitLab - 2023 Global DevSecOps Report](https://learn.gitlab.com/devsecops-survey-2023)
+- [ChartMuseum - an open-source, easy to deploy, Helm Chart Repository server](https://chartmuseum.com/)
+
 - [Octopus Deploy - Measuring Continuous Delivery and DevOps](https://i.octopus.com/whitepapers/measuring-continuous-delivery.pdf)
 - [Netflix - Zero Configuration Service Mesh with On-Demand Cluster Discovery](https://netflixtechblog.com/zero-configuration-service-mesh-with-on-demand-cluster-discovery-ac6483b52a51)
 - [OpenTF - The OpenTF Manifesto](https://opentf.org/)
@@ -1768,6 +1779,7 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [HuggingFace - Red-Teaming Large Language Models](https://huggingface.co/blog/red-teaming)
 - [InfoQ - AI, ML, and Data Engineering InfoQ Trends Report - September 2023](https://www.infoq.com/articles/ai-ml-data-engineering-trends-2023/)
 - [P. Covington, J. Adams, E. Sargin - Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
 - [Elaine Atwell - GitHub Copilot Isn't Worth the Risk](https://www.kolide.com/blog/github-copilot-isn-t-worth-the-risk)
@@ -1995,6 +2007,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jeremy D. Miller - Wolverine Expands its Multi-Tenancy Story to HTTP](https://jeremydmiller.com/2023/09/24/wolverine-expands-its-multi-tenancy-story-to-http/)
+- [Maarten Balliauw - Discriminated Unions in C#](https://blog.maartenballiauw.be/post/2023/09/18/discriminated-unions-in-csharp.html)
+- [Michal Strehovsky - Reverse engineering natively-compiled .NET apps](https://migeel.sk/blog/2023/09/15/reverse-engineering-natively-compiled-dotnet-apps/)
+- [Andrew Lock - Introducing the Identity API endpoints](https://andrewlock.net/exploring-the-dotnet-8-preview-introducing-the-identity-api-endpoints/)
 - [Maciej Jędrzejewski, Kamil Bączek - Evolutionary Architecture](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)
 - [Steven Giesel - struct vs readonly struct vs ref struct vs record struct](https://steven-giesel.com/blogPost/2a52cd8d-b3b2-42e4-87e8-d6dc14147ddb)
 - [Marina Sundström - The anatomy of an ASP.NET Core app](https://www.sundstrom.dev/articles/the-anatomy-of-an-aspnetcore-app)
@@ -2674,6 +2690,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Arslan Ahmad - Mastering the System Design Interview: A Complete Guide](https://www.designgurus.io/blog/Mastering-the-System-Design-Interview-Complete-Guide)
+- [Atlassian - Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 - [Oskar Dudycz - Architecture Weekly became the Substack Bestseller!](https://www.architecture-weekly.com/p/architecture-weekly-became-the-substack)
 - [The Wall Street Journal - Try Hard, but Not That Hard. 85% Is the Magic Number for Productivity](https://www.wsj.com/lifestyle/workplace/try-hard-but-not-that-hard-85-is-the-magic-number-for-productivity-6b5aa875)
 - [Uwe Friedrichsen - Forget efficiency](https://www.ufried.com/blog/efficiency_vs_effectiveness/)
@@ -2920,6 +2938,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Aaron Stannard - Internal vs. External Accountabilities](https://aaronstannard.com/internal-vs-external-accountabilities)
+- [Jordan Cutler - Influence: Lessons from a Staff Engineer and ex-Twitter 8-year Tech Lead](https://careercutler.substack.com/p/influence-lessons-from-a-staff-engineer)
 - [Harward Business Review - How to Build a Blameless Work Culture](https://hbr.org/2023/05/how-to-build-a-blameless-work-culture)
 - [Dave Farley - My Response To The NONSENSE McKinsey Article On Developer Productivity](https://www.youtube.com/watch?v=yuUBZ1pByzM)
 - [Dan North - The Worst Programmer I Know](https://dannorth.net/2023/09/02/the-worst-programmer/)
@@ -3059,6 +3079,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Inside Java - The Arrival of Java 21!](https://inside.java/2023/09/19/the-arrival-of-java-21/)
+- [Per Minborg - Java Records are "Trusted" and Consequently Faster](https://minborgsjavapot.blogspot.com/2023/09/java-records-are-trusted-and.html)
 - [Artur Skowroński - What is the future of Java in today’s enterprise?](https://virtuslab.com/blog/what-is-the-future-of-java-in-todays-enterprise)
 - [Heinz M. Kabutz - Virtual Threads and Parallel Streams](https://www.javaspecialists.eu/archive/Issue311-Virtual-Threads-and-Parallel-Streams.html)
 - [Spring - Tackling the OAuth2 Client component model in Spring Security](https://spring.io/blog/2023/08/22/tackling-the-oauth2-client-component-model-in-spring-security)
@@ -3179,6 +3201,7 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
 ## JavaScript
+- [Matteo Collina - My thoughts on Bun and other Adventures](https://adventures.nodeland.dev/archive/my-thoughts-on-bun)
 - [Bun - Bun 1.0 released](https://bun.sh/blog/bun-v1.0)
 - [Snyk - Node.js vs. Deno vs. Bun: JavaScript runtime comparison](https://snyk.io/blog/javascript-runtime-compare-node-deno-bun/)
 - [Theo - Bun Is Better Than I Hoped](https://www.youtube.com/watch?v=dQkv5C-Lfkw)
@@ -3381,6 +3404,7 @@
 - [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
 
 ## Rust
+- [JetBrains - Introducing RustRover – A Standalone Rust IDE by JetBrains](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
 - [GitHub - Why Rust is the most admired language among developers](https://github.blog/2023-08-30-why-rust-is-the-most-admired-language-among-developers)
 - [Jonathan Turner - Why I left Rust](https://www.jntrnr.com/why-i-left-rust/)
 - [Nick Cameron - Rust in 2023](https://www.ncameron.org/blog/rust-in-2023/)
@@ -3429,6 +3453,10 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [The Street - Salesforce CEO takes another bold stand on remote work](https://www.thestreet.com/investing/salesforce-ceo-bold-stand-on-remote-work)
+- [IEEE Spectrum - The Top Programming Languages 2023, Python and SQL are on top, but old languages shouldn’t be forgotten](https://spectrum.ieee.org/the-top-programming-languages-2023)
+- [ArsTechnica - Linux gives up on 6-year LTS kernels, says they’re too much work](https://arstechnica.com/gadgets/2023/09/linux-gives-up-on-6-year-lts-thats-fine-for-pcs-bad-for-android/)
+- [phoronix - The Maintainer Of The NVIDIA Open-Source "Nouveau" Linux Kernel Driver Resigns](https://www.phoronix.com/news/Nouveau-Maintainer-Resigns)
 - [Unity - Unity plan pricing and packaging updates](https://blog.unity.com/news/plan-pricing-and-packaging-updates)
 - [Game Developer - The Death of Unity](https://www.gamedeveloper.com/business/the-death-of-unity#close-modal)
 - [ArsTechnica - Wait, is Unity allowed to just change its fee structure like that?](https://arstechnica.com/gaming/2023/09/wait-is-unity-allowed-to-just-change-its-fee-structure-like-that/)
@@ -3733,6 +3761,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Free for Developers - This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers](https://free-for.dev)
 - [HyperSwitch - An Open Source Financial Switch to make Payments fast, reliable and affordable](https://github.com/juspay/hyperswitch)
 - [GitHub - GitHub code search is generally available](https://github.blog/2023-05-08-github-code-search-is-generally-available/)
 - [Fusuma - A tool that makes slides with Markdown easily](https://github.com/hiroppy/fusuma)
@@ -3818,6 +3847,10 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [The Record - Microsoft accidentally exposed 38 terabytes of data from employee workstations](https://therecord.media/microsoft-exposed-terabytes-of-data)
+- [ZDNet- Microsoft's CISO: Why we're trying to banish passwords forever](https://www.zdnet.com/article/microsofts-ciso-why-were-trying-to-banish-passwords-forever/)
+- [GitHub - Passkeys are generally available](https://github.blog/2023-09-21-passkeys-are-generally-available/)
+- [The Web SSO Standard OpenID Connect: In-Depth Formal Security Analysis and Security Guidelines](https://publ.sec.uni-stuttgart.de/fettkuestersschmitz-csf-2017.pdf)
 - [ArsTechnica - Microsoft finally explains cause of Azure breach: An engineer’s account was hacked](https://arstechnica.com/security/2023/09/hack-of-a-microsoft-corporate-account-led-to-azure-breach-by-chinese-hackers)
 - [authentik - An open-source Identity Provider that emphasizes flexibility and versatility](https://github.com/goauthentik/authentik)
 - [Kristina Yasuda, Torsten Lodderstedt - OpenID for Verifiable Presentations](https://www.youtube.com/watch?v=X338-FyvvCY)
