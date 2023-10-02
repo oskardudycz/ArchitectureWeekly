@@ -1,6 +1,6 @@
 # Upcoming Links
 
-## 2nd October 2023
+## 9th October 2023
 
 **[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
@@ -9,56 +9,3 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ### Architecture
-- [Oskar Dudycz - Is the Strategy Pattern an ultimate solution for low coupling?](https://event-driven.io/en/is_strategy_pattern_an_ultimate_solution_for_low_coupling/?utm_source=architecture_weekly)
-- [Engineering at Meta - Scaling the Instagram Explore recommendations system](https://engineering.fb.com/2023/08/09/ml-applications/scaling-instagram-explore-recommendations-system/)
-- [Eric Evans - DDD and Microservices: At Last, Some Boundaries!](https://www.infoq.com/presentations/ddd-microservices-2016/)
-- [Tomas Ekeli - On microservices](https://www.eke.li/architecture/2023/09/30/on-microservices.html)
-- [Mauro Servienti - Append-only models: The why, the when, and the how](https://milestone.topics.it/2023/09/22/append-only.html?trk=feed_main-feed-card_feed-article-content)
-
-### DevOps
-- [Rover - Interactive Terraform visualization. State and configuration explorer](https://github.com/im2nguyen/rover)
-- [CloudNativePG - A Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication ](https://github.com/cloudnative-pg/cloudnative-pg)
-
-### AI
-- [Google - Pair Programming with a Large Language Model Free Online Course](https://www.deeplearning.ai/short-courses/pair-programming-llm/)
-
-### AWS
-- [Yan Cui - Is Bun the Next Big Thing for AWS Lambda? A Thorough Investigation](https://lumigo.io/blog/is-bun-the-next-big-thing-for-aws-lambda-a-thorough-investigation)
-- [AWS - Give Your Graph Workload a Cost-Performance Boost with Neo4j and AWS Graviton](https://aws.amazon.com/blogs/apn/give-your-graph-workload-a-cost-performance-boost-with-neo4j-and-aws-graviton)
-
-### Azure
-- [Troy Hunt - How to get your SSL for free on a Shared Azure website with CloudFlare](https://www.troyhunt.com/how-to-get-your-ssl-for-free-on-shared)
-
-### Java
-- [Piotr Przybył - Java 21™ What's new and noteworthy?](https://www.youtube.com/watch?v=Om8dIt3cJIU)
-- [Oracle - Introducing GraalOS](https://blogs.oracle.com/java/post/introducing-graalos)
-- [Johannes Bechberger - C2 might slow down your builds](https://mostlynerdless.de/blog/2023/09/25/c2-might-slow-down-your-builds/)
-
-### .NET
-- [Jeremy D. Miller - Wolverine Interoperability with Others](https://jeremydmiller.com/2023/09/27/wolverine-interoperability-with-others/)
-- [Ian Russell - Testing C# with F#](https://ijrussell.github.io/posts/testing-csharp-with-fsharp/)
-- [Andrew Poole - Async method chaining in C#](https://medium.com/clearbank/async-method-chaining-in-c-8f15d162bcee)
-- [Whaally.Domain - An orchestrator of core-domains, facilitating the abstraction of infrastructure, for a scalable domain model](https://github.com/Whaally/Domain)
-
-### Tools
-- [Zach Leatherman - Which Generator builds Markdown the fastest?](https://www.zachleat.com/web/build-benchmark/)
-
-### Coding Life
-- [Cloudflare - We rebuilt Cloudflare's developer documentation - here's what we learned](https://blog.cloudflare.com/new-dev-docs/)
-
-### Management
-- [David D. Woods - The Strategic Agility Gap: How Organizations Are Slow and Stale to Adapt in Turbulent Worlds](https://link.springer.com/chapter/10.1007/978-3-030-25639-5_11)
-- [Jerry Neumann - Your Board of Directors is Probably Going to Fire You](https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html)
-
-### Product Design
-- [Lenny's Newsletter - How Linear builds product](https://www.lennysnewsletter.com/p/how-linear-builds-product)
-
-### Industry
-- [U.S. Department of Justice - Justice Department Sues Google for Monopolizing Digital Advertising Technologies](https://www.justice.gov/opa/pr/justice-department-sues-google-monopolizing-digital-advertising-technologies)
-- [Federate Trade Commision - FTC Sues Amazon for Illegally Maintaining Monopoly Power](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power)
-- [CNBC - Apple exec Eddy Cue set to testify in Google trial about $19 billion search deal](https://www.cnbc.com/2023/09/26/apple-exec-eddy-cue-testify-google-trial-about-19-billion-search-deal.html)
-- [CNBC - Cloud stocks falter as Datadog trims 2023 revenue expectations](https://www.cnbc.com/2023/08/08/cloud-stocks-falter-as-datadog-trims-2023-revenue-expectations.html)
-
-### Security
-- [TechRepublic - White Hat Hackers Discover Microsoft Leak of 38TB of Internal Data Via Azure Storage](https://www.techrepublic.com/article/microsoft-internal-data-leak-azure/)
-- [TheRegister - Probe reveals previously secret Israeli spyware that infects targets via ads](https://www.theregister.com/2023/09/16/insanet_spyware/)

@@ -59,6 +59,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Is the Strategy Pattern an ultimate solution for low coupling?](https://event-driven.io/en/is_strategy_pattern_an_ultimate_solution_for_low_coupling/?utm_source=architecture_weekly)
+- [Engineering at Meta - Scaling the Instagram Explore recommendations system](https://engineering.fb.com/2023/08/09/ml-applications/scaling-instagram-explore-recommendations-system/)
+- [Eric Evans - DDD and Microservices: At Last, Some Boundaries!](https://www.infoq.com/presentations/ddd-microservices-2016/)
+- [Tomas Ekeli - On microservices](https://www.eke.li/architecture/2023/09/30/on-microservices.html)
+- [Mauro Servienti - Append-only models: The why, the when, and the how](https://milestone.topics.it/2023/09/22/append-only.html?trk=feed_main-feed-card_feed-article-content)
 - [Oskar Dudycz - Oops I did it again, or how to update past data in Event Sourcing](https://event-driven.io/en/how_to_update_past_data_in_event_sourcing/?utm_source=architecture_weekly)
 - [Yves Reynhout - The Workflow Pattern](https://blog.bittacklr.be/the-workflow-pattern.html)
 - [Ryan Shriver - Domain-Driven Cloud: Aligning Your Cloud Architecture to Your Business Model](https://www.infoq.com/articles/domain-driven-cloud/)
@@ -1127,6 +1132,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Rover - Interactive Terraform visualization. State and configuration explorer](https://github.com/im2nguyen/rover)
+- [CloudNativePG - A Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication ](https://github.com/cloudnative-pg/cloudnative-pg)
 - [Seth Eliot - Any Day Can Be Prime Day: How Amazon.com Search Uses Chaos Engineering to Handle Over 84K Requests Per Second](https://community.aws/posts/how-search-uses-chaos-engineering)
 - [GitLab - 2023 Global DevSecOps Report](https://learn.gitlab.com/devsecops-survey-2023)
 - [ChartMuseum - an open-source, easy to deploy, Helm Chart Repository server](https://chartmuseum.com/)
@@ -1779,6 +1786,7 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [Google - Pair Programming with a Large Language Model Free Online Course](https://www.deeplearning.ai/short-courses/pair-programming-llm/)
 - [HuggingFace - Red-Teaming Large Language Models](https://huggingface.co/blog/red-teaming)
 - [InfoQ - AI, ML, and Data Engineering InfoQ Trends Report - September 2023](https://www.infoq.com/articles/ai-ml-data-engineering-trends-2023/)
 - [P. Covington, J. Adams, E. Sargin - Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
@@ -1891,6 +1899,8 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Yan Cui - Is Bun the Next Big Thing for AWS Lambda? A Thorough Investigation](https://lumigo.io/blog/is-bun-the-next-big-thing-for-aws-lambda-a-thorough-investigation)
+- [AWS - Give Your Graph Workload a Cost-Performance Boost with Neo4j and AWS Graviton](https://aws.amazon.com/blogs/apn/give-your-graph-workload-a-cost-performance-boost-with-neo4j-and-aws-graviton)
 - [AWS - AWS Step Functions launches enhanced error handling](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-step-functions-enhanced-error-handling/)
 - [Yan Cui - Step Functions: combine Standard and Express workflows for fun & profit](https://theburningmonk.com/2023/09/combine-standard-and-express-workflows-for-fun-profit/)
 - [AWS - Introducing the vector engine for Amazon OpenSearch Serverless, now in preview](https://aws.amazon.com/blogs/big-data/introducing-the-vector-engine-for-amazon-opensearch-serverless-now-in-preview/)
@@ -1935,6 +1945,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Troy Hunt - How to get your SSL for free on a Shared Azure website with CloudFlare](https://www.troyhunt.com/how-to-get-your-ssl-for-free-on-shared)
 - [Microsoft - What is a multi-tenant organization in Azure Active Directory?](https://learn.microsoft.com/en-us/azure/active-directory/multi-tenant-organizations/multi-tenant-organization-overview)
 - [Tomasz Pęczek - Deploying a Dapr Sidecar to Azure Container Instances](https://www.tpeczek.com/2023/09/deploying-dapr-sidecar-to-azure.html)
 - [Microsoft - Introducing a New Flexible Way of Bringing Identities from Any Source into Microsoft Entra ID!](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/introducing-a-new-flexible-way-of-bringing-identities-from-any/ba-p/2466927)
@@ -2007,6 +2018,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jeremy D. Miller - Wolverine Interoperability with Others](https://jeremydmiller.com/2023/09/27/wolverine-interoperability-with-others/)
+- [Ian Russell - Testing C# with F#](https://ijrussell.github.io/posts/testing-csharp-with-fsharp/)
+- [Andrew Poole - Async method chaining in C#](https://medium.com/clearbank/async-method-chaining-in-c-8f15d162bcee)
+- [Whaally.Domain - An orchestrator of core-domains, facilitating the abstraction of infrastructure, for a scalable domain model](https://github.com/Whaally/Domain)
 - [Jeremy D. Miller - Wolverine Expands its Multi-Tenancy Story to HTTP](https://jeremydmiller.com/2023/09/24/wolverine-expands-its-multi-tenancy-story-to-http/)
 - [Maarten Balliauw - Discriminated Unions in C#](https://blog.maartenballiauw.be/post/2023/09/18/discriminated-unions-in-csharp.html)
 - [Michal Strehovsky - Reverse engineering natively-compiled .NET apps](https://migeel.sk/blog/2023/09/15/reverse-engineering-natively-compiled-dotnet-apps/)
@@ -2690,6 +2705,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Cloudflare - We rebuilt Cloudflare's developer documentation - here's what we learned](https://blog.cloudflare.com/new-dev-docs/)
 - [Arslan Ahmad - Mastering the System Design Interview: A Complete Guide](https://www.designgurus.io/blog/Mastering-the-System-Design-Interview-Complete-Guide)
 - [Atlassian - Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 - [Oskar Dudycz - Architecture Weekly became the Substack Bestseller!](https://www.architecture-weekly.com/p/architecture-weekly-became-the-substack)
@@ -2938,6 +2954,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [David D. Woods - The Strategic Agility Gap: How Organizations Are Slow and Stale to Adapt in Turbulent Worlds](https://link.springer.com/chapter/10.1007/978-3-030-25639-5_11)
+- [Jerry Neumann - Your Board of Directors is Probably Going to Fire You](https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html)
 - [Aaron Stannard - Internal vs. External Accountabilities](https://aaronstannard.com/internal-vs-external-accountabilities)
 - [Jordan Cutler - Influence: Lessons from a Staff Engineer and ex-Twitter 8-year Tech Lead](https://careercutler.substack.com/p/influence-lessons-from-a-staff-engineer)
 - [Harward Business Review - How to Build a Blameless Work Culture](https://hbr.org/2023/05/how-to-build-a-blameless-work-culture)
@@ -3055,6 +3073,7 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [Lenny's Newsletter - How Linear builds product](https://www.lennysnewsletter.com/p/how-linear-builds-product)
 - [Justin Jackson - How I would build a new startup if I had to do it all over](https://justinjackson.ca/build-new-startup)
 - [Jason Cohen - Never say “no,” but rarely say “yes.”](https://longform.asmartbear.com/say-yes/)
 - [Sam McAfee - The “One Big Customer” Trap](https://medium.com/startup-patterns/the-one-big-customer-trap-99b31311305a)
@@ -3079,6 +3098,9 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Piotr Przybył - Java 21™ What's new and noteworthy?](https://www.youtube.com/watch?v=Om8dIt3cJIU)
+- [Oracle - Introducing GraalOS](https://blogs.oracle.com/java/post/introducing-graalos)
+- [Johannes Bechberger - C2 might slow down your builds](https://mostlynerdless.de/blog/2023/09/25/c2-might-slow-down-your-builds/)
 - [Inside Java - The Arrival of Java 21!](https://inside.java/2023/09/19/the-arrival-of-java-21/)
 - [Per Minborg - Java Records are "Trusted" and Consequently Faster](https://minborgsjavapot.blogspot.com/2023/09/java-records-are-trusted-and.html)
 - [Artur Skowroński - What is the future of Java in today’s enterprise?](https://virtuslab.com/blog/what-is-the-future-of-java-in-todays-enterprise)
@@ -3453,6 +3475,10 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [U.S. Department of Justice - Justice Department Sues Google for Monopolizing Digital Advertising Technologies](https://www.justice.gov/opa/pr/justice-department-sues-google-monopolizing-digital-advertising-technologies)
+- [Federate Trade Commision - FTC Sues Amazon for Illegally Maintaining Monopoly Power](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power)
+- [CNBC - Apple exec Eddy Cue set to testify in Google trial about $19 billion search deal](https://www.cnbc.com/2023/09/26/apple-exec-eddy-cue-testify-google-trial-about-19-billion-search-deal.html)
+- [CNBC - Cloud stocks falter as Datadog trims 2023 revenue expectations](https://www.cnbc.com/2023/08/08/cloud-stocks-falter-as-datadog-trims-2023-revenue-expectations.html)
 - [The Street - Salesforce CEO takes another bold stand on remote work](https://www.thestreet.com/investing/salesforce-ceo-bold-stand-on-remote-work)
 - [IEEE Spectrum - The Top Programming Languages 2023, Python and SQL are on top, but old languages shouldn’t be forgotten](https://spectrum.ieee.org/the-top-programming-languages-2023)
 - [ArsTechnica - Linux gives up on 6-year LTS kernels, says they’re too much work](https://arstechnica.com/gadgets/2023/09/linux-gives-up-on-6-year-lts-thats-fine-for-pcs-bad-for-android/)
@@ -3761,6 +3787,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Zach Leatherman - Which Generator builds Markdown the fastest?](https://www.zachleat.com/web/build-benchmark/)
 - [Free for Developers - This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers](https://free-for.dev)
 - [HyperSwitch - An Open Source Financial Switch to make Payments fast, reliable and affordable](https://github.com/juspay/hyperswitch)
 - [GitHub - GitHub code search is generally available](https://github.blog/2023-05-08-github-code-search-is-generally-available/)
@@ -3847,6 +3874,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [TechRepublic - White Hat Hackers Discover Microsoft Leak of 38TB of Internal Data Via Azure Storage](https://www.techrepublic.com/article/microsoft-internal-data-leak-azure/)
+- [TheRegister - Probe reveals previously secret Israeli spyware that infects targets via ads](https://www.theregister.com/2023/09/16/insanet_spyware/)
 - [The Record - Microsoft accidentally exposed 38 terabytes of data from employee workstations](https://therecord.media/microsoft-exposed-terabytes-of-data)
 - [ZDNet- Microsoft's CISO: Why we're trying to banish passwords forever](https://www.zdnet.com/article/microsofts-ciso-why-were-trying-to-banish-passwords-forever/)
 - [GitHub - Passkeys are generally available](https://github.blog/2023-09-21-passkeys-are-generally-available/)
