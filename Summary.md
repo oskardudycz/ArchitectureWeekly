@@ -59,6 +59,16 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - How to design software architecture pragmatically](https://event-driven.io/en/how_to_design_software_architecture_pragmatically/?utm_source=architecture_weekly)
+- [Nathan Mraz - How we reduced the cost of building Twitter at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
+- [Cycle - Scaling GraphQL with Postgres - Lessons learned from our database timeout issues](https://www.cycle.app/blog/scaling-graphql-with-postgres-lessons-learned-from-our-database-timeout-issues)
+- [Engineer's Codex - How Instagram scaled to 14 million users with only 3 engineers](https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million)
+- [Jakob Ehn - Real Programmers Commit To Master](https://www.youtube.com/watch?v=hL1OZfgoZGk)
+- [Dave Snowden - the pachyderm post](https://thecynefin.co/the-pachyderm-post/)
+- [Mark Seemann - Dependency Whac-A-Mole](https://blog.ploeh.dk/2023/10/02/dependency-whac-a-mole/)
+- [Martin Kleppmann - New algorithms for collaborative text editing](https://www.youtube.com/watch?v=Mr0a5KyD6BU)
+- [Kyle Carter - Analyzing New Unique Identifier Formats (UUIDv6, UUIDv7, and UUIDv8)](https://blog.scaledcode.com/blog/analyzing-new-unique-id/)
+- [Jeremy D. Miller - The Lowly Strategy Pattern is Still Useful](https://jeremydmiller.com/2023/10/05/the-lowly-strategy-pattern-is-still-useful/)
 - [Oskar Dudycz - Is the Strategy Pattern an ultimate solution for low coupling?](https://event-driven.io/en/is_strategy_pattern_an_ultimate_solution_for_low_coupling/?utm_source=architecture_weekly)
 - [Engineering at Meta - Scaling the Instagram Explore recommendations system](https://engineering.fb.com/2023/08/09/ml-applications/scaling-instagram-explore-recommendations-system/)
 - [Eric Evans - DDD and Microservices: At Last, Some Boundaries!](https://www.infoq.com/presentations/ddd-microservices-2016/)
@@ -1132,6 +1142,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Zalando - Sunrise: Zalando's developer platform based on Backstage](https://engineering.zalando.com/posts/2023/08/sunrise-zalandos-developer-platform-based-on-backstage.html)
+- [GitLab - Building GitLab with GitLab: Why there is no MLOps without DevSecOps](https://about.gitlab.com/blog/2023/10/05/there-is-no-mlops-without-devsecops/)
 - [Rover - Interactive Terraform visualization. State and configuration explorer](https://github.com/im2nguyen/rover)
 - [CloudNativePG - A Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication ](https://github.com/cloudnative-pg/cloudnative-pg)
 - [Seth Eliot - Any Day Can Be Prime Day: How Amazon.com Search Uses Chaos Engineering to Handle Over 84K Requests Per Second](https://community.aws/posts/how-search-uses-chaos-engineering)
@@ -1576,6 +1588,10 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Oren Eini - RavenDB version 6.0 is now live](https://ayende.com/blog/200193-B/ravendb-version-6-0-is-now-live)
+- [Chelsea Dole - Understanding & Managing Postgres Table Bloat](https://www.youtube.com/watch?v=gAgbzvGT6ck)
+- [Nuri Halperin - Design Good Schemas - Get a Better Database](https://www.youtube.com/watch?v=iDWwoz9ZUzw)
+- [Oracle - Experience the best of PostgreSQL with OCI Database with PostgreSQL](https://blogs.oracle.com/cloud-infrastructure/post/oci-database-postgres)
 - [Postgres - PostgreSQL 16 Released!](https://www.postgresql.org/about/news/postgresql-16-released-2715/)
 - [Glauber Costa - SQLite-based databases on the postgres protocol? Yes we can!](https://blog.turso.tech/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65    )
 - [Google - SQLite Wasm in the browser backed by the Origin Private File System](https://developer.chrome.com/blog/sqlite-wasm-in-the-browser-backed-by-the-origin-private-file-system/)
@@ -1945,6 +1961,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Martin Thwaites - Creating an AKS cluster with WebApplication Routing using Pulumi](https://martinjt.me/2023/09/11/creating-an-aks-cluster-with-webapplication-routing-using-pulumi/)
 - [Troy Hunt - How to get your SSL for free on a Shared Azure website with CloudFlare](https://www.troyhunt.com/how-to-get-your-ssl-for-free-on-shared)
 - [Microsoft - What is a multi-tenant organization in Azure Active Directory?](https://learn.microsoft.com/en-us/azure/active-directory/multi-tenant-organizations/multi-tenant-organization-overview)
 - [Tomasz Pęczek - Deploying a Dapr Sidecar to Azure Container Instances](https://www.tpeczek.com/2023/09/deploying-dapr-sidecar-to-azure.html)
@@ -2018,6 +2035,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Roman Provazník - In Defense of Exceptions: Throw away your Result](https://www.youtube.com/watch?v=E4dI-zd4Cag)
+- [Andrew Lock - Can you use the .NET 8 Identity API endpoints with IdentityServer?](https://andrewlock.net/can-you-use-the-dotnet-8-identity-api-endpoints-with-identityserver/)
+- [Dennis Frühauff - How to version your ASP.NET API](https://dateo-software.de/blog/web-api-versioning)
+- [Microsoft - Arm64 Performance Improvements in .NET 8](https://devblogs.microsoft.com/dotnet/this-arm64-performance-in-dotnet-8/)
 - [Jeremy D. Miller - Wolverine Interoperability with Others](https://jeremydmiller.com/2023/09/27/wolverine-interoperability-with-others/)
 - [Ian Russell - Testing C# with F#](https://ijrussell.github.io/posts/testing-csharp-with-fsharp/)
 - [Andrew Poole - Async method chaining in C#](https://medium.com/clearbank/async-method-chaining-in-c-8f15d162bcee)
@@ -2705,6 +2726,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Julia Evans - Making Hard Things Easy](https://www.youtube.com/watch?v=30YWsGDr8mA)
+- [Abin Simon - What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 - [Cloudflare - We rebuilt Cloudflare's developer documentation - here's what we learned](https://blog.cloudflare.com/new-dev-docs/)
 - [Arslan Ahmad - Mastering the System Design Interview: A Complete Guide](https://www.designgurus.io/blog/Mastering-the-System-Design-Interview-Complete-Guide)
 - [Atlassian - Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
@@ -2954,6 +2977,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Alistair Cockburn - Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY)
 - [David D. Woods - The Strategic Agility Gap: How Organizations Are Slow and Stale to Adapt in Turbulent Worlds](https://link.springer.com/chapter/10.1007/978-3-030-25639-5_11)
 - [Jerry Neumann - Your Board of Directors is Probably Going to Fire You](https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html)
 - [Aaron Stannard - Internal vs. External Accountabilities](https://aaronstannard.com/internal-vs-external-accountabilities)
@@ -3073,6 +3097,7 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [John Cutler - 15 Metaphors for Waste In Product Development](https://cutlefish.substack.com/p/tbm-247-15-metaphors-for-waste-in)
 - [Lenny's Newsletter - How Linear builds product](https://www.lennysnewsletter.com/p/how-linear-builds-product)
 - [Justin Jackson - How I would build a new startup if I had to do it all over](https://justinjackson.ca/build-new-startup)
 - [Jason Cohen - Never say “no,” but rarely say “yes.”](https://longform.asmartbear.com/say-yes/)
@@ -3098,6 +3123,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Cay S. Horstmann - Java 21: The Nice, The Meh, and the ... Momentous](https://horstmann.com/unblog/2023-09-19/index.html)
 - [Piotr Przybył - Java 21™ What's new and noteworthy?](https://www.youtube.com/watch?v=Om8dIt3cJIU)
 - [Oracle - Introducing GraalOS](https://blogs.oracle.com/java/post/introducing-graalos)
 - [Johannes Bechberger - C2 might slow down your builds](https://mostlynerdless.de/blog/2023/09/25/c2-might-slow-down-your-builds/)
@@ -3475,6 +3501,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Irish Data Protection Commission - Announces €345 million fine of TikTok](https://www.dataprotection.ie/en/news-media/press-releases/DPC-announces-345-million-euro-fine-of-TikTok)
+- [Reuters - RISC-V technology emerges as battleground in US-China tech war](https://www.reuters.com/technology/us-china-tech-war-risc-v-chip-technology-emerges-new-battleground-2023-10-06/)
+- [Yahoo - Slack will pause normal business operations for one week on Monday because employees have fallen behind on internal training](https://finance.yahoo.com/news/slack-pause-normal-business-operations-213155432.html)
 - [U.S. Department of Justice - Justice Department Sues Google for Monopolizing Digital Advertising Technologies](https://www.justice.gov/opa/pr/justice-department-sues-google-monopolizing-digital-advertising-technologies)
 - [Federate Trade Commision - FTC Sues Amazon for Illegally Maintaining Monopoly Power](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power)
 - [CNBC - Apple exec Eddy Cue set to testify in Google trial about $19 billion search deal](https://www.cnbc.com/2023/09/26/apple-exec-eddy-cue-testify-google-trial-about-19-billion-search-deal.html)
@@ -3874,6 +3903,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [NSA and CISA - Red and Blue Teams Share Top Ten Cybersecurity Misconfigurations](https://media.defense.gov/2023/Oct/05/2003314578/-1/-1/0/JOINT_CSA_TOP_TEN_MISCONFIGURATIONS_TLP-CLEAR.PDF)
 - [TechRepublic - White Hat Hackers Discover Microsoft Leak of 38TB of Internal Data Via Azure Storage](https://www.techrepublic.com/article/microsoft-internal-data-leak-azure/)
 - [TheRegister - Probe reveals previously secret Israeli spyware that infects targets via ads](https://www.theregister.com/2023/09/16/insanet_spyware/)
 - [The Record - Microsoft accidentally exposed 38 terabytes of data from employee workstations](https://therecord.media/microsoft-exposed-terabytes-of-data)
