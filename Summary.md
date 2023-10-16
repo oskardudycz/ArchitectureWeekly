@@ -59,6 +59,19 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Internal and external events, or how to design event-driven API](https://event-driven.io/en/internal_external_events/?utm_source=architecture_weekly)
+- [Oskar Dudycz - Keep your streams short! Or how to model event-sourced systems efficiently](https://www.youtube.com/watch?v=uODSwR2CIV4)
+- [AWS - How AWS protects customers from DDoS events](https://aws.amazon.com/blogs/security/how-aws-protects-customers-from-ddos-events/)
+- [Cloudflare - HTTP/2 Zero-Day vulnerability results in record-breaking DDoS attacks](https://blog.cloudflare.com/zero-day-rapid-reset-http2-record-breaking-ddos-attack/)
+- [Google - Google mitigated the largest DDoS attack to date, peaking above 398 million rps](https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps)
+- [Michael Schoenmaekers, Leon van Dooren - Empowering Security and Privacy. How Axon Framework and Axon Server helped Linckr to ISO Certification](https://www.youtube.com/watch?v=WsR-UeA1-sA)
+- [Hashnode - Hashnode's Overall Architecture. How Hashnode runs on a scale (almost) completely serverless](https://engineering.hashnode.com/hashnodes-overall-architecture)
+- [Yan Cui - How I built an affiliate tracking system in a weekend with serverless](https://theburningmonk.com/2023/10/how-i-built-an-affiliate-tracking-system-in-a-weekend-with-serverless)
+- [Marc Klefter - Powering Event-Driven APIs with Event Sourcing](https://www.youtube.com/watch?v=Pph8TFPOfko)
+- [Jim Fisher - Redis Pub/Sub under the hood](https://jameshfisher.com/2017/03/01/redis-pubsub-under-the-hood/)
+- [Bilgin Ibryam - The Commoditization of the Software Stack: How Application-First Cloud Services are Changing the Game](https://www.infoq.com/presentations/dapr-cloud-services)
+- [Derek Comartin - How to seed a new Microservice with data?](https://codeopinion.com/how-to-seed-a-new-microservice-with-data/)
+- [Bart Wullems - Gall’s law and how it applies to software architecture](https://bartwullems.blogspot.com/2023/10/galls-law-and-how-it-applies-to.html)
 - [Oskar Dudycz - How to design software architecture pragmatically](https://event-driven.io/en/how_to_design_software_architecture_pragmatically/?utm_source=architecture_weekly)
 - [Nathan Mraz - How we reduced the cost of building Twitter at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
 - [Cycle - Scaling GraphQL with Postgres - Lessons learned from our database timeout issues](https://www.cycle.app/blog/scaling-graphql-with-postgres-lessons-learned-from-our-database-timeout-issues)
@@ -1142,6 +1155,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Malin Litwinski - Empathy: The Secret sauce of Resilience](https://www.youtube.com/watch?v=F_-ZqBZY0x0)
 - [Zalando - Sunrise: Zalando's developer platform based on Backstage](https://engineering.zalando.com/posts/2023/08/sunrise-zalandos-developer-platform-based-on-backstage.html)
 - [GitLab - Building GitLab with GitLab: Why there is no MLOps without DevSecOps](https://about.gitlab.com/blog/2023/10/05/there-is-no-mlops-without-devsecops/)
 - [Rover - Interactive Terraform visualization. State and configuration explorer](https://github.com/im2nguyen/rover)
@@ -1548,6 +1562,7 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.](https://github.com/httpie/desktop)
 - [IETF - RFC 9457 - Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc9457.html)
 - [Darshan Shivashankar - Adopting an API Maturity Model to Accelerate Innovation](https://www.infoq.com/articles/api-maturity-model/)
 - [Insomnia - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC](https://insomnia.rest/)
@@ -1588,6 +1603,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Timescale - How We Made PostgreSQL a Better Vector Database](https://www.timescale.com/blog/how-we-made-postgresql-the-best-vector-database/)
+- [Timescale - Vector Cookbook. A collection of recipes to build applications with LLMs using PostgreSQL and Timescale Vector.](https://github.com/timescale/vector-cookbook)
+- [.NET Rocks - Data Sharding with Oren Eini](https://www.dotnetrocks.com/details/1867)
 - [Oren Eini - RavenDB version 6.0 is now live](https://ayende.com/blog/200193-B/ravendb-version-6-0-is-now-live)
 - [Chelsea Dole - Understanding & Managing Postgres Table Bloat](https://www.youtube.com/watch?v=gAgbzvGT6ck)
 - [Nuri Halperin - Design Good Schemas - Get a Better Database](https://www.youtube.com/watch?v=iDWwoz9ZUzw)
@@ -1915,6 +1933,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [AWS - GraphQL Gateway Based Federation with AWS AppSync and GraphQL Fusion](https://aws.amazon.com/blogs/mobile/graphql-gateway-based-federation-with-aws-appsync-and-graphql-fusion/)
 - [Yan Cui - Is Bun the Next Big Thing for AWS Lambda? A Thorough Investigation](https://lumigo.io/blog/is-bun-the-next-big-thing-for-aws-lambda-a-thorough-investigation)
 - [AWS - Give Your Graph Workload a Cost-Performance Boost with Neo4j and AWS Graviton](https://aws.amazon.com/blogs/apn/give-your-graph-workload-a-cost-performance-boost-with-neo4j-and-aws-graviton)
 - [AWS - AWS Step Functions launches enhanced error handling](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-step-functions-enhanced-error-handling/)
@@ -2035,6 +2054,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jamie Maguire - Handling Database Migrations in Mature Applications with Fluent Migrator](https://jamiemaguire.net/index.php/2023/02/25/handling-database-migrations-in-mature-applications-with-fluent-migrator/)
+- [Tim Deschryver - Wolverine is for the developers](https://timdeschryver.dev/blog/wolverine-is-for-the-developers)
+- [Anthony Simmon - Preventing breaking changes in .NET class libraries](https://dev.to/asimmon/preventing-breaking-changes-in-net-class-libraries-4c1i)
+- [Jim Aho - .NET Developer on MacOS](https://blog.steadycoding.com/net-developer-on-macos)
 - [Roman Provazník - In Defense of Exceptions: Throw away your Result](https://www.youtube.com/watch?v=E4dI-zd4Cag)
 - [Andrew Lock - Can you use the .NET 8 Identity API endpoints with IdentityServer?](https://andrewlock.net/can-you-use-the-dotnet-8-identity-api-endpoints-with-identityserver/)
 - [Dennis Frühauff - How to version your ASP.NET API](https://dateo-software.de/blog/web-api-versioning)
@@ -2726,6 +2749,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Taylor Poindexter, Scott Hanselman - How to Build a Meaningful Career](https://www.youtube.com/watch?v=_egQrM13qyM)
 - [Julia Evans - Making Hard Things Easy](https://www.youtube.com/watch?v=30YWsGDr8mA)
 - [Abin Simon - What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 - [Cloudflare - We rebuilt Cloudflare's developer documentation - here's what we learned](https://blog.cloudflare.com/new-dev-docs/)
@@ -2977,6 +3001,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Gregor Ojstersek - How I measure developer productivity](https://newsletter.eng-leadership.com/p/how-i-measure-developer-productivity)
 - [Alistair Cockburn - Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY)
 - [David D. Woods - The Strategic Agility Gap: How Organizations Are Slow and Stale to Adapt in Turbulent Worlds](https://link.springer.com/chapter/10.1007/978-3-030-25639-5_11)
 - [Jerry Neumann - Your Board of Directors is Probably Going to Fire You](https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html)
@@ -3240,6 +3265,7 @@
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
 ## JVM
+- [Luiz Hespanha, Flavio Brasil - A JVM threading model for the containerized times](https://www.youtube.com/watch?v=APNV_0I7nbs)
 - [GraalVM - New GraalVM release](https://www.youtube.com/watch?v=lWhEg-6DqM0)
 - [Ionut Balosin - Analyzing JVM Energy Consumption for JDK 17: An Empirical Study](https://ionutbalosin.com/2023/07/analyzing-jvm-energy-consumption-for-jdk-17-an-empirical-study/)
 - [Graeme Rocher - Micronaut 3 & GraalVM Deep Dive](https://www.youtube.com/watch?v=eMSRaOLfdNw)
@@ -3501,6 +3527,10 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [TechCrunch - Atlassian to acquire former unicorn Loom for $975M](https://techcrunch.com/2023/10/12/atlassian-to-acquire-former-unicorn-loom-for-975m/)
+- [Harvard Business Review - When Blind Hiring Advances DEI — and When It Doesn’t](https://hbr.org/2023/06/when-blind-hiring-advances-dei-and-when-it-doesnt)
+- [The Register - Largest local government body in Europe goes under amid Oracle disaster](https://www.theregister.com/2023/09/05/birmingham_city_council_oracle/)
+- [The Register - Excel recruitment time bomb makes top trainee doctors 'unappointable'](https://www.theregister.com/2023/10/12/excel_anesthetist_recruitment_blunder/)
 - [Irish Data Protection Commission - Announces €345 million fine of TikTok](https://www.dataprotection.ie/en/news-media/press-releases/DPC-announces-345-million-euro-fine-of-TikTok)
 - [Reuters - RISC-V technology emerges as battleground in US-China tech war](https://www.reuters.com/technology/us-china-tech-war-risc-v-chip-technology-emerges-new-battleground-2023-10-06/)
 - [Yahoo - Slack will pause normal business operations for one week on Monday because employees have fallen behind on internal training](https://finance.yahoo.com/news/slack-pause-normal-business-operations-213155432.html)
@@ -3903,6 +3933,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Solid - A specification that lets people store their data securely in decentralized data stores called Pods](https://solidproject.org/)
+- [Auth0 - In Celebration of Vittorio Bertocci](https://auth0.com/blog/in-celebration-of-vittorio-bertocci/)
 - [NSA and CISA - Red and Blue Teams Share Top Ten Cybersecurity Misconfigurations](https://media.defense.gov/2023/Oct/05/2003314578/-1/-1/0/JOINT_CSA_TOP_TEN_MISCONFIGURATIONS_TLP-CLEAR.PDF)
 - [TechRepublic - White Hat Hackers Discover Microsoft Leak of 38TB of Internal Data Via Azure Storage](https://www.techrepublic.com/article/microsoft-internal-data-leak-azure/)
 - [TheRegister - Probe reveals previously secret Israeli spyware that infects targets via ads](https://www.theregister.com/2023/09/16/insanet_spyware/)
