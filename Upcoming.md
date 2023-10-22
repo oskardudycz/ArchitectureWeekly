@@ -7,6 +7,55 @@
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
-## Management
+
+### Architecture
+- [Engineering at Meta - Automating product deprecation](https://engineering.fb.com/2023/10/17/data-infrastructure/automating-product-deprecation-meta/)
+- [GitHub - Measuring Git performance with OpenTelemetry](https://github.blog/2023-10-16-measuring-git-performance-with-opentelemetry/)
+- [Mauro Servienti - The power of timeouts to compensate for failures and other tales](https://milestone.topics.it/2023/10/18/timeouts-power.html)
+- [Ken Mugrage - Why embracing complexity is the real challenge in software today](https://www.thoughtworks.com/insights/blog/technology-strategy/why-embracing-complexity-real-challenge-software-today)
+- [Alanna Burke - Creating a Culture of Documentation](https://www.youtube.com/watch?v=IJjQ5yPFwHw)
+- [Layla Porter - Understanding Microservices: A Guide For the Monolithic Developer](https://www.youtube.com/watch?v=KotyQ1INfmg)
+- [Derek Comartin - Event-Driven Architecture Gotcha! Inside or Outside Events](https://www.youtube.com/watch?v=qf-BSAhbrWw)
+
+### Databases
+- [Martin Heinz - You Don't Need a Dedicated Cache Service - PostgreSQL as a Cache](https://martinheinz.dev/blog/105)
+- [Greg Sabino Mullane - PostgreSQL Unlogged Tables - Look Ma, No WAL!](https://www.crunchydata.com/blog/postgresl-unlogged-tables)
+- [Adriano Caloiaro - Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
+
+### AI
+- [Reuven Lerner - I’m banned for life from advertising on Meta. Because I teach Python](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
+
+### AWS
+- [Luc van Donkersgoed - When the shoulders of giants are offered, you’d do well to stand on them](https://lucvandonkersgoed.com/2023/10/13/if-the-shoulders-of-giants-are-offered-youd-do-well-to-stand-on-them/)
+
+### Node.js
+- [OpenJS Foundation - Node.js 21 Available Now!](https://openjsf.org/announcement/2023/10/17/node-js-21-available-now)
+
+### .NET
+- [Mads Torgersen - What’s Next in C#?](https://www.youtube.com/watch?v=gGzfAJwoH5A)
+- [Jeremy D. Miller - Important Patterns Lurking in Your Persistence Tooling](https://jeremydmiller.com/2023/10/17/important-patterns-lurking-in-your-persistence-tooling/)
+- [Andrew Lock - Updates to Docker images in .NET 8](https://andrewlock.net/exploring-the-dotnet-8-preview-updates-to-docker-images-in-dotnet-8/)
+- [MongoDB - MongoDB Provider for Entity Framework Core Now Available in Public Preview](https://www.mongodb.com/blog/post/mongodb-provider-entity-framework-core-now-available-public-preview)
+
+### Tools
+- [Typesense - A fast, typo-tolerant search engine for building delightful search experiences](https://github.com/typesense/typesense)
+- [OpenFGA - Modeling Entitlements for a System with OpenFGA](https://openfga.dev/docs/modeling/advanced/entitlements)
+
+### Web Assembly
+- [Rafael Fernández - Running Wasm Workers Server in Docker Desktop](https://wasmlabs.dev/articles/docker-wasm-wws/)
+
+### Management
+- [Hazel Weakly - The Power of Being New: A Proven Recipe for High Impact](https://hazelweakly.me/blog/the-power-of-being-new--a-proven-recipe-for-high-impact/)
+- [John Cutler - The Ultimate Guide to Developer Counter-Productivity](https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer)
+- [Benji Weber - One does not simply deliver software](https://benjiweber.co.uk/blog/2023/10/15/one-does-not-simply-deliver-software/)
 - [Evan Czaplicki - The Hard Parts of Open Source](https://www.youtube.com/watch?v=o_4EX4dPppA)
 - [Evan Czaplicki - The Economics of Programming Languages](https://www.youtube.com/watch?v=XZ3w_jec1v8)
+
+### Industry
+- [The Stack - HashiCorp CEO predicts OSS-free Silicon Valley unless the open source model evolves](https://www.thestack.technology/hashicorp-ceo-predicts-oss-free-silicon-valley-unless-the-open-source-model-evolves/)
+- [Linus Foundation - How open source foundations protect the licensing integrity of open source projects](https://www.linuxfoundation.org/blog/how-open-source-foundations-protect-the-licensing-integrity-of-open-source-projects)
+- [The Verge - Microsoft’s Activision Blizzard deal approved by UK regulators](https://www.theverge.com/2023/10/13/23796552/microsoft-activision-blizzard-cma-approval-uk)
+
+### Trivia
+- [Matt Wynne - Feminism](https://mattwynne.net/feminism)
+- [Heikki Lotvonen - Amiga ASCII art](https://blog.glyphdrawing.club/amiga-ascii-art/)
