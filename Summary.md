@@ -59,6 +59,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - In the defence of Object-Relational Mappers](https://event-driven.io/en/in_the_defence_of_orms/?utm_source=architecture_weekly)
+- [Engineering at Meta - Automating product deprecation](https://engineering.fb.com/2023/10/17/data-infrastructure/automating-product-deprecation-meta/)
+- [GitHub - Measuring Git performance with OpenTelemetry](https://github.blog/2023-10-16-measuring-git-performance-with-opentelemetry/)
+- [Mauro Servienti - The power of timeouts to compensate for failures and other tales](https://milestone.topics.it/2023/10/18/timeouts-power.html)
+- [Ken Mugrage - Why embracing complexity is the real challenge in software today](https://www.thoughtworks.com/insights/blog/technology-strategy/why-embracing-complexity-real-challenge-software-today)
+- [Alanna Burke - Creating a Culture of Documentation](https://www.youtube.com/watch?v=IJjQ5yPFwHw)
+- [Layla Porter - Understanding Microservices: A Guide For the Monolithic Developer](https://www.youtube.com/watch?v=KotyQ1INfmg)
+- [Derek Comartin - Event-Driven Architecture Gotcha! Inside or Outside Events](https://www.youtube.com/watch?v=qf-BSAhbrWw)
 - [Oskar Dudycz - Internal and external events, or how to design event-driven API](https://event-driven.io/en/internal_external_events/?utm_source=architecture_weekly)
 - [Oskar Dudycz - Keep your streams short! Or how to model event-sourced systems efficiently](https://www.youtube.com/watch?v=uODSwR2CIV4)
 - [AWS - How AWS protects customers from DDoS events](https://aws.amazon.com/blogs/security/how-aws-protects-customers-from-ddos-events/)
@@ -1603,6 +1611,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Martin Heinz - You Don't Need a Dedicated Cache Service - PostgreSQL as a Cache](https://martinheinz.dev/blog/105)
+- [Greg Sabino Mullane - PostgreSQL Unlogged Tables - Look Ma, No WAL!](https://www.crunchydata.com/blog/postgresl-unlogged-tables)
+- [Adriano Caloiaro - Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 - [Timescale - How We Made PostgreSQL a Better Vector Database](https://www.timescale.com/blog/how-we-made-postgresql-the-best-vector-database/)
 - [Timescale - Vector Cookbook. A collection of recipes to build applications with LLMs using PostgreSQL and Timescale Vector.](https://github.com/timescale/vector-cookbook)
 - [.NET Rocks - Data Sharding with Oren Eini](https://www.dotnetrocks.com/details/1867)
@@ -1820,6 +1831,7 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [Reuven Lerner - I’m banned for life from advertising on Meta. Because I teach Python](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
 - [Google - Pair Programming with a Large Language Model Free Online Course](https://www.deeplearning.ai/short-courses/pair-programming-llm/)
 - [HuggingFace - Red-Teaming Large Language Models](https://huggingface.co/blog/red-teaming)
 - [InfoQ - AI, ML, and Data Engineering InfoQ Trends Report - September 2023](https://www.infoq.com/articles/ai-ml-data-engineering-trends-2023/)
@@ -1933,6 +1945,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Luc van Donkersgoed - When the shoulders of giants are offered, you’d do well to stand on them](https://lucvandonkersgoed.com/2023/10/13/if-the-shoulders-of-giants-are-offered-youd-do-well-to-stand-on-them/)
 - [AWS - GraphQL Gateway Based Federation with AWS AppSync and GraphQL Fusion](https://aws.amazon.com/blogs/mobile/graphql-gateway-based-federation-with-aws-appsync-and-graphql-fusion/)
 - [Yan Cui - Is Bun the Next Big Thing for AWS Lambda? A Thorough Investigation](https://lumigo.io/blog/is-bun-the-next-big-thing-for-aws-lambda-a-thorough-investigation)
 - [AWS - Give Your Graph Workload a Cost-Performance Boost with Neo4j and AWS Graviton](https://aws.amazon.com/blogs/apn/give-your-graph-workload-a-cost-performance-boost-with-neo4j-and-aws-graviton)
@@ -2054,6 +2067,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Mads Torgersen - What’s Next in C#?](https://www.youtube.com/watch?v=gGzfAJwoH5A)
+- [Jeremy D. Miller - Important Patterns Lurking in Your Persistence Tooling](https://jeremydmiller.com/2023/10/17/important-patterns-lurking-in-your-persistence-tooling/)
+- [Andrew Lock - Updates to Docker images in .NET 8](https://andrewlock.net/exploring-the-dotnet-8-preview-updates-to-docker-images-in-dotnet-8/)
+- [MongoDB - MongoDB Provider for Entity Framework Core Now Available in Public Preview](https://www.mongodb.com/blog/post/mongodb-provider-entity-framework-core-now-available-public-preview)
 - [Jamie Maguire - Handling Database Migrations in Mature Applications with Fluent Migrator](https://jamiemaguire.net/index.php/2023/02/25/handling-database-migrations-in-mature-applications-with-fluent-migrator/)
 - [Tim Deschryver - Wolverine is for the developers](https://timdeschryver.dev/blog/wolverine-is-for-the-developers)
 - [Anthony Simmon - Preventing breaking changes in .NET class libraries](https://dev.to/asimmon/preventing-breaking-changes-in-net-class-libraries-4c1i)
@@ -2722,6 +2739,7 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [Rafael Fernández - Running Wasm Workers Server in Docker Desktop](https://wasmlabs.dev/articles/docker-wasm-wws/)
 - [wasmCloud - Simple, secure, distributed application development using WebAssembly actors and capability providers](https://github.com/wasmCloud/wasmCloud)
 - [Radu Matei - Towards sockets and networking in WebAssembly and WASI](https://radu-matei.com/blog/towards-sockets-networking-wasi/)
 - [Edoardo Vacchi - WebAssembly from the inside out](https://www.youtube.com/watch?v=93NL17DYNQs)
@@ -3001,6 +3019,11 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Hazel Weakly - The Power of Being New: A Proven Recipe for High Impact](https://hazelweakly.me/blog/the-power-of-being-new--a-proven-recipe-for-high-impact/)
+- [John Cutler - The Ultimate Guide to Developer Counter-Productivity](https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer)
+- [Benji Weber - One does not simply deliver software](https://benjiweber.co.uk/blog/2023/10/15/one-does-not-simply-deliver-software/)
+- [Evan Czaplicki - The Hard Parts of Open Source](https://www.youtube.com/watch?v=o_4EX4dPppA)
+- [Evan Czaplicki - The Economics of Programming Languages](https://www.youtube.com/watch?v=XZ3w_jec1v8)
 - [Gregor Ojstersek - How I measure developer productivity](https://newsletter.eng-leadership.com/p/how-i-measure-developer-productivity)
 - [Alistair Cockburn - Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY)
 - [David D. Woods - The Strategic Agility Gap: How Organizations Are Slow and Stale to Adapt in Turbulent Worlds](https://link.springer.com/chapter/10.1007/978-3-030-25639-5_11)
@@ -3349,6 +3372,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [OpenJS Foundation - Node.js 21 Available Now!](https://openjsf.org/announcement/2023/10/17/node-js-21-available-now)
 - [SuperTest - Super-agent driven library for testing node.js HTTP servers using a fluent API](https://github.com/ladjs/supertest)
 - [Turbo - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. ](https://github.com/vercel/turbo)
 - [Fast Node Manager (fnm) -  Fast and simple Node.js version manager, built in Rust](https://github.com/Schniz/fnm)
@@ -3527,6 +3551,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [The Stack - HashiCorp CEO predicts OSS-free Silicon Valley unless the open source model evolves](https://www.thestack.technology/hashicorp-ceo-predicts-oss-free-silicon-valley-unless-the-open-source-model-evolves/)
+- [Linus Foundation - How open source foundations protect the licensing integrity of open source projects](https://www.linuxfoundation.org/blog/how-open-source-foundations-protect-the-licensing-integrity-of-open-source-projects)
+- [The Verge - Microsoft’s Activision Blizzard deal approved by UK regulators](https://www.theverge.com/2023/10/13/23796552/microsoft-activision-blizzard-cma-approval-uk)
 - [TechCrunch - Atlassian to acquire former unicorn Loom for $975M](https://techcrunch.com/2023/10/12/atlassian-to-acquire-former-unicorn-loom-for-975m/)
 - [Harvard Business Review - When Blind Hiring Advances DEI — and When It Doesn’t](https://hbr.org/2023/06/when-blind-hiring-advances-dei-and-when-it-doesnt)
 - [The Register - Largest local government body in Europe goes under amid Oracle disaster](https://www.theregister.com/2023/09/05/birmingham_city_council_oracle/)
@@ -3846,6 +3873,8 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Typesense - A fast, typo-tolerant search engine for building delightful search experiences](https://github.com/typesense/typesense)
+- [OpenFGA - Modeling Entitlements for a System with OpenFGA](https://openfga.dev/docs/modeling/advanced/entitlements)
 - [Zach Leatherman - Which Generator builds Markdown the fastest?](https://www.zachleat.com/web/build-benchmark/)
 - [Free for Developers - This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers](https://free-for.dev)
 - [HyperSwitch - An Open Source Financial Switch to make Payments fast, reliable and affordable](https://github.com/juspay/hyperswitch)
@@ -4118,6 +4147,8 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Matt Wynne - Feminism](https://mattwynne.net/feminism)
+- [Heikki Lotvonen - Amiga ASCII art](https://blog.glyphdrawing.club/amiga-ascii-art/)
 - [INNOQ Deutschland mourns the loss of its co-founder and CEO, Stefan Tilkov](https://www.innoq.com/en/stefan-tilkov/)
 - [Heather Downing - Imposter Syndrome: Overcoming Self-Doubt in Success](https://www.youtube.com/watch?v=atYHKU0VJQE)
 - [The Washington Post - Kevin Mitnick, hacker and fugitive turned security consultant, dies at 59](https://www.washingtonpost.com/obituaries/2023/07/20/kevin-mitnick-hacker-dies/)
