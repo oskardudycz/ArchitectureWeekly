@@ -59,6 +59,17 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Forrest Brazeal - Wait, is cloud bad?](https://newsletter.goodtechthings.com/p/wait-is-cloud-bad)
+- [TechDirt - The Batshit Crazy Story Of The Day Elon Musk Decided To Personally Rip Servers Out Of A Sacramento Data Center](https://www.techdirt.com/2023/09/12/the-batshit-crazy-story-of-the-day-elon-musk-decided-to-personally-rip-servers-out-of-a-sacramento-data-center/)
+- [Mark Richards - Software Architecture Monday Lessons](https://www.developertoarchitect.com/lessons/)
+- [AWS Database Blog - How Zalando migrated their shopping carts to Amazon DynamoDB from Apache Cassandra](https://aws.amazon.com/blogs/database/how-zalando-migrated-their-shopping-carts-to-amazon-dynamodb-from-apache-cassandra/)
+- [Rebecca Parsons - How Will Evolutionary Architecture Evolve?](https://www.infoq.com/presentations/evolutionary-architecture-evolve)
+- [Eberhard Wolff — Software Architecture for Humans!](https://www.youtube.com/watch?v=Q7il0xNhlQE)
+- [Maxime Sanglan-Charlier & Nick Tune - From Domain Boundaries to Software Architecture](https://www.youtube.com/watch?v=rU-F8op6f-I)
+- [Jez Humble, Holly Cummins - The Current State of Software Engineering](https://www.youtube.com/watch?v=jMND85XmAls)
+- [Joseph M. Hellerstein, Peter Alvaro - Keeping CALM: When Distributed Consistency is Easy](https://arxiv.org/abs/1901.01930)
+- [Mark Seemann - Do ORMs reduce the need for mapping?](https://blog.ploeh.dk/2023/09/18/do-orms-reduce-the-need-for-mapping/)
+- [Mark Seemann - Domain Model first](https://blog.ploeh.dk/2023/10/23/domain-model-first/)
 - [Oskar Dudycz - In the defence of Object-Relational Mappers](https://event-driven.io/en/in_the_defence_of_orms/?utm_source=architecture_weekly)
 - [Engineering at Meta - Automating product deprecation](https://engineering.fb.com/2023/10/17/data-infrastructure/automating-product-deprecation-meta/)
 - [GitHub - Measuring Git performance with OpenTelemetry](https://github.blog/2023-10-16-measuring-git-performance-with-opentelemetry/)
@@ -959,6 +970,9 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Andrew Schofield - Queues for Kafka](https://medium.com/@andrew_schofield/queues-for-kafka-29afa8aeed86)
+- [Kafka - KIP-932: Queues for Kafka](https://cwiki.apache.org/confluence/display/KAFKA/KIP-932%3A+Queues+for+Kafka)
+- [Gunnar Morling - Change Data Streaming Patterns With Debezium & Apache Flink | Decodable](https://www.youtube.com/watch?v=Vd1z9Z2-8VE)
 - [Fabrice Harbulot, Quang Minh Tran - Zero traffic cost for Kafka consumers](https://engineering.grab.com/zero-traffic-cost)
 - [WarpStream - A Kafka compatible data streaming platform built directly on top of S3](https://www.warpstream.com/)
 - [Danica Fine - A Kafka Client’s Request: There and Back Again](https://www.youtube.com/watch?v=8NrK69WrRq0)
@@ -1163,6 +1177,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Clare Sudbery - Continuous Integration: That’s Not What They Meant](https://www.youtube.com/watch?v=97qyNQz7fxY)
 - [Malin Litwinski - Empathy: The Secret sauce of Resilience](https://www.youtube.com/watch?v=F_-ZqBZY0x0)
 - [Zalando - Sunrise: Zalando's developer platform based on Backstage](https://engineering.zalando.com/posts/2023/08/sunrise-zalandos-developer-platform-based-on-backstage.html)
 - [GitLab - Building GitLab with GitLab: Why there is no MLOps without DevSecOps](https://about.gitlab.com/blog/2023/10/05/there-is-no-mlops-without-devsecops/)
@@ -1366,6 +1381,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Amy Kapernick - Your website does not need JavaScript](https://www.youtube.com/watch?v=wKU65gV6FSA)
 - [Josh Comeau - Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
 - [Theo - The Truth About HTMX](https://www.youtube.com/watch?v=NA5Fcgs_viU)
 - [Kevin Mas Ruiz - The conjunction of the web](https://dev.to/kmruiz/the-conjunction-of-the-web-2anf)
@@ -1611,6 +1627,10 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Pete Naylor - Single table design for DynamoDB: The reality](https://www.gomomento.com/blog/single-table-design-for-dynamodb-the-reality)
+- [Developer Voices Podcast - Semantic Search: A Deep Dive Into Vector Databases (with Zain Hasan)](https://www.youtube.com/watch?v=kS9DazKNX-Y)
+- [FerretDB - A truly Open Source MongoDB alternative](https://github.com/FerretDB/FerretDB)
+- [Electric - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.](https://github.com/electric-sql/electric)
 - [Martin Heinz - You Don't Need a Dedicated Cache Service - PostgreSQL as a Cache](https://martinheinz.dev/blog/105)
 - [Greg Sabino Mullane - PostgreSQL Unlogged Tables - Look Ma, No WAL!](https://www.crunchydata.com/blog/postgresl-unlogged-tables)
 - [Adriano Caloiaro - Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
@@ -1831,6 +1851,7 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [Olena Kutsenko - TensorFlow, Postgres, PGVector & Next.js: building a movie recommender](https://www.youtube.com/playlist?list=PLo6PI-0mPVLt2nQGH10XA3wdWFZ7r8jOK)
 - [Reuven Lerner - I’m banned for life from advertising on Meta. Because I teach Python](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
 - [Google - Pair Programming with a Large Language Model Free Online Course](https://www.deeplearning.ai/short-courses/pair-programming-llm/)
 - [HuggingFace - Red-Teaming Large Language Models](https://huggingface.co/blog/red-teaming)
@@ -2067,6 +2088,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Khalid Abuhakmeh - How to use Testcontainers with .NET Unit Tests](https://blog.jetbrains.com/dotnet/2023/10/24/how-to-use-testcontainers-with-dotnet-unit-tests/)
+- [Gérald Barré - Customizing the behavior of record copy constructors](https://www.meziantou.net/customizing-the-behavior-of-the-record-copy-constructor.htm)
+- [Tim Deschryver - How to fully leverage Wolverine with its HTTP package](https://timdeschryver.dev/blog/how-to-fully-leverage-wolverine-with-its-http-package)
+- [Patrick Smacchia - C# Record Explained](https://blog.ndepend.com/c-record-explained/)
 - [Mads Torgersen - What’s Next in C#?](https://www.youtube.com/watch?v=gGzfAJwoH5A)
 - [Jeremy D. Miller - Important Patterns Lurking in Your Persistence Tooling](https://jeremydmiller.com/2023/10/17/important-patterns-lurking-in-your-persistence-tooling/)
 - [Andrew Lock - Updates to Docker images in .NET 8](https://andrewlock.net/exploring-the-dotnet-8-preview-updates-to-docker-images-in-dotnet-8/)
@@ -2767,6 +2792,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Oskar Dudycz - Women in IT](https://event-driven.io/en/women_in_it/?utm_source=architecture_weekly)
 - [Taylor Poindexter, Scott Hanselman - How to Build a Meaningful Career](https://www.youtube.com/watch?v=_egQrM13qyM)
 - [Julia Evans - Making Hard Things Easy](https://www.youtube.com/watch?v=30YWsGDr8mA)
 - [Abin Simon - What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
@@ -3145,6 +3171,8 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [Crisp Academy - Master Class with Marty Cagan](https://www.youtube.com/watch?v=mcnxxdzC2fY)
+- [Pawel Huryn - How to Craft a Winning Product Strategy](https://www.youtube.com/watch?v=gdl0W2mhFJQ)
 - [John Cutler - 15 Metaphors for Waste In Product Development](https://cutlefish.substack.com/p/tbm-247-15-metaphors-for-waste-in)
 - [Lenny's Newsletter - How Linear builds product](https://www.lennysnewsletter.com/p/how-linear-builds-product)
 - [Justin Jackson - How I would build a new startup if I had to do it all over](https://justinjackson.ca/build-new-startup)
@@ -3171,6 +3199,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Jarosław Pałka - Bare metal Java](https://www.youtube.com/watch?v=pBe407IRA4M)
 - [Cay S. Horstmann - Java 21: The Nice, The Meh, and the ... Momentous](https://horstmann.com/unblog/2023-09-19/index.html)
 - [Piotr Przybył - Java 21™ What's new and noteworthy?](https://www.youtube.com/watch?v=Om8dIt3cJIU)
 - [Oracle - Introducing GraalOS](https://blogs.oracle.com/java/post/introducing-graalos)
@@ -3551,6 +3580,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Last Week Tonight with John Oliver - McKinsey](https://www.youtube.com/watch?v=AiOUojVd6xQ)
+- [TechRadar - Microsoft is reportedly losing huge amounts of money on GitHub Copilot](https://www.techradar.com/pro/microsoft-is-reportedly-losing-huge-amounts-of-money-on-github-copilot)
+- [ZDNet - Microsoft has over a million paying Github Copilot users: CEO Nadella](https://www.zdnet.com/article/microsoft-has-over-a-million-paying-github-copilot-users-ceo-nadella/)
 - [The Stack - HashiCorp CEO predicts OSS-free Silicon Valley unless the open source model evolves](https://www.thestack.technology/hashicorp-ceo-predicts-oss-free-silicon-valley-unless-the-open-source-model-evolves/)
 - [Linus Foundation - How open source foundations protect the licensing integrity of open source projects](https://www.linuxfoundation.org/blog/how-open-source-foundations-protect-the-licensing-integrity-of-open-source-projects)
 - [The Verge - Microsoft’s Activision Blizzard deal approved by UK regulators](https://www.theverge.com/2023/10/13/23796552/microsoft-activision-blizzard-cma-approval-uk)
@@ -3962,6 +3994,9 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Brian Krebs - Hackers Stole Access Tokens from Okta’s Support Unit](https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/)
+- [CloudFlare - How Cloudflare mitigated yet another Okta compromise](https://blog.cloudflare.com/how-cloudflare-mitigated-yet-another-okta-compromise/)
+- [Rest of World - Signal President Meredith Whittaker on resisting government threats to privacy](https://restofworld.org/2023/signal-president-meredith-whittaker-messaing-privacy/)
 - [Solid - A specification that lets people store their data securely in decentralized data stores called Pods](https://solidproject.org/)
 - [Auth0 - In Celebration of Vittorio Bertocci](https://auth0.com/blog/in-celebration-of-vittorio-bertocci/)
 - [NSA and CISA - Red and Blue Teams Share Top Ten Cybersecurity Misconfigurations](https://media.defense.gov/2023/Oct/05/2003314578/-1/-1/0/JOINT_CSA_TOP_TEN_MISCONFIGURATIONS_TLP-CLEAR.PDF)
