@@ -8,4 +8,6 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ---
 
-### Architecture
+### DevOps
+
+* [Terraform 1.6 adds a test framework for enhanced code validation](https://www.hashicorp.com/blog/terraform-1-6-adds-a-test-framework-for-enhanced-code-validation)
