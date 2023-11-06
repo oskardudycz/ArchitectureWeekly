@@ -59,6 +59,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Anti-patterns in event modelling - Clickbait event](https://event-driven.io/en/clickbait_event/?utm_source=architecture_weekly)
+- [Sam Newman - You Keep Using That Word: Asynchronous And Interprocess Comms](https://www.youtube.com/watch?v=2LMEJ-WGFTk)
+- [IcePanel - C4 Model - Getting Started Workshop](https://miro.com/miroverse/c4-model-getting-started-workshop/)
+- [Carl Sverre - Offline and Thriving: Building Resilient Applications with Local-First Techniques](https://www.infoq.com/presentations/offline-first-apps)
+- [Jonas Bonér - Designing Events-First Microservices](https://www.youtube.com/watch?v=1hwuWmMNT4c)
+- [Michael Feathers - Moving Past the Scaling Myth](https://www.infoq.com/presentations/scalability-variant-structuring/)
+- [Nigel Thurlow - A series of exploratory sessions on the OODA Loop. (observe, orient, decide, act)](https://www.youtube.com/playlist?list=PL-5yi0FPBtOKuYxJAPm-4kP74LUBzEV3g)
+- [Marc Brooker - Optimism vs Pessimism in Distributed Systems](https://brooker.co.za/blog/2023/10/18/optimism.html)
 - [Forrest Brazeal - Wait, is cloud bad?](https://newsletter.goodtechthings.com/p/wait-is-cloud-bad)
 - [TechDirt - The Batshit Crazy Story Of The Day Elon Musk Decided To Personally Rip Servers Out Of A Sacramento Data Center](https://www.techdirt.com/2023/09/12/the-batshit-crazy-story-of-the-day-elon-musk-decided-to-personally-rip-servers-out-of-a-sacramento-data-center/)
 - [Mark Richards - Software Architecture Monday Lessons](https://www.developertoarchitect.com/lessons/)
@@ -1177,6 +1185,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [HashiCorp - Terraform 1.6 adds a test framework for enhanced code validation](https://www.hashicorp.com/blog/terraform-1-6-adds-a-test-framework-for-enhanced-code-validation)
 - [Clare Sudbery - Continuous Integration: That’s Not What They Meant](https://www.youtube.com/watch?v=97qyNQz7fxY)
 - [Malin Litwinski - Empathy: The Secret sauce of Resilience](https://www.youtube.com/watch?v=F_-ZqBZY0x0)
 - [Zalando - Sunrise: Zalando's developer platform based on Backstage](https://engineering.zalando.com/posts/2023/08/sunrise-zalandos-developer-platform-based-on-backstage.html)
@@ -1586,6 +1595,7 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [Sam Combs - Accelerating GraphQL API Development with Schema Storming and Code-first Implementation](https://www.youtube.com/watch?v=zsHp6_kJVJ8)
 - [HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.](https://github.com/httpie/desktop)
 - [IETF - RFC 9457 - Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc9457.html)
 - [Darshan Shivashankar - Adopting an API Maturity Model to Accelerate Innovation](https://www.infoq.com/articles/api-maturity-model/)
@@ -1627,6 +1637,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Cloudflare - Hyperdrive: making databases feel like they’re global](https://blog.cloudflare.com/hyperdrive-making-regional-databases-feel-distributed/)
 - [Pete Naylor - Single table design for DynamoDB: The reality](https://www.gomomento.com/blog/single-table-design-for-dynamodb-the-reality)
 - [Developer Voices Podcast - Semantic Search: A Deep Dive Into Vector Databases (with Zain Hasan)](https://www.youtube.com/watch?v=kS9DazKNX-Y)
 - [FerretDB - A truly Open Source MongoDB alternative](https://github.com/FerretDB/FerretDB)
@@ -1966,6 +1977,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [AWS - Amazon SNS now supports in-place message archiving and replay for FIFO topics](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sns-in-place-message-archiving-replay-fifo-topics/)
 - [Luc van Donkersgoed - When the shoulders of giants are offered, you’d do well to stand on them](https://lucvandonkersgoed.com/2023/10/13/if-the-shoulders-of-giants-are-offered-youd-do-well-to-stand-on-them/)
 - [AWS - GraphQL Gateway Based Federation with AWS AppSync and GraphQL Fusion](https://aws.amazon.com/blogs/mobile/graphql-gateway-based-federation-with-aws-appsync-and-graphql-fusion/)
 - [Yan Cui - Is Bun the Next Big Thing for AWS Lambda? A Thorough Investigation](https://lumigo.io/blog/is-bun-the-next-big-thing-for-aws-lambda-a-thorough-investigation)
@@ -2014,6 +2026,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Microsoft - Announcing Microsoft Playwright Testing: Scalable end-to-end testing for modern web apps](https://azure.microsoft.com/en-us/blog/announcing-microsoft-playwright-testing-scalable-end-to-end-testing-for-modern-web-apps/)
 - [Martin Thwaites - Creating an AKS cluster with WebApplication Routing using Pulumi](https://martinjt.me/2023/09/11/creating-an-aks-cluster-with-webapplication-routing-using-pulumi/)
 - [Troy Hunt - How to get your SSL for free on a Shared Azure website with CloudFlare](https://www.troyhunt.com/how-to-get-your-ssl-for-free-on-shared)
 - [Microsoft - What is a multi-tenant organization in Azure Active Directory?](https://learn.microsoft.com/en-us/azure/active-directory/multi-tenant-organizations/multi-tenant-organization-overview)
@@ -2088,6 +2101,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Brandon Minnick - Correcting Common Async/Await Mistakes in .NET 8](https://www.youtube.com/watch?v=zhCRX3B7qwY)
+- [Layla Porter - ASP.NET Basics for Experts](https://www.youtube.com/watch?v=8K-7afjoYFs)
+- [Jeremy D. Miller - Low Ceremony Web Service Development with the Critter Stack](https://jeremydmiller.com/2023/10/31/low-ceremony-web-service-development-with-the-critter-stack/)
+- [Steven Giesel - Interfaces can have private methods](https://steven-giesel.com/blogPost/03957748-73b3-40f9-a9f7-cc95501a3a8e)
 - [Khalid Abuhakmeh - How to use Testcontainers with .NET Unit Tests](https://blog.jetbrains.com/dotnet/2023/10/24/how-to-use-testcontainers-with-dotnet-unit-tests/)
 - [Gérald Barré - Customizing the behavior of record copy constructors](https://www.meziantou.net/customizing-the-behavior-of-the-record-copy-constructor.htm)
 - [Tim Deschryver - How to fully leverage Wolverine with its HTTP package](https://timdeschryver.dev/blog/how-to-fully-leverage-wolverine-with-its-http-package)
@@ -2764,6 +2781,7 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [Colin Eberhardt - The State of WebAssembly 2023](https://blog.scottlogic.com/2023/10/18/the-state-of-webassembly-2023.html)
 - [Rafael Fernández - Running Wasm Workers Server in Docker Desktop](https://wasmlabs.dev/articles/docker-wasm-wws/)
 - [wasmCloud - Simple, secure, distributed application development using WebAssembly actors and capability providers](https://github.com/wasmCloud/wasmCloud)
 - [Radu Matei - Towards sockets and networking in WebAssembly and WASI](https://radu-matei.com/blog/towards-sockets-networking-wasi/)
@@ -2792,6 +2810,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Emily Bache - Technical Coaching with the Samman method](https://www.youtube.com/watch?v=6kq584SbAQI)
 - [Oskar Dudycz - Women in IT](https://event-driven.io/en/women_in_it/?utm_source=architecture_weekly)
 - [Taylor Poindexter, Scott Hanselman - How to Build a Meaningful Career](https://www.youtube.com/watch?v=_egQrM13qyM)
 - [Julia Evans - Making Hard Things Easy](https://www.youtube.com/watch?v=30YWsGDr8mA)
@@ -3045,6 +3064,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Aleix Morgadas - Design and execute your own engineering strategy](https://www.youtube.com/watch?v=OUutkqys4wg)
+- [Ryan Bonnici - Why I Encourage My Best Employees to Consider Outside Job Offers](https://hbr.org/2018/09/why-i-encourage-my-best-employees-to-consider-outside-job-offers)
 - [Hazel Weakly - The Power of Being New: A Proven Recipe for High Impact](https://hazelweakly.me/blog/the-power-of-being-new--a-proven-recipe-for-high-impact/)
 - [John Cutler - The Ultimate Guide to Developer Counter-Productivity](https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer)
 - [Benji Weber - One does not simply deliver software](https://benjiweber.co.uk/blog/2023/10/15/one-does-not-simply-deliver-software/)
@@ -3171,6 +3192,7 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [Pawel Huryn - How to Craft a Winning Product Strategy](https://www.youtube.com/watch?v=gdl0W2mhFJQ)
 - [Crisp Academy - Master Class with Marty Cagan](https://www.youtube.com/watch?v=mcnxxdzC2fY)
 - [Pawel Huryn - How to Craft a Winning Product Strategy](https://www.youtube.com/watch?v=gdl0W2mhFJQ)
 - [John Cutler - 15 Metaphors for Waste In Product Development](https://cutlefish.substack.com/p/tbm-247-15-metaphors-for-waste-in)
@@ -3401,6 +3423,9 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [Analog - The fullstack Angular meta-framework](https://analogjs.org/)
+- [Hono - Fast, Lightweight, Web-standards](https://hono.dev/)
+- [Fastify - Fast and low overhead web framework, for Node.js](https://fastify.dev/)
 - [OpenJS Foundation - Node.js 21 Available Now!](https://openjsf.org/announcement/2023/10/17/node-js-21-available-now)
 - [SuperTest - Super-agent driven library for testing node.js HTTP servers using a fluent API](https://github.com/ladjs/supertest)
 - [Turbo - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. ](https://github.com/vercel/turbo)
@@ -3509,6 +3534,7 @@
 - [Stephen Dolan, Leo White - Stack allocation for OCaml](https://www.youtube.com/watch?v=yGRn5ZIbEW8)
 
 ## PHP
+- [Dariusz Gafka - Finally, Tracing in PHP — Say Hello to OpenTelemetry](https://dariuszgafka.medium.com/finally-tracing-in-php-say-hello-to-opentelemetry-26f9a06ee8c7)
 - [Matthias Noback - TailEventStream - A simple, tail-based event stream](https://github.com/matthiasnoback/tail-event-stream/)
 
 ## Python
@@ -3580,6 +3606,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Business Insider - The reality of Big Tech's 'fake work' problem](https://www.businessinsider.com/tech-industry-fake-work-problem-bad-managers-bosses-layoffs-jobs-2023-7?IR=T)
+- [Serverless Framework - V4: A New Model](https://www.serverless.com/blog/serverless-framework-v4-a-new-model)
 - [Last Week Tonight with John Oliver - McKinsey](https://www.youtube.com/watch?v=AiOUojVd6xQ)
 - [TechRadar - Microsoft is reportedly losing huge amounts of money on GitHub Copilot](https://www.techradar.com/pro/microsoft-is-reportedly-losing-huge-amounts-of-money-on-github-copilot)
 - [ZDNet - Microsoft has over a million paying Github Copilot users: CEO Nadella](https://www.zdnet.com/article/microsoft-has-over-a-million-paying-github-copilot-users-ceo-nadella/)
@@ -3905,6 +3933,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Sameer Kumar - Overcoming Vim-Phobia: My Journey of Redemption](https://betterprogramming.pub/overcoming-vim-phobia-my-journey-of-redemption-d1114e6922ab)
 - [Typesense - A fast, typo-tolerant search engine for building delightful search experiences](https://github.com/typesense/typesense)
 - [OpenFGA - Modeling Entitlements for a System with OpenFGA](https://openfga.dev/docs/modeling/advanced/entitlements)
 - [Zach Leatherman - Which Generator builds Markdown the fastest?](https://www.zachleat.com/web/build-benchmark/)
