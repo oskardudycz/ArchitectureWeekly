@@ -59,6 +59,16 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - GDPR for busy developers](https://event-driven.io/en/gdpr_for_busy_developers/?utm_source=architecture_weekly)
+- [Adrian Cockcroft - Microservices Retrospective – What We Learned (and Didn’t Learn) from Netflix](https://www.infoq.com/presentations/microservices-netflix-industry)
+- [Pierre Pureur - Has Your Architectural Decision Record Lost Its Purpose?](https://www.infoq.com/articles/architectural-decision-record-purpose/)
+- [Yves Goeleven - What is Event Modeling? (with example)](https://www.goeleven.com/blog/event-modeling/)
+- [Ludic - I Accidentally Saved Half A Million Dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/)
+- [Mark Nottingham - Technical Standards Bodies are Regulators](https://www.mnot.net/blog/2023/11/01/regulators)
+- [Arpit Bhayani - Understanding the read-your-write consistency and why it is important](https://arpitbhayani.me/blogs/read-your-write-consistency/)
+- [Joseph-Emmanuel Banzio - Building a reliable notification system](https://engineering.contentsquare.com/2023/building-a-reliable-notification-system/)
+- [Olimpiu Pop - Do Gen AI and OSS Regulation Bring Us Further Away from Exiting the Dependency Hell?](https://www.infoq.com/news/2023/11/supply-chain-2023-insights)
+- [Michael Shpilt - Premature Infrastructure is the Root of All Evil](https://michaelscodingspot.com/premature-infrastructure-is-evil)
 - [Oskar Dudycz - Anti-patterns in event modelling - Clickbait event](https://event-driven.io/en/clickbait_event/?utm_source=architecture_weekly)
 - [Sam Newman - You Keep Using That Word: Asynchronous And Interprocess Comms](https://www.youtube.com/watch?v=2LMEJ-WGFTk)
 - [IcePanel - C4 Model - Getting Started Workshop](https://miro.com/miroverse/c4-model-getting-started-workshop/)
@@ -1185,6 +1195,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Paul Ingles - Convergence to Kubernetes](https://pingles.medium.com/convergence-to-kubernetes-137ffa7ea2bc)
+- [Martin Thwaites - How to Avoid Paying for Honeycomb](https://www.honeycomb.io/blog/avoid-paying-for-honeycomb)
 - [HashiCorp - Terraform 1.6 adds a test framework for enhanced code validation](https://www.hashicorp.com/blog/terraform-1-6-adds-a-test-framework-for-enhanced-code-validation)
 - [Clare Sudbery - Continuous Integration: That’s Not What They Meant](https://www.youtube.com/watch?v=97qyNQz7fxY)
 - [Malin Litwinski - Empathy: The Secret sauce of Resilience](https://www.youtube.com/watch?v=F_-ZqBZY0x0)
@@ -1523,6 +1535,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Ivan Dugalic - Specification By Example](https://fraktalio.com/blog/specification-by-example.html)
 - [Jeremy D. Miller - Notes on Teaching Test Driven Development](https://jeremydmiller.com/2023/09/14/notes-on-teaching-test-driven-development/)
 - [Ian Russell - Introduction to TDD](https://ijrussell.github.io/posts/introduction-to-tdd)
 - [Nubank - Why We Killed Our End-to-End Test Suit](https://building.nubank.com.br/why-we-killed-our-end-to-end-test-suite/)
@@ -1637,6 +1650,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Fujitsu - What are the partitioning types available in PostgreSQL, and how should I choose one?](https://www.postgresql.fastware.com/postgresql-insider-prt-ove)
 - [Cloudflare - Hyperdrive: making databases feel like they’re global](https://blog.cloudflare.com/hyperdrive-making-regional-databases-feel-distributed/)
 - [Pete Naylor - Single table design for DynamoDB: The reality](https://www.gomomento.com/blog/single-table-design-for-dynamodb-the-reality)
 - [Developer Voices Podcast - Semantic Search: A Deep Dive Into Vector Databases (with Zain Hasan)](https://www.youtube.com/watch?v=kS9DazKNX-Y)
@@ -1862,6 +1876,12 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [GitHub - Universe 2023: Copilot transforms GitHub into the AI-powered developer platform](https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/)
+- [Docker - Docker with Neo4j, LangChain, and Ollama Launches New GenAI Stack for Developers](https://www.docker.com/press-release/neo4j-langchain-ollama-launches-new-genai-stack-for-developers/)
+- [The Verge - AI companies have all kinds of arguments against paying for copyrighted content](https://www.theverge.com/2023/11/4/23946353/generative-ai-copyright-training-data-openai-microsoft-google-meta-stabilityai)
+- [The White House - FACT SHEET: President Biden Issues Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/)
+- [GitHub - The architecture of today’s LLM applications](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/)
+- [bloop - ChatGPT for your code. Ask questions in natural language, search for code and generate patches using your existing codebase as context.](https://github.com/BloopAI/bloop)
 - [Olena Kutsenko - TensorFlow, Postgres, PGVector & Next.js: building a movie recommender](https://www.youtube.com/playlist?list=PLo6PI-0mPVLt2nQGH10XA3wdWFZ7r8jOK)
 - [Reuven Lerner - I’m banned for life from advertising on Meta. Because I teach Python](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
 - [Google - Pair Programming with a Large Language Model Free Online Course](https://www.deeplearning.ai/short-courses/pair-programming-llm/)
@@ -2101,6 +2121,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Guilherme Ferreira - Apache Kafka in 1 hour for C# Developers](https://www.youtube.com/watch?v=E07CGvGVal8)
+- [Steve Gordon - Automating Memory Profiling with the JetBrains dotMemory Profiler API](https://www.stevejgordon.co.uk/automating-memory-profiling-with-the-jetbrains-dotmemory-profiler-api)
+- [Andrew Lock - Avoiding flaky tests with TimeProvider and ITimer](https://andrewlock.net/exploring-the-dotnet-8-preview-avoiding-flaky-tests-with-timeprovider-and-itimer/)
+- [Stephen Cleary - ConfigureAwait in .NET 8](https://blog.stephencleary.com/2023/11/configureawait-in-net-8.html)
 - [Brandon Minnick - Correcting Common Async/Await Mistakes in .NET 8](https://www.youtube.com/watch?v=zhCRX3B7qwY)
 - [Layla Porter - ASP.NET Basics for Experts](https://www.youtube.com/watch?v=8K-7afjoYFs)
 - [Jeremy D. Miller - Low Ceremony Web Service Development with the Critter Stack](https://jeremydmiller.com/2023/10/31/low-ceremony-web-service-development-with-the-critter-stack/)
@@ -2781,6 +2805,7 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [Google - WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome](https://developer.chrome.com/blog/wasmgc/)
 - [Colin Eberhardt - The State of WebAssembly 2023](https://blog.scottlogic.com/2023/10/18/the-state-of-webassembly-2023.html)
 - [Rafael Fernández - Running Wasm Workers Server in Docker Desktop](https://wasmlabs.dev/articles/docker-wasm-wws/)
 - [wasmCloud - Simple, secure, distributed application development using WebAssembly actors and capability providers](https://github.com/wasmCloud/wasmCloud)
@@ -3339,6 +3364,7 @@
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
 ## JVM
+- [Adam Warski - Limits of Loom's performance](https://softwaremill.com/limits-of-looms-performance/)
 - [Luiz Hespanha, Flavio Brasil - A JVM threading model for the containerized times](https://www.youtube.com/watch?v=APNV_0I7nbs)
 - [GraalVM - New GraalVM release](https://www.youtube.com/watch?v=lWhEg-6DqM0)
 - [Ionut Balosin - Analyzing JVM Energy Consumption for JDK 17: An Empirical Study](https://ionutbalosin.com/2023/07/analyzing-jvm-energy-consumption-for-jdk-17-an-empirical-study/)
@@ -3388,6 +3414,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Amir Khansari - TypeScript prototype of the Decider pattern](https://gist.github.com/akhansari/b43a9a60ba1ca3f2a8c8705aa0db3efb)
 - [Sergiy Biluk - Type negation in TypeScript](https://catchts.com/type-negation)
 - [Michael Arnaldi - Introduction to Effect](https://www.youtube.com/watch?v=zrNr3JVUc8I)
 - [InfoWorld - Microsoft’s DeviceScript brings TypeScript to IoT](https://www.infoworld.com/article/3699136/microsoft-devicescript-brings-typescript-to-iot.html)
@@ -3423,6 +3450,9 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [Kent C. Dodds - Why I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
+- [Lee Robinson - Why I'm Using Next.js](https://leerob.io/blog/using-nextjs)
+- [Ethan Glover - I Hate NestJS](https://ethang.dev/blog/i-hate-nest-js/)
 - [Analog - The fullstack Angular meta-framework](https://analogjs.org/)
 - [Hono - Fast, Lightweight, Web-standards](https://hono.dev/)
 - [Fastify - Fast and low overhead web framework, for Node.js](https://fastify.dev/)
@@ -3606,6 +3636,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Dennis Doomen - Monetizing open-source development and supporting the community](https://www.continuousimprover.com/2023/06/funding-open-source.html)
+- [The Register - Meta, YouTube face criminal spying complaints in Ireland](https://www.theregister.com/2023/11/11/meta_youtube_criminal_charges/)
+- [Molly White - Sam Bankman-Fried: guilty on all charges](https://newsletter.mollywhite.net/p/sam-bankman-fried-guilty-on-all-charges)
 - [Business Insider - The reality of Big Tech's 'fake work' problem](https://www.businessinsider.com/tech-industry-fake-work-problem-bad-managers-bosses-layoffs-jobs-2023-7?IR=T)
 - [Serverless Framework - V4: A New Model](https://www.serverless.com/blog/serverless-framework-v4-a-new-model)
 - [Last Week Tonight with John Oliver - McKinsey](https://www.youtube.com/watch?v=AiOUojVd6xQ)
@@ -4023,6 +4056,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [The Linux Foundation - App Defense Alliance Migrates Under Joint Development Foundation with Google, Meta, and Microsoft as the Steering Committee](https://www.linuxfoundation.org/press/app-defense-alliance-migrates-under-jdf-with-google-meta-microsoft-as-steering-committee)
+- [Mailbox.org - Warning: New Outlook sends passwords, mails and other data to Microsoft](https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft)
 - [Brian Krebs - Hackers Stole Access Tokens from Okta’s Support Unit](https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/)
 - [CloudFlare - How Cloudflare mitigated yet another Okta compromise](https://blog.cloudflare.com/how-cloudflare-mitigated-yet-another-okta-compromise/)
 - [Rest of World - Signal President Meredith Whittaker on resisting government threats to privacy](https://restofworld.org/2023/signal-president-meredith-whittaker-messaing-privacy/)
