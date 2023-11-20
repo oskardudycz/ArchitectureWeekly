@@ -59,6 +59,13 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Mario Bittencourt - BPMN for Profit and Fun: Seamless Teams Collaboration in Software Development](https://medium.com/ssense-tech/bpmn-for-profit-and-fun-seamless-teams-collaboration-in-software-development-2fdd09d018d8)
+- [Emily Rosengren - Can We Please Stop Talking About Tech Debt?](https://www.youtube.com/watch?v=DvfMOJaIzhY)
+- [Continuous Delivery - Visualizing & Prioritizing Technical Debt To Identify RED CODE with Adam Tornhill](https://www.youtube.com/watch?v=guLKNxZoC5A)
+- [Brian Foote, Joseph Yoder - Big Ball of Mud](http://www.laputan.org/mud/)
+- [David Hope - Understand your data requirements](https://blog.scottlogic.com/2023/11/07/understand-your-data-requirements.html)
+- [Mihir Sathe - Load Balancing: A More Realistic Model](https://medium.com/@mihsathe/load-balancing-a-more-realistic-model-ecf5686b184f)
+- [AirBnB - Scaling Airbnb’s Payment Platform](https://medium.com/airbnb-engineering/scaling-airbnbs-payment-platform-43ebfc99b324)
 - [Oskar Dudycz - GDPR for busy developers](https://event-driven.io/en/gdpr_for_busy_developers/?utm_source=architecture_weekly)
 - [Adrian Cockcroft - Microservices Retrospective – What We Learned (and Didn’t Learn) from Netflix](https://www.infoq.com/presentations/microservices-netflix-industry)
 - [Pierre Pureur - Has Your Architectural Decision Record Lost Its Purpose?](https://www.infoq.com/articles/architectural-decision-record-purpose/)
@@ -1195,6 +1202,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Google - Lessons Learned from Twenty Years of Site Reliability Engineering. Or, Eleven things we have learned as Site Reliability Engineers at Google](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
 - [Paul Ingles - Convergence to Kubernetes](https://pingles.medium.com/convergence-to-kubernetes-137ffa7ea2bc)
 - [Martin Thwaites - How to Avoid Paying for Honeycomb](https://www.honeycomb.io/blog/avoid-paying-for-honeycomb)
 - [HashiCorp - Terraform 1.6 adds a test framework for enhanced code validation](https://www.hashicorp.com/blog/terraform-1-6-adds-a-test-framework-for-enhanced-code-validation)
@@ -1402,6 +1410,10 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Micro Frontends Meetup - State of Micro Frontends with Luca Mezzalira](https://www.youtube.com/watch?v=A_bF4ol0l3k)
+- [HTML First](https://html-first.com/)
+- [Jake Lazaroff - Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)
+- [CSS-Tricks - Web Components Are Easier Than You Think](https://css-tricks.com/web-components-are-easier-than-you-think/)
 - [Amy Kapernick - Your website does not need JavaScript](https://www.youtube.com/watch?v=wKU65gV6FSA)
 - [Josh Comeau - Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
 - [Theo - The Truth About HTMX](https://www.youtube.com/watch?v=NA5Fcgs_viU)
@@ -1535,6 +1547,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [The NewStack - The Struggle for Microservice Integration Testing](https://thenewstack.io/the-struggle-for-microservice-integration-testing/)
 - [Ivan Dugalic - Specification By Example](https://fraktalio.com/blog/specification-by-example.html)
 - [Jeremy D. Miller - Notes on Teaching Test Driven Development](https://jeremydmiller.com/2023/09/14/notes-on-teaching-test-driven-development/)
 - [Ian Russell - Introduction to TDD](https://ijrussell.github.io/posts/introduction-to-tdd)
@@ -1608,6 +1621,7 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [IETF - The Idempotency-Key HTTP Header Field](https://datatracker.ietf.org/doc/draft-ietf-httpapi-idempotency-key-header/)
 - [Sam Combs - Accelerating GraphQL API Development with Schema Storming and Code-first Implementation](https://www.youtube.com/watch?v=zsHp6_kJVJ8)
 - [HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.](https://github.com/httpie/desktop)
 - [IETF - RFC 9457 - Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc9457.html)
@@ -1876,6 +1890,7 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [Jodie Burchell - Garbage data in, garbage models out](https://www.youtube.com/watch?v=9EI_lqPUVEE)
 - [GitHub - Universe 2023: Copilot transforms GitHub into the AI-powered developer platform](https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/)
 - [Docker - Docker with Neo4j, LangChain, and Ollama Launches New GenAI Stack for Developers](https://www.docker.com/press-release/neo4j-langchain-ollama-launches-new-genai-stack-for-developers/)
 - [The Verge - AI companies have all kinds of arguments against paying for copyrighted content](https://www.theverge.com/2023/11/4/23946353/generative-ai-copyright-training-data-openai-microsoft-google-meta-stabilityai)
@@ -2046,6 +2061,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [azcagit - GitOps Engine for Azure Container Apps](https://github.com/XenitAB/azcagit)
 - [Microsoft - Announcing Microsoft Playwright Testing: Scalable end-to-end testing for modern web apps](https://azure.microsoft.com/en-us/blog/announcing-microsoft-playwright-testing-scalable-end-to-end-testing-for-modern-web-apps/)
 - [Martin Thwaites - Creating an AKS cluster with WebApplication Routing using Pulumi](https://martinjt.me/2023/09/11/creating-an-aks-cluster-with-webapplication-routing-using-pulumi/)
 - [Troy Hunt - How to get your SSL for free on a Shared Azure website with CloudFlare](https://www.troyhunt.com/how-to-get-your-ssl-for-free-on-shared)
@@ -2121,6 +2137,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - We introduced support plans for Marten](https://event-driven.io/en/marten_support_plans/?utm_source=architecture_weekly)
+- [Microsoft - Announcing .NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8)
+- [Microsoft - .NET Conf 2023](https://www.youtube.com/watch?v=mna5fg7QGz8&list=PLdo4fOcmZ0oULyHSPBx-tQzePOYlhvrAU)
+- [Microsoft - Introducing .NET Aspire: Simplifying Cloud-Native Development with .NET 8](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-simplifying-cloud-native-development-with-dotnet-8)
+- [Microsoft - Announcing F# 8](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8)
 - [Guilherme Ferreira - Apache Kafka in 1 hour for C# Developers](https://www.youtube.com/watch?v=E07CGvGVal8)
 - [Steve Gordon - Automating Memory Profiling with the JetBrains dotMemory Profiler API](https://www.stevejgordon.co.uk/automating-memory-profiling-with-the-jetbrains-dotmemory-profiler-api)
 - [Andrew Lock - Avoiding flaky tests with TimeProvider and ITimer](https://andrewlock.net/exploring-the-dotnet-8-preview-avoiding-flaky-tests-with-timeprovider-and-itimer/)
@@ -3089,6 +3110,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Ivar Jacobson, Alistair Cockburn - Use Cases are Essential](https://www.youtube.com/watch?v=QqKcuXB8PDo)
+- [Charity Majors - Compliance standards should be modern development practices](https://www.youtube.com/watch?v=tuunGZ-4wPQ)
 - [Aleix Morgadas - Design and execute your own engineering strategy](https://www.youtube.com/watch?v=OUutkqys4wg)
 - [Ryan Bonnici - Why I Encourage My Best Employees to Consider Outside Job Offers](https://hbr.org/2018/09/why-i-encourage-my-best-employees-to-consider-outside-job-offers)
 - [Hazel Weakly - The Power of Being New: A Proven Recipe for High Impact](https://hazelweakly.me/blog/the-power-of-being-new--a-proven-recipe-for-high-impact/)
@@ -3217,6 +3240,7 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [Joakim Sundén - The Product Model at Spotify](https://joakimsunden.com/the-product-model-at-spotify/)
 - [Pawel Huryn - How to Craft a Winning Product Strategy](https://www.youtube.com/watch?v=gdl0W2mhFJQ)
 - [Crisp Academy - Master Class with Marty Cagan](https://www.youtube.com/watch?v=mcnxxdzC2fY)
 - [Pawel Huryn - How to Craft a Winning Product Strategy](https://www.youtube.com/watch?v=gdl0W2mhFJQ)
@@ -3246,6 +3270,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Yishai Galat - Java at AWS: Lessons Learned from Upgrading and Modernizing a Massive JVM Codebase](https://www.youtube.com/watch?v=Yu2BhWk9mKY)
 - [Jarosław Pałka - Bare metal Java](https://www.youtube.com/watch?v=pBe407IRA4M)
 - [Cay S. Horstmann - Java 21: The Nice, The Meh, and the ... Momentous](https://horstmann.com/unblog/2023-09-19/index.html)
 - [Piotr Przybył - Java 21™ What's new and noteworthy?](https://www.youtube.com/watch?v=Om8dIt3cJIU)
@@ -3587,6 +3612,7 @@
 - [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
 
 ## Rust
+- [NGINX - Extending NGINX with Rust (an Alternative to C)](https://www.nginx.com/blog/extending-nginx-with-rust-an-alternative-to-c/)
 - [JetBrains - Introducing RustRover – A Standalone Rust IDE by JetBrains](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
 - [GitHub - Why Rust is the most admired language among developers](https://github.blog/2023-08-30-why-rust-is-the-most-admired-language-among-developers)
 - [Jonathan Turner - Why I left Rust](https://www.jntrnr.com/why-i-left-rust/)
@@ -3636,6 +3662,11 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Simon Wardley - Why open source AI matters.](https://swardley.medium.com/why-open-source-ai-matters-a46a7d23ad0e)
+- [OpenAI - OpenAI announces leadership transition](https://openai.com/blog/openai-announces-leadership-transition)
+- [The Verge - OpenAI board in discussions with Sam Altman to return as CEO](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo)
+- [The Verge - Sam Altman isn’t coming back to OpenAI](https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo)
+- [The Verge - Microsoft hires former OpenAI CEO Sam Altman](https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai)
 - [Dennis Doomen - Monetizing open-source development and supporting the community](https://www.continuousimprover.com/2023/06/funding-open-source.html)
 - [The Register - Meta, YouTube face criminal spying complaints in Ireland](https://www.theregister.com/2023/11/11/meta_youtube_criminal_charges/)
 - [Molly White - Sam Bankman-Fried: guilty on all charges](https://newsletter.mollywhite.net/p/sam-bankman-fried-guilty-on-all-charges)
@@ -4056,6 +4087,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [BleepingComputer - New Microsoft Exchange zero-days allow RCE, data theft attacks](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-zero-days-allow-rce-data-theft-attacks/)
 - [The Linux Foundation - App Defense Alliance Migrates Under Joint Development Foundation with Google, Meta, and Microsoft as the Steering Committee](https://www.linuxfoundation.org/press/app-defense-alliance-migrates-under-jdf-with-google-meta-microsoft-as-steering-committee)
 - [Mailbox.org - Warning: New Outlook sends passwords, mails and other data to Microsoft](https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft)
 - [Brian Krebs - Hackers Stole Access Tokens from Okta’s Support Unit](https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/)
