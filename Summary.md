@@ -59,6 +59,18 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - How to deal with privacy and GDPR in Event-Driven systems](https://event-driven.io/en/gdpr_in_event_driven_architecture/?utm_source=architecture_weekly)
+- [OneUptime - How moving from AWS to Bare-Metal saved us $230,000 /yr.](https://blog.oneuptime.com/moving-from-aws-to-bare-metal/)
+- [Spotify - Switching Build Systems, Seamlessly](https://engineering.atspotify.com/2023/10/switching-build-systems-seamlessly/)
+- [Prefixy - How We Built Prefixy: A Scalable Prefix Search Service for Powering Autocomplete](https://medium.com/@prefixyteam/how-we-built-prefixy-a-scalable-prefix-search-service-for-powering-autocomplete-c20f98e2eff1)
+- [Krzysztof Przychodzki - Beyond the Code - An Engineer’s Battle Against Knowledge Loss](https://blog.allegro.tech/2023/10/battle-against-knowledge-loss.html)
+- [Jay Kreps - Streaming into the Future - The Evolution & Impact of Data Streaming Platforms](https://www.youtube.com/watch?v=gH2ST1Huv4k)
+- [Jeff Chao - Squirreling Away $640 Billion: How Stripe Leverages Flink for Change Data Capture (slides)](https://www.slideshare.net/FlinkForward/squirreling-away-640-billion-how-stripe-leverages-flink-for-change-data-capture)
+- [Sandi Metz - The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+- [Claire Carroll - How to be a more Impactful Data Analyst](https://www.youtube.com/watch?v=d8H0942c3aQ)
+- [Maciej "MJ" Jedrzejewski - Mastering Strategic Domain-Driven Design - 4. Tuning of Subdomains](https://meaboutsoftware.com/2023/11/26/mastering-strategic-domain-driven-design-4-tuning-of-subdomains/)
+- [Gien Verschatse - Collaborative Software Design](https://www.youtube.com/watch?v=NYDQoVqPF3M)
+- [Nick Tune - Sustainable software development with collaborative domain modeling](https://www.youtube.com/watch?v=jMIxD4MFD2g)
 - [Mario Bittencourt - BPMN for Profit and Fun: Seamless Teams Collaboration in Software Development](https://medium.com/ssense-tech/bpmn-for-profit-and-fun-seamless-teams-collaboration-in-software-development-2fdd09d018d8)
 - [Emily Rosengren - Can We Please Stop Talking About Tech Debt?](https://www.youtube.com/watch?v=DvfMOJaIzhY)
 - [Continuous Delivery - Visualizing & Prioritizing Technical Debt To Identify RED CODE with Adam Tornhill](https://www.youtube.com/watch?v=guLKNxZoC5A)
@@ -1202,6 +1214,11 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [CNCF - Platforms White Paper](https://tag-app-delivery.cncf.io/whitepapers/platforms/)
+- [M. McLean, T. Young, A. Sharma, D. Dyla - OpenTelemetry: What's Next? Logs, Profiles... ](https://www.youtube.com/watch?v=OEGgmTNfYsU)
+- [Rouan Wilsenach - Ship / Show / Ask. A modern branching strategy](https://martinfowler.com/articles/ship-show-ask.html)
+- [Yan Cui - Charity Majors on DevOps culture and team dynamic](https://www.youtube.com/watch?v=ya7Ojbt_MTI)
+- [Nitric - Why we chose Pulumi over Terraform](https://nitric.io/blog/why-nitric-chose-pulumi)
 - [Google - Lessons Learned from Twenty Years of Site Reliability Engineering. Or, Eleven things we have learned as Site Reliability Engineers at Google](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
 - [Paul Ingles - Convergence to Kubernetes](https://pingles.medium.com/convergence-to-kubernetes-137ffa7ea2bc)
 - [Martin Thwaites - How to Avoid Paying for Honeycomb](https://www.honeycomb.io/blog/avoid-paying-for-honeycomb)
@@ -1410,6 +1427,8 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [NgRx - Introducing NgRx Signals, Operators, Performance Improvements, Workshops, and more!](https://dev.to/ngrx/announcing-ngrx-v17-introducing-ngrx-signals-operators-performance-improvements-workshops-and-more-55e4)
+- [Vite - Vite 5.0 is out!](https://vitejs.dev/blog/announcing-vite5)
 - [Micro Frontends Meetup - State of Micro Frontends with Luca Mezzalira](https://www.youtube.com/watch?v=A_bF4ol0l3k)
 - [HTML First](https://html-first.com/)
 - [Jake Lazaroff - Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)
@@ -1547,6 +1566,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Microsoft - Consumer-driven Contract Testing](https://microsoft.github.io/code-with-engineering-playbook/automated-testing/cdc-testing/)
 - [The NewStack - The Struggle for Microservice Integration Testing](https://thenewstack.io/the-struggle-for-microservice-integration-testing/)
 - [Ivan Dugalic - Specification By Example](https://fraktalio.com/blog/specification-by-example.html)
 - [Jeremy D. Miller - Notes on Teaching Test Driven Development](https://jeremydmiller.com/2023/09/14/notes-on-teaching-test-driven-development/)
@@ -1621,6 +1641,8 @@
 - [Hillel Wayne - Cross-Branch Testing](https://buttondown.email/hillelwayne/archive/cross-branch-testing/)
 
 ## API
+- [API Evangelist - Where Is This API Gateway Thing Going?](https://apievangelist.com/2023/11/12/where-is-this-api-gateway-thing-going/)
+- [Stefan Tilkov - Why “API-first” might not be a good idea](https://www.youtube.com/watch?v=fNLQiurGQhE)
 - [IETF - The Idempotency-Key HTTP Header Field](https://datatracker.ietf.org/doc/draft-ietf-httpapi-idempotency-key-header/)
 - [Sam Combs - Accelerating GraphQL API Development with Schema Storming and Code-first Implementation](https://www.youtube.com/watch?v=zsHp6_kJVJ8)
 - [HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.](https://github.com/httpie/desktop)
@@ -1664,6 +1686,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Hussein Nasser - How Shopify’s engineering improved database writes by 50% with ULID](https://www.youtube.com/watch?v=f53-Iw_5ucA)
+- [The Geek Narrator - Graph Database Internals: @neo4j with Michael Hunger](https://www.youtube.com/watch?v=iihJXKAQZkA)
 - [Fujitsu - What are the partitioning types available in PostgreSQL, and how should I choose one?](https://www.postgresql.fastware.com/postgresql-insider-prt-ove)
 - [Cloudflare - Hyperdrive: making databases feel like they’re global](https://blog.cloudflare.com/hyperdrive-making-regional-databases-feel-distributed/)
 - [Pete Naylor - Single table design for DynamoDB: The reality](https://www.gomomento.com/blog/single-table-design-for-dynamodb-the-reality)
@@ -2137,6 +2161,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Rich Lander - .NET 8 container workshop](https://github.com/richlander/container-workshop)
+- [David Whitney - Lo-Fi Service Discovery in .NET8](https://dev.to/david_whitney/lo-fi-service-discovery-in-net8-2h5o)
+- [Microsoft - Lesson Learned #449: Unleashing Concurrent Threads for Robust Database Health Checks in C#](https://techcommunity.microsoft.com/t5/azure-database-support-blog/lesson-learned-449-unleashing-concurrent-threads-for-robust/ba-p/3966484)
+- [Tim Deschryver - NuGet Central Package Management](https://timdeschryver.dev/bits/nuget-central-package-management)
 - [Oskar Dudycz - We introduced support plans for Marten](https://event-driven.io/en/marten_support_plans/?utm_source=architecture_weekly)
 - [Microsoft - Announcing .NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8)
 - [Microsoft - .NET Conf 2023](https://www.youtube.com/watch?v=mna5fg7QGz8&list=PLdo4fOcmZ0oULyHSPBx-tQzePOYlhvrAU)
@@ -3270,6 +3298,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Viktor Klang - Teaching old Streams new tricks](https://www.youtube.com/watch?v=8fMFa6OqlY8)
 - [Yishai Galat - Java at AWS: Lessons Learned from Upgrading and Modernizing a Massive JVM Codebase](https://www.youtube.com/watch?v=Yu2BhWk9mKY)
 - [Jarosław Pałka - Bare metal Java](https://www.youtube.com/watch?v=pBe407IRA4M)
 - [Cay S. Horstmann - Java 21: The Nice, The Meh, and the ... Momentous](https://horstmann.com/unblog/2023-09-19/index.html)
@@ -3662,6 +3691,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Phil Fersht, Saurabh Gupta - Services firms are out of runway. They must forget Labor Arbitrage and conform to Technology Arbitrage](https://www.horsesforsources.com/forget-labor-arbitrage_111823/)
+- [The Verge - Sam Altman to return as CEO of OpenAI](https://www.theverge.com/2023/11/22/23967223/sam-altman-returns-ceo-open-ai)
 - [Simon Wardley - Why open source AI matters.](https://swardley.medium.com/why-open-source-ai-matters-a46a7d23ad0e)
 - [OpenAI - OpenAI announces leadership transition](https://openai.com/blog/openai-announces-leadership-transition)
 - [The Verge - OpenAI board in discussions with Sam Altman to return as CEO](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo)
@@ -4087,6 +4118,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Tom's Hardware - Chinese hackers steal chip designs from major Dutch semiconductor company — perps lurked for over two years to steal NXP's chipmaking IP: Report](https://www.tomshardware.com/news/chinese-hackers-steal-chip-designs-from-major-dutch-semiconductor-company)
+- [ArsTechnica - Developers can’t seem to stop exposing credentials in publicly accessible code](https://arstechnica.com/security/2023/11/developers-cant-seem-to-stop-exposing-credentials-in-publicly-accessible-code/)
 - [BleepingComputer - New Microsoft Exchange zero-days allow RCE, data theft attacks](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-zero-days-allow-rce-data-theft-attacks/)
 - [The Linux Foundation - App Defense Alliance Migrates Under Joint Development Foundation with Google, Meta, and Microsoft as the Steering Committee](https://www.linuxfoundation.org/press/app-defense-alliance-migrates-under-jdf-with-google-meta-microsoft-as-steering-committee)
 - [Mailbox.org - Warning: New Outlook sends passwords, mails and other data to Microsoft](https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft)
@@ -4278,6 +4311,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Christine Shea, Chris. W. Johnson - Understanding the Contribution of Degraded Modes of Operation as a Cause of Incidents and Accidents in Air Traffic Management](https://www.dcs.gla.ac.uk/~johnson/papers/degraded_modes/Shea_Johnson_ATM_Submission.pdf)
 - [Matt Wynne - Feminism](https://mattwynne.net/feminism)
 - [Heikki Lotvonen - Amiga ASCII art](https://blog.glyphdrawing.club/amiga-ascii-art/)
 - [INNOQ Deutschland mourns the loss of its co-founder and CEO, Stefan Tilkov](https://www.innoq.com/en/stefan-tilkov/)
