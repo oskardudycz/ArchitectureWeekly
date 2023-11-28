@@ -38,6 +38,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [The Geek Narrator - Graph Database Internals: @neo4j with Michael Hunger](https://www.youtube.com/watch?v=iihJXKAQZkA)
 
 ### Frontend
+- [Everything You Need to Know About Micro Frontends](https://newsletter.systemdesign.one/p/micro-frontends)
 - [NgRx - Introducing NgRx Signals, Operators, Performance Improvements, Workshops, and more!](https://dev.to/ngrx/announcing-ngrx-v17-introducing-ngrx-signals-operators-performance-improvements-workshops-and-more-55e4)
 - [Vite - Vite 5.0 is out!](https://vitejs.dev/blog/announcing-vite5)
 
