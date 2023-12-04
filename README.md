@@ -23,6 +23,71 @@ There are two rules:
 💖 If this repository helped you - I'd be more than happy if you **join** the group of **my official supporters** at [Github Sponsors](https://github.com/sponsors/oskardudycz).
 
 ⭐ Star on GitHub or sharing with your friends will also help!
+---
+
+## [4th December 2023](per-week/2023-12-04.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
+
+---
+
+### Architecture
+- [Sonya Natanzon - It’s a Feature, Not a Bug: A Step-by-step Guide to Architectural Decisions](https://www.youtube.com/watch?v=chrjl9ALtKQ)
+- [Forbes - Citibank’s Billion-Dollar Mistake And How It Turned Out Two Years Later](https://www.forbes.com/sites/joshuastein/2022/09/12/citibanks-billion-dollar-mistake-and-how-it-turned-out-two-years-later/)
+- [Ashley Davis - The False Dichotomy of Monolith vs. Microservices](https://www.infoq.com/articles/monolith-versus-microservices/)
+- [Tomasz Stolarczyk - Who calls who? — a simple events heuristic](https://blog.arkency.com/who-calls-who-a-simple-events-heuristic/)
+- [Jake Lazaroff - An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts)
+
+### DevOps
+- [Evan Bottcher - What I Talk About When I Talk About Platforms](https://martinfowler.com/articles/talk-about-platforms.html)
+
+### Frontend
+- [AirBnb - A Deep Dive into Airbnb’s Server-Driven UI System](https://medium.com/airbnb-engineering/a-deep-dive-into-airbnbs-server-driven-ui-system-842244c5f5)
+
+### AI
+- [Alan Blackwell - ChatGPT is a bullshit generator. To understand AI, we should think harder about bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
+
+### AWS
+- [AWS - AWS Lambda functions now scale 12 times faster when handling high-volume requests](https://aws.amazon.com/blogs/aws/aws-lambda-functions-now-scale-12-times-faster-when-handling-high-volume-requests/)
+- [AWS - External endpoints and testing of task states now available in AWS Step Functions](https://aws.amazon.com/blogs/aws/external-endpoints-and-testing-of-task-states-now-available-in-aws-step-functions/)
+
+### Go
+- [Miłosz Smółka - Making Games in Go for Absolute Beginners](https://threedots.tech/post/making-games-in-go/)
+
+### Java
+- [Olga Gupalo - Working with Native Image Efficiently](https://medium.com/graalvm/working-with-native-image-efficiently-c512ccdcd61b)
+
+### .NET
+- [Oskar Dudycz - Are you Marten or Wolverine user? Tell us more!](https://event-driven.io/en/marten_user_survey/)
+- [Steve Gordon - Profiling Memory Allocations on Linux using the JetBrains dotMemory Command-Line Profiler](https://www.stevejgordon.co.uk/profiling-memory-allocations-on-linux-using-the-jetbrains-dotmemory-command-line-profiler)
+- [Andrew Lock - Behind [LogProperties] and the new telemetry logging source generator](https://andrewlock.net/behind-logproperties-and-the-new-telemetry-logging-source-generator/)
+- [Tim Deschryver - Intercepting HTTP requests with a DelegatingHandler](https://timdeschryver.dev/blog/intercepting-http-requests-with-a-delegatinghandler)
+- [Microsoft - How to make libraries compatible with native AOT](https://devblogs.microsoft.com/dotnet/creating-aot-compatible-libraries/)
+
+### Coding Life
+- [Alexander Reelsen - Goodbye DevRel… (for now)](https://spinscale.de/posts/2023-11-28-goodbye-devrel.html)
+- [Troy Hunt - A Decade of Have I Been Pwned](https://www.troyhunt.com/a-decade-of-have-i-been-pwned/)
+
+### Management
+- [Urs Enzler - The caretaker model – our way of working](https://www.planetgeek.ch/2023/06/13/the-caretaker-model-our-way-of-working/)
+- [Will Larson - Navigators](https://lethain.com/navigators/)
+- [Sumeet Gayathri Moghe - Adopting Asynchronous Collaboration in Distributed Software Teams ](https://www.infoq.com/articles/asynchronous-collaboration-software-teams/)
+
+### Industry
+- [Gergely Orosz - A Tech Conference Listed Fake Speakers for Years: I Accidentally Noticed](https://blog.pragmaticengineer.com/devternity-fake-speakers/)
+- [Fempire - A list of women tech speakers & organizers](https://github.com/fempire/women-tech-speakers-organizers)
+- [Duke University Libraries - Why We’re Dropping Basecamp](https://blogs.library.duke.edu/blog/2023/11/30/why-were-dropping-basecamp/)
+- [The Verge - Federal judge vows to investigate Google for intentionally destroying chats](https://www.theverge.com/2023/12/1/23984902/judge-james-donato-investigate-google)
+
+### Security
+- [ArsTechnica - Chrome’s next weapon in the War on Ad Blockers: Slower extension updates](https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/)
+- [Kevin Beaumont - What it means — CitrixBleed ransomware group woes grow as over 60 credit unions, hospitals, financial services and more breached in US.](https://doublepulsar.com/what-it-means-citrixbleed-ransom-group-woes-grow-as-over-60-credit-unions-hospitals-47766a091d4f)
+
+### Trivia
+- [Eric S. Raymond, Rick Moen - How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
+- [Kendra Albert - Care, Not Respect: Teaching Professionalism](https://kendraalbert.com/2021/07/15/care-not-respect-teaching-professionalism.html)
 
 ---
 

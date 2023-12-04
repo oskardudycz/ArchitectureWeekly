@@ -59,6 +59,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Sonya Natanzon - It’s a Feature, Not a Bug: A Step-by-step Guide to Architectural Decisions](https://www.youtube.com/watch?v=chrjl9ALtKQ)
+- [Forbes - Citibank’s Billion-Dollar Mistake And How It Turned Out Two Years Later](https://www.forbes.com/sites/joshuastein/2022/09/12/citibanks-billion-dollar-mistake-and-how-it-turned-out-two-years-later/)
+- [Ashley Davis - The False Dichotomy of Monolith vs. Microservices](https://www.infoq.com/articles/monolith-versus-microservices/)
+- [Tomasz Stolarczyk - Who calls who? — a simple events heuristic](https://blog.arkency.com/who-calls-who-a-simple-events-heuristic/)
+- [Jake Lazaroff - An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts)
 - [Oskar Dudycz - How to deal with privacy and GDPR in Event-Driven systems](https://event-driven.io/en/gdpr_in_event_driven_architecture/?utm_source=architecture_weekly)
 - [OneUptime - How moving from AWS to Bare-Metal saved us $230,000 /yr.](https://blog.oneuptime.com/moving-from-aws-to-bare-metal/)
 - [Spotify - Switching Build Systems, Seamlessly](https://engineering.atspotify.com/2023/10/switching-build-systems-seamlessly/)
@@ -1214,6 +1219,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Evan Bottcher - What I Talk About When I Talk About Platforms](https://martinfowler.com/articles/talk-about-platforms.html)
 - [CNCF - Platforms White Paper](https://tag-app-delivery.cncf.io/whitepapers/platforms/)
 - [M. McLean, T. Young, A. Sharma, D. Dyla - OpenTelemetry: What's Next? Logs, Profiles... ](https://www.youtube.com/watch?v=OEGgmTNfYsU)
 - [Rouan Wilsenach - Ship / Show / Ask. A modern branching strategy](https://martinfowler.com/articles/ship-show-ask.html)
@@ -1427,6 +1433,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [AirBnb - A Deep Dive into Airbnb’s Server-Driven UI System](https://medium.com/airbnb-engineering/a-deep-dive-into-airbnbs-server-driven-ui-system-842244c5f5)
 - [NgRx - Introducing NgRx Signals, Operators, Performance Improvements, Workshops, and more!](https://dev.to/ngrx/announcing-ngrx-v17-introducing-ngrx-signals-operators-performance-improvements-workshops-and-more-55e4)
 - [Vite - Vite 5.0 is out!](https://vitejs.dev/blog/announcing-vite5)
 - [Micro Frontends Meetup - State of Micro Frontends with Luca Mezzalira](https://www.youtube.com/watch?v=A_bF4ol0l3k)
@@ -1914,6 +1921,7 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [Alan Blackwell - ChatGPT is a bullshit generator. To understand AI, we should think harder about bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 - [Jodie Burchell - Garbage data in, garbage models out](https://www.youtube.com/watch?v=9EI_lqPUVEE)
 - [GitHub - Universe 2023: Copilot transforms GitHub into the AI-powered developer platform](https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/)
 - [Docker - Docker with Neo4j, LangChain, and Ollama Launches New GenAI Stack for Developers](https://www.docker.com/press-release/neo4j-langchain-ollama-launches-new-genai-stack-for-developers/)
@@ -2036,6 +2044,8 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [AWS - AWS Lambda functions now scale 12 times faster when handling high-volume requests](https://aws.amazon.com/blogs/aws/aws-lambda-functions-now-scale-12-times-faster-when-handling-high-volume-requests/)
+- [AWS - External endpoints and testing of task states now available in AWS Step Functions](https://aws.amazon.com/blogs/aws/external-endpoints-and-testing-of-task-states-now-available-in-aws-step-functions/)
 - [AWS - Amazon SNS now supports in-place message archiving and replay for FIFO topics](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sns-in-place-message-archiving-replay-fifo-topics/)
 - [Luc van Donkersgoed - When the shoulders of giants are offered, you’d do well to stand on them](https://lucvandonkersgoed.com/2023/10/13/if-the-shoulders-of-giants-are-offered-youd-do-well-to-stand-on-them/)
 - [AWS - GraphQL Gateway Based Federation with AWS AppSync and GraphQL Fusion](https://aws.amazon.com/blogs/mobile/graphql-gateway-based-federation-with-aws-appsync-and-graphql-fusion/)
@@ -2161,6 +2171,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - Are you Marten or Wolverine user? Tell us more!](https://event-driven.io/en/marten_user_survey/)
+- [Steve Gordon - Profiling Memory Allocations on Linux using the JetBrains dotMemory Command-Line Profiler](https://www.stevejgordon.co.uk/profiling-memory-allocations-on-linux-using-the-jetbrains-dotmemory-command-line-profiler)
+- [Andrew Lock - Behind [LogProperties] and the new telemetry logging source generator](https://andrewlock.net/behind-logproperties-and-the-new-telemetry-logging-source-generator/)
+- [Tim Deschryver - Intercepting HTTP requests with a DelegatingHandler](https://timdeschryver.dev/blog/intercepting-http-requests-with-a-delegatinghandler)
+- [Microsoft - How to make libraries compatible with native AOT](https://devblogs.microsoft.com/dotnet/creating-aot-compatible-libraries/)
 - [Rich Lander - .NET 8 container workshop](https://github.com/richlander/container-workshop)
 - [David Whitney - Lo-Fi Service Discovery in .NET8](https://dev.to/david_whitney/lo-fi-service-discovery-in-net8-2h5o)
 - [Microsoft - Lesson Learned #449: Unleashing Concurrent Threads for Robust Database Health Checks in C#](https://techcommunity.microsoft.com/t5/azure-database-support-blog/lesson-learned-449-unleashing-concurrent-threads-for-robust/ba-p/3966484)
@@ -2884,6 +2899,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Alexander Reelsen - Goodbye DevRel… (for now)](https://spinscale.de/posts/2023-11-28-goodbye-devrel.html)
+- [Troy Hunt - A Decade of Have I Been Pwned](https://www.troyhunt.com/a-decade-of-have-i-been-pwned/)
 - [Emily Bache - Technical Coaching with the Samman method](https://www.youtube.com/watch?v=6kq584SbAQI)
 - [Oskar Dudycz - Women in IT](https://event-driven.io/en/women_in_it/?utm_source=architecture_weekly)
 - [Taylor Poindexter, Scott Hanselman - How to Build a Meaningful Career](https://www.youtube.com/watch?v=_egQrM13qyM)
@@ -3138,6 +3155,9 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Urs Enzler - The caretaker model – our way of working](https://www.planetgeek.ch/2023/06/13/the-caretaker-model-our-way-of-working/)
+- [Will Larson - Navigators](https://lethain.com/navigators/)
+- [Sumeet Gayathri Moghe - Adopting Asynchronous Collaboration in Distributed Software Teams ](https://www.infoq.com/articles/asynchronous-collaboration-software-teams/)
 - [Ivar Jacobson, Alistair Cockburn - Use Cases are Essential](https://www.youtube.com/watch?v=QqKcuXB8PDo)
 - [Charity Majors - Compliance standards should be modern development practices](https://www.youtube.com/watch?v=tuunGZ-4wPQ)
 - [Aleix Morgadas - Design and execute your own engineering strategy](https://www.youtube.com/watch?v=OUutkqys4wg)
@@ -3298,6 +3318,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Olga Gupalo - Working with Native Image Efficiently](https://medium.com/graalvm/working-with-native-image-efficiently-c512ccdcd61b)
 - [Viktor Klang - Teaching old Streams new tricks](https://www.youtube.com/watch?v=8fMFa6OqlY8)
 - [Yishai Galat - Java at AWS: Lessons Learned from Upgrading and Modernizing a Massive JVM Codebase](https://www.youtube.com/watch?v=Yu2BhWk9mKY)
 - [Jarosław Pałka - Bare metal Java](https://www.youtube.com/watch?v=pBe407IRA4M)
@@ -3567,6 +3588,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Miłosz Smółka - Making Games in Go for Absolute Beginners](https://threedots.tech/post/making-games-in-go/)
 - [The Go Blog - Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
 - [Ben E. C. Boyter - How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/)
 - [Robert Laszczak - The Go libraries that never failed us: 22 libraries you need to know](https://threedots.tech/post/list-of-recommended-libraries)
@@ -3691,6 +3713,10 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Gergely Orosz - A Tech Conference Listed Fake Speakers for Years: I Accidentally Noticed](https://blog.pragmaticengineer.com/devternity-fake-speakers/)
+- [Fempire - A list of women tech speakers & organizers](https://github.com/fempire/women-tech-speakers-organizers)
+- [Duke University Libraries - Why We’re Dropping Basecamp](https://blogs.library.duke.edu/blog/2023/11/30/why-were-dropping-basecamp/)
+- [The Verge - Federal judge vows to investigate Google for intentionally destroying chats](https://www.theverge.com/2023/12/1/23984902/judge-james-donato-investigate-google)
 - [Phil Fersht, Saurabh Gupta - Services firms are out of runway. They must forget Labor Arbitrage and conform to Technology Arbitrage](https://www.horsesforsources.com/forget-labor-arbitrage_111823/)
 - [The Verge - Sam Altman to return as CEO of OpenAI](https://www.theverge.com/2023/11/22/23967223/sam-altman-returns-ceo-open-ai)
 - [Simon Wardley - Why open source AI matters.](https://swardley.medium.com/why-open-source-ai-matters-a46a7d23ad0e)
@@ -4118,6 +4144,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [ArsTechnica - Chrome’s next weapon in the War on Ad Blockers: Slower extension updates](https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/)
+- [Kevin Beaumont - What it means — CitrixBleed ransomware group woes grow as over 60 credit unions, hospitals, financial services and more breached in US.](https://doublepulsar.com/what-it-means-citrixbleed-ransom-group-woes-grow-as-over-60-credit-unions-hospitals-47766a091d4f)
 - [Tom's Hardware - Chinese hackers steal chip designs from major Dutch semiconductor company — perps lurked for over two years to steal NXP's chipmaking IP: Report](https://www.tomshardware.com/news/chinese-hackers-steal-chip-designs-from-major-dutch-semiconductor-company)
 - [ArsTechnica - Developers can’t seem to stop exposing credentials in publicly accessible code](https://arstechnica.com/security/2023/11/developers-cant-seem-to-stop-exposing-credentials-in-publicly-accessible-code/)
 - [BleepingComputer - New Microsoft Exchange zero-days allow RCE, data theft attacks](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-zero-days-allow-rce-data-theft-attacks/)
@@ -4311,6 +4339,8 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Eric S. Raymond, Rick Moen - How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
+- [Kendra Albert - Care, Not Respect: Teaching Professionalism](https://kendraalbert.com/2021/07/15/care-not-respect-teaching-professionalism.html)
 - [Christine Shea, Chris. W. Johnson - Understanding the Contribution of Degraded Modes of Operation as a Cause of Incidents and Accidents in Air Traffic Management](https://www.dcs.gla.ac.uk/~johnson/papers/degraded_modes/Shea_Johnson_ATM_Submission.pdf)
 - [Matt Wynne - Feminism](https://mattwynne.net/feminism)
 - [Heikki Lotvonen - Amiga ASCII art](https://blog.glyphdrawing.club/amiga-ascii-art/)
