@@ -59,6 +59,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - A few notes on migrating storage library](https://event-driven.io/en/notes_on_migrating_storage_library/?utm_source=architecture_weekly)
+- [Werner Vogels - Tech predictions for 2024 and beyond](https://www.allthingsdistributed.com/2023/11/tech-predictions-for-2024-and-beyond.html)
+- [JetBrains - The State of Developer Ecosystem 2023](https://www.jetbrains.com/lp/devecosystem-2023/)
+- [HubSpot - Handling Imbalanced Traffic with Kafka Swimlanes](https://product.hubspot.com/blog/imbalanced-traffic-routing)
+- [Urs Enzler - Our Experience with Bi-temporal Event Sourcing](https://www.planetgeek.ch/2023/12/04/our-experience-with-bi-temporal-event-sourcing/)
+- [J. Varajão, A. Trigo, M. Almeida - Low-code Development Productivity. "Is winter coming" for code-based technologies?](https://queue.acm.org/detail.cfm?id=3631183)
+- [Adrian Cockcroft - Measuring Carbon is Not Enough — Unintended Consequences](https://adrianco.medium.com/measuring-carbon-is-not-enough-unintended-consequences-80dccef0d8c5)
+- [Trond Hjorteland - Human centred system design](https://www.youtube.com/watch?v=KSWyIZevgHc)
+- [API Evolution - REST vs RPC. Verbs are just not that evil](https://apievolution.tavis.ca/posts/2023/RESTvsRPC/)
 - [Sonya Natanzon - It’s a Feature, Not a Bug: A Step-by-step Guide to Architectural Decisions](https://www.youtube.com/watch?v=chrjl9ALtKQ)
 - [Forbes - Citibank’s Billion-Dollar Mistake And How It Turned Out Two Years Later](https://www.forbes.com/sites/joshuastein/2022/09/12/citibanks-billion-dollar-mistake-and-how-it-turned-out-two-years-later/)
 - [Ashley Davis - The False Dichotomy of Monolith vs. Microservices](https://www.infoq.com/articles/monolith-versus-microservices/)
@@ -1219,6 +1228,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Bryan Boreham - How Prometheus Halved Its Memory Usage](https://www.youtube.com/watch?v=29yKJ1312AM)
+- [OTelBin - Web-based tool to facilitate OpenTelemetry collector configuration editing and verification](https://github.com/dash0hq/otelbin)
+- [Prometheus + Grafana + Loki in docker](https://github.com/DoTheEvo/selfhosted-apps-docker/tree/master/prometheus_grafana_loki)
 - [Evan Bottcher - What I Talk About When I Talk About Platforms](https://martinfowler.com/articles/talk-about-platforms.html)
 - [CNCF - Platforms White Paper](https://tag-app-delivery.cncf.io/whitepapers/platforms/)
 - [M. McLean, T. Young, A. Sharma, D. Dyla - OpenTelemetry: What's Next? Logs, Profiles... ](https://www.youtube.com/watch?v=OEGgmTNfYsU)
@@ -1573,6 +1585,8 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Kent Beck - TDD Isn't Design](https://tidyfirst.substack.com/p/tdd-isnt-design)
+- [Kamil Grzybek - Automated Tests: Strategy](https://www.kamilgrzybek.com/blog/posts/automated-tests-strategy)
 - [Microsoft - Consumer-driven Contract Testing](https://microsoft.github.io/code-with-engineering-playbook/automated-testing/cdc-testing/)
 - [The NewStack - The Struggle for Microservice Integration Testing](https://thenewstack.io/the-struggle-for-microservice-integration-testing/)
 - [Ivan Dugalic - Specification By Example](https://fraktalio.com/blog/specification-by-example.html)
@@ -1693,6 +1707,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [SQLite - JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
 - [Hussein Nasser - How Shopify’s engineering improved database writes by 50% with ULID](https://www.youtube.com/watch?v=f53-Iw_5ucA)
 - [The Geek Narrator - Graph Database Internals: @neo4j with Michael Hunger](https://www.youtube.com/watch?v=iihJXKAQZkA)
 - [Fujitsu - What are the partitioning types available in PostgreSQL, and how should I choose one?](https://www.postgresql.fastware.com/postgresql-insider-prt-ove)
@@ -1921,6 +1936,10 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [Android Developers Blog - A New Foundation for AI on Android](https://android-developers.googleblog.com/2023/12/a-new-foundation-for-ai-on-android.html)
+- [The Verge - Google launches Gemini, the AI model it hopes will take down GPT-4](https://www.theverge.com/2023/12/6/23990466/google-gemini-llm-ai-model)
+- [Martin Fowler - Latest Memo: How to tackle unreliability of coding assistants](https://martinfowler.com/articles/exploring-gen-ai.html#memo-08)
+- [JetBrains - AI Launch Event](https://www.youtube.com/live/SN51H_q9wBg)
 - [Alan Blackwell - ChatGPT is a bullshit generator. To understand AI, we should think harder about bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 - [Jodie Burchell - Garbage data in, garbage models out](https://www.youtube.com/watch?v=9EI_lqPUVEE)
 - [GitHub - Universe 2023: Copilot transforms GitHub into the AI-powered developer platform](https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/)
@@ -2044,6 +2063,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Werner Vogels - AWS re:Invent 2023 - Keynote](https://www.youtube.com/watch?v=UTRBVPvzt9w)
 - [AWS - AWS Lambda functions now scale 12 times faster when handling high-volume requests](https://aws.amazon.com/blogs/aws/aws-lambda-functions-now-scale-12-times-faster-when-handling-high-volume-requests/)
 - [AWS - External endpoints and testing of task states now available in AWS Step Functions](https://aws.amazon.com/blogs/aws/external-endpoints-and-testing-of-task-states-now-available-in-aws-step-functions/)
 - [AWS - Amazon SNS now supports in-place message archiving and replay for FIFO topics](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sns-in-place-message-archiving-replay-fifo-topics/)
@@ -2171,6 +2191,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - Practical Introduction to Event Sourcing](https://www.youtube.com/watch?v=O3qbCuHvcPk)
+- [Microsoft - Building resilient cloud services with .NET 8](https://devblogs.microsoft.com/dotnet/building-resilient-cloud-services-with-dotnet-8/)
+- [Shay Rojansky - DbDataSource, a new System.Data abstraction](https://www.youtube.com/watch?v=vRUtHeUpU44)
+- [Aaron Stannard - 10 Years of Building Akka.NET](https://petabridge.com/blog/10-years-of-akkadotnet/)
+- [Steven Kirk - 10 years of Avalonia!](https://avaloniaui.net/Blog/10-years-of-avalonia)
 - [Oskar Dudycz - Are you Marten or Wolverine user? Tell us more!](https://event-driven.io/en/marten_user_survey/)
 - [Steve Gordon - Profiling Memory Allocations on Linux using the JetBrains dotMemory Command-Line Profiler](https://www.stevejgordon.co.uk/profiling-memory-allocations-on-linux-using-the-jetbrains-dotmemory-command-line-profiler)
 - [Andrew Lock - Behind [LogProperties] and the new telemetry logging source generator](https://andrewlock.net/behind-logproperties-and-the-new-telemetry-logging-source-generator/)
@@ -2899,6 +2924,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Jessica Kerr - Enabling Gaps](https://jessitron.com/2023/11/23/enabling-gaps/)
 - [Alexander Reelsen - Goodbye DevRel… (for now)](https://spinscale.de/posts/2023-11-28-goodbye-devrel.html)
 - [Troy Hunt - A Decade of Have I Been Pwned](https://www.troyhunt.com/a-decade-of-have-i-been-pwned/)
 - [Emily Bache - Technical Coaching with the Samman method](https://www.youtube.com/watch?v=6kq584SbAQI)
@@ -3155,6 +3181,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Engineer's Codex - How Google takes the pain out of code reviews, with 97% dev satisfaction](https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of)
 - [Urs Enzler - The caretaker model – our way of working](https://www.planetgeek.ch/2023/06/13/the-caretaker-model-our-way-of-working/)
 - [Will Larson - Navigators](https://lethain.com/navigators/)
 - [Sumeet Gayathri Moghe - Adopting Asynchronous Collaboration in Distributed Software Teams ](https://www.infoq.com/articles/asynchronous-collaboration-software-teams/)
@@ -3318,6 +3345,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [JVM Weekly - Feature Freeze for JDK 22: What Will the New Edition Bring? - JVM Weekly vol. 63](https://vived.substack.com/p/feature-freeze-for-jdk-22-what-will)
 - [Olga Gupalo - Working with Native Image Efficiently](https://medium.com/graalvm/working-with-native-image-efficiently-c512ccdcd61b)
 - [Viktor Klang - Teaching old Streams new tricks](https://www.youtube.com/watch?v=8fMFa6OqlY8)
 - [Yishai Galat - Java at AWS: Lessons Learned from Upgrading and Modernizing a Massive JVM Codebase](https://www.youtube.com/watch?v=Yu2BhWk9mKY)
@@ -3713,6 +3741,12 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Bryce Wray - Firefox on the brink?](https://www.brycewray.com/posts/2023/11/firefox-brink/)
+- [ArsTechnica - Broadcom cuts at least 2,800 VMware jobs following $69 billion acquisition](https://arstechnica.com/information-technology/2023/12/broadcom-cuts-at-least-2800-vmware-jobs-following-69-billion-acquisition/)
+- [CNBC - Spotify jumps after saying it will cut 17% of workforce — read the full memo from CEO Daniel Ek](https://www.cnbc.com/2023/12/04/spotify-to-lay-off-17percent-of-employees-ceo-daniel-ek-says.html)
+- [The Register - 40 years of Turbo Pascal, the coding dinosaur that revolutionized IDEs](https://www.theregister.com/2023/12/04/40_years_of_turbo_pascal/)
+- [The State of Inclusion in Dutch Tech](https://www.techleap.nl/reports/the-state-of-inclusion-in-dutch-tech)
+- [VideoCardz - U.S. issues warning to NVIDIA, urging to stop redesigning chips for China](https://videocardz.com/newz/u-s-issues-warning-to-nvidia-urging-to-stop-redesigning-chips-for-china)
 - [Gergely Orosz - A Tech Conference Listed Fake Speakers for Years: I Accidentally Noticed](https://blog.pragmaticengineer.com/devternity-fake-speakers/)
 - [Fempire - A list of women tech speakers & organizers](https://github.com/fempire/women-tech-speakers-organizers)
 - [Duke University Libraries - Why We’re Dropping Basecamp](https://blogs.library.duke.edu/blog/2023/11/30/why-were-dropping-basecamp/)

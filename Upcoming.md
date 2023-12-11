@@ -1,65 +1,9 @@
 # Upcoming Links
 
-## 11th December 2023
+## 18th December 2023
 
 **[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
-
-### Architecture
-- [Oskar Dudycz - A few notes on migrating storage library](https://event-driven.io/en/notes_on_migrating_storage_library/?utm_source=architecture_weekly)
-- [Werner Vogels - Tech predictions for 2024 and beyond](https://www.allthingsdistributed.com/2023/11/tech-predictions-for-2024-and-beyond.html)
-- [JetBrains - The State of Developer Ecosystem 2023](https://www.jetbrains.com/lp/devecosystem-2023/)
-- [HubSpot - Handling Imbalanced Traffic with Kafka Swimlanes](https://product.hubspot.com/blog/imbalanced-traffic-routing)
-- [Urs Enzler - Our Experience with Bi-temporal Event Sourcing](https://www.planetgeek.ch/2023/12/04/our-experience-with-bi-temporal-event-sourcing/)
-- [J. Varajão, A. Trigo, M. Almeida - Low-code Development Productivity. "Is winter coming" for code-based technologies?](https://queue.acm.org/detail.cfm?id=3631183)
-- [Adrian Cockcroft - Measuring Carbon is Not Enough — Unintended Consequences](https://adrianco.medium.com/measuring-carbon-is-not-enough-unintended-consequences-80dccef0d8c5)
-- [Trond Hjorteland - Human centred system design](https://www.youtube.com/watch?v=KSWyIZevgHc)
-- [API Evolution - REST vs RPC. Verbs are just not that evil](https://apievolution.tavis.ca/posts/2023/RESTvsRPC/)
-
-### AI
-- [Android Developers Blog - A New Foundation for AI on Android](https://android-developers.googleblog.com/2023/12/a-new-foundation-for-ai-on-android.html)
-- [The Verge - Google launches Gemini, the AI model it hopes will take down GPT-4](https://www.theverge.com/2023/12/6/23990466/google-gemini-llm-ai-model)
-- [Martin Fowler - Latest Memo: How to tackle unreliability of coding assistants](https://martinfowler.com/articles/exploring-gen-ai.html#memo-08)
-- [JetBrains - AI Launch Event](https://www.youtube.com/live/SN51H_q9wBg)
-
-### DevOps
-- [Bryan Boreham - How Prometheus Halved Its Memory Usage](https://www.youtube.com/watch?v=29yKJ1312AM)
-- [OTelBin - Web-based tool to facilitate OpenTelemetry collector configuration editing and verification](https://github.com/dash0hq/otelbin)
-- [Prometheus + Grafana + Loki in docker]()
-
-### Databases
-- [SQLite - JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
-
-### Testing
-- [Kent Beck - TDD Isn't Design](https://tidyfirst.substack.com/p/tdd-isnt-design)
-- [Kamil Grzybek - Automated Tests: Strategy](https://www.kamilgrzybek.com/blog/posts/automated-tests-strategy)
-
-### AWS
-- [Werner Vogels - AWS re:Invent 2023 - Keynote](https://www.youtube.com/watch?v=UTRBVPvzt9w)
-
-### Java
-- [JVM Weekly - Feature Freeze for JDK 22: What Will the New Edition Bring? - JVM Weekly vol. 63](https://vived.substack.com/p/feature-freeze-for-jdk-22-what-will)
-
-### .NET
-- [Oskar Dudycz - Practical Introduction to Event Sourcing](https://www.youtube.com/watch?v=O3qbCuHvcPk)
-- [Microsoft - Building resilient cloud services with .NET 8](https://devblogs.microsoft.com/dotnet/building-resilient-cloud-services-with-dotnet-8/)
-- [Shay Rojansky - DbDataSource, a new System.Data abstraction](https://www.youtube.com/watch?v=vRUtHeUpU44)
-- [Aaron Stannard - 10 Years of Building Akka.NET](https://petabridge.com/blog/10-years-of-akkadotnet/)
-- [Steven Kirk - 10 years of Avalonia!](https://avaloniaui.net/Blog/10-years-of-avalonia)
-
-### Coding Life
-- [Jessica Kerr - Enabling Gaps](https://jessitron.com/2023/11/23/enabling-gaps/)
-
-### Management
-- [Engineer's Codex - How Google takes the pain out of code reviews, with 97% dev satisfaction](https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of)
-
-### Industry
-- [Bryce Wray - Firefox on the brink?](https://www.brycewray.com/posts/2023/11/firefox-brink/)
-- [ArsTechnica - Broadcom cuts at least 2,800 VMware jobs following $69 billion acquisition](https://arstechnica.com/information-technology/2023/12/broadcom-cuts-at-least-2800-vmware-jobs-following-69-billion-acquisition/)
-- [CNBC - Spotify jumps after saying it will cut 17% of workforce — read the full memo from CEO Daniel Ek](https://www.cnbc.com/2023/12/04/spotify-to-lay-off-17percent-of-employees-ceo-daniel-ek-says.html)
-- [The Register - 40 years of Turbo Pascal, the coding dinosaur that revolutionized IDEs](https://www.theregister.com/2023/12/04/40_years_of_turbo_pascal/)
-- [The State of Inclusion in Dutch Tech](https://www.techleap.nl/reports/the-state-of-inclusion-in-dutch-tech)
-- [VideoCardz - U.S. issues warning to NVIDIA, urging to stop redesigning chips for China](https://videocardz.com/newz/u-s-issues-warning-to-nvidia-urging-to-stop-redesigning-chips-for-china)
