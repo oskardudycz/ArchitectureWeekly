@@ -59,6 +59,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Hitchhiker's Guide To Moving From Relational Data To Events](https://event-driven.io/en/the_end_is_near_for_crud_data/)
+- [Dave Farley - Engineering for Software](https://vimeo.com/showcase/10559193/video/842226271)
+- [Hillel Wayne - Is Software Engineering Real Engineering?](https://www.hillelwayne.com/talks/crossover-project/)
+- [EDA Summit - 2023 Summit Sessions](https://edasummit.com/event/2023-summit/)
+- [Pierre Pureur - 12 Software Architecture Pitfalls and How to Avoid Them ](https://www.infoq.com/articles/avoid-architecture-pitfalls/)
+- [Martin Kleppmann, Jesse Anderson - Designing A Data-Intensive Future: Expert Talk](https://www.youtube.com/watch?v=P-9FwZxO1zE)
+- [Graphite - Why we use AWS instead of Vercel to host our Next.js app](https://graphite.dev/blog/why-we-use-aws-instead-of-vercel)
+- [Erik Wilde, Fran Mendez - AsyncAPI 3.0: What's new and should you upgrade?](https://www.youtube.com/watch?v=9TpOTmHpqVI)
+- [DDDUS Online Meetup - Alexander Miertsch - prooph board](https://www.youtube.com/watch?v=3Pn4hHoMNGw)
 - [Oskar Dudycz - A few notes on migrating storage library](https://event-driven.io/en/notes_on_migrating_storage_library/?utm_source=architecture_weekly)
 - [Werner Vogels - Tech predictions for 2024 and beyond](https://www.allthingsdistributed.com/2023/11/tech-predictions-for-2024-and-beyond.html)
 - [JetBrains - The State of Developer Ecosystem 2023](https://www.jetbrains.com/lp/devecosystem-2023/)
@@ -1228,6 +1237,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Honeycomb - Observability Is About Confidence](https://www.honeycomb.io/blog/observability-is-about-confidence)
+- [Gregor Hohpe - The Magic of Platforms](https://www.youtube.com/watch?v=WaL3ZbLgMuI)
+- [Fly.io - Rethinking Serverless with FLAME](https://fly.io/blog/rethinking-serverless-with-flame/)
 - [Bryan Boreham - How Prometheus Halved Its Memory Usage](https://www.youtube.com/watch?v=29yKJ1312AM)
 - [OTelBin - Web-based tool to facilitate OpenTelemetry collector configuration editing and verification](https://github.com/dash0hq/otelbin)
 - [Prometheus + Grafana + Loki in docker](https://github.com/DoTheEvo/selfhosted-apps-docker/tree/master/prometheus_grafana_loki)
@@ -1445,6 +1457,9 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Scott Jehl - How to Use Responsive HTML Video (...and Audio!)](https://scottjehl.com/posts/using-responsive-video/)
+- [Facebook - Introducing StyleX](https://github.com/facebook/stylex)
+- [Dan Abramov - A Chain Reaction](https://overreacted.io/a-chain-reaction/)
 - [AirBnb - A Deep Dive into Airbnb’s Server-Driven UI System](https://medium.com/airbnb-engineering/a-deep-dive-into-airbnbs-server-driven-ui-system-842244c5f5)
 - [NgRx - Introducing NgRx Signals, Operators, Performance Improvements, Workshops, and more!](https://dev.to/ngrx/announcing-ngrx-v17-introducing-ngrx-signals-operators-performance-improvements-workshops-and-more-55e4)
 - [Vite - Vite 5.0 is out!](https://vitejs.dev/blog/announcing-vite5)
@@ -1585,6 +1600,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Kent Beck - Canon TDD](https://tidyfirst.substack.com/p/canon-tdd)
 - [Kent Beck - TDD Isn't Design](https://tidyfirst.substack.com/p/tdd-isnt-design)
 - [Kamil Grzybek - Automated Tests: Strategy](https://www.kamilgrzybek.com/blog/posts/automated-tests-strategy)
 - [Microsoft - Consumer-driven Contract Testing](https://microsoft.github.io/code-with-engineering-playbook/automated-testing/cdc-testing/)
@@ -1707,6 +1723,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Arslan Ahmad - Scaling SQL Databases: 8 Challenges of Horizontally Scaling SQL Databases](https://www.designgurus.io/blog/Scaling-SQL-Databases)
+- [Redis - Introduction to Conflict-Free Replicated Data Types (CRDTs)](https://redis.com/blog/diving-into-crdts/)
+- [Oren Eini - Production Postmortem. The Spawn of Denial of Service](https://ayende.com/blog/200289-B/production-postmortem-the-spawn-of-denial-of-service)
 - [SQLite - JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
 - [Hussein Nasser - How Shopify’s engineering improved database writes by 50% with ULID](https://www.youtube.com/watch?v=f53-Iw_5ucA)
 - [The Geek Narrator - Graph Database Internals: @neo4j with Michael Hunger](https://www.youtube.com/watch?v=iihJXKAQZkA)
@@ -1936,6 +1955,9 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [DropBox - Introducing new tools for the next generation of knowledge work](https://blog.dropbox.com/topics/company/updated-tools-new-plans-and-web-redesign)
+- [CNBC - How to stop Dropbox from sharing your personal files with OpenAI](https://www.cnbc.com/2023/12/13/how-to-stop-dropbox-from-sharing-your-personal-files-with-openai.html)
+- [Simon Willison - The AI trust crisis](https://simonwillison.net/2023/Dec/14/ai-trust-crisis/)
 - [Android Developers Blog - A New Foundation for AI on Android](https://android-developers.googleblog.com/2023/12/a-new-foundation-for-ai-on-android.html)
 - [The Verge - Google launches Gemini, the AI model it hopes will take down GPT-4](https://www.theverge.com/2023/12/6/23990466/google-gemini-llm-ai-model)
 - [Martin Fowler - Latest Memo: How to tackle unreliability of coding assistants](https://martinfowler.com/articles/exploring-gen-ai.html#memo-08)
@@ -2191,6 +2213,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [James Hickey - High-Performance .NET CRON Jobs](https://www.jamesmichaelhickey.com/high-performance-dotnet-cron-jobs/)
+- [Layla Porter - Cloud-native apps with .NET Aspire](https://www.youtube.com/watch?v=J02mvcEKrsI)
+- [Damian Płaza - FSM - Functional State Machines](https://talesfrom.dev/blog/fsm-functional-state-machines)
+- [Fiodar Sazanavets - Building your own audio player with .NET – part 1](https://scientificprogrammer.net/2023/12/07/building-net-core-audio-application-part-1/)
+- [NDepend - .NET Native AOT Explained](https://blog.ndepend.com/net-native-aot-explained/)
 - [Oskar Dudycz - Practical Introduction to Event Sourcing](https://www.youtube.com/watch?v=O3qbCuHvcPk)
 - [Microsoft - Building resilient cloud services with .NET 8](https://devblogs.microsoft.com/dotnet/building-resilient-cloud-services-with-dotnet-8/)
 - [Shay Rojansky - DbDataSource, a new System.Data abstraction](https://www.youtube.com/watch?v=vRUtHeUpU44)
@@ -2924,6 +2951,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Matt Wynne - Cognitive Load for Knowledge Work](https://mattwynne.net/cognitive-load-for-knowledge-work)
 - [Jessica Kerr - Enabling Gaps](https://jessitron.com/2023/11/23/enabling-gaps/)
 - [Alexander Reelsen - Goodbye DevRel… (for now)](https://spinscale.de/posts/2023-11-28-goodbye-devrel.html)
 - [Troy Hunt - A Decade of Have I Been Pwned](https://www.troyhunt.com/a-decade-of-have-i-been-pwned/)
@@ -3467,6 +3495,7 @@
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
 ## JVM
+- [Jean-Philippe Bempel - Chasing a Metaspace leak](https://jpbempel.github.io/2023/12/01/metaspaceleak.html)
 - [Adam Warski - Limits of Loom's performance](https://softwaremill.com/limits-of-looms-performance/)
 - [Luiz Hespanha, Flavio Brasil - A JVM threading model for the containerized times](https://www.youtube.com/watch?v=APNV_0I7nbs)
 - [GraalVM - New GraalVM release](https://www.youtube.com/watch?v=lWhEg-6DqM0)
@@ -3691,6 +3720,7 @@
 - [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
 
 ## Rust
+- [The Register - Dump C++ and in Rust you should trust, Five Eyes agencies urge](https://www.theregister.com/2023/12/07/memory_correction_five_eyes/)
 - [NGINX - Extending NGINX with Rust (an Alternative to C)](https://www.nginx.com/blog/extending-nginx-with-rust-an-alternative-to-c/)
 - [JetBrains - Introducing RustRover – A Standalone Rust IDE by JetBrains](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
 - [GitHub - Why Rust is the most admired language among developers](https://github.blog/2023-08-30-why-rust-is-the-most-admired-language-among-developers)
@@ -3741,6 +3771,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Hashicorp - Mitchell reflects as he departs HashiCorp](https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp)
+- [TechCrunch - Docker acquires AtomicJar, a testing startup that raised $25M in January](https://techcrunch.com/2023/12/11/docker-acquires-atomicjar-a-testing-startup-that-raised-25m-in-january/)
+- [The Verge - Epic win: Jury decides Google has illegal monopoly in app store fight](https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play)
 - [Bryce Wray - Firefox on the brink?](https://www.brycewray.com/posts/2023/11/firefox-brink/)
 - [ArsTechnica - Broadcom cuts at least 2,800 VMware jobs following $69 billion acquisition](https://arstechnica.com/information-technology/2023/12/broadcom-cuts-at-least-2800-vmware-jobs-following-69-billion-acquisition/)
 - [CNBC - Spotify jumps after saying it will cut 17% of workforce — read the full memo from CEO Daniel Ek](https://www.cnbc.com/2023/12/04/spotify-to-lay-off-17percent-of-employees-ceo-daniel-ek-says.html)
@@ -4178,6 +4211,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Kelly Shortridge - Cybersecurity Isn’t Special](https://www.youtube.com/watch?v=UdCXUVhVSEE)
+- [PromptArmor, Kai Greshake - Data exfiltration from Writer.com with indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-writercom)
 - [ArsTechnica - Chrome’s next weapon in the War on Ad Blockers: Slower extension updates](https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/)
 - [Kevin Beaumont - What it means — CitrixBleed ransomware group woes grow as over 60 credit unions, hospitals, financial services and more breached in US.](https://doublepulsar.com/what-it-means-citrixbleed-ransom-group-woes-grow-as-over-60-credit-unions-hospitals-47766a091d4f)
 - [Tom's Hardware - Chinese hackers steal chip designs from major Dutch semiconductor company — perps lurked for over two years to steal NXP's chipmaking IP: Report](https://www.tomshardware.com/news/chinese-hackers-steal-chip-designs-from-major-dutch-semiconductor-company)
@@ -4373,6 +4408,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Octavia E. Butler - A Few Rules For Predicting The Future](https://commongood.cc/reader/a-few-rules-for-predicting-the-future-by-octavia-e-butler/)
 - [Eric S. Raymond, Rick Moen - How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 - [Kendra Albert - Care, Not Respect: Teaching Professionalism](https://kendraalbert.com/2021/07/15/care-not-respect-teaching-professionalism.html)
 - [Christine Shea, Chris. W. Johnson - Understanding the Contribution of Degraded Modes of Operation as a Cause of Incidents and Accidents in Air Traffic Management](https://www.dcs.gla.ac.uk/~johnson/papers/degraded_modes/Shea_Johnson_ATM_Submission.pdf)
