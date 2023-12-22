@@ -59,6 +59,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Andrea Magnorsky - Knowledge sharing is Systems building](https://vimeo.com/842232215)
+- [Pete Hodgson - Expand/Contract: making a breaking change without a big bang](https://blog.thepete.net/blog/2023/12/05/expand/contract-making-a-breaking-change-without-a-big-bang/)
+- [Yan Cui - How to perform database migration for a live service with no downtime](https://theburningmonk.com/2023/12/how-to-perform-database-migration-for-a-live-service-with-no-downtime/)
+- [Glenn Vanderburg - Real Software Engineering](https://www.youtube.com/watch?v=RhdlBHHimeM)
+- [Oddly Influenced Podcast - Interview: Glenn Vanderburg on engineering](https://podcast.oddly-influenced.dev/episodes/glenn-vanderburg-on-engineering)
+- [Stefan Tilkov - Practical (a.k.a. Actually Useful) Architecture](https://www.youtube.com/watch?v=BNTt2aLB1tg)
+- [Einar Høst — Agile and Architecture: a meeting of the undead](https://www.youtube.com/watch?v=mTaPFn_O2jI)
+- [Julien Topçu, Josian Chevalier - Model Mitosis](https://www.youtube.com/watch?v=VO6BSb52K5g)
+- [McDonald's Technical Blog - Hexagonal Architectures — the sequel](https://medium.com/mcdonalds-technical-blog/hexagonal-architectures-the-sequel-073c9ee79385)
 - [Oskar Dudycz - Hitchhiker's Guide To Moving From Relational Data To Events](https://event-driven.io/en/the_end_is_near_for_crud_data/)
 - [Dave Farley - Engineering for Software](https://vimeo.com/showcase/10559193/video/842226271)
 - [Hillel Wayne - Is Software Engineering Real Engineering?](https://www.hillelwayne.com/talks/crossover-project/)
@@ -1237,6 +1246,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Martin Thwaites - Building a secure OpenTelemetry Collector](https://martinjt.me/2023/12/20/building-a-secure-opentelemetry-collector/)
+- [Kubernetes Unpacked Podcast - Kubernetes Long-Term Support With Kubernetes Co-Founder Brendan Burns](https://packetpushers.net/podcast/ku042-kubernetes-long-term-support-with-kubernetes-co-founder-brendan-burns/)
 - [Honeycomb - Observability Is About Confidence](https://www.honeycomb.io/blog/observability-is-about-confidence)
 - [Gregor Hohpe - The Magic of Platforms](https://www.youtube.com/watch?v=WaL3ZbLgMuI)
 - [Fly.io - Rethinking Serverless with FLAME](https://fly.io/blog/rethinking-serverless-with-flame/)
@@ -1457,6 +1468,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Netlify - Unveiling the state of web development and predictions for 2024 and beyond](https://www.netlify.com/blog/unveiling-the-
 - [Scott Jehl - How to Use Responsive HTML Video (...and Audio!)](https://scottjehl.com/posts/using-responsive-video/)
 - [Facebook - Introducing StyleX](https://github.com/facebook/stylex)
 - [Dan Abramov - A Chain Reaction](https://overreacted.io/a-chain-reaction/)
@@ -1723,6 +1735,10 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Gwen Shapira - Transaction Isolation in Postgres, explained](https://www.thenile.dev/blog/transaction-isolation-postgres)
+- [Jepsen - MySQL 8.0.34](https://jepsen.io/analyses/mysql-8.0.34)
+- [Rajendra Gupta - Table Partitioning in Azure SQL Database](https://www.sqlshack.com/table-partitioning-in-azure-sql-database/)
+- [Branimir Lambov, Shylaja Kokoori - Memtable Pluggability and Alternate Memtables (CEP-11 & CEP-19) in Cassandra](https://www.youtube.com/watch?v=sfl7fY3fj5s)
 - [Arslan Ahmad - Scaling SQL Databases: 8 Challenges of Horizontally Scaling SQL Databases](https://www.designgurus.io/blog/Scaling-SQL-Databases)
 - [Redis - Introduction to Conflict-Free Replicated Data Types (CRDTs)](https://redis.com/blog/diving-into-crdts/)
 - [Oren Eini - Production Postmortem. The Spawn of Denial of Service](https://ayende.com/blog/200289-B/production-postmortem-the-spawn-of-denial-of-service)
@@ -1955,6 +1971,7 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [Daily Beast - AI-Written Homework Is Rising. So Are False Accusations](https://www.thedailybeast.com/ai-written-homework-is-rising-so-are-false-accusations)
 - [DropBox - Introducing new tools for the next generation of knowledge work](https://blog.dropbox.com/topics/company/updated-tools-new-plans-and-web-redesign)
 - [CNBC - How to stop Dropbox from sharing your personal files with OpenAI](https://www.cnbc.com/2023/12/13/how-to-stop-dropbox-from-sharing-your-personal-files-with-openai.html)
 - [Simon Willison - The AI trust crisis](https://simonwillison.net/2023/Dec/14/ai-trust-crisis/)
@@ -2213,6 +2230,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - Why I won't use .NET Aspire for now](https://event-driven.io/en/nay_to_aspire/?utm_source=architecture_weekly)
+- [Anthony Simmon - Exploring the Microsoft Developer Control Plane at the heart of the new .NET Aspire](https://anthonysimmon.com/exploring-microsoft-developer-control-plane-core-dotnet-aspire-dotnet-8/)
+- [Khalid Abuhakmeh - MemoizR - Declarative Structured Concurrency for C#](https://khalidabuhakmeh.com/memoizr-declarative-structured-concurrency-for-csharp)
+- [Angel Daniel Munoz Gonzalez - Revisiting WASM for F#](https://dev.to/tunaxor/revisiting-wasm-for-f-38c1)
+- [Jeffrey Rennie - Turn your ASP.NET MVC/Razor Website into a SPA Without Blazor](https://surferjeff.medium.com/convert-an-asp-net-website-into-a-spa-using-htmx-1274ae0d8be8)
 - [James Hickey - High-Performance .NET CRON Jobs](https://www.jamesmichaelhickey.com/high-performance-dotnet-cron-jobs/)
 - [Layla Porter - Cloud-native apps with .NET Aspire](https://www.youtube.com/watch?v=J02mvcEKrsI)
 - [Damian Płaza - FSM - Functional State Machines](https://talesfrom.dev/blog/fsm-functional-state-machines)
@@ -2951,6 +2973,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Jeff Atwood - The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
+- [Will Larson - Notes on How Big Things Get Done](https://lethain.com/notes-on-how-big-things-get-done/)
 - [Matt Wynne - Cognitive Load for Knowledge Work](https://mattwynne.net/cognitive-load-for-knowledge-work)
 - [Jessica Kerr - Enabling Gaps](https://jessitron.com/2023/11/23/enabling-gaps/)
 - [Alexander Reelsen - Goodbye DevRel… (for now)](https://spinscale.de/posts/2023-11-28-goodbye-devrel.html)
@@ -3343,6 +3367,9 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [The Logan Bartlett Show - Confluent’s Resilient Rise To Software Juggernaut with Jay Kreps](https://www.youtube.com/watch?v=wKcJxGv3HDY)
+- [Krisztina Hirth - Shifting from Projects to Feedback-Based Product Dev: Practical Tips and Insights](https://www.youtube.com/watch?v=psIZ63m_TSk)
+- [Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot)
 - [Joakim Sundén - The Product Model at Spotify](https://joakimsunden.com/the-product-model-at-spotify/)
 - [Pawel Huryn - How to Craft a Winning Product Strategy](https://www.youtube.com/watch?v=gdl0W2mhFJQ)
 - [Crisp Academy - Master Class with Marty Cagan](https://www.youtube.com/watch?v=mcnxxdzC2fY)
@@ -3373,6 +3400,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [A N M Bazlur Rahman - Stream API Evolution: a Closer Look at JEP 461's Stream Gatherers](https://www.infoq.com/news/2023/12/stream-api-evolution)
+- [Inside Java - Introducing the Oracle Java Platform Extension for Visual Studio Code](https://inside.java/2023/10/18/announcing-vscode-extension/)
 - [JVM Weekly - Feature Freeze for JDK 22: What Will the New Edition Bring? - JVM Weekly vol. 63](https://vived.substack.com/p/feature-freeze-for-jdk-22-what-will)
 - [Olga Gupalo - Working with Native Image Efficiently](https://medium.com/graalvm/working-with-native-image-efficiently-c512ccdcd61b)
 - [Viktor Klang - Teaching old Streams new tricks](https://www.youtube.com/watch?v=8fMFa6OqlY8)
@@ -3771,6 +3800,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [The Verge - Adobe abandons $20 billion acquisition of Figma](https://www.theverge.com/2023/12/18/24005996/adobe-figma-acquisition-abandoned-termination-fee)
+- [Figma - Figma and Adobe are abandoning our proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
+- [The Verge - 2023 in social media: the case for the fediverse](https://www.theverge.com/23990974/social-media-2023-fediverse-mastodon-threads-activitypub)
 - [Hashicorp - Mitchell reflects as he departs HashiCorp](https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp)
 - [TechCrunch - Docker acquires AtomicJar, a testing startup that raised $25M in January](https://techcrunch.com/2023/12/11/docker-acquires-atomicjar-a-testing-startup-that-raised-25m-in-january/)
 - [The Verge - Epic win: Jury decides Google has illegal monopoly in app store fight](https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play)
@@ -4408,6 +4440,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Northeastern Global News - Parrots learn to make video calls to chat with other parrots, then develop friendships, Northeastern University researchers say](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
 - [Octavia E. Butler - A Few Rules For Predicting The Future](https://commongood.cc/reader/a-few-rules-for-predicting-the-future-by-octavia-e-butler/)
 - [Eric S. Raymond, Rick Moen - How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 - [Kendra Albert - Care, Not Respect: Teaching Professionalism](https://kendraalbert.com/2021/07/15/care-not-respect-teaching-professionalism.html)
