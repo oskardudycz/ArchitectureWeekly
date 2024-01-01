@@ -26,6 +26,69 @@ There are two rules:
 
 ---
 
+## [1st January 2024](per-week/2024-01-01.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
+
+---
+
+### Architecture
+- [Florian Bellmann - You are never taught how to build quality software](https://www.florianbellmann.com/blog/never-taught-qa)
+- [Denise Yu - Why are Distributed Systems so hard? A network partition survival guide](https://www.youtube.com/watch?v=uTJvMRR40Ag)
+- [Dave Snowden - Patterns all the way down](https://thecynefin.co/patterns-all-the-way-down/)
+- [Alessio Coser - Escaping the magics of the frameworks: 5. The framework](https://www.alessiocoser.com/escaping-the-magic-of-the-frameworks-5-the-framework/)
+
+### DevOps
+- [CoRecursive - Platform Takes The Pain The Inside Story of Spotify's Engineering Growth](https://corecursive.com/platform-takes-the-pain/)
+
+### AI
+- [Martin Krasser - Implementing JSON mode for open LLMs](http://krasserm.github.io/2023/12/18/llm-json-mode/)
+- [Rafal Gancarz - Griffin 2.0: Instacart Revamps Its Machine Learning Platform](https://www.infoq.com/news/2024/01/instacart-machine-learning)
+- [GitHub - GitHub Copilot Chat now generally available for organizations and individuals](https://github.blog/2023-12-29-github-copilot-chat-now-generally-available-for-organizations-and-individuals/)
+
+### Java
+- [Vlad Mihalcea - The best way to map multiple entities on the same table](https://vladmihalcea.com/multiple-entities-on-same-table/)
+- [Sirisha Pratha - Spring Boot 3.2 Delivers Support for Virtual Threads and Modern RestClient and JdbcClient](https://www.infoq.com/news/2023/12/spring-boot-virtual-threads)
+
+### .NET
+- [Jeremy D. Miller - Building a Critter Stack Application: Durable Outbox Messaging and Why You Care!](https://jeremydmiller.com/2023/12/28/building-a-critter-stack-application-durable-outbox-messaging-and-why-you-care/)
+- [Ian Russell - Discriminated Unions in C#](https://ijrussell.github.io/posts/csharp-discriminated-union/)
+- [Milan Jovanović - Global Error Handling in ASP.NET Core 8](https://www.milanjovanovic.tech/blog/global-error-handling-in-aspnetcore-8)
+- [Michael Shpilt - How to Debug LINQ queries in C#](https://michaelscodingspot.com/debug-linq-in-csharp)
+
+### Rust
+- [Iggy.rs - building message streaming in Rust.](https://blog.iggy.rs/posts/building-message-streaming-in-rust/)
+
+### Tools
+- [Scott McKendry - The 5 Stages of Vim: A Humbling Experience](https://scottmckendry.tech/posts/vim-humbling/)
+
+### Coding Life
+- [Oskar Dudycz - What Dune can tell us about setting our goals](https://event-driven.io/en/dune_and_long_term_goals/?utm_source=architecture_weekly)
+- [Barry Overeem - Programmer- or Product Developer? Why The Difference Matters!](https://medium.com/the-liberators/programmer-or-product-developer-why-the-difference-matters-77c8d797cf0)
+- [CoRecursive Podcast - Quitting (And Then Rejoining) Stack Overflow with Ben Dumke-von der Ehe](https://corecursive.com/stack-overflow/)
+
+### Management
+- [Jeff Gothelf - Roadmaps are linear. Software projects aren’t.](https://jeffgothelf.com/blog/roadmaps-are-linear-software-projects-arent/)
+- [Jeff Wofford - How to Boss Without Being Bossy](https://www.jeffwofford.com/?p=2089)
+- [Stephen P. Anderson - Toward A New Model for Corporate Learning and Development (Part 1)](https://stephenanderson.medium.com/toward-a-new-model-for-corporate-learning-and-development-part-1-3729f0271e79)
+
+### Industry
+- [Justin Garrison - Amazon's Silent Sacking](https://justingarrison.com/blog/2023-12-30-amazons-silent-sacking/)
+- [Adrian Cockcroft - Signs that it’s time to leave a company…](https://adrianco.medium.com/signs-that-its-time-to-leave-a-company-5f8759ad018e)
+- [The Verge - The New York Times is suing OpenAI and Microsoft for copyright infringement](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement)
+- [Axios - Elon Musk's X gets another valuation cut from Fidelity](https://www.axios.com/2023/12/31/elon-musks-x-fidelity-valuation-cut)
+
+### Security
+- [Debian Public Statement about the EU Cyber Resilience Act and the Product Liability Directive](https://bits.debian.org/2023/12/debian-statement-cyber-resillience-act.md.html)
+
+### Trivia
+- [Dan Luu - How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
+- [TechDirt - Substack Turns On Its ‘Nazis Welcome!’ Sign](https://www.techdirt.com/2023/12/26/substack-turns-on-its-nazis-welcome-sign/)
+
+---
+
 ## [25th December 2023](per-week/2023-12-25.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 **[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**

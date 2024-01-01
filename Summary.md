@@ -59,6 +59,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Florian Bellmann - You are never taught how to build quality software](https://www.florianbellmann.com/blog/never-taught-qa)
+- [Denise Yu - Why are Distributed Systems so hard? A network partition survival guide](https://www.youtube.com/watch?v=uTJvMRR40Ag)
+- [Dave Snowden - Patterns all the way down](https://thecynefin.co/patterns-all-the-way-down/)
+- [Alessio Coser - Escaping the magics of the frameworks: 5. The framework](https://www.alessiocoser.com/escaping-the-magic-of-the-frameworks-5-the-framework/)
 - [Andrea Magnorsky - Knowledge sharing is Systems building](https://vimeo.com/842232215)
 - [Pete Hodgson - Expand/Contract: making a breaking change without a big bang](https://blog.thepete.net/blog/2023/12/05/expand/contract-making-a-breaking-change-without-a-big-bang/)
 - [Yan Cui - How to perform database migration for a live service with no downtime](https://theburningmonk.com/2023/12/how-to-perform-database-migration-for-a-live-service-with-no-downtime/)
@@ -1246,6 +1250,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [CoRecursive - Platform Takes The Pain The Inside Story of Spotify's Engineering Growth](https://corecursive.com/platform-takes-the-pain/)
 - [Martin Thwaites - Building a secure OpenTelemetry Collector](https://martinjt.me/2023/12/20/building-a-secure-opentelemetry-collector/)
 - [Kubernetes Unpacked Podcast - Kubernetes Long-Term Support With Kubernetes Co-Founder Brendan Burns](https://packetpushers.net/podcast/ku042-kubernetes-long-term-support-with-kubernetes-co-founder-brendan-burns/)
 - [Honeycomb - Observability Is About Confidence](https://www.honeycomb.io/blog/observability-is-about-confidence)
@@ -1971,6 +1976,9 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [Martin Krasser - Implementing JSON mode for open LLMs](http://krasserm.github.io/2023/12/18/llm-json-mode/)
+- [Rafal Gancarz - Griffin 2.0: Instacart Revamps Its Machine Learning Platform](https://www.infoq.com/news/2024/01/instacart-machine-learning)
+- [GitHub - GitHub Copilot Chat now generally available for organizations and individuals](https://github.blog/2023-12-29-github-copilot-chat-now-generally-available-for-organizations-and-individuals/)
 - [Daily Beast - AI-Written Homework Is Rising. So Are False Accusations](https://www.thedailybeast.com/ai-written-homework-is-rising-so-are-false-accusations)
 - [DropBox - Introducing new tools for the next generation of knowledge work](https://blog.dropbox.com/topics/company/updated-tools-new-plans-and-web-redesign)
 - [CNBC - How to stop Dropbox from sharing your personal files with OpenAI](https://www.cnbc.com/2023/12/13/how-to-stop-dropbox-from-sharing-your-personal-files-with-openai.html)
@@ -2230,6 +2238,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jeremy D. Miller - Building a Critter Stack Application: Durable Outbox Messaging and Why You Care!](https://jeremydmiller.com/2023/12/28/building-a-critter-stack-application-durable-outbox-messaging-and-why-you-care/)
+- [Ian Russell - Discriminated Unions in C#](https://ijrussell.github.io/posts/csharp-discriminated-union/)
+- [Milan Jovanović - Global Error Handling in ASP.NET Core 8](https://www.milanjovanovic.tech/blog/global-error-handling-in-aspnetcore-8)
+- [Michael Shpilt - How to Debug LINQ queries in C#](https://michaelscodingspot.com/debug-linq-in-csharp)
 - [Oskar Dudycz - Why I won't use .NET Aspire for now](https://event-driven.io/en/nay_to_aspire/?utm_source=architecture_weekly)
 - [Anthony Simmon - Exploring the Microsoft Developer Control Plane at the heart of the new .NET Aspire](https://anthonysimmon.com/exploring-microsoft-developer-control-plane-core-dotnet-aspire-dotnet-8/)
 - [Khalid Abuhakmeh - MemoizR - Declarative Structured Concurrency for C#](https://khalidabuhakmeh.com/memoizr-declarative-structured-concurrency-for-csharp)
@@ -2973,6 +2985,9 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Oskar Dudycz - What Dune can tell us about setting our goals](https://event-driven.io/en/dune_and_long_term_goals/?utm_source=architecture_weekly)
+- [Barry Overeem - Programmer- or Product Developer? Why The Difference Matters!](https://medium.com/the-liberators/programmer-or-product-developer-why-the-difference-matters-77c8d797cf0)
+- [CoRecursive Podcast - Quitting (And Then Rejoining) Stack Overflow with Ben Dumke-von der Ehe](https://corecursive.com/stack-overflow/)
 - [Jeff Atwood - The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
 - [Will Larson - Notes on How Big Things Get Done](https://lethain.com/notes-on-how-big-things-get-done/)
 - [Matt Wynne - Cognitive Load for Knowledge Work](https://mattwynne.net/cognitive-load-for-knowledge-work)
@@ -3233,6 +3248,9 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Jeff Gothelf - Roadmaps are linear. Software projects aren’t.](https://jeffgothelf.com/blog/roadmaps-are-linear-software-projects-arent/)
+- [Jeff Wofford - How to Boss Without Being Bossy](https://www.jeffwofford.com/?p=2089)
+- [Stephen P. Anderson - Toward A New Model for Corporate Learning and Development (Part 1)](https://stephenanderson.medium.com/toward-a-new-model-for-corporate-learning-and-development-part-1-3729f0271e79)
 - [Engineer's Codex - How Google takes the pain out of code reviews, with 97% dev satisfaction](https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of)
 - [Urs Enzler - The caretaker model – our way of working](https://www.planetgeek.ch/2023/06/13/the-caretaker-model-our-way-of-working/)
 - [Will Larson - Navigators](https://lethain.com/navigators/)
@@ -3400,6 +3418,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Vlad Mihalcea - The best way to map multiple entities on the same table](https://vladmihalcea.com/multiple-entities-on-same-table/)
+- [Sirisha Pratha - Spring Boot 3.2 Delivers Support for Virtual Threads and Modern RestClient and JdbcClient](https://www.infoq.com/news/2023/12/spring-boot-virtual-threads)
 - [A N M Bazlur Rahman - Stream API Evolution: a Closer Look at JEP 461's Stream Gatherers](https://www.infoq.com/news/2023/12/stream-api-evolution)
 - [Inside Java - Introducing the Oracle Java Platform Extension for Visual Studio Code](https://inside.java/2023/10/18/announcing-vscode-extension/)
 - [JVM Weekly - Feature Freeze for JDK 22: What Will the New Edition Bring? - JVM Weekly vol. 63](https://vived.substack.com/p/feature-freeze-for-jdk-22-what-will)
@@ -3749,6 +3769,7 @@
 - [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
 
 ## Rust
+- [Iggy.rs - building message streaming in Rust.](https://blog.iggy.rs/posts/building-message-streaming-in-rust/)
 - [The Register - Dump C++ and in Rust you should trust, Five Eyes agencies urge](https://www.theregister.com/2023/12/07/memory_correction_five_eyes/)
 - [NGINX - Extending NGINX with Rust (an Alternative to C)](https://www.nginx.com/blog/extending-nginx-with-rust-an-alternative-to-c/)
 - [JetBrains - Introducing RustRover – A Standalone Rust IDE by JetBrains](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
@@ -3800,6 +3821,10 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Justin Garrison - Amazon's Silent Sacking](https://justingarrison.com/blog/2023-12-30-amazons-silent-sacking/)
+- [Adrian Cockcroft - Signs that it’s time to leave a company…](https://adrianco.medium.com/signs-that-its-time-to-leave-a-company-5f8759ad018e)
+- [The Verge - The New York Times is suing OpenAI and Microsoft for copyright infringement](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement)
+- [Axios - Elon Musk's X gets another valuation cut from Fidelity](https://www.axios.com/2023/12/31/elon-musks-x-fidelity-valuation-cut)
 - [The Verge - Adobe abandons $20 billion acquisition of Figma](https://www.theverge.com/2023/12/18/24005996/adobe-figma-acquisition-abandoned-termination-fee)
 - [Figma - Figma and Adobe are abandoning our proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
 - [The Verge - 2023 in social media: the case for the fediverse](https://www.theverge.com/23990974/social-media-2023-fediverse-mastodon-threads-activitypub)
@@ -4153,6 +4178,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Scott McKendry - The 5 Stages of Vim: A Humbling Experience](https://scottmckendry.tech/posts/vim-humbling/)
 - [Sameer Kumar - Overcoming Vim-Phobia: My Journey of Redemption](https://betterprogramming.pub/overcoming-vim-phobia-my-journey-of-redemption-d1114e6922ab)
 - [Typesense - A fast, typo-tolerant search engine for building delightful search experiences](https://github.com/typesense/typesense)
 - [OpenFGA - Modeling Entitlements for a System with OpenFGA](https://openfga.dev/docs/modeling/advanced/entitlements)
@@ -4243,6 +4269,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Debian Public Statement about the EU Cyber Resilience Act and the Product Liability Directive](https://bits.debian.org/2023/12/debian-statement-cyber-resillience-act.md.html)
 - [Kelly Shortridge - Cybersecurity Isn’t Special](https://www.youtube.com/watch?v=UdCXUVhVSEE)
 - [PromptArmor, Kai Greshake - Data exfiltration from Writer.com with indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-writercom)
 - [ArsTechnica - Chrome’s next weapon in the War on Ad Blockers: Slower extension updates](https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/)
@@ -4440,6 +4467,8 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Dan Luu - How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
+- [TechDirt - Substack Turns On Its ‘Nazis Welcome!’ Sign](https://www.techdirt.com/2023/12/26/substack-turns-on-its-nazis-welcome-sign/)
 - [Northeastern Global News - Parrots learn to make video calls to chat with other parrots, then develop friendships, Northeastern University researchers say](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
 - [Octavia E. Butler - A Few Rules For Predicting The Future](https://commongood.cc/reader/a-few-rules-for-predicting-the-future-by-octavia-e-butler/)
 - [Eric S. Raymond, Rick Moen - How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
