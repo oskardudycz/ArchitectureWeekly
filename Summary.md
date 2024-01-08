@@ -59,6 +59,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Not all issues are complex, some are complicated. Here's how to deal with them](https://event-driven.io/en/how_to_solve_complicated_problems/?utm_source=architecture_weekly)
+- [Leslie Lamport - A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science.pdf)
+- [Dave Snowden - Complex Adaptive Systems](https://www.youtube.com/watch?v=l4-vpegxYPg)
+- [Thomas Pierrain - Discover ReBAC, the next-generation authorization model compatible with DDD](https://medium.com/@tpierrain/discover-rebac-the-next-generation-authorization-model-compatible-with-ddd-0d115cea6f2c)
+- [Steve Sanderson - Keynote: Where Web Tech is Going Now](https://www.youtube.com/watch?v=fIYYC_p_uU8)
+- [Jake Lazaroff - The Website vs. Web App Dichotomy Doesn't Exist](https://jakelazaroff.com/words/the-website-vs-web-app-dichotomy-doesnt-exist/)
+- [Gunnar Morling - Seven Ways to Put CDC to Work](https://www.decodable.co/blog/seven-ways-to-put-cdc-to-work)
+- [Shopify - Refactoring Legacy Code with the Strangler Fig Pattern](https://shopify.engineering/refactoring-legacy-code-strangler-fig-pattern)
+- [Indi Young - Why Problem Space?](https://indiyoung.com/explanations-problem-space/)
 - [Florian Bellmann - You are never taught how to build quality software](https://www.florianbellmann.com/blog/never-taught-qa)
 - [Denise Yu - Why are Distributed Systems so hard? A network partition survival guide](https://www.youtube.com/watch?v=uTJvMRR40Ag)
 - [Dave Snowden - Patterns all the way down](https://thecynefin.co/patterns-all-the-way-down/)
@@ -1250,6 +1259,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Google - Developer Productivity for Humans, Part 7: Software Quality](https://ieeexplore.ieee.org/document/10372494)
+- [Sean Trane - GitHub Labels that are logical, colorful and sensible](https://seantrane.com/posts/logical-colorful-github-labels-18230/)
+- [Dennis Doomen - 22 reasons to ditch Azure DevOps and switch to GitHub as soon as possible](https://www.continuousimprover.com/2024/01/github-vs-azdo.html)
 - [CoRecursive - Platform Takes The Pain The Inside Story of Spotify's Engineering Growth](https://corecursive.com/platform-takes-the-pain/)
 - [Martin Thwaites - Building a secure OpenTelemetry Collector](https://martinjt.me/2023/12/20/building-a-secure-opentelemetry-collector/)
 - [Kubernetes Unpacked Podcast - Kubernetes Long-Term Support With Kubernetes Co-Founder Brendan Burns](https://packetpushers.net/podcast/ku042-kubernetes-long-term-support-with-kubernetes-co-founder-brendan-burns/)
@@ -1617,6 +1629,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Scott Wlaschin - The lazy programmer's guide to writing thousands of tests](https://www.youtube.com/watch?v=IYzDFHx6QPY)
 - [Kent Beck - Canon TDD](https://tidyfirst.substack.com/p/canon-tdd)
 - [Kent Beck - TDD Isn't Design](https://tidyfirst.substack.com/p/tdd-isnt-design)
 - [Kamil Grzybek - Automated Tests: Strategy](https://www.kamilgrzybek.com/blog/posts/automated-tests-strategy)
@@ -2110,6 +2123,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Yan Cui - This is why you should keep stateful and stateless resources together](https://theburningmonk.com/2023/01/this-is-why-you-should-keep-stateful-and-stateless-resources-together/)
 - [Werner Vogels - AWS re:Invent 2023 - Keynote](https://www.youtube.com/watch?v=UTRBVPvzt9w)
 - [AWS - AWS Lambda functions now scale 12 times faster when handling high-volume requests](https://aws.amazon.com/blogs/aws/aws-lambda-functions-now-scale-12-times-faster-when-handling-high-volume-requests/)
 - [AWS - External endpoints and testing of task states now available in AWS Step Functions](https://aws.amazon.com/blogs/aws/external-endpoints-and-testing-of-task-states-now-available-in-aws-step-functions/)
@@ -2238,6 +2252,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Vogen - A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects](https://github.com/SteveDunn/Vogen)
+- [Fluid - An open-source .NET template engine based on the Liquid template language.](https://github.com/sebastienros/fluid)
+- [Cezary Piątek - Common Setup and Teardown in dotnet tests without test framework magic](https://cezarypiatek.github.io/post/maintainable-test-fixture/)
+- [Khalid Abuhakmeh - Faster .NET Database Integration Tests with Respawn and xUnit](https://khalidabuhakmeh.com/faster-dotnet-database-integration-tests-with-respawn-and-xunit)
 - [Jeremy D. Miller - Building a Critter Stack Application: Durable Outbox Messaging and Why You Care!](https://jeremydmiller.com/2023/12/28/building-a-critter-stack-application-durable-outbox-messaging-and-why-you-care/)
 - [Ian Russell - Discriminated Unions in C#](https://ijrussell.github.io/posts/csharp-discriminated-union/)
 - [Milan Jovanović - Global Error Handling in ASP.NET Core 8](https://www.milanjovanovic.tech/blog/global-error-handling-in-aspnetcore-8)
@@ -3248,6 +3266,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Charity Mayors - Becoming An Engineering Manager Can Make You Better At Life And Relationships](https://charity.wtf/2023/12/15/why-should-you-or-anyone-become-an-engineering-manager/)
+- [Gergely Orosz - Inside Stripe’s Engineering Culture - Part 1](https://newsletter.pragmaticengineer.com/p/stripe)
 - [Jeff Gothelf - Roadmaps are linear. Software projects aren’t.](https://jeffgothelf.com/blog/roadmaps-are-linear-software-projects-arent/)
 - [Jeff Wofford - How to Boss Without Being Bossy](https://www.jeffwofford.com/?p=2089)
 - [Stephen P. Anderson - Toward A New Model for Corporate Learning and Development (Part 1)](https://stephenanderson.medium.com/toward-a-new-model-for-corporate-learning-and-development-part-1-3729f0271e79)
@@ -3385,6 +3405,7 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [David Bland - An Introduction to Experiment Pairing](https://www.precoil.com/articles/intro-to-experiment-pairing)
 - [The Logan Bartlett Show - Confluent’s Resilient Rise To Software Juggernaut with Jay Kreps](https://www.youtube.com/watch?v=wKcJxGv3HDY)
 - [Krisztina Hirth - Shifting from Projects to Feedback-Based Product Dev: Practical Tips and Insights](https://www.youtube.com/watch?v=psIZ63m_TSk)
 - [Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot)
@@ -3418,6 +3439,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [JVM Weekly - Everything you might have missed in Java in 2023 – JVM Weekly vol. 66](https://vived.substack.com/p/everything-you-might-have-missed-a9c)
 - [Vlad Mihalcea - The best way to map multiple entities on the same table](https://vladmihalcea.com/multiple-entities-on-same-table/)
 - [Sirisha Pratha - Spring Boot 3.2 Delivers Support for Virtual Threads and Modern RestClient and JdbcClient](https://www.infoq.com/news/2023/12/spring-boot-virtual-threads)
 - [A N M Bazlur Rahman - Stream API Evolution: a Closer Look at JEP 461's Stream Gatherers](https://www.infoq.com/news/2023/12/stream-api-evolution)
@@ -3595,6 +3617,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [TSDocs.dev - Browse type documentation for JS libraries](https://github.com/pastelsky/tsdocs)
 - [Amir Khansari - TypeScript prototype of the Decider pattern](https://gist.github.com/akhansari/b43a9a60ba1ca3f2a8c8705aa0db3efb)
 - [Sergiy Biluk - Type negation in TypeScript](https://catchts.com/type-negation)
 - [Michael Arnaldi - Introduction to Effect](https://www.youtube.com/watch?v=zrNr3JVUc8I)
@@ -3631,6 +3654,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [Nick Scialli - How to use HTTP2 with Express.js and test it locally](https://typeofnan.dev/how-to-use-http2-with-express/)
 - [Kent C. Dodds - Why I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
 - [Lee Robinson - Why I'm Using Next.js](https://leerob.io/blog/using-nextjs)
 - [Ethan Glover - I Hate NestJS](https://ethang.dev/blog/i-hate-nest-js/)
@@ -3821,6 +3845,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Financial Times - Mariana Mazzucato: ‘The McKinseys and the Deloittes have no expertise in the areas that they’re advising in’](https://www.ft.com/content/fb1254dd-a011-44cc-bde9-a434e5a09fb4)
+- [Armin Ronacher - The Life and Death of Open Source Companies](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
+- [Josef Průša - The state of open-source in 3D printing in 2023](https://blog.prusa3d.com/the-state-of-open-source-in-3d-printing-in-2023_76659/)
 - [Reuters - Tesla blamed drivers for failures of parts it long knew were defective](https://www.reuters.com/investigates/special-report/tesla-musk-steering-suspension/)
 - [Justin Garrison - Amazon's Silent Sacking](https://justingarrison.com/blog/2023-12-30-amazons-silent-sacking/)
 - [Adrian Cockcroft - Signs that it’s time to leave a company…](https://adrianco.medium.com/signs-that-its-time-to-leave-a-company-5f8759ad018e)
@@ -4270,6 +4297,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Jason Koebler - Polish Hackers Say Manufacturer's Repair DRM Killed Train's Power, Broke Compressor](https://www.404media.co/polish-hackers-explain-exactly-how-they-fixed-trains-that-the-manufacturer-bricked/)
+- [The Verge - Microsoft is overhauling its software security after major Azure cloud attacks](https://www.theverge.com/2023/11/2/23943178/microsoft-security-secure-future-initiative-cybersecurity)
 - [Debian Public Statement about the EU Cyber Resilience Act and the Product Liability Directive](https://bits.debian.org/2023/12/debian-statement-cyber-resillience-act.md.html)
 - [Kelly Shortridge - Cybersecurity Isn’t Special](https://www.youtube.com/watch?v=UdCXUVhVSEE)
 - [PromptArmor, Kai Greshake - Data exfiltration from Writer.com with indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-writercom)
