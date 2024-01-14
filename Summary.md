@@ -59,6 +59,13 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Martin Schimak - Know the Flow! Events, Commands & Long-Running Services](https://www.youtube.com/watch?v=uSF5hyfez60)
+- [Nick Tune - Beyond Problem and Solution Space: Better models for modern product development](https://medium.com/nick-tune-tech-strategy-blog/beyond-problem-and-solution-space-better-models-for-modern-product-development-4ad3d5d5cdc4)
+- [Maciej 'MJ' Jedrzejewski - Mastering Strategic Domain-Driven Design – 6. Context Map](https://www.fractionalarchitect.io/posts/ddd-context-map)
+- [Simon Wardley - Wardley Maps and Cynefin](https://www.linkedin.com/pulse/wardley-maps-cynefin-simon-wardley-8egye/)
+- [Leslie Lamport - Time, Clocks and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/)
+- [The Seattle Times - Boeing wants FAA to exempt MAX 7 from safety rules to get it in the air](https://www.seattletimes.com/business/boeing-aerospace/boeing-wants-faa-to-exempt-max-7-from-safety-rules-to-get-it-in-the-air/)
+- [Gartner - Software Engineering Predicts 2024: Leadership During Disruption](https://www.gartner.com/en/documents/5076331)
 - [Oskar Dudycz - Not all issues are complex, some are complicated. Here's how to deal with them](https://event-driven.io/en/how_to_solve_complicated_problems/?utm_source=architecture_weekly)
 - [Leslie Lamport - A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science.pdf)
 - [Dave Snowden - Complex Adaptive Systems](https://www.youtube.com/watch?v=l4-vpegxYPg)
@@ -1259,6 +1266,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [OpenTofu - OpenTofu is going GA](https://opentofu.org/blog/opentofu-is-going-ga/)
+- [Awesome Self-Hosted - A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [Julia Evans - Some notes on NixOS](https://jvns.ca/blog/2024/01/01/some-notes-on-nixos/)
 - [Google - Developer Productivity for Humans, Part 7: Software Quality](https://ieeexplore.ieee.org/document/10372494)
 - [Sean Trane - GitHub Labels that are logical, colorful and sensible](https://seantrane.com/posts/logical-colorful-github-labels-18230/)
 - [Dennis Doomen - 22 reasons to ditch Azure DevOps and switch to GitHub as soon as possible](https://www.continuousimprover.com/2024/01/github-vs-azdo.html)
@@ -1989,6 +1999,12 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [The Guardian - ‘Impossible’ to create AI tools like ChatGPT without copyrighted material, OpenAI says](https://www.theguardian.com/technology/2024/jan/08/ai-tools-chatgpt-copyrighted-material-openai)
+- [ArsTechnica - UnitedHealth uses AI model with 90% error rate to deny care, lawsuit alleges](https://arstechnica.com/health/2023/11/ai-with-90-error-rate-forces-elderly-out-of-rehab-nursing-homes-suit-claims/)
+- [Einar W. Høst - The AI Puppet Dance](https://einarwh.wordpress.com/2024/01/12/the-ai-puppet-dance/)
+- [Mike Loukides - Can Language Models Replace Compilers? Don’t get your hopes up](https://www.oreilly.com/radar/can-language-models-replace-compilers/)
+- [Karawynn Long - Language Is a Poor Heuristic for Intelligence](https://buttondown.email/ninelives/archive/language-is-a-poor-heuristic-for-intelligence/)
+- [Futurism - Amazon Is Selling Products With AI-Generated Names Like "I Cannot Fulfill This Request It Goes Against OpenAI Use Policy"](https://futurism.com/amazon-products-ai-generated)
 - [Martin Krasser - Implementing JSON mode for open LLMs](http://krasserm.github.io/2023/12/18/llm-json-mode/)
 - [Rafal Gancarz - Griffin 2.0: Instacart Revamps Its Machine Learning Platform](https://www.infoq.com/news/2024/01/instacart-machine-learning)
 - [GitHub - GitHub Copilot Chat now generally available for organizations and individuals](https://github.blog/2023-12-29-github-copilot-chat-now-generally-available-for-organizations-and-individuals/)
@@ -2216,6 +2232,9 @@
 - [Yves Goeleven - CDN Hosting](https://www.goeleven.com/blog/cdn-hosting/)
 - [InfoWorld - Simon Bisson - Jumping into Azure Arc Data Services](https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.amp.html)
 
+# C
+- [Stephen Kell - Some Were Meant for C.The Endurance of an Unmanageable Language](https://www.humprog.org/~stephen/research/papers/kell17some-preprint.pdf)
+
 ## C++
 - [Jimmy Hartzell - C++ Papercuts](https://www.thecodedmessage.com/posts/c++-papercuts/)
 - [Google - Carbon Language: An experimental successor to C++](https://github.com/carbon-language/carbon-lang)
@@ -2229,6 +2248,7 @@
 - [Brett Rowberry - An F# Dev's Perspective on Clojure](https://brettrowberry.hashnode.dev/an-f-devs-perspective-on-clojure)
 
 ## Functional Programming
+- [Tomas Petricek - What we talk about when we talk about monads](https://tomasp.net/academic/papers/monads/monads-programming.pdf)
 - [Simon Peyton Jones - Beyond Functional Programming: The Verse Programming Language](https://www.youtube.com/watch?v=832JF1o7Ck8)
 - [Richard Feldman - Why Isn't Functional Programming the Norm?](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
 - [Felienne Hermans - Pure Functional Programming in Excel](https://www.youtube.com/watch?v=0yKf8TrLUOw)
@@ -2252,6 +2272,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [João Antunes - A .NET parallel Kafka consumer proof of concept (feat. Akka.NET and the actor model)](https://blog.codingmilitia.com/2024/01/08/a-dotnet-parallel-kafka-consumer-proof-of-concept-feat-akkadotnet-and-the-actor-model/)
+- [Falco.Htmx - An experimental Falco integration with htmx JS package.](https://github.com/dpraimeyuu/Falco.Htmx)
+- [Andrew Lock - A brief look at StringValues](https://andrewlock.net/a-brief-look-at-stringvalues/)
+- [Gérald Barré - Making primary constructor parameters read-only](https://www.meziantou.net/making-primary-constructor-parameters-read-only.htm)
 - [Vogen - A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects](https://github.com/SteveDunn/Vogen)
 - [Fluid - An open-source .NET template engine based on the Liquid template language.](https://github.com/sebastienros/fluid)
 - [Cezary Piątek - Common Setup and Teardown in dotnet tests without test framework magic](https://cezarypiatek.github.io/post/maintainable-test-fixture/)
@@ -3003,6 +3027,10 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Steph Ango - Don't specialize, hybridize](https://stephango.com/hybridize#:~:text=Becoming%20a%20generalist%20is%20one,one%20else%20would%20think%20of)
+- [Salem Group - Unlocking the Secrets of T-Shaped and V-Shaped Employees: How to Position Yourself for Career Success](https://www.linkedin.com/pulse/unlocking-secrets-t-shaped-v-shaped-employees-how-position/)
+- [Vanderbilt University - Just-in-Time Teaching](https://cft.vanderbilt.edu/guides-sub-pages/just-in-time-teaching-jitt/)
+- [M. Gupta, A. Sharma - Fear of missing out: A brief overview of origin, theoretical underpinnings and relationship with mental health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8283615/)
 - [Oskar Dudycz - What Dune can tell us about setting our goals](https://event-driven.io/en/dune_and_long_term_goals/?utm_source=architecture_weekly)
 - [Barry Overeem - Programmer- or Product Developer? Why The Difference Matters!](https://medium.com/the-liberators/programmer-or-product-developer-why-the-difference-matters-77c8d797cf0)
 - [CoRecursive Podcast - Quitting (And Then Rejoining) Stack Overflow with Ben Dumke-von der Ehe](https://corecursive.com/stack-overflow/)
@@ -3266,6 +3294,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Luxshan Ratnaravi — A puppy dies when agile meets reality](https://www.youtube.com/watch?v=dN5GN7boGUM)
 - [Charity Mayors - Becoming An Engineering Manager Can Make You Better At Life And Relationships](https://charity.wtf/2023/12/15/why-should-you-or-anyone-become-an-engineering-manager/)
 - [Gergely Orosz - Inside Stripe’s Engineering Culture - Part 1](https://newsletter.pragmaticengineer.com/p/stripe)
 - [Jeff Gothelf - Roadmaps are linear. Software projects aren’t.](https://jeffgothelf.com/blog/roadmaps-are-linear-software-projects-arent/)
@@ -3578,6 +3607,7 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
 ## JavaScript
+- [Feross Aboukhadijeh - When "Everything" Becomes Too Much: The npm Package Chaos of 2024](https://socket.dev/blog/when-everything-becomes-too-much)
 - [Matteo Collina - My thoughts on Bun and other Adventures](https://adventures.nodeland.dev/archive/my-thoughts-on-bun)
 - [Bun - Bun 1.0 released](https://bun.sh/blog/bun-v1.0)
 - [Snyk - Node.js vs. Deno vs. Bun: JavaScript runtime comparison](https://snyk.io/blog/javascript-runtime-compare-node-deno-bun/)
@@ -3845,6 +3875,10 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Rand Fishkin - Google, Apple, and Amazon Stifle Innovation When They Favor Their Own Products](https://sparktoro.com/blog/google-apple-and-amazon-stifle-innovation-when-they-favor-their-own-products/)
+- [The Register - Broadcom ditches VMware Cloud Service Providers](https://www.theregister.com/2024/01/10/broadcom_ends_vmware_partner_program/)
+- [The Verge - Unity is laying off 25 percent of its staff](https://www.theverge.com/2024/1/8/24030695/unity-layoff-staff-25-percent)
+- [The Verge - Amazon lays off more than 500 employees in its Twitch unit](https://www.cnbc.com/2024/01/10/amazon-layoffs-company-cuts-over-500-twitch-employees.html)
 - [Financial Times - Mariana Mazzucato: ‘The McKinseys and the Deloittes have no expertise in the areas that they’re advising in’](https://www.ft.com/content/fb1254dd-a011-44cc-bde9-a434e5a09fb4)
 - [Armin Ronacher - The Life and Death of Open Source Companies](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
 - [Josef Průša - The state of open-source in 3D printing in 2023](https://blog.prusa3d.com/the-state-of-open-source-in-3d-printing-in-2023_76659/)
@@ -4206,6 +4240,9 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Jacqui Read - How to get started with Obsidian Dataview and DataviewJS](https://medium.com/os-techblog/how-to-get-started-with-obsidian-dataview-and-dataviewjs-5d6b5733d4a4)
+- [Everything curl - an extensive guide for all things curl.](https://everything.curl.dev/)
+- [Cloudglare Website Analytics - Privacy-first, lightweight, accurate web analytics—for free](https://www.cloudflare.com/web-analytics/)
 - [Scott McKendry - The 5 Stages of Vim: A Humbling Experience](https://scottmckendry.tech/posts/vim-humbling/)
 - [Sameer Kumar - Overcoming Vim-Phobia: My Journey of Redemption](https://betterprogramming.pub/overcoming-vim-phobia-my-journey-of-redemption-d1114e6922ab)
 - [Typesense - A fast, typo-tolerant search engine for building delightful search experiences](https://github.com/typesense/typesense)
@@ -4497,6 +4534,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [The Washington Post - No one had ever ‘beat’ Tetris. Then came a 13-year-old phenom.](https://www.washingtonpost.com/nation/2024/01/04/13-year-old-beats-tetris/)
 - [Dan Luu - How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
 - [TechDirt - Substack Turns On Its ‘Nazis Welcome!’ Sign](https://www.techdirt.com/2023/12/26/substack-turns-on-its-nazis-welcome-sign/)
 - [Northeastern Global News - Parrots learn to make video calls to chat with other parrots, then develop friendships, Northeastern University researchers say](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
