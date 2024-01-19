@@ -8,7 +8,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ---
 
+### Architecture
 
 ### Frontend
 - [Ensuring Accessibility in UI Components: A Necessity for Everyone](https://alonat.tech/2023/12/ensuring-accessibility-in-ui-components-a-necessity-for-everyone/)
-
