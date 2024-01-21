@@ -59,6 +59,19 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Stream ids, event types prefixes and other event data you might not want to slice off](https://event-driven.io/en/on_putting_stream_id_in_event_data?utm_source=architecture_weekly)
+- [Andreas Pinhammer - DDD in large product portfolios](https://www.youtube.com/watch?v=FzycqiJVioI)
+- [Slack - Slack’s Migration to a Cellular Architecture](https://slack.engineering/slacks-migration-to-a-cellular-architecture/)
+- [Pete Hodgson - Tech Debt Walls](https://blog.thepete.net/blog/2020/12/01/tech-debt-walls/)
+- [Netflix - Rebuilding Netflix Video Processing Pipeline with Microservices](https://netflixtechblog.com/rebuilding-netflix-video-processing-pipeline-with-microservices-4e5e6310e359)
+- [Phil Calçado - Pattern: Using Pseudo-URIs with Microservices](https://philcalcado.com/2017/03/22/pattern_using_seudo-uris_with_microservices.html)
+- [MongoDB - A Comprehensive Guide to Data Modeling](https://www.mongodb.com/basics/data-modeling)
+- [MongoDB - Data Modeling for MongoDB](https://learn.mongodb.com/learning-paths/data-modeling-for-mongodb)
+- [InfoQ - The InfoQ Trends Reports 2023 eMag](https://www.infoq.com/minibooks/2023-infoq-trends-reports-emag/)
+- [Ryan Shriver - Start Your Architecture Modernization with Domain-Driven Discovery](https://www.infoq.com/articles/architecture-modernization-domain-driven-discovery)
+- [C.ristian Axenie, O. López-Corona, M. A. Makridis, M. Akbarzadeh, M. Saveriano, A. Stancu, J. West - Antifragility as a complex system's response to perturbations, volatility, and time](https://arxiv.org/abs/2312.13991v1)
+- [Barry M O’Reilly - An Introduction to Residuality Theory: Software Design Heuristics for Complex Systems](https://www.researchgate.net/publication/340637947_An_Introduction_to_Residuality_Theory_Software_Design_Heuristics_for_Complex_Systems)
+- [GitHub - Our move to generated SDKs](https://github.blog/2024-01-03-our-move-to-generated-sdks/)
 - [Oskar Dudycz - Should you record multiple events from business logic?](https://event-driven.io/en/one_or_more_event_that_is_the_question/?utm_source=architecture_weekly)
 - [Martin Schimak - Know the Flow! Events, Commands & Long-Running Services](https://www.youtube.com/watch?v=uSF5hyfez60)
 - [Nick Tune - Beyond Problem and Solution Space: Better models for modern product development](https://medium.com/nick-tune-tech-strategy-blog/beyond-problem-and-solution-space-better-models-for-modern-product-development-4ad3d5d5cdc4)
@@ -1267,6 +1280,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Garrit Franke - Cost per Request](https://garrit.xyz/posts/2024-01-18-cost-per-request)
+- [Martin Fowler - Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
 - [OpenTofu - OpenTofu is going GA](https://opentofu.org/blog/opentofu-is-going-ga/)
 - [Awesome Self-Hosted - A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [Julia Evans - Some notes on NixOS](https://jvns.ca/blog/2024/01/01/some-notes-on-nixos/)
@@ -1496,7 +1511,9 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
-- [Netlify - Unveiling the state of web development and predictions for 2024 and beyond](https://www.netlify.com/blog/unveiling-the-
+- [Tomasz Ducin - Signals are VALUES, not EVENTS](https://dev.to/ducin/signals-are-values-not-events-10bn)
+- [The AHA Stack - Combine Astro, htmx and Alpine.js to create modern web applications sending HTML over the wire, replacing the SPA JS-heavy approach with a much simpler set of mental models and workflows.](https://ahastack.dev)
+- [Netlify - Unveiling the state of web development and predictions for 2024 and beyond](https://www.netlify.com/blog/unveiling-the-state-of-web-development-and-predictions-for-2024-and-beyond/)
 - [Scott Jehl - How to Use Responsive HTML Video (...and Audio!)](https://scottjehl.com/posts/using-responsive-video/)
 - [Facebook - Introducing StyleX](https://github.com/facebook/stylex)
 - [Dan Abramov - A Chain Reaction](https://overreacted.io/a-chain-reaction/)
@@ -2000,6 +2017,7 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [A. Tornhill, M. Borg, E. Mones - Refactoring vs Refuctoring: Advancing the state of AI-automated code improvements](https://codescene.com/hubfs/whitepapers/Refactoring-vs-Refuctoring-Advancing-the-state-of-AI-automated-code-improvements.pdf)
 - [The Guardian - ‘Impossible’ to create AI tools like ChatGPT without copyrighted material, OpenAI says](https://www.theguardian.com/technology/2024/jan/08/ai-tools-chatgpt-copyrighted-material-openai)
 - [The Guardian - ‘Impossible’ to create AI tools like ChatGPT without copyrighted material, OpenAI says](https://www.theguardian.com/technology/2024/jan/08/ai-tools-chatgpt-copyrighted-material-openai)
 - [ArsTechnica - UnitedHealth uses AI model with 90% error rate to deny care, lawsuit alleges](https://arstechnica.com/health/2023/11/ai-with-90-error-rate-forces-elderly-out-of-rehab-nursing-homes-suit-claims/)
@@ -2141,6 +2159,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [InfoQ - AWS to Shut down Aurora Serverless v1, Their Sole Relational Database with Scaling Capacity to Zero](https://www.infoq.com/news/2024/01/aurora-serverless-v1-retirement/)
 - [Yan Cui - This is why you should keep stateful and stateless resources together](https://theburningmonk.com/2023/01/this-is-why-you-should-keep-stateful-and-stateless-resources-together/)
 - [Werner Vogels - AWS re:Invent 2023 - Keynote](https://www.youtube.com/watch?v=UTRBVPvzt9w)
 - [AWS - AWS Lambda functions now scale 12 times faster when handling high-volume requests](https://aws.amazon.com/blogs/aws/aws-lambda-functions-now-scale-12-times-faster-when-handling-high-volume-requests/)
@@ -2194,6 +2213,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Piotr Krukowski - Azure Cosmos DB RBAC and passwordless authentication](https://cloudchronicles.blog/blog/Azure-Cosmos-DB-RBAC-and-passwordless-authentication/)
 - [azcagit - GitOps Engine for Azure Container Apps](https://github.com/XenitAB/azcagit)
 - [Microsoft - Announcing Microsoft Playwright Testing: Scalable end-to-end testing for modern web apps](https://azure.microsoft.com/en-us/blog/announcing-microsoft-playwright-testing-scalable-end-to-end-testing-for-modern-web-apps/)
 - [Martin Thwaites - Creating an AKS cluster with WebApplication Routing using Pulumi](https://martinjt.me/2023/09/11/creating-an-aks-cluster-with-webapplication-routing-using-pulumi/)
@@ -2274,6 +2294,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jeremy D. Miller - Building a Critter Stack Application: Messaging with Rabbit MQ](https://jeremydmiller.com/2024/01/16/building-a-critter-stack-application-messaging-with-rabbit-mq/)
+- [Cezary Piątek - Mocking GraphQL queries with WireMock.NET](https://cezarypiatek.github.io/post/mocking-graphql-with-wiremock/)
+- [The Hanselminutes Podcast - ASP.NET Basics for Experts with Layla Porter](https://www.hanselminutes.com/928/aspnet-basics-for-experts-with-layla-porter)
+- [.NET Rocks - .NET 8 Migration with Jimmy Bogard](https://www.dotnetrocks.com/details/1880)
 - [João Antunes - A .NET parallel Kafka consumer proof of concept (feat. Akka.NET and the actor model)](https://blog.codingmilitia.com/2024/01/08/a-dotnet-parallel-kafka-consumer-proof-of-concept-feat-akkadotnet-and-the-actor-model/)
 - [Falco.Htmx - An experimental Falco integration with htmx JS package.](https://github.com/dpraimeyuu/Falco.Htmx)
 - [Andrew Lock - A brief look at StringValues](https://andrewlock.net/a-brief-look-at-stringvalues/)
@@ -3029,6 +3053,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Ketan Bhatt - Don’t be the Alpha Geek: Your team deserves better](https://ketanbhatt.com/alpha-geek/)
 - [Steph Ango - Don't specialize, hybridize](https://stephango.com/hybridize#:~:text=Becoming%20a%20generalist%20is%20one,one%20else%20would%20think%20of)
 - [Salem Group - Unlocking the Secrets of T-Shaped and V-Shaped Employees: How to Position Yourself for Career Success](https://www.linkedin.com/pulse/unlocking-secrets-t-shaped-v-shaped-employees-how-position/)
 - [Vanderbilt University - Just-in-Time Teaching](https://cft.vanderbilt.edu/guides-sub-pages/just-in-time-teaching-jitt/)
@@ -3296,6 +3321,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Ted Neward - We Need to Talk. If we can't use this, what do we use instead?](http://blogs.newardassociates.com/blog/2024/we-need-to-talk.html)
 - [Luxshan Ratnaravi — A puppy dies when agile meets reality](https://www.youtube.com/watch?v=dN5GN7boGUM)
 - [Charity Mayors - Becoming An Engineering Manager Can Make You Better At Life And Relationships](https://charity.wtf/2023/12/15/why-should-you-or-anyone-become-an-engineering-manager/)
 - [Gergely Orosz - Inside Stripe’s Engineering Culture - Part 1](https://newsletter.pragmaticengineer.com/p/stripe)
@@ -3470,6 +3496,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Johannes Bechberger  - Hello eBPF: Developing eBPF Apps in Java (1)](https://foojay.io/today/hello-ebpf-developing-ebpf-apps-in-java-1/)
 - [JVM Weekly - Everything you might have missed in Java in 2023 – JVM Weekly vol. 66](https://vived.substack.com/p/everything-you-might-have-missed-a9c)
 - [Vlad Mihalcea - The best way to map multiple entities on the same table](https://vladmihalcea.com/multiple-entities-on-same-table/)
 - [Sirisha Pratha - Spring Boot 3.2 Delivers Support for Virtual Threads and Modern RestClient and JdbcClient](https://www.infoq.com/news/2023/12/spring-boot-virtual-threads)
@@ -3649,6 +3676,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Wojciech Baczyński - Branding & Flavoring](https://brightinventions.pl/blog/branding-flavoring/)
 - [TSDocs.dev - Browse type documentation for JS libraries](https://github.com/pastelsky/tsdocs)
 - [Amir Khansari - TypeScript prototype of the Decider pattern](https://gist.github.com/akhansari/b43a9a60ba1ca3f2a8c8705aa0db3efb)
 - [Sergiy Biluk - Type negation in TypeScript](https://catchts.com/type-negation)
@@ -3877,6 +3905,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [BBC News - Post Office scandal explained: What the Horizon saga is all about](https://www.bbc.com/news/business-56718036)
+- [Wikipedia - British Post Office scandal](https://en.wikipedia.org/wiki/British_Post_Office_scandal)
 - [Rand Fishkin - Google, Apple, and Amazon Stifle Innovation When They Favor Their Own Products](https://sparktoro.com/blog/google-apple-and-amazon-stifle-innovation-when-they-favor-their-own-products/)
 - [The Register - Broadcom ditches VMware Cloud Service Providers](https://www.theregister.com/2024/01/10/broadcom_ends_vmware_partner_program/)
 - [The Verge - Unity is laying off 25 percent of its staff](https://www.theverge.com/2024/1/8/24030695/unity-layoff-staff-25-percent)
@@ -4189,6 +4219,7 @@
 - [Corey Quinn - How to Compete with AWS](https://www.lastweekinaws.com/blog/how-to-compete-with-aws/)
 
 ## Hardware
+- [Roy Longbottom - Cray 1 Supercomputer Performance Comparisons With Home Computers Phones and Tablets](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
 - [Tom's Hardware - China's ByteDance Has Gobbled Up $1 Billion of Nvidia GPUs for AI This Year](https://www.tomshardware.com/news/chinas-bytedance-has-gobbled-up-dollar1-billion-of-nvidia-gpus-for-ai-this-year)
 - [The Guardian - Why Japan’s war on disks could prove to be another flop](https://www.theguardian.com/world/2022/sep/01/japan-digital-minister-declares-war-on-floppy-discs)
 - [Raymond Chen - Janet Jackson had the power to crash laptop computers](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
