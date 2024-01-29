@@ -59,6 +59,17 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - How TypeScript can help in modelling business workflows](https://event-driven.io/en/how_to_have_fun_with_typescript_and_workflow/?utm_source=architecture_weekly)
+- [Fathom Analytics - Reducing our AWS bill by $100,000](https://usefathom.com/blog/reduce-aws-bill)
+- [Pierre Pureur - How Much Architecture Is “Enough?”: Balancing the MVP and MVA Helps You Make Better Decisions](https://www.infoq.com/articles/mva-enough-architecture/)
+- [Discord - Maxjourney: Pushing Discord’s Limits with a Million+ Online Users in a Single Server](https://discord.com/blog/maxjourney-pushing-discords-limits-with-a-million-plus-online-users-in-a-single-server)
+- [Jack Vanlightly - The advantages of queues on logs](https://jack-vanlightly.com/blog/2023/10/2/the-advantages-of-queues-on-logs)
+- [Andrea Medda, Matt Boyle - Tales of Kafka @Cloudflare: Lessons Learnt on the Way to 1 Trillion Messages](https://www.infoq.com/presentations/kafka-cloudflare/)
+- [Juan Manuel Garrido de Paz - Ports and Adapters Pattern](https://jmgarridopaz.github.io/content/hexagonalarchitecture.html)
+- [Cyrille Martraire - Domain modeling with monoids](http://www.arolla.fr/blog/wp-content/uploads/2018/10/DomainModelingwithMonoids.pdf)
+- [Mario Bittencourt - Why AsyncAPI Matters — Bridging the Gap in API Documentation — Part I](https://medium.com/ssense-tech/why-asyncapi-matters-bridging-the-gap-in-api-documentation-part-i-3f041c0b6026)
+- [Eduardo da Silva - Towards Architecture Organization Topologies for Sustainable Fast Flow of Change](https://www.youtube.com/watch?v=0tCCMguP3yo)
+- [Nick Tune - Forming an Architecture Modernization Enabling Team](https://medium.com/nick-tune-tech-strategy-blog/forming-an-architecture-modernization-enabling-team-amet-50d70a789331)
 - [Oskar Dudycz - Stream ids, event types prefixes and other event data you might not want to slice off](https://event-driven.io/en/on_putting_stream_id_in_event_data?utm_source=architecture_weekly)
 - [Andreas Pinhammer - DDD in large product portfolios](https://www.youtube.com/watch?v=FzycqiJVioI)
 - [Slack - Slack’s Migration to a Cellular Architecture](https://slack.engineering/slacks-migration-to-a-cellular-architecture/)
@@ -1280,6 +1291,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Bernard Pietraga - Practical solutions for dealing with high cardinality metrics](https://bpietraga.me/practical-solutions-for-dealing-with-high-cardinality-metrics/)
+- [Dreams of Code - Using docker in unusual ways](https://www.youtube.com/watch?v=zfNqp85g5JM)
 - [Garrit Franke - Cost per Request](https://garrit.xyz/posts/2024-01-18-cost-per-request)
 - [Martin Fowler - Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
 - [OpenTofu - OpenTofu is going GA](https://opentofu.org/blog/opentofu-is-going-ga/)
@@ -1781,6 +1794,10 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Gwen Shapira - The Rise of the Serverless Data Architectures](https://www.infoq.com/presentations/serverless-data-architectures/)
+- [QuestDB - An open source time-series database for fast ingest and SQL queries ](https://github.com/questdb/questdb)
+- [Alicja Kucharczyk: Leveraging pgBadger for Effective PostgreSQL Troubleshooting](https://www.youtube.com/watch?v=gomnQvhsJZk)
+- [PopSQL - How to Calculate Cumulative Sum-Running Total in PostgreSQL](https://popsql.com/learn-sql/postgresql/how-to-calculate-cumulative-sum-running-total-in-postgresql)
 - [Gwen Shapira - Transaction Isolation in Postgres, explained](https://www.thenile.dev/blog/transaction-isolation-postgres)
 - [Jepsen - MySQL 8.0.34](https://jepsen.io/analyses/mysql-8.0.34)
 - [Rajendra Gupta - Table Partitioning in Azure SQL Database](https://www.sqlshack.com/table-partitioning-in-azure-sql-database/)
@@ -2017,6 +2034,8 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [The Motte - ChatGPT does Advent of Code 2023](https://www.themotte.org/post/797/chatgpt-vs-advent-of-code)
+- [Wired - Most Top News Sites Block AI Bots. Right-Wing Media Welcomes Them](https://www.wired.com/story/most-news-sites-block-ai-bots-right-wing-media-welcomes-them/)
 - [A. Tornhill, M. Borg, E. Mones - Refactoring vs Refuctoring: Advancing the state of AI-automated code improvements](https://codescene.com/hubfs/whitepapers/Refactoring-vs-Refuctoring-Advancing-the-state-of-AI-automated-code-improvements.pdf)
 - [The Guardian - ‘Impossible’ to create AI tools like ChatGPT without copyrighted material, OpenAI says](https://www.theguardian.com/technology/2024/jan/08/ai-tools-chatgpt-copyrighted-material-openai)
 - [The Guardian - ‘Impossible’ to create AI tools like ChatGPT without copyrighted material, OpenAI says](https://www.theguardian.com/technology/2024/jan/08/ai-tools-chatgpt-copyrighted-material-openai)
@@ -2294,6 +2313,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Joel Verhagen - The fastest CSV parser in .NET](https://www.joelverhagen.com/blog/2020/12/fastest-net-csv-parsers)
+- [Aaron Stannard - How to Distribute Roslyn Analyzers via NuGet](https://aaronstannard.com/roslyn-nuget/)
+- [Microsoft - Introducing the MSTest Runner – CLI, Visual Studio, & More](https://devblogs.microsoft.com/dotnet/introducing-ms-test-runner)
+- [.NET Team - Eventing Framework in .NET 9](https://github.com/dotnet/aspnetcore/issues/53219)
 - [Jeremy D. Miller - Building a Critter Stack Application: Messaging with Rabbit MQ](https://jeremydmiller.com/2024/01/16/building-a-critter-stack-application-messaging-with-rabbit-mq/)
 - [Cezary Piątek - Mocking GraphQL queries with WireMock.NET](https://cezarypiatek.github.io/post/mocking-graphql-with-wiremock/)
 - [The Hanselminutes Podcast - ASP.NET Basics for Experts with Layla Porter](https://www.hanselminutes.com/928/aspnet-basics-for-experts-with-layla-porter)
@@ -3321,6 +3344,9 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Simon Wardley - Pioneers, Settlers and Town Planners](https://blog.gardeviance.org/2012/06/pioneers-settlers-and-town-planners.html)
+- [Bjarte Bogsnes - Hitting the target but missing the point - myths about target setting](https://www.linkedin.com/pulse/hitting-target-missing-point-myths-setting-bjarte-bogsnes)
+- [Atlassian - Lessons Learned: 1,000 Days of Distributed at Atlassian](https://atlassianblog.wpengine.com/wp-content/uploads/2024/01/lessonslearned.pdf)
 - [Ted Neward - We Need to Talk. If we can't use this, what do we use instead?](http://blogs.newardassociates.com/blog/2024/we-need-to-talk.html)
 - [Luxshan Ratnaravi — A puppy dies when agile meets reality](https://www.youtube.com/watch?v=dN5GN7boGUM)
 - [Charity Mayors - Becoming An Engineering Manager Can Make You Better At Life And Relationships](https://charity.wtf/2023/12/15/why-should-you-or-anyone-become-an-engineering-manager/)
@@ -3462,6 +3488,9 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [Oskar Dudycz - When Agile is not enough](https://event-driven.io/en/when_agile_is_not_enough/?utm_source=architecture_weekly)
+- [Henrik Kniberg - Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
+- [Rik Higham - The MVP is dead. Long live the RAT.](https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02)
 - [David Bland - An Introduction to Experiment Pairing](https://www.precoil.com/articles/intro-to-experiment-pairing)
 - [The Logan Bartlett Show - Confluent’s Resilient Rise To Software Juggernaut with Jay Kreps](https://www.youtube.com/watch?v=wKcJxGv3HDY)
 - [Krisztina Hirth - Shifting from Projects to Feedback-Based Product Dev: Practical Tips and Insights](https://www.youtube.com/watch?v=psIZ63m_TSk)
@@ -3714,6 +3743,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [TypeBox - Json Schema Type Builder with Static Type Resolution for TypeScript](https://github.com/sinclairzx81/typebox)
 - [Nick Scialli - How to use HTTP2 with Express.js and test it locally](https://typeofnan.dev/how-to-use-http2-with-express/)
 - [Kent C. Dodds - Why I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
 - [Lee Robinson - Why I'm Using Next.js](https://leerob.io/blog/using-nextjs)
@@ -3905,6 +3935,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [John Gruber - Coming to Grips With Apple’s Seemingly Unshakable Sense of Entitlement to Its Commissions From Third-Party iOS Apps](https://daringfireball.net/2024/01/coming_to_grips_with_apples_seemingly_unshakable_sense_of_app_store_entitlement)
+- [ArsTechnica - Google lays off 100 at YouTube; CEO says more layoffs are coming](https://arstechnica.com/google/2024/01/google-ceo-sundar-pichai-promises-another-year-of-google-layoffs)
+- [The Markup - Each Facebook User is Monitored by Thousands of Companies](https://themarkup.org/privacy/2024/01/17/each-facebook-user-is-monitored-by-thousands-of-companies-study-indicates)
 - [BBC News - Post Office scandal explained: What the Horizon saga is all about](https://www.bbc.com/news/business-56718036)
 - [Wikipedia - British Post Office scandal](https://en.wikipedia.org/wiki/British_Post_Office_scandal)
 - [Rand Fishkin - Google, Apple, and Amazon Stifle Innovation When They Favor Their Own Products](https://sparktoro.com/blog/google-apple-and-amazon-stifle-innovation-when-they-favor-their-own-products/)
