@@ -59,6 +59,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [RevenueCat - Scaling smoothly: RevenueCat’s data-caching techniques for 1.2 billion daily API requests](https://www.revenuecat.com/blog/engineering/data-caching-revenuecat/)
+- [Lastminute.com - Evolution of a high-performance system: from synchronous to seamless scalability](https://technology.lastminute.com/evolution-of-a-high-performance-system-from-synchronous-to-seamless-scalability/)
+- [Alex Strachan - Understanding Architectures for Multi-Region Data Residency](https://www.infoq.com/articles/understanding-architectures-multiregion-data-residency)
+- [Alistair Cockburn - Hexagonal Architecture from its Inventor](https://www.youtube.com/watch?v=Gsgisj1Ns40)
+- [Ian Cooper - Adopting Polyglot Flow](https://www.youtube.com/watch?v=RVmDU1QJmAs)
+- [Cloud Native Computing Foundation - Announces the Graduation of CloudEvents](https://www.cncf.io/announcements/2024/01/25/cloud-native-computing-foundation-announces-the-graduation-of-cloudevents/)
+- [SingleStone - New Miro Templates for Domain-Driven Discovery](https://www.singlestoneconsulting.com/blog/new-miro-templates-for-domain-driven-discovery)
+- [Jeff Atwood - When Understanding means Rewriting](https://blog.codinghorror.com/when-understanding-means-rewriting/)
+- [Kris Van Vlaenderen - 5 pitfalls to avoid when implementing an Event-Driven Architecture](https://medium.com/@kris_22373/5-pitfalls-to-avoid-when-implementing-an-event-driven-architecture-7fb04d7fa7ca)
 - [Oskar Dudycz - How TypeScript can help in modelling business workflows](https://event-driven.io/en/how_to_have_fun_with_typescript_and_workflow/?utm_source=architecture_weekly)
 - [Fathom Analytics - Reducing our AWS bill by $100,000](https://usefathom.com/blog/reduce-aws-bill)
 - [Pierre Pureur - How Much Architecture Is “Enough?”: Balancing the MVP and MVA Helps You Make Better Decisions](https://www.infoq.com/articles/mva-enough-architecture/)
@@ -1291,6 +1300,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Charity Majors - Perils, Pitfalls and Pratfalls of Platform Engineering](https://www.infoq.com/presentations/platform-engineering-teams)
 - [Bernard Pietraga - Practical solutions for dealing with high cardinality metrics](https://bpietraga.me/practical-solutions-for-dealing-with-high-cardinality-metrics/)
 - [Dreams of Code - Using docker in unusual ways](https://www.youtube.com/watch?v=zfNqp85g5JM)
 - [Garrit Franke - Cost per Request](https://garrit.xyz/posts/2024-01-18-cost-per-request)
@@ -1670,6 +1680,8 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Microsoft - APIs testing using HTTP files and Rest Client](https://devblogs.microsoft.com/ise/api-testing-using-http-files)
+- [Hillel Wayne - I have complicated feelings about TDD](https://buttondown.email/hillelwayne/archive/i-have-complicated-feelings-about-tdd-8403)
 - [Scott Wlaschin - The lazy programmer's guide to writing thousands of tests](https://www.youtube.com/watch?v=IYzDFHx6QPY)
 - [Kent Beck - Canon TDD](https://tidyfirst.substack.com/p/canon-tdd)
 - [Kent Beck - TDD Isn't Design](https://tidyfirst.substack.com/p/tdd-isnt-design)
@@ -1794,6 +1806,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Greg Wilson - SQL for Data Scientists in 100 Queries](https://gvwilson.github.io/sql-tutorial/)
 - [Gwen Shapira - The Rise of the Serverless Data Architectures](https://www.infoq.com/presentations/serverless-data-architectures/)
 - [QuestDB - An open source time-series database for fast ingest and SQL queries ](https://github.com/questdb/questdb)
 - [Alicja Kucharczyk: Leveraging pgBadger for Effective PostgreSQL Troubleshooting](https://www.youtube.com/watch?v=gomnQvhsJZk)
@@ -2034,6 +2047,8 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
+- [Rachel Coldicutt - Is it possible for general purpose AI to do no harm?](https://buttondown.email/justenoughinternet/archive/is-it-possible-for-general-purpose-ai-to-do-no/)
 - [The Motte - ChatGPT does Advent of Code 2023](https://www.themotte.org/post/797/chatgpt-vs-advent-of-code)
 - [Wired - Most Top News Sites Block AI Bots. Right-Wing Media Welcomes Them](https://www.wired.com/story/most-news-sites-block-ai-bots-right-wing-media-welcomes-them/)
 - [A. Tornhill, M. Borg, E. Mones - Refactoring vs Refuctoring: Advancing the state of AI-automated code improvements](https://codescene.com/hubfs/whitepapers/Refactoring-vs-Refuctoring-Advancing-the-state-of-AI-automated-code-improvements.pdf)
@@ -2313,6 +2328,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Kyle Kukshtel - So You Wanna Package Some Native Libs Into A NuGet Package](https://blog.kylekukshtel.com/nuget-native-dll-packing)
+- [Nicholas Blumhardt - SerilogTracing](https://nblumhardt.com/2024/01/serilog-tracing/)
+- [Charles Chen - .NET Task Parallel Library vs System.Threading.Channels](https://chrlschn.dev/blog/2023/10/dotnet-task-parallel-library-vs-system-threading-channels)
+- [Egil Hansen - Testing .NET Web APIs from A to Z](https://www.youtube.com/watch?v=AA6zaQ1gKv8)
 - [Joel Verhagen - The fastest CSV parser in .NET](https://www.joelverhagen.com/blog/2020/12/fastest-net-csv-parsers)
 - [Aaron Stannard - How to Distribute Roslyn Analyzers via NuGet](https://aaronstannard.com/roslyn-nuget/)
 - [Microsoft - Introducing the MSTest Runner – CLI, Visual Studio, & More](https://devblogs.microsoft.com/dotnet/introducing-ms-test-runner)
@@ -3344,6 +3363,9 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Avraham Poupko - You can’t fight Conway’s law](https://www.youtube.com/watch?v=BDagiC8Sw48)
+- [Jamie McDonald - Roadmaps are tools](https://jdamcd.blog/posts/roadmaps/)
+- [Sam-Nicolai Johnston - Improving Delivery Rate by Subtasking](https://medium.com/ssense-tech/improving-delivery-rate-by-subtasking-09c40e69d700)
 - [Simon Wardley - Pioneers, Settlers and Town Planners](https://blog.gardeviance.org/2012/06/pioneers-settlers-and-town-planners.html)
 - [Bjarte Bogsnes - Hitting the target but missing the point - myths about target setting](https://www.linkedin.com/pulse/hitting-target-missing-point-myths-setting-bjarte-bogsnes)
 - [Atlassian - Lessons Learned: 1,000 Days of Distributed at Atlassian](https://atlassianblog.wpengine.com/wp-content/uploads/2024/01/lessonslearned.pdf)
@@ -3705,6 +3727,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Christian Woerz - A Deep Dive into Advanced TypeScript: A Live Coding Expedition](https://www.youtube.com/watch?v=4SPkpIap4Ls)
 - [Wojciech Baczyński - Branding & Flavoring](https://brightinventions.pl/blog/branding-flavoring/)
 - [TSDocs.dev - Browse type documentation for JS libraries](https://github.com/pastelsky/tsdocs)
 - [Amir Khansari - TypeScript prototype of the Decider pattern](https://gist.github.com/akhansari/b43a9a60ba1ca3f2a8c8705aa0db3efb)
@@ -3743,6 +3766,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [Yoni Goldberg - The Node.js best practices list](https://github.com/goldbergyoni/nodebestpractices)
 - [TypeBox - Json Schema Type Builder with Static Type Resolution for TypeScript](https://github.com/sinclairzx81/typebox)
 - [Nick Scialli - How to use HTTP2 with Express.js and test it locally](https://typeofnan.dev/how-to-use-http2-with-express/)
 - [Kent C. Dodds - Why I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
@@ -3929,12 +3953,16 @@
 - [Jakub Cichy - Hands-on Kafka Streams in Scala](https://softwaremill.com/hands-on-kafka-streams-in-scala/)
 - [Programming Methods Laboratory EPFL - Monadic Reflection](https://github.com/lampepfl/monadic-reflection)
 
+## Smalltalk
+- [Alec Sharp - Smalltalk By Example](https://rmod-files.lille.inria.fr/FreeBooks/ByExample/SmalltalkByExampleNewRelease.pdf)
+
 ## Swift
 - [Swift - Moving “The Swift Programming Language” book to open source](https://forums.swift.org/t/moving-the-swift-programming-language-book-to-open-source/59989)
 - [Swift - Introducing Swift Distributed Actors](https://swift.org/blog/distributed-actors/)
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [ArsTechnica - Google will no longer back up the Internet: Cached webpages are dead](https://arstechnica.com/gadgets/2024/02/google-search-kills-off-cached-webpages)
 - [John Gruber - Coming to Grips With Apple’s Seemingly Unshakable Sense of Entitlement to Its Commissions From Third-Party iOS Apps](https://daringfireball.net/2024/01/coming_to_grips_with_apples_seemingly_unshakable_sense_of_app_store_entitlement)
 - [ArsTechnica - Google lays off 100 at YouTube; CEO says more layoffs are coming](https://arstechnica.com/google/2024/01/google-ceo-sundar-pichai-promises-another-year-of-google-layoffs)
 - [The Markup - Each Facebook User is Monitored by Thousands of Companies](https://themarkup.org/privacy/2024/01/17/each-facebook-user-is-monitored-by-thousands-of-companies-study-indicates)
@@ -4400,6 +4428,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Cloudflare - Thanksgiving 2023 security incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident)
 - [Jason Koebler - Polish Hackers Say Manufacturer's Repair DRM Killed Train's Power, Broke Compressor](https://www.404media.co/polish-hackers-explain-exactly-how-they-fixed-trains-that-the-manufacturer-bricked/)
 - [The Verge - Microsoft is overhauling its software security after major Azure cloud attacks](https://www.theverge.com/2023/11/2/23943178/microsoft-security-secure-future-initiative-cybersecurity)
 - [Debian Public Statement about the EU Cyber Resilience Act and the Product Liability Directive](https://bits.debian.org/2023/12/debian-statement-cyber-resillience-act.md.html)
