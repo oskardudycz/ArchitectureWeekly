@@ -7,3 +7,54 @@
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
+
+### Architecture
+- [RevenueCat - Scaling smoothly: RevenueCat’s data-caching techniques for 1.2 billion daily API requests](https://www.revenuecat.com/blog/engineering/data-caching-revenuecat/)
+- [Lastminute.com - Evolution of a high-performance system: from synchronous to seamless scalability](https://technology.lastminute.com/evolution-of-a-high-performance-system-from-synchronous-to-seamless-scalability/)
+- [Alex Strachan - Understanding Architectures for Multi-Region Data Residency](https://www.infoq.com/articles/understanding-architectures-multiregion-data-residency)
+- [Alistair Cockburn - Hexagonal Architecture from its Inventor](https://www.youtube.com/watch?v=Gsgisj1Ns40)
+- [Ian Cooper - Adopting Polyglot Flow](https://www.youtube.com/watch?v=RVmDU1QJmAs)
+- [Cloud Native Computing Foundation - Announces the Graduation of CloudEvents](https://www.cncf.io/announcements/2024/01/25/cloud-native-computing-foundation-announces-the-graduation-of-cloudevents/)
+- [SingleStone - New Miro Templates for Domain-Driven Discovery](https://www.singlestoneconsulting.com/blog/new-miro-templates-for-domain-driven-discovery)
+- [Jeff Atwood - When Understanding means Rewriting](https://blog.codinghorror.com/when-understanding-means-rewriting/)
+- [Kris Van Vlaenderen - 5 pitfalls to avoid when implementing an Event-Driven Architecture](https://medium.com/@kris_22373/5-pitfalls-to-avoid-when-implementing-an-event-driven-architecture-7fb04d7fa7ca)
+
+### DevOps
+- [Charity Majors - Perils, Pitfalls and Pratfalls of Platform Engineering](https://www.infoq.com/presentations/platform-engineering-teams)
+
+### Databases
+- [Greg Wilson - SQL for Data Scientists in 100 Queries](https://gvwilson.github.io/sql-tutorial/)
+
+### Testing
+- [Microsoft - APIs testing using HTTP files and Rest Client](https://devblogs.microsoft.com/ise/api-testing-using-http-files)
+- [Hillel Wayne - I have complicated feelings about TDD](https://buttondown.email/hillelwayne/archive/i-have-complicated-feelings-about-tdd-8403)
+
+### AI
+- [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
+- [Rachel Coldicutt - Is it possible for general purpose AI to do no harm?](https://buttondown.email/justenoughinternet/archive/is-it-possible-for-general-purpose-ai-to-do-no/)
+
+### .NET
+- [Kyle Kukshtel - So You Wanna Package Some Native Libs Into A NuGet Package](https://blog.kylekukshtel.com/nuget-native-dll-packing)
+- [Nicholas Blumhardt - SerilogTracing](https://nblumhardt.com/2024/01/serilog-tracing/)
+- [Charles Chen - .NET Task Parallel Library vs System.Threading.Channels](https://chrlschn.dev/blog/2023/10/dotnet-task-parallel-library-vs-system-threading-channels)
+- [Egil Hansen - Testing .NET Web APIs from A to Z](https://www.youtube.com/watch?v=AA6zaQ1gKv8)
+
+### Node.js
+- [Yoni Goldberg - The Node.js best practices list](https://github.com/goldbergyoni/nodebestpractices)
+
+### Smalltalk
+- [Alec Sharp - Smalltalk By Example](https://rmod-files.lille.inria.fr/FreeBooks/ByExample/SmalltalkByExampleNewRelease.pdf)
+
+### TypeScript
+- [Christian Woerz - A Deep Dive into Advanced TypeScript: A Live Coding Expedition](https://www.youtube.com/watch?v=4SPkpIap4Ls)
+
+### Management
+- [Avraham Poupko - You can’t fight Conway’s law](https://www.youtube.com/watch?v=BDagiC8Sw48)
+- [Jamie McDonald - Roadmaps are tools](https://jdamcd.blog/posts/roadmaps/)
+- [Sam-Nicolai Johnston - Improving Delivery Rate by Subtasking](https://medium.com/ssense-tech/improving-delivery-rate-by-subtasking-09c40e69d700)
+
+### Industry
+- [ArsTechnica - Google will no longer back up the Internet: Cached webpages are dead](https://arstechnica.com/gadgets/2024/02/google-search-kills-off-cached-webpages)
+
+### Security
+- [Cloudflare - Thanksgiving 2023 security incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident)
