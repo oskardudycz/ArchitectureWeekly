@@ -1,6 +1,6 @@
 # Upcoming Links
 
-## 12th February 2024
+## 19th February 2024
 
 **[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
@@ -9,55 +9,3 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ### Architecture
-- [George Ball - Achieving High Throughput Without Sacrificing Latency](https://foojay.io/today/achieving-high-throughput-without-sacrificing-latency/)
-- [Luc van Donkersgoed - The single-tenancy to multi-tenancy spectrum](https://lucvandonkersgoed.com/2023/12/08/the-single-tenancy-to-multi-tenancy-spectrum/)
-- [Microsoft - Smart load balancing for OpenAI endpoints using containers](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/smart-load-balancing-for-openai-endpoints-using-containers/ba-p/4017550)
-- [Wim Debreuck - Event Driven Architecture & Governance in action](https://www.youtube.com/watch?v=XmsPvg_dYio)
-- [Martin Schimak - Tackling Complex Event Flows](https://www.youtube.com/watch?v=_pJGwvVRwpg)
-- [Eric Evans, Dave Farley - Applying DDD Beyond Object-Oriented Programming](https://www.youtube.com/watch?v=9HZ4iSHiiec)
-- [Nick Tune - Architecting for Independent Value Streams](https://www.youtube.com/watch?v=BrEE9MRLcL0)
-- [Tim Wellhausen, Andreas Fießer - How to write a pattern? A rough guide for first-time pattern authors](https://europlop.net/wp-content/uploads/2022/10/How-to-write-a-pattern.pdf)
-- [Neil B. Harrison - Advanced Pattern Writing. Patterns for Experienced Pattern Authors](https://europlop.net/wp-content/uploads/2022/10/AdvancedPatternWriting.pdf)
-
-### DevOps
-- [Gregor Hohpe - Application architecture as code](https://www.youtube.com/watch?v=vasvpFRPx9c)
-
-### Testing
-- [clumsy - Makes your network condition on Windows significantly worse, but in a controlled and interactive manner](https://github.com/jagt/clumsy)
-
-### Azure
-- [Paul Reardon - Azure free offerings](https://www.reardontech.uk/posts/azure-free-services/)
-- [Microsoft - A/B Testing Infrastructure Changes at Microsoft ExP](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/a-b-testing-infrastructure-changes-at-microsoft-exp/)
-
-### Go
-- [Mat Ryer - How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
-
-### Java
-- [Devoxx Belgium - Ask the Java Architects By Sharat Chander, Alan Bateman, Stuart Marks, Viktor Klang, Brian Goetz](https://www.youtube.com/watch?v=DlTUMjg7DD0)
-
-### .NET
-- [Tim Deschryver - Translating Exceptions into Problem Details Responses](https://timdeschryver.dev/blog/translating-exceptions-into-problem-details-responses)
-- [Fga.Net - OpenFGA & Auth0 FGA for ASP.NET Core + Worker Services](https://github.com/Hawxy/Fga.Net)
-- [Reqnroll - Open-source Cucumber-style BDD test automation framework for .NET](https://github.com/reqnroll/Reqnroll)
-
-### Node.js
-- [Oskar Dudycz - Announcing Emmett! Take your event-driven applications back to the future!](https://event-driven.io/en/introducing_emmett/)
-- [Emmett - a Node.js library taking your event-driven applications back to the future!](https://github.com/event-driven-io/emmett)
-
-### Performance
-- [MIT - Performance Engineering of Software Systems Course](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/download/)
-
-### Management
-- [Cliff Hazell - The one thing nobody copies from Spotify](https://www.cliffhazell.com/blog/the-one-thing-nobody-copies-from-spotify/)
-
-### Industry
-- [Tech Policy Press - The Dangers of Moving Key Internet Governance Functions to Amazon’s Cloud: The Case of the Netherlands](https://www.techpolicy.press/the-dangers-of-moving-key-internet-governance-functions-to-amazons-cloud-the-case-of-the-netherlands/)
-
-### Security
-- [ZITADEL - Identity infrastructure, simplified for you](https://github.com/zitadel/zitadel)
-- [The Hacker News - Hackers Exploit Job Boards, Stealing Millions of Resumes and Personal Data](https://thehackernews.com/2024/02/hackers-exploit-job-boards-in-apac.html)
-- [ArsTechnica - Canada declares Flipper Zero public enemy No. 1 in car-theft crackdown](https://arstechnica.com/security/2024/02/canada-vows-to-ban-flipper-zero-device-in-crackdown-on-car-theft/)
-- [Information is beautiful - World's Biggest Data Breaches & Hacks](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)
-
-### Trivia
-- [Paul Graham - Life is Short](https://www.paulgraham.com/vb.html)

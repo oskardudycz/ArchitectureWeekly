@@ -59,6 +59,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [George Ball - Achieving High Throughput Without Sacrificing Latency](https://foojay.io/today/achieving-high-throughput-without-sacrificing-latency/)
+- [Luc van Donkersgoed - The single-tenancy to multi-tenancy spectrum](https://lucvandonkersgoed.com/2023/12/08/the-single-tenancy-to-multi-tenancy-spectrum/)
+- [Microsoft - Smart load balancing for OpenAI endpoints using containers](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/smart-load-balancing-for-openai-endpoints-using-containers/ba-p/4017550)
+- [Wim Debreuck - Event Driven Architecture & Governance in action](https://www.youtube.com/watch?v=XmsPvg_dYio)
+- [Martin Schimak - Tackling Complex Event Flows](https://www.youtube.com/watch?v=_pJGwvVRwpg)
+- [Eric Evans, Dave Farley - Applying DDD Beyond Object-Oriented Programming](https://www.youtube.com/watch?v=9HZ4iSHiiec)
+- [Nick Tune - Architecting for Independent Value Streams](https://www.youtube.com/watch?v=BrEE9MRLcL0)
+- [Tim Wellhausen, Andreas Fießer - How to write a pattern? A rough guide for first-time pattern authors](https://europlop.net/wp-content/uploads/2022/10/How-to-write-a-pattern.pdf)
+- [Neil B. Harrison - Advanced Pattern Writing. Patterns for Experienced Pattern Authors](https://europlop.net/wp-content/uploads/2022/10/AdvancedPatternWriting.pdf)
 - [Oskar Dudycz - Production-Grade Event Sourcing Workshop - Modelling, DevOps, Process](https://event-driven.io/en/production_grade_event_sourcing/)
 - [RevenueCat - Scaling smoothly: RevenueCat’s data-caching techniques for 1.2 billion daily API requests](https://www.revenuecat.com/blog/engineering/data-caching-revenuecat/)
 - [Lastminute.com - Evolution of a high-performance system: from synchronous to seamless scalability](https://technology.lastminute.com/evolution-of-a-high-performance-system-from-synchronous-to-seamless-scalability/)
@@ -1301,6 +1310,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Gregor Hohpe - Application architecture as code](https://www.youtube.com/watch?v=vasvpFRPx9c)
 - [Charity Majors - Perils, Pitfalls and Pratfalls of Platform Engineering](https://www.infoq.com/presentations/platform-engineering-teams)
 - [Bernard Pietraga - Practical solutions for dealing with high cardinality metrics](https://bpietraga.me/practical-solutions-for-dealing-with-high-cardinality-metrics/)
 - [Dreams of Code - Using docker in unusual ways](https://www.youtube.com/watch?v=zfNqp85g5JM)
@@ -1671,6 +1681,7 @@
 - [Gergely Orosz - 33 Engineering Challenges of Building Mobile Apps at Scale eBook & Other Learnings](https://gumroad.com/l/IuuuN)
 
 ## Performance
+- [MIT - Performance Engineering of Software Systems Course](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/download/)
 - [Daniel Lemire - For software performance, can you always trust inlining?](https://lemire.me/blog/2021/10/09/for-software-performance-can-you-always-trust-inlining/)
 - [PVS-Studio: C++ is faster and safer than Rust: benchmarked by Yandex](https://pvs-studio.com/en/blog/posts/0733/)
 - [Jeremy Wagner - Assessing loading performance in the field with Navigation Timing and Resource Timing](https://web.dev/navigation-and-resource-timing/)
@@ -1681,6 +1692,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [clumsy - Makes your network condition on Windows significantly worse, but in a controlled and interactive manner](https://github.com/jagt/clumsy)
 - [Microsoft - APIs testing using HTTP files and Rest Client](https://devblogs.microsoft.com/ise/api-testing-using-http-files)
 - [Hillel Wayne - I have complicated feelings about TDD](https://buttondown.email/hillelwayne/archive/i-have-complicated-feelings-about-tdd-8403)
 - [Scott Wlaschin - The lazy programmer's guide to writing thousands of tests](https://www.youtube.com/watch?v=IYzDFHx6QPY)
@@ -2248,6 +2260,8 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Paul Reardon - Azure free offerings](https://www.reardontech.uk/posts/azure-free-services/)
+- [Microsoft - A/B Testing Infrastructure Changes at Microsoft ExP](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/a-b-testing-infrastructure-changes-at-microsoft-exp/)
 - [Piotr Krukowski - Azure Cosmos DB RBAC and passwordless authentication](https://cloudchronicles.blog/blog/Azure-Cosmos-DB-RBAC-and-passwordless-authentication/)
 - [azcagit - GitOps Engine for Azure Container Apps](https://github.com/XenitAB/azcagit)
 - [Microsoft - Announcing Microsoft Playwright Testing: Scalable end-to-end testing for modern web apps](https://azure.microsoft.com/en-us/blog/announcing-microsoft-playwright-testing-scalable-end-to-end-testing-for-modern-web-apps/)
@@ -2329,6 +2343,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Tim Deschryver - Translating Exceptions into Problem Details Responses](https://timdeschryver.dev/blog/translating-exceptions-into-problem-details-responses)
+- [Fga.Net - OpenFGA & Auth0 FGA for ASP.NET Core + Worker Services](https://github.com/Hawxy/Fga.Net)
+- [Reqnroll - Open-source Cucumber-style BDD test automation framework for .NET](https://github.com/reqnroll/Reqnroll)
+- [Cronos - Fully-featured .NET library for working with Cron expressions. Built with time zones in mind and intuitively handles daylight saving time transitions](https://github.com/HangfireIO/Cronos)
 - [Kyle Kukshtel - So You Wanna Package Some Native Libs Into A NuGet Package](https://blog.kylekukshtel.com/nuget-native-dll-packing)
 - [Nicholas Blumhardt - SerilogTracing](https://nblumhardt.com/2024/01/serilog-tracing/)
 - [Charles Chen - .NET Task Parallel Library vs System.Threading.Channels](https://chrlschn.dev/blog/2023/10/dotnet-task-parallel-library-vs-system-threading-channels)
@@ -3364,6 +3382,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Cliff Hazell - The one thing nobody copies from Spotify](https://www.cliffhazell.com/blog/the-one-thing-nobody-copies-from-spotify/)
 - [Avraham Poupko - You can’t fight Conway’s law](https://www.youtube.com/watch?v=BDagiC8Sw48)
 - [Jamie McDonald - Roadmaps are tools](https://jdamcd.blog/posts/roadmaps/)
 - [Sam-Nicolai Johnston - Improving Delivery Rate by Subtasking](https://medium.com/ssense-tech/improving-delivery-rate-by-subtasking-09c40e69d700)
@@ -3548,6 +3567,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Devoxx Belgium - Ask the Java Architects By Sharat Chander, Alan Bateman, Stuart Marks, Viktor Klang, Brian Goetz](https://www.youtube.com/watch?v=DlTUMjg7DD0)
 - [Johannes Bechberger  - Hello eBPF: Developing eBPF Apps in Java (1)](https://foojay.io/today/hello-ebpf-developing-ebpf-apps-in-java-1/)
 - [JVM Weekly - Everything you might have missed in Java in 2023 – JVM Weekly vol. 66](https://vived.substack.com/p/everything-you-might-have-missed-a9c)
 - [Vlad Mihalcea - The best way to map multiple entities on the same table](https://vladmihalcea.com/multiple-entities-on-same-table/)
@@ -3767,6 +3787,8 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [Oskar Dudycz - Announcing Emmett! Take your event-driven applications back to the future!](https://event-driven.io/en/introducing_emmett/)
+- [Emmett - a Node.js library taking your event-driven applications back to the future!](https://github.com/event-driven-io/emmett)
 - [Yoni Goldberg - The Node.js best practices list](https://github.com/goldbergyoni/nodebestpractices)
 - [TypeBox - Json Schema Type Builder with Static Type Resolution for TypeScript](https://github.com/sinclairzx81/typebox)
 - [Nick Scialli - How to use HTTP2 with Express.js and test it locally](https://typeofnan.dev/how-to-use-http2-with-express/)
@@ -3833,6 +3855,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Mat Ryer - How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
 - [Miłosz Smółka - Making Games in Go for Absolute Beginners](https://threedots.tech/post/making-games-in-go/)
 - [The Go Blog - Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
 - [Ben E. C. Boyter - How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/)
@@ -3963,6 +3986,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Tech Policy Press - The Dangers of Moving Key Internet Governance Functions to Amazon’s Cloud: The Case of the Netherlands](https://www.techpolicy.press/the-dangers-of-moving-key-internet-governance-functions-to-amazons-cloud-the-case-of-the-netherlands/)
 - [ArsTechnica - Google will no longer back up the Internet: Cached webpages are dead](https://arstechnica.com/gadgets/2024/02/google-search-kills-off-cached-webpages)
 - [John Gruber - Coming to Grips With Apple’s Seemingly Unshakable Sense of Entitlement to Its Commissions From Third-Party iOS Apps](https://daringfireball.net/2024/01/coming_to_grips_with_apples_seemingly_unshakable_sense_of_app_store_entitlement)
 - [ArsTechnica - Google lays off 100 at YouTube; CEO says more layoffs are coming](https://arstechnica.com/google/2024/01/google-ceo-sundar-pichai-promises-another-year-of-google-layoffs)
@@ -4429,6 +4453,10 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [ZITADEL - Identity infrastructure, simplified for you](https://github.com/zitadel/zitadel)
+- [The Hacker News - Hackers Exploit Job Boards, Stealing Millions of Resumes and Personal Data](https://thehackernews.com/2024/02/hackers-exploit-job-boards-in-apac.html)
+- [ArsTechnica - Canada declares Flipper Zero public enemy No. 1 in car-theft crackdown](https://arstechnica.com/security/2024/02/canada-vows-to-ban-flipper-zero-device-in-crackdown-on-car-theft/)
+- [Information is beautiful - World's Biggest Data Breaches & Hacks](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)
 - [Cloudflare - Thanksgiving 2023 security incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident)
 - [Jason Koebler - Polish Hackers Say Manufacturer's Repair DRM Killed Train's Power, Broke Compressor](https://www.404media.co/polish-hackers-explain-exactly-how-they-fixed-trains-that-the-manufacturer-bricked/)
 - [The Verge - Microsoft is overhauling its software security after major Azure cloud attacks](https://www.theverge.com/2023/11/2/23943178/microsoft-security-secure-future-initiative-cybersecurity)
@@ -4630,6 +4658,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Paul Graham - Life is Short](https://www.paulgraham.com/vb.html)
 - [The Washington Post - No one had ever ‘beat’ Tetris. Then came a 13-year-old phenom.](https://www.washingtonpost.com/nation/2024/01/04/13-year-old-beats-tetris/)
 - [Dan Luu - How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
 - [TechDirt - Substack Turns On Its ‘Nazis Welcome!’ Sign](https://www.techdirt.com/2023/12/26/substack-turns-on-its-nazis-welcome-sign/)
