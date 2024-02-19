@@ -59,6 +59,13 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Implementing Closing the Books pattern](https://event-driven.io/en/closing_the_books_in_practice/?utm_source=architecture_weekly)
+- [Eric Evans, Dave Farley - How AI Will Change Software Development In The Next 10 Years](https://www.youtube.com/watch?v=r_WRUFx7RLY)
+- [vjeux - End-to-End Encryption in the Browser](https://blog.excalidraw.com/end-to-end-encryption/)
+- [Ivar Jacobson, Alistair Cockburn - Use-Case Foundation](https://alistaircockburn.com/Use%20Case%20Foundation.pdf)
+- [Michael Nygard - Consequences are not Pros or Cons](https://www.michaelnygard.com/blog/2020/06/consequences-are-not-pros-or-cons/)
+- [The Serverless Edge - SCORP – the well-architected tool for Architecture Reviews](https://theserverlessedge.com/making-well-architected-work-for-organisations-the-security-cost-opex-reliability-performance-scorp-process-cycle-part-2/)
+- [Gregor Hohpe - Debugging Architects](https://architectelevator.com/transformation/debugging-architect/)
 - [George Ball - Achieving High Throughput Without Sacrificing Latency](https://foojay.io/today/achieving-high-throughput-without-sacrificing-latency/)
 - [Luc van Donkersgoed - The single-tenancy to multi-tenancy spectrum](https://lucvandonkersgoed.com/2023/12/08/the-single-tenancy-to-multi-tenancy-spectrum/)
 - [Microsoft - Smart load balancing for OpenAI endpoints using containers](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/smart-load-balancing-for-openai-endpoints-using-containers/ba-p/4017550)
@@ -1310,6 +1317,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Bit - A build system for development of composable software](https://github.com/teambit/bit)
 - [Gregor Hohpe - Application architecture as code](https://www.youtube.com/watch?v=vasvpFRPx9c)
 - [Charity Majors - Perils, Pitfalls and Pratfalls of Platform Engineering](https://www.infoq.com/presentations/platform-engineering-teams)
 - [Bernard Pietraga - Practical solutions for dealing with high cardinality metrics](https://bpietraga.me/practical-solutions-for-dealing-with-high-cardinality-metrics/)
@@ -1819,6 +1827,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Developer Voices Podcast - Implementing Hardware-Friendly Databases (with DuckDB co-creator, Hannes Mühleisen)](https://www.youtube.com/watch?v=pZV9FvdKmLc)
 - [Greg Wilson - SQL for Data Scientists in 100 Queries](https://gvwilson.github.io/sql-tutorial/)
 - [Gwen Shapira - The Rise of the Serverless Data Architectures](https://www.infoq.com/presentations/serverless-data-architectures/)
 - [QuestDB - An open source time-series database for fast ingest and SQL queries ](https://github.com/questdb/questdb)
@@ -2060,6 +2069,7 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [The Verge - Nvidia’s Chat with RTX is a promising AI chatbot that runs locally on your PC](https://www.theverge.com/2024/2/13/24071645/nvidia-ai-chatbot-chat-with-rtx-tech-demo-hands-on)
 - [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
 - [Rachel Coldicutt - Is it possible for general purpose AI to do no harm?](https://buttondown.email/justenoughinternet/archive/is-it-possible-for-general-purpose-ai-to-do-no/)
 - [The Motte - ChatGPT does Advent of Code 2023](https://www.themotte.org/post/797/chatgpt-vs-advent-of-code)
@@ -2206,6 +2216,8 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Yan Cui - How would you reprocess Lambda dead-letter queue messages on demand?](https://theburningmonk.com/2024/01/how-would-you-reprocess-lambda-dead-letter-queue-messages-on-demand/)
+- [Steef-Jan Wiggers - AWS Launches CDK Migrate and CloudFormation IaC Generator for Infrastructure as Code Adoption](https://www.infoq.com/news/2024/02/aws-cdk-migrate-ga/)
 - [InfoQ - AWS to Shut down Aurora Serverless v1, Their Sole Relational Database with Scaling Capacity to Zero](https://www.infoq.com/news/2024/01/aurora-serverless-v1-retirement/)
 - [Yan Cui - This is why you should keep stateful and stateless resources together](https://theburningmonk.com/2023/01/this-is-why-you-should-keep-stateful-and-stateless-resources-together/)
 - [Werner Vogels - AWS re:Invent 2023 - Keynote](https://www.youtube.com/watch?v=UTRBVPvzt9w)
@@ -2260,6 +2272,9 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Mattias Karlsson - Introducing ARI. A DevOps tool to document a Azure tenant resources](https://www.devlead.se/posts/2024/2024-02-08-introducing-ari)
+- [Microsoft - Announcing general availability of Microsoft Graph APIs for Microsoft Teams meeting recordings](https://devblogs.microsoft.com/microsoft365dev/announcing-general-availability-of-microsoft-graph-apis-for-microsoft-teams-meeting-recordings/)
+- [Microsoft - End of SSH-RSA support for Azure Repos](https://devblogs.microsoft.com/devops/ssh-rsa-deprecation/)
 - [Paul Reardon - Azure free offerings](https://www.reardontech.uk/posts/azure-free-services/)
 - [Microsoft - A/B Testing Infrastructure Changes at Microsoft ExP](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/a-b-testing-infrastructure-changes-at-microsoft-exp/)
 - [Piotr Krukowski - Azure Cosmos DB RBAC and passwordless authentication](https://cloudchronicles.blog/blog/Azure-Cosmos-DB-RBAC-and-passwordless-authentication/)
@@ -2343,6 +2358,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Microsoft - Introducing ASP.NET Core metrics and Grafana dashboards in .NET 8](https://devblogs.microsoft.com/dotnet/introducing-aspnetcore-metrics-and-grafana-dashboards-in-dotnet-8/)
+- [Nick Chapsas - Build Clean Messaging in .NET with Wolverine](https://www.youtube.com/watch?v=p1gsK69m94Y)
+- [Jeremy D. Miller - Answering Some Concerns about Wolverine](https://jeremydmiller.com/2024/02/15/answering-some-concerns-about-wolverine/)
+- [Andrew Lock - 8 ways to set the URLs for an ASP.NET Core app](https://andrewlock.net/8-ways-to-set-the-urls-for-an-aspnetcore-app/)
+- [CSharpier - An opinionated code formatter for c#](https://github.com/belav/csharpier)
 - [Tim Deschryver - Translating Exceptions into Problem Details Responses](https://timdeschryver.dev/blog/translating-exceptions-into-problem-details-responses)
 - [Fga.Net - OpenFGA & Auth0 FGA for ASP.NET Core + Worker Services](https://github.com/Hawxy/Fga.Net)
 - [Reqnroll - Open-source Cucumber-style BDD test automation framework for .NET](https://github.com/reqnroll/Reqnroll)
@@ -3114,6 +3134,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Gergely Orosz - Is Critical Thinking the Most Important Skill for Software Engineers?](https://blog.pragmaticengineer.com/critical-thinking/)
 - [Ketan Bhatt - Don’t be the Alpha Geek: Your team deserves better](https://ketanbhatt.com/alpha-geek/)
 - [Steph Ango - Don't specialize, hybridize](https://stephango.com/hybridize#:~:text=Becoming%20a%20generalist%20is%20one,one%20else%20would%20think%20of)
 - [Salem Group - Unlocking the Secrets of T-Shaped and V-Shaped Employees: How to Position Yourself for Career Success](https://www.linkedin.com/pulse/unlocking-secrets-t-shaped-v-shaped-employees-how-position/)
@@ -3383,6 +3404,10 @@
 
 ## Management
 - [Cliff Hazell - The one thing nobody copies from Spotify](https://www.cliffhazell.com/blog/the-one-thing-nobody-copies-from-spotify/)
+- [Matthew Roche - Being a PM at Microsoft: Thriving in ambiguity](https://ssbipolar.com/2024/01/29/being-a-pm-at-microsoft-thriving-in-ambiguity/)
+- [Forbes - CEOs Are Using Return To Office Mandates To Mask Poor Management](https://www.forbes.com/sites/qhamirani/2024/01/26/ceos-are-using-return-to-office-mandates-to-mask-poor-management)
+- [The Register - Dell said to be preparing broad Return To Office order this Monday](https://www.theregister.com/2024/02/03/dell_return_to_work/)
+- [Cliff Hazell - The one thing nobody copies from Spotify](https://www.cliffhazell.com/blog/the-one-thing-nobody-copies-from-spotify/)
 - [Avraham Poupko - You can’t fight Conway’s law](https://www.youtube.com/watch?v=BDagiC8Sw48)
 - [Jamie McDonald - Roadmaps are tools](https://jdamcd.blog/posts/roadmaps/)
 - [Sam-Nicolai Johnston - Improving Delivery Rate by Subtasking](https://medium.com/ssense-tech/improving-delivery-rate-by-subtasking-09c40e69d700)
@@ -3567,6 +3592,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Nicolai Parlog - Data Oriented Programming in Java 21](https://www.youtube.com/watch?v=8FRU_aGY4mY)
+- [Paul Sandoz - Emulating C# LINQ in Java using Code Reflection](https://openjdk.org/projects/babylon/articles/linq)
 - [Devoxx Belgium - Ask the Java Architects By Sharat Chander, Alan Bateman, Stuart Marks, Viktor Klang, Brian Goetz](https://www.youtube.com/watch?v=DlTUMjg7DD0)
 - [Johannes Bechberger  - Hello eBPF: Developing eBPF Apps in Java (1)](https://foojay.io/today/hello-ebpf-developing-ebpf-apps-in-java-1/)
 - [JVM Weekly - Everything you might have missed in Java in 2023 – JVM Weekly vol. 66](https://vived.substack.com/p/everything-you-might-have-missed-a9c)
@@ -3787,6 +3814,8 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [Node.js - Native test runner](https://nodejs.org/api/test.html)
+- [Sarah Gooding - Node.js Community Debate Intensifies Over Enabling Corepack by Default and Potentially Unbundling npm](https://socket.dev/blog/node-community-debates-enabling-corepack-unbundling-npm)
 - [Oskar Dudycz - Announcing Emmett! Take your event-driven applications back to the future!](https://event-driven.io/en/introducing_emmett/)
 - [Emmett - a Node.js library taking your event-driven applications back to the future!](https://github.com/event-driven-io/emmett)
 - [Yoni Goldberg - The Node.js best practices list](https://github.com/goldbergyoni/nodebestpractices)
@@ -3986,6 +4015,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Matthew Ball - On Spatial Computing, Metaverse, the Terms Left Behind and Ideas Renewed](https://www.matthewball.vc/all/metaversespatialandmore)
 - [Tech Policy Press - The Dangers of Moving Key Internet Governance Functions to Amazon’s Cloud: The Case of the Netherlands](https://www.techpolicy.press/the-dangers-of-moving-key-internet-governance-functions-to-amazons-cloud-the-case-of-the-netherlands/)
 - [ArsTechnica - Google will no longer back up the Internet: Cached webpages are dead](https://arstechnica.com/gadgets/2024/02/google-search-kills-off-cached-webpages)
 - [John Gruber - Coming to Grips With Apple’s Seemingly Unshakable Sense of Entitlement to Its Commissions From Third-Party iOS Apps](https://daringfireball.net/2024/01/coming_to_grips_with_apples_seemingly_unshakable_sense_of_app_store_entitlement)
@@ -4346,6 +4376,7 @@
 - [Asahi Linux - A project and community with the goal of porting Linux to Apple Silicon Macs](https://asahilinux.org/about/)
 
 ## Windows
+- [Microsoft - Introducing Sudo for Windows!](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows)
 - [Microsoft - Power Toys - Windows system utilities to maximize productivity](https://github.com/microsoft/PowerToys)
 - [Azure Academy - Windows 11 Tabs](https://www.youtube.com/watch?av=p3CYEJCunlE)
 - [Valentin-Gabriel Radu - ExplorerPatcher - This project aims to bring back a productive working environment on Windows 11](https://github.com/valinet/ExplorerPatcher)
@@ -4453,6 +4484,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Virgil Security - Essential security platform for your product](https://virgilsecurity.com/)
+- [Mateusz Jendza - Time for Passwordless](https://mjendza.net/post/passwordless/)
 - [ZITADEL - Identity infrastructure, simplified for you](https://github.com/zitadel/zitadel)
 - [The Hacker News - Hackers Exploit Job Boards, Stealing Millions of Resumes and Personal Data](https://thehackernews.com/2024/02/hackers-exploit-job-boards-in-apac.html)
 - [ArsTechnica - Canada declares Flipper Zero public enemy No. 1 in car-theft crackdown](https://arstechnica.com/security/2024/02/canada-vows-to-ban-flipper-zero-device-in-crackdown-on-car-theft/)
@@ -4658,6 +4691,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Jason Grigsby - Handling Death Gracefully in Digital Experiences](https://cloudfour.com/thinks/handling-death-gracefully-in-digital-experiences/)
 - [Paul Graham - Life is Short](https://www.paulgraham.com/vb.html)
 - [The Washington Post - No one had ever ‘beat’ Tetris. Then came a 13-year-old phenom.](https://www.washingtonpost.com/nation/2024/01/04/13-year-old-beats-tetris/)
 - [Dan Luu - How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)

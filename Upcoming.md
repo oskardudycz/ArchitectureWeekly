@@ -12,6 +12,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Oskar Dudycz - Implementing Closing the Books pattern](https://event-driven.io/en/closing_the_books_in_practice/?utm_source=architecture_weekly)
 - [Eric Evans, Dave Farley - How AI Will Change Software Development In The Next 10 Years](https://www.youtube.com/watch?v=r_WRUFx7RLY)
 - [vjeux - End-to-End Encryption in the Browser](https://blog.excalidraw.com/end-to-end-encryption/)
+- [Ivar Jacobson, Alistair Cockburn - Use-Case Foundation](https://alistaircockburn.com/Use%20Case%20Foundation.pdf)
 - [Michael Nygard - Consequences are not Pros or Cons](https://www.michaelnygard.com/blog/2020/06/consequences-are-not-pros-or-cons/)
 - [The Serverless Edge - SCORP – the well-architected tool for Architecture Reviews](https://theserverlessedge.com/making-well-architected-work-for-organisations-the-security-cost-opex-reliability-performance-scorp-process-cycle-part-2/)
 - [Gregor Hohpe - Debugging Architects](https://architectelevator.com/transformation/debugging-architect/)
