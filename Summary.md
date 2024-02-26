@@ -59,6 +59,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Should you always keep streams short in Event Sourcing?](https://event-driven.io/en/should_you_always_keep_streams_short/?utm_source=architecture_weekly)
+- [Jack Lindamood - (Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
+- [DoorDash - Meeting DoorDash Growth with a Self-Service Logistics Configuration Platform](https://doordash.engineering/2024/01/23/meeting-doordash-growth-with-a-self-service-logistics-configuration-platform/)
+- [Zitadel - Why We Moved From CockroachDB to PostgreSQL](https://zitadel.com/blog/move-to-postgresql)
+- [Randy Shoup - Minimum Viable Architecture](https://www.youtube.com/watch?v=9Q7GANXn02k)
+- [Zhamak Dehghani - How to break a Monolith into Microservices](https://martinfowler.com/articles/break-monolith-into-microservices.html)
+- [Danica Fine - Brick-by-Brick: Exploring the Elements of Apache Kafka](https://www.youtube.com/watch?v=7OhFriS0iXY)
+- [Barry M O'Reilly - Residuality and Representation: Toward a Coherent Philosophy of Software Architecture.](https://www.sciencedirect.com/science/article/pii/S1877050923010621)
 - [Oskar Dudycz - Implementing Closing the Books pattern](https://event-driven.io/en/closing_the_books_in_practice/?utm_source=architecture_weekly)
 - [Eric Evans, Dave Farley - How AI Will Change Software Development In The Next 10 Years](https://www.youtube.com/watch?v=r_WRUFx7RLY)
 - [vjeux - End-to-End Encryption in the Browser](https://blog.excalidraw.com/end-to-end-encryption/)
@@ -1317,6 +1325,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [git-secrets - Prevents you from committing secrets and credentials into git repositories](https://github.com/awslabs/git-secrets)
+- [checkov - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
+- [Gitpod - Develop directly on a Kubernetes cluster using a CDE (Gitpod) and Telepresence](https://www.gitpod.io/guides/using-telepresence-in-gitpod)
 - [Bit - A build system for development of composable software](https://github.com/teambit/bit)
 - [Gregor Hohpe - Application architecture as code](https://www.youtube.com/watch?v=vasvpFRPx9c)
 - [Charity Majors - Perils, Pitfalls and Pratfalls of Platform Engineering](https://www.infoq.com/presentations/platform-engineering-teams)
@@ -1827,6 +1838,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Vlad Mihalcea - PostgreSQL Performance Tuning Settings](https://vladmihalcea.com/postgresql-performance-tuning-settings/)
 - [Developer Voices Podcast - Implementing Hardware-Friendly Databases (with DuckDB co-creator, Hannes Mühleisen)](https://www.youtube.com/watch?v=pZV9FvdKmLc)
 - [Greg Wilson - SQL for Data Scientists in 100 Queries](https://gvwilson.github.io/sql-tutorial/)
 - [Gwen Shapira - The Rise of the Serverless Data Architectures](https://www.infoq.com/presentations/serverless-data-architectures/)
@@ -2069,6 +2081,8 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [Open AI - Sora, Creating video from text](https://openai.com/sora)
+- [Modular - Mojo vs. Rust: is Mojo 🔥 faster than Rust 🦀 ?](https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust)
 - [The Verge - Nvidia’s Chat with RTX is a promising AI chatbot that runs locally on your PC](https://www.theverge.com/2024/2/13/24071645/nvidia-ai-chatbot-chat-with-rtx-tech-demo-hands-on)
 - [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
 - [Rachel Coldicutt - Is it possible for general purpose AI to do no harm?](https://buttondown.email/justenoughinternet/archive/is-it-possible-for-general-purpose-ai-to-do-no/)
@@ -2272,6 +2286,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Xavier Mignot - Terraform vs Bicep: the differences you should really know](https://blog.xmi.fr/posts/terraform-vs-bicep/)
 - [Mattias Karlsson - Introducing ARI. A DevOps tool to document a Azure tenant resources](https://www.devlead.se/posts/2024/2024-02-08-introducing-ari)
 - [Microsoft - Announcing general availability of Microsoft Graph APIs for Microsoft Teams meeting recordings](https://devblogs.microsoft.com/microsoft365dev/announcing-general-availability-of-microsoft-graph-apis-for-microsoft-teams-meeting-recordings/)
 - [Microsoft - End of SSH-RSA support for Azure Repos](https://devblogs.microsoft.com/devops/ssh-rsa-deprecation/)
@@ -2358,6 +2373,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jeremy D. Miller - Dynamic Tenant Databases in Marten](https://jeremydmiller.com/2024/02/21/dynamic-tenant-databases-in-marten/)
+- [Tomasz Pęczek - Azure Functions Extensibility - Runtime Scaling](https://www.tpeczek.com/2024/02/azure-functions-extensibility-runtime.html)
+- [Avalonia - Farewell to the .NET Foundation](https://github.com/AvaloniaUI/Avalonia/discussions/14666)
+- [Andrew Lock - Using named pipes with ASP.NET Core and HttpClient](https://andrewlock.net/using-named-pipes-with-aspnetcore-and-httpclient/)
 - [Microsoft - Introducing ASP.NET Core metrics and Grafana dashboards in .NET 8](https://devblogs.microsoft.com/dotnet/introducing-aspnetcore-metrics-and-grafana-dashboards-in-dotnet-8/)
 - [Nick Chapsas - Build Clean Messaging in .NET with Wolverine](https://www.youtube.com/watch?v=p1gsK69m94Y)
 - [Jeremy D. Miller - Answering Some Concerns about Wolverine](https://jeremydmiller.com/2024/02/15/answering-some-concerns-about-wolverine/)
@@ -3403,6 +3422,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Chris Matts, Olav Maassen - "Real Options" Underlie Agile Practices](https://www.infoq.com/articles/real-options-enhance-agility/)
+- [drmorr - OKRs are Bullshit](https://blog.appliedcomputing.io/p/okrs-are-bullshit)
 - [Matthew Roche - Being a PM at Microsoft: Thriving in ambiguity](https://ssbipolar.com/2024/01/29/being-a-pm-at-microsoft-thriving-in-ambiguity/)
 - [Forbes - CEOs Are Using Return To Office Mandates To Mask Poor Management](https://www.forbes.com/sites/qhamirani/2024/01/26/ceos-are-using-return-to-office-mandates-to-mask-poor-management)
 - [The Register - Dell said to be preparing broad Return To Office order this Monday](https://www.theregister.com/2024/02/03/dell_return_to_work/)
@@ -3554,6 +3575,8 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [Elizabeth Ayer - Enshittification as Overproduction in Software, Part 1: Seeing Overproduction](https://medium.com/@ElizAyer/enshittification-as-overproduction-in-software-part-1-seeing-overproduction-7f175bca7724)
+- [Elizabeth Ayer - Enshittification as Overproduction in Software, Part 2: Overproduction in the product lifecycle](https://medium.com/@ElizAyer/enshittification-as-overproduction-in-software-part-2-overproduction-in-the-product-lifecycle-99584e8da458)
 - [Oskar Dudycz - When Agile is not enough](https://event-driven.io/en/when_agile_is_not_enough/?utm_source=architecture_weekly)
 - [Henrik Kniberg - Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
 - [Rik Higham - The MVP is dead. Long live the RAT.](https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02)
@@ -3774,6 +3797,9 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Alexey Berezin - With or without enums in TypeScript](https://blog.beraliv.dev/2022-09-10-with-or-without-enums)
+- [TypeScript Worksheet - Get the results of your TS or JS code right in your vscode](https://marketplace.visualstudio.com/items?itemName=chwoerz.ts-worksheet)
+- [Twoslash - Markup for generating rich type information in your documentations ahead of time](https://github.com/twoslashes/twoslash)
 - [Christian Woerz - A Deep Dive into Advanced TypeScript: A Live Coding Expedition](https://www.youtube.com/watch?v=4SPkpIap4Ls)
 - [Wojciech Baczyński - Branding & Flavoring](https://brightinventions.pl/blog/branding-flavoring/)
 - [TSDocs.dev - Browse type documentation for JS libraries](https://github.com/pastelsky/tsdocs)
@@ -3813,6 +3839,8 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [Emmett - WebApi support](https://event-driven-io.github.io/emmett/getting-started.html#application-setup)
+- [LLRT - (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications](https://github.com/awslabs/llrt)
 - [Node.js - Native test runner](https://nodejs.org/api/test.html)
 - [Sarah Gooding - Node.js Community Debate Intensifies Over Enabling Corepack by Default and Potentially Unbundling npm](https://socket.dev/blog/node-community-debates-enabling-corepack-unbundling-npm)
 - [Oskar Dudycz - Announcing Emmett! Take your event-driven applications back to the future!](https://event-driven.io/en/introducing_emmett/)
@@ -4389,6 +4417,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Draw.io - Interactive diagrams with custom links and actions](https://drawio-app.com/blog/interactive-diagrams-with-custom-links-and-actions/)
 - [Jacqui Read - How to get started with Obsidian Dataview and DataviewJS](https://medium.com/os-techblog/how-to-get-started-with-obsidian-dataview-and-dataviewjs-5d6b5733d4a4)
 - [Everything curl - an extensive guide for all things curl.](https://everything.curl.dev/)
 - [Cloudglare Website Analytics - Privacy-first, lightweight, accurate web analytics—for free](https://www.cloudflare.com/web-analytics/)
@@ -4483,6 +4512,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Microsoft Threat Intelligence - Staying ahead of threat actors in the age of AI](https://www.microsoft.com/en-us/security/blog/2024/02/14/staying-ahead-of-threat-actors-in-the-age-of-ai/)
 - [Virgil Security - Essential security platform for your product](https://virgilsecurity.com/)
 - [Mateusz Jendza - Time for Passwordless](https://mjendza.net/post/passwordless/)
 - [ZITADEL - Identity infrastructure, simplified for you](https://github.com/zitadel/zitadel)
