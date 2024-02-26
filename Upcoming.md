@@ -1,6 +1,6 @@
 # Upcoming Links
 
-## 19th February 2024
+## 26th February 2024
 
 **[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
@@ -9,65 +9,55 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ### Architecture
-- [Oskar Dudycz - Implementing Closing the Books pattern](https://event-driven.io/en/closing_the_books_in_practice/?utm_source=architecture_weekly)
-- [Eric Evans, Dave Farley - How AI Will Change Software Development In The Next 10 Years](https://www.youtube.com/watch?v=r_WRUFx7RLY)
-- [vjeux - End-to-End Encryption in the Browser](https://blog.excalidraw.com/end-to-end-encryption/)
-- [Ivar Jacobson, Alistair Cockburn - Use-Case Foundation](https://alistaircockburn.com/Use%20Case%20Foundation.pdf)
-- [Michael Nygard - Consequences are not Pros or Cons](https://www.michaelnygard.com/blog/2020/06/consequences-are-not-pros-or-cons/)
-- [The Serverless Edge - SCORP – the well-architected tool for Architecture Reviews](https://theserverlessedge.com/making-well-architected-work-for-organisations-the-security-cost-opex-reliability-performance-scorp-process-cycle-part-2/)
-- [Gregor Hohpe - Debugging Architects](https://architectelevator.com/transformation/debugging-architect/)
+- [Oskar Dudycz - Should you always keep streams short in Event Sourcing?](https://event-driven.io/en/should_you_always_keep_streams_short/?utm_source=architecture_weekly)
+- [Jack Lindamood - (Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
+- [DoorDash - Meeting DoorDash Growth with a Self-Service Logistics Configuration Platform](https://doordash.engineering/2024/01/23/meeting-doordash-growth-with-a-self-service-logistics-configuration-platform/)
+- [Zitadel - Why We Moved From CockroachDB to PostgreSQL](https://zitadel.com/blog/move-to-postgresql)
+- [Randy Shoup - Minimum Viable Architecture](https://www.youtube.com/watch?v=9Q7GANXn02k)
+- [Zhamak Dehghani - How to break a Monolith into Microservices](https://martinfowler.com/articles/break-monolith-into-microservices.html)
+- [Danica Fine - Brick-by-Brick: Exploring the Elements of Apache Kafka](https://www.youtube.com/watch?v=7OhFriS0iXY)
+- [Barry M O'Reilly - Residuality and Representation: Toward a Coherent Philosophy of Software Architecture.](https://www.sciencedirect.com/science/article/pii/S1877050923010621)
 
 ### DevOps
-- [Bit - A build system for development of composable software](https://github.com/teambit/bit)
+- [git-secrets - Prevents you from committing secrets and credentials into git repositories](https://github.com/awslabs/git-secrets)
+- [checkov - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
+- [Gitpod - Develop directly on a Kubernetes cluster using a CDE (Gitpod) and Telepresence](https://www.gitpod.io/guides/using-telepresence-in-gitpod)
 
 ### Databases
-- [Developer Voices Podcast - Implementing Hardware-Friendly Databases (with DuckDB co-creator, Hannes Mühleisen)](https://www.youtube.com/watch?v=pZV9FvdKmLc)
+- [Vlad Mihalcea - PostgreSQL Performance Tuning Settings](https://vladmihalcea.com/postgresql-performance-tuning-settings/)
 
 ### AI
-- [The Verge - Nvidia’s Chat with RTX is a promising AI chatbot that runs locally on your PC](https://www.theverge.com/2024/2/13/24071645/nvidia-ai-chatbot-chat-with-rtx-tech-demo-hands-on)
-
-### AWS
-- [Yan Cui - How would you reprocess Lambda dead-letter queue messages on demand?](https://theburningmonk.com/2024/01/how-would-you-reprocess-lambda-dead-letter-queue-messages-on-demand/)
-- [Steef-Jan Wiggers - AWS Launches CDK Migrate and CloudFormation IaC Generator for Infrastructure as Code Adoption](https://www.infoq.com/news/2024/02/aws-cdk-migrate-ga/)
+- [Open AI - Sora, Creating video from text](https://openai.com/sora)
+- [Modular - Mojo vs. Rust: is Mojo 🔥 faster than Rust 🦀 ?](https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust)
 
 ### Azure
-- [Mattias Karlsson - Introducing ARI. A DevOps tool to document a Azure tenant resources](https://www.devlead.se/posts/2024/2024-02-08-introducing-ari)
-- [Microsoft - Announcing general availability of Microsoft Graph APIs for Microsoft Teams meeting recordings](https://devblogs.microsoft.com/microsoft365dev/announcing-general-availability-of-microsoft-graph-apis-for-microsoft-teams-meeting-recordings/)
-- [Microsoft - End of SSH-RSA support for Azure Repos](https://devblogs.microsoft.com/devops/ssh-rsa-deprecation/)
-
-### Java
-- [Nicolai Parlog - Data Oriented Programming in Java 21](https://www.youtube.com/watch?v=8FRU_aGY4mY)
-- [Paul Sandoz - Emulating C# LINQ in Java using Code Reflection](https://openjdk.org/projects/babylon/articles/linq)
-
-### .NET
-- [Microsoft - Introducing ASP.NET Core metrics and Grafana dashboards in .NET 8](https://devblogs.microsoft.com/dotnet/introducing-aspnetcore-metrics-and-grafana-dashboards-in-dotnet-8/)
-- [Nick Chapsas - Build Clean Messaging in .NET with Wolverine](https://www.youtube.com/watch?v=p1gsK69m94Y)
-- [Jeremy D. Miller - Answering Some Concerns about Wolverine](https://jeremydmiller.com/2024/02/15/answering-some-concerns-about-wolverine/)
-- [Andrew Lock - 8 ways to set the URLs for an ASP.NET Core app](https://andrewlock.net/8-ways-to-set-the-urls-for-an-aspnetcore-app/)
-- [CSharpier - An opinionated code formatter for c#](https://github.com/belav/csharpier)
+- [Xavier Mignot - Terraform vs Bicep: the differences you should really know](https://blog.xmi.fr/posts/terraform-vs-bicep/)
 
 ### Node.js
-- [Node.js - Native test runner](https://nodejs.org/api/test.html)
-- [Sarah Gooding - Node.js Community Debate Intensifies Over Enabling Corepack by Default and Potentially Unbundling npm](https://socket.dev/blog/node-community-debates-enabling-corepack-unbundling-npm)
+- [Emmett - WebApi support](https://event-driven-io.github.io/emmett/getting-started.html#application-setup)
+- [LLRT - (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications](https://github.com/awslabs/llrt)
 
-### Windows
-- [Microsoft - Introducing Sudo for Windows!](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows)
+### .NET
+- [Jeremy D. Miller - Dynamic Tenant Databases in Marten](https://jeremydmiller.com/2024/02/21/dynamic-tenant-databases-in-marten/)
+- [Tomasz Pęczek - Azure Functions Extensibility - Runtime Scaling](https://www.tpeczek.com/2024/02/azure-functions-extensibility-runtime.html)
+- [Avalonia - Farewell to the .NET Foundation](https://github.com/AvaloniaUI/Avalonia/discussions/14666)
+- [Andrew Lock - Using named pipes with ASP.NET Core and HttpClient](https://andrewlock.net/using-named-pipes-with-aspnetcore-and-httpclient/)
 
-### Coding Life
-- [Gergely Orosz - Is Critical Thinking the Most Important Skill for Software Engineers?](https://blog.pragmaticengineer.com/critical-thinking/)
+### TypeScript
+- [Alexey Berezin - With or without enums in TypeScript](https://blog.beraliv.dev/2022-09-10-with-or-without-enums)
+- [TypeScript Worksheet - Get the results of your TS or JS code right in your vscode](https://marketplace.visualstudio.com/items?itemName=chwoerz.ts-worksheet)
+- [Twoslash - Markup for generating rich type information in your documentations ahead of time](https://github.com/twoslashes/twoslash)
+
+### Tools
+- [Draw.io - Interactive diagrams with custom links and actions](https://drawio-app.com/blog/interactive-diagrams-with-custom-links-and-actions/)
+
+### Product Design
+- [Elizabeth Ayer - Enshittification as Overproduction in Software, Part 1: Seeing Overproduction](https://medium.com/@ElizAyer/enshittification-as-overproduction-in-software-part-1-seeing-overproduction-7f175bca7724)
+- [Elizabeth Ayer - Enshittification as Overproduction in Software, Part 2: Overproduction in the product lifecycle](https://medium.com/@ElizAyer/enshittification-as-overproduction-in-software-part-2-overproduction-in-the-product-lifecycle-99584e8da458)
 
 ### Management
-- [Cliff Hazell - The one thing nobody copies from Spotify](https://www.cliffhazell.com/blog/the-one-thing-nobody-copies-from-spotify/)
-- [Matthew Roche - Being a PM at Microsoft: Thriving in ambiguity](https://ssbipolar.com/2024/01/29/being-a-pm-at-microsoft-thriving-in-ambiguity/)
-- [Forbes - CEOs Are Using Return To Office Mandates To Mask Poor Management](https://www.forbes.com/sites/qhamirani/2024/01/26/ceos-are-using-return-to-office-mandates-to-mask-poor-management)
-- [The Register - Dell said to be preparing broad Return To Office order this Monday](https://www.theregister.com/2024/02/03/dell_return_to_work/)
-
-### Industry
-- [Matthew Ball - On Spatial Computing, Metaverse, the Terms Left Behind and Ideas Renewed](https://www.matthewball.vc/all/metaversespatialandmore)
+- [Chris Matts, Olav Maassen - "Real Options" Underlie Agile Practices](https://www.infoq.com/articles/real-options-enhance-agility/)
+- [drmorr - OKRs are Bullshit](https://blog.appliedcomputing.io/p/okrs-are-bullshit)
 
 ### Security
-- [Virgil Security - Essential security platform for your product](https://virgilsecurity.com/)
-- [Mateusz Jendza - Time for Passwordless](https://mjendza.net/post/passwordless/)
-
-### Trivia
-- [Jason Grigsby - Handling Death Gracefully in Digital Experiences](https://cloudfour.com/thinks/handling-death-gracefully-in-digital-experiences/)
+- [Microsoft Threat Intelligence - Staying ahead of threat actors in the age of AI](https://www.microsoft.com/en-us/security/blog/2024/02/14/staying-ahead-of-threat-actors-in-the-age-of-ai/)

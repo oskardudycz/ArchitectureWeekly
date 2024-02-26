@@ -3403,7 +3403,6 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
-- [Cliff Hazell - The one thing nobody copies from Spotify](https://www.cliffhazell.com/blog/the-one-thing-nobody-copies-from-spotify/)
 - [Matthew Roche - Being a PM at Microsoft: Thriving in ambiguity](https://ssbipolar.com/2024/01/29/being-a-pm-at-microsoft-thriving-in-ambiguity/)
 - [Forbes - CEOs Are Using Return To Office Mandates To Mask Poor Management](https://www.forbes.com/sites/qhamirani/2024/01/26/ceos-are-using-return-to-office-mandates-to-mask-poor-management)
 - [The Register - Dell said to be preparing broad Return To Office order this Monday](https://www.theregister.com/2024/02/03/dell_return_to_work/)

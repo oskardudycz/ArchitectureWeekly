@@ -83,7 +83,6 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Gergely Orosz - Is Critical Thinking the Most Important Skill for Software Engineers?](https://blog.pragmaticengineer.com/critical-thinking/)
 
 ### Management
-- [Cliff Hazell - The one thing nobody copies from Spotify](https://www.cliffhazell.com/blog/the-one-thing-nobody-copies-from-spotify/)
 - [Matthew Roche - Being a PM at Microsoft: Thriving in ambiguity](https://ssbipolar.com/2024/01/29/being-a-pm-at-microsoft-thriving-in-ambiguity/)
 - [Forbes - CEOs Are Using Return To Office Mandates To Mask Poor Management](https://www.forbes.com/sites/qhamirani/2024/01/26/ceos-are-using-return-to-office-mandates-to-mask-poor-management)
 - [The Register - Dell said to be preparing broad Return To Office order this Monday](https://www.theregister.com/2024/02/03/dell_return_to_work/)
@@ -124,6 +123,9 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ### Testing
 - [clumsy - Makes your network condition on Windows significantly worse, but in a controlled and interactive manner](https://github.com/jagt/clumsy)
+
+### Frontend
+- [Robin Wieruch - React Trends in 2024](https://www.robinwieruch.de/react-trends/)
 
 ### Azure
 - [Paul Reardon - Azure free offerings](https://www.reardontech.uk/posts/azure-free-services/)
