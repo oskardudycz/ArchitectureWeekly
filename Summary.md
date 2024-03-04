@@ -59,6 +59,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Uber - Cinnamon: Using Century Old Tech to Build a Mean Load Shedder](https://www.uber.com/en-GB/blog/cinnamon-using-century-old-tech-to-build-a-mean-load-shedder/)
+- [Doordash Engineering - Staying in the Zone: How DoorDash used a service mesh to manage  data transfer, reducing hops and cloud spend](https://doordash.engineering/2024/01/16/staying-in-the-zone-how-doordash-used-a-service-mesh-to-manage-data-transfer-reducing-hops-and-cloud-spend/)
+- [Pinterest - Running Unified PubSub Client in Production at Pinterest](https://medium.com/pinterest-engineering/running-unified-pubsub-client-in-production-at-pinterest-64ae2e721daa)
+- [Jacqui Read - Decision Archeology: Using ADRs with Existing Products](https://jacquiread.com/posts/2024-02-26-historical-adrs)
+- [Mario Carrion - Using the C4 model to document Software Architectures](https://mariocarrion.com/2020/12/30/documenting-software-architecture-c4-model.html)
+- [Ryan Shriver - DDD: Design Bounded Contexts Miro Template](https://miro.com/miroverse/ddd-design-bounded-contexts-template/)
+- [David Boyne - Beyond producers and consumers: Avoiding common issues with event-driven architectures](https://www.youtube.com/watch?v=8jGJbtb88YA)
+- [Nathaniel Schutta - Analyzing and Critiquing Architectures](https://www.youtube.com/watch?v=cJegDIDgqzI)
+- [Michał Grabowski - Do not copy successful architectures](https://softwaremill.com/do-not-copy-successful-architectures/)
 - [Oskar Dudycz - Should you always keep streams short in Event Sourcing?](https://event-driven.io/en/should_you_always_keep_streams_short/?utm_source=architecture_weekly)
 - [Jack Lindamood - (Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 - [DoorDash - Meeting DoorDash Growth with a Self-Service Logistics Configuration Platform](https://doordash.engineering/2024/01/23/meeting-doordash-growth-with-a-self-service-logistics-configuration-platform/)
@@ -1564,6 +1573,9 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Nikita Prokopov - JavaScript Bloat in 2024](https://tonsky.me/blog/js-bloat/)
+- [Adam Fortuna - How we Increased Search Traffic by 20x in 4 Months with the Next.js App Router](https://hardcover.app/blog/next-js-app-router-seo)
+- [Rainer Hahnekamp - Local Change Detection in Angular](https://medium.com/ngconf/local-change-detection-in-angular-410d82b38664)
 - [Tomasz Ducin - Signals are VALUES, not EVENTS](https://dev.to/ducin/signals-are-values-not-events-10bn)
 - [The AHA Stack - Combine Astro, htmx and Alpine.js to create modern web applications sending HTML over the wire, replacing the SPA JS-heavy approach with a much simpler set of mental models and workflows.](https://ahastack.dev)
 - [Netlify - Unveiling the state of web development and predictions for 2024 and beyond](https://www.netlify.com/blog/unveiling-the-state-of-web-development-and-predictions-for-2024-and-beyond/)
@@ -1711,6 +1723,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Meta - Automated Unit Test Improvement using Large Language Models as Meta](https://arxiv.org/pdf/2402.09171.pdf)
 - [clumsy - Makes your network condition on Windows significantly worse, but in a controlled and interactive manner](https://github.com/jagt/clumsy)
 - [Microsoft - APIs testing using HTTP files and Rest Client](https://devblogs.microsoft.com/ise/api-testing-using-http-files)
 - [Hillel Wayne - I have complicated feelings about TDD](https://buttondown.email/hillelwayne/archive/i-have-complicated-feelings-about-tdd-8403)
@@ -1838,6 +1851,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Stripe - Ledger: Stripe’s system for tracking and validating money movement](https://stripe.com/blog/ledger-stripe-system-for-tracking-and-validating-money-movement)
 - [Vlad Mihalcea - PostgreSQL Performance Tuning Settings](https://vladmihalcea.com/postgresql-performance-tuning-settings/)
 - [Developer Voices Podcast - Implementing Hardware-Friendly Databases (with DuckDB co-creator, Hannes Mühleisen)](https://www.youtube.com/watch?v=pZV9FvdKmLc)
 - [Greg Wilson - SQL for Data Scientists in 100 Queries](https://gvwilson.github.io/sql-tutorial/)
@@ -2081,6 +2095,7 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [The Verge - Google pauses Gemini’s ability to generate AI images of people after diversity errors](https://www.theverge.com/2024/2/22/24079876/google-gemini-ai-photos-people-pause)
 - [Open AI - Sora, Creating video from text](https://openai.com/sora)
 - [Modular - Mojo vs. Rust: is Mojo 🔥 faster than Rust 🦀 ?](https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust)
 - [The Verge - Nvidia’s Chat with RTX is a promising AI chatbot that runs locally on your PC](https://www.theverge.com/2024/2/13/24071645/nvidia-ai-chatbot-chat-with-rtx-tech-demo-hands-on)
@@ -2373,6 +2388,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Jeremy D. Miller - Marten 7.0 is Released!](https://jeremydmiller.com/2024/03/03/marten-7-0-is-released/)
+- [Martin Ullrich - Optimize for the Cloud – Lightning-speed .NET Container Apps](https://www.youtube.com/watch?v=BY7w2YKMZOc)
+- [Cezary Piątek - Mocking authorization tokens with WireMock.NET](https://cezarypiatek.github.io/post/mocking-authorization-tokens/)
+- [Aaron Stannard - .NET Performance Optimization: Deferred Allocations](https://petabridge.com/blog/net-performance-deferred-allocation/)
 - [Jeremy D. Miller - Dynamic Tenant Databases in Marten](https://jeremydmiller.com/2024/02/21/dynamic-tenant-databases-in-marten/)
 - [Tomasz Pęczek - Azure Functions Extensibility - Runtime Scaling](https://www.tpeczek.com/2024/02/azure-functions-extensibility-runtime.html)
 - [Avalonia - Farewell to the .NET Foundation](https://github.com/AvaloniaUI/Avalonia/discussions/14666)
@@ -3123,6 +3142,7 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [Bytecode Alliance - Announcing Jco 1.0](https://bytecodealliance.org/articles/jco-1.0)
 - [Google - WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome](https://developer.chrome.com/blog/wasmgc/)
 - [Colin Eberhardt - The State of WebAssembly 2023](https://blog.scottlogic.com/2023/10/18/the-state-of-webassembly-2023.html)
 - [Rafael Fernández - Running Wasm Workers Server in Docker Desktop](https://wasmlabs.dev/articles/docker-wasm-wws/)
@@ -3153,6 +3173,9 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Oskar Dudycz - Keeping our overachieving freak on a leash](https://event-driven.io/en/keeping_overachieving_freak_on_a_leash/?utm_source=architecture_weekly)
+- [Damian Płaza - Inverse Bruce Lee maneuver](https://talesfrom.dev/blog/inverse-bruce-lee-maneuver)
+- [Vadim Kravcenko - Falsehoods Junior Developers believe about becoming Senior](https://vadimkravcenko.com/shorts/falsehoods-junior-developers-believe-about-becoming-senior/)
 - [Gergely Orosz - Is Critical Thinking the Most Important Skill for Software Engineers?](https://blog.pragmaticengineer.com/critical-thinking/)
 - [Ketan Bhatt - Don’t be the Alpha Geek: Your team deserves better](https://ketanbhatt.com/alpha-geek/)
 - [Steph Ango - Don't specialize, hybridize](https://stephango.com/hybridize#:~:text=Becoming%20a%20generalist%20is%20one,one%20else%20would%20think%20of)
@@ -3422,6 +3445,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Martin Fowler - Periodic Face-to-Face](https://martinfowler.com/bliki/PeriodicFaceToFace.html)
 - [Chris Matts, Olav Maassen - "Real Options" Underlie Agile Practices](https://www.infoq.com/articles/real-options-enhance-agility/)
 - [drmorr - OKRs are Bullshit](https://blog.appliedcomputing.io/p/okrs-are-bullshit)
 - [Matthew Roche - Being a PM at Microsoft: Thriving in ambiguity](https://ssbipolar.com/2024/01/29/being-a-pm-at-microsoft-thriving-in-ambiguity/)
@@ -3614,6 +3638,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Paul Bakker - How Netflix Really Uses Java](https://www.infoq.com/presentations/netflix-java)
 - [Nicolai Parlog - Data Oriented Programming in Java 21](https://www.youtube.com/watch?v=8FRU_aGY4mY)
 - [Paul Sandoz - Emulating C# LINQ in Java using Code Reflection](https://openjdk.org/projects/babylon/articles/linq)
 - [Devoxx Belgium - Ask the Java Architects By Sharat Chander, Alan Bateman, Stuart Marks, Viktor Klang, Brian Goetz](https://www.youtube.com/watch?v=DlTUMjg7DD0)
@@ -4042,6 +4067,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Chris Heilmann - Apple vs. PWAs – Go act now and help avoid this disaster](https://christianheilmann.com/2024/02/28/apple-vs-pwas-go-act-now-and-help-avoid-this-disaster/)
+- [Open Web Advocacy - Open Letter to Tim Cook, Sabotaging Web Apps Is Indefensible](https://letter.open-web-advocacy.org/)
+- [Open Collective Official Statement - OCF Dissolution](https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/)
 - [Matthew Ball - On Spatial Computing, Metaverse, the Terms Left Behind and Ideas Renewed](https://www.matthewball.vc/all/metaversespatialandmore)
 - [Tech Policy Press - The Dangers of Moving Key Internet Governance Functions to Amazon’s Cloud: The Case of the Netherlands](https://www.techpolicy.press/the-dangers-of-moving-key-internet-governance-functions-to-amazons-cloud-the-case-of-the-netherlands/)
 - [ArsTechnica - Google will no longer back up the Internet: Cached webpages are dead](https://arstechnica.com/gadgets/2024/02/google-search-kills-off-cached-webpages)
@@ -4512,6 +4540,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [TechCrunch - A leaky database spilled 2FA codes for the world’s tech giants](https://techcrunch.com/2024/02/29/leaky-database-two-factor-codes/)
 - [Microsoft Threat Intelligence - Staying ahead of threat actors in the age of AI](https://www.microsoft.com/en-us/security/blog/2024/02/14/staying-ahead-of-threat-actors-in-the-age-of-ai/)
 - [Virgil Security - Essential security platform for your product](https://virgilsecurity.com/)
 - [Mateusz Jendza - Time for Passwordless](https://mjendza.net/post/passwordless/)
