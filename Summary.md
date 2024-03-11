@@ -59,6 +59,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Natalia Venditto - Beyond Micro Frontends: Effective Composable Decoupled Applications on Cloud Native Infrastructure](https://www.infoq.com/presentations/micro-frontend-cloud-native)
+- [Google - Secure by Design at Google](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/6f28d2ea12b39c0f7b7c220b8fcc0f89db91e5a9.pdf)
+- [White House - Back To the Building Blocks: A Path Toward Secure And Measurable Software](https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)
+- [Ian Cartwright, Rob Horn, James Lewis - Event Interception. Intercept any updates to system state and route some of them to a new component](https://martinfowler.com/articles/patterns-legacy-displacement/event-interception.html)
+- [Patrick Roos - Ultimate Guide to Non-Functional Requirements for Software Architects: Meeting Stakeholder Expectations](https://www.workingsoftware.dev/the-ultimate-guide-to-write-non-functional-requirements/)
+- [Buildkite - Goodbye integers. Hello UUIDv7!](https://buildkite.com/blog/goodbye-integers-hello-uuids)
 - [Uber - Cinnamon: Using Century Old Tech to Build a Mean Load Shedder](https://www.uber.com/en-GB/blog/cinnamon-using-century-old-tech-to-build-a-mean-load-shedder/)
 - [Doordash Engineering - Staying in the Zone: How DoorDash used a service mesh to manage  data transfer, reducing hops and cloud spend](https://doordash.engineering/2024/01/16/staying-in-the-zone-how-doordash-used-a-service-mesh-to-manage-data-transfer-reducing-hops-and-cloud-spend/)
 - [Pinterest - Running Unified PubSub Client in Production at Pinterest](https://medium.com/pinterest-engineering/running-unified-pubsub-client-in-production-at-pinterest-64ae2e721daa)
@@ -1334,6 +1340,10 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Allegro Tech Blog - Unlocking Kafka's Potential: Tackling Tail Latency with eBPF](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html)
+- [The Register - Companies flush money down the drain with overfed Kubernetes cloud clusters](https://www.theregister.com/2024/03/01/kubernetes_cluster_overprovisioning/)
+- [cast.ai - 2024 Kubernetes Cost Benchmark Report](https://get.cast.ai/hubfs/2024%20Kubernetes%20Cost%20Benchmark%20Report.pdf)
+- [dockur - Windows in a Docker container](https://github.com/dockur/windows)
 - [git-secrets - Prevents you from committing secrets and credentials into git repositories](https://github.com/awslabs/git-secrets)
 - [checkov - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
 - [Gitpod - Develop directly on a Kubernetes cluster using a CDE (Gitpod) and Telepresence](https://www.gitpod.io/guides/using-telepresence-in-gitpod)
@@ -1851,6 +1861,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Event Store - EventStoreDB 24.2 released](https://www.eventstore.com/blog/esdb-24.2-release-announcement)
+- [Google - Introducing vector search in BigQuery](https://cloud.google.com/blog/products/data-analytics/introducing-new-vector-search-capabilities-in-bigquery/)
 - [Stripe - Ledger: Stripe’s system for tracking and validating money movement](https://stripe.com/blog/ledger-stripe-system-for-tracking-and-validating-money-movement)
 - [Vlad Mihalcea - PostgreSQL Performance Tuning Settings](https://vladmihalcea.com/postgresql-performance-tuning-settings/)
 - [Developer Voices Podcast - Implementing Hardware-Friendly Databases (with DuckDB co-creator, Hannes Mühleisen)](https://www.youtube.com/watch?v=pZV9FvdKmLc)
@@ -2095,6 +2107,7 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [Jai Vipra & Sarah Myers West - Computional Power and AI](https://ainowinstitute.org/publication/policy/compute-and-ai)
 - [The Verge - Google pauses Gemini’s ability to generate AI images of people after diversity errors](https://www.theverge.com/2024/2/22/24079876/google-gemini-ai-photos-people-pause)
 - [Open AI - Sora, Creating video from text](https://openai.com/sora)
 - [Modular - Mojo vs. Rust: is Mojo 🔥 faster than Rust 🦀 ?](https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust)
@@ -2388,6 +2401,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Andrew Lock - An introduction to the heap data structure and .NET's priority queue](https://andrewlock.net/an-introduction-to-the-heap-data-structure-and-dotnets-priority-queue/)
+- [Antão Almada - Measuring .NET Performance: Unleashing the Power of BenchmarkDotNet](https://aalmada.github.io/posts/Measuring-dotnet-performance/)
+- [Scott Hanselman - Updating to .NET 8, updating to IHostBuilder, and running Playwright Tests within NUnit headless or headed on any OS](https://www.hanselman.com/blog/updating-to-net-8-updating-to-ihostbuilder-and-running-playwright-tests-within-nunit-headless-or-headed-on-any-os)
+- [NCrunch - NCrunch V5 Now Available](https://blog.ncrunch.net/post/NCrunch-V5-Now-Available.aspx)
 - [Jeremy D. Miller - Marten 7.0 is Released!](https://jeremydmiller.com/2024/03/03/marten-7-0-is-released/)
 - [Martin Ullrich - Optimize for the Cloud – Lightning-speed .NET Container Apps](https://www.youtube.com/watch?v=BY7w2YKMZOc)
 - [Cezary Piątek - Mocking authorization tokens with WireMock.NET](https://cezarypiatek.github.io/post/mocking-authorization-tokens/)
@@ -3173,6 +3190,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Mathias Verraes - How to Fix a Bug: Tests, Hypotheses, Timeboxes](https://verraes.net/2024/03/how-to-fix-a-bug-tests-hypotheses-timeboxes/)
+- [Hillel Wayne - How to argue for something without any scientific evidence](https://buttondown.email/hillelwayne/archive/how-to-advocate-something-without-any-scientific/)
 - [Oskar Dudycz - Keeping our overachieving freak on a leash](https://event-driven.io/en/keeping_overachieving_freak_on_a_leash/?utm_source=architecture_weekly)
 - [Damian Płaza - Inverse Bruce Lee maneuver](https://talesfrom.dev/blog/inverse-bruce-lee-maneuver)
 - [Vadim Kravcenko - Falsehoods Junior Developers believe about becoming Senior](https://vadimkravcenko.com/shorts/falsehoods-junior-developers-believe-about-becoming-senior/)
@@ -3445,6 +3464,9 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Elizabeth Ayer -  Too many cooks or not enough kitchens?](https://www.youtube.com/watch?v=n0VeZRTZFxE)
+- [Booking.com - DORA Metrics At Work. How we doubled our team’s delivery performance within a year as measured by DORA metrics.](https://medium.com/booking-com-development/dora-metrics-at-work-46c835a86a89)
+- [Brian Kelly - How to keep engineers out of meeting hell](https://morethancoding.com/2024/02/16/how-to-keep-engineers-out-of-meeting-hell/)
 - [Martin Fowler - Periodic Face-to-Face](https://martinfowler.com/bliki/PeriodicFaceToFace.html)
 - [Chris Matts, Olav Maassen - "Real Options" Underlie Agile Practices](https://www.infoq.com/articles/real-options-enhance-agility/)
 - [drmorr - OKRs are Bullshit](https://blog.appliedcomputing.io/p/okrs-are-bullshit)
@@ -3638,6 +3660,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Michael Redlich - JDK 22 and JDK 23: What We Know So Far](https://www.infoq.com/news/2024/03/java-22-so-far/)
 - [Paul Bakker - How Netflix Really Uses Java](https://www.infoq.com/presentations/netflix-java)
 - [Nicolai Parlog - Data Oriented Programming in Java 21](https://www.youtube.com/watch?v=8FRU_aGY4mY)
 - [Paul Sandoz - Emulating C# LINQ in Java using Code Reflection](https://openjdk.org/projects/babylon/articles/linq)
@@ -3822,6 +3845,8 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Microsoft - Announcing TypeScript 5.4](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/)
+- [tsup - The simplest and fastest way to bundle your TypeScript libraries.](https://github.com/egoist/tsup)
 - [Alexey Berezin - With or without enums in TypeScript](https://blog.beraliv.dev/2022-09-10-with-or-without-enums)
 - [TypeScript Worksheet - Get the results of your TS or JS code right in your vscode](https://marketplace.visualstudio.com/items?itemName=chwoerz.ts-worksheet)
 - [Twoslash - Markup for generating rich type information in your documentations ahead of time](https://github.com/twoslashes/twoslash)
@@ -3864,6 +3889,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [Sarah Gooding - OpenJS Launches New Collaboration to Improve Interoperability of JavaScript Package Metadata](https://socket.dev/blog/openjs-improve-interoperability-of-javascript-package-metadata)
 - [Emmett - WebApi support](https://event-driven-io.github.io/emmett/getting-started.html#application-setup)
 - [LLRT - (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications](https://github.com/awslabs/llrt)
 - [Node.js - Native test runner](https://nodejs.org/api/test.html)
@@ -3927,7 +3953,8 @@
 - [Ruby on Rails - Rails 7.0 Alpha 1: New JavaScript Answers, At-Work Encryption, Query Origin Logging, Zeitwerk Exclusively](https://weblog.rubyonrails.org/2021/9/15/Rails-7-0-alpha-1-released/)
 - [Remote Ruby - Hotwire, Rails NEXT, and the DHH Stack with David Heinemeier Hansson](https://remoteruby.transistor.fm/115)
 
-## Erlang
+## Elixir
+- [Gleam - Gleam version 1. It's finally here!](https://gleam.run/news/gleam-version-1/)
 - [Joe Armstrong - The development of Erlang](https://fermatslibrary.com/s/the-development-of-erlang)
 
 ## Haskell
@@ -4067,6 +4094,10 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [SkyNews - Google agrees $118m payout to female staff who were paid less than male colleagues](https://news.sky.com/story/google-agrees-118m-payout-to-female-staff-who-were-paid-less-than-male-colleagues-12633011)
+- [The Record - After decades of memory-related software bugs, White House calls on industry to act](https://therecord.media/memory-related-software-bugs-white-house-code-report-oncd)
+- [404 Media - Tumblr and WordPress to Sell Users’ Data to Train AI Tools](https://www.404media.co/tumblr-and-wordpress-to-sell-users-data-to-train-ai-tools/)
+- [ArsTechnica - Study finds that we could lose science if publishers go bankrupt](https://arstechnica.com/science/2024/03/study-finds-that-we-could-lose-science-if-publishers-go-bankrupt)
 - [Chris Heilmann - Apple vs. PWAs – Go act now and help avoid this disaster](https://christianheilmann.com/2024/02/28/apple-vs-pwas-go-act-now-and-help-avoid-this-disaster/)
 - [Open Web Advocacy - Open Letter to Tim Cook, Sabotaging Web Apps Is Indefensible](https://letter.open-web-advocacy.org/)
 - [Open Collective Official Statement - OCF Dissolution](https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/)
