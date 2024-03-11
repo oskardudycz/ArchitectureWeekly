@@ -26,6 +26,134 @@ There are two rules:
 
 ---
 
+## [11th March 2024](per-week/2024-03-11.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
+
+---
+
+### Architecture
+- [Natalia Venditto - Beyond Micro Frontends: Effective Composable Decoupled Applications on Cloud Native Infrastructure](https://www.infoq.com/presentations/micro-frontend-cloud-native)
+- [Google - Secure by Design at Google](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/6f28d2ea12b39c0f7b7c220b8fcc0f89db91e5a9.pdf)
+- [White House - Back To the Building Blocks: A Path Toward Secure And Measurable Software](https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)
+- [Ian Cartwright, Rob Horn, James Lewis - Event Interception. Intercept any updates to system state and route some of them to a new component](https://martinfowler.com/articles/patterns-legacy-displacement/event-interception.html)
+- [Patrick Roos - Ultimate Guide to Non-Functional Requirements for Software Architects: Meeting Stakeholder Expectations](https://www.workingsoftware.dev/the-ultimate-guide-to-write-non-functional-requirements/)
+- [Buildkite - Goodbye integers. Hello UUIDv7!](https://buildkite.com/blog/goodbye-integers-hello-uuids)
+
+### DevOps
+- [Allegro Tech Blog - Unlocking Kafka's Potential: Tackling Tail Latency with eBPF](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html)
+- [The Register - Companies flush money down the drain with overfed Kubernetes cloud clusters](https://www.theregister.com/2024/03/01/kubernetes_cluster_overprovisioning/)
+- [cast.ai - 2024 Kubernetes Cost Benchmark Report](https://get.cast.ai/hubfs/2024%20Kubernetes%20Cost%20Benchmark%20Report.pdf)
+- [dockur - Windows in a Docker container](https://github.com/dockur/windows)
+
+### Databases
+- [Event Store - EventStoreDB 24.2 released](https://www.eventstore.com/blog/esdb-24.2-release-announcement)
+- [Google - Introducing vector search in BigQuery](https://cloud.google.com/blog/products/data-analytics/introducing-new-vector-search-capabilities-in-bigquery/)
+
+### AI
+- [Jai Vipra & Sarah Myers West - Computional Power and AI](https://ainowinstitute.org/publication/policy/compute-and-ai)
+
+### Elixir
+- [Gleam - Gleam version 1. It's finally here!](https://gleam.run/news/gleam-version-1/)
+
+### Java
+- [Michael Redlich - JDK 22 and JDK 23: What We Know So Far](https://www.infoq.com/news/2024/03/java-22-so-far/)
+
+### .NET
+- [Andrew Lock - An introduction to the heap data structure and .NET's priority queue](https://andrewlock.net/an-introduction-to-the-heap-data-structure-and-dotnets-priority-queue/)
+- [Antão Almada - Measuring .NET Performance: Unleashing the Power of BenchmarkDotNet](https://aalmada.github.io/posts/Measuring-dotnet-performance/)
+- [Scott Hanselman - Updating to .NET 8, updating to IHostBuilder, and running Playwright Tests within NUnit headless or headed on any OS](https://www.hanselman.com/blog/updating-to-net-8-updating-to-ihostbuilder-and-running-playwright-tests-within-nunit-headless-or-headed-on-any-os)
+- [NCrunch - NCrunch V5 Now Available](https://blog.ncrunch.net/post/NCrunch-V5-Now-Available.aspx)
+
+### Node.js
+- [Sarah Gooding - OpenJS Launches New Collaboration to Improve Interoperability of JavaScript Package Metadata](https://socket.dev/blog/openjs-improve-interoperability-of-javascript-package-metadata)
+
+### TypeScript
+- [Microsoft - Announcing TypeScript 5.4](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/)
+- [tsup - The simplest and fastest way to bundle your TypeScript libraries.](https://github.com/egoist/tsup)
+
+### Coding Life
+- [Mathias Verraes - How to Fix a Bug: Tests, Hypotheses, Timeboxes](https://verraes.net/2024/03/how-to-fix-a-bug-tests-hypotheses-timeboxes/)
+- [Hillel Wayne - How to argue for something without any scientific evidence](https://buttondown.email/hillelwayne/archive/how-to-advocate-something-without-any-scientific/)
+
+### Management
+- [Elizabeth Ayer -  Too many cooks or not enough kitchens?](https://www.youtube.com/watch?v=n0VeZRTZFxE)
+- [Booking.com - DORA Metrics At Work. How we doubled our team’s delivery performance within a year as measured by DORA metrics.](https://medium.com/booking-com-development/dora-metrics-at-work-46c835a86a89)
+- [Brian Kelly - How to keep engineers out of meeting hell](https://morethancoding.com/2024/02/16/how-to-keep-engineers-out-of-meeting-hell/)
+
+### Industry
+- [SkyNews - Google agrees $118m payout to female staff who were paid less than male colleagues](https://news.sky.com/story/google-agrees-118m-payout-to-female-staff-who-were-paid-less-than-male-colleagues-12633011)
+- [The Record - After decades of memory-related software bugs, White House calls on industry to act](https://therecord.media/memory-related-software-bugs-white-house-code-report-oncd)
+- [404 Media - Tumblr and WordPress to Sell Users’ Data to Train AI Tools](https://www.404media.co/tumblr-and-wordpress-to-sell-users-data-to-train-ai-tools/)
+- [ArsTechnica - Study finds that we could lose science if publishers go bankrupt](https://arstechnica.com/science/2024/03/study-finds-that-we-could-lose-science-if-publishers-go-bankrupt)
+
+---
+
+## [4th March 2024](per-week/2024-03-04.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
+
+---
+
+### Architecture
+- [Uber - Cinnamon: Using Century Old Tech to Build a Mean Load Shedder](https://www.uber.com/en-GB/blog/cinnamon-using-century-old-tech-to-build-a-mean-load-shedder/)
+- [Doordash Engineering - Staying in the Zone: How DoorDash used a service mesh to manage  data transfer, reducing hops and cloud spend](https://doordash.engineering/2024/01/16/staying-in-the-zone-how-doordash-used-a-service-mesh-to-manage-data-transfer-reducing-hops-and-cloud-spend/)
+- [Pinterest - Running Unified PubSub Client in Production at Pinterest](https://medium.com/pinterest-engineering/running-unified-pubsub-client-in-production-at-pinterest-64ae2e721daa)
+- [Jacqui Read - Decision Archeology: Using ADRs with Existing Products](https://jacquiread.com/posts/2024-02-26-historical-adrs)
+- [Mario Carrion - Using the C4 model to document Software Architectures](https://mariocarrion.com/2020/12/30/documenting-software-architecture-c4-model.html)
+- [Ryan Shriver - DDD: Design Bounded Contexts Miro Template](https://miro.com/miroverse/ddd-design-bounded-contexts-template/)
+- [David Boyne - Beyond producers and consumers: Avoiding common issues with event-driven architectures](https://www.youtube.com/watch?v=8jGJbtb88YA)
+- [Nathaniel Schutta - Analyzing and Critiquing Architectures](https://www.youtube.com/watch?v=cJegDIDgqzI)
+- [Michał Grabowski - Do not copy successful architectures](https://softwaremill.com/do-not-copy-successful-architectures/)
+
+### Databases
+- [Stripe - Ledger: Stripe’s system for tracking and validating money movement](https://stripe.com/blog/ledger-stripe-system-for-tracking-and-validating-money-movement)
+
+### Testing
+- [Meta - Automated Unit Test Improvement using Large Language Models as Meta](https://arxiv.org/pdf/2402.09171.pdf)
+
+### Frontend
+- [Nikita Prokopov - JavaScript Bloat in 2024](https://tonsky.me/blog/js-bloat/)
+- [Adam Fortuna - How we Increased Search Traffic by 20x in 4 Months with the Next.js App Router](https://hardcover.app/blog/next-js-app-router-seo)
+- [Rainer Hahnekamp - Local Change Detection in Angular](https://medium.com/ngconf/local-change-detection-in-angular-410d82b38664)
+
+### AI
+- [The Verge - Google pauses Gemini’s ability to generate AI images of people after diversity errors](https://www.theverge.com/2024/2/22/24079876/google-gemini-ai-photos-people-pause)
+
+### Java
+- [Paul Bakker - How Netflix Really Uses Java](https://www.infoq.com/presentations/netflix-java)
+
+### .NET
+- [Jeremy D. Miller - Marten 7.0 is Released!](https://jeremydmiller.com/2024/03/03/marten-7-0-is-released/)
+- [Martin Ullrich - Optimize for the Cloud – Lightning-speed .NET Container Apps](https://www.youtube.com/watch?v=BY7w2YKMZOc)
+- [Cezary Piątek - Mocking authorization tokens with WireMock.NET](https://cezarypiatek.github.io/post/mocking-authorization-tokens/)
+- [Aaron Stannard - .NET Performance Optimization: Deferred Allocations](https://petabridge.com/blog/net-performance-deferred-allocation/)
+
+### WebAssembly
+- [Bytecode Alliance - Announcing Jco 1.0](https://bytecodealliance.org/articles/jco-1.0)
+
+### Coding Life
+- [Oskar Dudycz - Keeping our overachieving freak on a leash](https://event-driven.io/en/keeping_overachieving_freak_on_a_leash/?utm_source=architecture_weekly)
+- [Damian Płaza - Inverse Bruce Lee maneuver](https://talesfrom.dev/blog/inverse-bruce-lee-maneuver)
+- [Vadim Kravcenko - Falsehoods Junior Developers believe about becoming Senior](https://vadimkravcenko.com/shorts/falsehoods-junior-developers-believe-about-becoming-senior/)
+
+### Management
+- [Martin Fowler - Periodic Face-to-Face](https://martinfowler.com/bliki/PeriodicFaceToFace.html)
+
+### Industry
+- [Chris Heilmann - Apple vs. PWAs – Go act now and help avoid this disaster](https://christianheilmann.com/2024/02/28/apple-vs-pwas-go-act-now-and-help-avoid-this-disaster/)
+- [Open Web Advocacy - Open Letter to Tim Cook, Sabotaging Web Apps Is Indefensible](https://letter.open-web-advocacy.org/)
+- [Open Collective Official Statement - OCF Dissolution](https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/)
+
+### Security
+- [TechCrunch - A leaky database spilled 2FA codes for the world’s tech giants](https://techcrunch.com/2024/02/29/leaky-database-two-factor-codes/)
+
+---
+
 ## [26th February 2024](per-week/2024-02-26.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 **[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
