@@ -59,6 +59,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Tim Berners-Lee - Information Management: A Proposal (WWW Proposal)](https://www.w3.org/History/1989/proposal.html)
+- [Figma - How Figma’s databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
+- [Neal Ford — Granularity and Communication in Microservice Architectures](https://www.youtube.com/watch?v=L9UWy6oQBuY)
+- [Rafał Maciak - Big Picture Event Storming - finding the gaps](https://softwaremill.com/big-picture-event-storming-finding-the-gaps/)
+- [Kenny Baas-Schwegler and Bruno Boucard - Model-Driven Design](https://www.youtube.com/watch?v=j89oqlSgoT8)
+- [DDD Crew - Domain Message Flow Modelling](https://www.youtube.com/watch?v=h5SiumTDRIU)
+- [The Guardian - Tesco hit by grocery delivery glitch as Sainbury’s works to fix technical issue](https://www.theguardian.com/business/2024/mar/16/sainsburys-grocery-deliveries-hit-by-technical-issue)
+- [Last Week Tonight with John Oliver - Boeing](https://www.youtube.com/watch?v=Q8oCilY4szc)
 - [Natalia Venditto - Beyond Micro Frontends: Effective Composable Decoupled Applications on Cloud Native Infrastructure](https://www.infoq.com/presentations/micro-frontend-cloud-native)
 - [Google - Secure by Design at Google](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/6f28d2ea12b39c0f7b7c220b8fcc0f89db91e5a9.pdf)
 - [White House - Back To the Building Blocks: A Path Toward Secure And Measurable Software](https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)
@@ -1340,6 +1348,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [CNCF - Cloud Native FinOps + Cloud Financial Management Microsurvey](https://www.cncf.io/blog/2023/12/20/cncf-cloud-native-finops-cloud-financial-management-microsurvey/)
+- [Double Trouble - How to dive deep into Gitlab Metrics with SQLite and Grafana](https://double-trouble.dev/post/analyzing-gitlab-metrics-sqlite-grafana-guide/)
 - [Allegro Tech Blog - Unlocking Kafka's Potential: Tackling Tail Latency with eBPF](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html)
 - [The Register - Companies flush money down the drain with overfed Kubernetes cloud clusters](https://www.theregister.com/2024/03/01/kubernetes_cluster_overprovisioning/)
 - [cast.ai - 2024 Kubernetes Cost Benchmark Report](https://get.cast.ai/hubfs/2024%20Kubernetes%20Cost%20Benchmark%20Report.pdf)
@@ -1861,6 +1871,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [PGlite - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno ](https://github.com/electric-sql/pglite)
+- [Astro DB - A fully managed SQL database designed exclusively for Astro](https://astro.build/db/)
 - [Event Store - EventStoreDB 24.2 released](https://www.eventstore.com/blog/esdb-24.2-release-announcement)
 - [Google - Introducing vector search in BigQuery](https://cloud.google.com/blog/products/data-analytics/introducing-new-vector-search-capabilities-in-bigquery/)
 - [Stripe - Ledger: Stripe’s system for tracking and validating money movement](https://stripe.com/blog/ledger-stripe-system-for-tracking-and-validating-money-movement)
@@ -2107,6 +2119,7 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [Amy Castor - Pivot to AI: Pay no attention to the man behind the curtain](https://amycastor.com/2023/09/12/pivot-to-ai-pay-no-attention-to-the-man-behind-the-curtain/)
 - [Jai Vipra & Sarah Myers West - Computional Power and AI](https://ainowinstitute.org/publication/policy/compute-and-ai)
 - [The Verge - Google pauses Gemini’s ability to generate AI images of people after diversity errors](https://www.theverge.com/2024/2/22/24079876/google-gemini-ai-photos-people-pause)
 - [Open AI - Sora, Creating video from text](https://openai.com/sora)
@@ -2314,6 +2327,8 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Alexandre Nedelec - Call your Azure AD B2C protected API with authenticated HTTP requests from your JetBrains IDE](https://www.techwatching.dev/posts/http-clients-oauth2)
+- [Microsoft - Announcing the release of workload profile and managed scaling of Timer Trigger for Azure Functions](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-the-release-of-workload-profile-and-managed-scaling/ba-p/4086313)
 - [Xavier Mignot - Terraform vs Bicep: the differences you should really know](https://blog.xmi.fr/posts/terraform-vs-bicep/)
 - [Mattias Karlsson - Introducing ARI. A DevOps tool to document a Azure tenant resources](https://www.devlead.se/posts/2024/2024-02-08-introducing-ari)
 - [Microsoft - Announcing general availability of Microsoft Graph APIs for Microsoft Teams meeting recordings](https://devblogs.microsoft.com/microsoft365dev/announcing-general-availability-of-microsoft-graph-apis-for-microsoft-teams-meeting-recordings/)
@@ -2401,6 +2416,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Arseniy Sharoglazov - Source Code Disclosure in ASP.NET apps](https://swarm.ptsecurity.com/source-code-disclosure-in-asp-net-apps/)
+- [SimdLinq - Drop-in replacement of LINQ aggregation operations extremely faster with SIMD. ](https://github.com/Cysharp/SimdLinq)
+- [Steve Dunn - Prefer test-doubles over mocking frameworks](https://dunnhq.com/posts/2024/prefer-test-doubles-over-mocking/)
+- [Steve Gordon - Understanding System.Diagnostics DiagnosticSource and DiagnosticListener (Part 1)](https://www.stevejgordon.co.uk/understanding-system-diagnostics-diagnosticsource-and-diagnosticlistener-part-1)
 - [Andrew Lock - An introduction to the heap data structure and .NET's priority queue](https://andrewlock.net/an-introduction-to-the-heap-data-structure-and-dotnets-priority-queue/)
 - [Antão Almada - Measuring .NET Performance: Unleashing the Power of BenchmarkDotNet](https://aalmada.github.io/posts/Measuring-dotnet-performance/)
 - [Scott Hanselman - Updating to .NET 8, updating to IHostBuilder, and running Playwright Tests within NUnit headless or headed on any OS](https://www.hanselman.com/blog/updating-to-net-8-updating-to-ihostbuilder-and-running-playwright-tests-within-nunit-headless-or-headed-on-any-os)
@@ -3190,6 +3209,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Farnam Street - Turning Pro: The Difference Between Amateurs and Professionals](https://fs.blog/amateurs-professionals/)
+- [deprocrastination - Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess)
 - [Mathias Verraes - How to Fix a Bug: Tests, Hypotheses, Timeboxes](https://verraes.net/2024/03/how-to-fix-a-bug-tests-hypotheses-timeboxes/)
 - [Hillel Wayne - How to argue for something without any scientific evidence](https://buttondown.email/hillelwayne/archive/how-to-advocate-something-without-any-scientific/)
 - [Oskar Dudycz - Keeping our overachieving freak on a leash](https://event-driven.io/en/keeping_overachieving_freak_on_a_leash/?utm_source=architecture_weekly)
@@ -3464,6 +3485,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Will Larson - Friction isn't velocity](https://lethain.com/friction-vs-velocity/)
+- [Robert Kegan, Lisa Lahey - An Everyone Culture: Becoming a Deliberately Developmental Organization](https://ssir.org/books/excerpts/entry/becoming_a_deliberately_developmental_organization)
 - [Elizabeth Ayer -  Too many cooks or not enough kitchens?](https://www.youtube.com/watch?v=n0VeZRTZFxE)
 - [Booking.com - DORA Metrics At Work. How we doubled our team’s delivery performance within a year as measured by DORA metrics.](https://medium.com/booking-com-development/dora-metrics-at-work-46c835a86a89)
 - [Brian Kelly - How to keep engineers out of meeting hell](https://morethancoding.com/2024/02/16/how-to-keep-engineers-out-of-meeting-hell/)
@@ -3660,6 +3683,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [All Java conference talks from 2023 ordered by the number of views](https://techtalksweekly.substack.com/p/all-java-conference-talks-from-2023)
 - [Michael Redlich - JDK 22 and JDK 23: What We Know So Far](https://www.infoq.com/news/2024/03/java-22-so-far/)
 - [Paul Bakker - How Netflix Really Uses Java](https://www.infoq.com/presentations/netflix-java)
 - [Nicolai Parlog - Data Oriented Programming in Java 21](https://www.youtube.com/watch?v=8FRU_aGY4mY)
@@ -3889,6 +3913,9 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [Mario Bittencourt - Event Sourcing with Emmett: Reducing the Entry Barrier](https://medium.com/@mbneto/event-sourcing-with-emmett-how-to-reduce-the-entry-barrier-bf2d638c0437)
+- [Brandon Roberts - Announcing AnalogJS 1.0 🚀](https://dev.to/analogjs/announcing-analogjs-10-19an)
+- [Confluent - Confluent's Javascript Client for Apache Kafka](https://github.com/confluentinc/confluent-kafka-javascript)
 - [Oskar Dudycz - How to tackle compatibility issues in ECMA Script modules (and in general)](https://event-driven.io/en/how_to_tackle_esmodules_compatibility_issues/)
 - [Sarah Gooding - OpenJS Launches New Collaboration to Improve Interoperability of JavaScript Package Metadata](https://socket.dev/blog/openjs-improve-interoperability-of-javascript-package-metadata)
 - [Emmett - WebApi support](https://event-driven-io.github.io/emmett/getting-started.html#application-setup)
@@ -4040,6 +4067,9 @@
 - [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
 
 ## Rust
+- [Cloudflare - Open sourcing Pingora: our Rust framework for building programmable network services](https://blog.cloudflare.com/pingora-open-source)
+- [Tower - Tower is a library of modular and reusable components for building robust networking clients and servers](https://github.com/tower-rs/tower)
+- [Ratatui - Rust library that's all about cooking up terminal user interfaces (TUIs) ](https://github.com/ratatui-org/ratatui)
 - [Iggy.rs - building message streaming in Rust.](https://blog.iggy.rs/posts/building-message-streaming-in-rust/)
 - [The Register - Dump C++ and in Rust you should trust, Five Eyes agencies urge](https://www.theregister.com/2023/12/07/memory_correction_five_eyes/)
 - [NGINX - Extending NGINX with Rust (an Alternative to C)](https://www.nginx.com/blog/extending-nginx-with-rust-an-alternative-to-c/)
@@ -4477,6 +4507,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Miro - Diagramming draw.io](https://www.youtube.com/watch?v=QhwZqggs814)
 - [Draw.io - Interactive diagrams with custom links and actions](https://drawio-app.com/blog/interactive-diagrams-with-custom-links-and-actions/)
 - [Jacqui Read - How to get started with Obsidian Dataview and DataviewJS](https://medium.com/os-techblog/how-to-get-started-with-obsidian-dataview-and-dataviewjs-5d6b5733d4a4)
 - [Everything curl - an extensive guide for all things curl.](https://everything.curl.dev/)
