@@ -9,3 +9,56 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ### Architecture
+- [Tim Berners-Lee - Information Management: A Proposal (WWW Proposal)](https://www.w3.org/History/1989/proposal.html)
+- [Figma - How Figma’s databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
+- [Neal Ford — Granularity and Communication in Microservice Architectures](https://www.youtube.com/watch?v=L9UWy6oQBuY)
+- [Rafał Maciak - Big Picture Event Storming - finding the gaps](https://softwaremill.com/big-picture-event-storming-finding-the-gaps/)
+- [Kenny Baas-Schwegler and Bruno Boucard - Model-Driven Design](https://www.youtube.com/watch?v=j89oqlSgoT8)
+- [DDD Crew - Domain Message Flow Modelling](https://www.youtube.com/watch?v=h5SiumTDRIU)
+- [The Guardian - Tesco hit by grocery delivery glitch as Sainbury’s works to fix technical issue](https://www.theguardian.com/business/2024/mar/16/sainsburys-grocery-deliveries-hit-by-technical-issue)
+- [Last Week Tonight with John Oliver - Boeing](https://www.youtube.com/watch?v=Q8oCilY4szc)
+
+### Databases
+- [PGlite - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno ](https://github.com/electric-sql/pglite)
+- [Astro DB - A fully managed SQL database designed exclusively for Astro](https://astro.build/db/)
+
+### DevOps
+- [CNCF - Cloud Native FinOps + Cloud Financial Management Microsurvey](https://www.cncf.io/blog/2023/12/20/cncf-cloud-native-finops-cloud-financial-management-microsurvey/)
+- [Double Trouble - How to dive deep into Gitlab Metrics with SQLite and Grafana](https://double-trouble.dev/post/analyzing-gitlab-metrics-sqlite-grafana-guide/)
+
+### AI
+- [Amy Castor - Pivot to AI: Pay no attention to the man behind the curtain](https://amycastor.com/2023/09/12/pivot-to-ai-pay-no-attention-to-the-man-behind-the-curtain/)
+
+### Azure
+- [Alexandre Nedelec - Call your Azure AD B2C protected API with authenticated HTTP requests from your JetBrains IDE](https://www.techwatching.dev/posts/http-clients-oauth2)
+- [Microsoft - Announcing the release of workload profile and managed scaling of Timer Trigger for Azure Functions](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-the-release-of-workload-profile-and-managed-scaling/ba-p/4086313)
+
+### Node.js
+- [Mario Bittencourt - Event Sourcing with Emmett: Reducing the Entry Barrier](https://medium.com/@mbneto/event-sourcing-with-emmett-how-to-reduce-the-entry-barrier-bf2d638c0437)
+- [Brandon Roberts - Announcing AnalogJS 1.0 🚀](https://dev.to/analogjs/announcing-analogjs-10-19an)
+- [Confluent - Confluent's Javascript Client for Apache Kafka](https://github.com/confluentinc/confluent-kafka-javascript)
+
+### Java
+- [All Java conference talks from 2023 ordered by the number of views](https://techtalksweekly.substack.com/p/all-java-conference-talks-from-2023)
+
+### .NET
+- [Arseniy Sharoglazov - Source Code Disclosure in ASP.NET apps](https://swarm.ptsecurity.com/source-code-disclosure-in-asp-net-apps/)
+- [SimdLinq - Drop-in replacement of LINQ aggregation operations extremely faster with SIMD. ](https://github.com/Cysharp/SimdLinq)
+- [Steve Dunn - Prefer test-doubles over mocking frameworks](https://dunnhq.com/posts/2024/prefer-test-doubles-over-mocking/)
+- [Steve Gordon - Understanding System.Diagnostics DiagnosticSource and DiagnosticListener (Part 1)](https://www.stevejgordon.co.uk/understanding-system-diagnostics-diagnosticsource-and-diagnosticlistener-part-1)
+
+### Rust
+- [Cloudflare - Open sourcing Pingora: our Rust framework for building programmable network services](https://blog.cloudflare.com/pingora-open-source)
+- [Tower - Tower is a library of modular and reusable components for building robust networking clients and servers](https://github.com/tower-rs/tower)
+- [Ratatui - Rust library that's all about cooking up terminal user interfaces (TUIs) ](https://github.com/ratatui-org/ratatui)
+
+### Tools
+- [Miro - Diagramming draw.io](https://www.youtube.com/watch?v=QhwZqggs814)
+
+### Coding Life
+- [Farnam Street - Turning Pro: The Difference Between Amateurs and Professionals](https://fs.blog/amateurs-professionals/)
+- [deprocrastination - Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess)
+
+### Management
+- [Will Larson - Friction isn't velocity](https://lethain.com/friction-vs-velocity/)
+- [Robert Kegan, Lisa Lahey - An Everyone Culture: Becoming a Deliberately Developmental Organization](https://ssir.org/books/excerpts/entry/becoming_a_deliberately_developmental_organization)
