@@ -8,4 +8,5 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 
 ---
 
-### Architecture
+### DevOps
+- [Processing Background Jobs on AWS: Lambda vs ECS vs ECS Fargate](https://mkdev.me/posts/processing-background-jobs-on-aws-lambda-vs-ecs-vs-ecs-fargate)
