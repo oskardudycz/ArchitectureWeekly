@@ -26,6 +26,72 @@ There are two rules:
 
 ---
 
+## [25th March 2024](per-week/2024-03-25.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
+
+---
+
+### Architecture
+- [Oskar Dudycz - Testing Event Sourcing, Emmett edition](/en/testing_event_sourcing_emmett_edition/)
+- [Swizec Teller - The 3 budgets](https://swizec.com/blog/the-3-budgets/)
+- [Josh Collinsworth - The quiet, pervasive devaluation of frontend](https://joshcollinsworth.com/blog/devaluing-frontend)
+- [Dan North - How simple is too simple?](https://dannorth.net/how-simple-is-too-simple/)
+- [Decathlon - BFF: A design pattern helping teams gain ownership](https://medium.com/decathlondigital/bff-a-design-pattern-helping-teams-gain-ownership-677846e26b20)
+- [Expedia - Search Speed: Making Expedia Flights Faster](https://medium.com/expedia-group-tech/search-speed-making-expedia-flights-faster-5c3f7fec4c10)
+- [Andrew Schofield - Queues for Kafka](https://medium.com/@andrew_schofield/queues-for-kafka-29afa8aeed86)
+- [Linda Rising - Understanding the Power of Abstraction in Patterns](https://www.researchgate.net/publication/3249379_Understanding_the_Power_of_Abstraction_in_Patterns)
+- [📺 Gregor Hohpe - Build Abstractions Not Illusions](https://www.youtube.com/watch?v=aWZFRk-w3ng)
+
+### DevOps
+- [OpenTelemetry - CNCF OpenTelemetry Graduation proposal](https://github.com/cncf/toc/pull/1271)
+- [McDonald's Technical Blog - Reduce, reuse, recycle: McDonald’s reusable workflows](https://medium.com/mcdonalds-technical-blog/reduce-recycle-reuse-03a57554ee6a)
+- [Retina - eBPF distributed networking observability tool for Kubernetes](https://github.com/microsoft/retina)
+
+### Databases
+- [Redis - Redis Adopts Dual Source-Available Licensing](https://redis.com/blog/redis-adopts-dual-source-available-licensing/)
+- [Microsoft - Introducing Garnet – an open-source, next-generation, faster cache-store for accelerating applications and services](https://www.microsoft.com/en-us/research/blog/introducing-garnet-an-open-source-next-generation-faster-cache-store-for-accelerating-applications-and-services/)
+- [Raddevus - How Much Can Sqlite Handle? Multiple Threads Concurrently Inserting Into Sqlite](https://www.codeproject.com/Articles/5379359/How-Much-Can-Sqlite-Handle-Multiple-Threads-Concur)
+
+### AI
+- [Adrian Cockcroft - Nvidia GTC: Hyperscaler Happiness and Enterprise Indigestion](https://thenewstack.io/nvidia-gtc-hyperscaler-happiness-and-enterprise-indigestion)
+
+### Testing
+- [Bruno - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)](https://www.usebruno.com/)
+
+### Frontend
+- [TanStack - High-quality open-source software for web developers](https://tanstack.com/)
+
+### Java
+- [Inside Java - The Arrival of Java 22!](https://inside.java/2024/03/19/the-arrival-of-java-22/)
+- [Piotr Przybył - The best Java 22 feature: concurrent gathering](https://softwaregarden.dev/en/posts/new-java/gatherers/concurrent/)
+
+### .NET
+- [📺 The Breakpoing Show - Episode 016 – The 1 Billion Row Challenge With Mark Rendle](https://www.breakpoint.show/podcast/episode-016-the-1-billion-row-challenge-with-mark-rendle/)
+- [Steven Giesel - NCronJob - Scheduling made easy](https://steven-giesel.com/blogPost/f58777b8-e10b-4023-845b-9f5ad3b7e48f)
+- [Gérald Barré - Generate OpenAPI specification at build time from the code in ASP.NET Core](https://www.meziantou.net/generate-openapi-specification-at-build-time-from-the-code-in-asp-net-core.htm)
+- [Babu Annamalai - Marten native partial updates - patching](https://mysticmind.dev/marten-native-partial-updates-patching)
+
+### Node.js
+- [Drizzle - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too](https://github.com/drizzle-team/drizzle-orm)
+
+### TypeScript
+- [Matt Pocock - Type vs Interface: Which Should You Use?](https://www.totaltypescript.com/type-vs-interface-which-should-you-use)
+
+### Management
+- [Padmal Vitharana, Shahir A. Daya - Challenges in Adopting and Sustaining Microservice-based Software Development. Organizational challenges can be more difficult than technical ones.](https://queue.acm.org/detail.cfm?id=3649402)
+
+### Security
+- [ArsTechnica - Unpatchable vulnerability in Apple chip leaks secret encryption keys](https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/)
+
+### Trivia
+- [Werner Vogels - District heating: Using data centers to heat communities](https://www.allthingsdistributed.com/2024/03/district-heating-using-data-centers-to-heat-communities.html)
+- [LifeHacker - How to Make Google Show You the Good Search Results Again](https://lifehacker.com/tech/how-to-get-more-accurate-google-search-results)
+
+---
+
 ## [18th March 2024](per-week/2024-03-18.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 **[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**

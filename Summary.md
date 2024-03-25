@@ -59,6 +59,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Testing Event Sourcing, Emmett edition](/en/testing_event_sourcing_emmett_edition/)
+- [Swizec Teller - The 3 budgets](https://swizec.com/blog/the-3-budgets/)
+- [Josh Collinsworth - The quiet, pervasive devaluation of frontend](https://joshcollinsworth.com/blog/devaluing-frontend)
+- [Dan North - How simple is too simple?](https://dannorth.net/how-simple-is-too-simple/)
+- [Decathlon - BFF: A design pattern helping teams gain ownership](https://medium.com/decathlondigital/bff-a-design-pattern-helping-teams-gain-ownership-677846e26b20)
+- [Expedia - Search Speed: Making Expedia Flights Faster](https://medium.com/expedia-group-tech/search-speed-making-expedia-flights-faster-5c3f7fec4c10)
+- [Andrew Schofield - Queues for Kafka](https://medium.com/@andrew_schofield/queues-for-kafka-29afa8aeed86)
+- [Linda Rising - Understanding the Power of Abstraction in Patterns](https://www.researchgate.net/publication/3249379_Understanding_the_Power_of_Abstraction_in_Patterns)
+- [Gregor Hohpe - Build Abstractions Not Illusions](https://www.youtube.com/watch?v=aWZFRk-w3ng)
 - [Tim Berners-Lee - Information Management: A Proposal (WWW Proposal)](https://www.w3.org/History/1989/proposal.html)
 - [Figma - How Figma’s databases team lived to tell the scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
 - [Neal Ford — Granularity and Communication in Microservice Architectures](https://www.youtube.com/watch?v=L9UWy6oQBuY)
@@ -1348,6 +1357,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [OpenTelemetry - CNCF OpenTelemetry Graduation proposal](https://github.com/cncf/toc/pull/1271)
+- [McDonald's Technical Blog - Reduce, reuse, recycle: McDonald’s reusable workflows](https://medium.com/mcdonalds-technical-blog/reduce-recycle-reuse-03a57554ee6a)
+- [Retina - eBPF distributed networking observability tool for Kubernetes](https://github.com/microsoft/retina)
 - [CNCF - Cloud Native FinOps + Cloud Financial Management Microsurvey](https://www.cncf.io/blog/2023/12/20/cncf-cloud-native-finops-cloud-financial-management-microsurvey/)
 - [Double Trouble - How to dive deep into Gitlab Metrics with SQLite and Grafana](https://double-trouble.dev/post/analyzing-gitlab-metrics-sqlite-grafana-guide/)
 - [Allegro Tech Blog - Unlocking Kafka's Potential: Tackling Tail Latency with eBPF](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html)
@@ -1593,6 +1605,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [TanStack - High-quality open-source software for web developers](https://tanstack.com/)
 - [Nikita Prokopov - JavaScript Bloat in 2024](https://tonsky.me/blog/js-bloat/)
 - [Adam Fortuna - How we Increased Search Traffic by 20x in 4 Months with the Next.js App Router](https://hardcover.app/blog/next-js-app-router-seo)
 - [Rainer Hahnekamp - Local Change Detection in Angular](https://medium.com/ngconf/local-change-detection-in-angular-410d82b38664)
@@ -1743,6 +1756,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Bruno - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)](https://www.usebruno.com/)
 - [Meta - Automated Unit Test Improvement using Large Language Models as Meta](https://arxiv.org/pdf/2402.09171.pdf)
 - [clumsy - Makes your network condition on Windows significantly worse, but in a controlled and interactive manner](https://github.com/jagt/clumsy)
 - [Microsoft - APIs testing using HTTP files and Rest Client](https://devblogs.microsoft.com/ise/api-testing-using-http-files)
@@ -1871,6 +1885,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Redis - Redis Adopts Dual Source-Available Licensing](https://redis.com/blog/redis-adopts-dual-source-available-licensing/)
+- [Microsoft - Introducing Garnet – an open-source, next-generation, faster cache-store for accelerating applications and services](https://www.microsoft.com/en-us/research/blog/introducing-garnet-an-open-source-next-generation-faster-cache-store-for-accelerating-applications-and-services/)
+- [Raddevus - How Much Can Sqlite Handle? Multiple Threads Concurrently Inserting Into Sqlite](https://www.codeproject.com/Articles/5379359/How-Much-Can-Sqlite-Handle-Multiple-Threads-Concur)
 - [PGlite - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno ](https://github.com/electric-sql/pglite)
 - [Astro DB - A fully managed SQL database designed exclusively for Astro](https://astro.build/db/)
 - [Event Store - EventStoreDB 24.2 released](https://www.eventstore.com/blog/esdb-24.2-release-announcement)
@@ -2119,6 +2136,7 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [Adrian Cockcroft - Nvidia GTC: Hyperscaler Happiness and Enterprise Indigestion](https://thenewstack.io/nvidia-gtc-hyperscaler-happiness-and-enterprise-indigestion)
 - [Amy Castor - Pivot to AI: Pay no attention to the man behind the curtain](https://amycastor.com/2023/09/12/pivot-to-ai-pay-no-attention-to-the-man-behind-the-curtain/)
 - [Jai Vipra & Sarah Myers West - Computional Power and AI](https://ainowinstitute.org/publication/policy/compute-and-ai)
 - [The Verge - Google pauses Gemini’s ability to generate AI images of people after diversity errors](https://www.theverge.com/2024/2/22/24079876/google-gemini-ai-photos-people-pause)
@@ -2416,6 +2434,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [The Breakpoing Show - Episode 016 – The 1 Billion Row Challenge With Mark Rendle](https://www.breakpoint.show/podcast/episode-016-the-1-billion-row-challenge-with-mark-rendle/)
+- [Steven Giesel - NCronJob - Scheduling made easy](https://steven-giesel.com/blogPost/f58777b8-e10b-4023-845b-9f5ad3b7e48f)
+- [Gérald Barré - Generate OpenAPI specification at build time from the code in ASP.NET Core](https://www.meziantou.net/generate-openapi-specification-at-build-time-from-the-code-in-asp-net-core.htm)
+- [Babu Annamalai - Marten native partial updates - patching](https://mysticmind.dev/marten-native-partial-updates-patching)
 - [Arseniy Sharoglazov - Source Code Disclosure in ASP.NET apps](https://swarm.ptsecurity.com/source-code-disclosure-in-asp-net-apps/)
 - [SimdLinq - Drop-in replacement of LINQ aggregation operations extremely faster with SIMD. ](https://github.com/Cysharp/SimdLinq)
 - [Steve Dunn - Prefer test-doubles over mocking frameworks](https://dunnhq.com/posts/2024/prefer-test-doubles-over-mocking/)
@@ -3485,6 +3507,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Padmal Vitharana, Shahir A. Daya - Challenges in Adopting and Sustaining Microservice-based Software Development. Organizational challenges can be more difficult than technical ones.](https://queue.acm.org/detail.cfm?id=3649402)
 - [Will Larson - Friction isn't velocity](https://lethain.com/friction-vs-velocity/)
 - [Robert Kegan, Lisa Lahey - An Everyone Culture: Becoming a Deliberately Developmental Organization](https://ssir.org/books/excerpts/entry/becoming_a_deliberately_developmental_organization)
 - [Elizabeth Ayer -  Too many cooks or not enough kitchens?](https://www.youtube.com/watch?v=n0VeZRTZFxE)
@@ -3683,6 +3706,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Inside Java - The Arrival of Java 22!](https://inside.java/2024/03/19/the-arrival-of-java-22/)
+- [Piotr Przybył - The best Java 22 feature: concurrent gathering](https://softwaregarden.dev/en/posts/new-java/gatherers/concurrent/)
 - [All Java conference talks from 2023 ordered by the number of views](https://techtalksweekly.substack.com/p/all-java-conference-talks-from-2023)
 - [Michael Redlich - JDK 22 and JDK 23: What We Know So Far](https://www.infoq.com/news/2024/03/java-22-so-far/)
 - [Paul Bakker - How Netflix Really Uses Java](https://www.infoq.com/presentations/netflix-java)
@@ -3869,6 +3894,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Matt Pocock - Type vs Interface: Which Should You Use?](https://www.totaltypescript.com/type-vs-interface-which-should-you-use)
 - [Microsoft - Announcing TypeScript 5.4](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/)
 - [tsup - The simplest and fastest way to bundle your TypeScript libraries.](https://github.com/egoist/tsup)
 - [Alexey Berezin - With or without enums in TypeScript](https://blog.beraliv.dev/2022-09-10-with-or-without-enums)
@@ -3913,6 +3939,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [Drizzle - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too](https://github.com/drizzle-team/drizzle-orm)
 - [Mario Bittencourt - Event Sourcing with Emmett: Reducing the Entry Barrier](https://medium.com/@mbneto/event-sourcing-with-emmett-how-to-reduce-the-entry-barrier-bf2d638c0437)
 - [Brandon Roberts - Announcing AnalogJS 1.0 🚀](https://dev.to/analogjs/announcing-analogjs-10-19an)
 - [Confluent - Confluent's Javascript Client for Apache Kafka](https://github.com/confluentinc/confluent-kafka-javascript)
@@ -4603,6 +4630,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [ArsTechnica - Unpatchable vulnerability in Apple chip leaks secret encryption keys](https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/)
 - [TechCrunch - A leaky database spilled 2FA codes for the world’s tech giants](https://techcrunch.com/2024/02/29/leaky-database-two-factor-codes/)
 - [Microsoft Threat Intelligence - Staying ahead of threat actors in the age of AI](https://www.microsoft.com/en-us/security/blog/2024/02/14/staying-ahead-of-threat-actors-in-the-age-of-ai/)
 - [Virgil Security - Essential security platform for your product](https://virgilsecurity.com/)
@@ -4812,6 +4840,8 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Werner Vogels - District heating: Using data centers to heat communities](https://www.allthingsdistributed.com/2024/03/district-heating-using-data-centers-to-heat-communities.html)
+- [LifeHacker - How to Make Google Show You the Good Search Results Again](https://lifehacker.com/tech/how-to-get-more-accurate-google-search-results)
 - [Jason Grigsby - Handling Death Gracefully in Digital Experiences](https://cloudfour.com/thinks/handling-death-gracefully-in-digital-experiences/)
 - [Paul Graham - Life is Short](https://www.paulgraham.com/vb.html)
 - [The Washington Post - No one had ever ‘beat’ Tetris. Then came a 13-year-old phenom.](https://www.washingtonpost.com/nation/2024/01/04/13-year-old-beats-tetris/)
