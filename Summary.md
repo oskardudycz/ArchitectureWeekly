@@ -59,6 +59,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Surabhi Diwan - Managing 238M Memberships at Netflix](https://www.infoq.com/presentations/netflix-scalability/)
+- [Hazel Weakly - Redefining Observability](https://hazelweakly.me/blog/redefining-observability/)
+- [Diana Montalion - Systems Thinking for Software Professionals](https://www.youtube.com/watch?v=PPaTTh6N7DE)
+- [Woody Zuill, Kevin Meadows - But, We Need Proof Before We Try It](https://softwareteaming.com/but-we-need-proof-before-we-try-it/)
+- [Kurt Bittner, Pierre Pureur - Agile Architecture, Lean Architecture, or Both?](https://www.infoq.com/articles/agile-lean-architecture)
+- [Claudio Gargiulo - Consuming a Kafka Topic Is Easy, Isn’t It?](https://medium.com/juliusbaerengineering/consuming-a-kafka-topic-is-easy-isnt-it-da156c2bc4b2)
+- [Udi Dahan - Udi & Greg Reach CQRS Agreement](https://udidahan.com/2012/02/10/udi-greg-reach-cqrs-agreement/)
+- [Confluent - Introducing Tableflow](https://www.confluent.io/blog/introducing-tableflow)
 - [Oskar Dudycz - Testing Event Sourcing, Emmett edition](/en/testing_event_sourcing_emmett_edition/)
 - [Swizec Teller - The 3 budgets](https://swizec.com/blog/the-3-budgets/)
 - [Josh Collinsworth - The quiet, pervasive devaluation of frontend](https://joshcollinsworth.com/blog/devaluing-frontend)
@@ -1756,6 +1764,8 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [J. B. Rainsberger - TDD: You're Probably Doing It Just Fine](https://blog.thecodewhisperer.com/permalink/tdd-youre-probably-doing-it-just-fine)
+- [Microsoft - APIs load testing using K6](https://devblogs.microsoft.com/ise/apis-load-testing-using-k6)
 - [Bruno - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)](https://www.usebruno.com/)
 - [Meta - Automated Unit Test Improvement using Large Language Models as Meta](https://arxiv.org/pdf/2402.09171.pdf)
 - [clumsy - Makes your network condition on Windows significantly worse, but in a controlled and interactive manner](https://github.com/jagt/clumsy)
@@ -1885,6 +1895,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [CNCF - Linux Foundation Launches Open Source Valkey Community](https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community)
+- [Harshit Agarwal - Spanner, TrueTime & The CAP Theorem](https://medium.com/@harshit.py_2591/spanner-truetime-the-cap-theorem-eebbf875539d)
+- [Hannes Mühleisen - 42.parquet – A Zip Bomb for the Big Data Age](https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age)
 - [Redis - Redis Adopts Dual Source-Available Licensing](https://redis.com/blog/redis-adopts-dual-source-available-licensing/)
 - [Microsoft - Introducing Garnet – an open-source, next-generation, faster cache-store for accelerating applications and services](https://www.microsoft.com/en-us/research/blog/introducing-garnet-an-open-source-next-generation-faster-cache-store-for-accelerating-applications-and-services/)
 - [Raddevus - How Much Can Sqlite Handle? Multiple Threads Concurrently Inserting Into Sqlite](https://www.codeproject.com/Articles/5379359/How-Much-Can-Sqlite-Handle-Multiple-Threads-Concur)
@@ -2136,6 +2149,7 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [Michael Feathers 0 Recency Bias or Cognitive Load? Surfacing Capability in Large Language Models](https://michaelfeathers.substack.com/p/recency-bias-or-cognitive-load)
 - [Adrian Cockcroft - Nvidia GTC: Hyperscaler Happiness and Enterprise Indigestion](https://thenewstack.io/nvidia-gtc-hyperscaler-happiness-and-enterprise-indigestion)
 - [Amy Castor - Pivot to AI: Pay no attention to the man behind the curtain](https://amycastor.com/2023/09/12/pivot-to-ai-pay-no-attention-to-the-man-behind-the-curtain/)
 - [Jai Vipra & Sarah Myers West - Computional Power and AI](https://ainowinstitute.org/publication/policy/compute-and-ai)
@@ -2434,6 +2448,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - I'm no longer Marten maintainer](https://event-driven.io/en/i_am_no_longer_marten_maintainer/?utm_source=architecture_weekly)
+- [Andrew W. Lock - Implementing Dijkstra's algorithm for finding the shortest path between two nodes using PriorityQueue in .NET 9](https://andrewlock.net/implementing-dijkstras-algorithm-for-finding-the-shortest-path-between-two-nodes-using-priorityqueue-in-dotnet-9/)
+- [Stephen Toub, Scott Hanselman - Writing async/await from scratch in C#](https://www.youtube.com/watch?v=R-z2Hv-7nxk)
+- [Anthony Simmon - .NET Aspire dashboard is the best tool to visualize your OpenTelemetry data during local development](https://anthonysimmon.com/dotnet-aspire-dashboard-best-tool-visualize-opentelemetry-local-dev)
+- [AWS - Introducing the AWS Message Processing Framework for .NET (Preview)](https://aws.amazon.com/blogs/developer/introducing-the-aws-message-processing-framework-for-net-preview)
 - [The Breakpoing Show - Episode 016 – The 1 Billion Row Challenge With Mark Rendle](https://www.breakpoint.show/podcast/episode-016-the-1-billion-row-challenge-with-mark-rendle/)
 - [Steven Giesel - NCronJob - Scheduling made easy](https://steven-giesel.com/blogPost/f58777b8-e10b-4023-845b-9f5ad3b7e48f)
 - [Gérald Barré - Generate OpenAPI specification at build time from the code in ASP.NET Core](https://www.meziantou.net/generate-openapi-specification-at-build-time-from-the-code-in-asp-net-core.htm)
@@ -3507,6 +3526,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Abi Noda, Tim Cochran - Measuring Developer Productivity via Humans](https://martinfowler.com/articles/measuring-developer-productivity-humans.html#TheTwoTypesOfQualitativeMetrics)
 - [Padmal Vitharana, Shahir A. Daya - Challenges in Adopting and Sustaining Microservice-based Software Development. Organizational challenges can be more difficult than technical ones.](https://queue.acm.org/detail.cfm?id=3649402)
 - [Will Larson - Friction isn't velocity](https://lethain.com/friction-vs-velocity/)
 - [Robert Kegan, Lisa Lahey - An Everyone Culture: Becoming a Deliberately Developmental Organization](https://ssir.org/books/excerpts/entry/becoming_a_deliberately_developmental_organization)
@@ -3706,6 +3726,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Baeldung - Spring WebClient vs. RestTemplate](https://www.baeldung.com/spring-webclient-resttemplate)
+- [Spring - Hypermedia and Browser Enhancement](https://spring.io/blog/2024/03/15/hypermedia-and-browser-enhancement)
 - [Inside Java - The Arrival of Java 22!](https://inside.java/2024/03/19/the-arrival-of-java-22/)
 - [Piotr Przybył - The best Java 22 feature: concurrent gathering](https://softwaregarden.dev/en/posts/new-java/gatherers/concurrent/)
 - [All Java conference talks from 2023 ordered by the number of views](https://techtalksweekly.substack.com/p/all-java-conference-talks-from-2023)
@@ -3854,6 +3876,7 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
 ## JavaScript
+- [date-fns - Modern JavaScript date utility library](https://github.com/date-fns/date-fns)
 - [Feross Aboukhadijeh - When "Everything" Becomes Too Much: The npm Package Chaos of 2024](https://socket.dev/blog/when-everything-becomes-too-much)
 - [Matteo Collina - My thoughts on Bun and other Adventures](https://adventures.nodeland.dev/archive/my-thoughts-on-bun)
 - [Bun - Bun 1.0 released](https://bun.sh/blog/bun-v1.0)
@@ -4152,6 +4175,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [The Register - Red Hat tries on a McKinsey cap in quest to streamline techies' jobs](https://www.theregister.com/2024/03/27/red_hat_hires_mckinsey/)
 - [SkyNews - Google agrees $118m payout to female staff who were paid less than male colleagues](https://news.sky.com/story/google-agrees-118m-payout-to-female-staff-who-were-paid-less-than-male-colleagues-12633011)
 - [The Record - After decades of memory-related software bugs, White House calls on industry to act](https://therecord.media/memory-related-software-bugs-white-house-code-report-oncd)
 - [404 Media - Tumblr and WordPress to Sell Users’ Data to Train AI Tools](https://www.404media.co/tumblr-and-wordpress-to-sell-users-data-to-train-ai-tools/)
@@ -4534,6 +4558,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Jesse Duffield - Make advanced Git tasks simple with Lazygit](https://opensource.com/article/20/3/lazygit)
 - [Miro - Diagramming draw.io](https://www.youtube.com/watch?v=QhwZqggs814)
 - [Draw.io - Interactive diagrams with custom links and actions](https://drawio-app.com/blog/interactive-diagrams-with-custom-links-and-actions/)
 - [Jacqui Read - How to get started with Obsidian Dataview and DataviewJS](https://medium.com/os-techblog/how-to-get-started-with-obsidian-dataview-and-dataviewjs-5d6b5733d4a4)
@@ -4630,6 +4655,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Orein Eini - Certificates from the ground up](https://www.youtube.com/watch?v=w0CaZWfBrxQ)
+- [WebAuthn Local Client - Browser-only utils for locally managing WebAuthn (passkey) API](https://github.com/mylofi/webauthn-local-client)
 - [ArsTechnica - Unpatchable vulnerability in Apple chip leaks secret encryption keys](https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/)
 - [TechCrunch - A leaky database spilled 2FA codes for the world’s tech giants](https://techcrunch.com/2024/02/29/leaky-database-two-factor-codes/)
 - [Microsoft Threat Intelligence - Staying ahead of threat actors in the age of AI](https://www.microsoft.com/en-us/security/blog/2024/02/14/staying-ahead-of-threat-actors-in-the-age-of-ai/)
