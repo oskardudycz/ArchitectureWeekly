@@ -16,7 +16,8 @@
   - [AI](#ai)
   - [AWS](#aws)
   - [Azure](#azure)
-  - [C++](#c)
+- [C](#c)
+  - [C++](#c-1)
   - [Clojure](#clojure)
   - [Functional Programming](#functional-programming)
   - [.NET](#net)
@@ -32,7 +33,7 @@
   - [TypeScript](#typescript)
   - [Node.js](#nodejs)
   - [Ruby](#ruby)
-  - [Erlang](#erlang)
+  - [Elixir](#elixir)
   - [Haskell](#haskell)
   - [Go](#go)
     - [Google Cloud](#google-cloud)
@@ -42,6 +43,7 @@
   - [Python](#python)
   - [Rust](#rust)
   - [Scala](#scala)
+  - [Smalltalk](#smalltalk)
   - [Swift](#swift)
   - [Industry](#industry)
       - [Basecamp Drama](#basecamp-drama)
@@ -59,6 +61,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Event modelling anti-patterns explained](https://event-driven.io/en/anti-patterns/)
+- [Oliver Wehrens - Why you need a macro architecture](https://owehrens.com/why-you-need-a-macro-architecture/)
+- [Mario Bittencourt - Exploring Advanced Error Handling Patterns with Event-Driven Architecture — Part I](https://medium.com/ssense-tech/exploring-advanced-error-handling-patterns-with-event-driven-architecture-part-i-e2f37741d904)
+- [Alessio Ferri, Tom Coggrave - Uncovering the Seams in Mainframes for Incremental Modernisation](https://martinfowler.com/articles/uncovering-mainframe-seams.html)
 - [Surabhi Diwan - Managing 238M Memberships at Netflix](https://www.infoq.com/presentations/netflix-scalability/)
 - [Hazel Weakly - Redefining Observability](https://hazelweakly.me/blog/redefining-observability/)
 - [Diana Montalion - Systems Thinking for Software Professionals](https://www.youtube.com/watch?v=PPaTTh6N7DE)
@@ -1365,6 +1371,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Elastic - Elastic now providing distributions for OpenTelemetry SDKs](https://www.elastic.co/blog/elastic-opentelemetry-sdk-distributions)
+- [OpenTelemetry - Span Links documentation](https://opentelemetry.io/docs/concepts/signals/traces/#span-links)
+- [The NewStack - Can OpenTofu Become the HTTP of Infrastructure as Code?](https://thenewstack.io/can-opentofu-become-the-http-of-infrastructure-as-code/)
 - [OpenTelemetry - CNCF OpenTelemetry Graduation proposal](https://github.com/cncf/toc/pull/1271)
 - [McDonald's Technical Blog - Reduce, reuse, recycle: McDonald’s reusable workflows](https://medium.com/mcdonalds-technical-blog/reduce-recycle-reuse-03a57554ee6a)
 - [Retina - eBPF distributed networking observability tool for Kubernetes](https://github.com/microsoft/retina)
@@ -1895,6 +1904,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Sylvain Kerkour - Optimizing SQLite for servers](https://kerkour.com/sqlite-for-servers)
+- [ExtendClass - PostgreSQL online playgroun](https://extendsclass.com/postgresql-online.html)
 - [CNCF - Linux Foundation Launches Open Source Valkey Community](https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community)
 - [Harshit Agarwal - Spanner, TrueTime & The CAP Theorem](https://medium.com/@harshit.py_2591/spanner-truetime-the-cap-theorem-eebbf875539d)
 - [Hannes Mühleisen - 42.parquet – A Zip Bomb for the Big Data Age](https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age)
@@ -2303,6 +2314,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Yan Cui - DynamoDB now supports resource-based policies. But is that a good idea?](https://theburningmonk.com/2024/03/dynamodb-now-supports-resource-based-policies-but-is-that-a-good-idea/)
 - [Yan Cui - How would you reprocess Lambda dead-letter queue messages on demand?](https://theburningmonk.com/2024/01/how-would-you-reprocess-lambda-dead-letter-queue-messages-on-demand/)
 - [Steef-Jan Wiggers - AWS Launches CDK Migrate and CloudFormation IaC Generator for Infrastructure as Code Adoption](https://www.infoq.com/news/2024/02/aws-cdk-migrate-ga/)
 - [InfoQ - AWS to Shut down Aurora Serverless v1, Their Sole Relational Database with Scaling Capacity to Zero](https://www.infoq.com/news/2024/01/aurora-serverless-v1-retirement/)
@@ -2359,6 +2371,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Microsoft - Announcing Distributed Functions (Preview) for Azure Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-distributed-functions-preview-for-azure-static-web/ba-p/4083151)
 - [Alexandre Nedelec - Call your Azure AD B2C protected API with authenticated HTTP requests from your JetBrains IDE](https://www.techwatching.dev/posts/http-clients-oauth2)
 - [Microsoft - Announcing the release of workload profile and managed scaling of Timer Trigger for Azure Functions](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-the-release-of-workload-profile-and-managed-scaling/ba-p/4086313)
 - [Xavier Mignot - Terraform vs Bicep: the differences you should really know](https://blog.xmi.fr/posts/terraform-vs-bicep/)
@@ -2448,6 +2461,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Chris Patterson - Using Open Telemetry with the MassTransit Test Harness?](https://www.youtube.com/watch?v=7PM9XUAAMtA)
+- [Steve Gordon, Martijn Laarman - Introducing Elastic's OpenTelemetry SDK for .NET](https://www.elastic.co/blog/elastic-opentelemetry-distribution-dotnet-applications)
+- [Microsoft - Testing Your Native AOT Applications](https://devblogs.microsoft.com/dotnet/testing-your-native-aot-dotnet-apps/)
+- [Khalid Abuhakmeh - Responsive Images Crash Course for ASP.NET Core Developers](https://khalidabuhakmeh.com/responsive-images-crash-course-for-aspnet-core-developers)
 - [Oskar Dudycz - I'm no longer Marten maintainer](https://event-driven.io/en/i_am_no_longer_marten_maintainer/?utm_source=architecture_weekly)
 - [Andrew W. Lock - Implementing Dijkstra's algorithm for finding the shortest path between two nodes using PriorityQueue in .NET 9](https://andrewlock.net/implementing-dijkstras-algorithm-for-finding-the-shortest-path-between-two-nodes-using-priorityqueue-in-dotnet-9/)
 - [Stephen Toub, Scott Hanselman - Writing async/await from scratch in C#](https://www.youtube.com/watch?v=R-z2Hv-7nxk)
@@ -3219,6 +3236,7 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [📺 Ryan Levick - Deconstructing WebAssembly Components](https://www.youtube.com/watch?v=zqfF7Ssa2QI)
 - [Bytecode Alliance - Announcing Jco 1.0](https://bytecodealliance.org/articles/jco-1.0)
 - [Google - WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome](https://developer.chrome.com/blog/wasmgc/)
 - [Colin Eberhardt - The State of WebAssembly 2023](https://blog.scottlogic.com/2023/10/18/the-state-of-webassembly-2023.html)
@@ -3250,6 +3268,8 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Brent Ozar - How the Company-Startup Thing Worked Out For Me, Year 12](https://ozar.me/2024/04/how-the-company-startup-thing-worked-out-for-me-year-12/)
+- [Brendan Gregg - Brilliant Jerks in Engineering](https://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html)
 - [Farnam Street - Turning Pro: The Difference Between Amateurs and Professionals](https://fs.blog/amateurs-professionals/)
 - [deprocrastination - Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess)
 - [Mathias Verraes - How to Fix a Bug: Tests, Hypotheses, Timeboxes](https://verraes.net/2024/03/how-to-fix-a-bug-tests-hypotheses-timeboxes/)
@@ -3526,6 +3546,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Brian Elliott - Return-to-Office Mandates: How to Lose Your Best Performers](https://sloanreview.mit.edu/article/return-to-office-mandates-how-to-lose-your-best-performers/)
 - [Abi Noda, Tim Cochran - Measuring Developer Productivity via Humans](https://martinfowler.com/articles/measuring-developer-productivity-humans.html#TheTwoTypesOfQualitativeMetrics)
 - [Padmal Vitharana, Shahir A. Daya - Challenges in Adopting and Sustaining Microservice-based Software Development. Organizational challenges can be more difficult than technical ones.](https://queue.acm.org/detail.cfm?id=3649402)
 - [Will Larson - Friction isn't velocity](https://lethain.com/friction-vs-velocity/)
@@ -3726,6 +3747,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [OpenJDK - JEP draft: Module Import Declarations (Preview)](https://openjdk.org/jeps/8315129)
 - [Baeldung - Spring WebClient vs. RestTemplate](https://www.baeldung.com/spring-webclient-resttemplate)
 - [Spring - Hypermedia and Browser Enhancement](https://spring.io/blog/2024/03/15/hypermedia-and-browser-enhancement)
 - [Inside Java - The Arrival of Java 22!](https://inside.java/2024/03/19/the-arrival-of-java-22/)
@@ -4655,6 +4677,12 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Evan Boehs - Everything I Know About the XZ Backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor)
+- [Lasse Collin - XZ Utils backdoor](https://tukaani.org/xz-backdoor/)
+- [Gynvael Coldwind - xz/liblzma: Bash-stage Obfuscation Explained](https://gynvael.coldwind.pl/?lang=en&id=782)
+- [Thomas Roccia - XZ Outbreak InphoGraphic](https://twitter.com/fr0gger_/status/1774342248437813525)
+- [Andres Freund - backdoor in upstream xz/liblzma leading to ssh server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
+- [Rob Mensching -  A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
 - [Orein Eini - Certificates from the ground up](https://www.youtube.com/watch?v=w0CaZWfBrxQ)
 - [WebAuthn Local Client - Browser-only utils for locally managing WebAuthn (passkey) API](https://github.com/mylofi/webauthn-local-client)
 - [ArsTechnica - Unpatchable vulnerability in Apple chip leaks secret encryption keys](https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/)
