@@ -61,6 +61,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Learn Software Architecture - Event Sourcing for Newbies - LIVE interview with Oskar Dudycz](https://www.youtube.com/watch?v=J31qPVTyt88)
+- [Discord - How Discord Moved Engineering to Cloud Development Environments](https://discord.com/blog/how-discord-moved-engineering-to-cloud-development-environments)
+- [Netflix - A Tale of Two Frameworks: The Domain Graph Service Framework Meets Spring GraphQL](https://netflixtechblog.medium.com/a-tale-of-two-frameworks-the-domain-graph-service-framework-meets-spring-graphql-f8237f09c389)
+- [Edsger W.Dijkstra - On the role of scientific thought](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD447.html)
+- [Barry O'Sullivan - Event Granularity: Modelling events in event driven applications](https://barryosull.com/blog/event-granularity-modelling-events-in-event-driven-applications/)
+- [IEEE Spectrum - Q&A: Adele Goldberg on the Legacy of Smalltalk. One of the language’s original developers talks about its influence on modern-day programming](https://spectrum.ieee.org/qa-adele-goldberg-on-the-legacy-of-smalltalk)
 - [Oskar Dudycz - Event modelling anti-patterns explained](https://event-driven.io/en/anti-patterns/)
 - [Oliver Wehrens - Why you need a macro architecture](https://owehrens.com/why-you-need-a-macro-architecture/)
 - [Mario Bittencourt - Exploring Advanced Error Handling Patterns with Event-Driven Architecture — Part I](https://medium.com/ssense-tech/exploring-advanced-error-handling-patterns-with-event-driven-architecture-part-i-e2f37741d904)
@@ -1371,6 +1377,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [InfoWorld - OpenTofu may be showing us the wrong way to fork](https://www.infoworld.com/article/3714980/opentofu-may-be-showing-us-the-wrong-way-to-fork.html)
+- [Podman - Podman Desktop 1.9 Release](https://podman-desktop.io/blog/podman-desktop-release-1.9)
+- [derekhe - Keygen.sh docker compose example](https://github.com/derekhe/keygen-docker-compose)
 - [Elastic - Elastic now providing distributions for OpenTelemetry SDKs](https://www.elastic.co/blog/elastic-opentelemetry-sdk-distributions)
 - [OpenTelemetry - Span Links documentation](https://opentelemetry.io/docs/concepts/signals/traces/#span-links)
 - [The NewStack - Can OpenTofu Become the HTTP of Infrastructure as Code?](https://thenewstack.io/can-opentofu-become-the-http-of-infrastructure-as-code/)
@@ -1622,6 +1631,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Testing Signals with Angular Testing Library](https://timdeschryver.dev/blog/testing-signals-with-angular-testing-library)
 - [TanStack - High-quality open-source software for web developers](https://tanstack.com/)
 - [Nikita Prokopov - JavaScript Bloat in 2024](https://tonsky.me/blog/js-bloat/)
 - [Adam Fortuna - How we Increased Search Traffic by 20x in 4 Months with the Next.js App Router](https://hardcover.app/blog/next-js-app-router-seo)
@@ -1904,6 +1914,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Jonathan Katz - Will PostgreSQL ever change its license?](https://jkatz05.com/post/postgres/postgres-license-2024/)
 - [Sylvain Kerkour - Optimizing SQLite for servers](https://kerkour.com/sqlite-for-servers)
 - [ExtendClass - PostgreSQL online playgroun](https://extendsclass.com/postgresql-online.html)
 - [CNCF - Linux Foundation Launches Open Source Valkey Community](https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community)
@@ -2461,6 +2472,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [PostgreSQL - Announcing pl/dotnet, version 0.99 (beta)](https://www.postgresql.org/about/news/announcing-pldotnet-version-099-beta-2838/)
+- [Howard van Rooijen - ASP.NET Core + Razor + HTMX + Chart.js](https://endjin.com/blog/2024/04/aspnet-core-razor-htmx-chartjs)
+- [Martin Thwaites - Practical OpenTelemetry in .NET 8](https://www.youtube.com/watch?v=WzZI_IT6gYo)
+- [João Antunes - Primitive vs strongly typed dictionary keys (feat. frozen collections and BenchmarkDotNet)](https://blog.codingmilitia.com/2024/04/13/primitive-vs-strongly-typed-dictionary-keys-feat-frozen-collections-and-benchmarkdotnet/)
 - [Chris Patterson - Using Open Telemetry with the MassTransit Test Harness?](https://www.youtube.com/watch?v=7PM9XUAAMtA)
 - [Steve Gordon, Martijn Laarman - Introducing Elastic's OpenTelemetry SDK for .NET](https://www.elastic.co/blog/elastic-opentelemetry-distribution-dotnet-applications)
 - [Microsoft - Testing Your Native AOT Applications](https://devblogs.microsoft.com/dotnet/testing-your-native-aot-dotnet-apps/)
@@ -3268,6 +3283,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Gareth Edwards - She Built a Microcomputer Empire From Her Suburban Home. The untold story of Lore Harp McGovern](https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot)
 - [Brent Ozar - How the Company-Startup Thing Worked Out For Me, Year 12](https://ozar.me/2024/04/how-the-company-startup-thing-worked-out-for-me-year-12/)
 - [Brendan Gregg - Brilliant Jerks in Engineering](https://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html)
 - [Farnam Street - Turning Pro: The Difference Between Amateurs and Professionals](https://fs.blog/amateurs-professionals/)
@@ -3747,6 +3763,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Saeed Zarinfam - How to Detect Cache Misses Using Observability](https://foojay.io/today/how-to-detect-cache-misses-using-observability/)
+- [Josh Long - Spring Tips: Hello, Java 22!](https://www.youtube.com/watch?v=X_kKfNko3hA)
 - [OpenJDK - JEP draft: Module Import Declarations (Preview)](https://openjdk.org/jeps/8315129)
 - [Baeldung - Spring WebClient vs. RestTemplate](https://www.baeldung.com/spring-webclient-resttemplate)
 - [Spring - Hypermedia and Browser Enhancement](https://spring.io/blog/2024/03/15/hypermedia-and-browser-enhancement)
@@ -3898,6 +3916,7 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
 ## JavaScript
+- [Ecma Script Comitee - JavaScript Signals standard proposal](https://github.com/tc39/proposal-signals)
 - [date-fns - Modern JavaScript date utility library](https://github.com/date-fns/date-fns)
 - [Feross Aboukhadijeh - When "Everything" Becomes Too Much: The npm Package Chaos of 2024](https://socket.dev/blog/when-everything-becomes-too-much)
 - [Matteo Collina - My thoughts on Bun and other Adventures](https://adventures.nodeland.dev/archive/my-thoughts-on-bun)
@@ -3939,6 +3958,8 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Oskar Dudycz - How to build an in-memory Message Bus in TypeScript](https://event-driven.io/en/inmemory_message_bus_in_typescript/?utm_source=architecture_weekly)
+- [Testing Signals with Angular Testing Library](https://timdeschryver.dev/blog/testing-signals-with-angular-testing-library)
 - [Matt Pocock - Type vs Interface: Which Should You Use?](https://www.totaltypescript.com/type-vs-interface-which-should-you-use)
 - [Microsoft - Announcing TypeScript 5.4](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/)
 - [tsup - The simplest and fastest way to bundle your TypeScript libraries.](https://github.com/egoist/tsup)
@@ -4197,6 +4218,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [ITPro - AWS fined $525 million after US court rules Amazon S3 storage, DynamoDB services infringed patents](https://www.itpro.com/cloud/cloud-storage/aws-fined-dollar525-million-after-us-court-rules-amazon-s3-storage-dynamodb-services-infringed-patents)
+- [Kove - Original compliant against Amazon](https://regmedia.co.uk/2024/04/11/original_kove_io_complaint_2018.pdf)
+- [Emna Ayadi - Diversity in Tech Conferences](https://emnaayadi.wordpress.com/2024/04/09/diversity-in-tech-conferences/)
 - [The Register - Red Hat tries on a McKinsey cap in quest to streamline techies' jobs](https://www.theregister.com/2024/03/27/red_hat_hires_mckinsey/)
 - [SkyNews - Google agrees $118m payout to female staff who were paid less than male colleagues](https://news.sky.com/story/google-agrees-118m-payout-to-female-staff-who-were-paid-less-than-male-colleagues-12633011)
 - [The Record - After decades of memory-related software bugs, White House calls on industry to act](https://therecord.media/memory-related-software-bugs-white-house-code-report-oncd)
@@ -4580,6 +4604,8 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [rebase-editor - Simple terminal based sequence editor for git interactive rebase](https://github.com/sjurba/rebase-editor)
+- [Scoop - A command-line installer for Windows](https://scoop.sh/)
 - [Jesse Duffield - Make advanced Git tasks simple with Lazygit](https://opensource.com/article/20/3/lazygit)
 - [Miro - Diagramming draw.io](https://www.youtube.com/watch?v=QhwZqggs814)
 - [Draw.io - Interactive diagrams with custom links and actions](https://drawio-app.com/blog/interactive-diagrams-with-custom-links-and-actions/)
@@ -4677,6 +4703,11 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [9to5Google - Google One VPN will be discontinued, Pixel VPN remains with upgrade coming](https://9to5google.com/2024/04/11/google-one-vpn-discontinued/)
+- [CVE-2024-24576 (CVSS 10): Rust Flaw Exposes Windows Systems to Command Injection Attacks](https://securityonline.info/cve-2024-24576-cvss-10-rust-flaw-exposes-windows-systems-to-command-injection-attacks)
+- [The Register - Apple stops warning of 'state-sponsored' attacks, now alerts about 'mercenary spyware'](https://www.theregister.com/2024/04/12/apple_mercenary_spyware/)
+- [Arctic Wolf - Behind the Ballot: Insights from Arctic Wolf’s 2024 Election Security Survey](https://arcticwolf.com/resources/blog/behind-the-ballot-insights-from-arctic-wolfs-2024-election-security-survey/)
+- [Assured - Securing a Record-Breaking Election Year: Easier Said than Cyber Done](https://assured.co.uk/2024/securing-a-record-breaking-election-year-easier-said-than-cyber-done)
 - [Evan Boehs - Everything I Know About the XZ Backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor)
 - [Lasse Collin - XZ Utils backdoor](https://tukaani.org/xz-backdoor/)
 - [Gynvael Coldwind - xz/liblzma: Bash-stage Obfuscation Explained](https://gynvael.coldwind.pl/?lang=en&id=782)
