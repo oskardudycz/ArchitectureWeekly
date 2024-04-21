@@ -53,7 +53,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [The Verge - Microsoft starts testing ads in the Windows 11 Start menu](https://www.theverge.com/2024/4/12/24128640/microsoft-windows-11-start-menu-ads-app-recommendations)
 - [The Verge - Nine Google employees arrested after eight-hour sit-in protest](https://www.theverge.com/2024/4/17/24133056/google-protests-project-nimbus-no-tech-for-apartheid)
 
-### Orca
+### Security
 - [Orca Security - LeakyCLI: AWS and Google Cloud Command-Line Tools Can Expose Sensitive Credentials in Build Logs](https://orca.security/resources/blog/leakycli-aws-google-cloud-command-line-tools-can-expose-sensitive-credentials-build-logs/)
 - [PuTTY - Vulnerability vuln-p521-bias - private keys are exposed by biased signature generation](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 

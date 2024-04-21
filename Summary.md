@@ -61,6 +61,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Indu Alagarsamy - Application and Architecture Modernization - Where do we Start?](https://domainanalysis.io/p/application-and-architecture-modernization)
+- [Fred Hebert - Embrace Complexity; Tighten Your Feedback Loops](https://ferd.ca/embrace-complexity-tighten-your-feedback-loops.html)
+- [Marc Brooker - Formal Methods: Just Good Engineering Practice?](https://brooker.co.za/blog/2024/04/17/formal.html)
+- [Paul Reardon - Messaging Basics](https://www.reardontech.uk/posts/messaging-basics)
+- [📺 Michiel Overeem - How We Write Better Software with Low-Code](https://www.youtube.com/watch?v=gyx2mD8T_js)
+- [📺 Tomasz Lelek and Mark Rendle - Software Mistakes and Tradeoffs](https://www.youtube.com/watch?v=vWcJ2TGs-68)
+- [Omid Eidivandi - Automating EventCatalog at Scale](https://serverlessfolks.com/automating-eventcatalog-at-scale)
+- [Swift - API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/)
+- [📺 Valentina Jemuović - Hexagonal Architecture in Monoliths and Microservices](https://www.youtube.com/watch?v=QHi2RS660rQ)
 - [Learn Software Architecture - Event Sourcing for Newbies - LIVE interview with Oskar Dudycz](https://www.youtube.com/watch?v=J31qPVTyt88)
 - [Discord - How Discord Moved Engineering to Cloud Development Environments](https://discord.com/blog/how-discord-moved-engineering-to-cloud-development-environments)
 - [Netflix - A Tale of Two Frameworks: The Domain Graph Service Framework Meets Spring GraphQL](https://netflixtechblog.medium.com/a-tale-of-two-frameworks-the-domain-graph-service-framework-meets-spring-graphql-f8237f09c389)
@@ -1377,6 +1386,11 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Adidas Engineering - How we are managing a container platform: a tale about the past](https://medium.com/adidoescode/adidas-how-we-are-managing-a-container-platform-1-3-6ce24e756490)
+- [Giannis Papadakis - Evaluate Performance at Massive Scale workshop](https://github.com/Athens-SDET-Meetup/performance_workshop)
+- [Tim Deschryver - Load testing](https://timdeschryver.dev/bits/load-testing)
+- [Karpenter - Kubernetes Node Autoscaler built for flexibility, performance, and simplicity](https://karpenter.sh/)
+- [Microsoft - Autothrottle: A Practical Bi-Level Approach to Resource Management for SLO-Targeted Microservices](https://github.com/microsoft/autothrottle)
 - [InfoWorld - OpenTofu may be showing us the wrong way to fork](https://www.infoworld.com/article/3714980/opentofu-may-be-showing-us-the-wrong-way-to-fork.html)
 - [Podman - Podman Desktop 1.9 Release](https://podman-desktop.io/blog/podman-desktop-release-1.9)
 - [derekhe - Keygen.sh docker compose example](https://github.com/derekhe/keygen-docker-compose)
@@ -1914,6 +1928,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Dylan Paulus - Postgres: The Graph Database You Didn't Know You Had](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database)
+- [Neo4j - ISO GQL: A Defining Moment in the History of Database Innovation](https://neo4j.com/blog/gql-international-standard/)
+- [Snowflake - A Breakthrough AI-Powered SQL Assistant](https://www.snowflake.com/blog/copilot-ai-powered-sql-assistant)
 - [Jonathan Katz - Will PostgreSQL ever change its license?](https://jkatz05.com/post/postgres/postgres-license-2024/)
 - [Sylvain Kerkour - Optimizing SQLite for servers](https://kerkour.com/sqlite-for-servers)
 - [ExtendClass - PostgreSQL online playgroun](https://extendsclass.com/postgresql-online.html)
@@ -2171,6 +2188,7 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [Meta - Introducing Meta Llama 3](https://ai.meta.com/blog/meta-llama-3/)
 - [Michael Feathers 0 Recency Bias or Cognitive Load? Surfacing Capability in Large Language Models](https://michaelfeathers.substack.com/p/recency-bias-or-cognitive-load)
 - [Adrian Cockcroft - Nvidia GTC: Hyperscaler Happiness and Enterprise Indigestion](https://thenewstack.io/nvidia-gtc-hyperscaler-happiness-and-enterprise-indigestion)
 - [Amy Castor - Pivot to AI: Pay no attention to the man behind the curtain](https://amycastor.com/2023/09/12/pivot-to-ai-pay-no-attention-to-the-man-behind-the-curtain/)
@@ -2325,6 +2343,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [AWS Compute Blog - Comparing design approaches for building serverless microservices](https://aws.amazon.com/blogs/compute/comparing-design-approaches-for-building-serverless-microservices/)
 - [Yan Cui - DynamoDB now supports resource-based policies. But is that a good idea?](https://theburningmonk.com/2024/03/dynamodb-now-supports-resource-based-policies-but-is-that-a-good-idea/)
 - [Yan Cui - How would you reprocess Lambda dead-letter queue messages on demand?](https://theburningmonk.com/2024/01/how-would-you-reprocess-lambda-dead-letter-queue-messages-on-demand/)
 - [Steef-Jan Wiggers - AWS Launches CDK Migrate and CloudFormation IaC Generator for Infrastructure as Code Adoption](https://www.infoq.com/news/2024/02/aws-cdk-migrate-ga/)
@@ -2382,6 +2401,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Piotr Stapp - Exploring Azure Container Apps (ACA) and the Missing YAML Functionality](https://stapp.space/ACA-missing-yaml/)
 - [Microsoft - Announcing Distributed Functions (Preview) for Azure Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-distributed-functions-preview-for-azure-static-web/ba-p/4083151)
 - [Alexandre Nedelec - Call your Azure AD B2C protected API with authenticated HTTP requests from your JetBrains IDE](https://www.techwatching.dev/posts/http-clients-oauth2)
 - [Microsoft - Announcing the release of workload profile and managed scaling of Timer Trigger for Azure Functions](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-the-release-of-workload-profile-and-managed-scaling/ba-p/4086313)
@@ -2472,6 +2492,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [📺 Scott Hanselman - Stephen Toub - Deep Dive on LINQ](https://www.youtube.com/watch?v=xKr96nIyCFM)
+- [Chisel - Remove unwanted dependencies from your dotnet projects](https://github.com/0xced/Chisel)
+- [Jeff Hansen - FxKit - Functional programming utilities and Roslyn components for writing expressive C# ](https://github.com/taxfyle/fxkit)
+- [Oleksii Nikiforov - Building pipelines with System.Threading.Channels](https://nikiforovall.github.io/dotnet/async/2024/04/21/channels-composition.html)
 - [PostgreSQL - Announcing pl/dotnet, version 0.99 (beta)](https://www.postgresql.org/about/news/announcing-pldotnet-version-099-beta-2838/)
 - [Howard van Rooijen - ASP.NET Core + Razor + HTMX + Chart.js](https://endjin.com/blog/2024/04/aspnet-core-razor-htmx-chartjs)
 - [Martin Thwaites - Practical OpenTelemetry in .NET 8](https://www.youtube.com/watch?v=WzZI_IT6gYo)
@@ -3763,6 +3787,7 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [OpenJDK  - JEP 473: Stream Gatherers (Second Preview)](https://openjdk.org/jeps/473)
 - [Saeed Zarinfam - How to Detect Cache Misses Using Observability](https://foojay.io/today/how-to-detect-cache-misses-using-observability/)
 - [Josh Long - Spring Tips: Hello, Java 22!](https://www.youtube.com/watch?v=X_kKfNko3hA)
 - [OpenJDK - JEP draft: Module Import Declarations (Preview)](https://openjdk.org/jeps/8315129)
@@ -4005,6 +4030,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [Oskar Dudycz - Mocking the native Node.js Test Runner](https://event-driven.io/en/mocking_nodejs_native_test_runner/?utm_source=oskar_dudycz)
 - [Drizzle - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too](https://github.com/drizzle-team/drizzle-orm)
 - [Mario Bittencourt - Event Sourcing with Emmett: Reducing the Entry Barrier](https://medium.com/@mbneto/event-sourcing-with-emmett-how-to-reduce-the-entry-barrier-bf2d638c0437)
 - [Brandon Roberts - Announcing AnalogJS 1.0 🚀](https://dev.to/analogjs/announcing-analogjs-10-19an)
@@ -4218,6 +4244,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [The Verge - Microsoft starts testing ads in the Windows 11 Start menu](https://www.theverge.com/2024/4/12/24128640/microsoft-windows-11-start-menu-ads-app-recommendations)
+- [The Verge - Nine Google employees arrested after eight-hour sit-in protest](https://www.theverge.com/2024/4/17/24133056/google-protests-project-nimbus-no-tech-for-apartheid)
 - [ITPro - AWS fined $525 million after US court rules Amazon S3 storage, DynamoDB services infringed patents](https://www.itpro.com/cloud/cloud-storage/aws-fined-dollar525-million-after-us-court-rules-amazon-s3-storage-dynamodb-services-infringed-patents)
 - [Kove - Original compliant against Amazon](https://regmedia.co.uk/2024/04/11/original_kove_io_complaint_2018.pdf)
 - [Emna Ayadi - Diversity in Tech Conferences](https://emnaayadi.wordpress.com/2024/04/09/diversity-in-tech-conferences/)
@@ -4703,6 +4731,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Orca Security - LeakyCLI: AWS and Google Cloud Command-Line Tools Can Expose Sensitive Credentials in Build Logs](https://orca.security/resources/blog/leakycli-aws-google-cloud-command-line-tools-can-expose-sensitive-credentials-build-logs/)
+- [PuTTY - Vulnerability vuln-p521-bias - private keys are exposed by biased signature generation](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 - [9to5Google - Google One VPN will be discontinued, Pixel VPN remains with upgrade coming](https://9to5google.com/2024/04/11/google-one-vpn-discontinued/)
 - [CVE-2024-24576 (CVSS 10): Rust Flaw Exposes Windows Systems to Command Injection Attacks](https://securityonline.info/cve-2024-24576-cvss-10-rust-flaw-exposes-windows-systems-to-command-injection-attacks)
 - [The Register - Apple stops warning of 'state-sponsored' attacks, now alerts about 'mercenary spyware'](https://www.theregister.com/2024/04/12/apple_mercenary_spyware/)
@@ -4926,6 +4956,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Maria Farrell - We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
 - [Werner Vogels - District heating: Using data centers to heat communities](https://www.allthingsdistributed.com/2024/03/district-heating-using-data-centers-to-heat-communities.html)
 - [LifeHacker - How to Make Google Show You the Good Search Results Again](https://lifehacker.com/tech/how-to-get-more-accurate-google-search-results)
 - [Jason Grigsby - Handling Death Gracefully in Digital Experiences](https://cloudfour.com/thinks/handling-death-gracefully-in-digital-experiences/)
