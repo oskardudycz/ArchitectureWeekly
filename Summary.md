@@ -61,6 +61,9 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Shopify - Improving Shopify App’s Performance](https://shopify.engineering/improving-shopify-app-s-performance)
+- [Maxime Chevalier - The Alternative Implementation Problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
+- [David Hope - Async APIs - don't confuse your events, commands and state](https://blog.scottlogic.com/2024/04/22/message_types.html)
 - [Indu Alagarsamy - Application and Architecture Modernization - Where do we Start?](https://domainanalysis.io/p/application-and-architecture-modernization)
 - [Fred Hebert - Embrace Complexity; Tighten Your Feedback Loops](https://ferd.ca/embrace-complexity-tighten-your-feedback-loops.html)
 - [Marc Brooker - Formal Methods: Just Good Engineering Practice?](https://brooker.co.za/blog/2024/04/17/formal.html)
@@ -1386,6 +1389,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Oskar Dudycz - How to configure a custom Test Container on the EventStoreDB example](https://event-driven.io/en/custom_test_container_on_esdb_example/?utm_source=architecture_weekly)
+- [The NewStack - Top 10 Tools for Kafka Engineers](https://thenewstack.io/top-10-tools-for-kafka-engineers/)
 - [Adidas Engineering - How we are managing a container platform: a tale about the past](https://medium.com/adidoescode/adidas-how-we-are-managing-a-container-platform-1-3-6ce24e756490)
 - [Giannis Papadakis - Evaluate Performance at Massive Scale workshop](https://github.com/Athens-SDET-Meetup/performance_workshop)
 - [Tim Deschryver - Load testing](https://timdeschryver.dev/bits/load-testing)
@@ -1645,6 +1650,8 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [📺 Theo - From 0 to Production - The Modern React Tutorial (RSCs, Next.js, Shadui, Drizzle, TS and more)](https://www.youtube.com/watch?v=d5x0JCZbAJs)
+- [Evert Pot - ECMAScript 4: The missing version](https://evertpot.com/ecmascript-4-the-missing-version/)
 - [Testing Signals with Angular Testing Library](https://timdeschryver.dev/blog/testing-signals-with-angular-testing-library)
 - [TanStack - High-quality open-source software for web developers](https://tanstack.com/)
 - [Nikita Prokopov - JavaScript Bloat in 2024](https://tonsky.me/blog/js-bloat/)
@@ -1797,6 +1804,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [MailCrab - Email test server for development, written in Rust](https://github.com/tweedegolf/mailcrab)
 - [J. B. Rainsberger - TDD: You're Probably Doing It Just Fine](https://blog.thecodewhisperer.com/permalink/tdd-youre-probably-doing-it-just-fine)
 - [Microsoft - APIs load testing using K6](https://devblogs.microsoft.com/ise/apis-load-testing-using-k6)
 - [Bruno - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)](https://www.usebruno.com/)
@@ -1928,6 +1936,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Supabase - Supabase Storage: now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
+- [Marc Brooker - MemoryDB: Speed, Durability, and Composition.](https://brooker.co.za/blog/2024/04/25/memorydb.html)
 - [Dylan Paulus - Postgres: The Graph Database You Didn't Know You Had](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database)
 - [Neo4j - ISO GQL: A Defining Moment in the History of Database Innovation](https://neo4j.com/blog/gql-international-standard/)
 - [Snowflake - A Breakthrough AI-Powered SQL Assistant](https://www.snowflake.com/blog/copilot-ai-powered-sql-assistant)
@@ -2401,6 +2411,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Microsoft - Trusted Signing is in Public Preview](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/trusted-signing-is-in-public-preview/ba-p/4103457)
 - [Piotr Stapp - Exploring Azure Container Apps (ACA) and the Missing YAML Functionality](https://stapp.space/ACA-missing-yaml/)
 - [Microsoft - Announcing Distributed Functions (Preview) for Azure Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-distributed-functions-preview-for-azure-static-web/ba-p/4083151)
 - [Alexandre Nedelec - Call your Azure AD B2C protected API with authenticated HTTP requests from your JetBrains IDE](https://www.techwatching.dev/posts/http-clients-oauth2)
@@ -2492,6 +2503,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [📺 Ian Cooper - Kafka for .NET Developers](https://www.youtube.com/watch?v=DrocPyaJX7Q)
+- [Jimmy Bogard - Tales from the .NET Migration Trenches - Authentication](https://www.jimmybogard.com/tales-from-the-net-migration-trenches-authentication/)
+- [Aaron Stannard - Akka.NET, ASP.NET Core, Hosted Services, and Dependency Injection](https://petabridge.com/blog/akkadotnet-hosting-aspnet/)
+- [Patrick Smacchia - Will Visual Studio Be Migrated to .NET Core and Become Multi-Platform?](https://blog.ndepend.com/visual-studio-multi-platform/)
 - [📺 Scott Hanselman - Stephen Toub - Deep Dive on LINQ](https://www.youtube.com/watch?v=xKr96nIyCFM)
 - [Chisel - Remove unwanted dependencies from your dotnet projects](https://github.com/0xced/Chisel)
 - [Jeff Hansen - FxKit - Functional programming utilities and Roslyn components for writing expressive C# ](https://github.com/taxfyle/fxkit)
@@ -3307,6 +3322,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Jared Turner - WIP is waste](https://thoughtbot.com/blog/wip-is-waste)
 - [Gareth Edwards - She Built a Microcomputer Empire From Her Suburban Home. The untold story of Lore Harp McGovern](https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot)
 - [Brent Ozar - How the Company-Startup Thing Worked Out For Me, Year 12](https://ozar.me/2024/04/how-the-company-startup-thing-worked-out-for-me-year-12/)
 - [Brendan Gregg - Brilliant Jerks in Engineering](https://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html)
@@ -3748,6 +3764,8 @@
 - [Amy Isikoff Newell - Allow Me To Solve Your Engineering Manager Hiring Problem](https://www.amywriteswords.com/p/your-engineering-manager-hiring-problem)
 
 ## Product Design
+- [Daniel D. McKinnon - Product Management at Meta vs. Google or My Take on How to Evaluate your {Google,Meta} Offer](https://www.ddmckinnon.com/2024/04/26/product-management-at-meta-vs-google-or-my-take-on-how-to-evaluate-your-googlemeta-offer/)
+- [📺 Daniel Terhorst-North - How to Bake a Change](https://www.youtube.com/watch?v=wO8M6M39vZk)
 - [Elizabeth Ayer - Enshittification as Overproduction in Software, Part 1: Seeing Overproduction](https://medium.com/@ElizAyer/enshittification-as-overproduction-in-software-part-1-seeing-overproduction-7f175bca7724)
 - [Elizabeth Ayer - Enshittification as Overproduction in Software, Part 2: Overproduction in the product lifecycle](https://medium.com/@ElizAyer/enshittification-as-overproduction-in-software-part-2-overproduction-in-the-product-lifecycle-99584e8da458)
 - [Oskar Dudycz - When Agile is not enough](https://event-driven.io/en/when_agile_is_not_enough/?utm_source=architecture_weekly)
@@ -3787,6 +3805,8 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## Java
+- [Petri Kainulainen - Writing Integration Tests for Spring Boot Web Applications: Spring Profiles](https://www.petrikainulainen.net/programming/testing/writing-integration-tests-for-spring-boot-web-applications-spring-profiles/)
+- [Oracle - JDK 17 approaches end-of-permissive license](https://blogs.oracle.com/java/post/jdk-17-approaches-endofpermissive-license)
 - [OpenJDK  - JEP 473: Stream Gatherers (Second Preview)](https://openjdk.org/jeps/473)
 - [Saeed Zarinfam - How to Detect Cache Misses Using Observability](https://foojay.io/today/how-to-detect-cache-misses-using-observability/)
 - [Josh Long - Spring Tips: Hello, Java 22!](https://www.youtube.com/watch?v=X_kKfNko3hA)
@@ -3983,6 +4003,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [📺 John A. De Goes - Why Effect is more important than ZIO](https://www.youtube.com/watch?v=Ei6VTwhI8QQ)
 - [Oskar Dudycz - How to build an in-memory Message Bus in TypeScript](https://event-driven.io/en/inmemory_message_bus_in_typescript/?utm_source=architecture_weekly)
 - [Testing Signals with Angular Testing Library](https://timdeschryver.dev/blog/testing-signals-with-angular-testing-library)
 - [Matt Pocock - Type vs Interface: Which Should You Use?](https://www.totaltypescript.com/type-vs-interface-which-should-you-use)
@@ -4030,6 +4051,8 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [Zachary Lee - Native Support for CJS/ESM Interoperability Begins in Node.js 22](https://zacharylee.substack.com/p/native-support-for-cjsesm-interoperability)
+- [Node.js - Node.js 22 is now available!](https://nodejs.org/en/blog/announcements/v22-release-announce)
 - [Oskar Dudycz - Mocking the native Node.js Test Runner](https://event-driven.io/en/mocking_nodejs_native_test_runner/?utm_source=oskar_dudycz)
 - [Drizzle - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too](https://github.com/drizzle-team/drizzle-orm)
 - [Mario Bittencourt - Event Sourcing with Emmett: Reducing the Entry Barrier](https://medium.com/@mbneto/event-sourcing-with-emmett-how-to-reduce-the-entry-barrier-bf2d638c0437)
@@ -4244,6 +4267,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [HashCorp - HashiCorp joins IBM to accelerate multi-cloud automation](https://www.hashicorp.com/blog/hashicorp-joins-ibm)
+- [Microsoft - Open sourcing MS-DOS 4.0](https://cloudblogs.microsoft.com/opensource/2024/04/25/open-sourcing-ms-dos-4-0/)
 - [The Verge - Microsoft starts testing ads in the Windows 11 Start menu](https://www.theverge.com/2024/4/12/24128640/microsoft-windows-11-start-menu-ads-app-recommendations)
 - [The Verge - Nine Google employees arrested after eight-hour sit-in protest](https://www.theverge.com/2024/4/17/24133056/google-protests-project-nimbus-no-tech-for-apartheid)
 - [ITPro - AWS fined $525 million after US court rules Amazon S3 storage, DynamoDB services infringed patents](https://www.itpro.com/cloud/cloud-storage/aws-fined-dollar525-million-after-us-court-rules-amazon-s3-storage-dynamodb-services-infringed-patents)
@@ -4731,6 +4756,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [William Brown - Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream)
 - [Orca Security - LeakyCLI: AWS and Google Cloud Command-Line Tools Can Expose Sensitive Credentials in Build Logs](https://orca.security/resources/blog/leakycli-aws-google-cloud-command-line-tools-can-expose-sensitive-credentials-build-logs/)
 - [PuTTY - Vulnerability vuln-p521-bias - private keys are exposed by biased signature generation](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 - [9to5Google - Google One VPN will be discontinued, Pixel VPN remains with upgrade coming](https://9to5google.com/2024/04/11/google-one-vpn-discontinued/)
@@ -4956,6 +4982,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [ArsTechnica - After 48 years, Zilog is killing the classic standalone Z80 microprocessor chip](https://arstechnica.com/gadgets/2024/04/after-48-years-zilog-is-killing-the-classic-standalone-z80-microprocessor-chip)
 - [Maria Farrell - We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
 - [Werner Vogels - District heating: Using data centers to heat communities](https://www.allthingsdistributed.com/2024/03/district-heating-using-data-centers-to-heat-communities.html)
 - [LifeHacker - How to Make Google Show You the Good Search Results Again](https://lifehacker.com/tech/how-to-get-more-accurate-google-search-results)
