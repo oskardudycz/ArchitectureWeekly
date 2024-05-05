@@ -16,7 +16,7 @@
   - [AI](#ai)
   - [AWS](#aws)
   - [Azure](#azure)
-- [C](#c)
+  - [C](#c)
   - [C++](#c-1)
   - [Clojure](#clojure)
   - [Functional Programming](#functional-programming)
@@ -27,6 +27,7 @@
   - [Coding Life](#coding-life)
   - [Management](#management)
   - [Product Design](#product-design)
+  - [UX](#ux)
   - [Java](#java)
   - [JVM](#jvm)
   - [JavaScript](#javascript)
@@ -61,6 +62,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Corey Quinn - Multi-Cloud is the Worst Practice](https://www.lastweekinaws.com/blog/multi-cloud-is-the-worst-practice/)
+- [Vercel - Why all application migrations should be incremental](https://vercel.com/blog/incremental-migrations)
+- [Anton Zaides - How refactoring almost ruined my marriage. And why it should be your LAST choice](https://zaidesanton.substack.com/p/how-refactoring-almost-ruined-my?trk=feed_main-feed-card_feed-article-content)
+- [📺 Jacqui Read - Knowledge Management for the Technically Inclined](https://www.youtube.com/watch?v=OEYp_PT4iVc)
+- [John D. Sterman - All models are wrong: reflections on becoming a systems scientist](https://web.mit.edu/jsterman/www/All_Models_Are_Wrong_%28SDR%29.pdf)
 - [Shopify - Improving Shopify App’s Performance](https://shopify.engineering/improving-shopify-app-s-performance)
 - [Maxime Chevalier - The Alternative Implementation Problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
 - [David Hope - Async APIs - don't confuse your events, commands and state](https://blog.scottlogic.com/2024/04/22/message_types.html)
@@ -1389,6 +1395,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [TraceLens - the OpenTelemetry UI](https://tracelens.io/)
+- [Alistair Grew - The beginning of the end for Terraform?](https://medium.com/netpremacy-global-services/the-beginning-of-the-end-for-terraform-cfffcd2c5420)
 - [Oskar Dudycz - How to configure a custom Test Container on the EventStoreDB example](https://event-driven.io/en/custom_test_container_on_esdb_example/?utm_source=architecture_weekly)
 - [The NewStack - Top 10 Tools for Kafka Engineers](https://thenewstack.io/top-10-tools-for-kafka-engineers/)
 - [Adidas Engineering - How we are managing a container platform: a tale about the past](https://medium.com/adidoescode/adidas-how-we-are-managing-a-container-platform-1-3-6ce24e756490)
@@ -1650,6 +1658,8 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [React - React 19 Beta is available](https://react.dev/blog/2024/04/25/react-19)
+- [📺 Theo - React 19 Is FINALLY Here](https://www.youtube.com/watch?v=sFeu_aK8cB8)
 - [📺 Theo - From 0 to Production - The Modern React Tutorial (RSCs, Next.js, Shadui, Drizzle, TS and more)](https://www.youtube.com/watch?v=d5x0JCZbAJs)
 - [Evert Pot - ECMAScript 4: The missing version](https://evertpot.com/ecmascript-4-the-missing-version/)
 - [Testing Signals with Angular Testing Library](https://timdeschryver.dev/blog/testing-signals-with-angular-testing-library)
@@ -1804,6 +1814,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Steve Berczuk - Really Dumb Tests](https://www.berczuk.com/2009/05/really-dumb-tests.html)
 - [MailCrab - Email test server for development, written in Rust](https://github.com/tweedegolf/mailcrab)
 - [J. B. Rainsberger - TDD: You're Probably Doing It Just Fine](https://blog.thecodewhisperer.com/permalink/tdd-youre-probably-doing-it-just-fine)
 - [Microsoft - APIs load testing using K6](https://devblogs.microsoft.com/ise/apis-load-testing-using-k6)
@@ -2198,6 +2209,8 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [📺 Michelle Frost - The Elephant in your Dataset: Addressing Bias in Machine Learning](https://www.youtube.com/watch?v=I79NNl0Ckqs)
+- [Martin Fowler - An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
 - [Meta - Introducing Meta Llama 3](https://ai.meta.com/blog/meta-llama-3/)
 - [Michael Feathers 0 Recency Bias or Cognitive Load? Surfacing Capability in Large Language Models](https://michaelfeathers.substack.com/p/recency-bias-or-cognitive-load)
 - [Adrian Cockcroft - Nvidia GTC: Hyperscaler Happiness and Enterprise Indigestion](https://thenewstack.io/nvidia-gtc-hyperscaler-happiness-and-enterprise-indigestion)
@@ -2353,6 +2366,8 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [AWS - Improving Developer Productivity at Disney with Serverless and Open Source](https://aws.amazon.com/blogs/opensource/improving-developer-productivity-at-disney-with-serverless-and-open-source/)
+- [Luca Mezzalira - AWS Lambda under the hood](https://portal.gitnation.org/contents/aws-lambda-under-the-hood?trk=feed_main-feed-card_feed-article-content)
 - [AWS Compute Blog - Comparing design approaches for building serverless microservices](https://aws.amazon.com/blogs/compute/comparing-design-approaches-for-building-serverless-microservices/)
 - [Yan Cui - DynamoDB now supports resource-based policies. But is that a good idea?](https://theburningmonk.com/2024/03/dynamodb-now-supports-resource-based-policies-but-is-that-a-good-idea/)
 - [Yan Cui - How would you reprocess Lambda dead-letter queue messages on demand?](https://theburningmonk.com/2024/01/how-would-you-reprocess-lambda-dead-letter-queue-messages-on-demand/)
@@ -2411,6 +2426,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Mateusz Jendza - Entra External ID for Customers - first impression](https://mjendza.net/post/entra-external-id-for-customers/)
 - [Microsoft - Trusted Signing is in Public Preview](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/trusted-signing-is-in-public-preview/ba-p/4103457)
 - [Piotr Stapp - Exploring Azure Container Apps (ACA) and the Missing YAML Functionality](https://stapp.space/ACA-missing-yaml/)
 - [Microsoft - Announcing Distributed Functions (Preview) for Azure Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-distributed-functions-preview-for-azure-static-web/ba-p/4083151)
@@ -2463,7 +2479,7 @@
 - [Yves Goeleven - CDN Hosting](https://www.goeleven.com/blog/cdn-hosting/)
 - [InfoWorld - Simon Bisson - Jumping into Azure Arc Data Services](https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.amp.html)
 
-# C
+## C
 - [Stephen Kell - Some Were Meant for C.The Endurance of an Unmanageable Language](https://www.humprog.org/~stephen/research/papers/kell17some-preprint.pdf)
 
 ## C++
@@ -2503,6 +2519,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [TurboMqtt - The fastest Message Queue Telemetry Transport (MQTT) client for .NET.](https://github.com/petabridge/TurboMqtt)
+- [Daniel Marbach - Beyond simple benchmarks—A practical guide to optimizing code with BenchmarkDotNet](https://github.com/danielmarbach/BeyondSimpleBenchmarks)
+- [dotnet-xunit-otel  - An xUnit test framework that wraps tests in a trace to provide better visualisation of the test flows](https://github.com/practical-otel/dotnet-xunit-otel)
+- [EFCoreSecondLevelCacheInterceptor - EF Core Second Level Cache Interceptor](https://github.com/VahidN/EFCoreSecondLevelCacheInterceptor)
 - [📺 Ian Cooper - Kafka for .NET Developers](https://www.youtube.com/watch?v=DrocPyaJX7Q)
 - [Jimmy Bogard - Tales from the .NET Migration Trenches - Authentication](https://www.jimmybogard.com/tales-from-the-net-migration-trenches-authentication/)
 - [Aaron Stannard - Akka.NET, ASP.NET Core, Hosted Services, and Dependency Injection](https://petabridge.com/blog/akkadotnet-hosting-aspnet/)
@@ -3602,6 +3622,9 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [James Shore - A Software Engineering Career Ladder](https://www.jamesshore.com/v2/blog/2024/a-software-engineering-career-ladder)
+- [Hazel Weakly - Observations of Leadership (Part One)](https://hazelweakly.me/blog/observations-of-leadership-part-one/)
+- [John Cutler - Software Development As Collective Learning With Hazel Weakly](https://cutlefish.substack.com/p/software-development-as-collective)
 - [Brian Elliott - Return-to-Office Mandates: How to Lose Your Best Performers](https://sloanreview.mit.edu/article/return-to-office-mandates-how-to-lose-your-best-performers/)
 - [Abi Noda, Tim Cochran - Measuring Developer Productivity via Humans](https://martinfowler.com/articles/measuring-developer-productivity-humans.html#TheTwoTypesOfQualitativeMetrics)
 - [Padmal Vitharana, Shahir A. Daya - Challenges in Adopting and Sustaining Microservice-based Software Development. Organizational challenges can be more difficult than technical ones.](https://queue.acm.org/detail.cfm?id=3649402)
@@ -3804,7 +3827,12 @@
 - [Sumit Gulwani - The Story of the Flash Fill Feature in Excel](https://blog.sigplan.org/2021/09/14/the-story-of-the-flash-fill-feature-in-excel/)
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
+## UX
+- [Brad Frost - The art of design system recipes](https://bradfrost.com/blog/post/the-art-of-design-system-recipes/)]
+
 ## Java
+- [Oskar Dudycz - This is not your uncle's Java! Modelling with Java 22 records pattern matching in practice](https://event-driven.io/en/this_is_not_your_uncle_java/?utm_source=Architecture_Weekly)
+- [📺 Brian Goetz - Java Language Update -- a look at where the language is going](https://www.youtube.com/watch?v=bKwzONOGLxs)
 - [Petri Kainulainen - Writing Integration Tests for Spring Boot Web Applications: Spring Profiles](https://www.petrikainulainen.net/programming/testing/writing-integration-tests-for-spring-boot-web-applications-spring-profiles/)
 - [Oracle - JDK 17 approaches end-of-permissive license](https://blogs.oracle.com/java/post/jdk-17-approaches-endofpermissive-license)
 - [OpenJDK  - JEP 473: Stream Gatherers (Second Preview)](https://openjdk.org/jeps/473)
@@ -4051,6 +4079,7 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [primate - Introducing rcompat, a JavaScript interoperability and runtime compatibility layer for servers](https://primatejs.com/blog/introducing-rcompat)
 - [Zachary Lee - Native Support for CJS/ESM Interoperability Begins in Node.js 22](https://zacharylee.substack.com/p/native-support-for-cjsesm-interoperability)
 - [Node.js - Node.js 22 is now available!](https://nodejs.org/en/blog/announcements/v22-release-announce)
 - [Oskar Dudycz - Mocking the native Node.js Test Runner](https://event-driven.io/en/mocking_nodejs_native_test_runner/?utm_source=oskar_dudycz)
@@ -4173,6 +4202,7 @@
 - [Robert Pająk - Lessons Learned after 1 year of programming in Go as a C# developer](https://pajak.home.blog/2020/02/28/lessons-learned-after-1-year-of-programming-in-go-as-a-c-developer)
 
 ### Google Cloud
+- [Google - Introducing Shadow API detection for your Google Cloud environments](https://cloud.google.com/blog/products/api-management/track-down-shadow-apis-with-apigee)
 - [InfoWorld - Google Cloud targets high performance workloads with Arm-based VMs and Batch job scheduling](https://www.infoworld.com/article/3666527/google-cloud-adds-arm-based-vms-and-automated-job-scheduling.html)
 
 ## Kotlin
@@ -4267,6 +4297,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Harvard Business Review - If There’s Only One Woman in Your Candidate Pool, There’s Statistically No Chance She’ll Be Hired](https://hbr.org/2016/04/if-theres-only-one-woman-in-your-candidate-pool-theres-statistically-no-chance-shell-be-hired)
+- [Microsoft - Microsoft announces US$1.7 billion investment to advance Indonesia’s cloud and AI ambitions](https://news.microsoft.com/apac/2024/04/30/microsoft-announces-us1-7-billion-investment-to-advance-indonesias-cloud-and-ai-ambitions)
+- [TechCrunch - Google lays off staff from Flutter, Dart and Python teams weeks before its developer conference](https://techcrunch.com/2024/05/01/google-lays-off-staff-from-flutter-dart-python-weeks-before-its-developer-conference/)
 - [HashCorp - HashiCorp joins IBM to accelerate multi-cloud automation](https://www.hashicorp.com/blog/hashicorp-joins-ibm)
 - [Microsoft - Open sourcing MS-DOS 4.0](https://cloudblogs.microsoft.com/opensource/2024/04/25/open-sourcing-ms-dos-4-0/)
 - [The Verge - Microsoft starts testing ads in the Windows 11 Start menu](https://www.theverge.com/2024/4/12/24128640/microsoft-windows-11-start-menu-ads-app-recommendations)
