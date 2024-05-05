@@ -9,3 +9,59 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ### Architecture
+- [Corey Quinn - Multi-Cloud is the Worst Practice](https://www.lastweekinaws.com/blog/multi-cloud-is-the-worst-practice/)
+- [Vercel - Why all application migrations should be incremental](https://vercel.com/blog/incremental-migrations)
+- [Anton Zaides - How refactoring almost ruined my marriage. And why it should be your LAST choice](https://zaidesanton.substack.com/p/how-refactoring-almost-ruined-my?trk=feed_main-feed-card_feed-article-content)
+- [📺 Jacqui Read - Knowledge Management for the Technically Inclined](https://www.youtube.com/watch?v=OEYp_PT4iVc)
+- [John D. Sterman - All models are wrong: reflections on becoming a systems scientist](https://web.mit.edu/jsterman/www/All_Models_Are_Wrong_%28SDR%29.pdf)
+
+### DevOps
+- [TraceLens - the OpenTelemetry UI](https://tracelens.io/)
+- [Alistair Grew - The beginning of the end for Terraform?](https://medium.com/netpremacy-global-services/the-beginning-of-the-end-for-terraform-cfffcd2c5420)
+
+### Testing
+- [Steve Berczuk - Really Dumb Tests](https://www.berczuk.com/2009/05/really-dumb-tests.html)
+
+### UX
+- [Brad Frost - The art of design system recipes](https://bradfrost.com/blog/post/the-art-of-design-system-recipes/)
+
+### Frontend
+- [React - React 19 Beta is available](https://react.dev/blog/2024/04/25/react-19)
+- [📺 Theo - React 19 Is FINALLY Here](https://www.youtube.com/watch?v=sFeu_aK8cB8)
+
+### AI
+- [📺 Michelle Frost - The Elephant in your Dataset: Addressing Bias in Machine Learning](https://www.youtube.com/watch?v=I79NNl0Ckqs)
+- [Martin Fowler - An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
+
+### AWS
+- [AWS - Improving Developer Productivity at Disney with Serverless and Open Source](https://aws.amazon.com/blogs/opensource/improving-developer-productivity-at-disney-with-serverless-and-open-source/)
+- [Luca Mezzalira - AWS Lambda under the hood](https://portal.gitnation.org/contents/aws-lambda-under-the-hood?trk=feed_main-feed-card_feed-article-content)
+
+### Azure
+- [Mateusz Jendza - Entra External ID for Customers - first impression](https://mjendza.net/post/entra-external-id-for-customers/)
+
+### Google Cloud
+- [Google - Introducing Shadow API detection for your Google Cloud environments](https://cloud.google.com/blog/products/api-management/track-down-shadow-apis-with-apigee)
+
+### Java
+- [Oskar Dudycz - This is not your uncle's Java! Modelling with Java 22 records pattern matching in practice](https://event-driven.io/en/this_is_not_your_uncle_java/?utm_source=Architecture_Weekly)
+- [📺 Brian Goetz - Java Language Update -- a look at where the language is going](https://www.youtube.com/watch?v=bKwzONOGLxs)
+
+### .NET
+- [TurboMqtt - The fastest Message Queue Telemetry Transport (MQTT) client for .NET.](https://github.com/petabridge/TurboMqtt)
+- [Daniel Marbach - Beyond simple benchmarks—A practical guide to optimizing code with BenchmarkDotNet](https://github.com/danielmarbach/BeyondSimpleBenchmarks)
+- [dotnet-xunit-otel  - An xUnit test framework that wraps tests in a trace to provide better visualisation of the test flows](https://github.com/practical-otel/dotnet-xunit-otel)
+- [EFCoreSecondLevelCacheInterceptor - EF Core Second Level Cache Interceptor](https://github.com/VahidN/EFCoreSecondLevelCacheInterceptor)
+
+### Node.js
+- [primate - Introducing rcompat, a JavaScript interoperability and runtime compatibility layer for servers](https://primatejs.com/blog/introducing-rcompat)
+
+### Management
+- [James Shore - A Software Engineering Career Ladder](https://www.jamesshore.com/v2/blog/2024/a-software-engineering-career-ladder)
+- [Hazel Weakly - Observations of Leadership (Part One)](https://hazelweakly.me/blog/observations-of-leadership-part-one/)
+- [John Cutler - Software Development As Collective Learning With Hazel Weakly](https://cutlefish.substack.com/p/software-development-as-collective)
+
+### Industry
+- [Harvard Business Review - If There’s Only One Woman in Your Candidate Pool, There’s Statistically No Chance She’ll Be Hired](https://hbr.org/2016/04/if-theres-only-one-woman-in-your-candidate-pool-theres-statistically-no-chance-shell-be-hired)
+- [Microsoft - Microsoft announces US$1.7 billion investment to advance Indonesia’s cloud and AI ambitions](https://news.microsoft.com/apac/2024/04/30/microsoft-announces-us1-7-billion-investment-to-advance-indonesias-cloud-and-ai-ambitions)
+- [TechCrunch - Google lays off staff from Flutter, Dart and Python teams weeks before its developer conference](https://techcrunch.com/2024/05/01/google-lays-off-staff-from-flutter-dart-python-weeks-before-its-developer-conference/)
