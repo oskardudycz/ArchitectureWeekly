@@ -26,6 +26,71 @@ There are two rules:
 
 ---
 
+## [13th May 2024](per-week/2024-05-13.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
+
+**[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
+
+Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
+
+---
+
+### Architecture
+- [Joshua Bloch - How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)
+- [Eugene Yan - Simplicity is An Advantage but Sadly Complexity Sells Better](https://eugeneyan.com/writing/simplicity/)
+- [Eberhard Wolff & Alberto Brandolini: The Chasm Between Architecture and Business](https://www.youtube.com/watch?v=n89L3I8P7uQ)
+- [Mohit Palriwal - Unraveling the Enigma: Debunking Myths Surrounding Lambda Cold Starts](https://www.infoq.com/articles/aws-lambda-cold-starts-myths)
+- [Adam Bellemare - Preventing and Fixing Bad Data in Event Streams — Part 1](https://medium.com/@adam.bellemare/preventing-and-fixing-bad-data-in-event-streams-part-1-27bf2a99b48e)
+- [Matt Butcher - Polyglot Programming with WebAssembly: A Practical Approach ](https://www.infoq.com/articles/webassembly-component-model/)
+- [Maciej "MJ" Jędrzejewski - When Can't Trunk: Meet Short-Living Branches](https://newsletter.fractionalarchitect.io/p/when-cant-trunk-meet-short-living)
+
+### DevOps
+- [Timescale - A Deep Dive Into OpenTelemetry Metrics](https://www.timescale.com/blog/a-deep-dive-into-open-telemetry-metrics/)
+- [Docker - Wasm vs. Docker: Performant, Secure, and Versatile Containers](https://www.docker.com/blog/wasm-vs-docker/)
+- [Bert Wullems - Kubernetes–Setup a local cluster through Podman Desktop](https://bartwullems.blogspot.com/2024/05/kubernetessetup-local-cluster-through.html)
+
+### Databases
+- [AWS - Data modeling with Amazon DocumentDB](https://d1.awsstatic.com/product-marketing/Data%20modeling%20with%20Amazon%20DocumentDB.pdf)
+
+### Distributed Systems
+- [Postgres Message Queue (PGMQ) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres](https://github.com/tembo-io/pgmq)
+
+### AI
+- [Jay Alammar - The Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/)
+
+### UX
+- [Dean Schuster - The Crisps and Pickle Story: What's Really Behind Infamous, Historic UI Failures?](https://www.youtube.com/watch?v=LM3Lkp0d4hw)
+- [How-To Geek - A Visual History of Windows Icons: From Windows 1 to 11](https://www.howtogeek.com/733912/a-visual-history-of-windows-icons-from-windows-1-to-11/)
+
+### Java
+- [Oskar Dudycz - How to write a left-fold streams collector in Java](https://event-driven.io/en/how_to_write_left_fold_collector_in_java/?utm_source=architecture_weekly)
+
+### Kotlin
+- [Zac Sweers - Preparing for K2](https://www.zacsweers.dev/preparing-for-k2)
+
+### .NET
+- [Aaron Stannard - Easy, Database Agnostic NET Event Sourcing and CQRS with Akka.NET](https://www.youtube.com/watch?v=ysXBz2s5W00)
+- [João Antunes - Where are my traces? (weird .NET meets OpenTelemetry gotcha)](https://blog.codingmilitia.com/2024/05/13/where-are-my-traces-weird-dotnet-meets-opentelemetry-gotcha/)
+- [Stephen Toub, Scott Hanselman - Deep Dive into RegEx](https://www.youtube.com/watch?v=ptKjWPC7pqw)
+- [Richard Lander - Secure your container build and publish with .NET 8](https://devblogs.microsoft.com/dotnet/secure-your-container-build-and-publish-with-dotnet-8/)
+
+### Tools
+- [VSCode - Using WebAssembly for Extension Development](https://code.visualstudio.com/blogs/2024/05/08/wasm)
+
+### Coding Life
+- [Adam Tornhill - Programming like it's 1977: exploring the Atari VCS](https://adamtornhill.com/articles/atari-vcs/programming-like-in-1977.html)
+
+### Management
+- [Dale H. Emery - Resistance as a Resource](https://dhemery.com/articles/resistance_as_a_resource/)
+
+### Industry
+- [OpenAI - API Partnership with Stack Overflow](https://openai.com/index/api-partnership-with-stack-overflow/)
+- [The Register - Stack Overflow simply bans folks who don't want their advice used to train AI](https://www.theregister.com/2024/05/09/stack_overflow_banning_users_who/)
+
+### Security
+- [Daniel Bass - 45 Questions to Ask Yourself Before Modeling Authorization](https://www.permit.io/blog/45-questions-to-ask-yourself-before-modeling-authorization)
+
+---
+
 ## [6th May 2024](per-week/2024-05-06.md) [![Subscribe](https://img.shields.io/badge/%F0%9F%9A%80-subscribe!-important)](https://www.architecture-weekly.com/?utm_source=github_architecture_weekly)
 
 **[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**

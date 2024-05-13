@@ -62,6 +62,13 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Joshua Bloch - How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)
+- [Eugene Yan - Simplicity is An Advantage but Sadly Complexity Sells Better](https://eugeneyan.com/writing/simplicity/)
+- [Eberhard Wolff & Alberto Brandolini: The Chasm Between Architecture and Business](https://www.youtube.com/watch?v=n89L3I8P7uQ)
+- [Mohit Palriwal - Unraveling the Enigma: Debunking Myths Surrounding Lambda Cold Starts](https://www.infoq.com/articles/aws-lambda-cold-starts-myths)
+- [Adam Bellemare - Preventing and Fixing Bad Data in Event Streams — Part 1](https://medium.com/@adam.bellemare/preventing-and-fixing-bad-data-in-event-streams-part-1-27bf2a99b48e)
+- [Matt Butcher - Polyglot Programming with WebAssembly: A Practical Approach ](https://www.infoq.com/articles/webassembly-component-model/)
+- [Maciej "MJ" Jędrzejewski - When Can't Trunk: Meet Short-Living Branches](https://newsletter.fractionalarchitect.io/p/when-cant-trunk-meet-short-living)
 - [Corey Quinn - Multi-Cloud is the Worst Practice](https://www.lastweekinaws.com/blog/multi-cloud-is-the-worst-practice/)
 - [Vercel - Why all application migrations should be incremental](https://vercel.com/blog/incremental-migrations)
 - [Anton Zaides - How refactoring almost ruined my marriage. And why it should be your LAST choice](https://zaidesanton.substack.com/p/how-refactoring-almost-ruined-my?trk=feed_main-feed-card_feed-article-content)
@@ -1188,6 +1195,7 @@
 - [Gojko Adzic - How serverless impacts design](https://www.youtube.com/watch?v=jZoWAQOaxt8)
 
 ## Distributed Systems
+- [Postgres Message Queue (PGMQ) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres](https://github.com/tembo-io/pgmq)
 - [Andrew Schofield - Queues for Kafka](https://medium.com/@andrew_schofield/queues-for-kafka-29afa8aeed86)
 - [Kafka - KIP-932: Queues for Kafka](https://cwiki.apache.org/confluence/display/KAFKA/KIP-932%3A+Queues+for+Kafka)
 - [Gunnar Morling - Change Data Streaming Patterns With Debezium & Apache Flink | Decodable](https://www.youtube.com/watch?v=Vd1z9Z2-8VE)
@@ -1395,6 +1403,9 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Timescale - A Deep Dive Into OpenTelemetry Metrics](https://www.timescale.com/blog/a-deep-dive-into-open-telemetry-metrics/)
+- [Docker - Wasm vs. Docker: Performant, Secure, and Versatile Containers](https://www.docker.com/blog/wasm-vs-docker/)
+- [Bert Wullems - Kubernetes–Setup a local cluster through Podman Desktop](https://bartwullems.blogspot.com/2024/05/kubernetessetup-local-cluster-through.html)
 - [TraceLens - the OpenTelemetry UI](https://tracelens.io/)
 - [Alistair Grew - The beginning of the end for Terraform?](https://medium.com/netpremacy-global-services/the-beginning-of-the-end-for-terraform-cfffcd2c5420)
 - [Oskar Dudycz - How to configure a custom Test Container on the EventStoreDB example](https://event-driven.io/en/custom_test_container_on_esdb_example/?utm_source=architecture_weekly)
@@ -1947,6 +1958,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [AWS - Data modeling with Amazon DocumentDB](https://d1.awsstatic.com/product-marketing/Data%20modeling%20with%20Amazon%20DocumentDB.pdf)
 - [Supabase - Supabase Storage: now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
 - [Marc Brooker - MemoryDB: Speed, Durability, and Composition.](https://brooker.co.za/blog/2024/04/25/memorydb.html)
 - [Dylan Paulus - Postgres: The Graph Database You Didn't Know You Had](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database)
@@ -2209,6 +2221,7 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [Jay Alammar - The Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/)
 - [📺 Michelle Frost - The Elephant in your Dataset: Addressing Bias in Machine Learning](https://www.youtube.com/watch?v=I79NNl0Ckqs)
 - [Martin Fowler - An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
 - [Meta - Introducing Meta Llama 3](https://ai.meta.com/blog/meta-llama-3/)
@@ -2519,6 +2532,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Aaron Stannard - Easy, Database Agnostic NET Event Sourcing and CQRS with Akka.NET](https://www.youtube.com/watch?v=ysXBz2s5W00)
+- [João Antunes - Where are my traces? (weird .NET meets OpenTelemetry gotcha)](https://blog.codingmilitia.com/2024/05/13/where-are-my-traces-weird-dotnet-meets-opentelemetry-gotcha/)
+- [Stephen Toub, Scott Hanselman - Deep Dive into RegEx](https://www.youtube.com/watch?v=ptKjWPC7pqw)
+- [Richard Lander - Secure your container build and publish with .NET 8](https://devblogs.microsoft.com/dotnet/secure-your-container-build-and-publish-with-dotnet-8/)
 - [TurboMqtt - The fastest Message Queue Telemetry Transport (MQTT) client for .NET.](https://github.com/petabridge/TurboMqtt)
 - [Daniel Marbach - Beyond simple benchmarks—A practical guide to optimizing code with BenchmarkDotNet](https://github.com/danielmarbach/BeyondSimpleBenchmarks)
 - [dotnet-xunit-otel  - An xUnit test framework that wraps tests in a trace to provide better visualisation of the test flows](https://github.com/practical-otel/dotnet-xunit-otel)
@@ -3342,6 +3359,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Adam Tornhill - Programming like it's 1977: exploring the Atari VCS](https://adamtornhill.com/articles/atari-vcs/programming-like-in-1977.html)
 - [Jared Turner - WIP is waste](https://thoughtbot.com/blog/wip-is-waste)
 - [Gareth Edwards - She Built a Microcomputer Empire From Her Suburban Home. The untold story of Lore Harp McGovern](https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot)
 - [Brent Ozar - How the Company-Startup Thing Worked Out For Me, Year 12](https://ozar.me/2024/04/how-the-company-startup-thing-worked-out-for-me-year-12/)
@@ -3622,6 +3640,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Dale H. Emery - Resistance as a Resource](https://dhemery.com/articles/resistance_as_a_resource/)
 - [James Shore - A Software Engineering Career Ladder](https://www.jamesshore.com/v2/blog/2024/a-software-engineering-career-ladder)
 - [Hazel Weakly - Observations of Leadership (Part One)](https://hazelweakly.me/blog/observations-of-leadership-part-one/)
 - [John Cutler - Software Development As Collective Learning With Hazel Weakly](https://cutlefish.substack.com/p/software-development-as-collective)
@@ -3828,9 +3847,12 @@
 - [Joe Procopio - This Is Why Your Customers Hate Your Minimum Viable Product](https://jproco.medium.com/this-is-why-your-customers-hate-your-minimum-viable-product-664f5eece0b0)
 
 ## UX
+- [Dean Schuster - The Crisps and Pickle Story: What's Really Behind Infamous, Historic UI Failures?](https://www.youtube.com/watch?v=LM3Lkp0d4hw)
+- [How-To Geek - A Visual History of Windows Icons: From Windows 1 to 11](https://www.howtogeek.com/733912/a-visual-history-of-windows-icons-from-windows-1-to-11/)
 - [Brad Frost - The art of design system recipes](https://bradfrost.com/blog/post/the-art-of-design-system-recipes/)]
 
 ## Java
+- [Oskar Dudycz - How to write a left-fold streams collector in Java](https://event-driven.io/en/how_to_write_left_fold_collector_in_java/?utm_source=architecture_weekly)
 - [Oskar Dudycz - This is not your uncle's Java! Modelling with Java 22 records pattern matching in practice](https://event-driven.io/en/this_is_not_your_uncle_java/?utm_source=Architecture_Weekly)
 - [📺 Brian Goetz - Java Language Update -- a look at where the language is going](https://www.youtube.com/watch?v=bKwzONOGLxs)
 - [Petri Kainulainen - Writing Integration Tests for Spring Boot Web Applications: Spring Profiles](https://www.petrikainulainen.net/programming/testing/writing-integration-tests-for-spring-boot-web-applications-spring-profiles/)
@@ -4206,6 +4228,7 @@
 - [InfoWorld - Google Cloud targets high performance workloads with Arm-based VMs and Batch job scheduling](https://www.infoworld.com/article/3666527/google-cloud-adds-arm-based-vms-and-automated-job-scheduling.html)
 
 ## Kotlin
+- [Zac Sweers - Preparing for K2](https://www.zacsweers.dev/preparing-for-k2)
 - [JetBrains - Kotlin 1.9.0 Released](https://blog.jetbrains.com/kotlin/2023/07/kotlin-1-9-0-released/)
 - [Engineering at Meta - From zero to 10 million lines of Kotlin](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/)
 - [Johan Haleby - Pragmatic Event Sourcing with Pure Functions](https://www.youtube.com/watch?v=YJvHbtuX250)
@@ -4297,6 +4320,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [OpenAI - API Partnership with Stack Overflow](https://openai.com/index/api-partnership-with-stack-overflow/)
+- [The Register - Stack Overflow simply bans folks who don't want their advice used to train AI](https://www.theregister.com/2024/05/09/stack_overflow_banning_users_who/)
 - [Harvard Business Review - If There’s Only One Woman in Your Candidate Pool, There’s Statistically No Chance She’ll Be Hired](https://hbr.org/2016/04/if-theres-only-one-woman-in-your-candidate-pool-theres-statistically-no-chance-shell-be-hired)
 - [Microsoft - Microsoft announces US$1.7 billion investment to advance Indonesia’s cloud and AI ambitions](https://news.microsoft.com/apac/2024/04/30/microsoft-announces-us1-7-billion-investment-to-advance-indonesias-cloud-and-ai-ambitions)
 - [TechCrunch - Google lays off staff from Flutter, Dart and Python teams weeks before its developer conference](https://techcrunch.com/2024/05/01/google-lays-off-staff-from-flutter-dart-python-weeks-before-its-developer-conference/)
@@ -4690,6 +4715,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [VSCode - Using WebAssembly for Extension Development](https://code.visualstudio.com/blogs/2024/05/08/wasm)
 - [rebase-editor - Simple terminal based sequence editor for git interactive rebase](https://github.com/sjurba/rebase-editor)
 - [Scoop - A command-line installer for Windows](https://scoop.sh/)
 - [Jesse Duffield - Make advanced Git tasks simple with Lazygit](https://opensource.com/article/20/3/lazygit)
@@ -4789,6 +4815,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Daniel Bass - 45 Questions to Ask Yourself Before Modeling Authorization](https://www.permit.io/blog/45-questions-to-ask-yourself-before-modeling-authorization)
 - [William Brown - Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream)
 - [Orca Security - LeakyCLI: AWS and Google Cloud Command-Line Tools Can Expose Sensitive Credentials in Build Logs](https://orca.security/resources/blog/leakycli-aws-google-cloud-command-line-tools-can-expose-sensitive-credentials-build-logs/)
 - [PuTTY - Vulnerability vuln-p521-bias - private keys are exposed by biased signature generation](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
