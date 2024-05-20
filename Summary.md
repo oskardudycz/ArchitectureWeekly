@@ -62,6 +62,14 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [📺 Oskar Dudycz - Let's build the worst Event Sourcing system!](https://www.youtube.com/watch?v=20zvAJAhqS0)
+- [ArsTechnica - “Unprecedented” Google Cloud event wipes out customer account and its backups](https://arstechnica.com/gadgets/2024/05/google-cloud-accidentally-nukes-customer-account-causes-two-weeks-of-downtime/)
+- [chubernetes - Evolution of Monolithic Systems](https://chubernetes.com/evolution-of-monolithic-systems-c20156f06907)
+- [📺 Tech Leaders Launchpad - How to Stay Adaptable as a Startup  CTO with Chris Simon](https://www.youtube.com/watch?v=sIDOt4WbOkQ)
+- [Udi Dahan - Race Conditions Don’t Exist](https://udidahan.com/2010/08/31/race-conditions-dont-exist/)
+- [Learn Software Architecture - The Functional Turn: Rethinking Programming Paradigms - LIVE interview with Urs Enzler](https://www.youtube.com/watch?v=l5ydTALH6YU)
+- [Uptime - Building sustainable software architectures using residuality theory](https://www.uptime.eu/building-sustainable-software-architectures-using-residuality-theory/)
+- [James Shore - Free Self-Guided “Testing Without Mocks” Training](https://www.jamesshore.com/v2/blog/2024/free-self-guided-testing-without-mocks-training)
 - [Joshua Bloch - How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)
 - [Eugene Yan - Simplicity is An Advantage but Sadly Complexity Sells Better](https://eugeneyan.com/writing/simplicity/)
 - [Eberhard Wolff & Alberto Brandolini: The Chasm Between Architecture and Business](https://www.youtube.com/watch?v=n89L3I8P7uQ)
@@ -1403,6 +1411,12 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Oskar Dudycz - Docker Compose Profiles, one the most useful and underrated features](https://event-driven.io/en/docker_compose_profiles/?utm_source=architecture_weekly)
+- [The Stack - Oracle goes vegan: Dumps Terraform for OpenTofu](https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/)
+- [Maciej Pocwierz - How an empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)
+- [AWS - Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
+- [Marc Campbell - Understanding how uid and gid work in Docker containers](https://medium.com/@mccode/understanding-how-uid-and-gid-work-in-docker-containers-c37a01d01cf)
+- [GitHub - dependabot-core is now open source with an MIT license](https://github.blog/changelog/2024-05-13-dependabot-core-is-now-open-source-with-an-mit-license/)
 - [Timescale - A Deep Dive Into OpenTelemetry Metrics](https://www.timescale.com/blog/a-deep-dive-into-open-telemetry-metrics/)
 - [Docker - Wasm vs. Docker: Performant, Secure, and Versatile Containers](https://www.docker.com/blog/wasm-vs-docker/)
 - [Bert Wullems - Kubernetes–Setup a local cluster through Podman Desktop](https://bartwullems.blogspot.com/2024/05/kubernetessetup-local-cluster-through.html)
@@ -1825,6 +1839,8 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Emily Bache - I REGRET Not Telling Dave Farley THIS about Approval Testing](https://github.blog/changelog/2024-05-13-dependabot-core-is-now-open-source-with-an-mit-license/)
+- [Hillel Wayne - "Integration tests" are just vibes](https://buttondown.email/hillelwayne/archive/integration-tests-are-just-vibes/?trk=feed_main-feed-card_reshare_feed-article-content)
 - [Steve Berczuk - Really Dumb Tests](https://www.berczuk.com/2009/05/really-dumb-tests.html)
 - [MailCrab - Email test server for development, written in Rust](https://github.com/tweedegolf/mailcrab)
 - [J. B. Rainsberger - TDD: You're Probably Doing It Just Fine](https://blog.thecodewhisperer.com/permalink/tdd-youre-probably-doing-it-just-fine)
@@ -1958,6 +1974,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Alejandro García Montoro - Making a Postgres query 1,000 times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
 - [AWS - Data modeling with Amazon DocumentDB](https://d1.awsstatic.com/product-marketing/Data%20modeling%20with%20Amazon%20DocumentDB.pdf)
 - [Supabase - Supabase Storage: now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
 - [Marc Brooker - MemoryDB: Speed, Durability, and Composition.](https://brooker.co.za/blog/2024/04/25/memorydb.html)
@@ -2221,6 +2238,9 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [Reuters - OpenAI strikes deal to bring Reddit content to ChatGPT](https://www.reuters.com/markets/deals/openai-strikes-deal-bring-reddit-content-chatgpt-2024-05-16/)
+- [Slack - How Slack protects your data when using machine learning and AI](https://slack.com/intl/en-gb/blog/news/how-slack-protects-your-data-when-using-machine-learning-and-ai)
+- [The NewYork Times - What Do You Do When A.I. Takes Your Voice?](https://www.nytimes.com/2024/05/16/technology/ai-voice-clone-lawsuit.html)
 - [Jay Alammar - The Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/)
 - [📺 Michelle Frost - The Elephant in your Dataset: Addressing Bias in Machine Learning](https://www.youtube.com/watch?v=I79NNl0Ckqs)
 - [Martin Fowler - An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
@@ -2379,6 +2399,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Saurabh Sharma, Jordan Rosenbloom - Event Driven Architecture using Amazon EventBridge – Part 1](https://aws.amazon.com/blogs/mt/event-driven-architecture-using-amazon-eventbridge/)
 - [AWS - Improving Developer Productivity at Disney with Serverless and Open Source](https://aws.amazon.com/blogs/opensource/improving-developer-productivity-at-disney-with-serverless-and-open-source/)
 - [Luca Mezzalira - AWS Lambda under the hood](https://portal.gitnation.org/contents/aws-lambda-under-the-hood?trk=feed_main-feed-card_feed-article-content)
 - [AWS Compute Blog - Comparing design approaches for building serverless microservices](https://aws.amazon.com/blogs/compute/comparing-design-approaches-for-building-serverless-microservices/)
@@ -2532,6 +2553,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Microsoft - .NET 7 will reach End of Support on May 14, 2024](https://devblogs.microsoft.com/dotnet/dotnet-7-end-of-support/)
+- [Dan Clarke - Snapshot Testing with Verify](https://www.danclarke.com/snapshot-testing-with-verify)
+- [📺 Aaron Stannard - Make Illegal States Unrepresentable - N+1 and Arithmetic Errors](https://www.youtube.com/watch?v=GylNVtEK_L8)
+- [Martin Thwaites - Trace Propagation and Public API Endpoints in .NET – Part 1 (Disable All)](https://martinjt.me/2023/07/07/trace-propagation-and-public-api-endpoints-in-net-part-1-disable-all/)
 - [Aaron Stannard - Easy, Database Agnostic NET Event Sourcing and CQRS with Akka.NET](https://www.youtube.com/watch?v=ysXBz2s5W00)
 - [João Antunes - Where are my traces? (weird .NET meets OpenTelemetry gotcha)](https://blog.codingmilitia.com/2024/05/13/where-are-my-traces-weird-dotnet-meets-opentelemetry-gotcha/)
 - [Stephen Toub, Scott Hanselman - Deep Dive into RegEx](https://www.youtube.com/watch?v=ptKjWPC7pqw)
@@ -3359,6 +3384,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [📺 Natan Silnitsky - Supercharge Your Developer Journey with Tiny Atomic Habits](https://www.youtube.com/watch?v=WvRWQGCo5Cg)
 - [Adam Tornhill - Programming like it's 1977: exploring the Atari VCS](https://adamtornhill.com/articles/atari-vcs/programming-like-in-1977.html)
 - [Jared Turner - WIP is waste](https://thoughtbot.com/blog/wip-is-waste)
 - [Gareth Edwards - She Built a Microcomputer Empire From Her Suburban Home. The untold story of Lore Harp McGovern](https://every.to/the-crazy-ones/the-woman-that-tech-history-forgot)
@@ -3852,6 +3878,7 @@
 - [Brad Frost - The art of design system recipes](https://bradfrost.com/blog/post/the-art-of-design-system-recipes/)]
 
 ## Java
+- [OpenJDK - JEP 467: Markdown Documentation Comments](https://openjdk.org/jeps/467)
 - [Oskar Dudycz - How to write a left-fold streams collector in Java](https://event-driven.io/en/how_to_write_left_fold_collector_in_java/?utm_source=architecture_weekly)
 - [Oskar Dudycz - This is not your uncle's Java! Modelling with Java 22 records pattern matching in practice](https://event-driven.io/en/this_is_not_your_uncle_java/?utm_source=Architecture_Weekly)
 - [📺 Brian Goetz - Java Language Update -- a look at where the language is going](https://www.youtube.com/watch?v=bKwzONOGLxs)
@@ -3999,6 +4026,7 @@
 - [Piotr Przybył - Java Records for the Intrigued](https://www.youtube.com/watch?v=zkFXlOhSuzI)
 
 ## JVM
+- [Tobi Ajila - Optimizing JVM for the Cloud: Strategies for Success](https://www.infoq.com/presentations/jvm-optimization-cloud)
 - [Jean-Philippe Bempel - Chasing a Metaspace leak](https://jpbempel.github.io/2023/12/01/metaspaceleak.html)
 - [Adam Warski - Limits of Loom's performance](https://softwaremill.com/limits-of-looms-performance/)
 - [Luiz Hespanha, Flavio Brasil - A JVM threading model for the containerized times](https://www.youtube.com/watch?v=APNV_0I7nbs)
@@ -4320,6 +4348,7 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [J. Terrell, A. Kofink, J. Middleton, C. Rainear - Gender bias in open source: Pull request acceptance of women versus men](https://www.researchgate.net/publication/308716997_Gender_bias_in_open_source_Pull_request_acceptance_of_women_versus_men)
 - [OpenAI - API Partnership with Stack Overflow](https://openai.com/index/api-partnership-with-stack-overflow/)
 - [The Register - Stack Overflow simply bans folks who don't want their advice used to train AI](https://www.theregister.com/2024/05/09/stack_overflow_banning_users_who/)
 - [Harvard Business Review - If There’s Only One Woman in Your Candidate Pool, There’s Statistically No Chance She’ll Be Hired](https://hbr.org/2016/04/if-theres-only-one-woman-in-your-candidate-pool-theres-statistically-no-chance-shell-be-hired)
@@ -4815,6 +4844,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Infiscal - Open Source Secret Management](https://infisical.com/)
+- [The Verge - Single-tap passkeys are coming to Android 15](https://www.theverge.com/2024/5/17/24158963/gboard-passkeys-android-15-wear-os-5)
 - [Daniel Bass - 45 Questions to Ask Yourself Before Modeling Authorization](https://www.permit.io/blog/45-questions-to-ask-yourself-before-modeling-authorization)
 - [William Brown - Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream)
 - [Orca Security - LeakyCLI: AWS and Google Cloud Command-Line Tools Can Expose Sensitive Credentials in Build Logs](https://orca.security/resources/blog/leakycli-aws-google-cloud-command-line-tools-can-expose-sensitive-credentials-build-logs/)
@@ -5042,6 +5073,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Paul Graham - Keep Your Identity Small](https://paulgraham.com/identity.html)
 - [ArsTechnica - After 48 years, Zilog is killing the classic standalone Z80 microprocessor chip](https://arstechnica.com/gadgets/2024/04/after-48-years-zilog-is-killing-the-classic-standalone-z80-microprocessor-chip)
 - [Maria Farrell - We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
 - [Werner Vogels - District heating: Using data centers to heat communities](https://www.allthingsdistributed.com/2024/03/district-heating-using-data-centers-to-heat-communities.html)

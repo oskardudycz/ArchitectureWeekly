@@ -1,6 +1,6 @@
 # Upcoming Links
 
-## 12th May 2024
+## 27th May 2024
 
 **[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
@@ -9,58 +9,49 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ### Architecture
-- [📺 Oskar Dudycz - Let's build the worst Event Sourcing system!](https://www.youtube.com/watch?v=20zvAJAhqS0)
-- [ArsTechnica - “Unprecedented” Google Cloud event wipes out customer account and its backups](https://arstechnica.com/gadgets/2024/05/google-cloud-accidentally-nukes-customer-account-causes-two-weeks-of-downtime/)
-- [chubernetes - Evolution of Monolithic Systems](https://chubernetes.com/evolution-of-monolithic-systems-c20156f06907)
-- [📺 Tech Leaders Launchpad - How to Stay Adaptable as a Startup  CTO with Chris Simon](https://www.youtube.com/watch?v=sIDOt4WbOkQ)
-- [Udi Dahan - Race Conditions Don’t Exist](https://udidahan.com/2010/08/31/race-conditions-dont-exist/)
-- [Learn Software Architecture - The Functional Turn: Rethinking Programming Paradigms - LIVE interview with Urs Enzler](https://www.youtube.com/watch?v=l5ydTALH6YU)
-- [Uptime - Building sustainable software architectures using residuality theory](https://www.uptime.eu/building-sustainable-software-architectures-using-residuality-theory/)
-- [James Shore - Free Self-Guided “Testing Without Mocks” Training](https://www.jamesshore.com/v2/blog/2024/free-self-guided-testing-without-mocks-training)
+- [Uber - Migrating a Trillion Entries of Uber’s Ledger Data from DynamoDB to LedgerStore](https://www.uber.com/en-AU/blog/migrating-from-dynamodb-to-ledgerstore/)
+- [The Register - Google Cloud shows it can break things for lots of customers – not just one at a time](https://www.theregister.com/2024/05/20/google_cloud_network_outage/)
+- [Pinterest Engineering - How a one line change decreased our clone times by 99%](https://medium.com/pinterest-engineering/how-a-one-line-change-decreased-our-build-times-by-99-b98453265370)
+- [the engineering club - Inverse-Conway-Maneuver with Nick Tune](https://www.listennotes.com/podcasts/the-engineering-club/001-inverse-conway-maneuver-FIpGo5kAZ3m/)
+- [Jonny LeRoy - Dealing with creaky legacy platforms](https://jonnyleroy.com/2011/02/03/dealing-with-creaky-legacy-platforms/)
+- [Bruno Costa - You probably don’t need microservices](https://www.thrownewexception.com/you-probably-dont-need-microservices/)
+- [Adam Bellemare - Preventing and Fixing Bad Data in Event Streams — Part 2](https://medium.com/@adam.bellemare/preventing-and-fixing-bad-data-in-event-streams-part-2-526e459c7c6f)
+- [📺 Developer Voices - Mojo Lang - Tomorrow's High Performance Python? (with Chris Lattner)](https://www.youtube.com/watch?v=JRcXUuQYR90)
+- [Maaret Pyhäjärvi - Making Releases Routine](https://dev.to/maaretp/making-releases-routine-b9a)
+- [Antithesis - The worst bug we faced at Antithesis](https://antithesis.com/blog/worst_bug/)
+- [J. Liu, S. Poulsen, E. Goodwin, H. Chen, G. Williams, Y. Gertner, D. Franklin - Teaching Algorithm Design: A Literature Review](https://arxiv.org/abs/2405.00832)
+- [David Boike - What does idempotent mean in software systems?](https://particular.net/blog/what-does-idempotent-mean)
 
 ### DevOps
-- [Oskar Dudycz - Docker Compose Profiles, one the most useful and underrated features](https://event-driven.io/en/docker_compose_profiles/?utm_source=architecture_weekly)
-- [The Stack - Oracle goes vegan: Dumps Terraform for OpenTofu](https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/)
-- [Maciej Pocwierz - How an empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)
-- [Marc Campbell - Understanding how uid and gid work in Docker containers](https://medium.com/@mccode/understanding-how-uid-and-gid-work-in-docker-containers-c37a01d01cf)
-- [GitHub - dependabot-core is now open source with an MIT license](https://github.blog/changelog/2024-05-13-dependabot-core-is-now-open-source-with-an-mit-license/)
+- [Joseph Lynch - How Netflix Ensures Highly-Reliable Online Stateful Systems](https://www.infoq.com/articles/netflix-highly-reliable-stateful-systems/)
 
 ### Databases
-- [Alejandro García Montoro - Making a Postgres query 1,000 times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
+- [Mike Stonebraker - Introducing DBOS Cloud: Transactional Serverless Computing on a Cloud-Native OS](https://www.dbos.dev/blog/announcing-dbos)
+- [Alexander Belanger - An unfair advantage: multi-tenant queues in Postgres](https://docs.hatchet.run/blog/multi-tenant-queues)
+- [Jonathan Katz - Scalar and binary quantization for pgvector vector search and storage](https://jkatz05.com/post/postgres/pgvector-scalar-binary-quantization/)
 
-### Testing
-- [Emily Bache - I REGRET Not Telling Dave Farley THIS about Approval Testing](https://github.blog/changelog/2024-05-13-dependabot-core-is-now-open-source-with-an-mit-license/)
-- [Hillel Wayne - "Integration tests" are just vibes](https://buttondown.email/hillelwayne/archive/integration-tests-are-just-vibes/?trk=feed_main-feed-card_reshare_feed-article-content)
-
-### AI
-- [Reuters - OpenAI strikes deal to bring Reddit content to ChatGPT](https://www.reuters.com/markets/deals/openai-strikes-deal-bring-reddit-content-chatgpt-2024-05-16/)
-- [Slack - How Slack protects your data when using machine learning and AI](https://slack.com/intl/en-gb/blog/news/how-slack-protects-your-data-when-using-machine-learning-and-ai)
-- [The NewYork Times - What Do You Do When A.I. Takes Your Voice?](https://www.nytimes.com/2024/05/16/technology/ai-voice-clone-lawsuit.html)
-
-### AWS
-- [Saurabh Sharma, Jordan Rosenbloom - Event Driven Architecture using Amazon EventBridge – Part 1](https://aws.amazon.com/blogs/mt/event-driven-architecture-using-amazon-eventbridge/)
+### Frontend
+- [Minko Gechev - Angular v18 is now available!](https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe)
+- [Jack Herrington - React Compiler With React 18](https://jherr2020.medium.com/react-compiler-with-react-18-1e39f60ae71a)
+- [React - React Compiler](https://react.dev/learn/react-compiler)
 
 ### Java
-- [OpenJDK - JEP 467: Markdown Documentation Comments](https://openjdk.org/jeps/467)
+- [Aleksey Stukalov, Catherine Edelveis - Java Runtimes: Insights From the Spring Boot Point of View](https://blog.jetbrains.com/idea/2024/05/java-runtimes-insights-from-the-spring-boot-point-of-view/)
 
-### JVM
-- [Tobi Ajila - Optimizing JVM for the Cloud: Strategies for Success](https://www.infoq.com/presentations/jvm-optimization-cloud)
+### Kotlin
+- [Artur Skowronski - Kotlin 2.0 & opinionated Wrap-up of KotlinConf 2024 – JVM Weekly vol. 84](https://vived.substack.com/p/kotlin-20-and-opinionated-wrap-up)
+- [JetBrains - Celebrating Kotlin 2.0: Fast, Smart, and Multiplatform](https://blog.jetbrains.com/kotlin/2024/05/celebrating-kotlin-2-0-fast-smart-and-multiplatform/)
+- [Kotlin - What's new in Kotlin 2.0.0](https://kotlinlang.org/docs/whatsnew20.html)
 
 ### .NET
-- [Microsoft - .NET 7 will reach End of Support on May 14, 2024](https://devblogs.microsoft.com/dotnet/dotnet-7-end-of-support/)
-- [Dan Clarke - Snapshot Testing with Verify](https://www.danclarke.com/snapshot-testing-with-verify)
-- [📺 Aaron Stannard - Make Illegal States Unrepresentable - N+1 and Arithmetic Errors](https://www.youtube.com/watch?v=GylNVtEK_L8)
-- [Martin Thwaites - Trace Propagation and Public API Endpoints in .NET – Part 1 (Disable All)](https://martinjt.me/2023/07/07/trace-propagation-and-public-api-endpoints-in-net-part-1-disable-all/)
+- [Oskar Dudycz - Why you should batch message processing and how to do it with .NET AsyncEnumerable](https://event-driven.io/en/batching_async_enumerable/?utm_source=architecture_weekly)
+- [Microsoft - General Availability of .NET Aspire: Simplifying .NET Cloud-Native Development](https://devblogs.microsoft.com/dotnet/dotnet-aspire-general-availability/)
+- [Microsoft - .NET Announcements and Updates from Microsoft Build 2024](https://devblogs.microsoft.com/dotnet/dotnet-build-2024-announcements)
+- [Andrew Lock - Thoughts about primary constructors: 3 pros and 5 cons](https://andrewlock.net/thoughts-about-primary-constructors-3-pros-and-5-cons)
+- [Chris Simon - TDD, DDD, and C# from the Ground Up](https://www.youtube.com/watch?v=gXz7gKtRVpM)
 
-### Coding Life
-- [📺 Natan Silnitsky - Supercharge Your Developer Journey with Tiny Atomic Habits](https://www.youtube.com/watch?v=WvRWQGCo5Cg)
+### Tools
+- [Gorilla CLI - LLMs for your CLI . Powers your command-line interactions with a user-centric tool](https://github.com/gorilla-llm/gorilla-cli)
 
-### Industry
-- [J. Terrell, A. Kofink, J. Middleton, C. Rainear - Gender bias in open source: Pull request acceptance of women versus men](https://www.researchgate.net/publication/308716997_Gender_bias_in_open_source_Pull_request_acceptance_of_women_versus_men)
-
-### Security
-- [Infiscal - Open Source Secret Management](https://infisical.com/)
-- [The Verge - Single-tap passkeys are coming to Android 15](https://www.theverge.com/2024/5/17/24158963/gboard-passkeys-android-15-wear-os-5)
-
-### Trivia
-- [Paul Graham - Keep Your Identity Small](https://paulgraham.com/identity.html)
+### Management
+- [Aleix Morgadas - Awesome Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy)
