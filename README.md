@@ -35,9 +35,9 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ### Architecture
-- [Joshua Bloch - How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)
+- [📺 Joshua Bloch - How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)
 - [Eugene Yan - Simplicity is An Advantage but Sadly Complexity Sells Better](https://eugeneyan.com/writing/simplicity/)
-- [Eberhard Wolff & Alberto Brandolini: The Chasm Between Architecture and Business](https://www.youtube.com/watch?v=n89L3I8P7uQ)
+- [📺 Eberhard Wolff & Alberto Brandolini: The Chasm Between Architecture and Business](https://www.youtube.com/watch?v=n89L3I8P7uQ)
 - [Mohit Palriwal - Unraveling the Enigma: Debunking Myths Surrounding Lambda Cold Starts](https://www.infoq.com/articles/aws-lambda-cold-starts-myths)
 - [Adam Bellemare - Preventing and Fixing Bad Data in Event Streams — Part 1](https://medium.com/@adam.bellemare/preventing-and-fixing-bad-data-in-event-streams-part-1-27bf2a99b48e)
 - [Matt Butcher - Polyglot Programming with WebAssembly: A Practical Approach ](https://www.infoq.com/articles/webassembly-component-model/)
@@ -58,7 +58,7 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Jay Alammar - The Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/)
 
 ### UX
-- [Dean Schuster - The Crisps and Pickle Story: What's Really Behind Infamous, Historic UI Failures?](https://www.youtube.com/watch?v=LM3Lkp0d4hw)
+- [📺 Dean Schuster - The Crisps and Pickle Story: What's Really Behind Infamous, Historic UI Failures?](https://www.youtube.com/watch?v=LM3Lkp0d4hw)
 - [How-To Geek - A Visual History of Windows Icons: From Windows 1 to 11](https://www.howtogeek.com/733912/a-visual-history-of-windows-icons-from-windows-1-to-11/)
 
 ### Java
@@ -68,9 +68,9 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 - [Zac Sweers - Preparing for K2](https://www.zacsweers.dev/preparing-for-k2)
 
 ### .NET
-- [Aaron Stannard - Easy, Database Agnostic NET Event Sourcing and CQRS with Akka.NET](https://www.youtube.com/watch?v=ysXBz2s5W00)
+- [📺 Aaron Stannard - Easy, Database Agnostic NET Event Sourcing and CQRS with Akka.NET](https://www.youtube.com/watch?v=ysXBz2s5W00)
 - [João Antunes - Where are my traces? (weird .NET meets OpenTelemetry gotcha)](https://blog.codingmilitia.com/2024/05/13/where-are-my-traces-weird-dotnet-meets-opentelemetry-gotcha/)
-- [Stephen Toub, Scott Hanselman - Deep Dive into RegEx](https://www.youtube.com/watch?v=ptKjWPC7pqw)
+- [📺 Stephen Toub, Scott Hanselman - Deep Dive into RegEx](https://www.youtube.com/watch?v=ptKjWPC7pqw)
 - [Richard Lander - Secure your container build and publish with .NET 8](https://devblogs.microsoft.com/dotnet/secure-your-container-build-and-publish-with-dotnet-8/)
 
 ### Tools
