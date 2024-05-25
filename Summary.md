@@ -62,6 +62,18 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Uber - Migrating a Trillion Entries of Uber’s Ledger Data from DynamoDB to LedgerStore](https://www.uber.com/en-AU/blog/migrating-from-dynamodb-to-ledgerstore/)
+- [The Register - Google Cloud shows it can break things for lots of customers – not just one at a time](https://www.theregister.com/2024/05/20/google_cloud_network_outage/)
+- [Pinterest Engineering - How a one line change decreased our clone times by 99%](https://medium.com/pinterest-engineering/how-a-one-line-change-decreased-our-build-times-by-99-b98453265370)
+- [the engineering club - Inverse-Conway-Maneuver with Nick Tune](https://www.listennotes.com/podcasts/the-engineering-club/001-inverse-conway-maneuver-FIpGo5kAZ3m/)
+- [Jonny LeRoy - Dealing with creaky legacy platforms](https://jonnyleroy.com/2011/02/03/dealing-with-creaky-legacy-platforms/)
+- [Bruno Costa - You probably don’t need microservices](https://www.thrownewexception.com/you-probably-dont-need-microservices/)
+- [Adam Bellemare - Preventing and Fixing Bad Data in Event Streams — Part 2](https://medium.com/@adam.bellemare/preventing-and-fixing-bad-data-in-event-streams-part-2-526e459c7c6f)
+- [📺 Developer Voices - Mojo Lang - Tomorrow's High Performance Python? (with Chris Lattner)](https://www.youtube.com/watch?v=JRcXUuQYR90)
+- [Maaret Pyhäjärvi - Making Releases Routine](https://dev.to/maaretp/making-releases-routine-b9a)
+- [Antithesis - The worst bug we faced at Antithesis](https://antithesis.com/blog/worst_bug/)
+- [J. Liu, S. Poulsen, E. Goodwin, H. Chen, G. Williams, Y. Gertner, D. Franklin - Teaching Algorithm Design: A Literature Review](https://arxiv.org/abs/2405.00832)
+- [David Boike - What does idempotent mean in software systems?](https://particular.net/blog/what-does-idempotent-mean)
 - [📺 Oskar Dudycz - Let's build the worst Event Sourcing system!](https://www.youtube.com/watch?v=20zvAJAhqS0)
 - [ArsTechnica - “Unprecedented” Google Cloud event wipes out customer account and its backups](https://arstechnica.com/gadgets/2024/05/google-cloud-accidentally-nukes-customer-account-causes-two-weeks-of-downtime/)
 - [chubernetes - Evolution of Monolithic Systems](https://chubernetes.com/evolution-of-monolithic-systems-c20156f06907)
@@ -1411,6 +1423,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Joseph Lynch - How Netflix Ensures Highly-Reliable Online Stateful Systems](https://www.infoq.com/articles/netflix-highly-reliable-stateful-systems/)
 - [Oskar Dudycz - Docker Compose Profiles, one the most useful and underrated features](https://event-driven.io/en/docker_compose_profiles/?utm_source=architecture_weekly)
 - [The Stack - Oracle goes vegan: Dumps Terraform for OpenTofu](https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/)
 - [Maciej Pocwierz - How an empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)
@@ -1683,6 +1696,9 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Minko Gechev - Angular v18 is now available!](https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe)
+- [Jack Herrington - React Compiler With React 18](https://jherr2020.medium.com/react-compiler-with-react-18-1e39f60ae71a)
+- [React - React Compiler](https://react.dev/learn/react-compiler)
 - [React - React 19 Beta is available](https://react.dev/blog/2024/04/25/react-19)
 - [📺 Theo - React 19 Is FINALLY Here](https://www.youtube.com/watch?v=sFeu_aK8cB8)
 - [📺 Theo - From 0 to Production - The Modern React Tutorial (RSCs, Next.js, Shadui, Drizzle, TS and more)](https://www.youtube.com/watch?v=d5x0JCZbAJs)
@@ -1974,6 +1990,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Mike Stonebraker - Introducing DBOS Cloud: Transactional Serverless Computing on a Cloud-Native OS](https://www.dbos.dev/blog/announcing-dbos)
+- [Alexander Belanger - An unfair advantage: multi-tenant queues in Postgres](https://docs.hatchet.run/blog/multi-tenant-queues)
+- [Jonathan Katz - Scalar and binary quantization for pgvector vector search and storage](https://jkatz05.com/post/postgres/pgvector-scalar-binary-quantization/)
 - [Alejandro García Montoro - Making a Postgres query 1,000 times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
 - [AWS - Data modeling with Amazon DocumentDB](https://d1.awsstatic.com/product-marketing/Data%20modeling%20with%20Amazon%20DocumentDB.pdf)
 - [Supabase - Supabase Storage: now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
@@ -2553,6 +2572,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - Why you should batch message processing and how to do it with .NET AsyncEnumerable](https://event-driven.io/en/batching_async_enumerable/?utm_source=architecture_weekly)
+- [Microsoft - General Availability of .NET Aspire: Simplifying .NET Cloud-Native Development](https://devblogs.microsoft.com/dotnet/dotnet-aspire-general-availability/)
+- [Microsoft - .NET Announcements and Updates from Microsoft Build 2024](https://devblogs.microsoft.com/dotnet/dotnet-build-2024-announcements)
+- [Andrew Lock - Thoughts about primary constructors: 3 pros and 5 cons](https://andrewlock.net/thoughts-about-primary-constructors-3-pros-and-5-cons)
+- [Chris Simon - TDD, DDD, and C# from the Ground Up](https://www.youtube.com/watch?v=gXz7gKtRVpM)
 - [Microsoft - .NET 7 will reach End of Support on May 14, 2024](https://devblogs.microsoft.com/dotnet/dotnet-7-end-of-support/)
 - [Dan Clarke - Snapshot Testing with Verify](https://www.danclarke.com/snapshot-testing-with-verify)
 - [📺 Aaron Stannard - Make Illegal States Unrepresentable - N+1 and Arithmetic Errors](https://www.youtube.com/watch?v=GylNVtEK_L8)
@@ -3666,6 +3690,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Aleix Morgadas - Awesome Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy)
 - [Dale H. Emery - Resistance as a Resource](https://dhemery.com/articles/resistance_as_a_resource/)
 - [James Shore - A Software Engineering Career Ladder](https://www.jamesshore.com/v2/blog/2024/a-software-engineering-career-ladder)
 - [Hazel Weakly - Observations of Leadership (Part One)](https://hazelweakly.me/blog/observations-of-leadership-part-one/)
@@ -3878,6 +3903,7 @@
 - [Brad Frost - The art of design system recipes](https://bradfrost.com/blog/post/the-art-of-design-system-recipes/)]
 
 ## Java
+- [Aleksey Stukalov, Catherine Edelveis - Java Runtimes: Insights From the Spring Boot Point of View](https://blog.jetbrains.com/idea/2024/05/java-runtimes-insights-from-the-spring-boot-point-of-view/)
 - [OpenJDK - JEP 467: Markdown Documentation Comments](https://openjdk.org/jeps/467)
 - [Oskar Dudycz - How to write a left-fold streams collector in Java](https://event-driven.io/en/how_to_write_left_fold_collector_in_java/?utm_source=architecture_weekly)
 - [Oskar Dudycz - This is not your uncle's Java! Modelling with Java 22 records pattern matching in practice](https://event-driven.io/en/this_is_not_your_uncle_java/?utm_source=Architecture_Weekly)
@@ -4256,6 +4282,9 @@
 - [InfoWorld - Google Cloud targets high performance workloads with Arm-based VMs and Batch job scheduling](https://www.infoworld.com/article/3666527/google-cloud-adds-arm-based-vms-and-automated-job-scheduling.html)
 
 ## Kotlin
+- [Artur Skowronski - Kotlin 2.0 & opinionated Wrap-up of KotlinConf 2024 – JVM Weekly vol. 84](https://vived.substack.com/p/kotlin-20-and-opinionated-wrap-up)
+- [JetBrains - Celebrating Kotlin 2.0: Fast, Smart, and Multiplatform](https://blog.jetbrains.com/kotlin/2024/05/celebrating-kotlin-2-0-fast-smart-and-multiplatform/)
+- [Kotlin - What's new in Kotlin 2.0.0](https://kotlinlang.org/docs/whatsnew20.html)
 - [Zac Sweers - Preparing for K2](https://www.zacsweers.dev/preparing-for-k2)
 - [JetBrains - Kotlin 1.9.0 Released](https://blog.jetbrains.com/kotlin/2023/07/kotlin-1-9-0-released/)
 - [Engineering at Meta - From zero to 10 million lines of Kotlin](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/)
@@ -4744,6 +4773,7 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Gorilla CLI - LLMs for your CLI . Powers your command-line interactions with a user-centric tool](https://github.com/gorilla-llm/gorilla-cli)
 - [VSCode - Using WebAssembly for Extension Development](https://code.visualstudio.com/blogs/2024/05/08/wasm)
 - [rebase-editor - Simple terminal based sequence editor for git interactive rebase](https://github.com/sjurba/rebase-editor)
 - [Scoop - A command-line installer for Windows](https://scoop.sh/)
