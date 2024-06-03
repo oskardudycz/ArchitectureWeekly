@@ -62,6 +62,11 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Google Cloud Blog - 5 myths about platform engineering: what it is and what it isn’t](https://cloud.google.com/blog/products/application-development/common-myths-about-platform-engineering/)
+- [Andy Jiang, Luca Casonato, Jo Franchetti - How to document your JavaScript package](https://deno.com/blog/document-javascript-package)
+- [Afrefs - How Ahrefs Gets a Billion Dollar-Worth Infrastructure With a 90% Discount](https://tech.ahrefs.com/how-ahrefs-gets-a-billion-dollar-worth-infrastructure-with-a-90-discount-5edd473b2399)
+- [Tommi Hovi - Demystifying cookies and tokens](https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/)
+- [Decentralized Identity Foundation - Decentralized Identifiers (DIDs) as an Identifier Metasystem](https://blog.identity.foundation/decentralized-identifiers-dids-as-an-identifier-metasystem/)
 - [Uber - Migrating a Trillion Entries of Uber’s Ledger Data from DynamoDB to LedgerStore](https://www.uber.com/en-AU/blog/migrating-from-dynamodb-to-ledgerstore/)
 - [The Register - Google Cloud shows it can break things for lots of customers – not just one at a time](https://www.theregister.com/2024/05/20/google_cloud_network_outage/)
 - [Pinterest Engineering - How a one line change decreased our clone times by 99%](https://medium.com/pinterest-engineering/how-a-one-line-change-decreased-our-build-times-by-99-b98453265370)
@@ -1423,6 +1428,7 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [GitHub - Introducing Artifact Attestations–now in public beta](https://github.blog/2024-05-02-introducing-artifact-attestations-now-in-public-beta/)
 - [Joseph Lynch - How Netflix Ensures Highly-Reliable Online Stateful Systems](https://www.infoq.com/articles/netflix-highly-reliable-stateful-systems/)
 - [Oskar Dudycz - Docker Compose Profiles, one the most useful and underrated features](https://event-driven.io/en/docker_compose_profiles/?utm_source=architecture_weekly)
 - [The Stack - Oracle goes vegan: Dumps Terraform for OpenTofu](https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/)
@@ -1696,6 +1702,7 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Dan Abramov - React for Two Computers](https://www.youtube.com/watch?v=wcj5LSVcxJc)
 - [Minko Gechev - Angular v18 is now available!](https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe)
 - [Jack Herrington - React Compiler With React 18](https://jherr2020.medium.com/react-compiler-with-react-18-1e39f60ae71a)
 - [React - React Compiler](https://react.dev/learn/react-compiler)
@@ -1855,6 +1862,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Matteo Vaccari - Test-Driving HTML Templates](https://martinfowler.com/articles/tdd-html-templates.html)
 - [Emily Bache - I REGRET Not Telling Dave Farley THIS about Approval Testing](https://github.blog/changelog/2024-05-13-dependabot-core-is-now-open-source-with-an-mit-license/)
 - [Hillel Wayne - "Integration tests" are just vibes](https://buttondown.email/hillelwayne/archive/integration-tests-are-just-vibes/?trk=feed_main-feed-card_reshare_feed-article-content)
 - [Steve Berczuk - Really Dumb Tests](https://www.berczuk.com/2009/05/really-dumb-tests.html)
@@ -1990,6 +1998,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Markus Winand - Use the Index, Luke! A Guide to Database Performance for Developers](https://use-the-index-luke.com/)
+- [CedarDB - An ode to PostgreSQL, and why it is still time to start over](https://cedardb.com/blog/ode_to_postgres/)
 - [Mike Stonebraker - Introducing DBOS Cloud: Transactional Serverless Computing on a Cloud-Native OS](https://www.dbos.dev/blog/announcing-dbos)
 - [Alexander Belanger - An unfair advantage: multi-tenant queues in Postgres](https://docs.hatchet.run/blog/multi-tenant-queues)
 - [Jonathan Katz - Scalar and binary quantization for pgvector vector search and storage](https://jkatz05.com/post/postgres/pgvector-scalar-binary-quantization/)
@@ -2418,6 +2428,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [AWS Database Blog - Continuously replicate Amazon DynamoDB changes to Amazon Aurora PostgreSQL using AWS Lambda](https://aws.amazon.com/blogs/database/continuously-replicate-amazon-dynamodb-changes-to-amazon-aurora-postgresql-using-aws-lambda)
 - [Saurabh Sharma, Jordan Rosenbloom - Event Driven Architecture using Amazon EventBridge – Part 1](https://aws.amazon.com/blogs/mt/event-driven-architecture-using-amazon-eventbridge/)
 - [AWS - Improving Developer Productivity at Disney with Serverless and Open Source](https://aws.amazon.com/blogs/opensource/improving-developer-productivity-at-disney-with-serverless-and-open-source/)
 - [Luca Mezzalira - AWS Lambda under the hood](https://portal.gitnation.org/contents/aws-lambda-under-the-hood?trk=feed_main-feed-card_feed-article-content)
@@ -2572,6 +2583,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Damien Bod - Implement a Microsoft Entra ID external authentication method using ASP.NET Core and OpenIddict](https://damienbod.com/2024/05/27/implement-a-microsoft-entra-id-external-authentication-method-using-asp-net-core-and-openiddict/)
+- [Michael Staib - Getting Started with OpenTelemetry and GraphQL in .NET](https://www.youtube.com/watch?v=KfBV3GQ3760)
+- [Andrew Lock - Thoughts about primary constructors: 3 pros and 5 cons](https://andrewlock.net/thoughts-about-primary-constructors-3-pros-and-5-cons)
+- [dnvm - A command-line interface for installing and updating different dotnet SDKs](https://github.com/dn-vm/dnvm)
 - [Oskar Dudycz - Why you should batch message processing and how to do it with .NET AsyncEnumerable](https://event-driven.io/en/batching_async_enumerable/?utm_source=architecture_weekly)
 - [Microsoft - General Availability of .NET Aspire: Simplifying .NET Cloud-Native Development](https://devblogs.microsoft.com/dotnet/dotnet-aspire-general-availability/)
 - [Microsoft - .NET Announcements and Updates from Microsoft Build 2024](https://devblogs.microsoft.com/dotnet/dotnet-build-2024-announcements)
@@ -3408,6 +3423,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Mark Seemann - Fundamentals](https://blog.ploeh.dk/2024/05/20/fundamentals)
 - [📺 Natan Silnitsky - Supercharge Your Developer Journey with Tiny Atomic Habits](https://www.youtube.com/watch?v=WvRWQGCo5Cg)
 - [Adam Tornhill - Programming like it's 1977: exploring the Atari VCS](https://adamtornhill.com/articles/atari-vcs/programming-like-in-1977.html)
 - [Jared Turner - WIP is waste](https://thoughtbot.com/blog/wip-is-waste)
@@ -3903,6 +3919,8 @@
 - [Brad Frost - The art of design system recipes](https://bradfrost.com/blog/post/the-art-of-design-system-recipes/)]
 
 ## Java
+- [Nicolai Parlog - Model Data, the Whole Data, and Nothing but the Data - Data Oriented Programming v1.1](https://inside.java/2024/05/29/dop-v1-1-model-data/)
+- [Vlad Mihlacea - PostgreSQL COPY result set to file](https://vladmihalcea.com/postgresql-copy-result-set-file/)
 - [Aleksey Stukalov, Catherine Edelveis - Java Runtimes: Insights From the Spring Boot Point of View](https://blog.jetbrains.com/idea/2024/05/java-runtimes-insights-from-the-spring-boot-point-of-view/)
 - [OpenJDK - JEP 467: Markdown Documentation Comments](https://openjdk.org/jeps/467)
 - [Oskar Dudycz - How to write a left-fold streams collector in Java](https://event-driven.io/en/how_to_write_left_fold_collector_in_java/?utm_source=architecture_weekly)
@@ -4377,6 +4395,10 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Robin Dev - Cloudflare took down our website after trying to force us to pay 120k$ within 24h](https://robindev.substack.com/p/cloudflare-took-down-our-website)
+- [VentureBeat - Dell earnings reveal sluggish enterprise AI adoption](https://venturebeat.com/data-infrastructure/dell-earnings-reveal-sluggish-enterprise-ai-adoption/)
+- [TechRadar - EU ChatGPT Taskforce: a road to GDPR enforcement on AI?](https://www.techradar.com/computing/cyber-security/eu-chatgpt-taskforce-a-road-to-gdpr-enforcement-on-ai)
+- [Above the Law - Airline Said It's Not Responsible For Terrible Advice From Its Own Customer Service AI Bot. The Court... Disagreed.](https://abovethelaw.com/2024/02/airline-said-its-not-responsible-for-terrible-advice-from-its-own-customer-service-ai-bot-the-court-disagreed/)
 - [J. Terrell, A. Kofink, J. Middleton, C. Rainear - Gender bias in open source: Pull request acceptance of women versus men](https://www.researchgate.net/publication/308716997_Gender_bias_in_open_source_Pull_request_acceptance_of_women_versus_men)
 - [OpenAI - API Partnership with Stack Overflow](https://openai.com/index/api-partnership-with-stack-overflow/)
 - [The Register - Stack Overflow simply bans folks who don't want their advice used to train AI](https://www.theregister.com/2024/05/09/stack_overflow_banning_users_who/)
@@ -4874,6 +4896,9 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Kevin Beaumont - Snowflake at centre of world’s largest data breach](https://doublepulsar.com/snowflake-at-central-of-worlds-largest-data-breach-939fc400912e)
+- [ArsTechnica - Google Chrome’s plan to limit ad blocking extensions kicks off next week](https://arstechnica.com/gadgets/2024/05/google-starts-deprecating-older-more-capable-chrome-extensions-next-week/)
+- [Zeev Kalyuzhner - Exploiting LLMs: Unpacking Excessive Agency in a 6-Step Guide](https://medium.com/wix-engineering/exploiting-llms-unpacking-excessive-agency-in-a-6-step-guide-d8d8a7f8ac1f)
 - [Infiscal - Open Source Secret Management](https://infisical.com/)
 - [The Verge - Single-tap passkeys are coming to Android 15](https://www.theverge.com/2024/5/17/24158963/gboard-passkeys-android-15-wear-os-5)
 - [Daniel Bass - 45 Questions to Ask Yourself Before Modeling Authorization](https://www.permit.io/blog/45-questions-to-ask-yourself-before-modeling-authorization)
@@ -5103,6 +5128,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Computing: the Details - Call the compiler, fax it your code](https://www.youtube.com/watch?v=pJ-25-pRhpY)
 - [Paul Graham - Keep Your Identity Small](https://paulgraham.com/identity.html)
 - [ArsTechnica - After 48 years, Zilog is killing the classic standalone Z80 microprocessor chip](https://arstechnica.com/gadgets/2024/04/after-48-years-zilog-is-killing-the-classic-standalone-z80-microprocessor-chip)
 - [Maria Farrell - We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
