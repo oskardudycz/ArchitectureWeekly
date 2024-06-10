@@ -62,6 +62,15 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Oskar Dudycz - Combining the To-Do List and the Passage Of Time patterns for resilient business workflows](https://event-driven.io/en/to_do_list_and_passage_of_time_patterns_combined/?utm_source=architecture_weekly)
+- [Marc-Andre Giroux - Why, after 8 years, I still like GraphQL sometimes in the right context](https://www.magiroux.com/eight-years-of-graphql)
+- [Matt Bessey - Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
+- [📺 How About Tomorrow? Podcast - What Does “Full Stack” Mean? w/ Taylor Otwell and Ryan Florence](https://www.youtube.com/watch?v=cgxtLOYE2TE)
+- [📺 Mufrid Krilic - Multiple Models with Multiple Perspectives in a Cross-Functional Team](https://www.youtube.com/watch?v=JUNkVv--PBM)
+- [Ralf Westphal - Integration Operation Segregation Principle (IOSP)](https://ralfwestphal.substack.com/p/integration-operation-segregation)
+- [DocuEye - A tool that lets You visualize views and documentation created using Structurizr DSL](https://github.com/jacekzwpl/docueye)
+- [Matt Wynne - Introducing Example Mapping](https://cucumber.io/blog/bdd/example-mapping-introduction/)
+- [Gojko Adzic - Example Mapping](https://draft.io/example/example-mapping)
 - [Google Cloud Blog - 5 myths about platform engineering: what it is and what it isn’t](https://cloud.google.com/blog/products/application-development/common-myths-about-platform-engineering/)
 - [Andy Jiang, Luca Casonato, Jo Franchetti - How to document your JavaScript package](https://deno.com/blog/document-javascript-package)
 - [Afrefs - How Ahrefs Gets a Billion Dollar-Worth Infrastructure With a 90% Discount](https://tech.ahrefs.com/how-ahrefs-gets-a-billion-dollar-worth-infrastructure-with-a-90-discount-5edd473b2399)
@@ -1862,6 +1871,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [smtp4dev - the fake smtp email server for development and testing](https://github.com/rnwood/smtp4dev)
 - [Matteo Vaccari - Test-Driving HTML Templates](https://martinfowler.com/articles/tdd-html-templates.html)
 - [Emily Bache - I REGRET Not Telling Dave Farley THIS about Approval Testing](https://github.blog/changelog/2024-05-13-dependabot-core-is-now-open-source-with-an-mit-license/)
 - [Hillel Wayne - "Integration tests" are just vibes](https://buttondown.email/hillelwayne/archive/integration-tests-are-just-vibes/?trk=feed_main-feed-card_reshare_feed-article-content)
@@ -1998,6 +2008,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Stripe - How Stripe’s document databases supported 99.999% uptime with zero-downtime data migrations](https://stripe.com/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations)
+- [Lukas Fittl - Understanding Postgres GIN Indexes: The Good and the Bad](https://pganalyze.com/blog/gin-index)
 - [Markus Winand - Use the Index, Luke! A Guide to Database Performance for Developers](https://use-the-index-luke.com/)
 - [CedarDB - An ode to PostgreSQL, and why it is still time to start over](https://cedardb.com/blog/ode_to_postgres/)
 - [Mike Stonebraker - Introducing DBOS Cloud: Transactional Serverless Computing on a Cloud-Native OS](https://www.dbos.dev/blog/announcing-dbos)
@@ -2490,6 +2502,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Johnny Hooyberghs - Goodbye Azure Kubernetes Service! Hello Azure Container Apps!](https://www.youtube.com/watch?v=yGrE_yKWo58)
 - [Mateusz Jendza - Entra External ID for Customers - first impression](https://mjendza.net/post/entra-external-id-for-customers/)
 - [Microsoft - Trusted Signing is in Public Preview](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/trusted-signing-is-in-public-preview/ba-p/4103457)
 - [Piotr Stapp - Exploring Azure Container Apps (ACA) and the Missing YAML Functionality](https://stapp.space/ACA-missing-yaml/)
@@ -2583,6 +2596,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Ian Cooper - Practical Messaging](https://github.com/iancooper/practical-messaging)
+- [Dustin Campbell, Mads Torgersen - What’s new in C# 13](https://www.youtube.com/watch?v=O3hx6oPWzX8)
+- [Tim Deschryver - Consuming .NET Feature Flags within an Angular Application](https://timdeschryver.dev/blog/consuming-net-feature-flags-within-an-angular-application)
+- [Blazor.TSRuntime - An improved JSRuntime with automatic JS-module loading and caching, compile time errors instead of runtime errors and nice IntelliSense guidance](https://github.com/BlackWhiteYoshi/Blazor.TSRuntime)
 - [Damien Bod - Implement a Microsoft Entra ID external authentication method using ASP.NET Core and OpenIddict](https://damienbod.com/2024/05/27/implement-a-microsoft-entra-id-external-authentication-method-using-asp-net-core-and-openiddict/)
 - [Michael Staib - Getting Started with OpenTelemetry and GraphQL in .NET](https://www.youtube.com/watch?v=KfBV3GQ3760)
 - [Andrew Lock - Thoughts about primary constructors: 3 pros and 5 cons](https://andrewlock.net/thoughts-about-primary-constructors-3-pros-and-5-cons)
@@ -3423,6 +3440,7 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [ArsTechnica - Google accidentally published internal Search documentation to GitHub](https://arstechnica.com/gadgets/2024/06/google-accidentally-published-internal-search-documentation-to-github)
 - [Mark Seemann - Fundamentals](https://blog.ploeh.dk/2024/05/20/fundamentals)
 - [📺 Natan Silnitsky - Supercharge Your Developer Journey with Tiny Atomic Habits](https://www.youtube.com/watch?v=WvRWQGCo5Cg)
 - [Adam Tornhill - Programming like it's 1977: exploring the Atari VCS](https://adamtornhill.com/articles/atari-vcs/programming-like-in-1977.html)
@@ -3706,6 +3724,8 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Christiaan Verwijs - Why Science Is Essential To Professionalize Our Community](https://medium.com/the-liberators/why-science-is-essential-to-professionalize-our-community-e9fe5965258)
+- [Christiaan Verwijs & Daniel Russo -  Do Agile scaling approaches make a difference? an empirical comparison of team effectiveness across popular scaling approaches](https://link.springer.com/article/10.1007/s10664-024-10481-5)
 - [Aleix Morgadas - Awesome Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy)
 - [Dale H. Emery - Resistance as a Resource](https://dhemery.com/articles/resistance_as_a_resource/)
 - [James Shore - A Software Engineering Career Ladder](https://www.jamesshore.com/v2/blog/2024/a-software-engineering-career-ladder)
@@ -4173,6 +4193,11 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [Streams - Living Standard](https://streams.spec.whatwg.org/)
+- [📺 Matteo Collina - A Deep Dive into Node.js Streams](https://www.youtube.com/watch?v=edB964-YYpE)
+- [web-streams-polyfill - Web Streams, based on the WHATWG spec reference implementation](https://github.com/MattiasBuelens/web-streams-polyfill)
+- [Turbo - Turborepo 2.0 released](https://turbo.build/blog/turbo-2-0)
+- [Jack Herrington - NextJS 15: React 19, Less Caching, Turbopack, Better Hydration Errors and MORE from Vercel Ship!](https://www.youtube.com/watch?v=N2LzvfM2R5M)
 - [primate - Introducing rcompat, a JavaScript interoperability and runtime compatibility layer for servers](https://primatejs.com/blog/introducing-rcompat)
 - [Zachary Lee - Native Support for CJS/ESM Interoperability Begins in Node.js 22](https://zacharylee.substack.com/p/native-support-for-cjsesm-interoperability)
 - [Node.js - Node.js 22 is now available!](https://nodejs.org/en/blog/announcements/v22-release-announce)
@@ -4896,6 +4921,9 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Mat Duggan - IAM Is The Worst](https://matduggan.com/iam-is-the-worst/)
+- [Sam Curry - Hacking Millions of Modems (and Investigating Who Hacked My Modem)](https://samcurry.net/hacking-millions-of-modems)
+- [ArsTechnica - Microsoft is reworking Recall after researchers point out its security problems](https://arstechnica.com/gadgets/2024/06/microsoft-makes-recall-feature-off-by-default-after-security-and-privacy-backlash)
 - [Kevin Beaumont - Snowflake at centre of world’s largest data breach](https://doublepulsar.com/snowflake-at-central-of-worlds-largest-data-breach-939fc400912e)
 - [ArsTechnica - Google Chrome’s plan to limit ad blocking extensions kicks off next week](https://arstechnica.com/gadgets/2024/05/google-starts-deprecating-older-more-capable-chrome-extensions-next-week/)
 - [Kevin Beaumont - Stealing everything you’ve ever typed or viewed on your own Windows PC is now possible with two lines of code — inside the Copilot+ Recall disaster.](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
@@ -5129,6 +5157,8 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Gregor Hohpe - The Economics of Writing Technical Books](https://architectelevator.com/strategy/book-author-economics/)
+- [Alex Lawrence - The financial cost of writing a book](https://www.alex-lawrence.com/posts/the-financial-cost-of-writing-a-book/)
 - [Computing: the Details - Call the compiler, fax it your code](https://www.youtube.com/watch?v=pJ-25-pRhpY)
 - [Paul Graham - Keep Your Identity Small](https://paulgraham.com/identity.html)
 - [ArsTechnica - After 48 years, Zilog is killing the classic standalone Z80 microprocessor chip](https://arstechnica.com/gadgets/2024/04/after-48-years-zilog-is-killing-the-classic-standalone-z80-microprocessor-chip)

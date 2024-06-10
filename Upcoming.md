@@ -1,6 +1,6 @@
 # Upcoming Links
 
-## 10th June 2024
+## 17th June 2024
 
 **[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
@@ -9,51 +9,3 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ### Architecture
-- [Oskar Dudycz - Combining the To-Do List and the Passage Of Time patterns for resilient business workflows](https://event-driven.io/en/to_do_list_and_passage_of_time_patterns_combined/?utm_source=architecture_weekly)
-- [Marc-Andre Giroux - Why, after 8 years, I still like GraphQL sometimes in the right context](https://www.magiroux.com/eight-years-of-graphql)
-- [Matt Bessey - Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
-- [📺 How About Tomorrow? Podcast - What Does “Full Stack” Mean? w/ Taylor Otwell and Ryan Florence](https://www.youtube.com/watch?v=cgxtLOYE2TE)
-- [📺 Mufrid Krilic - Multiple Models with Multiple Perspectives in a Cross-Functional Team](https://www.youtube.com/watch?v=JUNkVv--PBM)
-- [Ralf Westphal - Integration Operation Segregation Principle (IOSP)](https://ralfwestphal.substack.com/p/integration-operation-segregation)
-- [DocuEye - A tool that lets You visualize views and documentation created using Structurizr DSL](https://github.com/jacekzwpl/docueye)
-- [Matt Wynne - Introducing Example Mapping](https://cucumber.io/blog/bdd/example-mapping-introduction/)
-- [Gojko Adzic - Example Mapping](https://draft.io/example/example-mapping)
-
-### Database
-- [Stripe - How Stripe’s document databases supported 99.999% uptime with zero-downtime data migrations](https://stripe.com/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations)
-- [Lukas Fittl - Understanding Postgres GIN Indexes: The Good and the Bad](https://pganalyze.com/blog/gin-index)
-
-### Testing
-- [smtp4dev - the fake smtp email server for development and testing](https://github.com/rnwood/smtp4dev)
-
-### Azure
-- [Johnny Hooyberghs - Goodbye Azure Kubernetes Service! Hello Azure Container Apps!](https://www.youtube.com/watch?v=yGrE_yKWo58)
-
-### Node.js
-- [Streams - Living Standard](https://streams.spec.whatwg.org/)
-- [📺 Matteo Collina - A Deep Dive into Node.js Streams](https://www.youtube.com/watch?v=edB964-YYpE)
-- [web-streams-polyfill - Web Streams, based on the WHATWG spec reference implementation](https://github.com/MattiasBuelens/web-streams-polyfill)
-- [Turbo - Turborepo 2.0 released](https://turbo.build/blog/turbo-2-0)
-- [Jack Herrington - NextJS 15: React 19, Less Caching, Turbopack, Better Hydration Errors and MORE from Vercel Ship!](https://www.youtube.com/watch?v=N2LzvfM2R5M)
-
-### .NET
-- [Ian Cooper - Practical Messaging](https://github.com/iancooper/practical-messaging)
-- [Dustin Campbell, Mads Torgersen - What’s new in C# 13](https://www.youtube.com/watch?v=O3hx6oPWzX8)
-- [Tim Deschryver - Consuming .NET Feature Flags within an Angular Application](https://timdeschryver.dev/blog/consuming-net-feature-flags-within-an-angular-application)
-- [Blazor.TSRuntime - An improved JSRuntime with automatic JS-module loading and caching, compile time errors instead of runtime errors and nice IntelliSense guidance](https://github.com/BlackWhiteYoshi/Blazor.TSRuntime)
-
-### Coding Life
-- [ArsTechnica - Google accidentally published internal Search documentation to GitHub](https://arstechnica.com/gadgets/2024/06/google-accidentally-published-internal-search-documentation-to-github)
-
-### Management
-- [Christiaan Verwijs - Why Science Is Essential To Professionalize Our Community](https://medium.com/the-liberators/why-science-is-essential-to-professionalize-our-community-e9fe5965258)
-- [Christiaan Verwijs & Daniel Russo -  Do Agile scaling approaches make a difference? an empirical comparison of team effectiveness across popular scaling approaches](https://link.springer.com/article/10.1007/s10664-024-10481-5)
-
-### Security
-- [Mat Duggan - IAM Is The Worst](https://matduggan.com/iam-is-the-worst/)
-- [Sam Curry - Hacking Millions of Modems (and Investigating Who Hacked My Modem)](https://samcurry.net/hacking-millions-of-modems)
-- [ArsTechnica - Microsoft is reworking Recall after researchers point out its security problems](https://arstechnica.com/gadgets/2024/06/microsoft-makes-recall-feature-off-by-default-after-security-and-privacy-backlash)
-
-### Trivia
-- [Gregor Hohpe - The Economics of Writing Technical Books](https://architectelevator.com/strategy/book-author-economics/)
-- [Alex Lawrence - The financial cost of writing a book](https://www.alex-lawrence.com/posts/the-financial-cost-of-writing-a-book/)
