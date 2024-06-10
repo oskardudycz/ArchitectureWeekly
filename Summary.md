@@ -4898,6 +4898,7 @@
 ## Security
 - [Kevin Beaumont - Snowflake at centre of world’s largest data breach](https://doublepulsar.com/snowflake-at-central-of-worlds-largest-data-breach-939fc400912e)
 - [ArsTechnica - Google Chrome’s plan to limit ad blocking extensions kicks off next week](https://arstechnica.com/gadgets/2024/05/google-starts-deprecating-older-more-capable-chrome-extensions-next-week/)
+- [Kevin Beaumont - Stealing everything you’ve ever typed or viewed on your own Windows PC is now possible with two lines of code — inside the Copilot+ Recall disaster.](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
 - [Zeev Kalyuzhner - Exploiting LLMs: Unpacking Excessive Agency in a 6-Step Guide](https://medium.com/wix-engineering/exploiting-llms-unpacking-excessive-agency-in-a-6-step-guide-d8d8a7f8ac1f)
 - [Infiscal - Open Source Secret Management](https://infisical.com/)
 - [The Verge - Single-tap passkeys are coming to Android 15](https://www.theverge.com/2024/5/17/24158963/gboard-passkeys-android-15-wear-os-5)
