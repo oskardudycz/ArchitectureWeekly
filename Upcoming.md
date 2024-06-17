@@ -1,60 +1,9 @@
 # Upcoming Links
 
-## 17th June 2024
+## 24th June 2024
 
 **[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
 Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hurt, without shelter and need help. You can help in various ways, for instance, directly helping refugees, spreading awareness, putting pressure on your local government or companies. You can also support Ukraine by donating e.g. to [Red Cross](https://www.icrc.org/en/donate/ukraine), [Ukraine humanitarian organisation](https://savelife.in.ua/en/donate/) or [donate Ambulances for Ukraine](https://www.gofundme.com/f/help-to-save-the-lives-of-civilians-in-a-war-zone).
 
 ---
-
-### Architecture
-- [Sam Rose - Queueing. An interactive study of queueing strategies](https://encore.dev/blog/queueing)
-- [📺 William Brander - Top 5 techniques for building the worst microservice system ever](https://www.youtube.com/watch?v=88_LUw1Wwe4)
-- [📺 Developer Voices - Reimplementing Apache Kafka with Golang and S3](https://www.youtube.com/watch?v=xgzmxe6cj6A)
-- [Amarachi Iheanacho - Data journey through the Internet - The OSI model approach ](https://dev.to/amaraiheanacho/data-journey-through-the-internet-the-osi-model-approach-1n4a)
-
-### Databases
-- [Awesome DuckDB - A curated list of awesome DuckDB resources](https://github.com/davidgasquez/awesome-duckdb)
-- [Percona - PostgreSQL 17: Two Small Improvements That Will Have a Major Impact](https://www.percona.com/blog/postgresql-17-two-small-improvements-that-will-have-a-major-impact/?trk=feed_main-feed-card_feed-article-content)
-- [TimescaleDB - Fireside chat with AmazingCTO: Why use PostgreSQL for Everything?!](https://www.youtube.com/watch?v=lYsQ_riVC4Y)
-
-### JavaScript
-- [Isaac Junior - A Guide to the Temporal API in JavaScript](https://code.pieces.app/blog/javascript-temporal-api)
-
-### AI
-- [ArsTechnica - Apple unveils “Apple Intelligence” AI features for iOS, iPadOS, and macOS](https://arstechnica.com/information-technology/2024/06/for-apple-ai-now-stands-for-apple-intelligence-launched-at-wwdc-2024/)
-- [Slack - Balancing Old Tricks with New Feats: AI-Powered Conversion From Enzyme to React Testing Library at Slack](https://slack.engineering/balancing-old-tricks-with-new-feats-ai-powered-conversion-from-enzyme-to-react-testing-library-at-slack/)
-
-### Azure
-- [Scott Hanselman - Securing an Azure App Service Website under SSL in minutes with Let's Encrypt](https://www.hanselman.com/blog/securing-an-azure-app-service-website-under-ssl-in-minutes-with-lets-encrypt)
-
-### Elixir
-- [Yevhenii Kurtov - An end-to-end ES/CQRS example with EventStoreDB and Phoenix/LiveView](https://kurtov.pro/blog/2024/06/an-end-to-end-es/cqrs-example-with-eventstoredb-and-phoenix/liveview)
-
-### Java
-- [Jonathan Ellis - Indexing all of Wikipedia, on a laptop](https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/)
-- [Olimpiu Pop - Chicory - a WebAssembly Interpreter Written Purely in Java with Zero Native Dependencies](https://www.infoq.com/news/2024/05/chicory-wasm-java-interpreter)
-
-### .NET
-- [Oskar Dudycz - Setting up NGINX load balancer for .NET WebApi](https://event-driven.io/en/setting_up_nginx_with_aspnet/?utm_source=architecture_weekly)
-- [David Fowler - Replacing WebApplicationFactory dependencies in Aspire integration tests](https://github.com/dotnet/aspire/discussions/878#discussioncomment-9631749)
-- [Brian Gorman - Azure Queueing Messaging and Events](https://github.com/blgorman/AzureQueuingMessagingAndEvents)
-
-### Rust
-- [JetBrains - RustRover Is Released and Includes a Free Non-Commercial Option](https://blog.jetbrains.com/rust/2024/05/21/rustrover-is-released-and-includes-a-free-non-commercial-option/)
-
-### Management
-- [Charity Majors - Generative AI Is Not Going To Build Your Engineering Team For You](https://stackoverflow.blog/2024/06/10/generative-ai-is-not-going-to-build-your-engineering-team-for-you/)
-
-### Industry
-- [Oracle - OpenAI Selects Oracle Cloud Infrastructure to Extend Microsoft Azure AI Platform](https://www.oracle.com/news/announcement/openai-selects-oracle-cloud-infrastructure-to-extend-microsoft-azure-ai-platform-2024-06-11)
-- [Android Authority - Adobe wants to use your work to train its AI, and everyone is mad at it](https://www.androidauthority.com/adobe-terms-update-ai-content-3449332/)
-
-### Security
-- [ProPublica - Microsoft Chose Profit Over Security and Left U.S. Government Vulnerable to Russian Hack, Whistleblower Says](https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers)
-- [noyb - Microsoft violates children’s privacy – but blames your local school](https://noyb.eu/en/microsoft-violates-childrens-privacy-blames-your-local-school)
-
-### Trivia
-- [Hackaday - Homebrew Reader Brings Paper Tape Programs Back To Life](https://hackaday.com/2024/06/15/homebrew-reader-brings-paper-tape-programs-back-to-life/)
-- [Holly Cummins - How to draw when you can’t draw, part i: a growth mindset story](https://hollycummins.com/how-to-draw-part-i/)

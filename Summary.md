@@ -62,6 +62,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Sam Rose - Queueing. An interactive study of queueing strategies](https://encore.dev/blog/queueing)
+- [📺 William Brander - Top 5 techniques for building the worst microservice system ever](https://www.youtube.com/watch?v=88_LUw1Wwe4)
+- [📺 Developer Voices - Reimplementing Apache Kafka with Golang and S3](https://www.youtube.com/watch?v=xgzmxe6cj6A)
+- [Amarachi Iheanacho - Data journey through the Internet - The OSI model approach ](https://dev.to/amaraiheanacho/data-journey-through-the-internet-the-osi-model-approach-1n4a)
 - [Oskar Dudycz - Combining the To-Do List and the Passage Of Time patterns for resilient business workflows](https://event-driven.io/en/to_do_list_and_passage_of_time_patterns_combined/?utm_source=architecture_weekly)
 - [Marc-Andre Giroux - Why, after 8 years, I still like GraphQL sometimes in the right context](https://www.magiroux.com/eight-years-of-graphql)
 - [Matt Bessey - Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
@@ -2008,6 +2012,9 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Awesome DuckDB - A curated list of awesome DuckDB resources](https://github.com/davidgasquez/awesome-duckdb)
+- [Percona - PostgreSQL 17: Two Small Improvements That Will Have a Major Impact](https://www.percona.com/blog/postgresql-17-two-small-improvements-that-will-have-a-major-impact/?trk=feed_main-feed-card_feed-article-content)
+- [📺 TimescaleDB - Fireside chat with AmazingCTO: Why use PostgreSQL for Everything?!](https://www.youtube.com/watch?v=lYsQ_riVC4Y)
 - [Stripe - How Stripe’s document databases supported 99.999% uptime with zero-downtime data migrations](https://stripe.com/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations)
 - [Lukas Fittl - Understanding Postgres GIN Indexes: The Good and the Bad](https://pganalyze.com/blog/gin-index)
 - [Markus Winand - Use the Index, Luke! A Guide to Database Performance for Developers](https://use-the-index-luke.com/)
@@ -2279,6 +2286,8 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [ArsTechnica - Apple unveils “Apple Intelligence” AI features for iOS, iPadOS, and macOS](https://arstechnica.com/information-technology/2024/06/for-apple-ai-now-stands-for-apple-intelligence-launched-at-wwdc-2024/)
+- [Slack - Balancing Old Tricks with New Feats: AI-Powered Conversion From Enzyme to React Testing Library at Slack](https://slack.engineering/balancing-old-tricks-with-new-feats-ai-powered-conversion-from-enzyme-to-react-testing-library-at-slack/)
 - [Reuters - OpenAI strikes deal to bring Reddit content to ChatGPT](https://www.reuters.com/markets/deals/openai-strikes-deal-bring-reddit-content-chatgpt-2024-05-16/)
 - [Slack - How Slack protects your data when using machine learning and AI](https://slack.com/intl/en-gb/blog/news/how-slack-protects-your-data-when-using-machine-learning-and-ai)
 - [The NewYork Times - What Do You Do When A.I. Takes Your Voice?](https://www.nytimes.com/2024/05/16/technology/ai-voice-clone-lawsuit.html)
@@ -2502,6 +2511,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Scott Hanselman - Securing an Azure App Service Website under SSL in minutes with Let's Encrypt](https://www.hanselman.com/blog/securing-an-azure-app-service-website-under-ssl-in-minutes-with-lets-encrypt)
 - [Johnny Hooyberghs - Goodbye Azure Kubernetes Service! Hello Azure Container Apps!](https://www.youtube.com/watch?v=yGrE_yKWo58)
 - [Mateusz Jendza - Entra External ID for Customers - first impression](https://mjendza.net/post/entra-external-id-for-customers/)
 - [Microsoft - Trusted Signing is in Public Preview](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/trusted-signing-is-in-public-preview/ba-p/4103457)
@@ -2596,6 +2606,11 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oskar Dudycz - Setting up NGINX load balancer for .NET WebApi](https://event-driven.io/en/setting_up_nginx_with_aspnet/?utm_source=architecture_weekly)
+- [David Fowler - Replacing WebApplicationFactory dependencies in Aspire integration tests](https://github.com/dotnet/aspire/discussions/878#discussioncomment-9631749)
+- [Brian Gorman - Azure Queueing Messaging and Events](https://github.com/blgorman/AzureQueuingMessagingAndEvents)
+- [Yoh Deadfall - Weakly and strongly typed values in .NET](https://yoh.dev/weakly-and-strongly-typed-values-in-dotnet)
+- [Andrew Lock - Introducing collection expressions in C#12. Behind the scenes of collection expressions - Part 1](https://andrewlock.net/behind-the-scenes-of-collection-expressions-part-1-introducing-collection-expressions-in-csharp12/)
 - [Ian Cooper - Practical Messaging](https://github.com/iancooper/practical-messaging)
 - [Dustin Campbell, Mads Torgersen - What’s new in C# 13](https://www.youtube.com/watch?v=O3hx6oPWzX8)
 - [Tim Deschryver - Consuming .NET Feature Flags within an Angular Application](https://timdeschryver.dev/blog/consuming-net-feature-flags-within-an-angular-application)
@@ -3724,6 +3739,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Charity Majors - Generative AI Is Not Going To Build Your Engineering Team For You](https://stackoverflow.blog/2024/06/10/generative-ai-is-not-going-to-build-your-engineering-team-for-you/)
 - [Christiaan Verwijs - Why Science Is Essential To Professionalize Our Community](https://medium.com/the-liberators/why-science-is-essential-to-professionalize-our-community-e9fe5965258)
 - [Christiaan Verwijs & Daniel Russo -  Do Agile scaling approaches make a difference? an empirical comparison of team effectiveness across popular scaling approaches](https://link.springer.com/article/10.1007/s10664-024-10481-5)
 - [Aleix Morgadas - Awesome Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy)
@@ -3939,6 +3955,8 @@
 - [Brad Frost - The art of design system recipes](https://bradfrost.com/blog/post/the-art-of-design-system-recipes/)]
 
 ## Java
+- [Jonathan Ellis - Indexing all of Wikipedia, on a laptop](https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/)
+- [Olimpiu Pop - Chicory - a WebAssembly Interpreter Written Purely in Java with Zero Native Dependencies](https://www.infoq.com/news/2024/05/chicory-wasm-java-interpreter)
 - [Nicolai Parlog - Model Data, the Whole Data, and Nothing but the Data - Data Oriented Programming v1.1](https://inside.java/2024/05/29/dop-v1-1-model-data/)
 - [Vlad Mihlacea - PostgreSQL COPY result set to file](https://vladmihalcea.com/postgresql-copy-result-set-file/)
 - [Aleksey Stukalov, Catherine Edelveis - Java Runtimes: Insights From the Spring Boot Point of View](https://blog.jetbrains.com/idea/2024/05/java-runtimes-insights-from-the-spring-boot-point-of-view/)
@@ -4103,6 +4121,7 @@
 - [Occurrent - Event Sourcing Utilities for the JVM](https://occurrent.org/)
 
 ## JavaScript
+- [Isaac Junior - A Guide to the Temporal API in JavaScript](https://code.pieces.app/blog/javascript-temporal-api)
 - [Ecma Script Comitee - JavaScript Signals standard proposal](https://github.com/tc39/proposal-signals)
 - [date-fns - Modern JavaScript date utility library](https://github.com/date-fns/date-fns)
 - [Feross Aboukhadijeh - When "Everything" Becomes Too Much: The npm Package Chaos of 2024](https://socket.dev/blog/when-everything-becomes-too-much)
@@ -4272,6 +4291,7 @@
 - [Remote Ruby - Hotwire, Rails NEXT, and the DHH Stack with David Heinemeier Hansson](https://remoteruby.transistor.fm/115)
 
 ## Elixir
+- [Yevhenii Kurtov - An end-to-end ES/CQRS example with EventStoreDB and Phoenix/LiveView](https://kurtov.pro/blog/2024/06/an-end-to-end-es/cqrs-example-with-eventstoredb-and-phoenix/liveview)
 - [Gleam - Gleam version 1. It's finally here!](https://gleam.run/news/gleam-version-1/)
 - [Joe Armstrong - The development of Erlang](https://fermatslibrary.com/s/the-development-of-erlang)
 
@@ -4362,6 +4382,7 @@
 - [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
 
 ## Rust
+- [JetBrains - RustRover Is Released and Includes a Free Non-Commercial Option](https://blog.jetbrains.com/rust/2024/05/21/rustrover-is-released-and-includes-a-free-non-commercial-option/)
 - [Cloudflare - Open sourcing Pingora: our Rust framework for building programmable network services](https://blog.cloudflare.com/pingora-open-source)
 - [Tower - Tower is a library of modular and reusable components for building robust networking clients and servers](https://github.com/tower-rs/tower)
 - [Ratatui - Rust library that's all about cooking up terminal user interfaces (TUIs) ](https://github.com/ratatui-org/ratatui)
@@ -4420,6 +4441,8 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Oracle - OpenAI Selects Oracle Cloud Infrastructure to Extend Microsoft Azure AI Platform](https://www.oracle.com/news/announcement/openai-selects-oracle-cloud-infrastructure-to-extend-microsoft-azure-ai-platform-2024-06-11)
+- [Android Authority - Adobe wants to use your work to train its AI, and everyone is mad at it](https://www.androidauthority.com/adobe-terms-update-ai-content-3449332/)
 - [Robin Dev - Cloudflare took down our website after trying to force us to pay 120k$ within 24h](https://robindev.substack.com/p/cloudflare-took-down-our-website)
 - [VentureBeat - Dell earnings reveal sluggish enterprise AI adoption](https://venturebeat.com/data-infrastructure/dell-earnings-reveal-sluggish-enterprise-ai-adoption/)
 - [TechRadar - EU ChatGPT Taskforce: a road to GDPR enforcement on AI?](https://www.techradar.com/computing/cyber-security/eu-chatgpt-taskforce-a-road-to-gdpr-enforcement-on-ai)
@@ -4921,6 +4944,8 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [ProPublica - Microsoft Chose Profit Over Security and Left U.S. Government Vulnerable to Russian Hack, Whistleblower Says](https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers)
+- [noyb - Microsoft violates children’s privacy – but blames your local school](https://noyb.eu/en/microsoft-violates-childrens-privacy-blames-your-local-school)
 - [Mat Duggan - IAM Is The Worst](https://matduggan.com/iam-is-the-worst/)
 - [Sam Curry - Hacking Millions of Modems (and Investigating Who Hacked My Modem)](https://samcurry.net/hacking-millions-of-modems)
 - [ArsTechnica - Microsoft is reworking Recall after researchers point out its security problems](https://arstechnica.com/gadgets/2024/06/microsoft-makes-recall-feature-off-by-default-after-security-and-privacy-backlash)
@@ -5157,6 +5182,8 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Hackaday - Homebrew Reader Brings Paper Tape Programs Back To Life](https://hackaday.com/2024/06/15/homebrew-reader-brings-paper-tape-programs-back-to-life/)
+- [Holly Cummins - How to draw when you can’t draw, part i: a growth mindset story](https://hollycummins.com/how-to-draw-part-i/)
 - [Gregor Hohpe - The Economics of Writing Technical Books](https://architectelevator.com/strategy/book-author-economics/)
 - [Alex Lawrence - The financial cost of writing a book](https://www.alex-lawrence.com/posts/the-financial-cost-of-writing-a-book/)
 - [Computing: the Details - Call the compiler, fax it your code](https://www.youtube.com/watch?v=pJ-25-pRhpY)
