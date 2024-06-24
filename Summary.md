@@ -62,6 +62,10 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Pierre Pureur, Kurt Bittner - Architectural Trade-Offs: the Art of Minimizing Unhappiness](https://www.infoq.com/articles/trade-offs-minimizing-unhappiness)
+- [Gregor Hohpe - The Many Facets of Coupling](https://www.enterpriseintegrationpatterns.com/ramblings/coupling_facets.html)
+- [📺 Jim Weirich - Connascence Examined](https://www.youtube.com/watch?v=HQXVKHoUQxY)
+- [📺 James Eastham - So You Want to Build An Event Driven System?](https://www.youtube.com/watch?v=qcJASFx-F5g)
 - [Sam Rose - Queueing. An interactive study of queueing strategies](https://encore.dev/blog/queueing)
 - [📺 William Brander - Top 5 techniques for building the worst microservice system ever](https://www.youtube.com/watch?v=88_LUw1Wwe4)
 - [📺 Developer Voices - Reimplementing Apache Kafka with Golang and S3](https://www.youtube.com/watch?v=xgzmxe6cj6A)
@@ -1441,6 +1445,12 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [Oskar Dudycz - How to automatically setup pgAdmin with a Docker database](https://event-driven.io/en/automatically_connect_pgadmin_to_database/?utm_source=architecture_weekly)
+- [Jesse Chen - Improving CI/CD with a Focus on Developer Velocity](https://www.samsara.com/blog/improving-ci-cd-with-a-focus-on-developer-velocity)
+- [Johan Olsson - OpenTelemetry Part 3 - Observability](https://blog.johanol.com/opentelemetry-part-3-observability/)
+- [Clickhouse - Building an Observability Solution with ClickHouse - Part 2 - Traces](https://clickhouse.com/blog/storing-traces-and-spans-open-telemetry-in-clickhouse)
+- [qryn - a fast, thin, all-in-one polyglot observability stack built on top of ClickHouse](https://qryn.metrico.in/)
+- [Nikolay Sivko - You're overpaying for OpenTelemetry's verbosity by at least 30%](https://coroot.com/blog/you-are-overpaying-for-opentelemetry-verbosity)
 - [GitHub - Introducing Artifact Attestations–now in public beta](https://github.blog/2024-05-02-introducing-artifact-attestations-now-in-public-beta/)
 - [Joseph Lynch - How Netflix Ensures Highly-Reliable Online Stateful Systems](https://www.infoq.com/articles/netflix-highly-reliable-stateful-systems/)
 - [Oskar Dudycz - Docker Compose Profiles, one the most useful and underrated features](https://event-driven.io/en/docker_compose_profiles/?utm_source=architecture_weekly)
@@ -1715,6 +1725,9 @@
 - [Álvaro Hernández - Automation to run VMs based on vanilla Cloud Images on Firecracker](https://blog.alexellis.io/containerd-development-multipass)
 
 ## Frontend
+- [Dominik Dorfmeister - React 19 and Suspense - A Drama in 3 Acts](https://tkdodo.eu/blog/react-19-and-suspense-a-drama-in-3-acts)
+- [Nadia Makarevich - I tried React Compiler today, and guess what... 😉](https://www.developerway.com/posts/i-tried-react-compiler)
+- [Carson Gross - htmx sucks](https://htmx.org/essays/htmx-sucks/)
 - [Dan Abramov - React for Two Computers](https://www.youtube.com/watch?v=wcj5LSVcxJc)
 - [Minko Gechev - Angular v18 is now available!](https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe)
 - [Jack Herrington - React Compiler With React 18](https://jherr2020.medium.com/react-compiler-with-react-18-1e39f60ae71a)
@@ -2012,6 +2025,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Manticore Search - Easy to use open source fast database for search](https://github.com/manticoresoftware/manticoresearch/)
 - [Awesome DuckDB - A curated list of awesome DuckDB resources](https://github.com/davidgasquez/awesome-duckdb)
 - [Percona - PostgreSQL 17: Two Small Improvements That Will Have a Major Impact](https://www.percona.com/blog/postgresql-17-two-small-improvements-that-will-have-a-major-impact/?trk=feed_main-feed-card_feed-article-content)
 - [📺 TimescaleDB - Fireside chat with AmazingCTO: Why use PostgreSQL for Everything?!](https://www.youtube.com/watch?v=lYsQ_riVC4Y)
@@ -2286,6 +2300,7 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [Felix GV - Lessons Learned from Building LinkedIn’s AI Data Platform](https://www.infoq.com/presentations/ai-venice)
 - [ArsTechnica - Apple unveils “Apple Intelligence” AI features for iOS, iPadOS, and macOS](https://arstechnica.com/information-technology/2024/06/for-apple-ai-now-stands-for-apple-intelligence-launched-at-wwdc-2024/)
 - [Slack - Balancing Old Tricks with New Feats: AI-Powered Conversion From Enzyme to React Testing Library at Slack](https://slack.engineering/balancing-old-tricks-with-new-feats-ai-powered-conversion-from-enzyme-to-react-testing-library-at-slack/)
 - [Reuters - OpenAI strikes deal to bring Reddit content to ChatGPT](https://www.reuters.com/markets/deals/openai-strikes-deal-bring-reddit-content-chatgpt-2024-05-16/)
@@ -2511,6 +2526,7 @@
 - [Werner Vogels - AWS re:Invent 2021 Keynote](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
 
 ## Azure
+- [Tore Nestenius - DefaultAzureCredentials Under the Hood](https://nestenius.se/2024/04/18/default-azure-credentials-under-the-hood)
 - [Scott Hanselman - Securing an Azure App Service Website under SSL in minutes with Let's Encrypt](https://www.hanselman.com/blog/securing-an-azure-app-service-website-under-ssl-in-minutes-with-lets-encrypt)
 - [Johnny Hooyberghs - Goodbye Azure Kubernetes Service! Hello Azure Container Apps!](https://www.youtube.com/watch?v=yGrE_yKWo58)
 - [Mateusz Jendza - Entra External ID for Customers - first impression](https://mjendza.net/post/entra-external-id-for-customers/)
@@ -2606,6 +2622,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [YoshiMaker - Serializers in IoT: Json.NET and System.Text.Json are Both Terrible!](https://www.youtube.com/watch?v=ZkqcNQifSgI)
+- [📺 Dennis Dietrich - Introduction to unsafe C#: Calling native code and crashing in entirely new ways](https://www.youtube.com/watch?v=aSm8o2EIyvM)
+- [João Antunes - Transactional outbox pattern meets distributed tracing and OpenTelemetry](https://blog.codingmilitia.com/2024/06/17/transactional-outbox-pattern-meets-distributed-tracing-and-opentelemetry/)
+- [Freakout - Just a general outbox thing](https://github.com/rebus-org/Freakout)
 - [Oskar Dudycz - Setting up NGINX load balancer for .NET WebApi](https://event-driven.io/en/setting_up_nginx_with_aspnet/?utm_source=architecture_weekly)
 - [David Fowler - Replacing WebApplicationFactory dependencies in Aspire integration tests](https://github.com/dotnet/aspire/discussions/878#discussioncomment-9631749)
 - [Brian Gorman - Azure Queueing Messaging and Events](https://github.com/blgorman/AzureQueuingMessagingAndEvents)
@@ -3423,6 +3443,7 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
+- [📺 Katie Bell - Don't Trust Anything! Real-world Uses For WebAssembly](https://www.youtube.com/watch?v=aSm8o2EIyvM)
 - [📺 Ryan Levick - Deconstructing WebAssembly Components](https://www.youtube.com/watch?v=zqfF7Ssa2QI)
 - [Bytecode Alliance - Announcing Jco 1.0](https://bytecodealliance.org/articles/jco-1.0)
 - [Google - WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome](https://developer.chrome.com/blog/wasmgc/)
@@ -3955,6 +3976,7 @@
 - [Brad Frost - The art of design system recipes](https://bradfrost.com/blog/post/the-art-of-design-system-recipes/)]
 
 ## Java
+- [Venkat Subramniam, Josh Long - What's Looming in Spring?](https://www.youtube.com/watch?v=-t2O1UDwXlM)
 - [Jonathan Ellis - Indexing all of Wikipedia, on a laptop](https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/)
 - [Olimpiu Pop - Chicory - a WebAssembly Interpreter Written Purely in Java with Zero Native Dependencies](https://www.infoq.com/news/2024/05/chicory-wasm-java-interpreter)
 - [Nicolai Parlog - Model Data, the Whole Data, and Nothing but the Data - Data Oriented Programming v1.1](https://inside.java/2024/05/29/dop-v1-1-model-data/)
@@ -4301,6 +4323,7 @@
 - [Simon Peyton Jones - Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ&feature=youtu.be)
 
 ## Go
+- [Miłosz Smółka - Live website updates with Go, SSE, and htmx](https://threedots.tech/post/live-website-updates-go-sse-htmx/)
 - [Mat Ryer - How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
 - [Miłosz Smółka - Making Games in Go for Absolute Beginners](https://threedots.tech/post/making-games-in-go/)
 - [The Go Blog - Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
@@ -4944,6 +4967,9 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Wired - Hackers Detail How They Allegedly Stole Ticketmaster Data From Snowflake](https://www.wired.com/story/epam-snowflake-ticketmaster-breach-shinyhunters/)
+- [EPAM - Response to Hacker Misinformation Regarding Data Breach](https://www.epam.com/epam-response-to-hacker-misinformation-regarding-data-breach)
+- [Mandiant - UNC5537 Targets Snowflake Customer Instances for Data Theft and Extortion](https://cloud.google.com/blog/topics/threat-intelligence/unc5537-snowflake-data-theft-extortion)
 - [ProPublica - Microsoft Chose Profit Over Security and Left U.S. Government Vulnerable to Russian Hack, Whistleblower Says](https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers)
 - [noyb - Microsoft violates children’s privacy – but blames your local school](https://noyb.eu/en/microsoft-violates-childrens-privacy-blames-your-local-school)
 - [Mat Duggan - IAM Is The Worst](https://matduggan.com/iam-is-the-worst/)
@@ -5182,6 +5208,7 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Dan Luu - How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/)
 - [Hackaday - Homebrew Reader Brings Paper Tape Programs Back To Life](https://hackaday.com/2024/06/15/homebrew-reader-brings-paper-tape-programs-back-to-life/)
 - [Holly Cummins - How to draw when you can’t draw, part i: a growth mindset story](https://hollycummins.com/how-to-draw-part-i/)
 - [Gregor Hohpe - The Economics of Writing Technical Books](https://architectelevator.com/strategy/book-author-economics/)
