@@ -3443,7 +3443,7 @@
 - [Microsoft .NET Devs Anonymously Responds to Microsoft .NET Leadership](https://pastebin.com/RF6015kv)
 
 ### WebAssembly
-- [📺 Katie Bell - Don't Trust Anything! Real-world Uses For WebAssembly](https://www.youtube.com/watch?v=aSm8o2EIyvM)
+- [📺 Katie Bell - Don't Trust Anything! Real-world Uses For WebAssembly](https://youtu.be/zhVzWo6cdBM)
 - [📺 Ryan Levick - Deconstructing WebAssembly Components](https://www.youtube.com/watch?v=zqfF7Ssa2QI)
 - [Bytecode Alliance - Announcing Jco 1.0](https://bytecodealliance.org/articles/jco-1.0)
 - [Google - WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome](https://developer.chrome.com/blog/wasmgc/)
