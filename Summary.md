@@ -62,6 +62,12 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Simon Brown - Misconceptions, misuses, and mistakes](https://static.simonbrown.je/devbcn2024-c4-model-misconceptions-misuses-mistakes.pdf)
+- [Indu Alagarsamy - Document your product and software architecture decisions. ](https://domainanalysis.io/p/document-your-product-and-software)
+- [Loïc Carr - Falsehoods Software Developers Believe About Event-Driven Systems](https://dimtion.fr/blog/falsehoods-event-driven/)
+- [Uber - Modernizing Uber’s Batch Data Infrastructure with Google Cloud Platform](https://www.uber.com/en-AU/blog/modernizing-ubers-data-infrastructure-with-gcp/)
+- [Michael Staib - Why you should consider using persisted queries with GraphQL](https://www.youtube.com/watch?v=ZZ5PF3_P_r4)
+- [Gregor Hohpe - Old Books that Every Architect Should Read](https://architectelevator.com/architecture/classic-architecture-books/)
 - [Pierre Pureur, Kurt Bittner - Architectural Trade-Offs: the Art of Minimizing Unhappiness](https://www.infoq.com/articles/trade-offs-minimizing-unhappiness)
 - [Gregor Hohpe - The Many Facets of Coupling](https://www.enterpriseintegrationpatterns.com/ramblings/coupling_facets.html)
 - [📺 Jim Weirich - Connascence Examined](https://www.youtube.com/watch?v=HQXVKHoUQxY)
@@ -1445,6 +1451,8 @@
 - [ZDNet - Google: Here's what caused our big global outage](https://www.zdnet.com/article/google-heres-what-caused-our-big-global-outage/)
 
 ## DevOps
+- [DataDog - State of Cloud Costs](https://www.datadoghq.com/state-of-cloud-costs/)
+- [RKE2 - Rancher's next-generation Kubernetes distribution](https://docs.rke2.io/)
 - [Oskar Dudycz - How to automatically setup pgAdmin with a Docker database](https://event-driven.io/en/automatically_connect_pgadmin_to_database/?utm_source=architecture_weekly)
 - [Jesse Chen - Improving CI/CD with a Focus on Developer Velocity](https://www.samsara.com/blog/improving-ci-cd-with-a-focus-on-developer-velocity)
 - [Johan Olsson - OpenTelemetry Part 3 - Observability](https://blog.johanol.com/opentelemetry-part-3-observability/)
@@ -2025,6 +2033,8 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [Oskar Dudycz - Filtering EventStoreDB subscriptions by event types](https://event-driven.io/en/filtering_eventstoredb_subscriptions_by_event_types/?utm_source=architecture_weekly)
+- [F. Cardeneti Mendes, P. Sarna, P. Emelyanov, C. Dunlop - Database Performance at Scale](https://link.springer.com/book/10.1007/978-1-4842-9711-7)
 - [Manticore Search - Easy to use open source fast database for search](https://github.com/manticoresoftware/manticoresearch/)
 - [Awesome DuckDB - A curated list of awesome DuckDB resources](https://github.com/davidgasquez/awesome-duckdb)
 - [Percona - PostgreSQL 17: Two Small Improvements That Will Have a Major Impact](https://www.percona.com/blog/postgresql-17-two-small-improvements-that-will-have-a-major-impact/?trk=feed_main-feed-card_feed-article-content)
@@ -2300,6 +2310,9 @@
 - [Gin Bai - Unveiling the Benefits of Causal Inference in Measuring Advertisement Impact](https://medium.com/ssense-tech/unveiling-the-benefits-of-causal-inference-in-measuring-advertisement-impact-b1fdcf354d74)
 
 ## AI
+- [Kaan Can Fidan - How Event Sourcing Can Power Machine Learning](https://www.eventstore.com/blog/how-event-sourcing-can-power-machine-learning)
+- [Ian Cooper - Is AI a Silver Bullet?](https://ian-cooper.writeas.com/is-ai-a-silver-bullet)
+- [Firefox - Choose how you want to navigate the web with Firefox](https://blog.mozilla.org/en/products/firefox/firefox-news/ai-services-on-firefox/)
 - [Felix GV - Lessons Learned from Building LinkedIn’s AI Data Platform](https://www.infoq.com/presentations/ai-venice)
 - [ArsTechnica - Apple unveils “Apple Intelligence” AI features for iOS, iPadOS, and macOS](https://arstechnica.com/information-technology/2024/06/for-apple-ai-now-stands-for-apple-intelligence-launched-at-wwdc-2024/)
 - [Slack - Balancing Old Tricks with New Feats: AI-Powered Conversion From Enzyme to React Testing Library at Slack](https://slack.engineering/balancing-old-tricks-with-new-feats-ai-powered-conversion-from-enzyme-to-react-testing-library-at-slack/)
@@ -2464,6 +2477,7 @@
 - [InfoQ - OpenAI Announces GPT-3 Model for Image Generation](https://www.infoq.com/news/2021/02/openai-gpt-image/)
 
 ## AWS
+- [Tejas Mane - AWS Bastion Host: Secure Remote Access to Your Private Instances](https://medium.com/@tejasmane485/aws-bastion-host-secure-remote-access-to-your-private-instances-7012a5a74fb3)
 - [AWS Database Blog - Continuously replicate Amazon DynamoDB changes to Amazon Aurora PostgreSQL using AWS Lambda](https://aws.amazon.com/blogs/database/continuously-replicate-amazon-dynamodb-changes-to-amazon-aurora-postgresql-using-aws-lambda)
 - [Saurabh Sharma, Jordan Rosenbloom - Event Driven Architecture using Amazon EventBridge – Part 1](https://aws.amazon.com/blogs/mt/event-driven-architecture-using-amazon-eventbridge/)
 - [AWS - Improving Developer Productivity at Disney with Serverless and Open Source](https://aws.amazon.com/blogs/opensource/improving-developer-productivity-at-disney-with-serverless-and-open-source/)
@@ -2622,6 +2636,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [linux-dev-certs - global tool that creates and installs a developer certificate on Linux](https://github.com/tmds/linux-dev-certs)
+- [Microsoft - Announcement: Swashbuckle.AspNetCore is being removed in .NET 9](https://github.com/dotnet/aspnetcore/issues/54599)
+- [David Fowler - "Eventing framework" postponed and won't be a part of .NET 9](https://github.com/dotnet/aspnetcore/issues/53219#issuecomment-2190387556)
+- [Oren Eini - Building a Database Engine in C# & .NET](https://www.youtube.com/watch?v=4TqR8yVVjV4)
 - [YoshiMaker - Serializers in IoT: Json.NET and System.Text.Json are Both Terrible!](https://www.youtube.com/watch?v=ZkqcNQifSgI)
 - [📺 Dennis Dietrich - Introduction to unsafe C#: Calling native code and crashing in entirely new ways](https://www.youtube.com/watch?v=aSm8o2EIyvM)
 - [João Antunes - Transactional outbox pattern meets distributed tracing and OpenTelemetry](https://blog.codingmilitia.com/2024/06/17/transactional-outbox-pattern-meets-distributed-tracing-and-opentelemetry/)
@@ -3476,6 +3494,9 @@
 - [IBM - Why using WebAssembly and Rust together improves Node.js performance](https://developer.ibm.com/technologies/web-development/articles/why-webassembly-and-rust-together-improve-nodejs-performance/)
 
 ## Coding Life
+- [Nat Bennett - Don't be results-oriented](https://www.simplermachines.com/dont-be-results-oriented/)
+- [Tyler Sticka - Burned by My Own Hot Take](https://tylersticka.com/journal/burned-by-my-own-hot-take/)
+- [Rich Hickey - Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
 - [ArsTechnica - Google accidentally published internal Search documentation to GitHub](https://arstechnica.com/gadgets/2024/06/google-accidentally-published-internal-search-documentation-to-github)
 - [Mark Seemann - Fundamentals](https://blog.ploeh.dk/2024/05/20/fundamentals)
 - [📺 Natan Silnitsky - Supercharge Your Developer Journey with Tiny Atomic Habits](https://www.youtube.com/watch?v=WvRWQGCo5Cg)
@@ -4464,6 +4485,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Ecosyste.ms - provides a set of free and open resources for those working to sustain and secure open source software](https://ecosyste.ms/)
+- [PC World - Microsoft blocks Windows 11 workaround that enabled local accounts](https://www.pcworld.com/article/2354686/microsoft-blocks-windows-11-workaround-local-accounts.html)
+- [ArsTechnica - Internet Archive forced to remove 500,000 books after publishers’ court win](https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/)
 - [Oracle - OpenAI Selects Oracle Cloud Infrastructure to Extend Microsoft Azure AI Platform](https://www.oracle.com/news/announcement/openai-selects-oracle-cloud-infrastructure-to-extend-microsoft-azure-ai-platform-2024-06-11)
 - [Android Authority - Adobe wants to use your work to train its AI, and everyone is mad at it](https://www.androidauthority.com/adobe-terms-update-ai-content-3449332/)
 - [Robin Dev - Cloudflare took down our website after trying to force us to pay 120k$ within 24h](https://robindev.substack.com/p/cloudflare-took-down-our-website)
@@ -4967,6 +4991,11 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Sansec - Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
+- [Bleeping Computer - Polyfill.io, BootCDN, Bootcss, Staticfile attack traced to 1 operator](https://www.bleepingcomputer.com/news/security/polyfillio-bootcdn-bootcss-staticfile-attack-traced-to-1-operator/)
+- [The Cloudflare Blog - Automatically replacing polyfill.io links with Cloudflare’s mirror for a safer Internet](https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet)
+- [The Register - Polyfill.io owner punches back at 'malicious defamation' amid domain shutdown](https://www.theregister.com/2024/06/28/polyfillio_cloudflare_malware/)
+- [Guardian - NHS patients affected by cyber-attack may face six-month wait for blood test](https://www.theguardian.com/society/article/2024/jun/23/nhs-patients-cyber-attack-qilin-six-month-wait-blood-test?CMP=Share_iOSApp_Other)
 - [Wired - Hackers Detail How They Allegedly Stole Ticketmaster Data From Snowflake](https://www.wired.com/story/epam-snowflake-ticketmaster-breach-shinyhunters/)
 - [EPAM - Response to Hacker Misinformation Regarding Data Breach](https://www.epam.com/epam-response-to-hacker-misinformation-regarding-data-breach)
 - [Mandiant - UNC5537 Targets Snowflake Customer Instances for Data Theft and Extortion](https://cloud.google.com/blog/topics/threat-intelligence/unc5537-snowflake-data-theft-extortion)
@@ -5208,6 +5237,8 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [Adam Savage - Avoid These Words (And Not Just at Work)](https://www.youtube.com/watch?v=OP4CKn86qGY)
+- [Berta And Butterflies - "Game & Watch" like game for the Atari 2600 ](https://github.com/vandalton/BertaAndButterflies)
 - [Dan Luu - How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/)
 - [Hackaday - Homebrew Reader Brings Paper Tape Programs Back To Life](https://hackaday.com/2024/06/15/homebrew-reader-brings-paper-tape-programs-back-to-life/)
 - [Holly Cummins - How to draw when you can’t draw, part i: a growth mindset story](https://hollycummins.com/how-to-draw-part-i/)
