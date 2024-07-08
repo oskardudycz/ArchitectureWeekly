@@ -62,6 +62,13 @@
   - [Trivia](#trivia)
 
 ## Architecture
+- [Michał Kosmulski - Ten Years and Counting: My Affair with Microservices](https://blog.allegro.tech/2024/04/ten-years-microservices.html)
+- [David Cramer - The Problem with OpenTelemetry](https://cra.mr/the-problem-with-otel)
+- [Google web.dev blog - Why Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc)
+- [Sindhu Pillai, Gregor Hohpe - Refactoring to Serverless: From Application to Automation](https://aws.amazon.com/blogs/devops/refactoring-to-serverless-from-application-to-automation/)
+- [Yan Cui - I’m sorry, but the way you adopt serverless is wrong](https://theburningmonk.com/2024/07/im-sorry-but-the-way-you-adopt-serverless-is-wrong)
+- [Sheen Brisals - The Set Piece Strategy: Tackling Complexity in Serverless Applications](https://www.infoq.com/articles/set-piece-strategy-sheen-brisals/)
+- [Matt Wynne - The Iceberg Model: towards unraveling our patriarchal legacy](https://www.mechanical-orchard.com/insights/the-iceberg-model-towards-unraveling-our-patriarchal-legacy)
 - [Simon Brown - Misconceptions, misuses, and mistakes](https://static.simonbrown.je/devbcn2024-c4-model-misconceptions-misuses-mistakes.pdf)
 - [Indu Alagarsamy - Document your product and software architecture decisions. ](https://domainanalysis.io/p/document-your-product-and-software)
 - [Loïc Carr - Falsehoods Software Developers Believe About Event-Driven Systems](https://dimtion.fr/blog/falsehoods-event-driven/)
@@ -1885,6 +1892,7 @@
 - [Gergely Orosz - 33 Engineering Challenges of Building Mobile Apps at Scale eBook & Other Learnings](https://gumroad.com/l/IuuuN)
 
 ## Performance
+- [Denis Bakhvalov - The book "Performance Analysis and Tuning on Modern CPU"](https://github.com/dendibakh/perf-book)
 - [MIT - Performance Engineering of Software Systems Course](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/download/)
 - [Daniel Lemire - For software performance, can you always trust inlining?](https://lemire.me/blog/2021/10/09/for-software-performance-can-you-always-trust-inlining/)
 - [PVS-Studio: C++ is faster and safer than Rust: benchmarked by Yandex](https://pvs-studio.com/en/blog/posts/0733/)
@@ -1896,6 +1904,7 @@
 - [Robert Nystorm - Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Testing
+- [Kent Beck - TDD is Not Hill Climbing](https://tidyfirst.substack.com/p/tdd-is-not-hill-climbing)
 - [smtp4dev - the fake smtp email server for development and testing](https://github.com/rnwood/smtp4dev)
 - [Matteo Vaccari - Test-Driving HTML Templates](https://martinfowler.com/articles/tdd-html-templates.html)
 - [Emily Bache - I REGRET Not Telling Dave Farley THIS about Approval Testing](https://github.blog/changelog/2024-05-13-dependabot-core-is-now-open-source-with-an-mit-license/)
@@ -2033,6 +2042,7 @@
 - [Postman - 2020 State of the API Report](https://www.postman.com/state-of-api)
 
 ## Databases
+- [pgcli - Postgres CLI with autocompletion and syntax highlighting ](https://github.com/dbcli/pgcli)
 - [Oskar Dudycz - Filtering EventStoreDB subscriptions by event types](https://event-driven.io/en/filtering_eventstoredb_subscriptions_by_event_types/?utm_source=architecture_weekly)
 - [F. Cardeneti Mendes, P. Sarna, P. Emelyanov, C. Dunlop - Database Performance at Scale](https://link.springer.com/book/10.1007/978-1-4842-9711-7)
 - [Manticore Search - Easy to use open source fast database for search](https://github.com/manticoresoftware/manticoresearch/)
@@ -2636,6 +2646,10 @@
 - [Michael Snoyman - Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/)
 
 ## .NET
+- [Oren Eini - Cloned Dictionary vs. Immutable Dictionary vs. Frozen Dictionary in high traffic systems](https://ayende.com/blog/201314-B/cloned-dictionary-vs-immutable-dictionary-vs-frozen-dictionary-in-high-traffic-systems)
+- [NDepend Blog - Readonly, Immutable, and Frozen Collections in .NET](https://blog.ndepend.com/readonly-immutable-and-frozen-collections-in-net/)
+- [Mark Seemann - An immutable priority collection](https://blog.ploeh.dk/2024/07/01/an-immutable-priority-collection/)
+- [Andrew Lock - Exploring the generated code: List<T> and fallback cases](https://andrewlock.net/behind-the-scenes-of-collection-expressions-part-2-exploring-the-generated-code-list-and-fallback-cases/)
 - [linux-dev-certs - global tool that creates and installs a developer certificate on Linux](https://github.com/tmds/linux-dev-certs)
 - [Microsoft - Announcement: Swashbuckle.AspNetCore is being removed in .NET 9](https://github.com/dotnet/aspnetcore/issues/54599)
 - [David Fowler - "Eventing framework" postponed and won't be a part of .NET 9](https://github.com/dotnet/aspnetcore/issues/53219#issuecomment-2190387556)
@@ -3781,6 +3795,7 @@
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 ## Management
+- [Daniel S. Katz - How groups can immediately benefit when new members join](https://danielskatzblog.wordpress.com/2022/10/31/new-group-members/)
 - [Charity Majors - Generative AI Is Not Going To Build Your Engineering Team For You](https://stackoverflow.blog/2024/06/10/generative-ai-is-not-going-to-build-your-engineering-team-for-you/)
 - [Christiaan Verwijs - Why Science Is Essential To Professionalize Our Community](https://medium.com/the-liberators/why-science-is-essential-to-professionalize-our-community-e9fe5965258)
 - [Christiaan Verwijs & Daniel Russo -  Do Agile scaling approaches make a difference? an empirical comparison of team effectiveness across popular scaling approaches](https://link.springer.com/article/10.1007/s10664-024-10481-5)
@@ -4207,6 +4222,7 @@
 - [Gary Bernhardt - Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## TypeScript
+- [Alexey Berezin - Extract object type with optional fields in TypeScript](https://blog.beraliv.dev/2021-12-07-get-optional)
 - [📺 John A. De Goes - Why Effect is more important than ZIO](https://www.youtube.com/watch?v=Ei6VTwhI8QQ)
 - [Oskar Dudycz - How to build an in-memory Message Bus in TypeScript](https://event-driven.io/en/inmemory_message_bus_in_typescript/?utm_source=architecture_weekly)
 - [Testing Signals with Angular Testing Library](https://timdeschryver.dev/blog/testing-signals-with-angular-testing-library)
@@ -4255,6 +4271,9 @@
 - [Giorgio Delgado - Type-Safe Error Handling In TypeScript ](https://dev.to/_gdelgado/type-safe-error-handling-in-typescript-1p4n)
 
 ## Node.js
+- [Pongo - Mongo but on Postgres and with strong consistency benefits](https://github.com/event-driven-io/Pongo)
+- [Oskar Dudycz - Introduction to Pongo](https://event-driven.io/en/introducting_pongo/)
+- [Matteo Collina - Do not thrash the Node js event loop](https://www.youtube.com/watch?v=VI29mUA8n9w)
 - [Streams - Living Standard](https://streams.spec.whatwg.org/)
 - [📺 Matteo Collina - A Deep Dive into Node.js Streams](https://www.youtube.com/watch?v=edB964-YYpE)
 - [web-streams-polyfill - Web Streams, based on the WHATWG spec reference implementation](https://github.com/MattiasBuelens/web-streams-polyfill)
@@ -4426,6 +4445,7 @@
 - [Piotr Podgórski - Event sourcing with Python](https://www.youtube.com/watch?v=cxad9dw2OpM)
 
 ## Rust
+- [Austin Starks - I spent 18 months rebuilding my algorithmic trading platform in Rust. I’m filled with regret.](https://medium.com/@austin-starks/i-spent-18-months-rebuilding-my-algorithmic-trading-in-rust-im-filled-with-regret-d300dcc147e0)
 - [JetBrains - RustRover Is Released and Includes a Free Non-Commercial Option](https://blog.jetbrains.com/rust/2024/05/21/rustrover-is-released-and-includes-a-free-non-commercial-option/)
 - [Cloudflare - Open sourcing Pingora: our Rust framework for building programmable network services](https://blog.cloudflare.com/pingora-open-source)
 - [Tower - Tower is a library of modular and reusable components for building robust networking clients and servers](https://github.com/tower-rs/tower)
@@ -4485,6 +4505,9 @@
 - [Marius Schulz - Implementing a Custom Forward Pipe Operator for Function Chains in Swift](https://mariusschulz.com/blog/implementing-a-custom-forward-pipe-operator-for-function-chains-in-swift)
 
 ## Industry
+- [Goldman Sachs - Gen AI: Too Much Spend, Too Little Benefit?](https://www.goldmansachs.com/intelligence/pages/gs-research/gen-ai-too-much-spend-too-little-benefit/report.pdf)
+- [Sequoia - AI’s $600B Question](https://www.sequoiacap.com/article/ais-600b-question/ )
+- [The Verge - Microsoft’s AI boss thinks it’s perfectly okay to steal content if it’s on the open web](https://www.theverge.com/2024/6/28/24188391/microsoft-ai-suleyman-social-contract-freeware)
 - [Ecosyste.ms - provides a set of free and open resources for those working to sustain and secure open source software](https://ecosyste.ms/)
 - [PC World - Microsoft blocks Windows 11 workaround that enabled local accounts](https://www.pcworld.com/article/2354686/microsoft-blocks-windows-11-workaround-local-accounts.html)
 - [ArsTechnica - Internet Archive forced to remove 500,000 books after publishers’ court win](https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/)
@@ -4890,6 +4913,8 @@
 - [Dave's Garage - Why Are Windows Blue Screens Blue? Find out!](https://www.youtube.com/watch?v=KgqJJECQQH0)
 
 ## Tools
+- [Chris Wanstrath - Why we need Ladybird](https://ladybird.org/why-ladybird/)
+- [Git Immersion - A guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.](https://gitimmersion.com/)
 - [Gorilla CLI - LLMs for your CLI . Powers your command-line interactions with a user-centric tool](https://github.com/gorilla-llm/gorilla-cli)
 - [VSCode - Using WebAssembly for Extension Development](https://code.visualstudio.com/blogs/2024/05/08/wasm)
 - [rebase-editor - Simple terminal based sequence editor for git interactive rebase](https://github.com/sjurba/rebase-editor)
@@ -4991,6 +5016,7 @@
 - [Nader Dabit - 11 Beautiful VS Code Themes for 2021](https://dabit3.hashnode.dev/11-beautiful-vs-code-themes-for-2021-ckiaxv7w303f5pqs1a8px3g7d)
 
 ## Security
+- [Taylor Beseda - WebAuthn: Enhancing Security with Minimal Effort](https://begin.com/blog/posts/2024-07-02-webauthn-with-arc)
 - [Sansec - Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
 - [Bleeping Computer - Polyfill.io, BootCDN, Bootcss, Staticfile attack traced to 1 operator](https://www.bleepingcomputer.com/news/security/polyfillio-bootcdn-bootcss-staticfile-attack-traced-to-1-operator/)
 - [The Cloudflare Blog - Automatically replacing polyfill.io links with Cloudflare’s mirror for a safer Internet](https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet)
@@ -5237,6 +5263,8 @@
 - [Pablo Cibraro - 101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 
 ## Trivia
+- [ArsTechnica - Japan wins 2-year “war on floppy disks,” kills regulations requiring old tech](https://arstechnica.com/gadgets/2024/07/japans-government-finally-exits-90s-ends-floppy-disk-use)
+- [Jimb Esser - Regex crossword](https://jimbly.github.io/regex-crossword/)
 - [Adam Savage - Avoid These Words (And Not Just at Work)](https://www.youtube.com/watch?v=OP4CKn86qGY)
 - [Berta And Butterflies - "Game & Watch" like game for the Atari 2600 ](https://github.com/vandalton/BertaAndButterflies)
 - [Dan Luu - How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/)
