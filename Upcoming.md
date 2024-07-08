@@ -1,6 +1,6 @@
 # Upcoming Links
 
-## 1st July 2024
+## 8th July 2024
 
 **[Join the Paid Subscribers community to get access to exclusive webinars and a Discord channel where you can meet fellow Architects.](https://www.architecture-weekly.com/p/whats-architecture-weekly)**
 
@@ -9,3 +9,52 @@ Ukraine is still under brutal Russian invasion. A lot of Ukrainian people are hu
 ---
 
 ### Architecture
+- [Michał Kosmulski - Ten Years and Counting: My Affair with Microservices](https://blog.allegro.tech/2024/04/ten-years-microservices.html)
+- [David Cramer - The Problem with OpenTelemetry](https://cra.mr/the-problem-with-otel)
+- [Google web.dev blog - Why Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc)
+- [Sindhu Pillai, Gregor Hohpe - Refactoring to Serverless: From Application to Automation](https://aws.amazon.com/blogs/devops/refactoring-to-serverless-from-application-to-automation/)
+- [Yan Cui - I’m sorry, but the way you adopt serverless is wrong](https://theburningmonk.com/2024/07/im-sorry-but-the-way-you-adopt-serverless-is-wrong)
+- [Sheen Brisals - The Set Piece Strategy: Tackling Complexity in Serverless Applications](https://www.infoq.com/articles/set-piece-strategy-sheen-brisals/)
+- [Matt Wynne - The Iceberg Model: towards unraveling our patriarchal legacy](https://www.mechanical-orchard.com/insights/the-iceberg-model-towards-unraveling-our-patriarchal-legacy)
+
+### Databases
+- [pgcli - Postgres CLI with autocompletion and syntax highlighting ](https://github.com/dbcli/pgcli)
+
+### Testing
+- [Kent Beck - TDD is Not Hill Climbing](https://tidyfirst.substack.com/p/tdd-is-not-hill-climbing)
+
+### .NET
+- []()
+
+### Node.js
+- [Pongo - Mongo but on Postgres and with strong consistency benefits](https://github.com/event-driven-io/Pongo)
+- [Oskar Dudycz - Introduction to Pongo](https://event-driven.io/en/introducting_pongo/)
+- [Matteo Collina - Do not thrash the Node js event loop](https://www.youtube.com/watch?v=VI29mUA8n9w)
+
+### Rust
+- [Austin Starks - I spent 18 months rebuilding my algorithmic trading platform in Rust. I’m filled with regret.](https://medium.com/@austin-starks/i-spent-18-months-rebuilding-my-algorithmic-trading-in-rust-im-filled-with-regret-d300dcc147e0)
+
+### TypeScript
+- [Alexey Berezin - Extract object type with optional fields in TypeScript](https://blog.beraliv.dev/2021-12-07-get-optional)
+
+### Performance
+- [Denis Bakhvalov - The book "Performance Analysis and Tuning on Modern CPU"](https://github.com/dendibakh/perf-book)
+
+### Tools
+- [Chris Wanstrath - Why we need Ladybird](https://ladybird.org/why-ladybird/)
+- [Git Immersion - A guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.](https://gitimmersion.com/)
+
+### Management
+- [Daniel S. Katz - How groups can immediately benefit when new members join](https://danielskatzblog.wordpress.com/2022/10/31/new-group-members/)
+
+### Industry
+- [Goldman Sachs - Gen AI: Too Much Spend, Too Little Benefit?](https://www.goldmansachs.com/intelligence/pages/gs-research/gen-ai-too-much-spend-too-little-benefit/report.pdf)
+- [Sequoia - AI’s $600B Question](https://www.sequoiacap.com/article/ais-600b-question/ )
+- [The Verge - Microsoft’s AI boss thinks it’s perfectly okay to steal content if it’s on the open web](https://www.theverge.com/2024/6/28/24188391/microsoft-ai-suleyman-social-contract-freeware)
+
+### Security
+- [Taylor Beseda - WebAuthn: Enhancing Security with Minimal Effort](https://begin.com/blog/posts/2024-07-02-webauthn-with-arc)
+
+### Trivia
+- [ArsTechnica - Japan wins 2-year “war on floppy disks,” kills regulations requiring old tech](https://arstechnica.com/gadgets/2024/07/japans-government-finally-exits-90s-ends-floppy-disk-use)
+- [Jimb Esser - Regex crossword](https://jimbly.github.io/regex-crossword/)
